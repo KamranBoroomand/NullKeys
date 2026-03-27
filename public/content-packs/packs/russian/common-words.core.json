@@ -1,0 +1,3641 @@
+{
+  "packId": "russian:common-words:core",
+  "languageId": "russian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 725,
+  "stages": {
+    "foundational": [
+      {
+        "token": "ритм",
+        "signature": "имрт",
+        "length": 4
+      },
+      {
+        "token": "темп",
+        "signature": "емпт",
+        "length": 4
+      },
+      {
+        "token": "строка",
+        "signature": "акорст",
+        "length": 6
+      },
+      {
+        "token": "слово",
+        "signature": "влос",
+        "length": 5
+      },
+      {
+        "token": "пауза",
+        "signature": "азпу",
+        "length": 5
+      },
+      {
+        "token": "взгляд",
+        "signature": "вгдзля",
+        "length": 6
+      },
+      {
+        "token": "рука",
+        "signature": "акру",
+        "length": 4
+      },
+      {
+        "token": "буква",
+        "signature": "абвку",
+        "length": 5
+      },
+      {
+        "token": "урок",
+        "signature": "кору",
+        "length": 4
+      },
+      {
+        "token": "ход",
+        "signature": "дох",
+        "length": 3
+      },
+      {
+        "token": "опора",
+        "signature": "аопр",
+        "length": 5
+      },
+      {
+        "token": "знак",
+        "signature": "азкн",
+        "length": 4
+      },
+      {
+        "token": "точка",
+        "signature": "акотч",
+        "length": 5
+      },
+      {
+        "token": "мост",
+        "signature": "мост",
+        "length": 4
+      },
+      {
+        "token": "шаг",
+        "signature": "агш",
+        "length": 3
+      },
+      {
+        "token": "линия",
+        "signature": "илня",
+        "length": 5
+      },
+      {
+        "token": "текст",
+        "signature": "екст",
+        "length": 5
+      },
+      {
+        "token": "мысль",
+        "signature": "лмсыь",
+        "length": 5
+      },
+      {
+        "token": "не",
+        "signature": "ен",
+        "length": 2
+      },
+      {
+        "token": "на",
+        "signature": "ан",
+        "length": 2
+      },
+      {
+        "token": "быть",
+        "signature": "бтыь",
+        "length": 4
+      },
+      {
+        "token": "он",
+        "signature": "но",
+        "length": 2
+      },
+      {
+        "token": "по",
+        "signature": "оп",
+        "length": 2
+      },
+      {
+        "token": "это",
+        "signature": "отэ",
+        "length": 3
+      },
+      {
+        "token": "она",
+        "signature": "ано",
+        "length": 3
+      },
+      {
+        "token": "этот",
+        "signature": "отэ",
+        "length": 4
+      },
+      {
+        "token": "они",
+        "signature": "ино",
+        "length": 3
+      },
+      {
+        "token": "мы",
+        "signature": "мы",
+        "length": 2
+      },
+      {
+        "token": "как",
+        "signature": "ак",
+        "length": 3
+      },
+      {
+        "token": "из",
+        "signature": "зи",
+        "length": 2
+      },
+      {
+        "token": "который",
+        "signature": "йкорты",
+        "length": 7
+      },
+      {
+        "token": "то",
+        "signature": "от",
+        "length": 2
+      },
+      {
+        "token": "за",
+        "signature": "аз",
+        "length": 2
+      },
+      {
+        "token": "свой",
+        "signature": "вйос",
+        "length": 4
+      },
+      {
+        "token": "что",
+        "signature": "отч",
+        "length": 3
+      },
+      {
+        "token": "весь",
+        "signature": "весь",
+        "length": 4
+      },
+      {
+        "token": "год",
+        "signature": "гдо",
+        "length": 3
+      },
+      {
+        "token": "от",
+        "signature": "от",
+        "length": 2
+      },
+      {
+        "token": "так",
+        "signature": "акт",
+        "length": 3
+      },
+      {
+        "token": "для",
+        "signature": "для",
+        "length": 3
+      },
+      {
+        "token": "ты",
+        "signature": "ты",
+        "length": 2
+      },
+      {
+        "token": "все",
+        "signature": "вес",
+        "length": 3
+      },
+      {
+        "token": "тот",
+        "signature": "от",
+        "length": 3
+      },
+      {
+        "token": "мочь",
+        "signature": "мочь",
+        "length": 4
+      },
+      {
+        "token": "вы",
+        "signature": "вы",
+        "length": 2
+      },
+      {
+        "token": "человек",
+        "signature": "веклоч",
+        "length": 7
+      },
+      {
+        "token": "такой",
+        "signature": "айкот",
+        "length": 5
+      },
+      {
+        "token": "его",
+        "signature": "гео",
+        "length": 3
+      },
+      {
+        "token": "сказать",
+        "signature": "азксть",
+        "length": 7
+      },
+      {
+        "token": "только",
+        "signature": "клоть",
+        "length": 6
+      },
+      {
+        "token": "или",
+        "signature": "ил",
+        "length": 3
+      },
+      {
+        "token": "еще",
+        "signature": "ещ",
+        "length": 3
+      },
+      {
+        "token": "бы",
+        "signature": "бы",
+        "length": 2
+      },
+      {
+        "token": "себя",
+        "signature": "беся",
+        "length": 4
+      },
+      {
+        "token": "один",
+        "signature": "дино",
+        "length": 4
+      },
+      {
+        "token": "уже",
+        "signature": "ежу",
+        "length": 3
+      },
+      {
+        "token": "до",
+        "signature": "до",
+        "length": 2
+      },
+      {
+        "token": "время",
+        "signature": "вемря",
+        "length": 5
+      },
+      {
+        "token": "если",
+        "signature": "еилс",
+        "length": 4
+      },
+      {
+        "token": "сам",
+        "signature": "амс",
+        "length": 3
+      },
+      {
+        "token": "когда",
+        "signature": "агдко",
+        "length": 5
+      },
+      {
+        "token": "другой",
+        "signature": "гдйору",
+        "length": 6
+      },
+      {
+        "token": "вот",
+        "signature": "вот",
+        "length": 3
+      },
+      {
+        "token": "говорить",
+        "signature": "вгиорть",
+        "length": 8
+      },
+      {
+        "token": "наш",
+        "signature": "анш",
+        "length": 3
+      },
+      {
+        "token": "мой",
+        "signature": "ймо",
+        "length": 3
+      },
+      {
+        "token": "знать",
+        "signature": "азнть",
+        "length": 5
+      },
+      {
+        "token": "стать",
+        "signature": "асть",
+        "length": 5
+      },
+      {
+        "token": "при",
+        "signature": "ипр",
+        "length": 3
+      },
+      {
+        "token": "чтобы",
+        "signature": "ботчы",
+        "length": 5
+      },
+      {
+        "token": "дело",
+        "signature": "дело",
+        "length": 4
+      },
+      {
+        "token": "жизнь",
+        "signature": "жзинь",
+        "length": 5
+      },
+      {
+        "token": "кто",
+        "signature": "кот",
+        "length": 3
+      },
+      {
+        "token": "первый",
+        "signature": "вейпры",
+        "length": 6
+      },
+      {
+        "token": "очень",
+        "signature": "еночь",
+        "length": 5
+      },
+      {
+        "token": "два",
+        "signature": "авд",
+        "length": 3
+      },
+      {
+        "token": "день",
+        "signature": "день",
+        "length": 4
+      },
+      {
+        "token": "новый",
+        "signature": "вйноы",
+        "length": 5
+      },
+      {
+        "token": "даже",
+        "signature": "адеж",
+        "length": 4
+      },
+      {
+        "token": "во",
+        "signature": "во",
+        "length": 2
+      },
+      {
+        "token": "со",
+        "signature": "ос",
+        "length": 2
+      },
+      {
+        "token": "раз",
+        "signature": "азр",
+        "length": 3
+      },
+      {
+        "token": "где",
+        "signature": "где",
+        "length": 3
+      },
+      {
+        "token": "там",
+        "signature": "амт",
+        "length": 3
+      },
+      {
+        "token": "можно",
+        "signature": "жмно",
+        "length": 5
+      },
+      {
+        "token": "под",
+        "signature": "доп",
+        "length": 3
+      },
+      {
+        "token": "ну",
+        "signature": "ну",
+        "length": 2
+      },
+      {
+        "token": "какой",
+        "signature": "айко",
+        "length": 5
+      },
+      {
+        "token": "после",
+        "signature": "елопс",
+        "length": 5
+      },
+      {
+        "token": "их",
+        "signature": "их",
+        "length": 2
+      },
+      {
+        "token": "работа",
+        "signature": "аборт",
+        "length": 6
+      },
+      {
+        "token": "без",
+        "signature": "без",
+        "length": 3
+      },
+      {
+        "token": "самый",
+        "signature": "аймсы",
+        "length": 5
+      },
+      {
+        "token": "потом",
+        "signature": "мопт",
+        "length": 5
+      },
+      {
+        "token": "надо",
+        "signature": "адно",
+        "length": 4
+      },
+      {
+        "token": "хотеть",
+        "signature": "еотхь",
+        "length": 6
+      },
+      {
+        "token": "идти",
+        "signature": "дит",
+        "length": 4
+      },
+      {
+        "token": "большой",
+        "signature": "бйлошь",
+        "length": 7
+      },
+      {
+        "token": "должен",
+        "signature": "дежлно",
+        "length": 6
+      },
+      {
+        "token": "место",
+        "signature": "емост",
+        "length": 5
+      },
+      {
+        "token": "иметь",
+        "signature": "еимть",
+        "length": 5
+      },
+      {
+        "token": "ничто",
+        "signature": "инотч",
+        "length": 5
+      },
+      {
+        "token": "сейчас",
+        "signature": "аейсч",
+        "length": 6
+      },
+      {
+        "token": "тут",
+        "signature": "ту",
+        "length": 3
+      },
+      {
+        "token": "лицо",
+        "signature": "илоц",
+        "length": 4
+      },
+      {
+        "token": "каждый",
+        "signature": "аджйкы",
+        "length": 6
+      },
+      {
+        "token": "друг",
+        "signature": "гдру",
+        "length": 4
+      },
+      {
+        "token": "нет",
+        "signature": "ент",
+        "length": 3
+      },
+      {
+        "token": "теперь",
+        "signature": "епрть",
+        "length": 6
+      },
+      {
+        "token": "глаз",
+        "signature": "агзл",
+        "length": 4
+      },
+      {
+        "token": "ни",
+        "signature": "ин",
+        "length": 2
+      },
+      {
+        "token": "тоже",
+        "signature": "ежот",
+        "length": 4
+      },
+      {
+        "token": "тогда",
+        "signature": "агдот",
+        "length": 5
+      },
+      {
+        "token": "видеть",
+        "signature": "вдеить",
+        "length": 6
+      },
+      {
+        "token": "вопрос",
+        "signature": "вопрс",
+        "length": 6
+      },
+      {
+        "token": "через",
+        "signature": "езрч",
+        "length": 5
+      },
+      {
+        "token": "да",
+        "signature": "ад",
+        "length": 2
+      },
+      {
+        "token": "здесь",
+        "signature": "дезсь",
+        "length": 5
+      },
+      {
+        "token": "дом",
+        "signature": "дмо",
+        "length": 3
+      },
+      {
+        "token": "потому",
+        "signature": "мопту",
+        "length": 6
+      },
+      {
+        "token": "сторона",
+        "signature": "анорст",
+        "length": 7
+      },
+      {
+        "token": "думать",
+        "signature": "адмтуь",
+        "length": 6
+      },
+      {
+        "token": "сделать",
+        "signature": "аделсть",
+        "length": 7
+      },
+      {
+        "token": "жить",
+        "signature": "жить",
+        "length": 4
+      },
+      {
+        "token": "страна",
+        "signature": "анрст",
+        "length": 6
+      },
+      {
+        "token": "чем",
+        "signature": "емч",
+        "length": 3
+      },
+      {
+        "token": "мир",
+        "signature": "имр",
+        "length": 3
+      },
+      {
+        "token": "об",
+        "signature": "бо",
+        "length": 2
+      },
+      {
+        "token": "последний",
+        "signature": "деийлнопс",
+        "length": 9
+      },
+      {
+        "token": "случай",
+        "signature": "айлсуч",
+        "length": 6
+      },
+      {
+        "token": "голова",
+        "signature": "авгло",
+        "length": 6
+      },
+      {
+        "token": "более",
+        "signature": "бело",
+        "length": 5
+      },
+      {
+        "token": "делать",
+        "signature": "аделть",
+        "length": 6
+      },
+      {
+        "token": "смотреть",
+        "signature": "еморсть",
+        "length": 8
+      },
+      {
+        "token": "ребенок",
+        "signature": "бекнор",
+        "length": 7
+      },
+      {
+        "token": "просто",
+        "signature": "опрст",
+        "length": 6
+      },
+      {
+        "token": "конечно",
+        "signature": "екноч",
+        "length": 7
+      },
+      {
+        "token": "сила",
+        "signature": "аилс",
+        "length": 4
+      },
+      {
+        "token": "конец",
+        "signature": "екноц",
+        "length": 5
+      },
+      {
+        "token": "перед",
+        "signature": "депр",
+        "length": 5
+      },
+      {
+        "token": "несколько",
+        "signature": "еклнось",
+        "length": 9
+      },
+      {
+        "token": "вид",
+        "signature": "вди",
+        "length": 3
+      },
+      {
+        "token": "система",
+        "signature": "аеимст",
+        "length": 7
+      },
+      {
+        "token": "всегда",
+        "signature": "авгдес",
+        "length": 6
+      },
+      {
+        "token": "работать",
+        "signature": "аборть",
+        "length": 8
+      },
+      {
+        "token": "между",
+        "signature": "дежму",
+        "length": 5
+      },
+      {
+        "token": "три",
+        "signature": "ирт",
+        "length": 3
+      },
+      {
+        "token": "понять",
+        "signature": "ноптья",
+        "length": 6
+      },
+      {
+        "token": "пойти",
+        "signature": "ийопт",
+        "length": 5
+      },
+      {
+        "token": "часть",
+        "signature": "астчь",
+        "length": 5
+      },
+      {
+        "token": "спросить",
+        "signature": "иопрсть",
+        "length": 8
+      },
+      {
+        "token": "город",
+        "signature": "гдор",
+        "length": 5
+      },
+      {
+        "token": "дать",
+        "signature": "адть",
+        "length": 4
+      },
+      {
+        "token": "также",
+        "signature": "аежкт",
+        "length": 5
+      },
+      {
+        "token": "никто",
+        "signature": "икнот",
+        "length": 5
+      },
+      {
+        "token": "понимать",
+        "signature": "аимнопть",
+        "length": 8
+      },
+      {
+        "token": "получить",
+        "signature": "илоптучь",
+        "length": 8
+      },
+      {
+        "token": "отношение",
+        "signature": "еинотш",
+        "length": 9
+      },
+      {
+        "token": "лишь",
+        "signature": "илшь",
+        "length": 4
+      },
+      {
+        "token": "второй",
+        "signature": "вйорт",
+        "length": 6
+      },
+      {
+        "token": "именно",
+        "signature": "еимно",
+        "length": 6
+      },
+      {
+        "token": "ваш",
+        "signature": "авш",
+        "length": 3
+      },
+      {
+        "token": "хотя",
+        "signature": "отхя",
+        "length": 4
+      },
+      {
+        "token": "сидеть",
+        "signature": "деисть",
+        "length": 6
+      },
+      {
+        "token": "над",
+        "signature": "адн",
+        "length": 3
+      },
+      {
+        "token": "женщина",
+        "signature": "аежинщ",
+        "length": 7
+      },
+      {
+        "token": "оказаться",
+        "signature": "азкостья",
+        "length": 9
+      },
+      {
+        "token": "взять",
+        "signature": "взтья",
+        "length": 5
+      },
+      {
+        "token": "прийти",
+        "signature": "ийпрт",
+        "length": 6
+      },
+      {
+        "token": "являться",
+        "signature": "влстья",
+        "length": 8
+      },
+      {
+        "token": "деньги",
+        "signature": "гдеинь",
+        "length": 6
+      },
+      {
+        "token": "почему",
+        "signature": "емопуч",
+        "length": 6
+      },
+      {
+        "token": "вдруг",
+        "signature": "вгдру",
+        "length": 5
+      },
+      {
+        "token": "любить",
+        "signature": "билтью",
+        "length": 6
+      },
+      {
+        "token": "почти",
+        "signature": "иоптч",
+        "length": 5
+      },
+      {
+        "token": "стоить",
+        "signature": "иость",
+        "length": 6
+      },
+      {
+        "token": "земля",
+        "signature": "езлмя",
+        "length": 5
+      },
+      {
+        "token": "ведь",
+        "signature": "вдеь",
+        "length": 4
+      },
+      {
+        "token": "общий",
+        "signature": "бийощ",
+        "length": 5
+      },
+      {
+        "token": "машина",
+        "signature": "аимнш",
+        "length": 6
+      },
+      {
+        "token": "однако",
+        "signature": "адкно",
+        "length": 6
+      },
+      {
+        "token": "сразу",
+        "signature": "азрсу",
+        "length": 5
+      },
+      {
+        "token": "хорошо",
+        "signature": "орхш",
+        "length": 6
+      },
+      {
+        "token": "вода",
+        "signature": "авдо",
+        "length": 4
+      },
+      {
+        "token": "отец",
+        "signature": "еотц",
+        "length": 4
+      },
+      {
+        "token": "высокий",
+        "signature": "вийкосы",
+        "length": 7
+      },
+      {
+        "token": "остаться",
+        "signature": "аостья",
+        "length": 8
+      },
+      {
+        "token": "выйти",
+        "signature": "вийты",
+        "length": 5
+      },
+      {
+        "token": "много",
+        "signature": "гмно",
+        "length": 5
+      },
+      {
+        "token": "проблема",
+        "signature": "абелмопр",
+        "length": 8
+      },
+      {
+        "token": "начать",
+        "signature": "антчь",
+        "length": 6
+      },
+      {
+        "token": "хороший",
+        "signature": "ийорхш",
+        "length": 7
+      },
+      {
+        "token": "час",
+        "signature": "асч",
+        "length": 3
+      },
+      {
+        "token": "сегодня",
+        "signature": "гденося",
+        "length": 7
+      },
+      {
+        "token": "право",
+        "signature": "авопр",
+        "length": 5
+      },
+      {
+        "token": "совсем",
+        "signature": "вемос",
+        "length": 6
+      },
+      {
+        "token": "нога",
+        "signature": "агно",
+        "length": 4
+      },
+      {
+        "token": "главный",
+        "signature": "авгйлны",
+        "length": 7
+      },
+      {
+        "token": "считать",
+        "signature": "аистчь",
+        "length": 7
+      },
+      {
+        "token": "решение",
+        "signature": "еинрш",
+        "length": 7
+      },
+      {
+        "token": "увидеть",
+        "signature": "вдеитуь",
+        "length": 7
+      },
+      {
+        "token": "дверь",
+        "signature": "вдерь",
+        "length": 5
+      },
+      {
+        "token": "казаться",
+        "signature": "азкстья",
+        "length": 8
+      },
+      {
+        "token": "образ",
+        "signature": "абзор",
+        "length": 5
+      },
+      {
+        "token": "история",
+        "signature": "иорстя",
+        "length": 7
+      },
+      {
+        "token": "писать",
+        "signature": "аипсть",
+        "length": 6
+      },
+      {
+        "token": "лучший",
+        "signature": "ийлучш",
+        "length": 6
+      },
+      {
+        "token": "власть",
+        "signature": "авлсть",
+        "length": 6
+      },
+      {
+        "token": "закон",
+        "signature": "азкно",
+        "length": 5
+      },
+      {
+        "token": "голос",
+        "signature": "глос",
+        "length": 5
+      },
+      {
+        "token": "найти",
+        "signature": "аийнт",
+        "length": 5
+      },
+      {
+        "token": "поэтому",
+        "signature": "моптуэ",
+        "length": 7
+      },
+      {
+        "token": "стоять",
+        "signature": "остья",
+        "length": 6
+      },
+      {
+        "token": "вообще",
+        "signature": "бвеощ",
+        "length": 6
+      },
+      {
+        "token": "тысяча",
+        "signature": "астчыя",
+        "length": 6
+      },
+      {
+        "token": "больше",
+        "signature": "белошь",
+        "length": 6
+      },
+      {
+        "token": "вместе",
+        "signature": "вемст",
+        "length": 6
+      },
+      {
+        "token": "книга",
+        "signature": "агикн",
+        "length": 5
+      },
+      {
+        "token": "маленький",
+        "signature": "аеийклмнь",
+        "length": 9
+      },
+      {
+        "token": "некоторый",
+        "signature": "ейкнорты",
+        "length": 9
+      },
+      {
+        "token": "решить",
+        "signature": "еиртшь",
+        "length": 6
+      },
+      {
+        "token": "любой",
+        "signature": "бйлою",
+        "length": 5
+      },
+      {
+        "token": "возможность",
+        "signature": "вжзмность",
+        "length": 11
+      },
+      {
+        "token": "ночь",
+        "signature": "ночь",
+        "length": 4
+      },
+      {
+        "token": "результат",
+        "signature": "аезлртуь",
+        "length": 9
+      },
+      {
+        "token": "стол",
+        "signature": "лост",
+        "length": 4
+      },
+      {
+        "token": "имя",
+        "signature": "имя",
+        "length": 3
+      },
+      {
+        "token": "никогда",
+        "signature": "агдикно",
+        "length": 7
+      },
+      {
+        "token": "молодой",
+        "signature": "дйлмо",
+        "length": 7
+      },
+      {
+        "token": "область",
+        "signature": "аблость",
+        "length": 7
+      },
+      {
+        "token": "например",
+        "signature": "аеимнпр",
+        "length": 8
+      },
+      {
+        "token": "пройти",
+        "signature": "ийопрт",
+        "length": 6
+      },
+      {
+        "token": "оно",
+        "signature": "но",
+        "length": 3
+      },
+      {
+        "token": "статья",
+        "signature": "астья",
+        "length": 6
+      },
+      {
+        "token": "число",
+        "signature": "илосч",
+        "length": 5
+      },
+      {
+        "token": "компания",
+        "signature": "аикмнопя",
+        "length": 8
+      },
+      {
+        "token": "про",
+        "signature": "опр",
+        "length": 3
+      },
+      {
+        "token": "государственный",
+        "signature": "авгдейнорстуы",
+        "length": 15
+      },
+      {
+        "token": "полный",
+        "signature": "йлнопы",
+        "length": 6
+      },
+      {
+        "token": "принять",
+        "signature": "инпртья",
+        "length": 7
+      },
+      {
+        "token": "народ",
+        "signature": "аднор",
+        "length": 5
+      },
+      {
+        "token": "никакой",
+        "signature": "аийкно",
+        "length": 7
+      },
+      {
+        "token": "жена",
+        "signature": "аежн",
+        "length": 4
+      },
+      {
+        "token": "настоящий",
+        "signature": "аийностщя",
+        "length": 9
+      },
+      {
+        "token": "всякий",
+        "signature": "вийкся",
+        "length": 6
+      },
+      {
+        "token": "группа",
+        "signature": "агпру",
+        "length": 6
+      },
+      {
+        "token": "развитие",
+        "signature": "авезирт",
+        "length": 8
+      },
+      {
+        "token": "процесс",
+        "signature": "еопрсц",
+        "length": 7
+      },
+      {
+        "token": "давать",
+        "signature": "авдть",
+        "length": 6
+      },
+      {
+        "token": "суд",
+        "signature": "дсу",
+        "length": 3
+      },
+      {
+        "token": "ответить",
+        "signature": "веиоть",
+        "length": 8
+      },
+      {
+        "token": "старый",
+        "signature": "айрсты",
+        "length": 6
+      },
+      {
+        "token": "условие",
+        "signature": "веилосу",
+        "length": 7
+      },
+      {
+        "token": "твой",
+        "signature": "вйот",
+        "length": 4
+      },
+      {
+        "token": "пока",
+        "signature": "акоп",
+        "length": 4
+      },
+      {
+        "token": "средство",
+        "signature": "вдеорст",
+        "length": 8
+      },
+      {
+        "token": "помнить",
+        "signature": "имнопть",
+        "length": 7
+      },
+      {
+        "token": "начало",
+        "signature": "алноч",
+        "length": 6
+      },
+      {
+        "token": "ждать",
+        "signature": "аджть",
+        "length": 5
+      },
+      {
+        "token": "свет",
+        "signature": "вест",
+        "length": 4
+      },
+      {
+        "token": "пора",
+        "signature": "аопр",
+        "length": 4
+      },
+      {
+        "token": "душа",
+        "signature": "адуш",
+        "length": 4
+      },
+      {
+        "token": "путь",
+        "signature": "птуь",
+        "length": 4
+      },
+      {
+        "token": "куда",
+        "signature": "адку",
+        "length": 4
+      },
+      {
+        "token": "нужно",
+        "signature": "жноу",
+        "length": 5
+      },
+      {
+        "token": "разный",
+        "signature": "азйнры",
+        "length": 6
+      },
+      {
+        "token": "нужный",
+        "signature": "жйнуы",
+        "length": 6
+      },
+      {
+        "token": "уровень",
+        "signature": "веноруь",
+        "length": 7
+      },
+      {
+        "token": "иной",
+        "signature": "ийно",
+        "length": 4
+      },
+      {
+        "token": "форма",
+        "signature": "аморф",
+        "length": 5
+      },
+      {
+        "token": "связь",
+        "signature": "взсья",
+        "length": 5
+      },
+      {
+        "token": "кроме",
+        "signature": "екмор",
+        "length": 5
+      },
+      {
+        "token": "минута",
+        "signature": "аимнту",
+        "length": 6
+      },
+      {
+        "token": "находиться",
+        "signature": "адиностхья",
+        "length": 10
+      },
+      {
+        "token": "опять",
+        "signature": "оптья",
+        "length": 5
+      },
+      {
+        "token": "многий",
+        "signature": "гиймно",
+        "length": 6
+      },
+      {
+        "token": "белый",
+        "signature": "бейлы",
+        "length": 5
+      },
+      {
+        "token": "собственный",
+        "signature": "бвейносты",
+        "length": 11
+      },
+      {
+        "token": "улица",
+        "signature": "аилуц",
+        "length": 5
+      },
+      {
+        "token": "черный",
+        "signature": "ейнрчы",
+        "length": 6
+      },
+      {
+        "token": "написать",
+        "signature": "аинпсть",
+        "length": 8
+      },
+      {
+        "token": "вечер",
+        "signature": "верч",
+        "length": 5
+      },
+      {
+        "token": "основной",
+        "signature": "вйнос",
+        "length": 8
+      },
+      {
+        "token": "снова",
+        "signature": "авнос",
+        "length": 5
+      },
+      {
+        "token": "качество",
+        "signature": "авекостч",
+        "length": 8
+      },
+      {
+        "token": "дорога",
+        "signature": "агдор",
+        "length": 6
+      },
+      {
+        "token": "мать",
+        "signature": "амть",
+        "length": 4
+      },
+      {
+        "token": "действие",
+        "signature": "вдеийст",
+        "length": 8
+      },
+      {
+        "token": "месяц",
+        "signature": "емсця",
+        "length": 5
+      },
+      {
+        "token": "оставаться",
+        "signature": "авостья",
+        "length": 10
+      },
+      {
+        "token": "государство",
+        "signature": "авгдорсту",
+        "length": 11
+      },
+      {
+        "token": "язык",
+        "signature": "зкыя",
+        "length": 4
+      },
+      {
+        "token": "любовь",
+        "signature": "бвлоью",
+        "length": 6
+      },
+      {
+        "token": "мама",
+        "signature": "ам",
+        "length": 4
+      },
+      {
+        "token": "играть",
+        "signature": "агирть",
+        "length": 6
+      },
+      {
+        "token": "далекий",
+        "signature": "адеийкл",
+        "length": 7
+      },
+      {
+        "token": "лежать",
+        "signature": "аежлть",
+        "length": 6
+      },
+      {
+        "token": "нельзя",
+        "signature": "езлнья",
+        "length": 6
+      },
+      {
+        "token": "век",
+        "signature": "век",
+        "length": 3
+      },
+      {
+        "token": "подумать",
+        "signature": "адмоптуь",
+        "length": 8
+      },
+      {
+        "token": "уйти",
+        "signature": "ийту",
+        "length": 4
+      },
+      {
+        "token": "цель",
+        "signature": "елць",
+        "length": 4
+      },
+      {
+        "token": "школа",
+        "signature": "аклош",
+        "length": 5
+      },
+      {
+        "token": "общество",
+        "signature": "бвеостщ",
+        "length": 8
+      },
+      {
+        "token": "среди",
+        "signature": "деирс",
+        "length": 5
+      },
+      {
+        "token": "деятельность",
+        "signature": "делностья",
+        "length": 12
+      },
+      {
+        "token": "посмотреть",
+        "signature": "емопрсть",
+        "length": 10
+      },
+      {
+        "token": "организация",
+        "signature": "агзинорця",
+        "length": 11
+      },
+      {
+        "token": "вернуться",
+        "signature": "венрстуья",
+        "length": 9
+      },
+      {
+        "token": "комната",
+        "signature": "акмнот",
+        "length": 7
+      },
+      {
+        "token": "порядок",
+        "signature": "дкопря",
+        "length": 7
+      },
+      {
+        "token": "момент",
+        "signature": "емнот",
+        "length": 6
+      },
+      {
+        "token": "следовать",
+        "signature": "авделость",
+        "length": 9
+      },
+      {
+        "token": "театр",
+        "signature": "аерт",
+        "length": 5
+      },
+      {
+        "token": "письмо",
+        "signature": "имопсь",
+        "length": 6
+      },
+      {
+        "token": "читать",
+        "signature": "аитчь",
+        "length": 6
+      },
+      {
+        "token": "подобный",
+        "signature": "бдйнопы",
+        "length": 8
+      },
+      {
+        "token": "следующий",
+        "signature": "деийлсущю",
+        "length": 9
+      },
+      {
+        "token": "утро",
+        "signature": "орту",
+        "length": 4
+      },
+      {
+        "token": "особенно",
+        "signature": "бенос",
+        "length": 8
+      },
+      {
+        "token": "помощь",
+        "signature": "мопщь",
+        "length": 6
+      },
+      {
+        "token": "ситуация",
+        "signature": "аистуця",
+        "length": 8
+      },
+      {
+        "token": "роль",
+        "signature": "лорь",
+        "length": 4
+      },
+      {
+        "token": "бывать",
+        "signature": "абвтыь",
+        "length": 6
+      },
+      {
+        "token": "ходить",
+        "signature": "диотхь",
+        "length": 6
+      },
+      {
+        "token": "начинать",
+        "signature": "аинтчь",
+        "length": 8
+      },
+      {
+        "token": "рубль",
+        "signature": "блруь",
+        "length": 5
+      },
+      {
+        "token": "появиться",
+        "signature": "виопстья",
+        "length": 9
+      },
+      {
+        "token": "смысл",
+        "signature": "лмсы",
+        "length": 5
+      },
+      {
+        "token": "состояние",
+        "signature": "еиностя",
+        "length": 9
+      },
+      {
+        "token": "называть",
+        "signature": "авзнтыь",
+        "length": 8
+      },
+      {
+        "token": "рядом",
+        "signature": "дморя",
+        "length": 5
+      },
+      {
+        "token": "квартира",
+        "signature": "авикрт",
+        "length": 8
+      },
+      {
+        "token": "назад",
+        "signature": "адзн",
+        "length": 5
+      },
+      {
+        "token": "равный",
+        "signature": "авйнры",
+        "length": 6
+      },
+      {
+        "token": "орган",
+        "signature": "агнор",
+        "length": 5
+      },
+      {
+        "token": "внимание",
+        "signature": "авеимн",
+        "length": 8
+      },
+      {
+        "token": "прийтись",
+        "signature": "ийпрсть",
+        "length": 8
+      },
+      {
+        "token": "тело",
+        "signature": "елот",
+        "length": 4
+      },
+      {
+        "token": "труд",
+        "signature": "дрту",
+        "length": 4
+      },
+      {
+        "token": "сын",
+        "signature": "нсы",
+        "length": 3
+      },
+      {
+        "token": "хотеться",
+        "signature": "еостхья",
+        "length": 8
+      },
+      {
+        "token": "живой",
+        "signature": "вжийо",
+        "length": 5
+      },
+      {
+        "token": "мера",
+        "signature": "аемр",
+        "length": 4
+      },
+      {
+        "token": "пять",
+        "signature": "птья",
+        "length": 4
+      },
+      {
+        "token": "смерть",
+        "signature": "емрсть",
+        "length": 6
+      },
+      {
+        "token": "программа",
+        "signature": "агмопр",
+        "length": 9
+      },
+      {
+        "token": "рынок",
+        "signature": "кноры",
+        "length": 5
+      },
+      {
+        "token": "задача",
+        "signature": "адзч",
+        "length": 6
+      },
+      {
+        "token": "предприятие",
+        "signature": "деипртя",
+        "length": 11
+      },
+      {
+        "token": "известный",
+        "signature": "везийнсты",
+        "length": 9
+      },
+      {
+        "token": "окно",
+        "signature": "кно",
+        "length": 4
+      },
+      {
+        "token": "вести",
+        "signature": "веист",
+        "length": 5
+      },
+      {
+        "token": "совершенно",
+        "signature": "венорсш",
+        "length": 10
+      },
+      {
+        "token": "показать",
+        "signature": "азкопть",
+        "length": 8
+      },
+      {
+        "token": "правительство",
+        "signature": "авеилопрсть",
+        "length": 13
+      },
+      {
+        "token": "разговор",
+        "signature": "авгзор",
+        "length": 8
+      },
+      {
+        "token": "важный",
+        "signature": "авжйны",
+        "length": 6
+      },
+      {
+        "token": "семья",
+        "signature": "емсья",
+        "length": 5
+      },
+      {
+        "token": "великий",
+        "signature": "веийкл",
+        "length": 7
+      },
+      {
+        "token": "производство",
+        "signature": "вдзиопрст",
+        "length": 12
+      },
+      {
+        "token": "значит",
+        "signature": "азинтч",
+        "length": 6
+      },
+      {
+        "token": "простой",
+        "signature": "йопрст",
+        "length": 7
+      },
+      {
+        "token": "третий",
+        "signature": "еийрт",
+        "length": 6
+      },
+      {
+        "token": "сколько",
+        "signature": "клось",
+        "length": 7
+      },
+      {
+        "token": "давно",
+        "signature": "авдно",
+        "length": 5
+      },
+      {
+        "token": "огромный",
+        "signature": "гймноры",
+        "length": 8
+      },
+      {
+        "token": "политический",
+        "signature": "еийклопстч",
+        "length": 12
+      },
+      {
+        "token": "действительно",
+        "signature": "вдеийлность",
+        "length": 13
+      },
+      {
+        "token": "информация",
+        "signature": "аимнорфця",
+        "length": 10
+      },
+      {
+        "token": "положение",
+        "signature": "ежилноп",
+        "length": 9
+      },
+      {
+        "token": "бояться",
+        "signature": "бостья",
+        "length": 7
+      },
+      {
+        "token": "поставить",
+        "signature": "авиопсть",
+        "length": 9
+      },
+      {
+        "token": "наконец",
+        "signature": "аекноц",
+        "length": 7
+      },
+      {
+        "token": "центр",
+        "signature": "енртц",
+        "length": 5
+      },
+      {
+        "token": "происходить",
+        "signature": "диопрстхь",
+        "length": 11
+      },
+      {
+        "token": "муж",
+        "signature": "жму",
+        "length": 3
+      },
+      {
+        "token": "ответ",
+        "signature": "веот",
+        "length": 5
+      },
+      {
+        "token": "автор",
+        "signature": "аворт",
+        "length": 5
+      },
+      {
+        "token": "интерес",
+        "signature": "еинрст",
+        "length": 7
+      },
+      {
+        "token": "стена",
+        "signature": "аенст",
+        "length": 5
+      },
+      {
+        "token": "существовать",
+        "signature": "авеостущь",
+        "length": 12
+      },
+      {
+        "token": "правило",
+        "signature": "авилопр",
+        "length": 7
+      },
+      {
+        "token": "становиться",
+        "signature": "авиностья",
+        "length": 11
+      },
+      {
+        "token": "федерация",
+        "signature": "адеирфця",
+        "length": 9
+      },
+      {
+        "token": "оба",
+        "signature": "або",
+        "length": 3
+      },
+      {
+        "token": "часто",
+        "signature": "аостч",
+        "length": 5
+      },
+      {
+        "token": "управление",
+        "signature": "авеилнпру",
+        "length": 10
+      },
+      {
+        "token": "быстро",
+        "signature": "борсты",
+        "length": 6
+      },
+      {
+        "token": "слышать",
+        "signature": "алстшыь",
+        "length": 7
+      },
+      {
+        "token": "смочь",
+        "signature": "мосчь",
+        "length": 5
+      },
+      {
+        "token": "заметить",
+        "signature": "аезимть",
+        "length": 8
+      },
+      {
+        "token": "долго",
+        "signature": "гдло",
+        "length": 5
+      },
+      {
+        "token": "мужчина",
+        "signature": "ажимнуч",
+        "length": 7
+      },
+      {
+        "token": "правда",
+        "signature": "авдпр",
+        "length": 6
+      },
+      {
+        "token": "идея",
+        "signature": "деия",
+        "length": 4
+      },
+      {
+        "token": "иногда",
+        "signature": "агдино",
+        "length": 6
+      },
+      {
+        "token": "использовать",
+        "signature": "авзилопсть",
+        "length": 12
+      },
+      {
+        "token": "готовый",
+        "signature": "вгйоты",
+        "length": 7
+      },
+      {
+        "token": "пытаться",
+        "signature": "апстыья",
+        "length": 8
+      },
+      {
+        "token": "зачем",
+        "signature": "аезмч",
+        "length": 5
+      },
+      {
+        "token": "чуть",
+        "signature": "тучь",
+        "length": 4
+      },
+      {
+        "token": "представить",
+        "signature": "авдеипрсть",
+        "length": 11
+      },
+      {
+        "token": "чувствовать",
+        "signature": "авостучь",
+        "length": 11
+      },
+      {
+        "token": "совет",
+        "signature": "веост",
+        "length": 5
+      },
+      {
+        "token": "создать",
+        "signature": "адзость",
+        "length": 7
+      },
+      {
+        "token": "движение",
+        "signature": "вдежин",
+        "length": 8
+      },
+      {
+        "token": "сердце",
+        "signature": "дерсц",
+        "length": 6
+      },
+      {
+        "token": "счет",
+        "signature": "естч",
+        "length": 4
+      },
+      {
+        "token": "вещь",
+        "signature": "вещь",
+        "length": 4
+      },
+      {
+        "token": "материал",
+        "signature": "аеилмрт",
+        "length": 8
+      },
+      {
+        "token": "неделя",
+        "signature": "делня",
+        "length": 6
+      },
+      {
+        "token": "чувство",
+        "signature": "востуч",
+        "length": 7
+      },
+      {
+        "token": "данный",
+        "signature": "адйны",
+        "length": 6
+      },
+      {
+        "token": "заниматься",
+        "signature": "азимнстья",
+        "length": 10
+      },
+      {
+        "token": "затем",
+        "signature": "аезмт",
+        "length": 5
+      },
+      {
+        "token": "красный",
+        "signature": "айкнрсы",
+        "length": 7
+      },
+      {
+        "token": "продолжать",
+        "signature": "аджлопрть",
+        "length": 10
+      },
+      {
+        "token": "глава",
+        "signature": "авгл",
+        "length": 5
+      },
+      {
+        "token": "ко",
+        "signature": "ко",
+        "length": 2
+      },
+      {
+        "token": "слушать",
+        "signature": "алстушь",
+        "length": 7
+      },
+      {
+        "token": "наука",
+        "signature": "акну",
+        "length": 5
+      },
+      {
+        "token": "газета",
+        "signature": "агезт",
+        "length": 6
+      },
+      {
+        "token": "ряд",
+        "signature": "дря",
+        "length": 3
+      },
+      {
+        "token": "узнать",
+        "signature": "азнтуь",
+        "length": 6
+      },
+      {
+        "token": "причина",
+        "signature": "аинпрч",
+        "length": 7
+      },
+      {
+        "token": "против",
+        "signature": "виопрт",
+        "length": 6
+      },
+      {
+        "token": "плечо",
+        "signature": "елопч",
+        "length": 5
+      },
+      {
+        "token": "современный",
+        "signature": "веймнорсы",
+        "length": 11
+      },
+      {
+        "token": "цена",
+        "signature": "аенц",
+        "length": 4
+      },
+      {
+        "token": "план",
+        "signature": "алнп",
+        "length": 4
+      },
+      {
+        "token": "приехать",
+        "signature": "аеипртхь",
+        "length": 8
+      },
+      {
+        "token": "речь",
+        "signature": "ерчь",
+        "length": 4
+      },
+      {
+        "token": "четыре",
+        "signature": "ертчы",
+        "length": 6
+      },
+      {
+        "token": "отвечать",
+        "signature": "авеотчь",
+        "length": 8
+      },
+      {
+        "token": "основа",
+        "signature": "авнос",
+        "length": 6
+      },
+      {
+        "token": "товарищ",
+        "signature": "авиортщ",
+        "length": 7
+      },
+      {
+        "token": "вполне",
+        "signature": "велноп",
+        "length": 6
+      },
+      {
+        "token": "далее",
+        "signature": "адел",
+        "length": 5
+      },
+      {
+        "token": "культура",
+        "signature": "аклртуь",
+        "length": 8
+      },
+      {
+        "token": "рассказывать",
+        "signature": "авзкрстыь",
+        "length": 12
+      },
+      {
+        "token": "слишком",
+        "signature": "иклмосш",
+        "length": 7
+      },
+      {
+        "token": "данные",
+        "signature": "адены",
+        "length": 6
+      },
+      {
+        "token": "представлять",
+        "signature": "авделпрстья",
+        "length": 12
+      },
+      {
+        "token": "рассказать",
+        "signature": "азкрсть",
+        "length": 10
+      },
+      {
+        "token": "мнение",
+        "signature": "еимн",
+        "length": 6
+      },
+      {
+        "token": "около",
+        "signature": "кло",
+        "length": 5
+      },
+      {
+        "token": "документ",
+        "signature": "декмноту",
+        "length": 8
+      },
+      {
+        "token": "институт",
+        "signature": "инсту",
+        "length": 8
+      },
+      {
+        "token": "брать",
+        "signature": "абрть",
+        "length": 5
+      },
+      {
+        "token": "забыть",
+        "signature": "абзтыь",
+        "length": 6
+      },
+      {
+        "token": "проект",
+        "signature": "екопрт",
+        "length": 6
+      },
+      {
+        "token": "ранний",
+        "signature": "аийнр",
+        "length": 6
+      },
+      {
+        "token": "встреча",
+        "signature": "аверстч",
+        "length": 7
+      },
+      {
+        "token": "особый",
+        "signature": "бйосы",
+        "length": 6
+      },
+      {
+        "token": "целый",
+        "signature": "ейлцы",
+        "length": 5
+      },
+      {
+        "token": "директор",
+        "signature": "деикорт",
+        "length": 8
+      },
+      {
+        "token": "плохой",
+        "signature": "йлопх",
+        "length": 6
+      },
+      {
+        "token": "провести",
+        "signature": "веиопрст",
+        "length": 8
+      },
+      {
+        "token": "спать",
+        "signature": "апсть",
+        "length": 5
+      },
+      {
+        "token": "впрочем",
+        "signature": "вемопрч",
+        "length": 7
+      },
+      {
+        "token": "может",
+        "signature": "ежмот",
+        "length": 5
+      },
+      {
+        "token": "сильный",
+        "signature": "ийлнсыь",
+        "length": 7
+      },
+      {
+        "token": "наверное",
+        "signature": "авенор",
+        "length": 8
+      },
+      {
+        "token": "скорый",
+        "signature": "йкорсы",
+        "length": 6
+      },
+      {
+        "token": "срок",
+        "signature": "корс",
+        "length": 4
+      },
+      {
+        "token": "опыт",
+        "signature": "опты",
+        "length": 4
+      },
+      {
+        "token": "палец",
+        "signature": "аелпц",
+        "length": 5
+      },
+      {
+        "token": "помочь",
+        "signature": "мопчь",
+        "length": 6
+      },
+      {
+        "token": "приходить",
+        "signature": "диопртхь",
+        "length": 9
+      },
+      {
+        "token": "крупный",
+        "signature": "йкнпруы",
+        "length": 7
+      },
+      {
+        "token": "внутренний",
+        "signature": "веийнрту",
+        "length": 10
+      },
+      {
+        "token": "вспомнить",
+        "signature": "вимнопсть",
+        "length": 9
+      },
+      {
+        "token": "просить",
+        "signature": "иопрсть",
+        "length": 7
+      },
+      {
+        "token": "открыть",
+        "signature": "кортыь",
+        "length": 7
+      },
+      {
+        "token": "привести",
+        "signature": "веипрст",
+        "length": 8
+      },
+      {
+        "token": "судьба",
+        "signature": "абдсуь",
+        "length": 6
+      },
+      {
+        "token": "девушка",
+        "signature": "авдекуш",
+        "length": 7
+      },
+      {
+        "token": "очередь",
+        "signature": "деорчь",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "связка",
+        "signature": "авзкся",
+        "length": 6
+      },
+      {
+        "token": "обзор",
+        "signature": "бзор",
+        "length": 5
+      },
+      {
+        "token": "абзац",
+        "signature": "абзц",
+        "length": 5
+      },
+      {
+        "token": "поворот",
+        "signature": "вопрт",
+        "length": 7
+      },
+      {
+        "token": "чтение",
+        "signature": "еинтч",
+        "length": 6
+      },
+      {
+        "token": "точность",
+        "signature": "ностчь",
+        "length": 8
+      },
+      {
+        "token": "привычка",
+        "signature": "авикпрчы",
+        "length": 8
+      },
+      {
+        "token": "контраст",
+        "signature": "акнорст",
+        "length": 8
+      },
+      {
+        "token": "ориентир",
+        "signature": "еинорт",
+        "length": 8
+      },
+      {
+        "token": "повтор",
+        "signature": "вопрт",
+        "length": 6
+      },
+      {
+        "token": "маршрут",
+        "signature": "амртуш",
+        "length": 7
+      },
+      {
+        "token": "спокойный",
+        "signature": "йкнопсы",
+        "length": 9
+      },
+      {
+        "token": "сухой",
+        "signature": "йосух",
+        "length": 5
+      },
+      {
+        "token": "установка",
+        "signature": "авкносту",
+        "length": 9
+      },
+      {
+        "token": "вряд",
+        "signature": "вдря",
+        "length": 4
+      },
+      {
+        "token": "кончиться",
+        "signature": "икностчья",
+        "length": 9
+      },
+      {
+        "token": "медицинский",
+        "signature": "деийкмнсц",
+        "length": 11
+      },
+      {
+        "token": "многие",
+        "signature": "геимно",
+        "length": 6
+      },
+      {
+        "token": "образец",
+        "signature": "абезорц",
+        "length": 7
+      },
+      {
+        "token": "осень",
+        "signature": "енось",
+        "length": 5
+      },
+      {
+        "token": "получение",
+        "signature": "еилнопуч",
+        "length": 9
+      },
+      {
+        "token": "привезти",
+        "signature": "везипрт",
+        "length": 8
+      },
+      {
+        "token": "сегодняшний",
+        "signature": "гдеийносшя",
+        "length": 11
+      },
+      {
+        "token": "сложиться",
+        "signature": "жилостья",
+        "length": 9
+      },
+      {
+        "token": "строить",
+        "signature": "иорсть",
+        "length": 7
+      },
+      {
+        "token": "труба",
+        "signature": "абрту",
+        "length": 5
+      },
+      {
+        "token": "вино",
+        "signature": "вино",
+        "length": 4
+      },
+      {
+        "token": "висеть",
+        "signature": "веисть",
+        "length": 6
+      },
+      {
+        "token": "воспоминание",
+        "signature": "авеимнопс",
+        "length": 12
+      },
+      {
+        "token": "коллега",
+        "signature": "агекло",
+        "length": 7
+      },
+      {
+        "token": "костюм",
+        "signature": "кмостю",
+        "length": 6
+      },
+      {
+        "token": "лошадь",
+        "signature": "адлошь",
+        "length": 6
+      },
+      {
+        "token": "обязанность",
+        "signature": "абзностья",
+        "length": 11
+      },
+      {
+        "token": "организм",
+        "signature": "агзимнор",
+        "length": 8
+      },
+      {
+        "token": "оставлять",
+        "signature": "авлостья",
+        "length": 9
+      },
+      {
+        "token": "повторить",
+        "signature": "виопрть",
+        "length": 9
+      },
+      {
+        "token": "полагать",
+        "signature": "аглопть",
+        "length": 8
+      },
+      {
+        "token": "пьеса",
+        "signature": "аепсь",
+        "length": 5
+      },
+      {
+        "token": "свежий",
+        "signature": "вежийс",
+        "length": 6
+      },
+      {
+        "token": "случайно",
+        "signature": "айлносуч",
+        "length": 8
+      },
+      {
+        "token": "сыграть",
+        "signature": "агрстыь",
+        "length": 7
+      },
+      {
+        "token": "таблица",
+        "signature": "абилтц",
+        "length": 7
+      },
+      {
+        "token": "трудный",
+        "signature": "дйнртуы",
+        "length": 7
+      },
+      {
+        "token": "уголовный",
+        "signature": "вгйлноуы",
+        "length": 9
+      },
+      {
+        "token": "ценность",
+        "signature": "еностць",
+        "length": 8
+      },
+      {
+        "token": "чей",
+        "signature": "ейч",
+        "length": 3
+      },
+      {
+        "token": "выполнение",
+        "signature": "веилнопы",
+        "length": 10
+      },
+      {
+        "token": "высоко",
+        "signature": "вкосы",
+        "length": 6
+      },
+      {
+        "token": "выступление",
+        "signature": "веилнпстуы",
+        "length": 11
+      },
+      {
+        "token": "изменить",
+        "signature": "езимнть",
+        "length": 8
+      },
+      {
+        "token": "оборона",
+        "signature": "абнор",
+        "length": 7
+      },
+      {
+        "token": "открытие",
+        "signature": "еикорты",
+        "length": 8
+      },
+      {
+        "token": "повторять",
+        "signature": "вопртья",
+        "length": 9
+      },
+      {
+        "token": "спасти",
+        "signature": "аипст",
+        "length": 6
+      },
+      {
+        "token": "температура",
+        "signature": "аемпрту",
+        "length": 11
+      },
+      {
+        "token": "том",
+        "signature": "мот",
+        "length": 3
+      },
+      {
+        "token": "ученик",
+        "signature": "еикнуч",
+        "length": 6
+      },
+      {
+        "token": "учреждение",
+        "signature": "дежинруч",
+        "length": 10
+      },
+      {
+        "token": "характеристика",
+        "signature": "аеикрстх",
+        "length": 14
+      },
+      {
+        "token": "черта",
+        "signature": "аертч",
+        "length": 5
+      },
+      {
+        "token": "явиться",
+        "signature": "вистья",
+        "length": 7
+      },
+      {
+        "token": "вверх",
+        "signature": "верх",
+        "length": 5
+      },
+      {
+        "token": "вероятно",
+        "signature": "венортя",
+        "length": 8
+      },
+      {
+        "token": "вкус",
+        "signature": "вксу",
+        "length": 4
+      },
+      {
+        "token": "восток",
+        "signature": "вкост",
+        "length": 6
+      },
+      {
+        "token": "жертва",
+        "signature": "авежрт",
+        "length": 6
+      },
+      {
+        "token": "заключение",
+        "signature": "аезиклнчю",
+        "length": 10
+      },
+      {
+        "token": "замечать",
+        "signature": "аезмтчь",
+        "length": 8
+      },
+      {
+        "token": "использоваться",
+        "signature": "авзилопстья",
+        "length": 14
+      },
+      {
+        "token": "километр",
+        "signature": "еиклморт",
+        "length": 8
+      },
+      {
+        "token": "лоб",
+        "signature": "бло",
+        "length": 3
+      },
+      {
+        "token": "назначить",
+        "signature": "азинтчь",
+        "length": 9
+      },
+      {
+        "token": "насколько",
+        "signature": "аклнось",
+        "length": 9
+      },
+      {
+        "token": "перспектива",
+        "signature": "авеикпрст",
+        "length": 11
+      },
+      {
+        "token": "подать",
+        "signature": "адопть",
+        "length": 6
+      },
+      {
+        "token": "подруга",
+        "signature": "агдопру",
+        "length": 7
+      },
+      {
+        "token": "попытаться",
+        "signature": "аопстыья",
+        "length": 10
+      },
+      {
+        "token": "признак",
+        "signature": "азикнпр",
+        "length": 7
+      },
+      {
+        "token": "приказ",
+        "signature": "азикпр",
+        "length": 6
+      },
+      {
+        "token": "промышленность",
+        "signature": "елмнопрстшыь",
+        "length": 14
+      },
+      {
+        "token": "протянуть",
+        "signature": "нопртуья",
+        "length": 9
+      },
+      {
+        "token": "расположить",
+        "signature": "ажилопрсть",
+        "length": 11
+      },
+      {
+        "token": "ресторан",
+        "signature": "аенорст",
+        "length": 8
+      },
+      {
+        "token": "сохранить",
+        "signature": "аинорстхь",
+        "length": 9
+      },
+      {
+        "token": "спор",
+        "signature": "опрс",
+        "length": 4
+      },
+      {
+        "token": "странно",
+        "signature": "анорст",
+        "length": 7
+      },
+      {
+        "token": "желтый",
+        "signature": "ежйлты",
+        "length": 6
+      },
+      {
+        "token": "исключение",
+        "signature": "еиклнсчю",
+        "length": 10
+      },
+      {
+        "token": "ключ",
+        "signature": "клчю",
+        "length": 4
+      },
+      {
+        "token": "молча",
+        "signature": "алмоч",
+        "length": 5
+      },
+      {
+        "token": "немедленно",
+        "signature": "делмно",
+        "length": 10
+      },
+      {
+        "token": "отправиться",
+        "signature": "авиопрстья",
+        "length": 11
+      },
+      {
+        "token": "постановление",
+        "signature": "авеилнопст",
+        "length": 13
+      },
+      {
+        "token": "садиться",
+        "signature": "адистья",
+        "length": 8
+      },
+      {
+        "token": "слой",
+        "signature": "йлос",
+        "length": 4
+      },
+      {
+        "token": "бок",
+        "signature": "бко",
+        "length": 3
+      },
+      {
+        "token": "встречать",
+        "signature": "аверстчь",
+        "length": 9
+      },
+      {
+        "token": "говориться",
+        "signature": "вгиорстья",
+        "length": 10
+      },
+      {
+        "token": "гореть",
+        "signature": "георть",
+        "length": 6
+      },
+      {
+        "token": "готовить",
+        "signature": "вгиоть",
+        "length": 8
+      },
+      {
+        "token": "звонок",
+        "signature": "взкно",
+        "length": 6
+      },
+      {
+        "token": "испытывать",
+        "signature": "авипстыь",
+        "length": 10
+      },
+      {
+        "token": "июль",
+        "signature": "илью",
+        "length": 4
+      },
+      {
+        "token": "крикнуть",
+        "signature": "икнртуь",
+        "length": 8
+      },
+      {
+        "token": "кусок",
+        "signature": "косу",
+        "length": 5
+      },
+      {
+        "token": "мощный",
+        "signature": "ймнощы",
+        "length": 6
+      },
+      {
+        "token": "перевод",
+        "signature": "вдеопр",
+        "length": 7
+      },
+      {
+        "token": "польза",
+        "signature": "азлопь",
+        "length": 6
+      },
+      {
+        "token": "секретарь",
+        "signature": "аекрсть",
+        "length": 9
+      },
+      {
+        "token": "слух",
+        "signature": "лсух",
+        "length": 4
+      },
+      {
+        "token": "спустя",
+        "signature": "пстуя",
+        "length": 6
+      },
+      {
+        "token": "учить",
+        "signature": "итучь",
+        "length": 5
+      },
+      {
+        "token": "выделить",
+        "signature": "вдеилтыь",
+        "length": 8
+      },
+      {
+        "token": "деревянный",
+        "signature": "вдейнрыя",
+        "length": 10
+      },
+      {
+        "token": "деталь",
+        "signature": "аделть",
+        "length": 6
+      },
+      {
+        "token": "зарплата",
+        "signature": "азлпрт",
+        "length": 8
+      },
+      {
+        "token": "мимо",
+        "signature": "имо",
+        "length": 4
+      },
+      {
+        "token": "обстановка",
+        "signature": "абвкност",
+        "length": 10
+      },
+      {
+        "token": "оттуда",
+        "signature": "адоту",
+        "length": 6
+      },
+      {
+        "token": "поддерживать",
+        "signature": "авдежиопрть",
+        "length": 12
+      },
+      {
+        "token": "подниматься",
+        "signature": "адимнопстья",
+        "length": 11
+      },
+      {
+        "token": "следить",
+        "signature": "деилсть",
+        "length": 7
+      },
+      {
+        "token": "соглашение",
+        "signature": "агеилносш",
+        "length": 10
+      },
+      {
+        "token": "тишина",
+        "signature": "аинтш",
+        "length": 6
+      },
+      {
+        "token": "требоваться",
+        "signature": "абвеорстья",
+        "length": 11
+      },
+      {
+        "token": "чиновник",
+        "signature": "викноч",
+        "length": 8
+      },
+      {
+        "token": "билет",
+        "signature": "беилт",
+        "length": 5
+      },
+      {
+        "token": "включать",
+        "signature": "авклтчью",
+        "length": 8
+      },
+      {
+        "token": "дальний",
+        "signature": "адийлнь",
+        "length": 7
+      },
+      {
+        "token": "делаться",
+        "signature": "аделстья",
+        "length": 8
+      },
+      {
+        "token": "изучение",
+        "signature": "езинуч",
+        "length": 8
+      },
+      {
+        "token": "книжка",
+        "signature": "ажикн",
+        "length": 6
+      },
+      {
+        "token": "конкурс",
+        "signature": "кнорсу",
+        "length": 7
+      },
+      {
+        "token": "менять",
+        "signature": "емнтья",
+        "length": 6
+      },
+      {
+        "token": "подарок",
+        "signature": "адкопр",
+        "length": 7
+      },
+      {
+        "token": "покупать",
+        "signature": "акоптуь",
+        "length": 8
+      },
+      {
+        "token": "полезный",
+        "signature": "езйлнопы",
+        "length": 8
+      },
+      {
+        "token": "просьба",
+        "signature": "абопрсь",
+        "length": 7
+      },
+      {
+        "token": "публика",
+        "signature": "абиклпу",
+        "length": 7
+      },
+      {
+        "token": "скажем",
+        "signature": "аежкмс",
+        "length": 6
+      },
+      {
+        "token": "смех",
+        "signature": "емсх",
+        "length": 4
+      },
+      {
+        "token": "собирать",
+        "signature": "абиорсть",
+        "length": 8
+      },
+      {
+        "token": "сообщение",
+        "signature": "беиносщ",
+        "length": 9
+      },
+      {
+        "token": "тюрьма",
+        "signature": "амртью",
+        "length": 6
+      },
+      {
+        "token": "угроза",
+        "signature": "агзору",
+        "length": 6
+      },
+      {
+        "token": "царь",
+        "signature": "арць",
+        "length": 4
+      },
+      {
+        "token": "ящик",
+        "signature": "икщя",
+        "length": 4
+      },
+      {
+        "token": "беда",
+        "signature": "абде",
+        "length": 4
+      },
+      {
+        "token": "блок",
+        "signature": "бкло",
+        "length": 4
+      },
+      {
+        "token": "должно",
+        "signature": "джлно",
+        "length": 6
+      },
+      {
+        "token": "домашний",
+        "signature": "адиймнош",
+        "length": 8
+      },
+      {
+        "token": "достижение",
+        "signature": "дежиност",
+        "length": 10
+      },
+      {
+        "token": "жесткий",
+        "signature": "ежийкст",
+        "length": 7
+      },
+      {
+        "token": "крепкий",
+        "signature": "еийкпр",
+        "length": 7
+      },
+      {
+        "token": "назначение",
+        "signature": "аезинч",
+        "length": 10
+      },
+      {
+        "token": "портрет",
+        "signature": "еопрт",
+        "length": 7
+      },
+      {
+        "token": "предполагать",
+        "signature": "агделопрть",
+        "length": 12
+      },
+      {
+        "token": "реклама",
+        "signature": "аеклмр",
+        "length": 7
+      },
+      {
+        "token": "специально",
+        "signature": "аеилнопсць",
+        "length": 10
+      },
+      {
+        "token": "терять",
+        "signature": "ертья",
+        "length": 6
+      },
+      {
+        "token": "традиционный",
+        "signature": "адийнортцы",
+        "length": 12
+      },
+      {
+        "token": "буквально",
+        "signature": "абвклноуь",
+        "length": 9
+      },
+      {
+        "token": "виноватый",
+        "signature": "авийноты",
+        "length": 9
+      },
+      {
+        "token": "допустить",
+        "signature": "диопстуь",
+        "length": 9
+      },
+      {
+        "token": "значительно",
+        "signature": "аезилнотчь",
+        "length": 11
+      },
+      {
+        "token": "культурный",
+        "signature": "йклнртуыь",
+        "length": 10
+      },
+      {
+        "token": "масло",
+        "signature": "алмос",
+        "length": 5
+      },
+      {
+        "token": "послать",
+        "signature": "алопсть",
+        "length": 7
+      },
+      {
+        "token": "присутствовать",
+        "signature": "авиопрстуь",
+        "length": 14
+      },
+      {
+        "token": "приятный",
+        "signature": "ийнпртыя",
+        "length": 8
+      },
+      {
+        "token": "прочитать",
+        "signature": "аиопртчь",
+        "length": 9
+      },
+      {
+        "token": "стакан",
+        "signature": "акнст",
+        "length": 6
+      },
+      {
+        "token": "часы",
+        "signature": "асчы",
+        "length": 4
+      },
+      {
+        "token": "взглянуть",
+        "signature": "вгзлнтуья",
+        "length": 9
+      },
+      {
+        "token": "голубой",
+        "signature": "бгйлоу",
+        "length": 7
+      },
+      {
+        "token": "дно",
+        "signature": "дно",
+        "length": 3
+      },
+      {
+        "token": "инструмент",
+        "signature": "еимнрсту",
+        "length": 10
+      },
+      {
+        "token": "канал",
+        "signature": "аклн",
+        "length": 5
+      },
+      {
+        "token": "концепция",
+        "signature": "еикнопця",
+        "length": 9
+      },
+      {
+        "token": "крик",
+        "signature": "икр",
+        "length": 4
+      },
+      {
+        "token": "круглый",
+        "signature": "гйклруы",
+        "length": 7
+      },
+      {
+        "token": "мечтать",
+        "signature": "аемтчь",
+        "length": 7
+      },
+      {
+        "token": "осуществлять",
+        "signature": "велостущья",
+        "length": 12
+      },
+      {
+        "token": "подписать",
+        "signature": "адиопсть",
+        "length": 9
+      },
+      {
+        "token": "понятный",
+        "signature": "йноптыя",
+        "length": 8
+      },
+      {
+        "token": "поступать",
+        "signature": "аопстуь",
+        "length": 9
+      },
+      {
+        "token": "реальность",
+        "signature": "аелнорсть",
+        "length": 10
+      },
+      {
+        "token": "творчество",
+        "signature": "веорстч",
+        "length": 10
+      },
+      {
+        "token": "телевизор",
+        "signature": "везилорт",
+        "length": 9
+      },
+      {
+        "token": "удивительный",
+        "signature": "вдеийлнтуыь",
+        "length": 12
+      }
+    ],
+    "advanced": [
+      {
+        "token": "выразительность",
+        "signature": "авезилнорстыь",
+        "length": 15
+      },
+      {
+        "token": "пунктуация",
+        "signature": "аикнптуця",
+        "length": 10
+      },
+      {
+        "token": "разнообразие",
+        "signature": "абезинор",
+        "length": 12
+      },
+      {
+        "token": "устойчивость",
+        "signature": "вийостучь",
+        "length": 12
+      },
+      {
+        "token": "наблюдательность",
+        "signature": "абделностью",
+        "length": 16
+      },
+      {
+        "token": "снизить",
+        "signature": "зинсть",
+        "length": 7
+      },
+      {
+        "token": "совершение",
+        "signature": "веинорсш",
+        "length": 10
+      },
+      {
+        "token": "спортсмен",
+        "signature": "емнопрст",
+        "length": 9
+      },
+      {
+        "token": "сравнивать",
+        "signature": "авинрсть",
+        "length": 10
+      },
+      {
+        "token": "стабильность",
+        "signature": "абилность",
+        "length": 12
+      },
+      {
+        "token": "сталкиваться",
+        "signature": "авиклстья",
+        "length": 12
+      },
+      {
+        "token": "стальной",
+        "signature": "айлность",
+        "length": 8
+      },
+      {
+        "token": "старшина",
+        "signature": "аинрстш",
+        "length": 8
+      },
+      {
+        "token": "сформировать",
+        "signature": "авиморстфь",
+        "length": 12
+      },
+      {
+        "token": "сыворотка",
+        "signature": "авкорсты",
+        "length": 9
+      },
+      {
+        "token": "телевизионный",
+        "signature": "везийлноты",
+        "length": 13
+      },
+      {
+        "token": "тест",
+        "signature": "ест",
+        "length": 4
+      },
+      {
+        "token": "ток",
+        "signature": "кот",
+        "length": 3
+      },
+      {
+        "token": "угу",
+        "signature": "гу",
+        "length": 3
+      },
+      {
+        "token": "усесться",
+        "signature": "естуья",
+        "length": 8
+      },
+      {
+        "token": "устанавливаться",
+        "signature": "авилнстуья",
+        "length": 15
+      },
+      {
+        "token": "фантастический",
+        "signature": "аеийкнстфч",
+        "length": 14
+      },
+      {
+        "token": "ширина",
+        "signature": "аинрш",
+        "length": 6
+      },
+      {
+        "token": "эволюция",
+        "signature": "вилоцэюя",
+        "length": 8
+      },
+      {
+        "token": "эмоциональный",
+        "signature": "аийлмноцыьэ",
+        "length": 13
+      },
+      {
+        "token": "эфир",
+        "signature": "ирфэ",
+        "length": 4
+      },
+      {
+        "token": "автоматический",
+        "signature": "авеийкмостч",
+        "length": 14
+      },
+      {
+        "token": "ад",
+        "signature": "ад",
+        "length": 2
+      },
+      {
+        "token": "альбом",
+        "signature": "аблмоь",
+        "length": 6
+      },
+      {
+        "token": "антитело",
+        "signature": "аеилнот",
+        "length": 8
+      },
+      {
+        "token": "бедро",
+        "signature": "бдеор",
+        "length": 5
+      },
+      {
+        "token": "безопасный",
+        "signature": "абезйнопсы",
+        "length": 10
+      },
+      {
+        "token": "бесконечно",
+        "signature": "бекносч",
+        "length": 10
+      },
+      {
+        "token": "бесплатно",
+        "signature": "абелнопст",
+        "length": 9
+      },
+      {
+        "token": "близкие",
+        "signature": "безикл",
+        "length": 7
+      },
+      {
+        "token": "вена",
+        "signature": "авен",
+        "length": 4
+      },
+      {
+        "token": "вздрогнуть",
+        "signature": "вгдзнортуь",
+        "length": 10
+      },
+      {
+        "token": "взор",
+        "signature": "взор",
+        "length": 4
+      },
+      {
+        "token": "влажный",
+        "signature": "авжйлны",
+        "length": 7
+      },
+      {
+        "token": "внешне",
+        "signature": "венш",
+        "length": 6
+      },
+      {
+        "token": "внешность",
+        "signature": "веностшь",
+        "length": 9
+      },
+      {
+        "token": "возить",
+        "signature": "взиоть",
+        "length": 6
+      },
+      {
+        "token": "возрастать",
+        "signature": "авзорсть",
+        "length": 10
+      },
+      {
+        "token": "вольный",
+        "signature": "вйлноыь",
+        "length": 7
+      },
+      {
+        "token": "восприниматься",
+        "signature": "авимнопрстья",
+        "length": 14
+      },
+      {
+        "token": "воспринять",
+        "signature": "винопрстья",
+        "length": 10
+      },
+      {
+        "token": "вручить",
+        "signature": "виртучь",
+        "length": 7
+      },
+      {
+        "token": "вследствие",
+        "signature": "вдеилст",
+        "length": 10
+      },
+      {
+        "token": "вспышка",
+        "signature": "авкпсшы",
+        "length": 7
+      },
+      {
+        "token": "вставить",
+        "signature": "ависть",
+        "length": 8
+      },
+      {
+        "token": "выдвинуть",
+        "signature": "вдинтуыь",
+        "length": 9
+      },
+      {
+        "token": "гвоздь",
+        "signature": "вгдзоь",
+        "length": 6
+      },
+      {
+        "token": "гладкий",
+        "signature": "агдийкл",
+        "length": 7
+      },
+      {
+        "token": "гордый",
+        "signature": "гдйоры",
+        "length": 6
+      },
+      {
+        "token": "гостиная",
+        "signature": "агиностя",
+        "length": 8
+      },
+      {
+        "token": "драгоценный",
+        "signature": "агдейнорцы",
+        "length": 11
+      }
+    ]
+  }
+}

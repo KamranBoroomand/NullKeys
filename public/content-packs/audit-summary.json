@@ -1,0 +1,2953 @@
+{
+  "version": "2026-03-17-public-corpus-v3",
+  "generatedAt": "2026-03-27T15:42:09.686Z",
+  "sourceFiles": {
+    "seedContentSourcePath": "src/content/dictionaries/seed-language-content.generated.ts",
+    "supplementalLexiconSourcePath": "src/content/dictionaries/language-layered-lexicons.ts",
+    "languageTextMetadataSourcePath": "src/content/languages/language-text-metadata.ts",
+    "languageTextNormalizationSourcePath": "src/lib/text/language-text-normalization.ts"
+  },
+  "coverage": {
+    "totalPackCount": 133,
+    "commonWordPackCount": 95,
+    "phrasePackCount": 19,
+    "quotePackCount": 19,
+    "overlapLanguageCount": 31,
+    "fullSupportLanguageCount": 7,
+    "firstClassLanguageIds": [
+      "english",
+      "persian",
+      "russian"
+    ],
+    "longTailLanguageIds": [
+      "arabic",
+      "belarusian",
+      "croatian",
+      "czech",
+      "danish",
+      "dutch",
+      "estonian",
+      "finnish",
+      "greek",
+      "hebrew",
+      "hindi",
+      "hungarian",
+      "indonesian",
+      "italian",
+      "latvian",
+      "lithuanian",
+      "norwegian",
+      "norwegian-bokmal",
+      "polish",
+      "portuguese",
+      "romanian",
+      "slovenian",
+      "swedish",
+      "thai",
+      "turkish",
+      "ukrainian"
+    ]
+  },
+  "languages": {
+    "arabic": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9976,
+      "fallbackRealWordCount": 31,
+      "totalRankedWordCount": 9993,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "arabic",
+        "numberingSystem": "mixed",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "joined-script-rtl",
+        "benchmarkReplay": "joined-script-rtl",
+        "status": "rtl-aware",
+        "notes": "RTL joined-script rendering and bidi-safe punctuation spacing are enabled for practice and replay surfaces."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2598,
+        "advancedPool": 5995,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2598,
+          "advanced": 5995
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7799
+        },
+        "total": 9993,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "belarusian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9995,
+      "fallbackRealWordCount": 105,
+      "totalRankedWordCount": 10034,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "cyrillic",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "cyrillic-tuned",
+        "benchmarkReplay": "cyrillic-tuned",
+        "status": "script-aware",
+        "notes": "Cyrillic languages use script-aware prompt metadata and readable preview rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6034,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6034
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7840
+        },
+        "total": 10034,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "croatian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9995,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 10005,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6005,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6005
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7811
+        },
+        "total": 10005,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "czech": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9996,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 10016,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6016,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6016
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7822
+        },
+        "total": 10016,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "danish": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9997,
+      "fallbackRealWordCount": 31,
+      "totalRankedWordCount": 10003,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6003,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6003
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7809
+        },
+        "total": 10003,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "dutch": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9999,
+      "fallbackRealWordCount": 35,
+      "totalRankedWordCount": 10006,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6006,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6006
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7812
+        },
+        "total": 10006,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "english": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9999,
+      "fallbackRealWordCount": 136,
+      "totalRankedWordCount": 10052,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "latin-editorial",
+        "benchmarkReplay": "latin-editorial",
+        "status": "premium-verified",
+        "notes": "Readable sentence shaping, pretty wrapping, and teacher-style benchmark presentation are enabled across core practice surfaces."
+      },
+      "repetitionRobustness": {
+        "status": "premium",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1664,
+        "foundationalPool": 1424,
+        "developingPool": 2603,
+        "advancedPool": 6025,
+        "phrasePool": 16977,
+        "quotePool": 8266
+      },
+      "benchmarkReadiness": {
+        "status": "premium-ready",
+        "supportsBenchmarks": true,
+        "quotePool": 8266,
+        "phrasePool": 16977
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1424,
+          "developing": 2603,
+          "advanced": 6025
+        },
+        "tiers": {
+          "core": 730,
+          "extended": 1478,
+          "deep": 7844
+        },
+        "total": 10052,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages",
+          "seed/benchmark-passages",
+          "NullKeys curated English progression booster lexicon for beginner, intermediate, and advanced practice"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 320,
+          "deep": 16537
+        },
+        "total": 16977,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages",
+          "seed/benchmark-passages",
+          "NullKeys curated English teacher-style phrase drills for early and mid progression"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 96,
+          "extended": 260,
+          "deep": 7910
+        },
+        "total": 8266,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages",
+          "seed/benchmark-passages",
+          "NullKeys curated English benchmark passages for readable, editorially strong progression"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words",
+        "seed/book-passages",
+        "seed/book-passages",
+        "seed/book-passages",
+        "seed/benchmark-passages"
+      ]
+    },
+    "estonian": {
+      "sourceWordCount": 9680,
+      "seedWordCount": 9680,
+      "fallbackRealWordCount": 31,
+      "totalRankedWordCount": 9687,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2519,
+        "advancedPool": 5768,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2519,
+          "advanced": 5768
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1453,
+          "deep": 7512
+        },
+        "total": 9687,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "finnish": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 10000,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 10011,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6011,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6011
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7817
+        },
+        "total": 10011,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "french": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9998,
+      "fallbackRealWordCount": 132,
+      "totalRankedWordCount": 10060,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "well-supported",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "strong",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6060,
+        "phrasePool": 3184,
+        "quotePool": 1387
+      },
+      "benchmarkReadiness": {
+        "status": "ready",
+        "supportsBenchmarks": true,
+        "quotePool": 1387,
+        "phrasePool": 3184
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6060
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7866
+        },
+        "total": 10060,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 320,
+          "deep": 2744
+        },
+        "total": 3184,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 96,
+          "extended": 260,
+          "deep": 1031
+        },
+        "total": 1387,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words",
+        "seed/book-passages"
+      ]
+    },
+    "german": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 10000,
+      "fallbackRealWordCount": 115,
+      "totalRankedWordCount": 10034,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "well-supported",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "strong",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6034,
+        "phrasePool": 3565,
+        "quotePool": 1279
+      },
+      "benchmarkReadiness": {
+        "status": "ready",
+        "supportsBenchmarks": true,
+        "quotePool": 1279,
+        "phrasePool": 3565
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6034
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7840
+        },
+        "total": 10034,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 320,
+          "deep": 3125
+        },
+        "total": 3565,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 96,
+          "extended": 260,
+          "deep": 923
+        },
+        "total": 1279,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words",
+        "seed/book-passages"
+      ]
+    },
+    "greek": {
+      "sourceWordCount": 9991,
+      "seedWordCount": 9988,
+      "fallbackRealWordCount": 28,
+      "totalRankedWordCount": 10016,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "greek",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6016,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6016
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7822
+        },
+        "total": 10016,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "hebrew": {
+      "sourceWordCount": 1595,
+      "seedWordCount": 1595,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 1612,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "hebrew",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 660,
+        "foundationalPool": 420,
+        "developingPool": 560,
+        "advancedPool": 632,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 420,
+          "developing": 560,
+          "advanced": 632
+        },
+        "tiers": {
+          "core": 230,
+          "extended": 342,
+          "deep": 1040
+        },
+        "total": 1612,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "hindi": {
+      "sourceWordCount": 0,
+      "seedWordCount": 0,
+      "fallbackRealWordCount": 114,
+      "totalRankedWordCount": 114,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "devanagari",
+        "numberingSystem": "mixed",
+        "imeProfile": "ime-light",
+        "usesWordSpacing": true,
+        "promptBoard": "non-latin-wrap-aware",
+        "benchmarkReplay": "non-latin-wrap-aware",
+        "status": "script-aware",
+        "notes": "Non-Latin practice text uses script-aware rendering, font selection, and wrap handling across visible prompt surfaces."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": false,
+        "beginnerBreadth": 77,
+        "foundationalPool": 41,
+        "developingPool": 36,
+        "advancedPool": 37,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 41,
+          "developing": 36,
+          "advanced": 37
+        },
+        "tiers": {
+          "core": 114,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 114,
+        "sourceOrigins": []
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": []
+    },
+    "hungarian": {
+      "sourceWordCount": 8647,
+      "seedWordCount": 8647,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 8665,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1626,
+        "foundationalPool": 1386,
+        "developingPool": 2253,
+        "advancedPool": 5026,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1386,
+          "developing": 2253,
+          "advanced": 5026
+        },
+        "tiers": {
+          "core": 717,
+          "extended": 1386,
+          "deep": 6562
+        },
+        "total": 8665,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "indonesian": {
+      "sourceWordCount": 0,
+      "seedWordCount": 0,
+      "fallbackRealWordCount": 104,
+      "totalRankedWordCount": 104,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": false,
+        "beginnerBreadth": 70,
+        "foundationalPool": 37,
+        "developingPool": 33,
+        "advancedPool": 34,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 37,
+          "developing": 33,
+          "advanced": 34
+        },
+        "tiers": {
+          "core": 104,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 104,
+        "sourceOrigins": []
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": []
+    },
+    "italian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9994,
+      "fallbackRealWordCount": 34,
+      "totalRankedWordCount": 9998,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2599,
+        "advancedPool": 5999,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2599,
+          "advanced": 5999
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7804
+        },
+        "total": 9998,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "japanese": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9935,
+      "fallbackRealWordCount": 23,
+      "totalRankedWordCount": 9938,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "well-supported",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "hiragana",
+        "numberingSystem": "mixed",
+        "imeProfile": "ime-required",
+        "usesWordSpacing": false,
+        "promptBoard": "hiragana-wrap-aware",
+        "benchmarkReplay": "hiragana-wrap-aware",
+        "status": "verified-script-aware",
+        "notes": "Script-aware font selection and strict line-breaking are enabled for practice and benchmark text."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2584,
+        "advancedPool": 5954,
+        "phrasePool": 12,
+        "quotePool": 12
+      },
+      "benchmarkReadiness": {
+        "status": "baseline",
+        "supportsBenchmarks": true,
+        "quotePool": 12,
+        "phrasePool": 12
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2584,
+          "advanced": 5954
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1468,
+          "deep": 7748
+        },
+        "total": 9938,
+        "sourceOrigins": [
+          "seed/common-words",
+          "NullKeys Japanese supplemental vocabulary curated for kana-first practice flow"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 12,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 12,
+        "sourceOrigins": [
+          "NullKeys curated Japanese phrase-drill fragments written with readable learner-facing separators"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 12,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 12,
+        "sourceOrigins": [
+          "NullKeys curated Japanese benchmark passages with phrase-like pacing and local-only sentence templates"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "latvian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9975,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 9989,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2597,
+        "advancedPool": 5992,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2597,
+          "advanced": 5992
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1471,
+          "deep": 7796
+        },
+        "total": 9989,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "lithuanian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9978,
+      "fallbackRealWordCount": 30,
+      "totalRankedWordCount": 9990,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2597,
+        "advancedPool": 5993,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2597,
+          "advanced": 5993
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1471,
+          "deep": 7797
+        },
+        "total": 9990,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "norwegian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9998,
+      "fallbackRealWordCount": 32,
+      "totalRankedWordCount": 10007,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6007,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6007
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7813
+        },
+        "total": 10007,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "norwegian-bokmal": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9998,
+      "fallbackRealWordCount": 32,
+      "totalRankedWordCount": 10007,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6007,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6007
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7813
+        },
+        "total": 10007,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "persian": {
+      "sourceWordCount": 9840,
+      "seedWordCount": 9839,
+      "fallbackRealWordCount": 149,
+      "totalRankedWordCount": 9890,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "arabic",
+        "numberingSystem": "mixed",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "joined-script-rtl",
+        "benchmarkReplay": "joined-script-rtl",
+        "status": "premium-verified",
+        "notes": "Joined-script RTL rendering, ZWNJ-safe normalization, bidi-aware punctuation spacing, and benchmark replay support are enabled."
+      },
+      "repetitionRobustness": {
+        "status": "premium",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1661,
+        "foundationalPool": 1421,
+        "developingPool": 2582,
+        "advancedPool": 5887,
+        "phrasePool": 1011,
+        "quotePool": 588
+      },
+      "benchmarkReadiness": {
+        "status": "premium-ready",
+        "supportsBenchmarks": true,
+        "quotePool": 588,
+        "phrasePool": 1011
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1421,
+          "developing": 2582,
+          "advanced": 5887
+        },
+        "tiers": {
+          "core": 729,
+          "extended": 1473,
+          "deep": 7688
+        },
+        "total": 9890,
+        "sourceOrigins": [
+          "seed/common-words",
+          "NullKeys Persian supplemental lexicon additions for reading-like practice vocabulary"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 283,
+          "deep": 608
+        },
+        "total": 1011,
+        "sourceOrigins": [
+          "NullKeys curated Persian phrase-drill clauses with explicit ZWNJ-aware orthography, everyday scene writing, and readable sentence rhythm"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 94,
+          "extended": 129,
+          "deep": 365
+        },
+        "total": 588,
+        "sourceOrigins": [
+          "NullKeys curated Persian benchmark passages built from local teacher-style passage templates, narrative scenes, and paired clauses"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "polish": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9997,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 10011,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6011,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6011
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7817
+        },
+        "total": 10011,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "portuguese": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9989,
+      "fallbackRealWordCount": 35,
+      "totalRankedWordCount": 9997,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2599,
+        "advancedPool": 5998,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2599,
+          "advanced": 5998
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7803
+        },
+        "total": 9997,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "romanian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9997,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 10009,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6009,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6009
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7815
+        },
+        "total": 10009,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "russian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9995,
+      "fallbackRealWordCount": 82,
+      "totalRankedWordCount": 9999,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "cyrillic",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "cyrillic-tuned",
+        "benchmarkReplay": "cyrillic-tuned",
+        "status": "premium-verified",
+        "notes": "Cyrillic prompt spacing and benchmark previews use script-aware rendering with tuned tracking and readable wrapping."
+      },
+      "repetitionRobustness": {
+        "status": "premium",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1648,
+        "foundationalPool": 1408,
+        "developingPool": 2598,
+        "advancedPool": 5993,
+        "phrasePool": 930,
+        "quotePool": 382
+      },
+      "benchmarkReadiness": {
+        "status": "premium-ready",
+        "supportsBenchmarks": true,
+        "quotePool": 382,
+        "phrasePool": 930
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1408,
+          "developing": 2598,
+          "advanced": 5993
+        },
+        "tiers": {
+          "core": 725,
+          "extended": 1474,
+          "deep": 7800
+        },
+        "total": 9999,
+        "sourceOrigins": [
+          "seed/common-words",
+          "NullKeys Russian supplemental lexicon additions for teacher-style practice vocabulary"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 260,
+          "deep": 550
+        },
+        "total": 930,
+        "sourceOrigins": [
+          "NullKeys curated Russian phrase-drill clauses built from local teacher-style lesson templates"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 61,
+          "extended": 84,
+          "deep": 237
+        },
+        "total": 382,
+        "sourceOrigins": [
+          "NullKeys curated Russian benchmark passages built from local sentence templates and readable clause pairings"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "slovenian": {
+      "sourceWordCount": 2765,
+      "seedWordCount": 2765,
+      "fallbackRealWordCount": 29,
+      "totalRankedWordCount": 2773,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 684,
+        "foundationalPool": 444,
+        "developingPool": 721,
+        "advancedPool": 1608,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 444,
+          "developing": 721,
+          "advanced": 1608
+        },
+        "tiers": {
+          "core": 286,
+          "extended": 518,
+          "deep": 1969
+        },
+        "total": 2773,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "spanish": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9996,
+      "fallbackRealWordCount": 129,
+      "totalRankedWordCount": 10013,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "well-supported",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "strong",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6013,
+        "phrasePool": 5948,
+        "quotePool": 2764
+      },
+      "benchmarkReadiness": {
+        "status": "ready",
+        "supportsBenchmarks": true,
+        "quotePool": 2764,
+        "phrasePool": 5948
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6013
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7819
+        },
+        "total": 10013,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 120,
+          "extended": 320,
+          "deep": 5508
+        },
+        "total": 5948,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 96,
+          "extended": 260,
+          "deep": 2408
+        },
+        "total": 2764,
+        "sourceOrigins": [
+          "seed/common-words",
+          "seed/book-passages"
+        ]
+      },
+      "sourceLabels": [
+        "seed/common-words",
+        "seed/book-passages"
+      ]
+    },
+    "swedish": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9995,
+      "fallbackRealWordCount": 31,
+      "totalRankedWordCount": 10008,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6008,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6008
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7814
+        },
+        "total": 10008,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "thai": {
+      "sourceWordCount": 4936,
+      "seedWordCount": 4934,
+      "fallbackRealWordCount": 30,
+      "totalRankedWordCount": 4935,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "thai",
+        "numberingSystem": "mixed",
+        "imeProfile": "ime-light",
+        "usesWordSpacing": false,
+        "promptBoard": "non-latin-wrap-aware",
+        "benchmarkReplay": "non-latin-wrap-aware",
+        "status": "script-aware",
+        "notes": "Non-Latin practice text uses script-aware rendering, font selection, and wrap handling across visible prompt surfaces."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1030,
+        "foundationalPool": 790,
+        "developingPool": 1283,
+        "advancedPool": 2862,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 790,
+          "developing": 1283,
+          "advanced": 2862
+        },
+        "tiers": {
+          "core": 466,
+          "extended": 883,
+          "deep": 3586
+        },
+        "total": 4935,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "turkish": {
+      "sourceWordCount": 8886,
+      "seedWordCount": 8884,
+      "fallbackRealWordCount": 31,
+      "totalRankedWordCount": 8905,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "unicode-bidi-plaintext",
+        "benchmarkReplay": "unicode-bidi-plaintext",
+        "status": "standard",
+        "notes": "Language metadata drives locale, direction, and plaintext-friendly prompt rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2315,
+        "advancedPool": 5190,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2315,
+          "advanced": 5190
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1404,
+          "deep": 6779
+        },
+        "total": 8905,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    },
+    "ukrainian": {
+      "sourceWordCount": 10000,
+      "seedWordCount": 9993,
+      "fallbackRealWordCount": 30,
+      "totalRankedWordCount": 10002,
+      "supportedFamilies": [
+        "common-words"
+      ],
+      "firstClassTarget": false,
+      "supportTier": "long-tail",
+      "qualifiesAsFullSupport": false,
+      "supportStatus": "common-words-only",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "cyrillic",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "cyrillic-tuned",
+        "benchmarkReplay": "cyrillic-tuned",
+        "status": "script-aware",
+        "notes": "Cyrillic languages use script-aware prompt metadata and readable preview rendering."
+      },
+      "repetitionRobustness": {
+        "status": "fragile",
+        "constrainedCharacterSetReady": true,
+        "beginnerBreadth": 1640,
+        "foundationalPool": 1400,
+        "developingPool": 2600,
+        "advancedPool": 6002,
+        "phrasePool": 0,
+        "quotePool": 0
+      },
+      "benchmarkReadiness": {
+        "status": "not-ready",
+        "supportsBenchmarks": false,
+        "quotePool": 0,
+        "phrasePool": 0
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 1400,
+          "developing": 2600,
+          "advanced": 6002
+        },
+        "tiers": {
+          "core": 722,
+          "extended": 1472,
+          "deep": 7808
+        },
+        "total": 10002,
+        "sourceOrigins": [
+          "seed/common-words"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 0,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 0,
+        "sourceOrigins": []
+      },
+      "sourceLabels": [
+        "seed/common-words"
+      ]
+    }
+  }
+}

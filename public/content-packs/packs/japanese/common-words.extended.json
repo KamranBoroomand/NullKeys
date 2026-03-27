@@ -1,0 +1,7356 @@
+{
+  "packId": "japanese:common-words:extended",
+  "languageId": "japanese",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1468,
+  "stages": {
+    "foundational": [
+      {
+        "token": "ちょくせつ",
+        "signature": "くせちつょ",
+        "length": 5
+      },
+      {
+        "token": "ほうこう",
+        "signature": "うこほ",
+        "length": 4
+      },
+      {
+        "token": "あし",
+        "signature": "あし",
+        "length": 2
+      },
+      {
+        "token": "とうぜん",
+        "signature": "うぜとん",
+        "length": 4
+      },
+      {
+        "token": "しっかり",
+        "signature": "かしっり",
+        "length": 4
+      },
+      {
+        "token": "ていきょうする",
+        "signature": "いうきすてょる",
+        "length": 7
+      },
+      {
+        "token": "めざす",
+        "signature": "ざすめ",
+        "length": 3
+      },
+      {
+        "token": "あるく",
+        "signature": "あくる",
+        "length": 3
+      },
+      {
+        "token": "ほご",
+        "signature": "ごほ",
+        "length": 2
+      },
+      {
+        "token": "ぽいんと",
+        "signature": "いとぽん",
+        "length": 4
+      },
+      {
+        "token": "だから",
+        "signature": "かだら",
+        "length": 3
+      },
+      {
+        "token": "しん",
+        "signature": "しん",
+        "length": 2
+      },
+      {
+        "token": "こうぞう",
+        "signature": "うこぞ",
+        "length": 4
+      },
+      {
+        "token": "じんせい",
+        "signature": "いじせん",
+        "length": 4
+      },
+      {
+        "token": "おわる",
+        "signature": "おるわ",
+        "length": 3
+      },
+      {
+        "token": "りかいする",
+        "signature": "いかすりる",
+        "length": 5
+      },
+      {
+        "token": "なかなか",
+        "signature": "かな",
+        "length": 4
+      },
+      {
+        "token": "れべる",
+        "signature": "べるれ",
+        "length": 3
+      },
+      {
+        "token": "えいご",
+        "signature": "いえご",
+        "length": 3
+      },
+      {
+        "token": "かかく",
+        "signature": "かく",
+        "length": 3
+      },
+      {
+        "token": "えがく",
+        "signature": "えがく",
+        "length": 3
+      },
+      {
+        "token": "いつも",
+        "signature": "いつも",
+        "length": 3
+      },
+      {
+        "token": "みたい",
+        "signature": "いたみ",
+        "length": 3
+      },
+      {
+        "token": "もくひょう",
+        "signature": "うくひもょ",
+        "length": 5
+      },
+      {
+        "token": "ぎょうせい",
+        "signature": "いうぎせょ",
+        "length": 5
+      },
+      {
+        "token": "ありがとう",
+        "signature": "あうがとり",
+        "length": 5
+      },
+      {
+        "token": "はな",
+        "signature": "なは",
+        "length": 2
+      },
+      {
+        "token": "せんたー",
+        "signature": "ーせたん",
+        "length": 4
+      },
+      {
+        "token": "せつめいする",
+        "signature": "いすせつめる",
+        "length": 6
+      },
+      {
+        "token": "ひらく",
+        "signature": "くひら",
+        "length": 3
+      },
+      {
+        "token": "みなさん",
+        "signature": "さなみん",
+        "length": 4
+      },
+      {
+        "token": "もし",
+        "signature": "しも",
+        "length": 2
+      },
+      {
+        "token": "おかね",
+        "signature": "おかね",
+        "length": 3
+      },
+      {
+        "token": "これらの",
+        "signature": "このられ",
+        "length": 4
+      },
+      {
+        "token": "しりょう",
+        "signature": "うしょり",
+        "length": 4
+      },
+      {
+        "token": "たくさん",
+        "signature": "くさたん",
+        "length": 4
+      },
+      {
+        "token": "がんばる",
+        "signature": "がばるん",
+        "length": 4
+      },
+      {
+        "token": "びょうき",
+        "signature": "うきびょ",
+        "length": 4
+      },
+      {
+        "token": "にかんして",
+        "signature": "かしてにん",
+        "length": 5
+      },
+      {
+        "token": "とうしゃ",
+        "signature": "うしとゃ",
+        "length": 4
+      },
+      {
+        "token": "じゅうたく",
+        "signature": "うくじたゅ",
+        "length": 5
+      },
+      {
+        "token": "ふか",
+        "signature": "かふ",
+        "length": 2
+      },
+      {
+        "token": "ぶんや",
+        "signature": "ぶやん",
+        "length": 3
+      },
+      {
+        "token": "まもる",
+        "signature": "まもる",
+        "length": 3
+      },
+      {
+        "token": "しつ",
+        "signature": "しつ",
+        "length": 2
+      },
+      {
+        "token": "なまえ",
+        "signature": "えなま",
+        "length": 3
+      },
+      {
+        "token": "いぜん",
+        "signature": "いぜん",
+        "length": 3
+      },
+      {
+        "token": "しょうじょう",
+        "signature": "うしじょ",
+        "length": 6
+      },
+      {
+        "token": "げんじつ",
+        "signature": "げじつん",
+        "length": 4
+      },
+      {
+        "token": "かだい",
+        "signature": "いかだ",
+        "length": 3
+      },
+      {
+        "token": "すご",
+        "signature": "ごす",
+        "length": 2
+      },
+      {
+        "token": "しゅるい",
+        "signature": "いしゅる",
+        "length": 4
+      },
+      {
+        "token": "しょうひ",
+        "signature": "うしひょ",
+        "length": 4
+      },
+      {
+        "token": "だんたい",
+        "signature": "いただん",
+        "length": 4
+      },
+      {
+        "token": "もどる",
+        "signature": "どもる",
+        "length": 3
+      },
+      {
+        "token": "きんゆう",
+        "signature": "うきゆん",
+        "length": 4
+      },
+      {
+        "token": "かがく",
+        "signature": "かがく",
+        "length": 3
+      },
+      {
+        "token": "ちかかっ",
+        "signature": "かちっ",
+        "length": 4
+      },
+      {
+        "token": "せいひん",
+        "signature": "いせひん",
+        "length": 4
+      },
+      {
+        "token": "かぎり",
+        "signature": "かぎり",
+        "length": 3
+      },
+      {
+        "token": "おや",
+        "signature": "おや",
+        "length": 2
+      },
+      {
+        "token": "じつは",
+        "signature": "じつは",
+        "length": 3
+      },
+      {
+        "token": "ふくめる",
+        "signature": "くふめる",
+        "length": 4
+      },
+      {
+        "token": "やま",
+        "signature": "まや",
+        "length": 2
+      },
+      {
+        "token": "しき",
+        "signature": "きし",
+        "length": 2
+      },
+      {
+        "token": "さんかする",
+        "signature": "かさするん",
+        "length": 5
+      },
+      {
+        "token": "どうよう",
+        "signature": "うどよ",
+        "length": 4
+      },
+      {
+        "token": "せいさく",
+        "signature": "いくさせ",
+        "length": 4
+      },
+      {
+        "token": "へや",
+        "signature": "へや",
+        "length": 2
+      },
+      {
+        "token": "じけん",
+        "signature": "けじん",
+        "length": 3
+      },
+      {
+        "token": "えねるぎー",
+        "signature": "ーえぎねる",
+        "length": 5
+      },
+      {
+        "token": "いちば",
+        "signature": "いちば",
+        "length": 3
+      },
+      {
+        "token": "だんかい",
+        "signature": "いかだん",
+        "length": 4
+      },
+      {
+        "token": "とくべつ",
+        "signature": "くつとべ",
+        "length": 4
+      },
+      {
+        "token": "しゅ",
+        "signature": "しゅ",
+        "length": 2
+      },
+      {
+        "token": "きてい",
+        "signature": "いきて",
+        "length": 3
+      },
+      {
+        "token": "ぜんこく",
+        "signature": "くこぜん",
+        "length": 4
+      },
+      {
+        "token": "ふたん",
+        "signature": "たふん",
+        "length": 3
+      },
+      {
+        "token": "にて",
+        "signature": "てに",
+        "length": 2
+      },
+      {
+        "token": "どうじに",
+        "signature": "うじどに",
+        "length": 4
+      },
+      {
+        "token": "とち",
+        "signature": "ちと",
+        "length": 2
+      },
+      {
+        "token": "つうじょう",
+        "signature": "うじつょ",
+        "length": 5
+      },
+      {
+        "token": "ひくい",
+        "signature": "いくひ",
+        "length": 3
+      },
+      {
+        "token": "あきらか",
+        "signature": "あかきら",
+        "length": 4
+      },
+      {
+        "token": "ひがい",
+        "signature": "いがひ",
+        "length": 3
+      },
+      {
+        "token": "ほうこく",
+        "signature": "うくこほ",
+        "length": 4
+      },
+      {
+        "token": "ちいさく",
+        "signature": "いくさち",
+        "length": 4
+      },
+      {
+        "token": "かんがえ",
+        "signature": "えかがん",
+        "length": 4
+      },
+      {
+        "token": "とし",
+        "signature": "しと",
+        "length": 2
+      },
+      {
+        "token": "ひろ",
+        "signature": "ひろ",
+        "length": 2
+      },
+      {
+        "token": "ひよう",
+        "signature": "うひよ",
+        "length": 3
+      },
+      {
+        "token": "せってい",
+        "signature": "いせって",
+        "length": 4
+      },
+      {
+        "token": "ただしい",
+        "signature": "いしただ",
+        "length": 4
+      },
+      {
+        "token": "てつづき",
+        "signature": "きつづて",
+        "length": 4
+      },
+      {
+        "token": "かいがい",
+        "signature": "いかが",
+        "length": 4
+      },
+      {
+        "token": "とうし",
+        "signature": "うしと",
+        "length": 3
+      },
+      {
+        "token": "かげつ",
+        "signature": "かげつ",
+        "length": 3
+      },
+      {
+        "token": "しょうらい",
+        "signature": "いうしょら",
+        "length": 5
+      },
+      {
+        "token": "れんらく",
+        "signature": "くられん",
+        "length": 4
+      },
+      {
+        "token": "あらた",
+        "signature": "あたら",
+        "length": 3
+      },
+      {
+        "token": "つながる",
+        "signature": "がつなる",
+        "length": 4
+      },
+      {
+        "token": "そのまま",
+        "signature": "そのま",
+        "length": 4
+      },
+      {
+        "token": "いっぽう",
+        "signature": "いうっぽ",
+        "length": 4
+      },
+      {
+        "token": "へんこう",
+        "signature": "うこへん",
+        "length": 4
+      },
+      {
+        "token": "ひょうじする",
+        "signature": "うじすひょる",
+        "length": 6
+      },
+      {
+        "token": "はんばい",
+        "signature": "いはばん",
+        "length": 4
+      },
+      {
+        "token": "ほうりつ",
+        "signature": "うつほり",
+        "length": 4
+      },
+      {
+        "token": "つつ",
+        "signature": "つ",
+        "length": 2
+      },
+      {
+        "token": "ふたつ",
+        "signature": "たつふ",
+        "length": 3
+      },
+      {
+        "token": "ちゅうい",
+        "signature": "いうちゅ",
+        "length": 4
+      },
+      {
+        "token": "みずから",
+        "signature": "かずみら",
+        "length": 4
+      },
+      {
+        "token": "じゅうぶん",
+        "signature": "うじぶゅん",
+        "length": 5
+      },
+      {
+        "token": "とりくむ",
+        "signature": "くとむり",
+        "length": 4
+      },
+      {
+        "token": "おれ",
+        "signature": "おれ",
+        "length": 2
+      },
+      {
+        "token": "がいこく",
+        "signature": "いがくこ",
+        "length": 4
+      },
+      {
+        "token": "しんたい",
+        "signature": "いしたん",
+        "length": 4
+      },
+      {
+        "token": "えき",
+        "signature": "えき",
+        "length": 2
+      },
+      {
+        "token": "かこ",
+        "signature": "かこ",
+        "length": 2
+      },
+      {
+        "token": "どちら",
+        "signature": "ちどら",
+        "length": 3
+      },
+      {
+        "token": "ぐん",
+        "signature": "ぐん",
+        "length": 2
+      },
+      {
+        "token": "おくる",
+        "signature": "おくる",
+        "length": 3
+      },
+      {
+        "token": "とも",
+        "signature": "とも",
+        "length": 2
+      },
+      {
+        "token": "しょう",
+        "signature": "うしょ",
+        "length": 3
+      },
+      {
+        "token": "あの",
+        "signature": "あの",
+        "length": 2
+      },
+      {
+        "token": "とうろく",
+        "signature": "うくとろ",
+        "length": 4
+      },
+      {
+        "token": "しょうじる",
+        "signature": "うしじょる",
+        "length": 5
+      },
+      {
+        "token": "きづく",
+        "signature": "きくづ",
+        "length": 3
+      },
+      {
+        "token": "おねがいする",
+        "signature": "いおがすねる",
+        "length": 6
+      },
+      {
+        "token": "がくしゅう",
+        "signature": "うがくしゅ",
+        "length": 5
+      },
+      {
+        "token": "おもしろい",
+        "signature": "いおしもろ",
+        "length": 5
+      },
+      {
+        "token": "ぎゃく",
+        "signature": "ぎくゃ",
+        "length": 3
+      },
+      {
+        "token": "こういう",
+        "signature": "いうこ",
+        "length": 4
+      },
+      {
+        "token": "たのしむ",
+        "signature": "したのむ",
+        "length": 4
+      },
+      {
+        "token": "ゆめ",
+        "signature": "めゆ",
+        "length": 2
+      },
+      {
+        "token": "かんぜん",
+        "signature": "かぜん",
+        "length": 4
+      },
+      {
+        "token": "のる",
+        "signature": "のる",
+        "length": 2
+      },
+      {
+        "token": "おぼえる",
+        "signature": "えおぼる",
+        "length": 4
+      },
+      {
+        "token": "のべる",
+        "signature": "のべる",
+        "length": 3
+      },
+      {
+        "token": "はしる",
+        "signature": "しはる",
+        "length": 3
+      },
+      {
+        "token": "むかし",
+        "signature": "かしむ",
+        "length": 3
+      },
+      {
+        "token": "きょうりょく",
+        "signature": "うきくょり",
+        "length": 6
+      },
+      {
+        "token": "にくい",
+        "signature": "いくに",
+        "length": 3
+      },
+      {
+        "token": "はんい",
+        "signature": "いはん",
+        "length": 3
+      },
+      {
+        "token": "いし",
+        "signature": "いし",
+        "length": 2
+      },
+      {
+        "token": "べんきょう",
+        "signature": "うきべょん",
+        "length": 5
+      },
+      {
+        "token": "ほんにん",
+        "signature": "にほん",
+        "length": 4
+      },
+      {
+        "token": "わすれる",
+        "signature": "するれわ",
+        "length": 4
+      },
+      {
+        "token": "いずれ",
+        "signature": "いずれ",
+        "length": 3
+      },
+      {
+        "token": "たいおうする",
+        "signature": "いうおすたる",
+        "length": 6
+      },
+      {
+        "token": "はかる",
+        "signature": "かはる",
+        "length": 3
+      },
+      {
+        "token": "じゅぎょう",
+        "signature": "うぎじゅょ",
+        "length": 5
+      },
+      {
+        "token": "てれび",
+        "signature": "てびれ",
+        "length": 3
+      },
+      {
+        "token": "さがす",
+        "signature": "がさす",
+        "length": 3
+      },
+      {
+        "token": "こっか",
+        "signature": "かこっ",
+        "length": 3
+      },
+      {
+        "token": "かんがえかた",
+        "signature": "えかがたん",
+        "length": 6
+      },
+      {
+        "token": "とくちょう",
+        "signature": "うくちとょ",
+        "length": 5
+      },
+      {
+        "token": "たつ",
+        "signature": "たつ",
+        "length": 2
+      },
+      {
+        "token": "はは",
+        "signature": "は",
+        "length": 2
+      },
+      {
+        "token": "ひん",
+        "signature": "ひん",
+        "length": 2
+      },
+      {
+        "token": "すむ",
+        "signature": "すむ",
+        "length": 2
+      },
+      {
+        "token": "あらわれる",
+        "signature": "あらるれわ",
+        "length": 5
+      },
+      {
+        "token": "きぼう",
+        "signature": "うきぼ",
+        "length": 3
+      },
+      {
+        "token": "ふう",
+        "signature": "うふ",
+        "length": 2
+      },
+      {
+        "token": "さんこう",
+        "signature": "うこさん",
+        "length": 4
+      },
+      {
+        "token": "せんそう",
+        "signature": "うせそん",
+        "length": 4
+      },
+      {
+        "token": "さんぎょう",
+        "signature": "うぎさょん",
+        "length": 5
+      },
+      {
+        "token": "たんとう",
+        "signature": "うたとん",
+        "length": 4
+      },
+      {
+        "token": "ぎんこう",
+        "signature": "うぎこん",
+        "length": 4
+      },
+      {
+        "token": "ことし",
+        "signature": "こしと",
+        "length": 3
+      },
+      {
+        "token": "だいじ",
+        "signature": "いじだ",
+        "length": 3
+      },
+      {
+        "token": "かいご",
+        "signature": "いかご",
+        "length": 3
+      },
+      {
+        "token": "かいいん",
+        "signature": "いかん",
+        "length": 4
+      },
+      {
+        "token": "しょり",
+        "signature": "しょり",
+        "length": 3
+      },
+      {
+        "token": "はんだん",
+        "signature": "だはん",
+        "length": 4
+      },
+      {
+        "token": "きかい",
+        "signature": "いかき",
+        "length": 3
+      },
+      {
+        "token": "ぐらい",
+        "signature": "いぐら",
+        "length": 3
+      },
+      {
+        "token": "こえる",
+        "signature": "えこる",
+        "length": 3
+      },
+      {
+        "token": "ぐるーぷ",
+        "signature": "ーぐぷる",
+        "length": 4
+      },
+      {
+        "token": "やくわり",
+        "signature": "くやりわ",
+        "length": 4
+      },
+      {
+        "token": "つねに",
+        "signature": "つにね",
+        "length": 3
+      },
+      {
+        "token": "よてい",
+        "signature": "いてよ",
+        "length": 3
+      },
+      {
+        "token": "きけん",
+        "signature": "きけん",
+        "length": 3
+      },
+      {
+        "token": "きそ",
+        "signature": "きそ",
+        "length": 2
+      },
+      {
+        "token": "しみん",
+        "signature": "しみん",
+        "length": 3
+      },
+      {
+        "token": "わらい",
+        "signature": "いらわ",
+        "length": 3
+      },
+      {
+        "token": "みぎ",
+        "signature": "ぎみ",
+        "length": 2
+      },
+      {
+        "token": "きぼ",
+        "signature": "きぼ",
+        "length": 2
+      },
+      {
+        "token": "ほうじん",
+        "signature": "うじほん",
+        "length": 4
+      },
+      {
+        "token": "ゆうこう",
+        "signature": "うこゆ",
+        "length": 4
+      },
+      {
+        "token": "こうした",
+        "signature": "うこした",
+        "length": 4
+      },
+      {
+        "token": "かたがた",
+        "signature": "かがた",
+        "length": 4
+      },
+      {
+        "token": "いこう",
+        "signature": "いうこ",
+        "length": 3
+      },
+      {
+        "token": "いめーじ",
+        "signature": "ーいじめ",
+        "length": 4
+      },
+      {
+        "token": "くわしい",
+        "signature": "いくしわ",
+        "length": 4
+      },
+      {
+        "token": "かーど",
+        "signature": "ーかど",
+        "length": 3
+      },
+      {
+        "token": "うれしく",
+        "signature": "うくしれ",
+        "length": 4
+      },
+      {
+        "token": "ごと",
+        "signature": "ごと",
+        "length": 2
+      },
+      {
+        "token": "しゅじゅつ",
+        "signature": "しじつゅ",
+        "length": 5
+      },
+      {
+        "token": "えいぎょう",
+        "signature": "いうえぎょ",
+        "length": 5
+      },
+      {
+        "token": "おいしく",
+        "signature": "いおくし",
+        "length": 4
+      },
+      {
+        "token": "かいぎ",
+        "signature": "いかぎ",
+        "length": 3
+      },
+      {
+        "token": "たいけん",
+        "signature": "いけたん",
+        "length": 4
+      },
+      {
+        "token": "おきる",
+        "signature": "おきる",
+        "length": 3
+      },
+      {
+        "token": "しらべる",
+        "signature": "しべらる",
+        "length": 4
+      },
+      {
+        "token": "せいちょう",
+        "signature": "いうせちょ",
+        "length": 5
+      },
+      {
+        "token": "しょくじ",
+        "signature": "くしじょ",
+        "length": 4
+      },
+      {
+        "token": "ぜい",
+        "signature": "いぜ",
+        "length": 2
+      },
+      {
+        "token": "ほとり",
+        "signature": "とほり",
+        "length": 3
+      },
+      {
+        "token": "とうがい",
+        "signature": "いうがと",
+        "length": 4
+      },
+      {
+        "token": "はなす",
+        "signature": "すなは",
+        "length": 3
+      },
+      {
+        "token": "しかく",
+        "signature": "かくし",
+        "length": 3
+      },
+      {
+        "token": "たしかに",
+        "signature": "かしたに",
+        "length": 4
+      },
+      {
+        "token": "しかも",
+        "signature": "かしも",
+        "length": 3
+      },
+      {
+        "token": "げんば",
+        "signature": "げばん",
+        "length": 3
+      },
+      {
+        "token": "しょくいん",
+        "signature": "いくしょん",
+        "length": 5
+      },
+      {
+        "token": "たちば",
+        "signature": "たちば",
+        "length": 3
+      },
+      {
+        "token": "のこす",
+        "signature": "こすの",
+        "length": 3
+      },
+      {
+        "token": "ぎょうしゃ",
+        "signature": "うぎしゃょ",
+        "length": 5
+      },
+      {
+        "token": "けーす",
+        "signature": "ーけす",
+        "length": 3
+      },
+      {
+        "token": "じむ",
+        "signature": "じむ",
+        "length": 2
+      },
+      {
+        "token": "ぶっしつ",
+        "signature": "しっつぶ",
+        "length": 4
+      },
+      {
+        "token": "ぬし",
+        "signature": "しぬ",
+        "length": 2
+      },
+      {
+        "token": "ろん",
+        "signature": "ろん",
+        "length": 2
+      },
+      {
+        "token": "きょく",
+        "signature": "きくょ",
+        "length": 3
+      },
+      {
+        "token": "もじ",
+        "signature": "じも",
+        "length": 2
+      },
+      {
+        "token": "さいぼう",
+        "signature": "いうさぼ",
+        "length": 4
+      },
+      {
+        "token": "おんがく",
+        "signature": "おがくん",
+        "length": 4
+      },
+      {
+        "token": "よる",
+        "signature": "よる",
+        "length": 2
+      },
+      {
+        "token": "ていきょう",
+        "signature": "いうきてょ",
+        "length": 5
+      },
+      {
+        "token": "たいぷ",
+        "signature": "いたぷ",
+        "length": 3
+      },
+      {
+        "token": "にたいし",
+        "signature": "いしたに",
+        "length": 4
+      },
+      {
+        "token": "させる",
+        "signature": "させる",
+        "length": 3
+      },
+      {
+        "token": "まつ",
+        "signature": "つま",
+        "length": 2
+      },
+      {
+        "token": "りょうきん",
+        "signature": "うきょりん",
+        "length": 5
+      },
+      {
+        "token": "はじめ",
+        "signature": "じはめ",
+        "length": 3
+      },
+      {
+        "token": "しぬ",
+        "signature": "しぬ",
+        "length": 2
+      },
+      {
+        "token": "づくり",
+        "signature": "くづり",
+        "length": 3
+      },
+      {
+        "token": "それから",
+        "signature": "かそられ",
+        "length": 4
+      },
+      {
+        "token": "げーむ",
+        "signature": "ーげむ",
+        "length": 3
+      },
+      {
+        "token": "ちち",
+        "signature": "ち",
+        "length": 2
+      },
+      {
+        "token": "ふあん",
+        "signature": "あふん",
+        "length": 3
+      },
+      {
+        "token": "せいと",
+        "signature": "いせと",
+        "length": 3
+      },
+      {
+        "token": "きれい",
+        "signature": "いきれ",
+        "length": 3
+      },
+      {
+        "token": "けんしゅう",
+        "signature": "うけしゅん",
+        "length": 5
+      },
+      {
+        "token": "みなさま",
+        "signature": "さなまみ",
+        "length": 4
+      },
+      {
+        "token": "おもて",
+        "signature": "おても",
+        "length": 3
+      },
+      {
+        "token": "ひょうげん",
+        "signature": "うげひょん",
+        "length": 5
+      },
+      {
+        "token": "むら",
+        "signature": "むら",
+        "length": 2
+      },
+      {
+        "token": "じこう",
+        "signature": "うこじ",
+        "length": 3
+      },
+      {
+        "token": "しんせい",
+        "signature": "いしせん",
+        "length": 4
+      },
+      {
+        "token": "きんがく",
+        "signature": "がきくん",
+        "length": 4
+      },
+      {
+        "token": "ちゃん",
+        "signature": "ちゃん",
+        "length": 3
+      },
+      {
+        "token": "きじ",
+        "signature": "きじ",
+        "length": 2
+      },
+      {
+        "token": "してい",
+        "signature": "いして",
+        "length": 3
+      },
+      {
+        "token": "かたる",
+        "signature": "かたる",
+        "length": 3
+      },
+      {
+        "token": "おねがい",
+        "signature": "いおがね",
+        "length": 4
+      },
+      {
+        "token": "たてもの",
+        "signature": "たてのも",
+        "length": 4
+      },
+      {
+        "token": "もうしあげる",
+        "signature": "あうげしもる",
+        "length": 6
+      },
+      {
+        "token": "どうろ",
+        "signature": "うどろ",
+        "length": 3
+      },
+      {
+        "token": "ずっと",
+        "signature": "ずっと",
+        "length": 3
+      },
+      {
+        "token": "まあ",
+        "signature": "あま",
+        "length": 2
+      },
+      {
+        "token": "うつ",
+        "signature": "うつ",
+        "length": 2
+      },
+      {
+        "token": "わかい",
+        "signature": "いかわ",
+        "length": 3
+      },
+      {
+        "token": "じょうき",
+        "signature": "うきじょ",
+        "length": 4
+      },
+      {
+        "token": "しゃいん",
+        "signature": "いしゃん",
+        "length": 4
+      },
+      {
+        "token": "ちきゅう",
+        "signature": "うきちゅ",
+        "length": 4
+      },
+      {
+        "token": "ぎろん",
+        "signature": "ぎろん",
+        "length": 3
+      },
+      {
+        "token": "じたい",
+        "signature": "いじた",
+        "length": 3
+      },
+      {
+        "token": "せっきょく",
+        "signature": "きくせっょ",
+        "length": 5
+      },
+      {
+        "token": "にほんご",
+        "signature": "ごにほん",
+        "length": 4
+      },
+      {
+        "token": "むかう",
+        "signature": "うかむ",
+        "length": 3
+      },
+      {
+        "token": "すたっふ",
+        "signature": "すたっふ",
+        "length": 4
+      },
+      {
+        "token": "しきん",
+        "signature": "きしん",
+        "length": 3
+      },
+      {
+        "token": "きびしく",
+        "signature": "きくしび",
+        "length": 4
+      },
+      {
+        "token": "さいしゅう",
+        "signature": "いうさしゅ",
+        "length": 5
+      },
+      {
+        "token": "あさ",
+        "signature": "あさ",
+        "length": 2
+      },
+      {
+        "token": "むすめ",
+        "signature": "すむめ",
+        "length": 3
+      },
+      {
+        "token": "くん",
+        "signature": "くん",
+        "length": 2
+      },
+      {
+        "token": "せいきゅう",
+        "signature": "いうきせゅ",
+        "length": 5
+      },
+      {
+        "token": "いんたーねっと",
+        "signature": "ーいたっとねん",
+        "length": 7
+      },
+      {
+        "token": "つま",
+        "signature": "つま",
+        "length": 2
+      },
+      {
+        "token": "ちいさな",
+        "signature": "いさちな",
+        "length": 4
+      },
+      {
+        "token": "けんり",
+        "signature": "けりん",
+        "length": 3
+      },
+      {
+        "token": "しはらい",
+        "signature": "いしはら",
+        "length": 4
+      },
+      {
+        "token": "みせる",
+        "signature": "せみる",
+        "length": 3
+      },
+      {
+        "token": "どれ",
+        "signature": "どれ",
+        "length": 2
+      },
+      {
+        "token": "さくせいする",
+        "signature": "いくさすせる",
+        "length": 6
+      },
+      {
+        "token": "やまい",
+        "signature": "いまや",
+        "length": 3
+      },
+      {
+        "token": "あがる",
+        "signature": "あがる",
+        "length": 3
+      },
+      {
+        "token": "えい",
+        "signature": "いえ",
+        "length": 2
+      },
+      {
+        "token": "くりかえす",
+        "signature": "えかくすり",
+        "length": 5
+      },
+      {
+        "token": "しんじる",
+        "signature": "しじるん",
+        "length": 4
+      },
+      {
+        "token": "まわり",
+        "signature": "まりわ",
+        "length": 3
+      },
+      {
+        "token": "うごき",
+        "signature": "うきご",
+        "length": 3
+      },
+      {
+        "token": "けんとうする",
+        "signature": "うけすとるん",
+        "length": 6
+      },
+      {
+        "token": "しゅうかん",
+        "signature": "うかしゅん",
+        "length": 5
+      },
+      {
+        "token": "さいだい",
+        "signature": "いさだ",
+        "length": 4
+      },
+      {
+        "token": "やすく",
+        "signature": "くすや",
+        "length": 3
+      },
+      {
+        "token": "のう",
+        "signature": "うの",
+        "length": 2
+      },
+      {
+        "token": "りえき",
+        "signature": "えきり",
+        "length": 3
+      },
+      {
+        "token": "がぞう",
+        "signature": "うがぞ",
+        "length": 3
+      },
+      {
+        "token": "けいたい",
+        "signature": "いけた",
+        "length": 4
+      },
+      {
+        "token": "ちかく",
+        "signature": "かくち",
+        "length": 3
+      },
+      {
+        "token": "だいひょう",
+        "signature": "いうだひょ",
+        "length": 5
+      },
+      {
+        "token": "りょこう",
+        "signature": "うこょり",
+        "length": 4
+      },
+      {
+        "token": "ぜひ",
+        "signature": "ぜひ",
+        "length": 2
+      },
+      {
+        "token": "おんな",
+        "signature": "おなん",
+        "length": 3
+      },
+      {
+        "token": "あたる",
+        "signature": "あたる",
+        "length": 3
+      }
+    ],
+    "developing": [
+      {
+        "token": "なあ",
+        "signature": "あな",
+        "length": 2
+      },
+      {
+        "token": "しこう",
+        "signature": "うこし",
+        "length": 3
+      },
+      {
+        "token": "ちゅうしょう",
+        "signature": "うしちゅょ",
+        "length": 6
+      },
+      {
+        "token": "いじする",
+        "signature": "いじする",
+        "length": 4
+      },
+      {
+        "token": "じっせき",
+        "signature": "きじせっ",
+        "length": 4
+      },
+      {
+        "token": "ありかた",
+        "signature": "あかたり",
+        "length": 4
+      },
+      {
+        "token": "みなす",
+        "signature": "すなみ",
+        "length": 3
+      },
+      {
+        "token": "なやみ",
+        "signature": "なみや",
+        "length": 3
+      },
+      {
+        "token": "ゆく",
+        "signature": "くゆ",
+        "length": 2
+      },
+      {
+        "token": "てすうりょう",
+        "signature": "うすてょり",
+        "length": 6
+      },
+      {
+        "token": "まどぐち",
+        "signature": "ぐちどま",
+        "length": 4
+      },
+      {
+        "token": "やくだつ",
+        "signature": "くだつや",
+        "length": 4
+      },
+      {
+        "token": "はんばいする",
+        "signature": "いすはばるん",
+        "length": 6
+      },
+      {
+        "token": "こてい",
+        "signature": "いこて",
+        "length": 3
+      },
+      {
+        "token": "めでぃあ",
+        "signature": "あぃでめ",
+        "length": 4
+      },
+      {
+        "token": "ひふ",
+        "signature": "ひふ",
+        "length": 2
+      },
+      {
+        "token": "しょぶん",
+        "signature": "しぶょん",
+        "length": 4
+      },
+      {
+        "token": "だく",
+        "signature": "くだ",
+        "length": 2
+      },
+      {
+        "token": "かいふく",
+        "signature": "いかくふ",
+        "length": 4
+      },
+      {
+        "token": "にむけて",
+        "signature": "けてにむ",
+        "length": 4
+      },
+      {
+        "token": "もんしょ",
+        "signature": "しもょん",
+        "length": 4
+      },
+      {
+        "token": "さいしん",
+        "signature": "いさしん",
+        "length": 4
+      },
+      {
+        "token": "すたいる",
+        "signature": "いすたる",
+        "length": 4
+      },
+      {
+        "token": "ぞう",
+        "signature": "うぞ",
+        "length": 2
+      },
+      {
+        "token": "それほど",
+        "signature": "そどほれ",
+        "length": 4
+      },
+      {
+        "token": "みなみ",
+        "signature": "なみ",
+        "length": 3
+      },
+      {
+        "token": "かいちょう",
+        "signature": "いうかちょ",
+        "length": 5
+      },
+      {
+        "token": "しゅじん",
+        "signature": "しじゅん",
+        "length": 4
+      },
+      {
+        "token": "はこぶ",
+        "signature": "こはぶ",
+        "length": 3
+      },
+      {
+        "token": "たる",
+        "signature": "たる",
+        "length": 2
+      },
+      {
+        "token": "しーん",
+        "signature": "ーしん",
+        "length": 3
+      },
+      {
+        "token": "こきゅう",
+        "signature": "うきこゅ",
+        "length": 4
+      },
+      {
+        "token": "じゅうじつする",
+        "signature": "うじすつゅる",
+        "length": 7
+      },
+      {
+        "token": "きんきゅう",
+        "signature": "うきゅん",
+        "length": 5
+      },
+      {
+        "token": "すうち",
+        "signature": "うすち",
+        "length": 3
+      },
+      {
+        "token": "ふめい",
+        "signature": "いふめ",
+        "length": 3
+      },
+      {
+        "token": "はこ",
+        "signature": "こは",
+        "length": 2
+      },
+      {
+        "token": "さーばー",
+        "signature": "ーさば",
+        "length": 4
+      },
+      {
+        "token": "おまえ",
+        "signature": "えおま",
+        "length": 3
+      },
+      {
+        "token": "しょうせつ",
+        "signature": "うしせつょ",
+        "length": 5
+      },
+      {
+        "token": "ゆき",
+        "signature": "きゆ",
+        "length": 2
+      },
+      {
+        "token": "すくなくとも",
+        "signature": "くすとなも",
+        "length": 6
+      },
+      {
+        "token": "こうかい",
+        "signature": "いうかこ",
+        "length": 4
+      },
+      {
+        "token": "あき",
+        "signature": "あき",
+        "length": 2
+      },
+      {
+        "token": "だいさんしゃ",
+        "signature": "いさしだゃん",
+        "length": 6
+      },
+      {
+        "token": "しんき",
+        "signature": "きしん",
+        "length": 3
+      },
+      {
+        "token": "ふぁん",
+        "signature": "ぁふん",
+        "length": 3
+      },
+      {
+        "token": "しちょうそん",
+        "signature": "うしそちょん",
+        "length": 6
+      },
+      {
+        "token": "いくつ",
+        "signature": "いくつ",
+        "length": 3
+      },
+      {
+        "token": "いらっしゃる",
+        "signature": "いしっゃらる",
+        "length": 6
+      },
+      {
+        "token": "きんねん",
+        "signature": "きねん",
+        "length": 4
+      },
+      {
+        "token": "けっこんする",
+        "signature": "けこすっるん",
+        "length": 6
+      },
+      {
+        "token": "すいしんする",
+        "signature": "いしするん",
+        "length": 6
+      },
+      {
+        "token": "そつぎょう",
+        "signature": "うぎそつょ",
+        "length": 5
+      },
+      {
+        "token": "ちんぎん",
+        "signature": "ぎちん",
+        "length": 4
+      },
+      {
+        "token": "かしょ",
+        "signature": "かしょ",
+        "length": 3
+      },
+      {
+        "token": "ごうかく",
+        "signature": "うかくご",
+        "length": 4
+      },
+      {
+        "token": "ちゅうもくする",
+        "signature": "うくすちもゅる",
+        "length": 7
+      },
+      {
+        "token": "きこう",
+        "signature": "うきこ",
+        "length": 3
+      },
+      {
+        "token": "おすすめ",
+        "signature": "おすめ",
+        "length": 4
+      },
+      {
+        "token": "よろこび",
+        "signature": "こびよろ",
+        "length": 4
+      },
+      {
+        "token": "いったい",
+        "signature": "いたっ",
+        "length": 4
+      },
+      {
+        "token": "かんりする",
+        "signature": "かすりるん",
+        "length": 5
+      },
+      {
+        "token": "ようぼう",
+        "signature": "うぼよ",
+        "length": 4
+      },
+      {
+        "token": "おとす",
+        "signature": "おすと",
+        "length": 3
+      },
+      {
+        "token": "しゅちょうする",
+        "signature": "うしすちゅょる",
+        "length": 7
+      },
+      {
+        "token": "たのしめる",
+        "signature": "したのめる",
+        "length": 5
+      },
+      {
+        "token": "しじ",
+        "signature": "しじ",
+        "length": 2
+      },
+      {
+        "token": "ざっし",
+        "signature": "ざしっ",
+        "length": 3
+      },
+      {
+        "token": "ついか",
+        "signature": "いかつ",
+        "length": 3
+      },
+      {
+        "token": "そなえる",
+        "signature": "えそなる",
+        "length": 4
+      },
+      {
+        "token": "じちたい",
+        "signature": "いじたち",
+        "length": 4
+      },
+      {
+        "token": "うりあげ",
+        "signature": "あうげり",
+        "length": 4
+      },
+      {
+        "token": "おうじる",
+        "signature": "うおじる",
+        "length": 4
+      },
+      {
+        "token": "はばひろく",
+        "signature": "くはばひろ",
+        "length": 5
+      },
+      {
+        "token": "てきよう",
+        "signature": "うきてよ",
+        "length": 4
+      },
+      {
+        "token": "しろい",
+        "signature": "いしろ",
+        "length": 3
+      },
+      {
+        "token": "ほいく",
+        "signature": "いくほ",
+        "length": 3
+      },
+      {
+        "token": "さむく",
+        "signature": "くさむ",
+        "length": 3
+      },
+      {
+        "token": "まちがう",
+        "signature": "うがちま",
+        "length": 4
+      },
+      {
+        "token": "かにゅう",
+        "signature": "うかにゅ",
+        "length": 4
+      },
+      {
+        "token": "ころす",
+        "signature": "こすろ",
+        "length": 3
+      },
+      {
+        "token": "ごご",
+        "signature": "ご",
+        "length": 2
+      },
+      {
+        "token": "がる",
+        "signature": "がる",
+        "length": 2
+      },
+      {
+        "token": "にちかん",
+        "signature": "かちにん",
+        "length": 4
+      },
+      {
+        "token": "きちょう",
+        "signature": "うきちょ",
+        "length": 4
+      },
+      {
+        "token": "いくら",
+        "signature": "いくら",
+        "length": 3
+      },
+      {
+        "token": "ひろげる",
+        "signature": "げひるろ",
+        "length": 4
+      },
+      {
+        "token": "すると",
+        "signature": "すとる",
+        "length": 3
+      },
+      {
+        "token": "こうかいする",
+        "signature": "いうかこする",
+        "length": 6
+      },
+      {
+        "token": "ほし",
+        "signature": "しほ",
+        "length": 2
+      },
+      {
+        "token": "できるだけ",
+        "signature": "きけだでる",
+        "length": 5
+      },
+      {
+        "token": "しゅたい",
+        "signature": "いしたゅ",
+        "length": 4
+      },
+      {
+        "token": "といれ",
+        "signature": "いとれ",
+        "length": 3
+      },
+      {
+        "token": "じゅつ",
+        "signature": "じつゅ",
+        "length": 3
+      },
+      {
+        "token": "さいてき",
+        "signature": "いきさて",
+        "length": 4
+      },
+      {
+        "token": "さく",
+        "signature": "くさ",
+        "length": 2
+      },
+      {
+        "token": "さくげん",
+        "signature": "くげさん",
+        "length": 4
+      },
+      {
+        "token": "たかまる",
+        "signature": "かたまる",
+        "length": 4
+      },
+      {
+        "token": "ゆか",
+        "signature": "かゆ",
+        "length": 2
+      },
+      {
+        "token": "くみ",
+        "signature": "くみ",
+        "length": 2
+      },
+      {
+        "token": "じんるい",
+        "signature": "いじるん",
+        "length": 4
+      },
+      {
+        "token": "ほうもん",
+        "signature": "うほもん",
+        "length": 4
+      },
+      {
+        "token": "しょうねん",
+        "signature": "うしねょん",
+        "length": 5
+      },
+      {
+        "token": "べーす",
+        "signature": "ーすべ",
+        "length": 3
+      },
+      {
+        "token": "せっと",
+        "signature": "せっと",
+        "length": 3
+      },
+      {
+        "token": "たしょう",
+        "signature": "うしたょ",
+        "length": 4
+      },
+      {
+        "token": "すわる",
+        "signature": "するわ",
+        "length": 3
+      },
+      {
+        "token": "けいけんする",
+        "signature": "いけするん",
+        "length": 6
+      },
+      {
+        "token": "ちゃ",
+        "signature": "ちゃ",
+        "length": 2
+      },
+      {
+        "token": "そくてい",
+        "signature": "いくそて",
+        "length": 4
+      },
+      {
+        "token": "あっぷ",
+        "signature": "あっぷ",
+        "length": 3
+      },
+      {
+        "token": "へんしゅう",
+        "signature": "うしへゅん",
+        "length": 5
+      },
+      {
+        "token": "うけつけ",
+        "signature": "うけつ",
+        "length": 4
+      },
+      {
+        "token": "とい",
+        "signature": "いと",
+        "length": 2
+      },
+      {
+        "token": "あれ",
+        "signature": "あれ",
+        "length": 2
+      },
+      {
+        "token": "せいり",
+        "signature": "いせり",
+        "length": 3
+      },
+      {
+        "token": "けんぽう",
+        "signature": "うけぽん",
+        "length": 4
+      },
+      {
+        "token": "うみだす",
+        "signature": "うすだみ",
+        "length": 4
+      },
+      {
+        "token": "おかしい",
+        "signature": "いおかし",
+        "length": 4
+      },
+      {
+        "token": "はっけん",
+        "signature": "けっはん",
+        "length": 4
+      },
+      {
+        "token": "よゆう",
+        "signature": "うゆよ",
+        "length": 3
+      },
+      {
+        "token": "あんていする",
+        "signature": "あいすてるん",
+        "length": 6
+      },
+      {
+        "token": "たたかい",
+        "signature": "いかた",
+        "length": 4
+      },
+      {
+        "token": "にゅうりょく",
+        "signature": "うくにゅょり",
+        "length": 6
+      },
+      {
+        "token": "たいよう",
+        "signature": "いうたよ",
+        "length": 4
+      },
+      {
+        "token": "ひかく",
+        "signature": "かくひ",
+        "length": 3
+      },
+      {
+        "token": "いでんし",
+        "signature": "いしでん",
+        "length": 4
+      },
+      {
+        "token": "きょうりょくする",
+        "signature": "うきくすょりる",
+        "length": 8
+      },
+      {
+        "token": "きぼうする",
+        "signature": "うきすぼる",
+        "length": 5
+      },
+      {
+        "token": "にゅーす",
+        "signature": "ーすにゅ",
+        "length": 4
+      },
+      {
+        "token": "せつ",
+        "signature": "せつ",
+        "length": 2
+      },
+      {
+        "token": "だんじょ",
+        "signature": "じだょん",
+        "length": 4
+      },
+      {
+        "token": "きょうか",
+        "signature": "うかきょ",
+        "length": 4
+      },
+      {
+        "token": "つごう",
+        "signature": "うごつ",
+        "length": 3
+      },
+      {
+        "token": "ちかづく",
+        "signature": "かくちづ",
+        "length": 4
+      },
+      {
+        "token": "まいなす",
+        "signature": "いすなま",
+        "length": 4
+      },
+      {
+        "token": "めんせつ",
+        "signature": "せつめん",
+        "length": 4
+      },
+      {
+        "token": "とうじつ",
+        "signature": "うじつと",
+        "length": 4
+      },
+      {
+        "token": "だり",
+        "signature": "だり",
+        "length": 2
+      },
+      {
+        "token": "ぶたい",
+        "signature": "いたぶ",
+        "length": 3
+      },
+      {
+        "token": "ちぇっくする",
+        "signature": "ぇくすちっる",
+        "length": 6
+      },
+      {
+        "token": "たんとうする",
+        "signature": "うすたとるん",
+        "length": 6
+      },
+      {
+        "token": "とらえる",
+        "signature": "えとらる",
+        "length": 4
+      },
+      {
+        "token": "ほうふ",
+        "signature": "うふほ",
+        "length": 3
+      },
+      {
+        "token": "りょうしょう",
+        "signature": "うしょり",
+        "length": 6
+      },
+      {
+        "token": "きょういん",
+        "signature": "いうきょん",
+        "length": 5
+      },
+      {
+        "token": "らいん",
+        "signature": "いらん",
+        "length": 3
+      },
+      {
+        "token": "つうじる",
+        "signature": "うじつる",
+        "length": 4
+      },
+      {
+        "token": "いた",
+        "signature": "いた",
+        "length": 2
+      },
+      {
+        "token": "になう",
+        "signature": "うなに",
+        "length": 3
+      },
+      {
+        "token": "そくど",
+        "signature": "くそど",
+        "length": 3
+      },
+      {
+        "token": "こそだて",
+        "signature": "こそだて",
+        "length": 4
+      },
+      {
+        "token": "しえんする",
+        "signature": "えしするん",
+        "length": 5
+      },
+      {
+        "token": "ひとこと",
+        "signature": "ことひ",
+        "length": 4
+      },
+      {
+        "token": "さんしょう",
+        "signature": "うさしょん",
+        "length": 5
+      },
+      {
+        "token": "じゅよう",
+        "signature": "うじゅよ",
+        "length": 4
+      },
+      {
+        "token": "しだい",
+        "signature": "いしだ",
+        "length": 3
+      },
+      {
+        "token": "けつろん",
+        "signature": "けつろん",
+        "length": 4
+      },
+      {
+        "token": "みんぞく",
+        "signature": "くぞみん",
+        "length": 4
+      },
+      {
+        "token": "じったい",
+        "signature": "いじたっ",
+        "length": 4
+      },
+      {
+        "token": "ぷろせす",
+        "signature": "すせぷろ",
+        "length": 4
+      },
+      {
+        "token": "うすい",
+        "signature": "いうす",
+        "length": 3
+      },
+      {
+        "token": "ぬける",
+        "signature": "けぬる",
+        "length": 3
+      },
+      {
+        "token": "すぴーど",
+        "signature": "ーすどぴ",
+        "length": 4
+      },
+      {
+        "token": "しぼう",
+        "signature": "うしぼ",
+        "length": 3
+      },
+      {
+        "token": "かんれんする",
+        "signature": "かするれん",
+        "length": 6
+      },
+      {
+        "token": "どくりつ",
+        "signature": "くつどり",
+        "length": 4
+      },
+      {
+        "token": "とりいれる",
+        "signature": "いとりるれ",
+        "length": 5
+      },
+      {
+        "token": "いかが",
+        "signature": "いかが",
+        "length": 3
+      },
+      {
+        "token": "すいじゅん",
+        "signature": "いじすゅん",
+        "length": 5
+      },
+      {
+        "token": "すきる",
+        "signature": "きする",
+        "length": 3
+      },
+      {
+        "token": "きせつ",
+        "signature": "きせつ",
+        "length": 3
+      },
+      {
+        "token": "げいじゅつ",
+        "signature": "いげじつゅ",
+        "length": 5
+      },
+      {
+        "token": "とり",
+        "signature": "とり",
+        "length": 2
+      },
+      {
+        "token": "きゅうふ",
+        "signature": "うきふゅ",
+        "length": 4
+      },
+      {
+        "token": "わかもの",
+        "signature": "かのもわ",
+        "length": 4
+      },
+      {
+        "token": "そうぞう",
+        "signature": "うそぞ",
+        "length": 4
+      },
+      {
+        "token": "はっこう",
+        "signature": "うこっは",
+        "length": 4
+      },
+      {
+        "token": "りんしょう",
+        "signature": "うしょりん",
+        "length": 5
+      },
+      {
+        "token": "とくせい",
+        "signature": "いくせと",
+        "length": 4
+      },
+      {
+        "token": "わく",
+        "signature": "くわ",
+        "length": 2
+      },
+      {
+        "token": "おちつく",
+        "signature": "おくちつ",
+        "length": 4
+      },
+      {
+        "token": "まるで",
+        "signature": "でまる",
+        "length": 3
+      },
+      {
+        "token": "まど",
+        "signature": "どま",
+        "length": 2
+      },
+      {
+        "token": "はってんする",
+        "signature": "すってはるん",
+        "length": 6
+      },
+      {
+        "token": "かくち",
+        "signature": "かくち",
+        "length": 3
+      },
+      {
+        "token": "ますます",
+        "signature": "すま",
+        "length": 4
+      },
+      {
+        "token": "かいさい",
+        "signature": "いかさ",
+        "length": 4
+      },
+      {
+        "token": "みどり",
+        "signature": "どみり",
+        "length": 3
+      },
+      {
+        "token": "およぶ",
+        "signature": "おぶよ",
+        "length": 3
+      },
+      {
+        "token": "つみ",
+        "signature": "つみ",
+        "length": 2
+      },
+      {
+        "token": "こころがける",
+        "signature": "がけこるろ",
+        "length": 6
+      },
+      {
+        "token": "うま",
+        "signature": "うま",
+        "length": 2
+      },
+      {
+        "token": "きゅー",
+        "signature": "ーきゅ",
+        "length": 3
+      },
+      {
+        "token": "してき",
+        "signature": "きして",
+        "length": 3
+      },
+      {
+        "token": "しゅうりょうする",
+        "signature": "うしすゅょりる",
+        "length": 8
+      },
+      {
+        "token": "わたす",
+        "signature": "すたわ",
+        "length": 3
+      },
+      {
+        "token": "ほぞん",
+        "signature": "ぞほん",
+        "length": 3
+      },
+      {
+        "token": "てきせい",
+        "signature": "いきせて",
+        "length": 4
+      },
+      {
+        "token": "けいぞくする",
+        "signature": "いくけすぞる",
+        "length": 6
+      },
+      {
+        "token": "もん",
+        "signature": "もん",
+        "length": 2
+      },
+      {
+        "token": "せいりつする",
+        "signature": "いすせつりる",
+        "length": 6
+      },
+      {
+        "token": "じっこうする",
+        "signature": "うこじすっる",
+        "length": 6
+      },
+      {
+        "token": "つうち",
+        "signature": "うちつ",
+        "length": 3
+      },
+      {
+        "token": "しちょう",
+        "signature": "うしちょ",
+        "length": 4
+      },
+      {
+        "token": "あたり",
+        "signature": "あたり",
+        "length": 3
+      },
+      {
+        "token": "あま",
+        "signature": "あま",
+        "length": 2
+      },
+      {
+        "token": "しょうけん",
+        "signature": "うけしょん",
+        "length": 5
+      },
+      {
+        "token": "なり",
+        "signature": "なり",
+        "length": 2
+      },
+      {
+        "token": "たすける",
+        "signature": "けすたる",
+        "length": 4
+      },
+      {
+        "token": "つれる",
+        "signature": "つるれ",
+        "length": 3
+      },
+      {
+        "token": "ふっこう",
+        "signature": "うこっふ",
+        "length": 4
+      },
+      {
+        "token": "すぺーす",
+        "signature": "ーすぺ",
+        "length": 4
+      },
+      {
+        "token": "しさく",
+        "signature": "くさし",
+        "length": 3
+      },
+      {
+        "token": "のさいに",
+        "signature": "いさにの",
+        "length": 4
+      },
+      {
+        "token": "だん",
+        "signature": "だん",
+        "length": 2
+      },
+      {
+        "token": "せいのう",
+        "signature": "いうせの",
+        "length": 4
+      },
+      {
+        "token": "にんずう",
+        "signature": "うずにん",
+        "length": 4
+      },
+      {
+        "token": "すてき",
+        "signature": "きすて",
+        "length": 3
+      },
+      {
+        "token": "うぃるす",
+        "signature": "ぃうする",
+        "length": 4
+      },
+      {
+        "token": "けいせい",
+        "signature": "いけせ",
+        "length": 4
+      },
+      {
+        "token": "しげき",
+        "signature": "きげし",
+        "length": 3
+      },
+      {
+        "token": "しりーず",
+        "signature": "ーしずり",
+        "length": 4
+      },
+      {
+        "token": "えりあ",
+        "signature": "あえり",
+        "length": 3
+      },
+      {
+        "token": "むく",
+        "signature": "くむ",
+        "length": 2
+      },
+      {
+        "token": "にむかって",
+        "signature": "かってにむ",
+        "length": 5
+      },
+      {
+        "token": "ほうしゅう",
+        "signature": "うしほゅ",
+        "length": 5
+      },
+      {
+        "token": "なく",
+        "signature": "くな",
+        "length": 2
+      },
+      {
+        "token": "じく",
+        "signature": "くじ",
+        "length": 2
+      },
+      {
+        "token": "しゅちょう",
+        "signature": "うしちゅょ",
+        "length": 5
+      },
+      {
+        "token": "たりる",
+        "signature": "たりる",
+        "length": 3
+      },
+      {
+        "token": "へらす",
+        "signature": "すへら",
+        "length": 3
+      },
+      {
+        "token": "たいしょく",
+        "signature": "いくしたょ",
+        "length": 5
+      },
+      {
+        "token": "わかり",
+        "signature": "かりわ",
+        "length": 3
+      },
+      {
+        "token": "うたう",
+        "signature": "うた",
+        "length": 3
+      },
+      {
+        "token": "うで",
+        "signature": "うで",
+        "length": 2
+      },
+      {
+        "token": "かんそう",
+        "signature": "うかそん",
+        "length": 4
+      },
+      {
+        "token": "できごと",
+        "signature": "きごでと",
+        "length": 4
+      },
+      {
+        "token": "ようい",
+        "signature": "いうよ",
+        "length": 3
+      },
+      {
+        "token": "びん",
+        "signature": "びん",
+        "length": 2
+      },
+      {
+        "token": "いっそう",
+        "signature": "いうそっ",
+        "length": 4
+      },
+      {
+        "token": "ふきん",
+        "signature": "きふん",
+        "length": 3
+      },
+      {
+        "token": "えんじょ",
+        "signature": "えじょん",
+        "length": 4
+      },
+      {
+        "token": "きねん",
+        "signature": "きねん",
+        "length": 3
+      },
+      {
+        "token": "ゆび",
+        "signature": "びゆ",
+        "length": 2
+      },
+      {
+        "token": "さいむ",
+        "signature": "いさむ",
+        "length": 3
+      },
+      {
+        "token": "がっかい",
+        "signature": "いかがっ",
+        "length": 4
+      },
+      {
+        "token": "じゅうしょ",
+        "signature": "うしじゅょ",
+        "length": 5
+      },
+      {
+        "token": "こんてんつ",
+        "signature": "こつてん",
+        "length": 5
+      },
+      {
+        "token": "せいしつ",
+        "signature": "いしせつ",
+        "length": 4
+      },
+      {
+        "token": "こうし",
+        "signature": "うこし",
+        "length": 3
+      },
+      {
+        "token": "たっする",
+        "signature": "すたっる",
+        "length": 4
+      },
+      {
+        "token": "にく",
+        "signature": "くに",
+        "length": 2
+      },
+      {
+        "token": "みんしゅ",
+        "signature": "しみゅん",
+        "length": 4
+      },
+      {
+        "token": "としょかん",
+        "signature": "かしとょん",
+        "length": 5
+      },
+      {
+        "token": "たまご",
+        "signature": "ごたま",
+        "length": 3
+      },
+      {
+        "token": "せみなー",
+        "signature": "ーせなみ",
+        "length": 4
+      },
+      {
+        "token": "けんきゅうしょ",
+        "signature": "うきけしゅょん",
+        "length": 7
+      },
+      {
+        "token": "そうとう",
+        "signature": "うそと",
+        "length": 4
+      },
+      {
+        "token": "めーとる",
+        "signature": "ーとめる",
+        "length": 4
+      },
+      {
+        "token": "どうぞ",
+        "signature": "うぞど",
+        "length": 3
+      },
+      {
+        "token": "おりる",
+        "signature": "おりる",
+        "length": 3
+      },
+      {
+        "token": "でんしゃ",
+        "signature": "しでゃん",
+        "length": 4
+      },
+      {
+        "token": "ていあんする",
+        "signature": "あいすてるん",
+        "length": 6
+      },
+      {
+        "token": "きばん",
+        "signature": "きばん",
+        "length": 3
+      },
+      {
+        "token": "ひとしい",
+        "signature": "いしとひ",
+        "length": 4
+      },
+      {
+        "token": "げんしりょく",
+        "signature": "くげしょりん",
+        "length": 6
+      },
+      {
+        "token": "かぶしき",
+        "signature": "かきしぶ",
+        "length": 4
+      },
+      {
+        "token": "はんえいする",
+        "signature": "いえすはるん",
+        "length": 6
+      },
+      {
+        "token": "かいせつ",
+        "signature": "いかせつ",
+        "length": 4
+      },
+      {
+        "token": "めいわく",
+        "signature": "いくめわ",
+        "length": 4
+      },
+      {
+        "token": "ぐあい",
+        "signature": "あいぐ",
+        "length": 3
+      },
+      {
+        "token": "めんきょ",
+        "signature": "きめょん",
+        "length": 4
+      },
+      {
+        "token": "きょうきゅう",
+        "signature": "うきゅょ",
+        "length": 6
+      },
+      {
+        "token": "ていかする",
+        "signature": "いかすてる",
+        "length": 5
+      },
+      {
+        "token": "かこう",
+        "signature": "うかこ",
+        "length": 3
+      },
+      {
+        "token": "ようきゅう",
+        "signature": "うきゅよ",
+        "length": 5
+      },
+      {
+        "token": "しんぞう",
+        "signature": "うしぞん",
+        "length": 4
+      },
+      {
+        "token": "やりかた",
+        "signature": "かたやり",
+        "length": 4
+      },
+      {
+        "token": "うむ",
+        "signature": "うむ",
+        "length": 2
+      },
+      {
+        "token": "れんあい",
+        "signature": "あいれん",
+        "length": 4
+      },
+      {
+        "token": "かまう",
+        "signature": "うかま",
+        "length": 3
+      },
+      {
+        "token": "けいせいする",
+        "signature": "いけすせる",
+        "length": 6
+      },
+      {
+        "token": "りこん",
+        "signature": "こりん",
+        "length": 3
+      },
+      {
+        "token": "のびる",
+        "signature": "のびる",
+        "length": 3
+      },
+      {
+        "token": "ぶつり",
+        "signature": "つぶり",
+        "length": 3
+      },
+      {
+        "token": "てら",
+        "signature": "てら",
+        "length": 2
+      },
+      {
+        "token": "あいさつ",
+        "signature": "あいさつ",
+        "length": 4
+      },
+      {
+        "token": "ごはん",
+        "signature": "ごはん",
+        "length": 3
+      },
+      {
+        "token": "どうさ",
+        "signature": "うさど",
+        "length": 3
+      },
+      {
+        "token": "けいさんする",
+        "signature": "いけさするん",
+        "length": 6
+      },
+      {
+        "token": "みなおし",
+        "signature": "おしなみ",
+        "length": 4
+      },
+      {
+        "token": "あふれる",
+        "signature": "あふるれ",
+        "length": 4
+      },
+      {
+        "token": "なっとく",
+        "signature": "くっとな",
+        "length": 4
+      },
+      {
+        "token": "であい",
+        "signature": "あいで",
+        "length": 3
+      },
+      {
+        "token": "はやい",
+        "signature": "いはや",
+        "length": 3
+      },
+      {
+        "token": "まんが",
+        "signature": "がまん",
+        "length": 3
+      },
+      {
+        "token": "ほんしつ",
+        "signature": "しつほん",
+        "length": 4
+      },
+      {
+        "token": "くらし",
+        "signature": "くしら",
+        "length": 3
+      },
+      {
+        "token": "へいわ",
+        "signature": "いへわ",
+        "length": 3
+      },
+      {
+        "token": "いそがしく",
+        "signature": "いがくしそ",
+        "length": 5
+      },
+      {
+        "token": "ひはん",
+        "signature": "はひん",
+        "length": 3
+      },
+      {
+        "token": "えんじん",
+        "signature": "えじん",
+        "length": 4
+      },
+      {
+        "token": "そうき",
+        "signature": "うきそ",
+        "length": 3
+      },
+      {
+        "token": "さべつ",
+        "signature": "さつべ",
+        "length": 3
+      },
+      {
+        "token": "となり",
+        "signature": "となり",
+        "length": 3
+      },
+      {
+        "token": "こうはん",
+        "signature": "うこはん",
+        "length": 4
+      },
+      {
+        "token": "かくだいする",
+        "signature": "いかくすだる",
+        "length": 6
+      },
+      {
+        "token": "ようけん",
+        "signature": "うけよん",
+        "length": 4
+      },
+      {
+        "token": "ほんけん",
+        "signature": "けほん",
+        "length": 4
+      },
+      {
+        "token": "とおす",
+        "signature": "おすと",
+        "length": 3
+      },
+      {
+        "token": "くふう",
+        "signature": "うくふ",
+        "length": 3
+      },
+      {
+        "token": "げんしょうする",
+        "signature": "うげしすょるん",
+        "length": 7
+      },
+      {
+        "token": "かんしゃする",
+        "signature": "かしすゃるん",
+        "length": 6
+      },
+      {
+        "token": "うったえる",
+        "signature": "うえたっる",
+        "length": 5
+      },
+      {
+        "token": "しんさい",
+        "signature": "いさしん",
+        "length": 4
+      },
+      {
+        "token": "こんきょ",
+        "signature": "きこょん",
+        "length": 4
+      },
+      {
+        "token": "はっきする",
+        "signature": "きすっはる",
+        "length": 5
+      },
+      {
+        "token": "ようする",
+        "signature": "うすよる",
+        "length": 4
+      },
+      {
+        "token": "じょじょに",
+        "signature": "じにょ",
+        "length": 5
+      },
+      {
+        "token": "へん",
+        "signature": "へん",
+        "length": 2
+      },
+      {
+        "token": "かおり",
+        "signature": "おかり",
+        "length": 3
+      },
+      {
+        "token": "さす",
+        "signature": "さす",
+        "length": 2
+      },
+      {
+        "token": "とれーにんぐ",
+        "signature": "ーぐとにれん",
+        "length": 6
+      },
+      {
+        "token": "どりょくする",
+        "signature": "くすどょりる",
+        "length": 6
+      },
+      {
+        "token": "へんさい",
+        "signature": "いさへん",
+        "length": 4
+      },
+      {
+        "token": "でかける",
+        "signature": "かけでる",
+        "length": 4
+      },
+      {
+        "token": "つきあう",
+        "signature": "あうきつ",
+        "length": 4
+      },
+      {
+        "token": "ていしゅつ",
+        "signature": "いしつてゅ",
+        "length": 5
+      },
+      {
+        "token": "せんとう",
+        "signature": "うせとん",
+        "length": 4
+      },
+      {
+        "token": "はったつ",
+        "signature": "たっつは",
+        "length": 4
+      },
+      {
+        "token": "さいてい",
+        "signature": "いさて",
+        "length": 4
+      },
+      {
+        "token": "ぷらす",
+        "signature": "すぷら",
+        "length": 3
+      },
+      {
+        "token": "じっこう",
+        "signature": "うこじっ",
+        "length": 4
+      },
+      {
+        "token": "なんらかの",
+        "signature": "かなのらん",
+        "length": 5
+      },
+      {
+        "token": "こだわる",
+        "signature": "こだるわ",
+        "length": 4
+      },
+      {
+        "token": "かがみ",
+        "signature": "かがみ",
+        "length": 3
+      },
+      {
+        "token": "やがて",
+        "signature": "がてや",
+        "length": 3
+      },
+      {
+        "token": "ようやく",
+        "signature": "うくやよ",
+        "length": 4
+      },
+      {
+        "token": "いっぱい",
+        "signature": "いっぱ",
+        "length": 4
+      },
+      {
+        "token": "にげる",
+        "signature": "げにる",
+        "length": 3
+      },
+      {
+        "token": "よそう",
+        "signature": "うそよ",
+        "length": 3
+      },
+      {
+        "token": "にし",
+        "signature": "しに",
+        "length": 2
+      },
+      {
+        "token": "ゆいいつ",
+        "signature": "いつゆ",
+        "length": 4
+      },
+      {
+        "token": "めずらしく",
+        "signature": "くしずめら",
+        "length": 5
+      },
+      {
+        "token": "ためす",
+        "signature": "すため",
+        "length": 3
+      },
+      {
+        "token": "かんせいする",
+        "signature": "いかすせるん",
+        "length": 6
+      },
+      {
+        "token": "かつやくする",
+        "signature": "かくすつやる",
+        "length": 6
+      },
+      {
+        "token": "それらの",
+        "signature": "そのられ",
+        "length": 4
+      },
+      {
+        "token": "われ",
+        "signature": "れわ",
+        "length": 2
+      },
+      {
+        "token": "つーる",
+        "signature": "ーつる",
+        "length": 3
+      },
+      {
+        "token": "たっせい",
+        "signature": "いせたっ",
+        "length": 4
+      },
+      {
+        "token": "ごく",
+        "signature": "くご",
+        "length": 2
+      },
+      {
+        "token": "まとも",
+        "signature": "とまも",
+        "length": 3
+      },
+      {
+        "token": "にんち",
+        "signature": "ちにん",
+        "length": 3
+      },
+      {
+        "token": "こっかい",
+        "signature": "いかこっ",
+        "length": 4
+      },
+      {
+        "token": "ちる",
+        "signature": "ちる",
+        "length": 2
+      },
+      {
+        "token": "ぱわー",
+        "signature": "ーぱわ",
+        "length": 3
+      },
+      {
+        "token": "てつどう",
+        "signature": "うつてど",
+        "length": 4
+      },
+      {
+        "token": "しあい",
+        "signature": "あいし",
+        "length": 3
+      },
+      {
+        "token": "ふたり",
+        "signature": "たふり",
+        "length": 3
+      },
+      {
+        "token": "へんどう",
+        "signature": "うどへん",
+        "length": 4
+      },
+      {
+        "token": "まかせる",
+        "signature": "かせまる",
+        "length": 4
+      },
+      {
+        "token": "とっぷ",
+        "signature": "っとぷ",
+        "length": 3
+      },
+      {
+        "token": "だいすき",
+        "signature": "いきすだ",
+        "length": 4
+      },
+      {
+        "token": "たす",
+        "signature": "すた",
+        "length": 2
+      },
+      {
+        "token": "わざ",
+        "signature": "ざわ",
+        "length": 2
+      },
+      {
+        "token": "にゅうがく",
+        "signature": "うがくにゅ",
+        "length": 5
+      },
+      {
+        "token": "じゅうしする",
+        "signature": "うしじすゅる",
+        "length": 6
+      },
+      {
+        "token": "みぢか",
+        "signature": "かぢみ",
+        "length": 3
+      },
+      {
+        "token": "とぶ",
+        "signature": "とぶ",
+        "length": 2
+      },
+      {
+        "token": "きれる",
+        "signature": "きるれ",
+        "length": 3
+      },
+      {
+        "token": "ほんかく",
+        "signature": "かくほん",
+        "length": 4
+      },
+      {
+        "token": "ひなん",
+        "signature": "なひん",
+        "length": 3
+      },
+      {
+        "token": "ひょうじょう",
+        "signature": "うじひょ",
+        "length": 6
+      },
+      {
+        "token": "こし",
+        "signature": "こし",
+        "length": 2
+      },
+      {
+        "token": "もういちど",
+        "signature": "いうちども",
+        "length": 5
+      },
+      {
+        "token": "せいせき",
+        "signature": "いきせ",
+        "length": 4
+      },
+      {
+        "token": "おおがた",
+        "signature": "おがた",
+        "length": 4
+      },
+      {
+        "token": "ていこう",
+        "signature": "いうこて",
+        "length": 4
+      },
+      {
+        "token": "まける",
+        "signature": "けまる",
+        "length": 3
+      },
+      {
+        "token": "かならずしも",
+        "signature": "かしずなもら",
+        "length": 6
+      },
+      {
+        "token": "せんじつ",
+        "signature": "じせつん",
+        "length": 4
+      },
+      {
+        "token": "ねだん",
+        "signature": "だねん",
+        "length": 3
+      },
+      {
+        "token": "はっこうする",
+        "signature": "うこすっはる",
+        "length": 6
+      },
+      {
+        "token": "にかけて",
+        "signature": "かけてに",
+        "length": 4
+      },
+      {
+        "token": "ひょうする",
+        "signature": "うすひょる",
+        "length": 5
+      },
+      {
+        "token": "てんのう",
+        "signature": "うてのん",
+        "length": 4
+      },
+      {
+        "token": "しんよう",
+        "signature": "うしよん",
+        "length": 4
+      },
+      {
+        "token": "くら",
+        "signature": "くら",
+        "length": 2
+      },
+      {
+        "token": "なみだ",
+        "signature": "だなみ",
+        "length": 3
+      },
+      {
+        "token": "さくら",
+        "signature": "くさら",
+        "length": 3
+      },
+      {
+        "token": "じゅく",
+        "signature": "くじゅ",
+        "length": 3
+      },
+      {
+        "token": "なぜか",
+        "signature": "かぜな",
+        "length": 3
+      },
+      {
+        "token": "こうちく",
+        "signature": "うくこち",
+        "length": 4
+      },
+      {
+        "token": "さんそ",
+        "signature": "さそん",
+        "length": 3
+      },
+      {
+        "token": "あかい",
+        "signature": "あいか",
+        "length": 3
+      },
+      {
+        "token": "さすが",
+        "signature": "がさす",
+        "length": 3
+      },
+      {
+        "token": "そんなに",
+        "signature": "そなにん",
+        "length": 4
+      },
+      {
+        "token": "ほうどう",
+        "signature": "うどほ",
+        "length": 4
+      },
+      {
+        "token": "しゅうちゅう",
+        "signature": "うしちゅ",
+        "length": 6
+      },
+      {
+        "token": "ほるもん",
+        "signature": "ほもるん",
+        "length": 4
+      },
+      {
+        "token": "みっつ",
+        "signature": "っつみ",
+        "length": 3
+      },
+      {
+        "token": "げんかい",
+        "signature": "いかげん",
+        "length": 4
+      },
+      {
+        "token": "ちてき",
+        "signature": "きちて",
+        "length": 3
+      },
+      {
+        "token": "びょう",
+        "signature": "うびょ",
+        "length": 3
+      },
+      {
+        "token": "けんめい",
+        "signature": "いけめん",
+        "length": 4
+      },
+      {
+        "token": "にもとづき",
+        "signature": "きづとにも",
+        "length": 5
+      },
+      {
+        "token": "ちゃんす",
+        "signature": "すちゃん",
+        "length": 4
+      },
+      {
+        "token": "めだつ",
+        "signature": "だつめ",
+        "length": 3
+      },
+      {
+        "token": "りねん",
+        "signature": "ねりん",
+        "length": 3
+      },
+      {
+        "token": "とざん",
+        "signature": "ざとん",
+        "length": 3
+      },
+      {
+        "token": "たいみんぐ",
+        "signature": "いぐたみん",
+        "length": 5
+      },
+      {
+        "token": "れんぞく",
+        "signature": "くぞれん",
+        "length": 4
+      },
+      {
+        "token": "ごうけい",
+        "signature": "いうけご",
+        "length": 4
+      },
+      {
+        "token": "てあて",
+        "signature": "あて",
+        "length": 3
+      },
+      {
+        "token": "まいつき",
+        "signature": "いきつま",
+        "length": 4
+      },
+      {
+        "token": "ちょくご",
+        "signature": "くごちょ",
+        "length": 4
+      },
+      {
+        "token": "おかげ",
+        "signature": "おかげ",
+        "length": 3
+      },
+      {
+        "token": "じょし",
+        "signature": "しじょ",
+        "length": 3
+      },
+      {
+        "token": "いくじ",
+        "signature": "いくじ",
+        "length": 3
+      },
+      {
+        "token": "はしら",
+        "signature": "しはら",
+        "length": 3
+      },
+      {
+        "token": "あてる",
+        "signature": "あてる",
+        "length": 3
+      },
+      {
+        "token": "こうして",
+        "signature": "うこして",
+        "length": 4
+      },
+      {
+        "token": "ごうり",
+        "signature": "うごり",
+        "length": 3
+      },
+      {
+        "token": "しっぱい",
+        "signature": "いしっぱ",
+        "length": 4
+      },
+      {
+        "token": "しゅよう",
+        "signature": "うしゅよ",
+        "length": 4
+      },
+      {
+        "token": "かつどうする",
+        "signature": "うかすつどる",
+        "length": 6
+      },
+      {
+        "token": "ぜいきん",
+        "signature": "いきぜん",
+        "length": 4
+      },
+      {
+        "token": "しゅっぱん",
+        "signature": "しっぱゅん",
+        "length": 5
+      },
+      {
+        "token": "きげん",
+        "signature": "きげん",
+        "length": 3
+      },
+      {
+        "token": "たいじゅう",
+        "signature": "いうじたゅ",
+        "length": 5
+      },
+      {
+        "token": "しゅっさん",
+        "signature": "さしっゅん",
+        "length": 5
+      },
+      {
+        "token": "こせい",
+        "signature": "いこせ",
+        "length": 3
+      },
+      {
+        "token": "いりぐち",
+        "signature": "いぐちり",
+        "length": 4
+      },
+      {
+        "token": "しんぎ",
+        "signature": "ぎしん",
+        "length": 3
+      },
+      {
+        "token": "かぎ",
+        "signature": "かぎ",
+        "length": 2
+      },
+      {
+        "token": "じょうやく",
+        "signature": "うくじやょ",
+        "length": 5
+      },
+      {
+        "token": "とく",
+        "signature": "くと",
+        "length": 2
+      },
+      {
+        "token": "ほぜん",
+        "signature": "ぜほん",
+        "length": 3
+      },
+      {
+        "token": "もり",
+        "signature": "もり",
+        "length": 2
+      },
+      {
+        "token": "のこり",
+        "signature": "このり",
+        "length": 3
+      },
+      {
+        "token": "かんせつ",
+        "signature": "かせつん",
+        "length": 4
+      },
+      {
+        "token": "じかい",
+        "signature": "いかじ",
+        "length": 3
+      },
+      {
+        "token": "こんなに",
+        "signature": "こなにん",
+        "length": 4
+      },
+      {
+        "token": "きょてん",
+        "signature": "きてょん",
+        "length": 4
+      },
+      {
+        "token": "だれか",
+        "signature": "かだれ",
+        "length": 3
+      },
+      {
+        "token": "ていう",
+        "signature": "いうて",
+        "length": 3
+      },
+      {
+        "token": "にあたって",
+        "signature": "あたってに",
+        "length": 5
+      },
+      {
+        "token": "かねる",
+        "signature": "かねる",
+        "length": 3
+      },
+      {
+        "token": "こうどうする",
+        "signature": "うこすどる",
+        "length": 6
+      },
+      {
+        "token": "とうけい",
+        "signature": "いうけと",
+        "length": 4
+      },
+      {
+        "token": "しんこう",
+        "signature": "うこしん",
+        "length": 4
+      },
+      {
+        "token": "ねらう",
+        "signature": "うねら",
+        "length": 3
+      },
+      {
+        "token": "かいてき",
+        "signature": "いかきて",
+        "length": 4
+      },
+      {
+        "token": "のばす",
+        "signature": "すのば",
+        "length": 3
+      },
+      {
+        "token": "ぼーる",
+        "signature": "ーぼる",
+        "length": 3
+      },
+      {
+        "token": "らん",
+        "signature": "らん",
+        "length": 2
+      },
+      {
+        "token": "だいしんさい",
+        "signature": "いさしだん",
+        "length": 6
+      },
+      {
+        "token": "うそ",
+        "signature": "うそ",
+        "length": 2
+      },
+      {
+        "token": "もどす",
+        "signature": "すども",
+        "length": 3
+      },
+      {
+        "token": "ごぜん",
+        "signature": "ごぜん",
+        "length": 3
+      },
+      {
+        "token": "よきん",
+        "signature": "きよん",
+        "length": 3
+      },
+      {
+        "token": "じゅうじつ",
+        "signature": "うじつゅ",
+        "length": 5
+      },
+      {
+        "token": "きさい",
+        "signature": "いきさ",
+        "length": 3
+      },
+      {
+        "token": "ひじょうに",
+        "signature": "うじにひょ",
+        "length": 5
+      },
+      {
+        "token": "ほーむ",
+        "signature": "ーほむ",
+        "length": 3
+      },
+      {
+        "token": "におい",
+        "signature": "いおに",
+        "length": 3
+      },
+      {
+        "token": "はずす",
+        "signature": "すずは",
+        "length": 3
+      },
+      {
+        "token": "ていか",
+        "signature": "いかて",
+        "length": 3
+      },
+      {
+        "token": "いちばん",
+        "signature": "いちばん",
+        "length": 4
+      },
+      {
+        "token": "しゅじんこう",
+        "signature": "うこしじゅん",
+        "length": 6
+      },
+      {
+        "token": "どらま",
+        "signature": "どまら",
+        "length": 3
+      },
+      {
+        "token": "ようきゅうする",
+        "signature": "うきすゅよる",
+        "length": 7
+      },
+      {
+        "token": "せんご",
+        "signature": "ごせん",
+        "length": 3
+      },
+      {
+        "token": "かくす",
+        "signature": "かくす",
+        "length": 3
+      },
+      {
+        "token": "ぶらんど",
+        "signature": "どぶらん",
+        "length": 4
+      },
+      {
+        "token": "なるべく",
+        "signature": "くなべる",
+        "length": 4
+      },
+      {
+        "token": "おくれる",
+        "signature": "おくるれ",
+        "length": 4
+      },
+      {
+        "token": "おおはば",
+        "signature": "おはば",
+        "length": 4
+      },
+      {
+        "token": "けいひ",
+        "signature": "いけひ",
+        "length": 3
+      },
+      {
+        "token": "のさい",
+        "signature": "いさの",
+        "length": 3
+      },
+      {
+        "token": "りんく",
+        "signature": "くりん",
+        "length": 3
+      },
+      {
+        "token": "ふきゅう",
+        "signature": "うきふゅ",
+        "length": 4
+      },
+      {
+        "token": "めいん",
+        "signature": "いめん",
+        "length": 3
+      },
+      {
+        "token": "おわり",
+        "signature": "おりわ",
+        "length": 3
+      },
+      {
+        "token": "ばいばい",
+        "signature": "いば",
+        "length": 4
+      },
+      {
+        "token": "おせん",
+        "signature": "おせん",
+        "length": 3
+      },
+      {
+        "token": "よせる",
+        "signature": "せよる",
+        "length": 3
+      },
+      {
+        "token": "ばか",
+        "signature": "かば",
+        "length": 2
+      },
+      {
+        "token": "ゆける",
+        "signature": "けゆる",
+        "length": 3
+      },
+      {
+        "token": "こーど",
+        "signature": "ーこど",
+        "length": 3
+      },
+      {
+        "token": "かくりつ",
+        "signature": "かくつり",
+        "length": 4
+      },
+      {
+        "token": "めんせき",
+        "signature": "きせめん",
+        "length": 4
+      },
+      {
+        "token": "おなか",
+        "signature": "おかな",
+        "length": 3
+      },
+      {
+        "token": "たのむ",
+        "signature": "たのむ",
+        "length": 3
+      },
+      {
+        "token": "とっきょ",
+        "signature": "きっとょ",
+        "length": 4
+      },
+      {
+        "token": "えいせい",
+        "signature": "いえせ",
+        "length": 4
+      },
+      {
+        "token": "ありがたい",
+        "signature": "あいがたり",
+        "length": 5
+      },
+      {
+        "token": "まく",
+        "signature": "くま",
+        "length": 2
+      },
+      {
+        "token": "つかれる",
+        "signature": "かつるれ",
+        "length": 4
+      },
+      {
+        "token": "たにんごと",
+        "signature": "ごたとにん",
+        "length": 5
+      },
+      {
+        "token": "しゃりょう",
+        "signature": "うしゃょり",
+        "length": 5
+      },
+      {
+        "token": "すいぶん",
+        "signature": "いすぶん",
+        "length": 4
+      },
+      {
+        "token": "まよう",
+        "signature": "うまよ",
+        "length": 3
+      },
+      {
+        "token": "ほぞんする",
+        "signature": "すぞほるん",
+        "length": 5
+      },
+      {
+        "token": "わかれる",
+        "signature": "かるれわ",
+        "length": 4
+      },
+      {
+        "token": "ゆうし",
+        "signature": "うしゆ",
+        "length": 3
+      },
+      {
+        "token": "ふりかえる",
+        "signature": "えかふりる",
+        "length": 5
+      },
+      {
+        "token": "はら",
+        "signature": "はら",
+        "length": 2
+      },
+      {
+        "token": "せかいじゅう",
+        "signature": "いうかじせゅ",
+        "length": 6
+      },
+      {
+        "token": "つかいかた",
+        "signature": "いかたつ",
+        "length": 5
+      },
+      {
+        "token": "すたーと",
+        "signature": "ーすたと",
+        "length": 4
+      },
+      {
+        "token": "てきすと",
+        "signature": "きすてと",
+        "length": 4
+      },
+      {
+        "token": "わが",
+        "signature": "がわ",
+        "length": 2
+      },
+      {
+        "token": "ひていする",
+        "signature": "いすてひる",
+        "length": 5
+      },
+      {
+        "token": "ひとたち",
+        "signature": "たちとひ",
+        "length": 4
+      },
+      {
+        "token": "はいき",
+        "signature": "いきは",
+        "length": 3
+      },
+      {
+        "token": "りゅう",
+        "signature": "うゅり",
+        "length": 3
+      },
+      {
+        "token": "さげる",
+        "signature": "げさる",
+        "length": 3
+      },
+      {
+        "token": "きんし",
+        "signature": "きしん",
+        "length": 3
+      },
+      {
+        "token": "さゆう",
+        "signature": "うさゆ",
+        "length": 3
+      },
+      {
+        "token": "とどうふけん",
+        "signature": "うけとどふん",
+        "length": 6
+      },
+      {
+        "token": "ふうけい",
+        "signature": "いうけふ",
+        "length": 4
+      },
+      {
+        "token": "たいとる",
+        "signature": "いたとる",
+        "length": 4
+      },
+      {
+        "token": "かんけいする",
+        "signature": "いかけするん",
+        "length": 6
+      },
+      {
+        "token": "しずか",
+        "signature": "かしず",
+        "length": 3
+      },
+      {
+        "token": "しゅみ",
+        "signature": "しみゅ",
+        "length": 3
+      },
+      {
+        "token": "ろんり",
+        "signature": "りろん",
+        "length": 3
+      },
+      {
+        "token": "しーと",
+        "signature": "ーしと",
+        "length": 3
+      },
+      {
+        "token": "きゅうよ",
+        "signature": "うきゅよ",
+        "length": 4
+      },
+      {
+        "token": "りーだー",
+        "signature": "ーだり",
+        "length": 4
+      },
+      {
+        "token": "ふかめる",
+        "signature": "かふめる",
+        "length": 4
+      },
+      {
+        "token": "しゅうしゅう",
+        "signature": "うしゅ",
+        "length": 6
+      },
+      {
+        "token": "じんけん",
+        "signature": "けじん",
+        "length": 4
+      },
+      {
+        "token": "どうも",
+        "signature": "うども",
+        "length": 3
+      },
+      {
+        "token": "かえす",
+        "signature": "えかす",
+        "length": 3
+      },
+      {
+        "token": "かくめい",
+        "signature": "いかくめ",
+        "length": 4
+      },
+      {
+        "token": "こうぎ",
+        "signature": "うぎこ",
+        "length": 3
+      },
+      {
+        "token": "ぎかい",
+        "signature": "いかぎ",
+        "length": 3
+      },
+      {
+        "token": "きんだい",
+        "signature": "いきだん",
+        "length": 4
+      },
+      {
+        "token": "みまん",
+        "signature": "まみん",
+        "length": 3
+      },
+      {
+        "token": "じつに",
+        "signature": "じつに",
+        "length": 3
+      },
+      {
+        "token": "ばいしょう",
+        "signature": "いうしばょ",
+        "length": 5
+      },
+      {
+        "token": "ゆうせん",
+        "signature": "うせゆん",
+        "length": 4
+      },
+      {
+        "token": "かんせい",
+        "signature": "いかせん",
+        "length": 4
+      },
+      {
+        "token": "たいけんする",
+        "signature": "いけすたるん",
+        "length": 6
+      },
+      {
+        "token": "かど",
+        "signature": "かど",
+        "length": 2
+      },
+      {
+        "token": "かいしゃく",
+        "signature": "いかくしゃ",
+        "length": 5
+      },
+      {
+        "token": "ゆうびん",
+        "signature": "うびゆん",
+        "length": 4
+      },
+      {
+        "token": "しゅっしん",
+        "signature": "しっゅん",
+        "length": 5
+      },
+      {
+        "token": "いったん",
+        "signature": "いたっん",
+        "length": 4
+      },
+      {
+        "token": "ほうれい",
+        "signature": "いうほれ",
+        "length": 4
+      },
+      {
+        "token": "ねんりょう",
+        "signature": "うねょりん",
+        "length": 5
+      },
+      {
+        "token": "とりあつかう",
+        "signature": "あうかつとり",
+        "length": 6
+      },
+      {
+        "token": "せいびする",
+        "signature": "いすせびる",
+        "length": 5
+      },
+      {
+        "token": "ろうじん",
+        "signature": "うじろん",
+        "length": 4
+      },
+      {
+        "token": "なんだか",
+        "signature": "かだなん",
+        "length": 4
+      },
+      {
+        "token": "うし",
+        "signature": "うし",
+        "length": 2
+      },
+      {
+        "token": "ととのえる",
+        "signature": "えとのる",
+        "length": 5
+      },
+      {
+        "token": "はつ",
+        "signature": "つは",
+        "length": 2
+      },
+      {
+        "token": "まつり",
+        "signature": "つまり",
+        "length": 3
+      },
+      {
+        "token": "だいえっと",
+        "signature": "いえだっと",
+        "length": 5
+      },
+      {
+        "token": "ぶじ",
+        "signature": "じぶ",
+        "length": 2
+      },
+      {
+        "token": "ついに",
+        "signature": "いつに",
+        "length": 3
+      },
+      {
+        "token": "ぬく",
+        "signature": "くぬ",
+        "length": 2
+      },
+      {
+        "token": "せいかつする",
+        "signature": "いかすせつる",
+        "length": 6
+      },
+      {
+        "token": "あと",
+        "signature": "あと",
+        "length": 2
+      },
+      {
+        "token": "てんじ",
+        "signature": "じてん",
+        "length": 3
+      },
+      {
+        "token": "てきとう",
+        "signature": "うきてと",
+        "length": 4
+      },
+      {
+        "token": "よくじつ",
+        "signature": "くじつよ",
+        "length": 4
+      },
+      {
+        "token": "いちおう",
+        "signature": "いうおち",
+        "length": 4
+      },
+      {
+        "token": "しかしながら",
+        "signature": "かがしなら",
+        "length": 6
+      },
+      {
+        "token": "やくいん",
+        "signature": "いくやん",
+        "length": 4
+      },
+      {
+        "token": "しはい",
+        "signature": "いしは",
+        "length": 3
+      },
+      {
+        "token": "つくりだす",
+        "signature": "くすだつり",
+        "length": 5
+      },
+      {
+        "token": "せいりする",
+        "signature": "いすせりる",
+        "length": 5
+      },
+      {
+        "token": "じょうしき",
+        "signature": "うきしじょ",
+        "length": 5
+      },
+      {
+        "token": "きー",
+        "signature": "ーき",
+        "length": 2
+      },
+      {
+        "token": "しゅしょう",
+        "signature": "うしゅょ",
+        "length": 5
+      },
+      {
+        "token": "こうふ",
+        "signature": "うこふ",
+        "length": 3
+      },
+      {
+        "token": "にがて",
+        "signature": "がてに",
+        "length": 3
+      },
+      {
+        "token": "けっかん",
+        "signature": "かけっん",
+        "length": 4
+      },
+      {
+        "token": "もち",
+        "signature": "ちも",
+        "length": 2
+      },
+      {
+        "token": "そば",
+        "signature": "そば",
+        "length": 2
+      },
+      {
+        "token": "るーと",
+        "signature": "ーとる",
+        "length": 3
+      },
+      {
+        "token": "ほんぶ",
+        "signature": "ぶほん",
+        "length": 3
+      },
+      {
+        "token": "はんけつ",
+        "signature": "けつはん",
+        "length": 4
+      },
+      {
+        "token": "どうが",
+        "signature": "うがど",
+        "length": 3
+      },
+      {
+        "token": "じょうし",
+        "signature": "うしじょ",
+        "length": 4
+      },
+      {
+        "token": "せいじょう",
+        "signature": "いうじせょ",
+        "length": 5
+      },
+      {
+        "token": "ふかのう",
+        "signature": "うかのふ",
+        "length": 4
+      },
+      {
+        "token": "なりに",
+        "signature": "なにり",
+        "length": 3
+      },
+      {
+        "token": "さいど",
+        "signature": "いさど",
+        "length": 3
+      },
+      {
+        "token": "つり",
+        "signature": "つり",
+        "length": 2
+      },
+      {
+        "token": "きょだい",
+        "signature": "いきだょ",
+        "length": 4
+      },
+      {
+        "token": "というより",
+        "signature": "いうとより",
+        "length": 5
+      },
+      {
+        "token": "おうぼ",
+        "signature": "うおぼ",
+        "length": 3
+      },
+      {
+        "token": "めいしょう",
+        "signature": "いうしめょ",
+        "length": 5
+      },
+      {
+        "token": "ひょう",
+        "signature": "うひょ",
+        "length": 3
+      },
+      {
+        "token": "しんじつ",
+        "signature": "しじつん",
+        "length": 4
+      },
+      {
+        "token": "おなじく",
+        "signature": "おくじな",
+        "length": 4
+      },
+      {
+        "token": "けいか",
+        "signature": "いかけ",
+        "length": 3
+      },
+      {
+        "token": "めんどう",
+        "signature": "うどめん",
+        "length": 4
+      },
+      {
+        "token": "きじゅつ",
+        "signature": "きじつゅ",
+        "length": 4
+      },
+      {
+        "token": "あいであ",
+        "signature": "あいで",
+        "length": 4
+      },
+      {
+        "token": "たばこ",
+        "signature": "こたば",
+        "length": 3
+      },
+      {
+        "token": "さっそく",
+        "signature": "くさそっ",
+        "length": 4
+      },
+      {
+        "token": "ちゅうかん",
+        "signature": "うかちゅん",
+        "length": 5
+      },
+      {
+        "token": "こうけんする",
+        "signature": "うけこするん",
+        "length": 6
+      },
+      {
+        "token": "したしい",
+        "signature": "いした",
+        "length": 4
+      },
+      {
+        "token": "きょうだい",
+        "signature": "いうきだょ",
+        "length": 5
+      },
+      {
+        "token": "そうていする",
+        "signature": "いうすそてる",
+        "length": 6
+      },
+      {
+        "token": "がくしゃ",
+        "signature": "がくしゃ",
+        "length": 4
+      },
+      {
+        "token": "ていし",
+        "signature": "いして",
+        "length": 3
+      },
+      {
+        "token": "おんなのこ",
+        "signature": "おこなのん",
+        "length": 5
+      },
+      {
+        "token": "きず",
+        "signature": "きず",
+        "length": 2
+      },
+      {
+        "token": "ふかけつ",
+        "signature": "かけつふ",
+        "length": 4
+      },
+      {
+        "token": "じょうしょう",
+        "signature": "うしじょ",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "しゅうはすう",
+        "signature": "うしすはゅ",
+        "length": 6
+      },
+      {
+        "token": "ちょうなん",
+        "signature": "うちなょん",
+        "length": 5
+      },
+      {
+        "token": "しょくせいかつ",
+        "signature": "いかくしせつょ",
+        "length": 7
+      },
+      {
+        "token": "ていげん",
+        "signature": "いげてん",
+        "length": 4
+      },
+      {
+        "token": "きどう",
+        "signature": "うきど",
+        "length": 3
+      },
+      {
+        "token": "さら",
+        "signature": "さら",
+        "length": 2
+      },
+      {
+        "token": "とうそう",
+        "signature": "うそと",
+        "length": 4
+      },
+      {
+        "token": "げんさく",
+        "signature": "くげさん",
+        "length": 4
+      },
+      {
+        "token": "くりかえし",
+        "signature": "えかくしり",
+        "length": 5
+      },
+      {
+        "token": "かいぐん",
+        "signature": "いかぐん",
+        "length": 4
+      },
+      {
+        "token": "やくしょ",
+        "signature": "くしやょ",
+        "length": 4
+      },
+      {
+        "token": "かんねん",
+        "signature": "かねん",
+        "length": 4
+      },
+      {
+        "token": "しなりお",
+        "signature": "おしなり",
+        "length": 4
+      },
+      {
+        "token": "ちょうしょく",
+        "signature": "うくしちょ",
+        "length": 6
+      },
+      {
+        "token": "しゅっか",
+        "signature": "かしっゅ",
+        "length": 4
+      },
+      {
+        "token": "ばくふ",
+        "signature": "くばふ",
+        "length": 3
+      },
+      {
+        "token": "きける",
+        "signature": "きける",
+        "length": 3
+      },
+      {
+        "token": "わかれ",
+        "signature": "かれわ",
+        "length": 3
+      },
+      {
+        "token": "いはんする",
+        "signature": "いすはるん",
+        "length": 5
+      },
+      {
+        "token": "はんめいする",
+        "signature": "いすはめるん",
+        "length": 6
+      },
+      {
+        "token": "へいし",
+        "signature": "いしへ",
+        "length": 3
+      },
+      {
+        "token": "しゅっちょう",
+        "signature": "うしちっゅょ",
+        "length": 6
+      },
+      {
+        "token": "たほう",
+        "signature": "うたほ",
+        "length": 3
+      },
+      {
+        "token": "よっつ",
+        "signature": "っつよ",
+        "length": 3
+      },
+      {
+        "token": "まにあう",
+        "signature": "あうにま",
+        "length": 4
+      },
+      {
+        "token": "あらそい",
+        "signature": "あいそら",
+        "length": 4
+      },
+      {
+        "token": "はち",
+        "signature": "ちは",
+        "length": 2
+      },
+      {
+        "token": "なつやすみ",
+        "signature": "すつなみや",
+        "length": 5
+      },
+      {
+        "token": "わたくしりつ",
+        "signature": "くしたつりわ",
+        "length": 6
+      },
+      {
+        "token": "たけ",
+        "signature": "けた",
+        "length": 2
+      },
+      {
+        "token": "こんさるたんと",
+        "signature": "こさたとるん",
+        "length": 7
+      },
+      {
+        "token": "こころざし",
+        "signature": "こざしろ",
+        "length": 5
+      },
+      {
+        "token": "たすけ",
+        "signature": "けすた",
+        "length": 3
+      },
+      {
+        "token": "ふとる",
+        "signature": "とふる",
+        "length": 3
+      },
+      {
+        "token": "せんさー",
+        "signature": "ーさせん",
+        "length": 4
+      },
+      {
+        "token": "せいそう",
+        "signature": "いうせそ",
+        "length": 4
+      },
+      {
+        "token": "ぶた",
+        "signature": "たぶ",
+        "length": 2
+      },
+      {
+        "token": "みつど",
+        "signature": "つどみ",
+        "length": 3
+      },
+      {
+        "token": "よっきゅう",
+        "signature": "うきっゅよ",
+        "length": 5
+      },
+      {
+        "token": "にいたるまで",
+        "signature": "いたでにまる",
+        "length": 6
+      },
+      {
+        "token": "やりがい",
+        "signature": "いがやり",
+        "length": 4
+      },
+      {
+        "token": "いくせいする",
+        "signature": "いくすせる",
+        "length": 6
+      },
+      {
+        "token": "なしで",
+        "signature": "しでな",
+        "length": 3
+      },
+      {
+        "token": "のもとで",
+        "signature": "でとのも",
+        "length": 4
+      },
+      {
+        "token": "りそく",
+        "signature": "くそり",
+        "length": 3
+      },
+      {
+        "token": "へいじつ",
+        "signature": "いじつへ",
+        "length": 4
+      },
+      {
+        "token": "うけとり",
+        "signature": "うけとり",
+        "length": 4
+      },
+      {
+        "token": "はんする",
+        "signature": "すはるん",
+        "length": 4
+      },
+      {
+        "token": "ふぉん",
+        "signature": "ぉふん",
+        "length": 3
+      },
+      {
+        "token": "みんぽう",
+        "signature": "うぽみん",
+        "length": 4
+      },
+      {
+        "token": "てつだい",
+        "signature": "いだつて",
+        "length": 4
+      },
+      {
+        "token": "みこみ",
+        "signature": "こみ",
+        "length": 3
+      },
+      {
+        "token": "かいほう",
+        "signature": "いうかほ",
+        "length": 4
+      },
+      {
+        "token": "わん",
+        "signature": "わん",
+        "length": 2
+      },
+      {
+        "token": "せいしゃいん",
+        "signature": "いしせゃん",
+        "length": 6
+      },
+      {
+        "token": "みや",
+        "signature": "みや",
+        "length": 2
+      },
+      {
+        "token": "もうしでる",
+        "signature": "うしでもる",
+        "length": 5
+      },
+      {
+        "token": "むしば",
+        "signature": "しばむ",
+        "length": 3
+      },
+      {
+        "token": "どらいぶ",
+        "signature": "いどぶら",
+        "length": 4
+      },
+      {
+        "token": "ふじん",
+        "signature": "じふん",
+        "length": 3
+      },
+      {
+        "token": "ほゆう",
+        "signature": "うほゆ",
+        "length": 3
+      },
+      {
+        "token": "ぜんじゅつ",
+        "signature": "じぜつゅん",
+        "length": 5
+      },
+      {
+        "token": "もくざい",
+        "signature": "いくざも",
+        "length": 4
+      },
+      {
+        "token": "ごとく",
+        "signature": "くごと",
+        "length": 3
+      },
+      {
+        "token": "かふん",
+        "signature": "かふん",
+        "length": 3
+      },
+      {
+        "token": "ぱふぉーまんす",
+        "signature": "ーぉすぱふまん",
+        "length": 7
+      },
+      {
+        "token": "かー",
+        "signature": "ーか",
+        "length": 2
+      },
+      {
+        "token": "しょっぴんぐ",
+        "signature": "ぐしっぴょん",
+        "length": 6
+      },
+      {
+        "token": "とりけし",
+        "signature": "けしとり",
+        "length": 4
+      },
+      {
+        "token": "かばー",
+        "signature": "ーかば",
+        "length": 3
+      },
+      {
+        "token": "はげます",
+        "signature": "げすはま",
+        "length": 4
+      },
+      {
+        "token": "ぬるめる",
+        "signature": "ぬめる",
+        "length": 4
+      },
+      {
+        "token": "きよする",
+        "signature": "きすよる",
+        "length": 4
+      },
+      {
+        "token": "いんし",
+        "signature": "いしん",
+        "length": 3
+      },
+      {
+        "token": "おかす",
+        "signature": "おかす",
+        "length": 3
+      },
+      {
+        "token": "うんようする",
+        "signature": "うすよるん",
+        "length": 6
+      },
+      {
+        "token": "まずし",
+        "signature": "しずま",
+        "length": 3
+      },
+      {
+        "token": "つうわ",
+        "signature": "うつわ",
+        "length": 3
+      },
+      {
+        "token": "はいふする",
+        "signature": "いすはふる",
+        "length": 5
+      },
+      {
+        "token": "みれる",
+        "signature": "みるれ",
+        "length": 3
+      },
+      {
+        "token": "さらりーまん",
+        "signature": "ーさまらりん",
+        "length": 6
+      },
+      {
+        "token": "ふっき",
+        "signature": "きっふ",
+        "length": 3
+      },
+      {
+        "token": "たより",
+        "signature": "たより",
+        "length": 3
+      },
+      {
+        "token": "かくしん",
+        "signature": "かくしん",
+        "length": 4
+      },
+      {
+        "token": "うんてんする",
+        "signature": "うすてるん",
+        "length": 6
+      },
+      {
+        "token": "ふんかん",
+        "signature": "かふん",
+        "length": 4
+      },
+      {
+        "token": "れーと",
+        "signature": "ーとれ",
+        "length": 3
+      },
+      {
+        "token": "めいじる",
+        "signature": "いじめる",
+        "length": 4
+      },
+      {
+        "token": "へんせい",
+        "signature": "いせへん",
+        "length": 4
+      },
+      {
+        "token": "よっぽど",
+        "signature": "っどぽよ",
+        "length": 4
+      },
+      {
+        "token": "としより",
+        "signature": "しとより",
+        "length": 4
+      },
+      {
+        "token": "しゅうとくする",
+        "signature": "うくしすとゅる",
+        "length": 7
+      },
+      {
+        "token": "しんせき",
+        "signature": "きしせん",
+        "length": 4
+      },
+      {
+        "token": "じゃく",
+        "signature": "くじゃ",
+        "length": 3
+      },
+      {
+        "token": "たんきかん",
+        "signature": "かきたん",
+        "length": 5
+      },
+      {
+        "token": "おちこむ",
+        "signature": "おこちむ",
+        "length": 4
+      },
+      {
+        "token": "きはん",
+        "signature": "きはん",
+        "length": 3
+      },
+      {
+        "token": "けいろ",
+        "signature": "いけろ",
+        "length": 3
+      },
+      {
+        "token": "どうしゃ",
+        "signature": "うしどゃ",
+        "length": 4
+      },
+      {
+        "token": "じょうねつ",
+        "signature": "うじつねょ",
+        "length": 5
+      },
+      {
+        "token": "とりまく",
+        "signature": "くとまり",
+        "length": 4
+      },
+      {
+        "token": "ぜいりし",
+        "signature": "いしぜり",
+        "length": 4
+      },
+      {
+        "token": "れんぽう",
+        "signature": "うぽれん",
+        "length": 4
+      },
+      {
+        "token": "こむ",
+        "signature": "こむ",
+        "length": 2
+      },
+      {
+        "token": "せいじつ",
+        "signature": "いじせつ",
+        "length": 4
+      },
+      {
+        "token": "びょうとう",
+        "signature": "うとびょ",
+        "length": 5
+      },
+      {
+        "token": "じょげん",
+        "signature": "げじょん",
+        "length": 4
+      },
+      {
+        "token": "はんせい",
+        "signature": "いせはん",
+        "length": 4
+      },
+      {
+        "token": "ふくごう",
+        "signature": "うくごふ",
+        "length": 4
+      },
+      {
+        "token": "あいしょう",
+        "signature": "あいうしょ",
+        "length": 5
+      },
+      {
+        "token": "ゆがみ",
+        "signature": "がみゆ",
+        "length": 3
+      },
+      {
+        "token": "おぎなう",
+        "signature": "うおぎな",
+        "length": 4
+      },
+      {
+        "token": "きどうする",
+        "signature": "うきすどる",
+        "length": 5
+      },
+      {
+        "token": "さかのぼる",
+        "signature": "かさのぼる",
+        "length": 5
+      },
+      {
+        "token": "まんがいち",
+        "signature": "いがちまん",
+        "length": 5
+      },
+      {
+        "token": "れいぞうこ",
+        "signature": "いうこぞれ",
+        "length": 5
+      },
+      {
+        "token": "でんあつ",
+        "signature": "あつでん",
+        "length": 4
+      },
+      {
+        "token": "けってん",
+        "signature": "けってん",
+        "length": 4
+      },
+      {
+        "token": "をふまえて",
+        "signature": "えてふまを",
+        "length": 5
+      },
+      {
+        "token": "くじょう",
+        "signature": "うくじょ",
+        "length": 4
+      },
+      {
+        "token": "しつれい",
+        "signature": "いしつれ",
+        "length": 4
+      },
+      {
+        "token": "えんぎ",
+        "signature": "えぎん",
+        "length": 3
+      },
+      {
+        "token": "きょうきゅうする",
+        "signature": "うきすゅょる",
+        "length": 8
+      },
+      {
+        "token": "たいしゅう",
+        "signature": "いうしたゅ",
+        "length": 5
+      },
+      {
+        "token": "りょうて",
+        "signature": "うてょり",
+        "length": 4
+      },
+      {
+        "token": "しょうに",
+        "signature": "うしにょ",
+        "length": 4
+      },
+      {
+        "token": "かいほうする",
+        "signature": "いうかすほる",
+        "length": 6
+      },
+      {
+        "token": "じんみん",
+        "signature": "じみん",
+        "length": 4
+      },
+      {
+        "token": "ちぇーん",
+        "signature": "ーぇちん",
+        "length": 4
+      },
+      {
+        "token": "こうふく",
+        "signature": "うくこふ",
+        "length": 4
+      },
+      {
+        "token": "くずす",
+        "signature": "くすず",
+        "length": 3
+      },
+      {
+        "token": "ぱぱ",
+        "signature": "ぱ",
+        "length": 2
+      },
+      {
+        "token": "ちょうしゅう",
+        "signature": "うしちゅょ",
+        "length": 6
+      },
+      {
+        "token": "ぶんり",
+        "signature": "ぶりん",
+        "length": 3
+      },
+      {
+        "token": "やぶる",
+        "signature": "ぶやる",
+        "length": 3
+      },
+      {
+        "token": "けっとう",
+        "signature": "うけっと",
+        "length": 4
+      },
+      {
+        "token": "てんじする",
+        "signature": "じすてるん",
+        "length": 5
+      },
+      {
+        "token": "かくしゃ",
+        "signature": "かくしゃ",
+        "length": 4
+      },
+      {
+        "token": "いんすとーるする",
+        "signature": "ーいすとるん",
+        "length": 8
+      },
+      {
+        "token": "こうたい",
+        "signature": "いうこた",
+        "length": 4
+      },
+      {
+        "token": "めいきする",
+        "signature": "いきすめる",
+        "length": 5
+      },
+      {
+        "token": "おかし",
+        "signature": "おかし",
+        "length": 3
+      },
+      {
+        "token": "せっしゅする",
+        "signature": "しすせっゅる",
+        "length": 6
+      },
+      {
+        "token": "ぶんぽう",
+        "signature": "うぶぽん",
+        "length": 4
+      },
+      {
+        "token": "こせき",
+        "signature": "きこせ",
+        "length": 3
+      },
+      {
+        "token": "かふぇ",
+        "signature": "ぇかふ",
+        "length": 3
+      },
+      {
+        "token": "てづくり",
+        "signature": "くづてり",
+        "length": 4
+      },
+      {
+        "token": "とくれい",
+        "signature": "いくとれ",
+        "length": 4
+      },
+      {
+        "token": "よび",
+        "signature": "びよ",
+        "length": 2
+      },
+      {
+        "token": "おもいつく",
+        "signature": "いおくつも",
+        "length": 5
+      },
+      {
+        "token": "てがける",
+        "signature": "がけてる",
+        "length": 4
+      },
+      {
+        "token": "みきわめる",
+        "signature": "きみめるわ",
+        "length": 5
+      },
+      {
+        "token": "むしょう",
+        "signature": "うしむょ",
+        "length": 4
+      },
+      {
+        "token": "じょうしゃ",
+        "signature": "うしじゃょ",
+        "length": 5
+      },
+      {
+        "token": "おね",
+        "signature": "おね",
+        "length": 2
+      },
+      {
+        "token": "たいしん",
+        "signature": "いしたん",
+        "length": 4
+      },
+      {
+        "token": "だいりにん",
+        "signature": "いだにりん",
+        "length": 5
+      },
+      {
+        "token": "くりあ",
+        "signature": "あくり",
+        "length": 3
+      },
+      {
+        "token": "まいしゅう",
+        "signature": "いうしまゅ",
+        "length": 5
+      },
+      {
+        "token": "わかて",
+        "signature": "かてわ",
+        "length": 3
+      },
+      {
+        "token": "ずいじ",
+        "signature": "いじず",
+        "length": 3
+      },
+      {
+        "token": "せんもんい",
+        "signature": "いせもん",
+        "length": 5
+      },
+      {
+        "token": "けつい",
+        "signature": "いけつ",
+        "length": 3
+      },
+      {
+        "token": "ぼにゅう",
+        "signature": "うにぼゅ",
+        "length": 4
+      },
+      {
+        "token": "まけ",
+        "signature": "けま",
+        "length": 2
+      },
+      {
+        "token": "かんきゃく",
+        "signature": "かきくゃん",
+        "length": 5
+      },
+      {
+        "token": "どうとう",
+        "signature": "うとど",
+        "length": 4
+      },
+      {
+        "token": "しょうゆ",
+        "signature": "うしゆょ",
+        "length": 4
+      },
+      {
+        "token": "ここちよい",
+        "signature": "いこちよ",
+        "length": 5
+      },
+      {
+        "token": "ける",
+        "signature": "ける",
+        "length": 2
+      },
+      {
+        "token": "あしもと",
+        "signature": "あしとも",
+        "length": 4
+      },
+      {
+        "token": "ほうてい",
+        "signature": "いうてほ",
+        "length": 4
+      },
+      {
+        "token": "こころみ",
+        "signature": "こみろ",
+        "length": 4
+      },
+      {
+        "token": "ひかる",
+        "signature": "かひる",
+        "length": 3
+      },
+      {
+        "token": "しんぱん",
+        "signature": "しぱん",
+        "length": 4
+      },
+      {
+        "token": "はさん",
+        "signature": "さはん",
+        "length": 3
+      },
+      {
+        "token": "こゆう",
+        "signature": "うこゆ",
+        "length": 3
+      },
+      {
+        "token": "しかけ",
+        "signature": "かけし",
+        "length": 3
+      },
+      {
+        "token": "しんかする",
+        "signature": "かしするん",
+        "length": 5
+      },
+      {
+        "token": "さぎ",
+        "signature": "ぎさ",
+        "length": 2
+      },
+      {
+        "token": "えふ",
+        "signature": "えふ",
+        "length": 2
+      },
+      {
+        "token": "あいかわらず",
+        "signature": "あいかずらわ",
+        "length": 6
+      },
+      {
+        "token": "にしたがい",
+        "signature": "いがしたに",
+        "length": 5
+      },
+      {
+        "token": "こういき",
+        "signature": "いうきこ",
+        "length": 4
+      },
+      {
+        "token": "こんさるてぃんぐ",
+        "signature": "ぃぐこさてるん",
+        "length": 8
+      },
+      {
+        "token": "ぽすと",
+        "signature": "すとぽ",
+        "length": 3
+      },
+      {
+        "token": "ようび",
+        "signature": "うびよ",
+        "length": 3
+      },
+      {
+        "token": "しゅっしょう",
+        "signature": "うしっゅょ",
+        "length": 6
+      },
+      {
+        "token": "らんく",
+        "signature": "くらん",
+        "length": 3
+      },
+      {
+        "token": "てがる",
+        "signature": "がてる",
+        "length": 3
+      },
+      {
+        "token": "でめりっと",
+        "signature": "っでとめり",
+        "length": 5
+      },
+      {
+        "token": "しゅうき",
+        "signature": "うきしゅ",
+        "length": 4
+      },
+      {
+        "token": "おくさま",
+        "signature": "おくさま",
+        "length": 4
+      },
+      {
+        "token": "ほうどうする",
+        "signature": "うすどほる",
+        "length": 6
+      },
+      {
+        "token": "ゆうそう",
+        "signature": "うそゆ",
+        "length": 4
+      },
+      {
+        "token": "のんびり",
+        "signature": "のびりん",
+        "length": 4
+      },
+      {
+        "token": "ふで",
+        "signature": "でふ",
+        "length": 2
+      },
+      {
+        "token": "もったいない",
+        "signature": "いたっなも",
+        "length": 6
+      },
+      {
+        "token": "へんすう",
+        "signature": "うすへん",
+        "length": 4
+      },
+      {
+        "token": "ぼしゅうする",
+        "signature": "うしすぼゅる",
+        "length": 6
+      },
+      {
+        "token": "だんす",
+        "signature": "すだん",
+        "length": 3
+      },
+      {
+        "token": "ざんだか",
+        "signature": "かざだん",
+        "length": 4
+      },
+      {
+        "token": "ふた",
+        "signature": "たふ",
+        "length": 2
+      },
+      {
+        "token": "かいひ",
+        "signature": "いかひ",
+        "length": 3
+      },
+      {
+        "token": "きせき",
+        "signature": "きせ",
+        "length": 3
+      },
+      {
+        "token": "からみて",
+        "signature": "かてみら",
+        "length": 4
+      },
+      {
+        "token": "ばいたい",
+        "signature": "いたば",
+        "length": 4
+      },
+      {
+        "token": "ちょくせん",
+        "signature": "くせちょん",
+        "length": 5
+      },
+      {
+        "token": "せっしょく",
+        "signature": "くしせっょ",
+        "length": 5
+      },
+      {
+        "token": "さいばんかん",
+        "signature": "いかさばん",
+        "length": 6
+      },
+      {
+        "token": "ゆえに",
+        "signature": "えにゆ",
+        "length": 3
+      },
+      {
+        "token": "りったい",
+        "signature": "いたっり",
+        "length": 4
+      },
+      {
+        "token": "こうよう",
+        "signature": "うこよ",
+        "length": 4
+      },
+      {
+        "token": "うたがい",
+        "signature": "いうがた",
+        "length": 4
+      },
+      {
+        "token": "ふりかえ",
+        "signature": "えかふり",
+        "length": 4
+      },
+      {
+        "token": "ちゅうき",
+        "signature": "うきちゅ",
+        "length": 4
+      },
+      {
+        "token": "しゅうとく",
+        "signature": "うくしとゅ",
+        "length": 5
+      },
+      {
+        "token": "ろんじる",
+        "signature": "じるろん",
+        "length": 4
+      },
+      {
+        "token": "せわ",
+        "signature": "せわ",
+        "length": 2
+      },
+      {
+        "token": "ざん",
+        "signature": "ざん",
+        "length": 2
+      },
+      {
+        "token": "せんてい",
+        "signature": "いせてん",
+        "length": 4
+      },
+      {
+        "token": "ぎり",
+        "signature": "ぎり",
+        "length": 2
+      },
+      {
+        "token": "あっというま",
+        "signature": "あいうっとま",
+        "length": 6
+      },
+      {
+        "token": "にゅうきん",
+        "signature": "うきにゅん",
+        "length": 5
+      },
+      {
+        "token": "でんたつ",
+        "signature": "たつでん",
+        "length": 4
+      },
+      {
+        "token": "しがいち",
+        "signature": "いがしち",
+        "length": 4
+      },
+      {
+        "token": "つうこう",
+        "signature": "うこつ",
+        "length": 4
+      },
+      {
+        "token": "さだめ",
+        "signature": "さだめ",
+        "length": 3
+      },
+      {
+        "token": "けつごう",
+        "signature": "うけごつ",
+        "length": 4
+      },
+      {
+        "token": "すいしつ",
+        "signature": "いしすつ",
+        "length": 4
+      },
+      {
+        "token": "じしょ",
+        "signature": "しじょ",
+        "length": 3
+      },
+      {
+        "token": "よくせいする",
+        "signature": "いくすせよる",
+        "length": 6
+      },
+      {
+        "token": "さっこん",
+        "signature": "こさっん",
+        "length": 4
+      },
+      {
+        "token": "せんぱく",
+        "signature": "くせぱん",
+        "length": 4
+      },
+      {
+        "token": "おめでとう",
+        "signature": "うおでとめ",
+        "length": 5
+      },
+      {
+        "token": "ぱんふれっと",
+        "signature": "っとぱふれん",
+        "length": 6
+      },
+      {
+        "token": "おきにいり",
+        "signature": "いおきにり",
+        "length": 5
+      },
+      {
+        "token": "へんかんする",
+        "signature": "かすへるん",
+        "length": 6
+      },
+      {
+        "token": "ふとん",
+        "signature": "とふん",
+        "length": 3
+      },
+      {
+        "token": "かたむける",
+        "signature": "かけたむる",
+        "length": 5
+      },
+      {
+        "token": "じかくする",
+        "signature": "かくじする",
+        "length": 5
+      },
+      {
+        "token": "はいそう",
+        "signature": "いうそは",
+        "length": 4
+      },
+      {
+        "token": "ぷらんと",
+        "signature": "とぷらん",
+        "length": 4
+      },
+      {
+        "token": "しんじん",
+        "signature": "しじん",
+        "length": 4
+      },
+      {
+        "token": "とめ",
+        "signature": "とめ",
+        "length": 2
+      },
+      {
+        "token": "とびだす",
+        "signature": "すだとび",
+        "length": 4
+      },
+      {
+        "token": "ぐんたい",
+        "signature": "いぐたん",
+        "length": 4
+      },
+      {
+        "token": "ひょうめいする",
+        "signature": "いうすひめょる",
+        "length": 7
+      },
+      {
+        "token": "ぶっし",
+        "signature": "しっぶ",
+        "length": 3
+      },
+      {
+        "token": "よち",
+        "signature": "ちよ",
+        "length": 2
+      },
+      {
+        "token": "ゆうよう",
+        "signature": "うゆよ",
+        "length": 4
+      },
+      {
+        "token": "あくせすする",
+        "signature": "あくすせる",
+        "length": 6
+      },
+      {
+        "token": "さろん",
+        "signature": "さろん",
+        "length": 3
+      },
+      {
+        "token": "しいく",
+        "signature": "いくし",
+        "length": 3
+      },
+      {
+        "token": "たな",
+        "signature": "たな",
+        "length": 2
+      },
+      {
+        "token": "きゅうしょく",
+        "signature": "うきくしゅょ",
+        "length": 6
+      },
+      {
+        "token": "らい",
+        "signature": "いら",
+        "length": 2
+      },
+      {
+        "token": "くみこむ",
+        "signature": "くこみむ",
+        "length": 4
+      },
+      {
+        "token": "ふっかつ",
+        "signature": "かっつふ",
+        "length": 4
+      },
+      {
+        "token": "ふりこむ",
+        "signature": "こふむり",
+        "length": 4
+      },
+      {
+        "token": "ろく",
+        "signature": "くろ",
+        "length": 2
+      },
+      {
+        "token": "かもつ",
+        "signature": "かつも",
+        "length": 3
+      },
+      {
+        "token": "ようひん",
+        "signature": "うひよん",
+        "length": 4
+      },
+      {
+        "token": "いっかつ",
+        "signature": "いかっつ",
+        "length": 4
+      },
+      {
+        "token": "じゅこうする",
+        "signature": "うこじすゅる",
+        "length": 6
+      },
+      {
+        "token": "のうみん",
+        "signature": "うのみん",
+        "length": 4
+      },
+      {
+        "token": "てらす",
+        "signature": "すてら",
+        "length": 3
+      },
+      {
+        "token": "はっしょう",
+        "signature": "うしっはょ",
+        "length": 5
+      },
+      {
+        "token": "かり",
+        "signature": "かり",
+        "length": 2
+      },
+      {
+        "token": "がたい",
+        "signature": "いがた",
+        "length": 3
+      },
+      {
+        "token": "びざ",
+        "signature": "ざび",
+        "length": 2
+      },
+      {
+        "token": "いんさつする",
+        "signature": "いさすつるん",
+        "length": 6
+      },
+      {
+        "token": "かいじょする",
+        "signature": "いかじすょる",
+        "length": 6
+      },
+      {
+        "token": "とんでも",
+        "signature": "でともん",
+        "length": 4
+      },
+      {
+        "token": "ちょうてい",
+        "signature": "いうちてょ",
+        "length": 5
+      },
+      {
+        "token": "こうふする",
+        "signature": "うこすふる",
+        "length": 5
+      },
+      {
+        "token": "せっとく",
+        "signature": "くせっと",
+        "length": 4
+      },
+      {
+        "token": "さんせい",
+        "signature": "いさせん",
+        "length": 4
+      },
+      {
+        "token": "しみゅれーしょん",
+        "signature": "ーしみゅょれん",
+        "length": 8
+      },
+      {
+        "token": "すーぷ",
+        "signature": "ーすぷ",
+        "length": 3
+      },
+      {
+        "token": "ぶーむ",
+        "signature": "ーぶむ",
+        "length": 3
+      },
+      {
+        "token": "けつぎ",
+        "signature": "ぎけつ",
+        "length": 3
+      },
+      {
+        "token": "てつだう",
+        "signature": "うだつて",
+        "length": 4
+      },
+      {
+        "token": "らんきんぐ",
+        "signature": "きぐらん",
+        "length": 5
+      },
+      {
+        "token": "ていねん",
+        "signature": "いてねん",
+        "length": 4
+      },
+      {
+        "token": "ゆる",
+        "signature": "ゆる",
+        "length": 2
+      },
+      {
+        "token": "そうてい",
+        "signature": "いうそて",
+        "length": 4
+      },
+      {
+        "token": "ぼし",
+        "signature": "しぼ",
+        "length": 2
+      },
+      {
+        "token": "みやげ",
+        "signature": "げみや",
+        "length": 3
+      },
+      {
+        "token": "りょうこく",
+        "signature": "うくこょり",
+        "length": 5
+      },
+      {
+        "token": "じつ",
+        "signature": "じつ",
+        "length": 2
+      },
+      {
+        "token": "せいべつ",
+        "signature": "いせつべ",
+        "length": 4
+      },
+      {
+        "token": "ちゅうしょく",
+        "signature": "うくしちゅょ",
+        "length": 6
+      },
+      {
+        "token": "むすびつける",
+        "signature": "けすつびむる",
+        "length": 6
+      },
+      {
+        "token": "くりあする",
+        "signature": "あくすりる",
+        "length": 5
+      },
+      {
+        "token": "さいはつ",
+        "signature": "いさつは",
+        "length": 4
+      },
+      {
+        "token": "かんい",
+        "signature": "いかん",
+        "length": 3
+      },
+      {
+        "token": "くさい",
+        "signature": "いくさ",
+        "length": 3
+      },
+      {
+        "token": "ほどう",
+        "signature": "うどほ",
+        "length": 3
+      },
+      {
+        "token": "でん",
+        "signature": "でん",
+        "length": 2
+      },
+      {
+        "token": "おしゃれ",
+        "signature": "おしゃれ",
+        "length": 4
+      },
+      {
+        "token": "ひまん",
+        "signature": "ひまん",
+        "length": 3
+      },
+      {
+        "token": "おしつける",
+        "signature": "おけしつる",
+        "length": 5
+      },
+      {
+        "token": "がっきゅう",
+        "signature": "うがきっゅ",
+        "length": 5
+      },
+      {
+        "token": "りんぐ",
+        "signature": "ぐりん",
+        "length": 3
+      },
+      {
+        "token": "ほっと",
+        "signature": "っとほ",
+        "length": 3
+      },
+      {
+        "token": "へいき",
+        "signature": "いきへ",
+        "length": 3
+      },
+      {
+        "token": "ぜんしゃ",
+        "signature": "しぜゃん",
+        "length": 4
+      },
+      {
+        "token": "つちかう",
+        "signature": "うかちつ",
+        "length": 4
+      },
+      {
+        "token": "いいかえる",
+        "signature": "いえかる",
+        "length": 5
+      },
+      {
+        "token": "こんげん",
+        "signature": "げこん",
+        "length": 4
+      },
+      {
+        "token": "しんかんせん",
+        "signature": "かしせん",
+        "length": 6
+      },
+      {
+        "token": "ほんぶん",
+        "signature": "ぶほん",
+        "length": 4
+      },
+      {
+        "token": "とくやく",
+        "signature": "くとや",
+        "length": 4
+      },
+      {
+        "token": "せっけいする",
+        "signature": "いけすせっる",
+        "length": 6
+      },
+      {
+        "token": "がくえん",
+        "signature": "えがくん",
+        "length": 4
+      },
+      {
+        "token": "こてん",
+        "signature": "こてん",
+        "length": 3
+      },
+      {
+        "token": "どく",
+        "signature": "くど",
+        "length": 2
+      },
+      {
+        "token": "いんようする",
+        "signature": "いうすよるん",
+        "length": 6
+      },
+      {
+        "token": "そうして",
+        "signature": "うしそて",
+        "length": 4
+      },
+      {
+        "token": "たぐい",
+        "signature": "いぐた",
+        "length": 3
+      },
+      {
+        "token": "こまんど",
+        "signature": "こどまん",
+        "length": 4
+      },
+      {
+        "token": "かせつ",
+        "signature": "かせつ",
+        "length": 3
+      },
+      {
+        "token": "ふきょう",
+        "signature": "うきふょ",
+        "length": 4
+      },
+      {
+        "token": "まなべる",
+        "signature": "なべまる",
+        "length": 4
+      },
+      {
+        "token": "みり",
+        "signature": "みり",
+        "length": 2
+      },
+      {
+        "token": "しんてん",
+        "signature": "してん",
+        "length": 4
+      },
+      {
+        "token": "かくしんする",
+        "signature": "かくしするん",
+        "length": 6
+      },
+      {
+        "token": "しゅじい",
+        "signature": "いしじゅ",
+        "length": 4
+      },
+      {
+        "token": "あまる",
+        "signature": "あまる",
+        "length": 3
+      },
+      {
+        "token": "ぎりぎり",
+        "signature": "ぎり",
+        "length": 4
+      },
+      {
+        "token": "えんしゅう",
+        "signature": "うえしゅん",
+        "length": 5
+      },
+      {
+        "token": "しっぺい",
+        "signature": "いしっぺ",
+        "length": 4
+      },
+      {
+        "token": "ぶんかい",
+        "signature": "いかぶん",
+        "length": 4
+      },
+      {
+        "token": "すたじお",
+        "signature": "おじすた",
+        "length": 4
+      },
+      {
+        "token": "げんてん",
+        "signature": "げてん",
+        "length": 4
+      },
+      {
+        "token": "ふーど",
+        "signature": "ーどふ",
+        "length": 3
+      },
+      {
+        "token": "さんしゅつする",
+        "signature": "さしすつゅるん",
+        "length": 7
+      },
+      {
+        "token": "とうたつする",
+        "signature": "うすたつとる",
+        "length": 6
+      },
+      {
+        "token": "こうり",
+        "signature": "うこり",
+        "length": 3
+      },
+      {
+        "token": "ざいにち",
+        "signature": "いざちに",
+        "length": 4
+      },
+      {
+        "token": "ふぁっしょん",
+        "signature": "ぁしっふょん",
+        "length": 6
+      },
+      {
+        "token": "いたむ",
+        "signature": "いたむ",
+        "length": 3
+      },
+      {
+        "token": "けいこ",
+        "signature": "いけこ",
+        "length": 3
+      },
+      {
+        "token": "こらむ",
+        "signature": "こむら",
+        "length": 3
+      },
+      {
+        "token": "ぶつかる",
+        "signature": "かつぶる",
+        "length": 4
+      },
+      {
+        "token": "つうようする",
+        "signature": "うすつよる",
+        "length": 6
+      },
+      {
+        "token": "しょうにんする",
+        "signature": "うしすにょるん",
+        "length": 7
+      },
+      {
+        "token": "ずめん",
+        "signature": "ずめん",
+        "length": 3
+      },
+      {
+        "token": "きり",
+        "signature": "きり",
+        "length": 2
+      },
+      {
+        "token": "きっちん",
+        "signature": "きちっん",
+        "length": 4
+      },
+      {
+        "token": "いっかんする",
+        "signature": "いかすっるん",
+        "length": 6
+      },
+      {
+        "token": "いのり",
+        "signature": "いのり",
+        "length": 3
+      },
+      {
+        "token": "えんとりー",
+        "signature": "ーえとりん",
+        "length": 5
+      },
+      {
+        "token": "でんわする",
+        "signature": "すでるわん",
+        "length": 5
+      },
+      {
+        "token": "しまい",
+        "signature": "いしま",
+        "length": 3
+      },
+      {
+        "token": "あらためる",
+        "signature": "あためらる",
+        "length": 5
+      },
+      {
+        "token": "あじわい",
+        "signature": "あいじわ",
+        "length": 4
+      },
+      {
+        "token": "きずつく",
+        "signature": "きくずつ",
+        "length": 4
+      },
+      {
+        "token": "まさか",
+        "signature": "かさま",
+        "length": 3
+      },
+      {
+        "token": "たおる",
+        "signature": "おたる",
+        "length": 3
+      },
+      {
+        "token": "きょうよう",
+        "signature": "うきょよ",
+        "length": 5
+      },
+      {
+        "token": "そうふする",
+        "signature": "うすそふる",
+        "length": 5
+      },
+      {
+        "token": "ぶんぴつ",
+        "signature": "つぴぶん",
+        "length": 4
+      },
+      {
+        "token": "まん",
+        "signature": "まん",
+        "length": 2
+      },
+      {
+        "token": "ぜいせい",
+        "signature": "いせぜ",
+        "length": 4
+      },
+      {
+        "token": "あんてな",
+        "signature": "あてなん",
+        "length": 4
+      },
+      {
+        "token": "みっせつ",
+        "signature": "せっつみ",
+        "length": 4
+      },
+      {
+        "token": "たいいく",
+        "signature": "いくた",
+        "length": 4
+      },
+      {
+        "token": "かたまり",
+        "signature": "かたまり",
+        "length": 4
+      },
+      {
+        "token": "さぶ",
+        "signature": "さぶ",
+        "length": 2
+      },
+      {
+        "token": "しゅっぱんする",
+        "signature": "しすっぱゅるん",
+        "length": 7
+      },
+      {
+        "token": "ぶれーき",
+        "signature": "ーきぶれ",
+        "length": 4
+      },
+      {
+        "token": "ひこう",
+        "signature": "うこひ",
+        "length": 3
+      },
+      {
+        "token": "しょうひする",
+        "signature": "うしすひょる",
+        "length": 6
+      },
+      {
+        "token": "おもいこむ",
+        "signature": "いおこむも",
+        "length": 5
+      },
+      {
+        "token": "あかり",
+        "signature": "あかり",
+        "length": 3
+      },
+      {
+        "token": "うぇぶ",
+        "signature": "うぇぶ",
+        "length": 3
+      },
+      {
+        "token": "だいち",
+        "signature": "いだち",
+        "length": 3
+      },
+      {
+        "token": "つよみ",
+        "signature": "つみよ",
+        "length": 3
+      },
+      {
+        "token": "すみません",
+        "signature": "すせまみん",
+        "length": 5
+      },
+      {
+        "token": "こっきょう",
+        "signature": "うきこっょ",
+        "length": 5
+      },
+      {
+        "token": "もちべーしょん",
+        "signature": "ーしちべもょん",
+        "length": 7
+      },
+      {
+        "token": "のり",
+        "signature": "のり",
+        "length": 2
+      },
+      {
+        "token": "ばいお",
+        "signature": "いおば",
+        "length": 3
+      },
+      {
+        "token": "がいか",
+        "signature": "いかが",
+        "length": 3
+      },
+      {
+        "token": "おふ",
+        "signature": "おふ",
+        "length": 2
+      },
+      {
+        "token": "よなか",
+        "signature": "かなよ",
+        "length": 3
+      },
+      {
+        "token": "れんたる",
+        "signature": "たるれん",
+        "length": 4
+      },
+      {
+        "token": "であえる",
+        "signature": "あえでる",
+        "length": 4
+      },
+      {
+        "token": "けっしょう",
+        "signature": "うけしっょ",
+        "length": 5
+      },
+      {
+        "token": "とかい",
+        "signature": "いかと",
+        "length": 3
+      },
+      {
+        "token": "むだん",
+        "signature": "だむん",
+        "length": 3
+      },
+      {
+        "token": "りんどう",
+        "signature": "うどりん",
+        "length": 4
+      },
+      {
+        "token": "あっか",
+        "signature": "あかっ",
+        "length": 3
+      },
+      {
+        "token": "はいとう",
+        "signature": "いうとは",
+        "length": 4
+      },
+      {
+        "token": "こうえき",
+        "signature": "うえきこ",
+        "length": 4
+      },
+      {
+        "token": "しゅつえん",
+        "signature": "えしつゅん",
+        "length": 5
+      },
+      {
+        "token": "あけ",
+        "signature": "あけ",
+        "length": 2
+      },
+      {
+        "token": "てんとう",
+        "signature": "うてとん",
+        "length": 4
+      },
+      {
+        "token": "けむり",
+        "signature": "けむり",
+        "length": 3
+      },
+      {
+        "token": "かるしうむ",
+        "signature": "うかしむる",
+        "length": 5
+      },
+      {
+        "token": "みに",
+        "signature": "にみ",
+        "length": 2
+      },
+      {
+        "token": "やしき",
+        "signature": "きしや",
+        "length": 3
+      },
+      {
+        "token": "さあ",
+        "signature": "あさ",
+        "length": 2
+      },
+      {
+        "token": "たとえる",
+        "signature": "えたとる",
+        "length": 4
+      },
+      {
+        "token": "ちゅうもんする",
+        "signature": "うすちもゅるん",
+        "length": 7
+      },
+      {
+        "token": "せんりょう",
+        "signature": "うせょりん",
+        "length": 5
+      },
+      {
+        "token": "じっと",
+        "signature": "じっと",
+        "length": 3
+      },
+      {
+        "token": "へんけい",
+        "signature": "いけへん",
+        "length": 4
+      },
+      {
+        "token": "こもん",
+        "signature": "こもん",
+        "length": 3
+      },
+      {
+        "token": "ふくそう",
+        "signature": "うくそふ",
+        "length": 4
+      },
+      {
+        "token": "りっち",
+        "signature": "ちっり",
+        "length": 3
+      },
+      {
+        "token": "ていけい",
+        "signature": "いけて",
+        "length": 4
+      },
+      {
+        "token": "のおかげで",
+        "signature": "おかげでの",
+        "length": 5
+      },
+      {
+        "token": "めせん",
+        "signature": "せめん",
+        "length": 3
+      },
+      {
+        "token": "じんしゅ",
+        "signature": "しじゅん",
+        "length": 4
+      },
+      {
+        "token": "ちらし",
+        "signature": "しちら",
+        "length": 3
+      },
+      {
+        "token": "はんぱ",
+        "signature": "はぱん",
+        "length": 3
+      },
+      {
+        "token": "とーたる",
+        "signature": "ーたとる",
+        "length": 4
+      },
+      {
+        "token": "だらけ",
+        "signature": "けだら",
+        "length": 3
+      },
+      {
+        "token": "かしだし",
+        "signature": "かしだ",
+        "length": 4
+      },
+      {
+        "token": "じせだい",
+        "signature": "いじせだ",
+        "length": 4
+      },
+      {
+        "token": "えあこん",
+        "signature": "あえこん",
+        "length": 4
+      },
+      {
+        "token": "くりすます",
+        "signature": "くすまり",
+        "length": 5
+      },
+      {
+        "token": "よく",
+        "signature": "くよ",
+        "length": 2
+      },
+      {
+        "token": "ふっかつする",
+        "signature": "かすっつふる",
+        "length": 6
+      },
+      {
+        "token": "かいてんする",
+        "signature": "いかすてるん",
+        "length": 6
+      },
+      {
+        "token": "きりすときょう",
+        "signature": "うきすとょり",
+        "length": 7
+      },
+      {
+        "token": "げつがく",
+        "signature": "がくげつ",
+        "length": 4
+      },
+      {
+        "token": "といふ",
+        "signature": "いとふ",
+        "length": 3
+      },
+      {
+        "token": "すたー",
+        "signature": "ーすた",
+        "length": 3
+      },
+      {
+        "token": "ねんすう",
+        "signature": "うすねん",
+        "length": 4
+      },
+      {
+        "token": "たいしょくする",
+        "signature": "いくしすたょる",
+        "length": 7
+      },
+      {
+        "token": "じごく",
+        "signature": "くごじ",
+        "length": 3
+      },
+      {
+        "token": "あえる",
+        "signature": "あえる",
+        "length": 3
+      },
+      {
+        "token": "ふほう",
+        "signature": "うふほ",
+        "length": 3
+      },
+      {
+        "token": "きゃんぱす",
+        "signature": "きすぱゃん",
+        "length": 5
+      },
+      {
+        "token": "りはびり",
+        "signature": "はびり",
+        "length": 4
+      },
+      {
+        "token": "けんい",
+        "signature": "いけん",
+        "length": 3
+      },
+      {
+        "token": "あぴーるする",
+        "signature": "ーあすぴる",
+        "length": 6
+      },
+      {
+        "token": "とくてん",
+        "signature": "くてとん",
+        "length": 4
+      },
+      {
+        "token": "ちょうわ",
+        "signature": "うちょわ",
+        "length": 4
+      },
+      {
+        "token": "せいていする",
+        "signature": "いすせてる",
+        "length": 6
+      },
+      {
+        "token": "ほくぶ",
+        "signature": "くぶほ",
+        "length": 3
+      },
+      {
+        "token": "ゆーろ",
+        "signature": "ーゆろ",
+        "length": 3
+      },
+      {
+        "token": "まめ",
+        "signature": "まめ",
+        "length": 2
+      },
+      {
+        "token": "こしょう",
+        "signature": "うこしょ",
+        "length": 4
+      },
+      {
+        "token": "はっき",
+        "signature": "きっは",
+        "length": 3
+      },
+      {
+        "token": "かいけん",
+        "signature": "いかけん",
+        "length": 4
+      },
+      {
+        "token": "はいゆう",
+        "signature": "いうはゆ",
+        "length": 4
+      },
+      {
+        "token": "りこんする",
+        "signature": "こすりるん",
+        "length": 5
+      },
+      {
+        "token": "どういする",
+        "signature": "いうすどる",
+        "length": 5
+      },
+      {
+        "token": "えきまえ",
+        "signature": "えきま",
+        "length": 4
+      },
+      {
+        "token": "かいが",
+        "signature": "いかが",
+        "length": 3
+      },
+      {
+        "token": "ぶんき",
+        "signature": "きぶん",
+        "length": 3
+      },
+      {
+        "token": "せいさくする",
+        "signature": "いくさすせる",
+        "length": 6
+      },
+      {
+        "token": "すぴーかー",
+        "signature": "ーかすぴ",
+        "length": 5
+      },
+      {
+        "token": "せいけつ",
+        "signature": "いけせつ",
+        "length": 4
+      },
+      {
+        "token": "しょくよく",
+        "signature": "くしょよ",
+        "length": 5
+      },
+      {
+        "token": "りてん",
+        "signature": "てりん",
+        "length": 3
+      },
+      {
+        "token": "かたな",
+        "signature": "かたな",
+        "length": 3
+      },
+      {
+        "token": "こんげつ",
+        "signature": "げこつん",
+        "length": 4
+      },
+      {
+        "token": "はいけんする",
+        "signature": "いけすはるん",
+        "length": 6
+      },
+      {
+        "token": "りくつ",
+        "signature": "くつり",
+        "length": 3
+      },
+      {
+        "token": "きゅうきょく",
+        "signature": "うきくゅょ",
+        "length": 6
+      },
+      {
+        "token": "ぐうぜん",
+        "signature": "うぐぜん",
+        "length": 4
+      },
+      {
+        "token": "ふへん",
+        "signature": "ふへん",
+        "length": 3
+      },
+      {
+        "token": "ぜんぽう",
+        "signature": "うぜぽん",
+        "length": 4
+      },
+      {
+        "token": "あぶない",
+        "signature": "あいなぶ",
+        "length": 4
+      },
+      {
+        "token": "ちり",
+        "signature": "ちり",
+        "length": 2
+      },
+      {
+        "token": "えらべる",
+        "signature": "えべらる",
+        "length": 4
+      },
+      {
+        "token": "さんち",
+        "signature": "さちん",
+        "length": 3
+      },
+      {
+        "token": "ちょきん",
+        "signature": "きちょん",
+        "length": 4
+      },
+      {
+        "token": "がまん",
+        "signature": "がまん",
+        "length": 3
+      },
+      {
+        "token": "むきに",
+        "signature": "きにむ",
+        "length": 3
+      },
+      {
+        "token": "おくれ",
+        "signature": "おくれ",
+        "length": 3
+      },
+      {
+        "token": "あいてがた",
+        "signature": "あいがたて",
+        "length": 5
+      },
+      {
+        "token": "ししゃ",
+        "signature": "しゃ",
+        "length": 3
+      },
+      {
+        "token": "しんねん",
+        "signature": "しねん",
+        "length": 4
+      },
+      {
+        "token": "さまたげる",
+        "signature": "げさたまる",
+        "length": 5
+      },
+      {
+        "token": "いしょう",
+        "signature": "いうしょ",
+        "length": 4
+      },
+      {
+        "token": "げんばく",
+        "signature": "くげばん",
+        "length": 4
+      },
+      {
+        "token": "さかい",
+        "signature": "いかさ",
+        "length": 3
+      },
+      {
+        "token": "じゅんしゅする",
+        "signature": "しじすゅるん",
+        "length": 7
+      },
+      {
+        "token": "そうおん",
+        "signature": "うおそん",
+        "length": 4
+      },
+      {
+        "token": "しょくみん",
+        "signature": "くしみょん",
+        "length": 5
+      },
+      {
+        "token": "ほうかいする",
+        "signature": "いうかすほる",
+        "length": 6
+      },
+      {
+        "token": "ろうむ",
+        "signature": "うむろ",
+        "length": 3
+      },
+      {
+        "token": "しげきする",
+        "signature": "きげしする",
+        "length": 5
+      },
+      {
+        "token": "かね",
+        "signature": "かね",
+        "length": 2
+      },
+      {
+        "token": "にゅうしょ",
+        "signature": "うしにゅょ",
+        "length": 5
+      },
+      {
+        "token": "ゆずる",
+        "signature": "ずゆる",
+        "length": 3
+      },
+      {
+        "token": "かいひする",
+        "signature": "いかすひる",
+        "length": 5
+      },
+      {
+        "token": "しんとうする",
+        "signature": "うしすとるん",
+        "length": 6
+      },
+      {
+        "token": "そうさく",
+        "signature": "うくさそ",
+        "length": 4
+      },
+      {
+        "token": "はらい",
+        "signature": "いはら",
+        "length": 3
+      },
+      {
+        "token": "しょー",
+        "signature": "ーしょ",
+        "length": 3
+      },
+      {
+        "token": "はっちゅう",
+        "signature": "うちっはゅ",
+        "length": 5
+      },
+      {
+        "token": "いんよう",
+        "signature": "いうよん",
+        "length": 4
+      },
+      {
+        "token": "おじさん",
+        "signature": "おさじん",
+        "length": 4
+      },
+      {
+        "token": "しょうぐん",
+        "signature": "うぐしょん",
+        "length": 5
+      },
+      {
+        "token": "もんすたー",
+        "signature": "ーすたもん",
+        "length": 5
+      },
+      {
+        "token": "かでん",
+        "signature": "かでん",
+        "length": 3
+      },
+      {
+        "token": "ごうせん",
+        "signature": "うごせん",
+        "length": 4
+      },
+      {
+        "token": "とばす",
+        "signature": "すとば",
+        "length": 3
+      },
+      {
+        "token": "しゅどう",
+        "signature": "うしどゅ",
+        "length": 4
+      },
+      {
+        "token": "とそう",
+        "signature": "うそと",
+        "length": 3
+      },
+      {
+        "token": "ますたー",
+        "signature": "ーすたま",
+        "length": 4
+      },
+      {
+        "token": "いちいん",
+        "signature": "いちん",
+        "length": 4
+      },
+      {
+        "token": "とくていする",
+        "signature": "いくすてとる",
+        "length": 6
+      },
+      {
+        "token": "かてる",
+        "signature": "かてる",
+        "length": 3
+      },
+      {
+        "token": "そんしょう",
+        "signature": "うしそょん",
+        "length": 5
+      },
+      {
+        "token": "おか",
+        "signature": "おか",
+        "length": 2
+      },
+      {
+        "token": "ちゃくじつ",
+        "signature": "くじちつゃ",
+        "length": 5
+      },
+      {
+        "token": "つっこむ",
+        "signature": "こっつむ",
+        "length": 4
+      },
+      {
+        "token": "みっしょん",
+        "signature": "しっみょん",
+        "length": 5
+      },
+      {
+        "token": "かきこみ",
+        "signature": "かきこみ",
+        "length": 4
+      },
+      {
+        "token": "あーてぃすと",
+        "signature": "ーあぃすてと",
+        "length": 6
+      },
+      {
+        "token": "ひきつづく",
+        "signature": "きくつづひ",
+        "length": 5
+      },
+      {
+        "token": "ゆうしょう",
+        "signature": "うしゆょ",
+        "length": 5
+      },
+      {
+        "token": "きじつ",
+        "signature": "きじつ",
+        "length": 3
+      },
+      {
+        "token": "ろくおん",
+        "signature": "おくろん",
+        "length": 4
+      },
+      {
+        "token": "ふぁんど",
+        "signature": "ぁどふん",
+        "length": 4
+      },
+      {
+        "token": "ぷれーする",
+        "signature": "ーすぷるれ",
+        "length": 5
+      },
+      {
+        "token": "けんちょ",
+        "signature": "けちょん",
+        "length": 4
+      },
+      {
+        "token": "もんぶ",
+        "signature": "ぶもん",
+        "length": 3
+      },
+      {
+        "token": "えいり",
+        "signature": "いえり",
+        "length": 3
+      },
+      {
+        "token": "じんいん",
+        "signature": "いじん",
+        "length": 4
+      },
+      {
+        "token": "りふぉーむ",
+        "signature": "ーぉふむり",
+        "length": 5
+      },
+      {
+        "token": "ちゅうしする",
+        "signature": "うしすちゅる",
+        "length": 6
+      },
+      {
+        "token": "しはん",
+        "signature": "しはん",
+        "length": 3
+      },
+      {
+        "token": "しぇあ",
+        "signature": "あぇし",
+        "length": 3
+      },
+      {
+        "token": "もえる",
+        "signature": "えもる",
+        "length": 3
+      },
+      {
+        "token": "しょうえね",
+        "signature": "うえしねょ",
+        "length": 5
+      },
+      {
+        "token": "こうへい",
+        "signature": "いうこへ",
+        "length": 4
+      },
+      {
+        "token": "せいぞうする",
+        "signature": "いうすせぞる",
+        "length": 6
+      },
+      {
+        "token": "たんそ",
+        "signature": "そたん",
+        "length": 3
+      },
+      {
+        "token": "とくしょく",
+        "signature": "くしとょ",
+        "length": 5
+      },
+      {
+        "token": "くやしかっ",
+        "signature": "かくしっや",
+        "length": 5
+      }
+    ]
+  }
+}

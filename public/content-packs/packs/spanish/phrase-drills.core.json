@@ -1,0 +1,850 @@
+{
+  "packId": "spanish:phrase-drills:core",
+  "languageId": "spanish",
+  "contentFamilyId": "phrase-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 120,
+  "entries": [
+    {
+      "text": "–En efecto",
+      "signature": "–cefnot",
+      "openingToken": "en",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Es verdad",
+      "signature": "–adersv",
+      "openingToken": "es",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–No señora",
+      "signature": "–aenñors",
+      "openingToken": "no",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–No vengas",
+      "signature": "–aegnosv",
+      "openingToken": "no",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Prima mía",
+      "signature": "–aiímpr",
+      "openingToken": "prima",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Pues mira",
+      "signature": "–aeimprsu",
+      "openingToken": "pues",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Soy ciego",
+      "signature": "–cegiosy",
+      "openingToken": "soy",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¡Madre mía",
+      "signature": "¡adeímr",
+      "openingToken": "madre",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿Qué haces",
+      "signature": "¿aceéhqsu",
+      "openingToken": "qué",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "amigo mío…",
+      "signature": "…agiímo",
+      "openingToken": "amigo",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "antes bien",
+      "signature": "abeinst",
+      "openingToken": "antes",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "buen amigo",
+      "signature": "abegimnou",
+      "openingToken": "buen",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "doña Sofía",
+      "signature": "adfíños",
+      "openingToken": "doña",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "el desaire",
+      "signature": "adeilrs",
+      "openingToken": "el",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "el domingo",
+      "signature": "degilmno",
+      "openingToken": "el",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "el negocio",
+      "signature": "cegilno",
+      "openingToken": "el",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "el viajero",
+      "signature": "aeijlorv",
+      "openingToken": "el",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "él volverá",
+      "signature": "áeélorv",
+      "openingToken": "él",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ese hombre",
+      "signature": "behmors",
+      "openingToken": "ese",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "esto decía",
+      "signature": "acdeíost",
+      "openingToken": "esto",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "habla bajo",
+      "signature": "abhjlo",
+      "openingToken": "habla",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la nobleza",
+      "signature": "abelnoz",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "las mechas",
+      "signature": "acehlms",
+      "openingToken": "las",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "las yerbas",
+      "signature": "abelrsy",
+      "openingToken": "las",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "le conozco",
+      "signature": "celnoz",
+      "openingToken": "le",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "le rezaría",
+      "signature": "aeílrz",
+      "openingToken": "le",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "muy fuerte",
+      "signature": "efmrtuy",
+      "openingToken": "muy",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "muy pecoso",
+      "signature": "cemopsuy",
+      "openingToken": "muy",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni familia",
+      "signature": "afilmn",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni maestro",
+      "signature": "aeimnorst",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni mirando",
+      "signature": "adimnor",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni moverse",
+      "signature": "eimnorsv",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni zapatos",
+      "signature": "ainopstz",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "no admitía",
+      "signature": "adiímnot",
+      "openingToken": "no",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "óyeme bien",
+      "signature": "beimnóy",
+      "openingToken": "óyeme",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "por último",
+      "signature": "ilmoprtú",
+      "openingToken": "por",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "quién sabe",
+      "signature": "abeéinqsu",
+      "openingToken": "quién",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "señor papá",
+      "signature": "aáeñoprs",
+      "openingToken": "señor",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "tan divina",
+      "signature": "adintv",
+      "openingToken": "tan",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "tan grande",
+      "signature": "adegnrt",
+      "openingToken": "tan",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "una mañana",
+      "signature": "amnñu",
+      "openingToken": "una",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "una piedra",
+      "signature": "adeinpru",
+      "openingToken": "una",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "y después…",
+      "signature": "…deépsuy",
+      "openingToken": "y",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "y responde",
+      "signature": "denoprsy",
+      "openingToken": "y",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Aquí estoy",
+      "signature": "–aeíoqstuy",
+      "openingToken": "aquí",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Diga usted",
+      "signature": "–adegistu",
+      "openingToken": "diga",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Quita allá",
+      "signature": "–aáilqtu",
+      "openingToken": "quita",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Vamos allá",
+      "signature": "–aálmosv",
+      "openingToken": "vamos",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿estaba ahí",
+      "signature": "¿abehíst",
+      "openingToken": "estaba",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "aquel joven",
+      "signature": "aejlnoquv",
+      "openingToken": "aquel",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "aquí tienes",
+      "signature": "aeiínqstu",
+      "openingToken": "aquí",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "como chispa",
+      "signature": "achimops",
+      "openingToken": "como",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "cuando Lili",
+      "signature": "acdilnou",
+      "openingToken": "cuando",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "de afinarme",
+      "signature": "adefimnr",
+      "openingToken": "de",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "de bondades",
+      "signature": "abdenos",
+      "openingToken": "de",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "de despecho",
+      "signature": "cdehops",
+      "openingToken": "de",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "de gratitud",
+      "signature": "adegirtu",
+      "openingToken": "de",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "de tristeza",
+      "signature": "adeirstz",
+      "openingToken": "de",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "donde moran",
+      "signature": "ademnor",
+      "openingToken": "donde",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "él lloraba…",
+      "signature": "…abélor",
+      "openingToken": "él",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "el martillo",
+      "signature": "aeilmort",
+      "openingToken": "el",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "está detrás",
+      "signature": "áderst",
+      "openingToken": "está",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "he meditado",
+      "signature": "adehimot",
+      "openingToken": "he",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la aversión",
+      "signature": "aeilnórsv",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la dignidad",
+      "signature": "adgiln",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la historia",
+      "signature": "ahilorst",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la humildad",
+      "signature": "adhilmu",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la señorita",
+      "signature": "aeilñorst",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la tristeza",
+      "signature": "aeilrstz",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "las veletas",
+      "signature": "aelstv",
+      "openingToken": "las",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "las veredas",
+      "signature": "adelrsv",
+      "openingToken": "las",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "lo sostengo",
+      "signature": "eglnost",
+      "openingToken": "lo",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "muy bajito…",
+      "signature": "…abijmotuy",
+      "openingToken": "muy",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "muy ingrata",
+      "signature": "agimnrtuy",
+      "openingToken": "muy",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni hablando",
+      "signature": "abdhilno",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni religión",
+      "signature": "egilnór",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni respirar",
+      "signature": "aeinprs",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni sustento",
+      "signature": "einostu",
+      "openingToken": "ni",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "no consiste",
+      "signature": "ceinost",
+      "openingToken": "no",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "pero Golfín",
+      "signature": "efgílnopr",
+      "openingToken": "pero",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "por ejemplo",
+      "signature": "ejlmopr",
+      "openingToken": "por",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "se endurece",
+      "signature": "cdenrsu",
+      "openingToken": "se",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "según dicen",
+      "signature": "cdeginsú",
+      "openingToken": "según",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "sin embargo",
+      "signature": "abegimnors",
+      "openingToken": "sin",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "son fuertes",
+      "signature": "efnorstu",
+      "openingToken": "son",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "tan hermosa",
+      "signature": "aehmnorst",
+      "openingToken": "tan",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ya llegamos",
+      "signature": "aeglmosy",
+      "openingToken": "ya",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "yo deliraba",
+      "signature": "abdeilory",
+      "openingToken": "yo",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Aquí tienes",
+      "signature": "–aeiínqstu",
+      "openingToken": "aquí",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Misterio no",
+      "signature": "–eimnorst",
+      "openingToken": "misterio",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿dónde estás",
+      "signature": "¿ádenóst",
+      "openingToken": "dónde",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "la aceitera…",
+      "signature": "…aceilrt",
+      "openingToken": "la",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "lo sostengo…",
+      "signature": "…eglnost",
+      "openingToken": "lo",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "más quieren…",
+      "signature": "…áeimnqrsu",
+      "openingToken": "más",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–No es eso",
+      "signature": "–enos",
+      "openingToken": "no",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿no es eso",
+      "signature": "¿enos",
+      "openingToken": "no",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿no la ves",
+      "signature": "¿aelnosv",
+      "openingToken": "no",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "a un roble",
+      "signature": "abelnoru",
+      "openingToken": "a",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "a uno solo",
+      "signature": "alnosu",
+      "openingToken": "a",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "cual si ya",
+      "signature": "acilsuy",
+      "openingToken": "cual",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "era de día",
+      "signature": "adeír",
+      "openingToken": "era",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ni de Dios",
+      "signature": "deinos",
+      "openingToken": "ni",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "no podía D",
+      "signature": "adínop",
+      "openingToken": "no",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "te los doy",
+      "signature": "delosty",
+      "openingToken": "te",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "y sus ojos",
+      "signature": "josuy",
+      "openingToken": "y",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Lo digo yo",
+      "signature": "–dgiloy",
+      "openingToken": "lo",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Ya lo creo",
+      "signature": "–acelory",
+      "openingToken": "ya",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "¿Qué es eso",
+      "signature": "¿eéoqsu",
+      "openingToken": "qué",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "a un espino",
+      "signature": "aeinopsu",
+      "openingToken": "a",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "así lo haré",
+      "signature": "aéhílors",
+      "openingToken": "así",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "es de noche",
+      "signature": "cdehnos",
+      "openingToken": "es",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "no creas tú",
+      "signature": "acenorstú",
+      "openingToken": "no",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "noche y día",
+      "signature": "acdehínoy",
+      "openingToken": "noche",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "qué es esto",
+      "signature": "eéoqstu",
+      "openingToken": "qué",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "que te veré",
+      "signature": "eéqrtuv",
+      "openingToken": "que",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "todo su ser",
+      "signature": "deorstu",
+      "openingToken": "todo",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "una cosa sé",
+      "signature": "acénosu",
+      "openingToken": "una",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "vamos a ver",
+      "signature": "aemorsv",
+      "openingToken": "vamos",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "y ¿qué será",
+      "signature": "¿áeéqrsuy",
+      "openingToken": "y",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "y la Señana",
+      "signature": "aelnñsy",
+      "openingToken": "y",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    }
+  ]
+}

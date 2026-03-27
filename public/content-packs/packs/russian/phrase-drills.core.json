@@ -1,0 +1,850 @@
+{
+  "packId": "russian:phrase-drills:core",
+  "languageId": "russian",
+  "contentFamilyId": "phrase-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 120,
+  "entries": [
+    {
+      "text": "узкая тропа ведет к саду",
+      "signature": "авдезкопрстуя",
+      "openingToken": "узкая",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "тихий двор еще держит тень",
+      "signature": "вдежийнортхщь",
+      "openingToken": "тихий",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "тихий повтор не сушит урок",
+      "signature": "веийкнопрстухш",
+      "openingToken": "тихий",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "чай остывает на краю стола",
+      "signature": "авейклнорстчыю",
+      "openingToken": "чай",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "живой абзац звучит как речь",
+      "signature": "абвежзийкортуцчь",
+      "openingToken": "живой",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "письмо лежит рядом с книгой",
+      "signature": "гдежийклмнопрстья",
+      "openingToken": "письмо",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "тёплый свет ложится на стол",
+      "signature": "авеёжийлнопстыя",
+      "openingToken": "тёплый",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "живой текст делает урок чище",
+      "signature": "авдежийклорстучщ",
+      "openingToken": "живой",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора делает урок чище",
+      "signature": "авдеиклнопртучщя",
+      "openingToken": "новая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая фраза делает урок чище",
+      "signature": "авдезиклнортуфчщя",
+      "openingToken": "новая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровный ритм делает урок чище",
+      "signature": "авдеийклмнортучщы",
+      "openingToken": "ровный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "узкий набор делает урок чище",
+      "signature": "абдезийклнортучщ",
+      "openingToken": "узкий",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "сложный знак не ломает строку",
+      "signature": "аежзйклмнорстуы",
+      "openingToken": "сложный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тихий повтор делает урок чище",
+      "signature": "авдеийклопртухчщ",
+      "openingToken": "тихий",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная мысль делает урок чище",
+      "signature": "адеиклмнорстучщыья",
+      "openingToken": "длинная",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинный абзац делает урок чище",
+      "signature": "абдезийклнортуцчщы",
+      "openingToken": "длинный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая связка входит без паники",
+      "signature": "абвдезикнопстхя",
+      "openingToken": "новая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плавный абзац делает урок чище",
+      "signature": "абвдезийклнопртуцчщы",
+      "openingToken": "плавный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "сильная опора делает урок чище",
+      "signature": "адеиклнопрстучщья",
+      "openingToken": "сильная",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точная связка делает урок чище",
+      "signature": "авдезиклнорстучщя",
+      "openingToken": "точная",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "чистая строка делает урок чище",
+      "signature": "адеиклорстучщя",
+      "openingToken": "чистая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомое слово делает урок чище",
+      "signature": "авдезиклмнорстучщ",
+      "openingToken": "знакомое",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "короткая пауза делает урок чище",
+      "signature": "адезиклопртучщя",
+      "openingToken": "короткая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плотный проход все еще читается",
+      "signature": "авдеийлнопрстхчщыя",
+      "openingToken": "плотный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "рабочая связка делает урок чище",
+      "signature": "абвдезиклорстучщя",
+      "openingToken": "рабочая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "спокойный темп делает урок чище",
+      "signature": "адеийклмнопрстучщы",
+      "openingToken": "спокойный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный переход делает урок чище",
+      "signature": "адеийклнопртухчщы",
+      "openingToken": "точный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясный ориентир делает урок чище",
+      "signature": "адеийклнорстучщыя",
+      "openingToken": "ясный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "мягкий разворот делает урок чище",
+      "signature": "авгдезийклмортучщя",
+      "openingToken": "мягкий",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "спокойный обзор делает урок чище",
+      "signature": "абдезийклнопрстучщы",
+      "openingToken": "спокойный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "узкая раскладка все же держит ход",
+      "signature": "авдежзиклорстухя",
+      "openingToken": "узкая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живой текст не прячет слабое место",
+      "signature": "абвежийклмнопрстчя",
+      "openingToken": "живой",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора не прячет слабое место",
+      "signature": "абвелмнопрстчя",
+      "openingToken": "новая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая фраза не прячет слабое место",
+      "signature": "абвезлмнопрстфчя",
+      "openingToken": "новая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новый абзац не рушит ровную подачу",
+      "signature": "абвдезийнопртуцчшыю",
+      "openingToken": "новый",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровный ритм не прячет слабое место",
+      "signature": "абвеийлмнопрстчыя",
+      "openingToken": "ровный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "узкий набор не прячет слабое место",
+      "signature": "абезийклмнопрстучя",
+      "openingToken": "узкий",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тихий повтор не прячет слабое место",
+      "signature": "абвеийлмнопрстхчя",
+      "openingToken": "тихий",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная мысль не прячет слабое место",
+      "signature": "абдеилмнопрстчыья",
+      "openingToken": "длинная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинный абзац не прячет слабое место",
+      "signature": "абдезийлмнопрстцчыя",
+      "openingToken": "длинный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живой текст не дает ритму распасться",
+      "signature": "авдежийкмнопрстуья",
+      "openingToken": "живой",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора не дает ритму распасться",
+      "signature": "авдеимнопрстуья",
+      "openingToken": "новая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая фраза не дает ритму распасться",
+      "signature": "авдезимнопрстуфья",
+      "openingToken": "новая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плавный абзац не прячет слабое место",
+      "signature": "абвезйлмнопрстцчыя",
+      "openingToken": "плавный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровный ритм не дает ритму распасться",
+      "signature": "авдеиймнопрстуыья",
+      "openingToken": "ровный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "сильная опора не прячет слабое место",
+      "signature": "абеилмнопрстчья",
+      "openingToken": "сильная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "спокойный голос еще слышен в комнате",
+      "signature": "авгейклмнопстшщы",
+      "openingToken": "спокойный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точная связка не прячет слабое место",
+      "signature": "абвезклмнопрстчя",
+      "openingToken": "точная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "узкий набор не дает ритму распасться",
+      "signature": "абдезийкмнопрстуья",
+      "openingToken": "узкий",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "чистая строка не прячет слабое место",
+      "signature": "абеиклмнопрстчя",
+      "openingToken": "чистая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомое слово не прячет слабое место",
+      "signature": "абвезклмнопрстчя",
+      "openingToken": "знакомое",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "короткая пауза не прячет слабое место",
+      "signature": "абезклмнопрстучя",
+      "openingToken": "короткая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "рабочая связка не прячет слабое место",
+      "signature": "абвезклмнопрстчя",
+      "openingToken": "рабочая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "сильная опора не дает ритму осыпаться",
+      "signature": "адеилмнопрстуыья",
+      "openingToken": "сильная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "спокойный темп не прячет слабое место",
+      "signature": "абейклмнопрстчыя",
+      "openingToken": "спокойный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тихий повтор не дает ритму распасться",
+      "signature": "авдеиймнопрстухья",
+      "openingToken": "тихий",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный переход не прячет слабое место",
+      "signature": "абдейлмнопрстхчыя",
+      "openingToken": "точный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясный ориентир не прячет слабое место",
+      "signature": "абеийлмнопрстчыя",
+      "openingToken": "ясный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная мысль не дает ритму распасться",
+      "signature": "адеилмнпрстуыья",
+      "openingToken": "длинная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинный абзац не дает ритму распасться",
+      "signature": "абдезийлмнпрстуцыья",
+      "openingToken": "длинный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "мягкий разворот не прячет слабое место",
+      "signature": "абвгезийклмнопрстчя",
+      "openingToken": "мягкий",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плавный абзац не дает ритму распасться",
+      "signature": "абвдезийлмнпрстуцыья",
+      "openingToken": "плавный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "сильная опора не дает ритму распасться",
+      "signature": "адеилмнопрстуья",
+      "openingToken": "сильная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "спокойный обзор не прячет слабое место",
+      "signature": "абезйклмнопрстчыя",
+      "openingToken": "спокойный",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точная связка не дает ритму распасться",
+      "signature": "авдезикмнопрстучья",
+      "openingToken": "точная",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "чистая строка не дает ритму распасться",
+      "signature": "адеикмнопрстучья",
+      "openingToken": "чистая",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая фраза держит слух и руки вместе",
+      "signature": "авдежзиклмрстуфхя",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь помогает читать знак до удара",
+      "signature": "авгдежзикмнопртучья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь мягко готовит к длинной строке",
+      "signature": "авгдежийклмнорстчья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь не дает повтору стать костылем",
+      "signature": "авдежиклмнопрстучыья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь не ломает дыхание внутри фразы",
+      "signature": "авдежзилмнортуфхчыья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь удерживает текст в живом ритме",
+      "signature": "авдежикморстучья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора помогает читать знак до удара",
+      "signature": "авгдезикмнопртучья",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак помогает читать знак до удара",
+      "signature": "агдезийкмнопртучыь",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора мягко готовит к длинной строке",
+      "signature": "авгдеийклмнопрстя",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора не дает повтору стать костылем",
+      "signature": "авдеклмнопрстуыья",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора не ломает дыхание внутри фразы",
+      "signature": "авдезилмнопртуфхыя",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора удерживает текст в живом ритме",
+      "signature": "авдежикмнопрстуя",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак мягко готовит к длинной строке",
+      "signature": "авгдезийклмнорстчыя",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак не дает повтору стать костылем",
+      "signature": "авдезйклмнопрстучыь",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак не ломает дыхание внутри фразы",
+      "signature": "авдезийклмнортуфхчы",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак удерживает текст в живом ритме",
+      "signature": "авдежзийкмнорстучы",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная фраза помогает читать знак до удара",
+      "signature": "агдезиклмнопртуфчья",
+      "openingToken": "длинная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь расширяет запас без лишнего шума",
+      "signature": "абвгежзилмнопрстучшья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровное чтение помогает читать знак до удара",
+      "signature": "авгдезикмнопртучь",
+      "openingToken": "ровное",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "честный обзор помогает читать знак до удара",
+      "signature": "абгдезийкмнопрстучыь",
+      "openingToken": "честный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясная ступень помогает читать знак до удара",
+      "signature": "агдезикмнопрстучья",
+      "openingToken": "ясная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "внятный повтор помогает читать знак до удара",
+      "signature": "авгдезийкмнопртучыья",
+      "openingToken": "внятный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная фраза мягко готовит к длинной строке",
+      "signature": "авгдезийклмнорстфя",
+      "openingToken": "длинная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная фраза не дает повтору стать костылем",
+      "signature": "авдезиклмнопрстуфыья",
+      "openingToken": "длинная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная фраза не ломает дыхание внутри фразы",
+      "signature": "авдезилмнортуфхыя",
+      "openingToken": "длинная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "длинная фраза удерживает текст в живом ритме",
+      "signature": "авдежзиклмнорстуфя",
+      "openingToken": "длинная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомый абзац помогает читать знак до удара",
+      "signature": "абгдезийкмнопртуцчыь",
+      "openingToken": "знакомый",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "новая опора расширяет запас без лишнего шума",
+      "signature": "абвгезилмнопрстушя",
+      "openingToken": "новая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плавный абзац не превращается в сухой список",
+      "signature": "абвезийклнопрстухцщыя",
+      "openingToken": "плавный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "плотная связка помогает читать знак до удара",
+      "signature": "авгдезиклмнопрстучья",
+      "openingToken": "плотная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровное чтение мягко готовит к длинной строке",
+      "signature": "вгдеийклмнорстчя",
+      "openingToken": "ровное",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровное чтение не дает повтору стать костылем",
+      "signature": "авдеиклмнопрстучыь",
+      "openingToken": "ровное",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровное чтение не ломает дыхание внутри фразы",
+      "signature": "авдезилмнортуфхчы",
+      "openingToken": "ровное",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ровное чтение удерживает текст в живом ритме",
+      "signature": "авдежикмнорстуч",
+      "openingToken": "ровное",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "собранный ритм помогает читать знак до удара",
+      "signature": "абгдезийкмнопрстучыь",
+      "openingToken": "собранный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "точный знак расширяет запас без лишнего шума",
+      "signature": "абгезийклмнопрстучшыя",
+      "openingToken": "точный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "честный обзор мягко готовит к длинной строке",
+      "signature": "бвгдезийклмнорстчыя",
+      "openingToken": "честный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "честный обзор не дает повтору стать костылем",
+      "signature": "абвдезйклмнопрстучыь",
+      "openingToken": "честный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "честный обзор не ломает дыхание внутри фразы",
+      "signature": "абвдезийлмнорстуфхчы",
+      "openingToken": "честный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "честный обзор удерживает текст в живом ритме",
+      "signature": "абвдежзийкмнорстучы",
+      "openingToken": "честный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясная ступень мягко готовит к длинной строке",
+      "signature": "авгдеийклмнопрстуья",
+      "openingToken": "ясная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясная ступень не дает повтору стать костылем",
+      "signature": "авдеклмнопрстуыья",
+      "openingToken": "ясная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясная ступень не ломает дыхание внутри фразы",
+      "signature": "авдезилмнопрстуфхыья",
+      "openingToken": "ясная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ясная ступень удерживает текст в живом ритме",
+      "signature": "авдежикмнопрстуья",
+      "openingToken": "ясная",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "внятный повтор мягко готовит к длинной строке",
+      "signature": "вгдеийклмнопрстыя",
+      "openingToken": "внятный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "внятный повтор не дает повтору стать костылем",
+      "signature": "авдейклмнопрстуыья",
+      "openingToken": "внятный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "внятный повтор не ломает дыхание внутри фразы",
+      "signature": "авдезийлмнопртуфхыя",
+      "openingToken": "внятный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "внятный повтор удерживает текст в живом ритме",
+      "signature": "авдежийкмнопрстуыя",
+      "openingToken": "внятный",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "живая речь объясняет рост сложности без суеты",
+      "signature": "абвежзилнорстучъыья",
+      "openingToken": "живая",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомый абзац мягко готовит к длинной строке",
+      "signature": "абвгдезийклмнорстцыя",
+      "openingToken": "знакомый",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомый абзац не дает повтору стать костылем",
+      "signature": "абвдезйклмнопрстуцыь",
+      "openingToken": "знакомый",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомый абзац не ломает дыхание внутри фразы",
+      "signature": "абвдезийклмнортуфхцы",
+      "openingToken": "знакомый",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "знакомый абзац удерживает текст в живом ритме",
+      "signature": "абвдежзийкмнорстуцы",
+      "openingToken": "знакомый",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "короткий разбор помогает читать знак до удара",
+      "signature": "абгдезийкмнопртучь",
+      "openingToken": "короткий",
+      "tokenCount": 7,
+      "difficultyBand": "developing"
+    }
+  ]
+}

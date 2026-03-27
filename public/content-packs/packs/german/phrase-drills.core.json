@@ -1,0 +1,850 @@
+{
+  "packId": "german:phrase-drills:core",
+  "languageId": "german",
+  "contentFamilyId": "phrase-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 120,
+  "entries": [
+    {
+      "text": "\" sagte er",
+      "signature": "\"aegrst",
+      "openingToken": "sagte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" Und dann",
+      "signature": "\"adnu",
+      "openingToken": "und",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Denke dir",
+      "signature": "„deiknr",
+      "openingToken": "denke",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Du meinst",
+      "signature": "„deimnstu",
+      "openingToken": "du",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„ich athme",
+      "signature": "„acehimt",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ich hoffe",
+      "signature": "„cefhio",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Meinst du",
+      "signature": "„deimnstu",
+      "openingToken": "meinst",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„O Papagei",
+      "signature": "„aegiop",
+      "openingToken": "o",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Sieht aus",
+      "signature": "„aehistu",
+      "openingToken": "sieht",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„wache auf",
+      "signature": "„acefhuw",
+      "openingToken": "wache",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Zu dienen",
+      "signature": "„deinuz",
+      "openingToken": "zu",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alle still",
+      "signature": "aeilst",
+      "openingToken": "alle",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alte Tante",
+      "signature": "aelnt",
+      "openingToken": "alte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alter Kerl",
+      "signature": "aeklrt",
+      "openingToken": "alter",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "aus Furcht",
+      "signature": "acfhrstu",
+      "openingToken": "aus",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "dachte sie",
+      "signature": "acdehist",
+      "openingToken": "dachte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "frau Raupe",
+      "signature": "aefpru",
+      "openingToken": "frau",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "glaube ich",
+      "signature": "abceghilu",
+      "openingToken": "glaube",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "hier unten",
+      "signature": "ehinrtu",
+      "openingToken": "hier",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ich dächte",
+      "signature": "äcdehit",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ich glaube",
+      "signature": "abceghilu",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ich wollte",
+      "signature": "cehilotw",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "liebe Dame",
+      "signature": "abdeilm",
+      "openingToken": "liebe",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "nicht wahr",
+      "signature": "achinrtw",
+      "openingToken": "nicht",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "noch nicht",
+      "signature": "chinot",
+      "openingToken": "noch",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "sie dachte",
+      "signature": "acdehist",
+      "openingToken": "sie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "sie fühlte",
+      "signature": "efhilstü",
+      "openingToken": "sie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "waren weiß",
+      "signature": "aeinrßw",
+      "openingToken": "waren",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wie gesagt",
+      "signature": "aegistw",
+      "openingToken": "wie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wie Schade",
+      "signature": "acdehisw",
+      "openingToken": "wie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "– Ich nicht",
+      "signature": "–chint",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "– Nicht ich",
+      "signature": "–chint",
+      "openingToken": "nicht",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" sagte sie",
+      "signature": "\"aegist",
+      "openingToken": "sagte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Danke sehr",
+      "signature": "„adehknrs",
+      "openingToken": "danke",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ganz recht",
+      "signature": "„aceghnrtz",
+      "openingToken": "ganz",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ich dächte",
+      "signature": "„äcdehit",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„ich glaube",
+      "signature": "„abceghilu",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ich glaube",
+      "signature": "„abceghilu",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„ich wachse",
+      "signature": "„acehisw",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Kein Platz",
+      "signature": "„aeiklnptz",
+      "openingToken": "kein",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Kommt fort",
+      "signature": "„fkmort",
+      "openingToken": "kommt",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Noch nicht",
+      "signature": "„chinot",
+      "openingToken": "noch",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Sagtest du",
+      "signature": "„adegstu",
+      "openingToken": "sagtest",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„sehr krank",
+      "signature": "„aehknrs",
+      "openingToken": "sehr",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Setzt euch",
+      "signature": "„cehstuz",
+      "openingToken": "setzt",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Sie findet",
+      "signature": "„definst",
+      "openingToken": "sie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Wie schade",
+      "signature": "„acdehisw",
+      "openingToken": "wie",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alice hörte",
+      "signature": "acehilört",
+      "openingToken": "alice",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "außer Athem",
+      "signature": "aehmrßtu",
+      "openingToken": "außer",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "der Königin",
+      "signature": "degiknör",
+      "openingToken": "der",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "euer Jnaden",
+      "signature": "adejnru",
+      "openingToken": "euer",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "feige Memme",
+      "signature": "efgim",
+      "openingToken": "feige",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "fürchte ich",
+      "signature": "cefhirtü",
+      "openingToken": "fürchte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "gerade Zeit",
+      "signature": "adegirtz",
+      "openingToken": "gerade",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "komm wieder",
+      "signature": "deikmorw",
+      "openingToken": "komm",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "lieber Herr",
+      "signature": "behilr",
+      "openingToken": "lieber",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "meine Liebe",
+      "signature": "beilmn",
+      "openingToken": "meine",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "meiner Treu",
+      "signature": "eimnrtu",
+      "openingToken": "meiner",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und dorthin",
+      "signature": "dhinortu",
+      "openingToken": "und",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und wartete",
+      "signature": "adenrtuw",
+      "openingToken": "und",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "zu schieben",
+      "signature": "bcehinsuz",
+      "openingToken": "zu",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "– denkt doch",
+      "signature": "–cdehknot",
+      "openingToken": "denkt",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" fragte der",
+      "signature": "\"adefgrt",
+      "openingToken": "fragte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" rief Alice",
+      "signature": "\"acefilr",
+      "openingToken": "rief",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" sagte Fünf",
+      "signature": "\"aefgnstü",
+      "openingToken": "sagte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Den vierten",
+      "signature": "„deinrtv",
+      "openingToken": "den",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Die Königin",
+      "signature": "„degiknö",
+      "openingToken": "die",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ich fürchte",
+      "signature": "„cefhirtü",
+      "openingToken": "ich",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Meine Liebe",
+      "signature": "„beilmn",
+      "openingToken": "meine",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" sagte Alice",
+      "signature": "\"acegilst",
+      "openingToken": "sagte",
+      "tokenCount": 2,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„ab und an",
+      "signature": "„abdnu",
+      "openingToken": "ab",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "das war er",
+      "signature": "adersw",
+      "openingToken": "das",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "in der See",
+      "signature": "deinrs",
+      "openingToken": "in",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wer es sei",
+      "signature": "eirsw",
+      "openingToken": "wer",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wo sie war",
+      "signature": "aeiorsw",
+      "openingToken": "wo",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Es ist das",
+      "signature": "„adeist",
+      "openingToken": "es",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "als ein Ruf",
+      "signature": "aefilnrsu",
+      "openingToken": "als",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "da fällt er",
+      "signature": "aädeflrt",
+      "openingToken": "da",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "das wäre es",
+      "signature": "aädersw",
+      "openingToken": "das",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "des thut er",
+      "signature": "dehrstu",
+      "openingToken": "des",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "es ist sehr",
+      "signature": "ehirst",
+      "openingToken": "es",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "es zu holen",
+      "signature": "ehlnosuz",
+      "openingToken": "es",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "um zu sehen",
+      "signature": "ehmnsuz",
+      "openingToken": "um",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und der Arm",
+      "signature": "ademnru",
+      "openingToken": "und",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und sie sah",
+      "signature": "adehinsu",
+      "openingToken": "und",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und so fort",
+      "signature": "dfnorstu",
+      "openingToken": "und",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "was ich mag",
+      "signature": "acghimsw",
+      "openingToken": "was",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wer ich bin",
+      "signature": "bcehinrw",
+      "openingToken": "wer",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wo sind sie",
+      "signature": "deinosw",
+      "openingToken": "wo",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„er fängt an",
+      "signature": "„aäefgnrt",
+      "openingToken": "er",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Wer ist das",
+      "signature": "„adeirstw",
+      "openingToken": "wer",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "da er merkte",
+      "signature": "adekmrt",
+      "openingToken": "da",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "daß sie fiel",
+      "signature": "adefilsß",
+      "openingToken": "daß",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "es wird spät",
+      "signature": "ädeiprstw",
+      "openingToken": "es",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "fiel ihr ein",
+      "signature": "efhilnr",
+      "openingToken": "fiel",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ich weiß nie",
+      "signature": "cehinßw",
+      "openingToken": "ich",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "ihr seid alt",
+      "signature": "adehilrst",
+      "openingToken": "ihr",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "sage ich dir",
+      "signature": "acdeghirs",
+      "openingToken": "sage",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "so zu singen",
+      "signature": "eginosuz",
+      "openingToken": "so",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "und ich sage",
+      "signature": "acdeghinsu",
+      "openingToken": "und",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "was ich sehe",
+      "signature": "acehisw",
+      "openingToken": "was",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "was Sie thun",
+      "signature": "aehinstuw",
+      "openingToken": "was",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wenn er will",
+      "signature": "eilnrw",
+      "openingToken": "wenn",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wenn ich muß",
+      "signature": "cehimnßuw",
+      "openingToken": "wenn",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "wer Sie sind",
+      "signature": "deinrsw",
+      "openingToken": "wer",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\"hole sie her",
+      "signature": "\"ehilors",
+      "openingToken": "hole",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„ich bin froh",
+      "signature": "„bcfhinor",
+      "openingToken": "ich",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Nun sage mir",
+      "signature": "„aegimnrsu",
+      "openingToken": "nun",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Ruhe im Saal",
+      "signature": "„aehilmrsu",
+      "openingToken": "ruhe",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "„Wie heißt du",
+      "signature": "„dehißtuw",
+      "openingToken": "wie",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alice fing an",
+      "signature": "acefgiln",
+      "openingToken": "alice",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "alice sah auf",
+      "signature": "acefhilsu",
+      "openingToken": "alice",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "da es schläft",
+      "signature": "aäcdefhlst",
+      "openingToken": "da",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "dann halte an",
+      "signature": "adehlnt",
+      "openingToken": "dann",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "das ist gewiß",
+      "signature": "adegisßtw",
+      "openingToken": "das",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "das merke dir",
+      "signature": "adeikmrs",
+      "openingToken": "das",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "daß „ich sehe",
+      "signature": "„acdehisß",
+      "openingToken": "daß",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "daß sie Alles",
+      "signature": "adeilsß",
+      "openingToken": "daß",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "der Herr sagt",
+      "signature": "adeghrst",
+      "openingToken": "der",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "die Frage ist",
+      "signature": "adefgirst",
+      "openingToken": "die",
+      "tokenCount": 3,
+      "difficultyBand": "foundational"
+    }
+  ]
+}

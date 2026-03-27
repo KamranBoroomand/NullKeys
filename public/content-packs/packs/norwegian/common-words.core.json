@@ -1,0 +1,3626 @@
+{
+  "packId": "norwegian:common-words:core",
+  "languageId": "norwegian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "og",
+        "signature": "go",
+        "length": 2
+      },
+      {
+        "token": "er",
+        "signature": "er",
+        "length": 2
+      },
+      {
+        "token": "som",
+        "signature": "mos",
+        "length": 3
+      },
+      {
+        "token": "til",
+        "signature": "ilt",
+        "length": 3
+      },
+      {
+        "token": "for",
+        "signature": "for",
+        "length": 3
+      },
+      {
+        "token": "det",
+        "signature": "det",
+        "length": 3
+      },
+      {
+        "token": "en",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "av",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "med",
+        "signature": "dem",
+        "length": 3
+      },
+      {
+        "token": "har",
+        "signature": "ahr",
+        "length": 3
+      },
+      {
+        "token": "at",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "ikke",
+        "signature": "eik",
+        "length": 4
+      },
+      {
+        "token": "kan",
+        "signature": "akn",
+        "length": 3
+      },
+      {
+        "token": "du",
+        "signature": "du",
+        "length": 2
+      },
+      {
+        "token": "om",
+        "signature": "mo",
+        "length": 2
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "et",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "jeg",
+        "signature": "egj",
+        "length": 3
+      },
+      {
+        "token": "den",
+        "signature": "den",
+        "length": 3
+      },
+      {
+        "token": "fra",
+        "signature": "afr",
+        "length": 3
+      },
+      {
+        "token": "eller",
+        "signature": "elr",
+        "length": 5
+      },
+      {
+        "token": "vil",
+        "signature": "ilv",
+        "length": 3
+      },
+      {
+        "token": "så",
+        "signature": "ås",
+        "length": 2
+      },
+      {
+        "token": "skal",
+        "signature": "akls",
+        "length": 4
+      },
+      {
+        "token": "seg",
+        "signature": "egs",
+        "length": 3
+      },
+      {
+        "token": "være",
+        "signature": "æerv",
+        "length": 4
+      },
+      {
+        "token": "var",
+        "signature": "arv",
+        "length": 3
+      },
+      {
+        "token": "dette",
+        "signature": "det",
+        "length": 5
+      },
+      {
+        "token": "ut",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "blir",
+        "signature": "bilr",
+        "length": 4
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "ved",
+        "signature": "dev",
+        "length": 3
+      },
+      {
+        "token": "alle",
+        "signature": "ael",
+        "length": 4
+      },
+      {
+        "token": "deg",
+        "signature": "deg",
+        "length": 3
+      },
+      {
+        "token": "opp",
+        "signature": "op",
+        "length": 3
+      },
+      {
+        "token": "etter",
+        "signature": "ert",
+        "length": 5
+      },
+      {
+        "token": "mer",
+        "signature": "emr",
+        "length": 3
+      },
+      {
+        "token": "får",
+        "signature": "åfr",
+        "length": 3
+      },
+      {
+        "token": "denne",
+        "signature": "den",
+        "length": 5
+      },
+      {
+        "token": "mange",
+        "signature": "aegmn",
+        "length": 5
+      },
+      {
+        "token": "ble",
+        "signature": "bel",
+        "length": 3
+      },
+      {
+        "token": "oss",
+        "signature": "os",
+        "length": 3
+      },
+      {
+        "token": "nå",
+        "signature": "ån",
+        "length": 2
+      },
+      {
+        "token": "enn",
+        "signature": "en",
+        "length": 3
+      },
+      {
+        "token": "mye",
+        "signature": "emy",
+        "length": 3
+      },
+      {
+        "token": "bli",
+        "signature": "bil",
+        "length": 3
+      },
+      {
+        "token": "litt",
+        "signature": "ilt",
+        "length": 4
+      },
+      {
+        "token": "år",
+        "signature": "år",
+        "length": 2
+      },
+      {
+        "token": "selv",
+        "signature": "elsv",
+        "length": 4
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "hadde",
+        "signature": "adeh",
+        "length": 5
+      },
+      {
+        "token": "hvor",
+        "signature": "horv",
+        "length": 4
+      },
+      {
+        "token": "flere",
+        "signature": "eflr",
+        "length": 5
+      },
+      {
+        "token": "før",
+        "signature": "før",
+        "length": 3
+      },
+      {
+        "token": "der",
+        "signature": "der",
+        "length": 3
+      },
+      {
+        "token": "både",
+        "signature": "åbde",
+        "length": 4
+      },
+      {
+        "token": "hva",
+        "signature": "ahv",
+        "length": 3
+      },
+      {
+        "token": "vært",
+        "signature": "ærtv",
+        "length": 4
+      },
+      {
+        "token": "ta",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "slik",
+        "signature": "ikls",
+        "length": 4
+      },
+      {
+        "token": "kommer",
+        "signature": "ekmor",
+        "length": 6
+      },
+      {
+        "token": "nye",
+        "signature": "eny",
+        "length": 3
+      },
+      {
+        "token": "kunne",
+        "signature": "eknu",
+        "length": 5
+      },
+      {
+        "token": "gjør",
+        "signature": "gjør",
+        "length": 4
+      },
+      {
+        "token": "godt",
+        "signature": "dgot",
+        "length": 4
+      },
+      {
+        "token": "sier",
+        "signature": "eirs",
+        "length": 4
+      },
+      {
+        "token": "mot",
+        "signature": "mot",
+        "length": 3
+      },
+      {
+        "token": "gir",
+        "signature": "gir",
+        "length": 3
+      },
+      {
+        "token": "dag",
+        "signature": "adg",
+        "length": 3
+      },
+      {
+        "token": "helt",
+        "signature": "ehlt",
+        "length": 4
+      },
+      {
+        "token": "her",
+        "signature": "ehr",
+        "length": 3
+      },
+      {
+        "token": "gjøre",
+        "signature": "egjør",
+        "length": 5
+      },
+      {
+        "token": "går",
+        "signature": "ågr",
+        "length": 3
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "hele",
+        "signature": "ehl",
+        "length": 4
+      },
+      {
+        "token": "hvordan",
+        "signature": "adhnorv",
+        "length": 7
+      },
+      {
+        "token": "din",
+        "signature": "din",
+        "length": 3
+      },
+      {
+        "token": "ønsker",
+        "signature": "eknørs",
+        "length": 6
+      },
+      {
+        "token": "to",
+        "signature": "ot",
+        "length": 2
+      },
+      {
+        "token": "ser",
+        "signature": "ers",
+        "length": 3
+      },
+      {
+        "token": "mellom",
+        "signature": "elmo",
+        "length": 6
+      },
+      {
+        "token": "tid",
+        "signature": "dit",
+        "length": 3
+      },
+      {
+        "token": "viktig",
+        "signature": "giktv",
+        "length": 6
+      },
+      {
+        "token": "disse",
+        "signature": "deis",
+        "length": 5
+      },
+      {
+        "token": "gjennom",
+        "signature": "egjmno",
+        "length": 7
+      },
+      {
+        "token": "uten",
+        "signature": "entu",
+        "length": 4
+      },
+      {
+        "token": "veldig",
+        "signature": "degilv",
+        "length": 6
+      },
+      {
+        "token": "alt",
+        "signature": "alt",
+        "length": 3
+      },
+      {
+        "token": "hun",
+        "signature": "hnu",
+        "length": 3
+      },
+      {
+        "token": "hos",
+        "signature": "hos",
+        "length": 3
+      },
+      {
+        "token": "annet",
+        "signature": "aent",
+        "length": 5
+      },
+      {
+        "token": "sammen",
+        "signature": "aemns",
+        "length": 6
+      },
+      {
+        "token": "gi",
+        "signature": "gi",
+        "length": 2
+      },
+      {
+        "token": "siden",
+        "signature": "deins",
+        "length": 5
+      },
+      {
+        "token": "våre",
+        "signature": "åerv",
+        "length": 4
+      },
+      {
+        "token": "første",
+        "signature": "eførst",
+        "length": 6
+      },
+      {
+        "token": "dere",
+        "signature": "der",
+        "length": 4
+      },
+      {
+        "token": "bedre",
+        "signature": "bder",
+        "length": 5
+      },
+      {
+        "token": "mulig",
+        "signature": "gilmu",
+        "length": 5
+      },
+      {
+        "token": "tar",
+        "signature": "art",
+        "length": 3
+      },
+      {
+        "token": "nok",
+        "signature": "kno",
+        "length": 3
+      },
+      {
+        "token": "igjen",
+        "signature": "egijn",
+        "length": 5
+      },
+      {
+        "token": "tillegg",
+        "signature": "egilt",
+        "length": 7
+      },
+      {
+        "token": "samme",
+        "signature": "aems",
+        "length": 5
+      },
+      {
+        "token": "dem",
+        "signature": "dem",
+        "length": 3
+      },
+      {
+        "token": "bør",
+        "signature": "bør",
+        "length": 3
+      },
+      {
+        "token": "gode",
+        "signature": "dego",
+        "length": 4
+      },
+      {
+        "token": "fikk",
+        "signature": "fik",
+        "length": 4
+      },
+      {
+        "token": "vår",
+        "signature": "årv",
+        "length": 3
+      },
+      {
+        "token": "stor",
+        "signature": "orst",
+        "length": 4
+      },
+      {
+        "token": "ulike",
+        "signature": "eiklu",
+        "length": 5
+      },
+      {
+        "token": "bruke",
+        "signature": "bekru",
+        "length": 5
+      },
+      {
+        "token": "rundt",
+        "signature": "dnrtu",
+        "length": 5
+      },
+      {
+        "token": "gå",
+        "signature": "åg",
+        "length": 2
+      },
+      {
+        "token": "trenger",
+        "signature": "egnrt",
+        "length": 7
+      },
+      {
+        "token": "jo",
+        "signature": "jo",
+        "length": 2
+      },
+      {
+        "token": "sine",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "ny",
+        "signature": "ny",
+        "length": 2
+      },
+      {
+        "token": "siste",
+        "signature": "eist",
+        "length": 5
+      },
+      {
+        "token": "derfor",
+        "signature": "defor",
+        "length": 6
+      },
+      {
+        "token": "bruk",
+        "signature": "bkru",
+        "length": 4
+      },
+      {
+        "token": "skulle",
+        "signature": "eklsu",
+        "length": 6
+      },
+      {
+        "token": "blant",
+        "signature": "ablnt",
+        "length": 5
+      },
+      {
+        "token": "fått",
+        "signature": "åft",
+        "length": 4
+      },
+      {
+        "token": "blitt",
+        "signature": "bilt",
+        "length": 5
+      },
+      {
+        "token": "rett",
+        "signature": "ert",
+        "length": 4
+      },
+      {
+        "token": "gjelder",
+        "signature": "degjlr",
+        "length": 7
+      },
+      {
+        "token": "kanskje",
+        "signature": "aejkns",
+        "length": 7
+      },
+      {
+        "token": "viser",
+        "signature": "eirsv",
+        "length": 5
+      },
+      {
+        "token": "finner",
+        "signature": "efinr",
+        "length": 6
+      },
+      {
+        "token": "mener",
+        "signature": "emnr",
+        "length": 5
+      },
+      {
+        "token": "ingen",
+        "signature": "egin",
+        "length": 5
+      },
+      {
+        "token": "bruker",
+        "signature": "bekru",
+        "length": 6
+      },
+      {
+        "token": "finne",
+        "signature": "efin",
+        "length": 5
+      },
+      {
+        "token": "komme",
+        "signature": "ekmo",
+        "length": 5
+      },
+      {
+        "token": "hver",
+        "signature": "ehrv",
+        "length": 4
+      },
+      {
+        "token": "hvis",
+        "signature": "hisv",
+        "length": 4
+      },
+      {
+        "token": "fordi",
+        "signature": "dfior",
+        "length": 5
+      },
+      {
+        "token": "si",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "vet",
+        "signature": "etv",
+        "length": 3
+      },
+      {
+        "token": "beste",
+        "signature": "best",
+        "length": 5
+      },
+      {
+        "token": "alltid",
+        "signature": "adilt",
+        "length": 6
+      },
+      {
+        "token": "mest",
+        "signature": "emst",
+        "length": 4
+      },
+      {
+        "token": "innen",
+        "signature": "ein",
+        "length": 5
+      },
+      {
+        "token": "står",
+        "signature": "årst",
+        "length": 4
+      },
+      {
+        "token": "eksempel",
+        "signature": "eklmps",
+        "length": 8
+      },
+      {
+        "token": "tre",
+        "signature": "ert",
+        "length": 3
+      },
+      {
+        "token": "sett",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "egen",
+        "signature": "egn",
+        "length": 4
+      },
+      {
+        "token": "måte",
+        "signature": "åemt",
+        "length": 4
+      },
+      {
+        "token": "videre",
+        "signature": "deirv",
+        "length": 6
+      },
+      {
+        "token": "gjerne",
+        "signature": "egjnr",
+        "length": 6
+      },
+      {
+        "token": "informasjon",
+        "signature": "afijmnors",
+        "length": 11
+      },
+      {
+        "token": "ligger",
+        "signature": "egilr",
+        "length": 6
+      },
+      {
+        "token": "større",
+        "signature": "eørst",
+        "length": 6
+      },
+      {
+        "token": "ofte",
+        "signature": "efot",
+        "length": 4
+      },
+      {
+        "token": "finnes",
+        "signature": "efins",
+        "length": 6
+      },
+      {
+        "token": "mindre",
+        "signature": "deimnr",
+        "length": 6
+      },
+      {
+        "token": "frem",
+        "signature": "efmr",
+        "length": 4
+      },
+      {
+        "token": "ting",
+        "signature": "gint",
+        "length": 4
+      },
+      {
+        "token": "tatt",
+        "signature": "at",
+        "length": 4
+      },
+      {
+        "token": "samt",
+        "signature": "amst",
+        "length": 4
+      },
+      {
+        "token": "norske",
+        "signature": "eknors",
+        "length": 6
+      },
+      {
+        "token": "gjort",
+        "signature": "gjort",
+        "length": 5
+      },
+      {
+        "token": "annen",
+        "signature": "aen",
+        "length": 5
+      },
+      {
+        "token": "behov",
+        "signature": "behov",
+        "length": 5
+      },
+      {
+        "token": "kun",
+        "signature": "knu",
+        "length": 3
+      },
+      {
+        "token": "ville",
+        "signature": "eilv",
+        "length": 5
+      },
+      {
+        "token": "tilbake",
+        "signature": "abeiklt",
+        "length": 7
+      },
+      {
+        "token": "svært",
+        "signature": "ærstv",
+        "length": 5
+      },
+      {
+        "token": "hatt",
+        "signature": "aht",
+        "length": 4
+      },
+      {
+        "token": "tidligere",
+        "signature": "degilrt",
+        "length": 9
+      },
+      {
+        "token": "ditt",
+        "signature": "dit",
+        "length": 4
+      },
+      {
+        "token": "enkelt",
+        "signature": "eklnt",
+        "length": 6
+      },
+      {
+        "token": "mens",
+        "signature": "emns",
+        "length": 4
+      },
+      {
+        "token": "brukes",
+        "signature": "bekrsu",
+        "length": 6
+      },
+      {
+        "token": "nytt",
+        "signature": "nty",
+        "length": 4
+      },
+      {
+        "token": "sitt",
+        "signature": "ist",
+        "length": 4
+      },
+      {
+        "token": "langt",
+        "signature": "aglnt",
+        "length": 5
+      },
+      {
+        "token": "prosent",
+        "signature": "enoprst",
+        "length": 7
+      },
+      {
+        "token": "kroner",
+        "signature": "eknor",
+        "length": 6
+      },
+      {
+        "token": "grunn",
+        "signature": "gnru",
+        "length": 5
+      },
+      {
+        "token": "plass",
+        "signature": "alps",
+        "length": 5
+      },
+      {
+        "token": "tror",
+        "signature": "ort",
+        "length": 4
+      },
+      {
+        "token": "forhold",
+        "signature": "dfhlor",
+        "length": 7
+      },
+      {
+        "token": "kom",
+        "signature": "kmo",
+        "length": 3
+      },
+      {
+        "token": "kommune",
+        "signature": "ekmnou",
+        "length": 7
+      },
+      {
+        "token": "heller",
+        "signature": "ehlr",
+        "length": 6
+      },
+      {
+        "token": "dine",
+        "signature": "dein",
+        "length": 4
+      },
+      {
+        "token": "fleste",
+        "signature": "eflst",
+        "length": 6
+      },
+      {
+        "token": "lett",
+        "signature": "elt",
+        "length": 4
+      },
+      {
+        "token": "lite",
+        "signature": "eilt",
+        "length": 4
+      },
+      {
+        "token": "vel",
+        "signature": "elv",
+        "length": 3
+      },
+      {
+        "token": "tiden",
+        "signature": "deint",
+        "length": 5
+      },
+      {
+        "token": "følge",
+        "signature": "efglø",
+        "length": 5
+      },
+      {
+        "token": "spesielt",
+        "signature": "eilpst",
+        "length": 8
+      },
+      {
+        "token": "ett",
+        "signature": "et",
+        "length": 3
+      },
+      {
+        "token": "fortsatt",
+        "signature": "aforst",
+        "length": 8
+      },
+      {
+        "token": "allerede",
+        "signature": "adelr",
+        "length": 8
+      },
+      {
+        "token": "liten",
+        "signature": "eilnt",
+        "length": 5
+      },
+      {
+        "token": "aldri",
+        "signature": "adilr",
+        "length": 5
+      },
+      {
+        "token": "måtte",
+        "signature": "åemt",
+        "length": 5
+      },
+      {
+        "token": "minst",
+        "signature": "imnst",
+        "length": 5
+      },
+      {
+        "token": "hvert",
+        "signature": "ehrtv",
+        "length": 5
+      },
+      {
+        "token": "dager",
+        "signature": "adegr",
+        "length": 5
+      },
+      {
+        "token": "kontakt",
+        "signature": "aknot",
+        "length": 7
+      },
+      {
+        "token": "jobber",
+        "signature": "bejor",
+        "length": 6
+      },
+      {
+        "token": "mennesker",
+        "signature": "ekmnrs",
+        "length": 9
+      },
+      {
+        "token": "dersom",
+        "signature": "demors",
+        "length": 6
+      },
+      {
+        "token": "deres",
+        "signature": "ders",
+        "length": 5
+      },
+      {
+        "token": "ansatte",
+        "signature": "aenst",
+        "length": 7
+      },
+      {
+        "token": "vårt",
+        "signature": "årtv",
+        "length": 4
+      },
+      {
+        "token": "laget",
+        "signature": "aeglt",
+        "length": 5
+      },
+      {
+        "token": "hjelp",
+        "signature": "ehjlp",
+        "length": 5
+      },
+      {
+        "token": "gikk",
+        "signature": "gik",
+        "length": 4
+      },
+      {
+        "token": "legge",
+        "signature": "egl",
+        "length": 5
+      },
+      {
+        "token": "samtidig",
+        "signature": "adgimst",
+        "length": 8
+      },
+      {
+        "token": "stort",
+        "signature": "orst",
+        "length": 5
+      },
+      {
+        "token": "neste",
+        "signature": "enst",
+        "length": 5
+      },
+      {
+        "token": "spørsmål",
+        "signature": "ålmøprs",
+        "length": 8
+      },
+      {
+        "token": "vanskelig",
+        "signature": "aegiklnsv",
+        "length": 9
+      },
+      {
+        "token": "lenge",
+        "signature": "egln",
+        "length": 5
+      },
+      {
+        "token": "forskjellige",
+        "signature": "efgijklors",
+        "length": 12
+      },
+      {
+        "token": "ute",
+        "signature": "etu",
+        "length": 3
+      },
+      {
+        "token": "enda",
+        "signature": "aden",
+        "length": 4
+      },
+      {
+        "token": "betyr",
+        "signature": "berty",
+        "length": 5
+      },
+      {
+        "token": "faktisk",
+        "signature": "afikst",
+        "length": 7
+      },
+      {
+        "token": "ekstra",
+        "signature": "aekrst",
+        "length": 6
+      },
+      {
+        "token": "sette",
+        "signature": "est",
+        "length": 5
+      },
+      {
+        "token": "ganger",
+        "signature": "aegnr",
+        "length": 6
+      },
+      {
+        "token": "holde",
+        "signature": "dehlo",
+        "length": 5
+      },
+      {
+        "token": "lage",
+        "signature": "aegl",
+        "length": 4
+      },
+      {
+        "token": "mål",
+        "signature": "ålm",
+        "length": 3
+      },
+      {
+        "token": "fram",
+        "signature": "afmr",
+        "length": 4
+      },
+      {
+        "token": "synes",
+        "signature": "ensy",
+        "length": 5
+      },
+      {
+        "token": "satt",
+        "signature": "ast",
+        "length": 4
+      },
+      {
+        "token": "løpet",
+        "signature": "eløpt",
+        "length": 5
+      },
+      {
+        "token": "arbeid",
+        "signature": "abdeir",
+        "length": 6
+      },
+      {
+        "token": "først",
+        "signature": "først",
+        "length": 5
+      },
+      {
+        "token": "skjer",
+        "signature": "ejkrs",
+        "length": 5
+      },
+      {
+        "token": "dagen",
+        "signature": "adegn",
+        "length": 5
+      },
+      {
+        "token": "velge",
+        "signature": "eglv",
+        "length": 5
+      },
+      {
+        "token": "samarbeid",
+        "signature": "abdeimrs",
+        "length": 9
+      },
+      {
+        "token": "verden",
+        "signature": "denrv",
+        "length": 6
+      },
+      {
+        "token": "arbeidet",
+        "signature": "abdeirt",
+        "length": 8
+      },
+      {
+        "token": "norsk",
+        "signature": "knors",
+        "length": 5
+      },
+      {
+        "token": "bidra",
+        "signature": "abdir",
+        "length": 5
+      },
+      {
+        "token": "mulighet",
+        "signature": "eghilmtu",
+        "length": 8
+      },
+      {
+        "token": "krav",
+        "signature": "akrv",
+        "length": 4
+      },
+      {
+        "token": "små",
+        "signature": "åms",
+        "length": 3
+      },
+      {
+        "token": "økt",
+        "signature": "køt",
+        "length": 3
+      },
+      {
+        "token": "tilbyr",
+        "signature": "bilrty",
+        "length": 6
+      },
+      {
+        "token": "deler",
+        "signature": "delr",
+        "length": 5
+      },
+      {
+        "token": "riktig",
+        "signature": "gikrt",
+        "length": 6
+      },
+      {
+        "token": "bilder",
+        "signature": "bdeilr",
+        "length": 6
+      },
+      {
+        "token": "forteller",
+        "signature": "eflort",
+        "length": 9
+      },
+      {
+        "token": "passer",
+        "signature": "aeprs",
+        "length": 6
+      },
+      {
+        "token": "spennende",
+        "signature": "denps",
+        "length": 9
+      },
+      {
+        "token": "grad",
+        "signature": "adgr",
+        "length": 4
+      },
+      {
+        "token": "høy",
+        "signature": "høy",
+        "length": 3
+      },
+      {
+        "token": "egne",
+        "signature": "egn",
+        "length": 4
+      },
+      {
+        "token": "tok",
+        "signature": "kot",
+        "length": 3
+      },
+      {
+        "token": "lagt",
+        "signature": "aglt",
+        "length": 4
+      },
+      {
+        "token": "legger",
+        "signature": "eglr",
+        "length": 6
+      },
+      {
+        "token": "hvilke",
+        "signature": "ehiklv",
+        "length": 6
+      },
+      {
+        "token": "ca",
+        "signature": "ac",
+        "length": 2
+      },
+      {
+        "token": "behandling",
+        "signature": "abdeghiln",
+        "length": 10
+      },
+      {
+        "token": "la",
+        "signature": "al",
+        "length": 2
+      },
+      {
+        "token": "sikre",
+        "signature": "eikrs",
+        "length": 5
+      },
+      {
+        "token": "mat",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "rekke",
+        "signature": "ekr",
+        "length": 5
+      },
+      {
+        "token": "ganske",
+        "signature": "aegkns",
+        "length": 6
+      },
+      {
+        "token": "nesten",
+        "signature": "enst",
+        "length": 6
+      },
+      {
+        "token": "akkurat",
+        "signature": "akrtu",
+        "length": 7
+      },
+      {
+        "token": "jobbe",
+        "signature": "bejo",
+        "length": 5
+      },
+      {
+        "token": "møte",
+        "signature": "emøt",
+        "length": 4
+      },
+      {
+        "token": "jobb",
+        "signature": "bjo",
+        "length": 4
+      },
+      {
+        "token": "holder",
+        "signature": "dehlor",
+        "length": 6
+      },
+      {
+        "token": "personer",
+        "signature": "enoprs",
+        "length": 8
+      },
+      {
+        "token": "altså",
+        "signature": "aålst",
+        "length": 5
+      },
+      {
+        "token": "enkelte",
+        "signature": "eklnt",
+        "length": 7
+      },
+      {
+        "token": "årene",
+        "signature": "åenr",
+        "length": 5
+      },
+      {
+        "token": "barna",
+        "signature": "abnr",
+        "length": 5
+      },
+      {
+        "token": "utvikling",
+        "signature": "giklntuv",
+        "length": 9
+      },
+      {
+        "token": "egentlig",
+        "signature": "egilnt",
+        "length": 8
+      },
+      {
+        "token": "klart",
+        "signature": "aklrt",
+        "length": 5
+      },
+      {
+        "token": "livet",
+        "signature": "eiltv",
+        "length": 5
+      },
+      {
+        "token": "leder",
+        "signature": "delr",
+        "length": 5
+      },
+      {
+        "token": "året",
+        "signature": "åert",
+        "length": 4
+      },
+      {
+        "token": "tiltak",
+        "signature": "aiklt",
+        "length": 6
+      },
+      {
+        "token": "gitt",
+        "signature": "git",
+        "length": 4
+      },
+      {
+        "token": "innenfor",
+        "signature": "efinor",
+        "length": 8
+      },
+      {
+        "token": "setter",
+        "signature": "erst",
+        "length": 6
+      },
+      {
+        "token": "vanlig",
+        "signature": "agilnv",
+        "length": 6
+      },
+      {
+        "token": "likevel",
+        "signature": "eiklv",
+        "length": 7
+      },
+      {
+        "token": "hjelpe",
+        "signature": "ehjlp",
+        "length": 6
+      },
+      {
+        "token": "nødvendig",
+        "signature": "deginøv",
+        "length": 9
+      },
+      {
+        "token": "bak",
+        "signature": "abk",
+        "length": 3
+      },
+      {
+        "token": "brukt",
+        "signature": "bkrtu",
+        "length": 5
+      },
+      {
+        "token": "kjent",
+        "signature": "ejknt",
+        "length": 5
+      },
+      {
+        "token": "skape",
+        "signature": "aekps",
+        "length": 5
+      },
+      {
+        "token": "kunnskap",
+        "signature": "aknpsu",
+        "length": 8
+      },
+      {
+        "token": "feil",
+        "signature": "efil",
+        "length": 4
+      },
+      {
+        "token": "direkte",
+        "signature": "deikrt",
+        "length": 7
+      },
+      {
+        "token": "slike",
+        "signature": "eikls",
+        "length": 5
+      },
+      {
+        "token": "imidlertid",
+        "signature": "deilmrt",
+        "length": 10
+      },
+      {
+        "token": "eget",
+        "signature": "egt",
+        "length": 4
+      },
+      {
+        "token": "tur",
+        "signature": "rtu",
+        "length": 3
+      },
+      {
+        "token": "virkelig",
+        "signature": "egiklrv",
+        "length": 8
+      },
+      {
+        "token": "penger",
+        "signature": "egnpr",
+        "length": 6
+      },
+      {
+        "token": "timer",
+        "signature": "eimrt",
+        "length": 5
+      },
+      {
+        "token": "millioner",
+        "signature": "eilmnor",
+        "length": 9
+      },
+      {
+        "token": "erfaring",
+        "signature": "aefginr",
+        "length": 8
+      },
+      {
+        "token": "produkter",
+        "signature": "dekoprtu",
+        "length": 9
+      },
+      {
+        "token": "sted",
+        "signature": "dest",
+        "length": 4
+      },
+      {
+        "token": "støtte",
+        "signature": "eøst",
+        "length": 6
+      },
+      {
+        "token": "vei",
+        "signature": "eiv",
+        "length": 3
+      },
+      {
+        "token": "liker",
+        "signature": "eiklr",
+        "length": 5
+      },
+      {
+        "token": "via",
+        "signature": "aiv",
+        "length": 3
+      },
+      {
+        "token": "kvalitet",
+        "signature": "aeikltv",
+        "length": 8
+      },
+      {
+        "token": "dermed",
+        "signature": "demr",
+        "length": 6
+      },
+      {
+        "token": "skriver",
+        "signature": "eikrsv",
+        "length": 7
+      },
+      {
+        "token": "særlig",
+        "signature": "ægilrs",
+        "length": 6
+      },
+      {
+        "token": "lese",
+        "signature": "els",
+        "length": 4
+      },
+      {
+        "token": "uke",
+        "signature": "eku",
+        "length": 3
+      },
+      {
+        "token": "knyttet",
+        "signature": "eknty",
+        "length": 7
+      },
+      {
+        "token": "håper",
+        "signature": "åehpr",
+        "length": 5
+      },
+      {
+        "token": "gått",
+        "signature": "ågt",
+        "length": 4
+      },
+      {
+        "token": "klar",
+        "signature": "aklr",
+        "length": 4
+      },
+      {
+        "token": "fint",
+        "signature": "fint",
+        "length": 4
+      },
+      {
+        "token": "tilgang",
+        "signature": "agilnt",
+        "length": 7
+      },
+      {
+        "token": "skolen",
+        "signature": "eklnos",
+        "length": 6
+      },
+      {
+        "token": "fokus",
+        "signature": "fkosu",
+        "length": 5
+      },
+      {
+        "token": "lenger",
+        "signature": "eglnr",
+        "length": 6
+      },
+      {
+        "token": "tenke",
+        "signature": "eknt",
+        "length": 5
+      },
+      {
+        "token": "følger",
+        "signature": "efglør",
+        "length": 6
+      },
+      {
+        "token": "muligheter",
+        "signature": "eghilmrtu",
+        "length": 10
+      },
+      {
+        "token": "begge",
+        "signature": "beg",
+        "length": 5
+      },
+      {
+        "token": "saken",
+        "signature": "aekns",
+        "length": 5
+      },
+      {
+        "token": "største",
+        "signature": "eørst",
+        "length": 7
+      },
+      {
+        "token": "mitt",
+        "signature": "imt",
+        "length": 4
+      },
+      {
+        "token": "par",
+        "signature": "apr",
+        "length": 3
+      },
+      {
+        "token": "kort",
+        "signature": "kort",
+        "length": 4
+      },
+      {
+        "token": "vann",
+        "signature": "anv",
+        "length": 4
+      },
+      {
+        "token": "hjem",
+        "signature": "ehjm",
+        "length": 4
+      },
+      {
+        "token": "vise",
+        "signature": "eisv",
+        "length": 4
+      },
+      {
+        "token": "forbindelse",
+        "signature": "bdefilnors",
+        "length": 11
+      },
+      {
+        "token": "lag",
+        "signature": "agl",
+        "length": 3
+      },
+      {
+        "token": "ansvar",
+        "signature": "anrsv",
+        "length": 6
+      },
+      {
+        "token": "krever",
+        "signature": "ekrv",
+        "length": 6
+      },
+      {
+        "token": "kompetanse",
+        "signature": "aekmnopst",
+        "length": 10
+      },
+      {
+        "token": "kommet",
+        "signature": "ekmot",
+        "length": 6
+      },
+      {
+        "token": "pris",
+        "signature": "iprs",
+        "length": 4
+      },
+      {
+        "token": "tilbud",
+        "signature": "bdiltu",
+        "length": 6
+      },
+      {
+        "token": "handler",
+        "signature": "adehlnr",
+        "length": 7
+      },
+      {
+        "token": "kjøpe",
+        "signature": "ejkøp",
+        "length": 5
+      },
+      {
+        "token": "uansett",
+        "signature": "aenstu",
+        "length": 7
+      },
+      {
+        "token": "fast",
+        "signature": "afst",
+        "length": 4
+      },
+      {
+        "token": "prosjektet",
+        "signature": "ejkoprst",
+        "length": 10
+      },
+      {
+        "token": "fin",
+        "signature": "fin",
+        "length": 3
+      },
+      {
+        "token": "raskt",
+        "signature": "akrst",
+        "length": 5
+      },
+      {
+        "token": "velger",
+        "signature": "eglrv",
+        "length": 6
+      },
+      {
+        "token": "dårlig",
+        "signature": "ådgilr",
+        "length": 6
+      },
+      {
+        "token": "området",
+        "signature": "ådemort",
+        "length": 7
+      },
+      {
+        "token": "hjemme",
+        "signature": "ehjm",
+        "length": 6
+      },
+      {
+        "token": "gamle",
+        "signature": "aeglm",
+        "length": 5
+      },
+      {
+        "token": "gjøres",
+        "signature": "egjørs",
+        "length": 6
+      },
+      {
+        "token": "inne",
+        "signature": "ein",
+        "length": 4
+      },
+      {
+        "token": "rom",
+        "signature": "mor",
+        "length": 3
+      },
+      {
+        "token": "antall",
+        "signature": "alnt",
+        "length": 6
+      },
+      {
+        "token": "bilen",
+        "signature": "beiln",
+        "length": 5
+      },
+      {
+        "token": "minutter",
+        "signature": "eimnrtu",
+        "length": 8
+      },
+      {
+        "token": "utrolig",
+        "signature": "gilortu",
+        "length": 7
+      },
+      {
+        "token": "unge",
+        "signature": "egnu",
+        "length": 4
+      },
+      {
+        "token": "meget",
+        "signature": "egmt",
+        "length": 5
+      },
+      {
+        "token": "per",
+        "signature": "epr",
+        "length": 3
+      },
+      {
+        "token": "landet",
+        "signature": "adelnt",
+        "length": 6
+      },
+      {
+        "token": "tilgjengelig",
+        "signature": "egijlnt",
+        "length": 12
+      },
+      {
+        "token": "utenfor",
+        "signature": "efnortu",
+        "length": 7
+      },
+      {
+        "token": "flott",
+        "signature": "flot",
+        "length": 5
+      },
+      {
+        "token": "lære",
+        "signature": "æelr",
+        "length": 4
+      },
+      {
+        "token": "eneste",
+        "signature": "enst",
+        "length": 6
+      },
+      {
+        "token": "prøve",
+        "signature": "eøprv",
+        "length": 5
+      },
+      {
+        "token": "rette",
+        "signature": "ert",
+        "length": 5
+      },
+      {
+        "token": "hverandre",
+        "signature": "adehnrv",
+        "length": 9
+      },
+      {
+        "token": "kunder",
+        "signature": "deknru",
+        "length": 6
+      },
+      {
+        "token": "høyere",
+        "signature": "ehøry",
+        "length": 6
+      },
+      {
+        "token": "trening",
+        "signature": "eginrt",
+        "length": 7
+      },
+      {
+        "token": "ferdig",
+        "signature": "defgir",
+        "length": 6
+      },
+      {
+        "token": "sa",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "kurs",
+        "signature": "krsu",
+        "length": 4
+      },
+      {
+        "token": "kommunen",
+        "signature": "ekmnou",
+        "length": 8
+      },
+      {
+        "token": "sitter",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "utvikle",
+        "signature": "eikltuv",
+        "length": 7
+      },
+      {
+        "token": "gjorde",
+        "signature": "degjor",
+        "length": 6
+      },
+      {
+        "token": "stedet",
+        "signature": "dest",
+        "length": 6
+      },
+      {
+        "token": "skole",
+        "signature": "eklos",
+        "length": 5
+      },
+      {
+        "token": "føler",
+        "signature": "eflør",
+        "length": 5
+      },
+      {
+        "token": "løsninger",
+        "signature": "egilnørs",
+        "length": 9
+      },
+      {
+        "token": "stå",
+        "signature": "åst",
+        "length": 3
+      },
+      {
+        "token": "øke",
+        "signature": "ekø",
+        "length": 3
+      },
+      {
+        "token": "bort",
+        "signature": "bort",
+        "length": 4
+      },
+      {
+        "token": "veien",
+        "signature": "einv",
+        "length": 5
+      },
+      {
+        "token": "kroppen",
+        "signature": "eknopr",
+        "length": 7
+      },
+      {
+        "token": "viktigste",
+        "signature": "egikstv",
+        "length": 9
+      },
+      {
+        "token": "enten",
+        "signature": "ent",
+        "length": 5
+      },
+      {
+        "token": "inneholder",
+        "signature": "dehilnor",
+        "length": 10
+      },
+      {
+        "token": "stadig",
+        "signature": "adgist",
+        "length": 6
+      },
+      {
+        "token": "tenker",
+        "signature": "eknrt",
+        "length": 6
+      },
+      {
+        "token": "medlemmer",
+        "signature": "delmr",
+        "length": 9
+      },
+      {
+        "token": "kjenner",
+        "signature": "ejknr",
+        "length": 7
+      },
+      {
+        "token": "bygge",
+        "signature": "begy",
+        "length": 5
+      },
+      {
+        "token": "møter",
+        "signature": "emørt",
+        "length": 5
+      },
+      {
+        "token": "aller",
+        "signature": "aelr",
+        "length": 5
+      },
+      {
+        "token": "hjelper",
+        "signature": "ehjlpr",
+        "length": 7
+      },
+      {
+        "token": "kveld",
+        "signature": "deklv",
+        "length": 5
+      },
+      {
+        "token": "hvem",
+        "signature": "ehmv",
+        "length": 4
+      },
+      {
+        "token": "burde",
+        "signature": "bderu",
+        "length": 5
+      },
+      {
+        "token": "klare",
+        "signature": "aeklr",
+        "length": 5
+      },
+      {
+        "token": "felles",
+        "signature": "efls",
+        "length": 6
+      },
+      {
+        "token": "valg",
+        "signature": "aglv",
+        "length": 4
+      },
+      {
+        "token": "begynner",
+        "signature": "begnry",
+        "length": 8
+      },
+      {
+        "token": "fjor",
+        "signature": "fjor",
+        "length": 4
+      },
+      {
+        "token": "lokale",
+        "signature": "aeklo",
+        "length": 6
+      },
+      {
+        "token": "tjenester",
+        "signature": "ejnrst",
+        "length": 9
+      },
+      {
+        "token": "bil",
+        "signature": "bil",
+        "length": 3
+      },
+      {
+        "token": "dagens",
+        "signature": "adegns",
+        "length": 6
+      },
+      {
+        "token": "måten",
+        "signature": "åemnt",
+        "length": 5
+      },
+      {
+        "token": "hvorfor",
+        "signature": "fhorv",
+        "length": 7
+      },
+      {
+        "token": "hvilken",
+        "signature": "ehiklnv",
+        "length": 7
+      },
+      {
+        "token": "klarer",
+        "signature": "aeklr",
+        "length": 6
+      },
+      {
+        "token": "senere",
+        "signature": "enrs",
+        "length": 6
+      },
+      {
+        "token": "vite",
+        "signature": "eitv",
+        "length": 4
+      },
+      {
+        "token": "bedt",
+        "signature": "bdet",
+        "length": 4
+      },
+      {
+        "token": "enkel",
+        "signature": "ekln",
+        "length": 5
+      },
+      {
+        "token": "bidrar",
+        "signature": "abdir",
+        "length": 6
+      },
+      {
+        "token": "fungerer",
+        "signature": "efgnru",
+        "length": 8
+      },
+      {
+        "token": "kvinner",
+        "signature": "eiknrv",
+        "length": 7
+      },
+      {
+        "token": "reise",
+        "signature": "eirs",
+        "length": 5
+      },
+      {
+        "token": "viktige",
+        "signature": "egiktv",
+        "length": 7
+      },
+      {
+        "token": "helse",
+        "signature": "ehls",
+        "length": 5
+      },
+      {
+        "token": "endringer",
+        "signature": "deginr",
+        "length": 9
+      },
+      {
+        "token": "sikkert",
+        "signature": "eikrst",
+        "length": 7
+      },
+      {
+        "token": "praksis",
+        "signature": "aikprs",
+        "length": 7
+      },
+      {
+        "token": "helst",
+        "signature": "ehlst",
+        "length": 5
+      },
+      {
+        "token": "utstyr",
+        "signature": "rstuy",
+        "length": 6
+      },
+      {
+        "token": "tidlig",
+        "signature": "dgilt",
+        "length": 6
+      },
+      {
+        "token": "sosiale",
+        "signature": "aeilos",
+        "length": 7
+      },
+      {
+        "token": "råd",
+        "signature": "ådr",
+        "length": 3
+      },
+      {
+        "token": "tro",
+        "signature": "ort",
+        "length": 3
+      },
+      {
+        "token": "sånn",
+        "signature": "åns",
+        "length": 4
+      },
+      {
+        "token": "basert",
+        "signature": "aberst",
+        "length": 6
+      },
+      {
+        "token": "lyst",
+        "signature": "lsty",
+        "length": 4
+      },
+      {
+        "token": "starter",
+        "signature": "aerst",
+        "length": 7
+      },
+      {
+        "token": "naturlig",
+        "signature": "agilnrtu",
+        "length": 8
+      },
+      {
+        "token": "høyt",
+        "signature": "høty",
+        "length": 4
+      },
+      {
+        "token": "jobben",
+        "signature": "bejno",
+        "length": 6
+      },
+      {
+        "token": "uker",
+        "signature": "ekru",
+        "length": 4
+      },
+      {
+        "token": "ord",
+        "signature": "dor",
+        "length": 3
+      },
+      {
+        "token": "utfordringer",
+        "signature": "defginortu",
+        "length": 12
+      },
+      {
+        "token": "barnet",
+        "signature": "abenrt",
+        "length": 6
+      },
+      {
+        "token": "vekt",
+        "signature": "ektv",
+        "length": 4
+      },
+      {
+        "token": "ønsket",
+        "signature": "eknøst",
+        "length": 6
+      },
+      {
+        "token": "kontroll",
+        "signature": "klnort",
+        "length": 8
+      },
+      {
+        "token": "nettopp",
+        "signature": "enopt",
+        "length": 7
+      },
+      {
+        "token": "problemer",
+        "signature": "belmopr",
+        "length": 9
+      },
+      {
+        "token": "startet",
+        "signature": "aerst",
+        "length": 7
+      },
+      {
+        "token": "innebærer",
+        "signature": "æbeinr",
+        "length": 9
+      },
+      {
+        "token": "skikkelig",
+        "signature": "egikls",
+        "length": 9
+      },
+      {
+        "token": "nemlig",
+        "signature": "egilmn",
+        "length": 6
+      },
+      {
+        "token": "lov",
+        "signature": "lov",
+        "length": 3
+      },
+      {
+        "token": "enhet",
+        "signature": "ehnt",
+        "length": 5
+      },
+      {
+        "token": "offentlige",
+        "signature": "efgilnot",
+        "length": 10
+      },
+      {
+        "token": "fem",
+        "signature": "efm",
+        "length": 3
+      },
+      {
+        "token": "opplever",
+        "signature": "eloprv",
+        "length": 8
+      },
+      {
+        "token": "innsyn",
+        "signature": "insy",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "landets",
+        "signature": "adelnst",
+        "length": 7
+      },
+      {
+        "token": "plassert",
+        "signature": "aelprst",
+        "length": 8
+      },
+      {
+        "token": "utfører",
+        "signature": "eførtu",
+        "length": 7
+      },
+      {
+        "token": "engasjement",
+        "signature": "aegjmnst",
+        "length": 11
+      },
+      {
+        "token": "foreslår",
+        "signature": "åeflors",
+        "length": 8
+      },
+      {
+        "token": "ført",
+        "signature": "ført",
+        "length": 4
+      },
+      {
+        "token": "lokal",
+        "signature": "aklo",
+        "length": 5
+      },
+      {
+        "token": "mulighetene",
+        "signature": "eghilmntu",
+        "length": 11
+      },
+      {
+        "token": "vis",
+        "signature": "isv",
+        "length": 3
+      },
+      {
+        "token": "delt",
+        "signature": "delt",
+        "length": 4
+      },
+      {
+        "token": "ekstremt",
+        "signature": "ekmrst",
+        "length": 8
+      },
+      {
+        "token": "ferdigheter",
+        "signature": "defghirt",
+        "length": 11
+      },
+      {
+        "token": "ivareta",
+        "signature": "aeirtv",
+        "length": 7
+      },
+      {
+        "token": "markedsføring",
+        "signature": "adefgikmnørs",
+        "length": 13
+      },
+      {
+        "token": "plasser",
+        "signature": "aelprs",
+        "length": 7
+      },
+      {
+        "token": "arbeidslivet",
+        "signature": "abdeilrstv",
+        "length": 12
+      },
+      {
+        "token": "benyttet",
+        "signature": "benty",
+        "length": 8
+      },
+      {
+        "token": "halvparten",
+        "signature": "aehlnprtv",
+        "length": 10
+      },
+      {
+        "token": "kjøtt",
+        "signature": "jkøt",
+        "length": 5
+      },
+      {
+        "token": "lavt",
+        "signature": "altv",
+        "length": 4
+      },
+      {
+        "token": "produsert",
+        "signature": "deoprstu",
+        "length": 9
+      },
+      {
+        "token": "samle",
+        "signature": "aelms",
+        "length": 5
+      },
+      {
+        "token": "alternativer",
+        "signature": "aeilnrtv",
+        "length": 12
+      },
+      {
+        "token": "behandle",
+        "signature": "abdehln",
+        "length": 8
+      },
+      {
+        "token": "besøke",
+        "signature": "bekøs",
+        "length": 6
+      },
+      {
+        "token": "hel",
+        "signature": "ehl",
+        "length": 3
+      },
+      {
+        "token": "internasjonal",
+        "signature": "aeijlnorst",
+        "length": 13
+      },
+      {
+        "token": "sko",
+        "signature": "kos",
+        "length": 3
+      },
+      {
+        "token": "skrev",
+        "signature": "ekrsv",
+        "length": 5
+      },
+      {
+        "token": "trygghet",
+        "signature": "eghrty",
+        "length": 8
+      },
+      {
+        "token": "verste",
+        "signature": "erstv",
+        "length": 6
+      },
+      {
+        "token": "inngår",
+        "signature": "åginr",
+        "length": 6
+      },
+      {
+        "token": "kritisk",
+        "signature": "ikrst",
+        "length": 7
+      },
+      {
+        "token": "lå",
+        "signature": "ål",
+        "length": 2
+      },
+      {
+        "token": "organisasjon",
+        "signature": "agijnors",
+        "length": 12
+      },
+      {
+        "token": "pga",
+        "signature": "agp",
+        "length": 3
+      },
+      {
+        "token": "rutiner",
+        "signature": "einrtu",
+        "length": 7
+      },
+      {
+        "token": "tjenesten",
+        "signature": "ejnst",
+        "length": 9
+      },
+      {
+        "token": "anbefale",
+        "signature": "abefln",
+        "length": 8
+      },
+      {
+        "token": "korte",
+        "signature": "ekort",
+        "length": 5
+      },
+      {
+        "token": "navnet",
+        "signature": "aentv",
+        "length": 6
+      },
+      {
+        "token": "nærmeste",
+        "signature": "æemnrst",
+        "length": 8
+      },
+      {
+        "token": "størst",
+        "signature": "ørst",
+        "length": 6
+      },
+      {
+        "token": "arrangeres",
+        "signature": "aegnrs",
+        "length": 10
+      },
+      {
+        "token": "forventer",
+        "signature": "efnortv",
+        "length": 9
+      },
+      {
+        "token": "luft",
+        "signature": "fltu",
+        "length": 4
+      },
+      {
+        "token": "rammer",
+        "signature": "aemr",
+        "length": 6
+      },
+      {
+        "token": "undersøkelsen",
+        "signature": "deklnørsu",
+        "length": 13
+      },
+      {
+        "token": "utføres",
+        "signature": "eførstu",
+        "length": 7
+      },
+      {
+        "token": "bestemme",
+        "signature": "bemst",
+        "length": 8
+      },
+      {
+        "token": "ferd",
+        "signature": "defr",
+        "length": 4
+      },
+      {
+        "token": "forskere",
+        "signature": "efkors",
+        "length": 8
+      },
+      {
+        "token": "forsøker",
+        "signature": "efkoørs",
+        "length": 8
+      },
+      {
+        "token": "fortalte",
+        "signature": "aeflort",
+        "length": 8
+      },
+      {
+        "token": "hentet",
+        "signature": "ehnt",
+        "length": 6
+      },
+      {
+        "token": "kropp",
+        "signature": "kopr",
+        "length": 5
+      },
+      {
+        "token": "melding",
+        "signature": "degilmn",
+        "length": 7
+      },
+      {
+        "token": "møtt",
+        "signature": "møt",
+        "length": 4
+      },
+      {
+        "token": "tillit",
+        "signature": "ilt",
+        "length": 6
+      },
+      {
+        "token": "åtte",
+        "signature": "ået",
+        "length": 4
+      },
+      {
+        "token": "bidratt",
+        "signature": "abdirt",
+        "length": 7
+      },
+      {
+        "token": "detaljer",
+        "signature": "adejlrt",
+        "length": 8
+      },
+      {
+        "token": "elektronisk",
+        "signature": "eiklnorst",
+        "length": 11
+      },
+      {
+        "token": "flyttet",
+        "signature": "eflty",
+        "length": 7
+      },
+      {
+        "token": "skriftlig",
+        "signature": "fgiklrst",
+        "length": 9
+      },
+      {
+        "token": "såkalte",
+        "signature": "aåeklst",
+        "length": 7
+      },
+      {
+        "token": "korrekt",
+        "signature": "ekort",
+        "length": 7
+      },
+      {
+        "token": "lært",
+        "signature": "ælrt",
+        "length": 4
+      },
+      {
+        "token": "nøyaktig",
+        "signature": "agiknøty",
+        "length": 8
+      },
+      {
+        "token": "organisasjonen",
+        "signature": "aegijnors",
+        "length": 14
+      },
+      {
+        "token": "tusen",
+        "signature": "enstu",
+        "length": 5
+      },
+      {
+        "token": "beskriver",
+        "signature": "beikrsv",
+        "length": 9
+      },
+      {
+        "token": "garantert",
+        "signature": "aegnrt",
+        "length": 9
+      },
+      {
+        "token": "kjempe",
+        "signature": "ejkmp",
+        "length": 6
+      },
+      {
+        "token": "veggen",
+        "signature": "egnv",
+        "length": 6
+      },
+      {
+        "token": "føles",
+        "signature": "efløs",
+        "length": 5
+      },
+      {
+        "token": "hud",
+        "signature": "dhu",
+        "length": 3
+      },
+      {
+        "token": "planlegging",
+        "signature": "aegilnp",
+        "length": 11
+      },
+      {
+        "token": "utarbeidet",
+        "signature": "abdeirtu",
+        "length": 10
+      },
+      {
+        "token": "utstyrt",
+        "signature": "rstuy",
+        "length": 7
+      },
+      {
+        "token": "foredrag",
+        "signature": "adefgor",
+        "length": 8
+      },
+      {
+        "token": "heldigvis",
+        "signature": "deghilsv",
+        "length": 9
+      },
+      {
+        "token": "personen",
+        "signature": "enoprs",
+        "length": 8
+      },
+      {
+        "token": "analyse",
+        "signature": "aelnsy",
+        "length": 7
+      },
+      {
+        "token": "inntrykk",
+        "signature": "iknrty",
+        "length": 8
+      },
+      {
+        "token": "kjøkkenet",
+        "signature": "ejknøt",
+        "length": 9
+      },
+      {
+        "token": "måneden",
+        "signature": "ådemn",
+        "length": 7
+      },
+      {
+        "token": "opprettholde",
+        "signature": "dehloprt",
+        "length": 12
+      },
+      {
+        "token": "utvalget",
+        "signature": "aegltuv",
+        "length": 8
+      },
+      {
+        "token": "beregnet",
+        "signature": "begnrt",
+        "length": 8
+      },
+      {
+        "token": "lei",
+        "signature": "eil",
+        "length": 3
+      },
+      {
+        "token": "oppleves",
+        "signature": "elopsv",
+        "length": 8
+      },
+      {
+        "token": "ro",
+        "signature": "or",
+        "length": 2
+      },
+      {
+        "token": "sosialt",
+        "signature": "ailost",
+        "length": 7
+      },
+      {
+        "token": "stengt",
+        "signature": "egnst",
+        "length": 6
+      },
+      {
+        "token": "arrangerer",
+        "signature": "aegnr",
+        "length": 10
+      },
+      {
+        "token": "grunnen",
+        "signature": "egnru",
+        "length": 7
+      },
+      {
+        "token": "innlegget",
+        "signature": "egilnt",
+        "length": 9
+      },
+      {
+        "token": "tilpasse",
+        "signature": "aeilpst",
+        "length": 8
+      },
+      {
+        "token": "beskyttelse",
+        "signature": "beklsty",
+        "length": 11
+      },
+      {
+        "token": "forholdet",
+        "signature": "defhlort",
+        "length": 9
+      },
+      {
+        "token": "fyller",
+        "signature": "eflry",
+        "length": 6
+      },
+      {
+        "token": "hull",
+        "signature": "hlu",
+        "length": 4
+      },
+      {
+        "token": "hytta",
+        "signature": "ahty",
+        "length": 5
+      },
+      {
+        "token": "kravet",
+        "signature": "aekrtv",
+        "length": 6
+      },
+      {
+        "token": "løpe",
+        "signature": "eløp",
+        "length": 4
+      },
+      {
+        "token": "stoppe",
+        "signature": "eopst",
+        "length": 6
+      },
+      {
+        "token": "utenom",
+        "signature": "emnotu",
+        "length": 6
+      },
+      {
+        "token": "varmt",
+        "signature": "amrtv",
+        "length": 5
+      },
+      {
+        "token": "kalles",
+        "signature": "aekls",
+        "length": 6
+      },
+      {
+        "token": "loven",
+        "signature": "elnov",
+        "length": 5
+      },
+      {
+        "token": "lunsj",
+        "signature": "jlnsu",
+        "length": 5
+      },
+      {
+        "token": "syntes",
+        "signature": "ensty",
+        "length": 6
+      },
+      {
+        "token": "alvor",
+        "signature": "alorv",
+        "length": 5
+      },
+      {
+        "token": "perspektiv",
+        "signature": "eikprstv",
+        "length": 10
+      },
+      {
+        "token": "sentral",
+        "signature": "aelnrst",
+        "length": 7
+      },
+      {
+        "token": "egner",
+        "signature": "egnr",
+        "length": 5
+      },
+      {
+        "token": "kamper",
+        "signature": "aekmpr",
+        "length": 6
+      },
+      {
+        "token": "reduserer",
+        "signature": "dersu",
+        "length": 9
+      },
+      {
+        "token": "samarbeider",
+        "signature": "abdeimrs",
+        "length": 11
+      },
+      {
+        "token": "tegn",
+        "signature": "egnt",
+        "length": 4
+      },
+      {
+        "token": "fullstendig",
+        "signature": "defgilnstu",
+        "length": 11
+      },
+      {
+        "token": "grønnsaker",
+        "signature": "aegknørs",
+        "length": 10
+      },
+      {
+        "token": "integrert",
+        "signature": "eginrt",
+        "length": 9
+      },
+      {
+        "token": "kjørte",
+        "signature": "ejkørt",
+        "length": 6
+      },
+      {
+        "token": "konkret",
+        "signature": "eknort",
+        "length": 7
+      },
+      {
+        "token": "ovenfor",
+        "signature": "efnorv",
+        "length": 7
+      },
+      {
+        "token": "sannsynlig",
+        "signature": "agilnsy",
+        "length": 10
+      },
+      {
+        "token": "synlig",
+        "signature": "gilnsy",
+        "length": 6
+      },
+      {
+        "token": "vegne",
+        "signature": "egnv",
+        "length": 5
+      },
+      {
+        "token": "altfor",
+        "signature": "aflort",
+        "length": 6
+      },
+      {
+        "token": "eksamen",
+        "signature": "aekmns",
+        "length": 7
+      },
+      {
+        "token": "forholde",
+        "signature": "defhlor",
+        "length": 8
+      },
+      {
+        "token": "levende",
+        "signature": "delnv",
+        "length": 7
+      },
+      {
+        "token": "mamma",
+        "signature": "am",
+        "length": 5
+      },
+      {
+        "token": "ordningen",
+        "signature": "deginor",
+        "length": 9
+      },
+      {
+        "token": "viktigere",
+        "signature": "egikrtv",
+        "length": 9
+      },
+      {
+        "token": "forebygge",
+        "signature": "befgory",
+        "length": 9
+      },
+      {
+        "token": "frokost",
+        "signature": "fkorst",
+        "length": 7
+      },
+      {
+        "token": "perfekte",
+        "signature": "efkprt",
+        "length": 8
+      },
+      {
+        "token": "sammenlignet",
+        "signature": "aegilmnst",
+        "length": 12
+      },
+      {
+        "token": "stemme",
+        "signature": "emst",
+        "length": 6
+      },
+      {
+        "token": "tingene",
+        "signature": "egint",
+        "length": 7
+      },
+      {
+        "token": "utgifter",
+        "signature": "efgirtu",
+        "length": 8
+      },
+      {
+        "token": "arrangementer",
+        "signature": "aegmnrt",
+        "length": 13
+      },
+      {
+        "token": "avtaler",
+        "signature": "aelrtv",
+        "length": 7
+      },
+      {
+        "token": "båt",
+        "signature": "åbt",
+        "length": 3
+      },
+      {
+        "token": "forslaget",
+        "signature": "aefglorst",
+        "length": 9
+      },
+      {
+        "token": "gutter",
+        "signature": "egrtu",
+        "length": 6
+      },
+      {
+        "token": "hjertet",
+        "signature": "ehjrt",
+        "length": 7
+      },
+      {
+        "token": "håret",
+        "signature": "åehrt",
+        "length": 5
+      },
+      {
+        "token": "jakt",
+        "signature": "ajkt",
+        "length": 4
+      },
+      {
+        "token": "medisinsk",
+        "signature": "deikmns",
+        "length": 9
+      },
+      {
+        "token": "mengder",
+        "signature": "degmnr",
+        "length": 7
+      },
+      {
+        "token": "umiddelbart",
+        "signature": "abdeilmrtu",
+        "length": 11
+      },
+      {
+        "token": "hendelser",
+        "signature": "dehlnrs",
+        "length": 9
+      },
+      {
+        "token": "hunder",
+        "signature": "dehnru",
+        "length": 6
+      },
+      {
+        "token": "nord",
+        "signature": "dnor",
+        "length": 4
+      },
+      {
+        "token": "påpeker",
+        "signature": "åekpr",
+        "length": 7
+      },
+      {
+        "token": "satse",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "tekst",
+        "signature": "ekst",
+        "length": 5
+      },
+      {
+        "token": "behandler",
+        "signature": "abdehlnr",
+        "length": 9
+      },
+      {
+        "token": "høyeste",
+        "signature": "ehøsty",
+        "length": 7
+      },
+      {
+        "token": "moro",
+        "signature": "mor",
+        "length": 4
+      },
+      {
+        "token": "posisjon",
+        "signature": "ijnops",
+        "length": 8
+      },
+      {
+        "token": "produsere",
+        "signature": "deoprsu",
+        "length": 9
+      },
+      {
+        "token": "skiller",
+        "signature": "eiklrs",
+        "length": 7
+      },
+      {
+        "token": "verre",
+        "signature": "erv",
+        "length": 5
+      },
+      {
+        "token": "alvorlige",
+        "signature": "aegilorv",
+        "length": 9
+      },
+      {
+        "token": "dyktige",
+        "signature": "degikty",
+        "length": 7
+      },
+      {
+        "token": "grønne",
+        "signature": "egnør",
+        "length": 6
+      },
+      {
+        "token": "lek",
+        "signature": "ekl",
+        "length": 3
+      },
+      {
+        "token": "lyd",
+        "signature": "dly",
+        "length": 3
+      },
+      {
+        "token": "såkalt",
+        "signature": "aåklst",
+        "length": 6
+      },
+      {
+        "token": "beskytte",
+        "signature": "beksty",
+        "length": 8
+      },
+      {
+        "token": "ettermiddag",
+        "signature": "adegimrt",
+        "length": 11
+      },
+      {
+        "token": "oppgaven",
+        "signature": "aegnopv",
+        "length": 8
+      },
+      {
+        "token": "oftest",
+        "signature": "efost",
+        "length": 6
+      },
+      {
+        "token": "pakke",
+        "signature": "aekp",
+        "length": 5
+      },
+      {
+        "token": "politikere",
+        "signature": "eikloprt",
+        "length": 10
+      },
+      {
+        "token": "regner",
+        "signature": "egnr",
+        "length": 6
+      },
+      {
+        "token": "avslutter",
+        "signature": "aelrstuv",
+        "length": 9
+      },
+      {
+        "token": "hjemmet",
+        "signature": "ehjmt",
+        "length": 7
+      },
+      {
+        "token": "møtte",
+        "signature": "emøt",
+        "length": 5
+      },
+      {
+        "token": "planlegge",
+        "signature": "aeglnp",
+        "length": 9
+      },
+      {
+        "token": "planlegger",
+        "signature": "aeglnpr",
+        "length": 10
+      },
+      {
+        "token": "pårørende",
+        "signature": "ådenøpr",
+        "length": 9
+      },
+      {
+        "token": "arbeidsplasser",
+        "signature": "abdeilprs",
+        "length": 14
+      },
+      {
+        "token": "falt",
+        "signature": "aflt",
+        "length": 4
+      },
+      {
+        "token": "fotball",
+        "signature": "abflot",
+        "length": 7
+      }
+    ],
+    "advanced": [
+      {
+        "token": "flytting",
+        "signature": "fgilnty",
+        "length": 8
+      },
+      {
+        "token": "forpliktet",
+        "signature": "efikloprt",
+        "length": 10
+      },
+      {
+        "token": "forstås",
+        "signature": "åforst",
+        "length": 7
+      },
+      {
+        "token": "gjennomgå",
+        "signature": "åegjmno",
+        "length": 9
+      },
+      {
+        "token": "hundene",
+        "signature": "dehnu",
+        "length": 7
+      },
+      {
+        "token": "lederen",
+        "signature": "delnr",
+        "length": 7
+      },
+      {
+        "token": "lukt",
+        "signature": "kltu",
+        "length": 4
+      },
+      {
+        "token": "løser",
+        "signature": "elørs",
+        "length": 5
+      },
+      {
+        "token": "målgruppen",
+        "signature": "åeglmnpru",
+        "length": 10
+      },
+      {
+        "token": "nedre",
+        "signature": "denr",
+        "length": 5
+      },
+      {
+        "token": "næringsdrivende",
+        "signature": "ædeginrsv",
+        "length": 15
+      },
+      {
+        "token": "oppdager",
+        "signature": "adegopr",
+        "length": 8
+      },
+      {
+        "token": "prosessene",
+        "signature": "enoprs",
+        "length": 10
+      },
+      {
+        "token": "skummelt",
+        "signature": "eklmstu",
+        "length": 8
+      },
+      {
+        "token": "smil",
+        "signature": "ilms",
+        "length": 4
+      },
+      {
+        "token": "stikker",
+        "signature": "eikrst",
+        "length": 7
+      },
+      {
+        "token": "straff",
+        "signature": "afrst",
+        "length": 6
+      },
+      {
+        "token": "sykepleier",
+        "signature": "eiklprsy",
+        "length": 10
+      },
+      {
+        "token": "tapte",
+        "signature": "aept",
+        "length": 5
+      },
+      {
+        "token": "temperaturer",
+        "signature": "aemprtu",
+        "length": 12
+      },
+      {
+        "token": "tilhørighet",
+        "signature": "eghilørt",
+        "length": 11
+      },
+      {
+        "token": "tilpasser",
+        "signature": "aeilprst",
+        "length": 9
+      },
+      {
+        "token": "triks",
+        "signature": "ikrst",
+        "length": 5
+      },
+      {
+        "token": "uenig",
+        "signature": "eginu",
+        "length": 5
+      },
+      {
+        "token": "universell",
+        "signature": "eilnrsuv",
+        "length": 10
+      },
+      {
+        "token": "uttrykker",
+        "signature": "ekrtuy",
+        "length": 9
+      },
+      {
+        "token": "uventet",
+        "signature": "entuv",
+        "length": 7
+      },
+      {
+        "token": "videreutdanning",
+        "signature": "adeginrtuv",
+        "length": 15
+      },
+      {
+        "token": "balansert",
+        "signature": "abelnrst",
+        "length": 9
+      },
+      {
+        "token": "berører",
+        "signature": "beør",
+        "length": 7
+      },
+      {
+        "token": "bestillingen",
+        "signature": "begilnst",
+        "length": 12
+      },
+      {
+        "token": "blodet",
+        "signature": "bdelot",
+        "length": 6
+      },
+      {
+        "token": "eierskap",
+        "signature": "aeikprs",
+        "length": 8
+      },
+      {
+        "token": "enkleste",
+        "signature": "eklnst",
+        "length": 8
+      },
+      {
+        "token": "ethvert",
+        "signature": "ehrtv",
+        "length": 7
+      },
+      {
+        "token": "flyet",
+        "signature": "eflty",
+        "length": 5
+      },
+      {
+        "token": "forandret",
+        "signature": "adefnort",
+        "length": 9
+      },
+      {
+        "token": "forsterker",
+        "signature": "efkorst",
+        "length": 10
+      },
+      {
+        "token": "fylte",
+        "signature": "eflty",
+        "length": 5
+      },
+      {
+        "token": "følelsene",
+        "signature": "eflnøs",
+        "length": 9
+      },
+      {
+        "token": "helsen",
+        "signature": "ehlns",
+        "length": 6
+      },
+      {
+        "token": "helsetjenesten",
+        "signature": "ehjlnst",
+        "length": 14
+      },
+      {
+        "token": "kaken",
+        "signature": "aekn",
+        "length": 5
+      },
+      {
+        "token": "landbruket",
+        "signature": "abdeklnrtu",
+        "length": 10
+      },
+      {
+        "token": "latt",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "leverte",
+        "signature": "elrtv",
+        "length": 7
+      },
+      {
+        "token": "lyden",
+        "signature": "delny",
+        "length": 5
+      },
+      {
+        "token": "maritime",
+        "signature": "aeimrt",
+        "length": 8
+      },
+      {
+        "token": "musklene",
+        "signature": "eklmnsu",
+        "length": 8
+      },
+      {
+        "token": "opparbeidet",
+        "signature": "abdeioprt",
+        "length": 11
+      },
+      {
+        "token": "perspektiver",
+        "signature": "eikprstv",
+        "length": 12
+      },
+      {
+        "token": "poteter",
+        "signature": "eoprt",
+        "length": 7
+      },
+      {
+        "token": "prioriterer",
+        "signature": "eioprt",
+        "length": 11
+      },
+      {
+        "token": "problematisk",
+        "signature": "abeiklmoprst",
+        "length": 12
+      },
+      {
+        "token": "regulerer",
+        "signature": "eglru",
+        "length": 9
+      },
+      {
+        "token": "runden",
+        "signature": "denru",
+        "length": 6
+      }
+    ]
+  }
+}

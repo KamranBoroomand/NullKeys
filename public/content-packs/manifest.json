@@ -1,0 +1,1811 @@
+{
+  "version": "2026-03-17-public-corpus-v3",
+  "generatedAt": "2026-03-27T15:42:09.686Z",
+  "packs": [
+    {
+      "packId": "arabic:common-words:core",
+      "languageId": "arabic",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/arabic/common-words.core.json",
+      "sizeBytes": 71921,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "arabic:common-words:extended",
+      "languageId": "arabic",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/arabic/common-words.extended.json",
+      "sizeBytes": 149060,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "arabic:common-words:deep",
+      "languageId": "arabic",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/arabic/common-words.deep.json",
+      "sizeBytes": 797180,
+      "entryCount": 7799,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1784,
+        "advanced": 5399
+      }
+    },
+    {
+      "packId": "belarusian:common-words:core",
+      "languageId": "belarusian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/belarusian/common-words.core.json",
+      "sizeBytes": 75159,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "belarusian:common-words:extended",
+      "languageId": "belarusian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/belarusian/common-words.extended.json",
+      "sizeBytes": 158356,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "belarusian:common-words:deep",
+      "languageId": "belarusian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/belarusian/common-words.deep.json",
+      "sizeBytes": 858144,
+      "entryCount": 7840,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5438
+      }
+    },
+    {
+      "packId": "croatian:common-words:core",
+      "languageId": "croatian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/croatian/common-words.core.json",
+      "sizeBytes": 68163,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "croatian:common-words:extended",
+      "languageId": "croatian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/croatian/common-words.extended.json",
+      "sizeBytes": 141925,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "croatian:common-words:deep",
+      "languageId": "croatian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/croatian/common-words.deep.json",
+      "sizeBytes": 759775,
+      "entryCount": 7811,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5409
+      }
+    },
+    {
+      "packId": "czech:common-words:core",
+      "languageId": "czech",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/czech/common-words.core.json",
+      "sizeBytes": 68443,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "czech:common-words:extended",
+      "languageId": "czech",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/czech/common-words.extended.json",
+      "sizeBytes": 143080,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "czech:common-words:deep",
+      "languageId": "czech",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/czech/common-words.deep.json",
+      "sizeBytes": 770535,
+      "entryCount": 7822,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5420
+      }
+    },
+    {
+      "packId": "danish:common-words:core",
+      "languageId": "danish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/danish/common-words.core.json",
+      "sizeBytes": 68118,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "danish:common-words:extended",
+      "languageId": "danish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/danish/common-words.extended.json",
+      "sizeBytes": 142065,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "danish:common-words:deep",
+      "languageId": "danish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/danish/common-words.deep.json",
+      "sizeBytes": 762004,
+      "entryCount": 7809,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5407
+      }
+    },
+    {
+      "packId": "dutch:common-words:core",
+      "languageId": "dutch",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/dutch/common-words.core.json",
+      "sizeBytes": 67846,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "dutch:common-words:extended",
+      "languageId": "dutch",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/dutch/common-words.extended.json",
+      "sizeBytes": 142071,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "dutch:common-words:deep",
+      "languageId": "dutch",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/dutch/common-words.deep.json",
+      "sizeBytes": 761377,
+      "entryCount": 7812,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5410
+      }
+    },
+    {
+      "packId": "english:common-words:core",
+      "languageId": "english",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/common-words.core.json",
+      "sizeBytes": 68389,
+      "entryCount": 730,
+      "stageCounts": {
+        "foundational": 484,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "english:common-words:extended",
+      "languageId": "english",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/common-words.extended.json",
+      "sizeBytes": 140547,
+      "entryCount": 1478,
+      "stageCounts": {
+        "foundational": 313,
+        "developing": 625,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "english:common-words:deep",
+      "languageId": "english",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/common-words.deep.json",
+      "sizeBytes": 755848,
+      "entryCount": 7844,
+      "stageCounts": {
+        "foundational": 627,
+        "developing": 1788,
+        "advanced": 5429
+      }
+    },
+    {
+      "packId": "english:phrase-drills:core",
+      "languageId": "english",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/phrase-drills.core.json",
+      "sizeBytes": 19744,
+      "entryCount": 120
+    },
+    {
+      "packId": "english:phrase-drills:extended",
+      "languageId": "english",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/phrase-drills.extended.json",
+      "sizeBytes": 52658,
+      "entryCount": 320
+    },
+    {
+      "packId": "english:phrase-drills:deep",
+      "languageId": "english",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/phrase-drills.deep.json",
+      "sizeBytes": 3357623,
+      "entryCount": 16537
+    },
+    {
+      "packId": "english:quote-drills:core",
+      "languageId": "english",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/quote-drills.core.json",
+      "sizeBytes": 17921,
+      "entryCount": 96
+    },
+    {
+      "packId": "english:quote-drills:extended",
+      "languageId": "english",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/quote-drills.extended.json",
+      "sizeBytes": 50246,
+      "entryCount": 260
+    },
+    {
+      "packId": "english:quote-drills:deep",
+      "languageId": "english",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/english/quote-drills.deep.json",
+      "sizeBytes": 2296183,
+      "entryCount": 7910
+    },
+    {
+      "packId": "estonian:common-words:core",
+      "languageId": "estonian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/estonian/common-words.core.json",
+      "sizeBytes": 68283,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "estonian:common-words:extended",
+      "languageId": "estonian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/estonian/common-words.extended.json",
+      "sizeBytes": 140181,
+      "entryCount": 1453,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 605,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "estonian:common-words:deep",
+      "languageId": "estonian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/estonian/common-words.deep.json",
+      "sizeBytes": 734657,
+      "entryCount": 7512,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1724,
+        "advanced": 5172
+      }
+    },
+    {
+      "packId": "finnish:common-words:core",
+      "languageId": "finnish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/finnish/common-words.core.json",
+      "sizeBytes": 68475,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "finnish:common-words:extended",
+      "languageId": "finnish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/finnish/common-words.extended.json",
+      "sizeBytes": 141711,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "finnish:common-words:deep",
+      "languageId": "finnish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/finnish/common-words.deep.json",
+      "sizeBytes": 759091,
+      "entryCount": 7817,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5415
+      }
+    },
+    {
+      "packId": "french:common-words:core",
+      "languageId": "french",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/common-words.core.json",
+      "sizeBytes": 68240,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "french:common-words:extended",
+      "languageId": "french",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/common-words.extended.json",
+      "sizeBytes": 142436,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "french:common-words:deep",
+      "languageId": "french",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/common-words.deep.json",
+      "sizeBytes": 768418,
+      "entryCount": 7866,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5464
+      }
+    },
+    {
+      "packId": "french:phrase-drills:core",
+      "languageId": "french",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/phrase-drills.core.json",
+      "sizeBytes": 20182,
+      "entryCount": 120
+    },
+    {
+      "packId": "french:phrase-drills:extended",
+      "languageId": "french",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/phrase-drills.extended.json",
+      "sizeBytes": 56810,
+      "entryCount": 320
+    },
+    {
+      "packId": "french:phrase-drills:deep",
+      "languageId": "french",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/phrase-drills.deep.json",
+      "sizeBytes": 580975,
+      "entryCount": 2744
+    },
+    {
+      "packId": "french:quote-drills:core",
+      "languageId": "french",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/quote-drills.core.json",
+      "sizeBytes": 18717,
+      "entryCount": 96
+    },
+    {
+      "packId": "french:quote-drills:extended",
+      "languageId": "french",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/quote-drills.extended.json",
+      "sizeBytes": 54063,
+      "entryCount": 260
+    },
+    {
+      "packId": "french:quote-drills:deep",
+      "languageId": "french",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/french/quote-drills.deep.json",
+      "sizeBytes": 288478,
+      "entryCount": 1031
+    },
+    {
+      "packId": "german:common-words:core",
+      "languageId": "german",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/common-words.core.json",
+      "sizeBytes": 68146,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "german:common-words:extended",
+      "languageId": "german",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/common-words.extended.json",
+      "sizeBytes": 142507,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "german:common-words:deep",
+      "languageId": "german",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/common-words.deep.json",
+      "sizeBytes": 770009,
+      "entryCount": 7840,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5438
+      }
+    },
+    {
+      "packId": "german:phrase-drills:core",
+      "languageId": "german",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/phrase-drills.core.json",
+      "sizeBytes": 20182,
+      "entryCount": 120
+    },
+    {
+      "packId": "german:phrase-drills:extended",
+      "languageId": "german",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/phrase-drills.extended.json",
+      "sizeBytes": 55827,
+      "entryCount": 320
+    },
+    {
+      "packId": "german:phrase-drills:deep",
+      "languageId": "german",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/phrase-drills.deep.json",
+      "sizeBytes": 645558,
+      "entryCount": 3125
+    },
+    {
+      "packId": "german:quote-drills:core",
+      "languageId": "german",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/quote-drills.core.json",
+      "sizeBytes": 18496,
+      "entryCount": 96
+    },
+    {
+      "packId": "german:quote-drills:extended",
+      "languageId": "german",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/quote-drills.extended.json",
+      "sizeBytes": 53611,
+      "entryCount": 260
+    },
+    {
+      "packId": "german:quote-drills:deep",
+      "languageId": "german",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/german/quote-drills.deep.json",
+      "sizeBytes": 266837,
+      "entryCount": 923
+    },
+    {
+      "packId": "greek:common-words:core",
+      "languageId": "greek",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/greek/common-words.core.json",
+      "sizeBytes": 76267,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "greek:common-words:extended",
+      "languageId": "greek",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/greek/common-words.extended.json",
+      "sizeBytes": 161784,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "greek:common-words:deep",
+      "languageId": "greek",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/greek/common-words.deep.json",
+      "sizeBytes": 877871,
+      "entryCount": 7822,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5420
+      }
+    },
+    {
+      "packId": "hebrew:common-words:core",
+      "languageId": "hebrew",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hebrew/common-words.core.json",
+      "sizeBytes": 23517,
+      "entryCount": 230,
+      "stageCounts": {
+        "foundational": 143,
+        "developing": 62,
+        "advanced": 25
+      }
+    },
+    {
+      "packId": "hebrew:common-words:extended",
+      "languageId": "hebrew",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hebrew/common-words.extended.json",
+      "sizeBytes": 34016,
+      "entryCount": 342,
+      "stageCounts": {
+        "foundational": 120,
+        "developing": 134,
+        "advanced": 88
+      }
+    },
+    {
+      "packId": "hebrew:common-words:deep",
+      "languageId": "hebrew",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hebrew/common-words.deep.json",
+      "sizeBytes": 105284,
+      "entryCount": 1040,
+      "stageCounts": {
+        "foundational": 157,
+        "developing": 364,
+        "advanced": 519
+      }
+    },
+    {
+      "packId": "hindi:common-words:core",
+      "languageId": "hindi",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hindi/common-words.core.json",
+      "sizeBytes": 13132,
+      "entryCount": 114,
+      "stageCounts": {
+        "foundational": 41,
+        "developing": 36,
+        "advanced": 37
+      }
+    },
+    {
+      "packId": "hungarian:common-words:core",
+      "languageId": "hungarian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hungarian/common-words.core.json",
+      "sizeBytes": 68920,
+      "entryCount": 717,
+      "stageCounts": {
+        "foundational": 471,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "hungarian:common-words:extended",
+      "languageId": "hungarian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hungarian/common-words.extended.json",
+      "sizeBytes": 136194,
+      "entryCount": 1386,
+      "stageCounts": {
+        "foundational": 305,
+        "developing": 541,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "hungarian:common-words:deep",
+      "languageId": "hungarian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/hungarian/common-words.deep.json",
+      "sizeBytes": 650405,
+      "entryCount": 6562,
+      "stageCounts": {
+        "foundational": 610,
+        "developing": 1522,
+        "advanced": 4430
+      }
+    },
+    {
+      "packId": "indonesian:common-words:core",
+      "languageId": "indonesian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/indonesian/common-words.core.json",
+      "sizeBytes": 10083,
+      "entryCount": 104,
+      "stageCounts": {
+        "foundational": 37,
+        "developing": 33,
+        "advanced": 34
+      }
+    },
+    {
+      "packId": "italian:common-words:core",
+      "languageId": "italian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/italian/common-words.core.json",
+      "sizeBytes": 68199,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "italian:common-words:extended",
+      "languageId": "italian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/italian/common-words.extended.json",
+      "sizeBytes": 141845,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "italian:common-words:deep",
+      "languageId": "italian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/italian/common-words.deep.json",
+      "sizeBytes": 759503,
+      "entryCount": 7804,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1785,
+        "advanced": 5403
+      }
+    },
+    {
+      "packId": "japanese:common-words:core",
+      "languageId": "japanese",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/japanese/common-words.core.json",
+      "sizeBytes": 74446,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "japanese:common-words:extended",
+      "languageId": "japanese",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/japanese/common-words.extended.json",
+      "sizeBytes": 155168,
+      "entryCount": 1468,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 620,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "japanese:common-words:deep",
+      "languageId": "japanese",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/japanese/common-words.deep.json",
+      "sizeBytes": 829315,
+      "entryCount": 7748,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1774,
+        "advanced": 5358
+      }
+    },
+    {
+      "packId": "japanese:phrase-drills:core",
+      "languageId": "japanese",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/japanese/phrase-drills.core.json",
+      "sizeBytes": 3516,
+      "entryCount": 12
+    },
+    {
+      "packId": "japanese:quote-drills:core",
+      "languageId": "japanese",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/japanese/quote-drills.core.json",
+      "sizeBytes": 4855,
+      "entryCount": 12
+    },
+    {
+      "packId": "latvian:common-words:core",
+      "languageId": "latvian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/latvian/common-words.core.json",
+      "sizeBytes": 70080,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "latvian:common-words:extended",
+      "languageId": "latvian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/latvian/common-words.extended.json",
+      "sizeBytes": 145164,
+      "entryCount": 1471,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 623,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "latvian:common-words:deep",
+      "languageId": "latvian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/latvian/common-words.deep.json",
+      "sizeBytes": 774388,
+      "entryCount": 7796,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1784,
+        "advanced": 5396
+      }
+    },
+    {
+      "packId": "lithuanian:common-words:core",
+      "languageId": "lithuanian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/lithuanian/common-words.core.json",
+      "sizeBytes": 68505,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "lithuanian:common-words:extended",
+      "languageId": "lithuanian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/lithuanian/common-words.extended.json",
+      "sizeBytes": 142359,
+      "entryCount": 1471,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 623,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "lithuanian:common-words:deep",
+      "languageId": "lithuanian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/lithuanian/common-words.deep.json",
+      "sizeBytes": 759676,
+      "entryCount": 7797,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1784,
+        "advanced": 5397
+      }
+    },
+    {
+      "packId": "norwegian:common-words:core",
+      "languageId": "norwegian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian/common-words.core.json",
+      "sizeBytes": 68344,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "norwegian:common-words:extended",
+      "languageId": "norwegian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian/common-words.extended.json",
+      "sizeBytes": 142553,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "norwegian:common-words:deep",
+      "languageId": "norwegian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian/common-words.deep.json",
+      "sizeBytes": 763906,
+      "entryCount": 7813,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5411
+      }
+    },
+    {
+      "packId": "norwegian-bokmal:common-words:core",
+      "languageId": "norwegian-bokmal",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian-bokmal/common-words.core.json",
+      "sizeBytes": 68358,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "norwegian-bokmal:common-words:extended",
+      "languageId": "norwegian-bokmal",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian-bokmal/common-words.extended.json",
+      "sizeBytes": 142567,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "norwegian-bokmal:common-words:deep",
+      "languageId": "norwegian-bokmal",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/norwegian-bokmal/common-words.deep.json",
+      "sizeBytes": 763920,
+      "entryCount": 7813,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5411
+      }
+    },
+    {
+      "packId": "persian:common-words:core",
+      "languageId": "persian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/common-words.core.json",
+      "sizeBytes": 72714,
+      "entryCount": 729,
+      "stageCounts": {
+        "foundational": 483,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "persian:common-words:extended",
+      "languageId": "persian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/common-words.extended.json",
+      "sizeBytes": 148297,
+      "entryCount": 1473,
+      "stageCounts": {
+        "foundational": 313,
+        "developing": 620,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "persian:common-words:deep",
+      "languageId": "persian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/common-words.deep.json",
+      "sizeBytes": 784332,
+      "entryCount": 7688,
+      "stageCounts": {
+        "foundational": 625,
+        "developing": 1772,
+        "advanced": 5291
+      }
+    },
+    {
+      "packId": "persian:phrase-drills:core",
+      "languageId": "persian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/phrase-drills.core.json",
+      "sizeBytes": 27641,
+      "entryCount": 120
+    },
+    {
+      "packId": "persian:phrase-drills:extended",
+      "languageId": "persian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/phrase-drills.extended.json",
+      "sizeBytes": 68842,
+      "entryCount": 283
+    },
+    {
+      "packId": "persian:phrase-drills:deep",
+      "languageId": "persian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/phrase-drills.deep.json",
+      "sizeBytes": 159476,
+      "entryCount": 608
+    },
+    {
+      "packId": "persian:quote-drills:core",
+      "languageId": "persian",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/quote-drills.core.json",
+      "sizeBytes": 36566,
+      "entryCount": 94
+    },
+    {
+      "packId": "persian:quote-drills:extended",
+      "languageId": "persian",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/quote-drills.extended.json",
+      "sizeBytes": 53032,
+      "entryCount": 129
+    },
+    {
+      "packId": "persian:quote-drills:deep",
+      "languageId": "persian",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/persian/quote-drills.deep.json",
+      "sizeBytes": 155248,
+      "entryCount": 365
+    },
+    {
+      "packId": "polish:common-words:core",
+      "languageId": "polish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/polish/common-words.core.json",
+      "sizeBytes": 68866,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "polish:common-words:extended",
+      "languageId": "polish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/polish/common-words.extended.json",
+      "sizeBytes": 143852,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "polish:common-words:deep",
+      "languageId": "polish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/polish/common-words.deep.json",
+      "sizeBytes": 768944,
+      "entryCount": 7817,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5415
+      }
+    },
+    {
+      "packId": "portuguese:common-words:core",
+      "languageId": "portuguese",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/portuguese/common-words.core.json",
+      "sizeBytes": 67968,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "portuguese:common-words:extended",
+      "languageId": "portuguese",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/portuguese/common-words.extended.json",
+      "sizeBytes": 141917,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "portuguese:common-words:deep",
+      "languageId": "portuguese",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/portuguese/common-words.deep.json",
+      "sizeBytes": 760066,
+      "entryCount": 7803,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1785,
+        "advanced": 5402
+      }
+    },
+    {
+      "packId": "romanian:common-words:core",
+      "languageId": "romanian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/romanian/common-words.core.json",
+      "sizeBytes": 68022,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "romanian:common-words:extended",
+      "languageId": "romanian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/romanian/common-words.extended.json",
+      "sizeBytes": 141948,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "romanian:common-words:deep",
+      "languageId": "romanian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/romanian/common-words.deep.json",
+      "sizeBytes": 759932,
+      "entryCount": 7815,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5413
+      }
+    },
+    {
+      "packId": "russian:common-words:core",
+      "languageId": "russian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/common-words.core.json",
+      "sizeBytes": 78432,
+      "entryCount": 725,
+      "stageCounts": {
+        "foundational": 479,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "russian:common-words:extended",
+      "languageId": "russian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/common-words.extended.json",
+      "sizeBytes": 165404,
+      "entryCount": 1474,
+      "stageCounts": {
+        "foundational": 310,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "russian:common-words:deep",
+      "languageId": "russian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/common-words.deep.json",
+      "sizeBytes": 890979,
+      "entryCount": 7800,
+      "stageCounts": {
+        "foundational": 619,
+        "developing": 1784,
+        "advanced": 5397
+      }
+    },
+    {
+      "packId": "russian:phrase-drills:core",
+      "languageId": "russian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/phrase-drills.core.json",
+      "sizeBytes": 31113,
+      "entryCount": 120
+    },
+    {
+      "packId": "russian:phrase-drills:extended",
+      "languageId": "russian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/phrase-drills.extended.json",
+      "sizeBytes": 68418,
+      "entryCount": 260
+    },
+    {
+      "packId": "russian:phrase-drills:deep",
+      "languageId": "russian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/phrase-drills.deep.json",
+      "sizeBytes": 148847,
+      "entryCount": 550
+    },
+    {
+      "packId": "russian:quote-drills:core",
+      "languageId": "russian",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/quote-drills.core.json",
+      "sizeBytes": 25740,
+      "entryCount": 61
+    },
+    {
+      "packId": "russian:quote-drills:extended",
+      "languageId": "russian",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/quote-drills.extended.json",
+      "sizeBytes": 36579,
+      "entryCount": 84
+    },
+    {
+      "packId": "russian:quote-drills:deep",
+      "languageId": "russian",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/russian/quote-drills.deep.json",
+      "sizeBytes": 108839,
+      "entryCount": 237
+    },
+    {
+      "packId": "slovenian:common-words:core",
+      "languageId": "slovenian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/slovenian/common-words.core.json",
+      "sizeBytes": 27078,
+      "entryCount": 286,
+      "stageCounts": {
+        "foundational": 151,
+        "developing": 79,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "slovenian:common-words:extended",
+      "languageId": "slovenian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/slovenian/common-words.extended.json",
+      "sizeBytes": 49765,
+      "entryCount": 518,
+      "stageCounts": {
+        "foundational": 120,
+        "developing": 173,
+        "advanced": 225
+      }
+    },
+    {
+      "packId": "slovenian:common-words:deep",
+      "languageId": "slovenian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/slovenian/common-words.deep.json",
+      "sizeBytes": 191335,
+      "entryCount": 1969,
+      "stageCounts": {
+        "foundational": 173,
+        "developing": 469,
+        "advanced": 1327
+      }
+    },
+    {
+      "packId": "spanish:common-words:core",
+      "languageId": "spanish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/common-words.core.json",
+      "sizeBytes": 68132,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "spanish:common-words:extended",
+      "languageId": "spanish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/common-words.extended.json",
+      "sizeBytes": 142180,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "spanish:common-words:deep",
+      "languageId": "spanish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/common-words.deep.json",
+      "sizeBytes": 762471,
+      "entryCount": 7819,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5417
+      }
+    },
+    {
+      "packId": "spanish:phrase-drills:core",
+      "languageId": "spanish",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/phrase-drills.core.json",
+      "sizeBytes": 20000,
+      "entryCount": 120
+    },
+    {
+      "packId": "spanish:phrase-drills:extended",
+      "languageId": "spanish",
+      "contentFamilyId": "phrase-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/phrase-drills.extended.json",
+      "sizeBytes": 55053,
+      "entryCount": 320
+    },
+    {
+      "packId": "spanish:phrase-drills:deep",
+      "languageId": "spanish",
+      "contentFamilyId": "phrase-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/phrase-drills.deep.json",
+      "sizeBytes": 1147949,
+      "entryCount": 5508
+    },
+    {
+      "packId": "spanish:quote-drills:core",
+      "languageId": "spanish",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/quote-drills.core.json",
+      "sizeBytes": 18195,
+      "entryCount": 96
+    },
+    {
+      "packId": "spanish:quote-drills:extended",
+      "languageId": "spanish",
+      "contentFamilyId": "quote-drills",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/quote-drills.extended.json",
+      "sizeBytes": 51137,
+      "entryCount": 260
+    },
+    {
+      "packId": "spanish:quote-drills:deep",
+      "languageId": "spanish",
+      "contentFamilyId": "quote-drills",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/spanish/quote-drills.deep.json",
+      "sizeBytes": 635678,
+      "entryCount": 2408
+    },
+    {
+      "packId": "swedish:common-words:core",
+      "languageId": "swedish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/swedish/common-words.core.json",
+      "sizeBytes": 67877,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "swedish:common-words:extended",
+      "languageId": "swedish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/swedish/common-words.extended.json",
+      "sizeBytes": 141457,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "swedish:common-words:deep",
+      "languageId": "swedish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/swedish/common-words.deep.json",
+      "sizeBytes": 761368,
+      "entryCount": 7814,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5412
+      }
+    },
+    {
+      "packId": "thai:common-words:core",
+      "languageId": "thai",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/thai/common-words.core.json",
+      "sizeBytes": 51310,
+      "entryCount": 466,
+      "stageCounts": {
+        "foundational": 269,
+        "developing": 141,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "thai:common-words:extended",
+      "languageId": "thai",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/thai/common-words.extended.json",
+      "sizeBytes": 100408,
+      "entryCount": 883,
+      "stageCounts": {
+        "foundational": 174,
+        "developing": 308,
+        "advanced": 401
+      }
+    },
+    {
+      "packId": "thai:common-words:deep",
+      "languageId": "thai",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/thai/common-words.deep.json",
+      "sizeBytes": 412069,
+      "entryCount": 3586,
+      "stageCounts": {
+        "foundational": 347,
+        "developing": 834,
+        "advanced": 2405
+      }
+    },
+    {
+      "packId": "turkish:common-words:core",
+      "languageId": "turkish",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/turkish/common-words.core.json",
+      "sizeBytes": 68854,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "turkish:common-words:extended",
+      "languageId": "turkish",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/turkish/common-words.extended.json",
+      "sizeBytes": 136700,
+      "entryCount": 1404,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 556,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "turkish:common-words:deep",
+      "languageId": "turkish",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/turkish/common-words.deep.json",
+      "sizeBytes": 664821,
+      "entryCount": 6779,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1569,
+        "advanced": 4594
+      }
+    },
+    {
+      "packId": "ukrainian:common-words:core",
+      "languageId": "ukrainian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/ukrainian/common-words.core.json",
+      "sizeBytes": 74803,
+      "entryCount": 722,
+      "stageCounts": {
+        "foundational": 476,
+        "developing": 190,
+        "advanced": 56
+      }
+    },
+    {
+      "packId": "ukrainian:common-words:extended",
+      "languageId": "ukrainian",
+      "contentFamilyId": "common-words",
+      "tier": "extended",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/ukrainian/common-words.extended.json",
+      "sizeBytes": 158423,
+      "entryCount": 1472,
+      "stageCounts": {
+        "foundational": 308,
+        "developing": 624,
+        "advanced": 540
+      }
+    },
+    {
+      "packId": "ukrainian:common-words:deep",
+      "languageId": "ukrainian",
+      "contentFamilyId": "common-words",
+      "tier": "deep",
+      "version": "2026-03-17-public-corpus-v3",
+      "path": "/content-packs/packs/ukrainian/common-words.deep.json",
+      "sizeBytes": 864785,
+      "entryCount": 7808,
+      "stageCounts": {
+        "foundational": 616,
+        "developing": 1786,
+        "advanced": 5406
+      }
+    }
+  ]
+}

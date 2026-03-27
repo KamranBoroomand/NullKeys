@@ -1,0 +1,3666 @@
+{
+  "packId": "english:common-words:core",
+  "languageId": "english",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 730,
+  "stages": {
+    "foundational": [
+      {
+        "token": "air",
+        "signature": "air",
+        "length": 3
+      },
+      {
+        "token": "area",
+        "signature": "aer",
+        "length": 4
+      },
+      {
+        "token": "arise",
+        "signature": "aeirs",
+        "length": 5
+      },
+      {
+        "token": "artist",
+        "signature": "airst",
+        "length": 6
+      },
+      {
+        "token": "assist",
+        "signature": "aist",
+        "length": 6
+      },
+      {
+        "token": "east",
+        "signature": "aest",
+        "length": 4
+      },
+      {
+        "token": "enter",
+        "signature": "enrt",
+        "length": 5
+      },
+      {
+        "token": "entire",
+        "signature": "einrt",
+        "length": 6
+      },
+      {
+        "token": "learn",
+        "signature": "aelnr",
+        "length": 5
+      },
+      {
+        "token": "learner",
+        "signature": "aelnr",
+        "length": 7
+      },
+      {
+        "token": "letter",
+        "signature": "elrt",
+        "length": 6
+      },
+      {
+        "token": "linear",
+        "signature": "aeilnr",
+        "length": 6
+      },
+      {
+        "token": "listen",
+        "signature": "eilnst",
+        "length": 6
+      },
+      {
+        "token": "near",
+        "signature": "aenr",
+        "length": 4
+      },
+      {
+        "token": "real",
+        "signature": "aelr",
+        "length": 4
+      },
+      {
+        "token": "reason",
+        "signature": "aenors",
+        "length": 6
+      },
+      {
+        "token": "reset",
+        "signature": "erst",
+        "length": 5
+      },
+      {
+        "token": "retain",
+        "signature": "aeinrt",
+        "length": 6
+      },
+      {
+        "token": "sailor",
+        "signature": "ailors",
+        "length": 6
+      },
+      {
+        "token": "salt",
+        "signature": "alst",
+        "length": 4
+      },
+      {
+        "token": "seat",
+        "signature": "aest",
+        "length": 4
+      },
+      {
+        "token": "sister",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "star",
+        "signature": "arst",
+        "length": 4
+      },
+      {
+        "token": "start",
+        "signature": "arst",
+        "length": 5
+      },
+      {
+        "token": "state",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "still",
+        "signature": "ilst",
+        "length": 5
+      },
+      {
+        "token": "street",
+        "signature": "erst",
+        "length": 6
+      },
+      {
+        "token": "tailor",
+        "signature": "ailort",
+        "length": 6
+      },
+      {
+        "token": "talent",
+        "signature": "aelnt",
+        "length": 6
+      },
+      {
+        "token": "train",
+        "signature": "ainrt",
+        "length": 5
+      },
+      {
+        "token": "trail",
+        "signature": "ailrt",
+        "length": 5
+      },
+      {
+        "token": "tree",
+        "signature": "ert",
+        "length": 4
+      },
+      {
+        "token": "clear",
+        "signature": "acelr",
+        "length": 5
+      },
+      {
+        "token": "calm",
+        "signature": "aclm",
+        "length": 4
+      },
+      {
+        "token": "close",
+        "signature": "celos",
+        "length": 5
+      },
+      {
+        "token": "direct",
+        "signature": "cdeirt",
+        "length": 6
+      },
+      {
+        "token": "easier",
+        "signature": "aeirs",
+        "length": 6
+      },
+      {
+        "token": "listenable",
+        "signature": "abeilnst",
+        "length": 10
+      },
+      {
+        "token": "read",
+        "signature": "ader",
+        "length": 4
+      },
+      {
+        "token": "reader",
+        "signature": "ader",
+        "length": 6
+      },
+      {
+        "token": "steady",
+        "signature": "adesty",
+        "length": 6
+      },
+      {
+        "token": "settle",
+        "signature": "elst",
+        "length": 6
+      },
+      {
+        "token": "simple",
+        "signature": "eilmps",
+        "length": 6
+      },
+      {
+        "token": "sound",
+        "signature": "dnosu",
+        "length": 5
+      },
+      {
+        "token": "startle",
+        "signature": "aelrst",
+        "length": 7
+      },
+      {
+        "token": "stillness",
+        "signature": "eilnst",
+        "length": 9
+      },
+      {
+        "token": "the",
+        "signature": "eht",
+        "length": 3
+      },
+      {
+        "token": "to",
+        "signature": "ot",
+        "length": 2
+      },
+      {
+        "token": "and",
+        "signature": "adn",
+        "length": 3
+      },
+      {
+        "token": "of",
+        "signature": "fo",
+        "length": 2
+      },
+      {
+        "token": "he",
+        "signature": "eh",
+        "length": 2
+      },
+      {
+        "token": "was",
+        "signature": "asw",
+        "length": 3
+      },
+      {
+        "token": "you",
+        "signature": "ouy",
+        "length": 3
+      },
+      {
+        "token": "her",
+        "signature": "ehr",
+        "length": 3
+      },
+      {
+        "token": "not",
+        "signature": "not",
+        "length": 3
+      },
+      {
+        "token": "it",
+        "signature": "it",
+        "length": 2
+      },
+      {
+        "token": "in",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "she",
+        "signature": "ehs",
+        "length": 3
+      },
+      {
+        "token": "his",
+        "signature": "his",
+        "length": 3
+      },
+      {
+        "token": "that",
+        "signature": "aht",
+        "length": 4
+      },
+      {
+        "token": "is",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "my",
+        "signature": "my",
+        "length": 2
+      },
+      {
+        "token": "with",
+        "signature": "hitw",
+        "length": 4
+      },
+      {
+        "token": "me",
+        "signature": "em",
+        "length": 2
+      },
+      {
+        "token": "had",
+        "signature": "adh",
+        "length": 3
+      },
+      {
+        "token": "on",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "as",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "for",
+        "signature": "for",
+        "length": 3
+      },
+      {
+        "token": "but",
+        "signature": "btu",
+        "length": 3
+      },
+      {
+        "token": "at",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "him",
+        "signature": "him",
+        "length": 3
+      },
+      {
+        "token": "have",
+        "signature": "aehv",
+        "length": 4
+      },
+      {
+        "token": "do",
+        "signature": "do",
+        "length": 2
+      },
+      {
+        "token": "be",
+        "signature": "be",
+        "length": 2
+      },
+      {
+        "token": "what",
+        "signature": "ahtw",
+        "length": 4
+      },
+      {
+        "token": "would",
+        "signature": "dlouw",
+        "length": 5
+      },
+      {
+        "token": "out",
+        "signature": "otu",
+        "length": 3
+      },
+      {
+        "token": "said",
+        "signature": "adis",
+        "length": 4
+      },
+      {
+        "token": "up",
+        "signature": "pu",
+        "length": 2
+      },
+      {
+        "token": "they",
+        "signature": "ehty",
+        "length": 4
+      },
+      {
+        "token": "we",
+        "signature": "ew",
+        "length": 2
+      },
+      {
+        "token": "this",
+        "signature": "hist",
+        "length": 4
+      },
+      {
+        "token": "from",
+        "signature": "fmor",
+        "length": 4
+      },
+      {
+        "token": "did",
+        "signature": "di",
+        "length": 3
+      },
+      {
+        "token": "are",
+        "signature": "aer",
+        "length": 3
+      },
+      {
+        "token": "so",
+        "signature": "os",
+        "length": 2
+      },
+      {
+        "token": "could",
+        "signature": "cdlou",
+        "length": 5
+      },
+      {
+        "token": "were",
+        "signature": "erw",
+        "length": 4
+      },
+      {
+        "token": "all",
+        "signature": "al",
+        "length": 3
+      },
+      {
+        "token": "if",
+        "signature": "fi",
+        "length": 2
+      },
+      {
+        "token": "back",
+        "signature": "abck",
+        "length": 4
+      },
+      {
+        "token": "like",
+        "signature": "eikl",
+        "length": 4
+      },
+      {
+        "token": "one",
+        "signature": "eno",
+        "length": 3
+      },
+      {
+        "token": "there",
+        "signature": "ehrt",
+        "length": 5
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "into",
+        "signature": "inot",
+        "length": 4
+      },
+      {
+        "token": "will",
+        "signature": "ilw",
+        "length": 4
+      },
+      {
+        "token": "just",
+        "signature": "jstu",
+        "length": 4
+      },
+      {
+        "token": "when",
+        "signature": "ehnw",
+        "length": 4
+      },
+      {
+        "token": "about",
+        "signature": "abotu",
+        "length": 5
+      },
+      {
+        "token": "then",
+        "signature": "ehnt",
+        "length": 4
+      },
+      {
+        "token": "them",
+        "signature": "ehmt",
+        "length": 4
+      },
+      {
+        "token": "know",
+        "signature": "know",
+        "length": 4
+      },
+      {
+        "token": "been",
+        "signature": "ben",
+        "length": 4
+      },
+      {
+        "token": "am",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "your",
+        "signature": "oruy",
+        "length": 4
+      },
+      {
+        "token": "over",
+        "signature": "eorv",
+        "length": 4
+      },
+      {
+        "token": "down",
+        "signature": "dnow",
+        "length": 4
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "or",
+        "signature": "or",
+        "length": 2
+      },
+      {
+        "token": "time",
+        "signature": "eimt",
+        "length": 4
+      },
+      {
+        "token": "now",
+        "signature": "now",
+        "length": 3
+      },
+      {
+        "token": "eyes",
+        "signature": "esy",
+        "length": 4
+      },
+      {
+        "token": "by",
+        "signature": "by",
+        "length": 2
+      },
+      {
+        "token": "more",
+        "signature": "emor",
+        "length": 4
+      },
+      {
+        "token": "get",
+        "signature": "egt",
+        "length": 3
+      },
+      {
+        "token": "how",
+        "signature": "how",
+        "length": 3
+      },
+      {
+        "token": "can",
+        "signature": "acn",
+        "length": 3
+      },
+      {
+        "token": "who",
+        "signature": "how",
+        "length": 3
+      },
+      {
+        "token": "their",
+        "signature": "ehirt",
+        "length": 5
+      },
+      {
+        "token": "before",
+        "signature": "befor",
+        "length": 6
+      },
+      {
+        "token": "around",
+        "signature": "adnoru",
+        "length": 6
+      },
+      {
+        "token": "way",
+        "signature": "awy",
+        "length": 3
+      },
+      {
+        "token": "even",
+        "signature": "env",
+        "length": 4
+      },
+      {
+        "token": "going",
+        "signature": "gino",
+        "length": 5
+      },
+      {
+        "token": "head",
+        "signature": "adeh",
+        "length": 4
+      },
+      {
+        "token": "see",
+        "signature": "es",
+        "length": 3
+      },
+      {
+        "token": "us",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "here",
+        "signature": "ehr",
+        "length": 4
+      },
+      {
+        "token": "right",
+        "signature": "ghirt",
+        "length": 5
+      },
+      {
+        "token": "off",
+        "signature": "fo",
+        "length": 3
+      },
+      {
+        "token": "only",
+        "signature": "lnoy",
+        "length": 4
+      },
+      {
+        "token": "want",
+        "signature": "antw",
+        "length": 4
+      },
+      {
+        "token": "through",
+        "signature": "ghortu",
+        "length": 7
+      },
+      {
+        "token": "looked",
+        "signature": "deklo",
+        "length": 6
+      },
+      {
+        "token": "hand",
+        "signature": "adhn",
+        "length": 4
+      },
+      {
+        "token": "go",
+        "signature": "go",
+        "length": 2
+      },
+      {
+        "token": "think",
+        "signature": "hiknt",
+        "length": 5
+      },
+      {
+        "token": "some",
+        "signature": "emos",
+        "length": 4
+      },
+      {
+        "token": "again",
+        "signature": "agin",
+        "length": 5
+      },
+      {
+        "token": "too",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "away",
+        "signature": "awy",
+        "length": 4
+      },
+      {
+        "token": "something",
+        "signature": "eghimnost",
+        "length": 9
+      },
+      {
+        "token": "than",
+        "signature": "ahnt",
+        "length": 4
+      },
+      {
+        "token": "face",
+        "signature": "acef",
+        "length": 4
+      },
+      {
+        "token": "other",
+        "signature": "ehort",
+        "length": 5
+      },
+      {
+        "token": "never",
+        "signature": "enrv",
+        "length": 5
+      },
+      {
+        "token": "after",
+        "signature": "aefrt",
+        "length": 5
+      },
+      {
+        "token": "asked",
+        "signature": "adeks",
+        "length": 5
+      },
+      {
+        "token": "thought",
+        "signature": "ghotu",
+        "length": 7
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "good",
+        "signature": "dgo",
+        "length": 4
+      },
+      {
+        "token": "well",
+        "signature": "elw",
+        "length": 4
+      },
+      {
+        "token": "two",
+        "signature": "otw",
+        "length": 3
+      },
+      {
+        "token": "where",
+        "signature": "ehrw",
+        "length": 5
+      },
+      {
+        "token": "let",
+        "signature": "elt",
+        "length": 3
+      },
+      {
+        "token": "look",
+        "signature": "klo",
+        "length": 4
+      },
+      {
+        "token": "made",
+        "signature": "adem",
+        "length": 4
+      },
+      {
+        "token": "much",
+        "signature": "chmu",
+        "length": 4
+      },
+      {
+        "token": "why",
+        "signature": "hwy",
+        "length": 3
+      },
+      {
+        "token": "because",
+        "signature": "abcesu",
+        "length": 7
+      },
+      {
+        "token": "knew",
+        "signature": "eknw",
+        "length": 4
+      },
+      {
+        "token": "got",
+        "signature": "got",
+        "length": 3
+      },
+      {
+        "token": "little",
+        "signature": "eilt",
+        "length": 6
+      },
+      {
+        "token": "door",
+        "signature": "dor",
+        "length": 4
+      },
+      {
+        "token": "our",
+        "signature": "oru",
+        "length": 3
+      },
+      {
+        "token": "any",
+        "signature": "any",
+        "length": 3
+      },
+      {
+        "token": "room",
+        "signature": "mor",
+        "length": 4
+      },
+      {
+        "token": "come",
+        "signature": "cemo",
+        "length": 4
+      },
+      {
+        "token": "make",
+        "signature": "aekm",
+        "length": 4
+      },
+      {
+        "token": "take",
+        "signature": "aekt",
+        "length": 4
+      },
+      {
+        "token": "long",
+        "signature": "glno",
+        "length": 4
+      },
+      {
+        "token": "first",
+        "signature": "first",
+        "length": 5
+      },
+      {
+        "token": "say",
+        "signature": "asy",
+        "length": 3
+      },
+      {
+        "token": "its",
+        "signature": "ist",
+        "length": 3
+      },
+      {
+        "token": "felt",
+        "signature": "eflt",
+        "length": 4
+      },
+      {
+        "token": "wanted",
+        "signature": "adentw",
+        "length": 6
+      },
+      {
+        "token": "took",
+        "signature": "kot",
+        "length": 4
+      },
+      {
+        "token": "turned",
+        "signature": "denrtu",
+        "length": 6
+      },
+      {
+        "token": "need",
+        "signature": "den",
+        "length": 4
+      },
+      {
+        "token": "hands",
+        "signature": "adhns",
+        "length": 5
+      },
+      {
+        "token": "tell",
+        "signature": "elt",
+        "length": 4
+      },
+      {
+        "token": "really",
+        "signature": "aelry",
+        "length": 6
+      },
+      {
+        "token": "sure",
+        "signature": "ersu",
+        "length": 4
+      },
+      {
+        "token": "against",
+        "signature": "aginst",
+        "length": 7
+      },
+      {
+        "token": "voice",
+        "signature": "ceiov",
+        "length": 5
+      },
+      {
+        "token": "should",
+        "signature": "dhlosu",
+        "length": 6
+      },
+      {
+        "token": "has",
+        "signature": "ahs",
+        "length": 3
+      },
+      {
+        "token": "left",
+        "signature": "eflt",
+        "length": 4
+      },
+      {
+        "token": "which",
+        "signature": "chiw",
+        "length": 5
+      },
+      {
+        "token": "very",
+        "signature": "ervy",
+        "length": 4
+      },
+      {
+        "token": "people",
+        "signature": "elop",
+        "length": 6
+      },
+      {
+        "token": "told",
+        "signature": "dlot",
+        "length": 4
+      },
+      {
+        "token": "came",
+        "signature": "acem",
+        "length": 4
+      },
+      {
+        "token": "another",
+        "signature": "aehnort",
+        "length": 7
+      },
+      {
+        "token": "while",
+        "signature": "ehilw",
+        "length": 5
+      },
+      {
+        "token": "last",
+        "signature": "alst",
+        "length": 4
+      },
+      {
+        "token": "life",
+        "signature": "efil",
+        "length": 4
+      },
+      {
+        "token": "anything",
+        "signature": "aghinty",
+        "length": 8
+      },
+      {
+        "token": "few",
+        "signature": "efw",
+        "length": 3
+      },
+      {
+        "token": "body",
+        "signature": "bdoy",
+        "length": 4
+      },
+      {
+        "token": "night",
+        "signature": "ghint",
+        "length": 5
+      },
+      {
+        "token": "cannot",
+        "signature": "acnot",
+        "length": 6
+      },
+      {
+        "token": "nothing",
+        "signature": "ghinot",
+        "length": 7
+      },
+      {
+        "token": "behind",
+        "signature": "bdehin",
+        "length": 6
+      },
+      {
+        "token": "being",
+        "signature": "begin",
+        "length": 5
+      },
+      {
+        "token": "enough",
+        "signature": "eghnou",
+        "length": 6
+      },
+      {
+        "token": "went",
+        "signature": "entw",
+        "length": 4
+      },
+      {
+        "token": "feel",
+        "signature": "efl",
+        "length": 4
+      },
+      {
+        "token": "side",
+        "signature": "deis",
+        "length": 4
+      },
+      {
+        "token": "does",
+        "signature": "deos",
+        "length": 4
+      },
+      {
+        "token": "thing",
+        "signature": "ghint",
+        "length": 5
+      },
+      {
+        "token": "day",
+        "signature": "ady",
+        "length": 3
+      },
+      {
+        "token": "might",
+        "signature": "ghimt",
+        "length": 5
+      },
+      {
+        "token": "saw",
+        "signature": "asw",
+        "length": 3
+      },
+      {
+        "token": "until",
+        "signature": "ilntu",
+        "length": 5
+      },
+      {
+        "token": "things",
+        "signature": "ghinst",
+        "length": 6
+      },
+      {
+        "token": "though",
+        "signature": "ghotu",
+        "length": 6
+      },
+      {
+        "token": "those",
+        "signature": "ehost",
+        "length": 5
+      },
+      {
+        "token": "yes",
+        "signature": "esy",
+        "length": 3
+      },
+      {
+        "token": "maybe",
+        "signature": "abemy",
+        "length": 5
+      },
+      {
+        "token": "put",
+        "signature": "ptu",
+        "length": 3
+      },
+      {
+        "token": "own",
+        "signature": "now",
+        "length": 3
+      },
+      {
+        "token": "find",
+        "signature": "dfin",
+        "length": 4
+      },
+      {
+        "token": "ever",
+        "signature": "erv",
+        "length": 4
+      },
+      {
+        "token": "every",
+        "signature": "ervy",
+        "length": 5
+      },
+      {
+        "token": "looking",
+        "signature": "giklno",
+        "length": 7
+      },
+      {
+        "token": "once",
+        "signature": "ceno",
+        "length": 4
+      },
+      {
+        "token": "hair",
+        "signature": "ahir",
+        "length": 4
+      },
+      {
+        "token": "moment",
+        "signature": "emnot",
+        "length": 6
+      },
+      {
+        "token": "both",
+        "signature": "bhot",
+        "length": 4
+      },
+      {
+        "token": "love",
+        "signature": "elov",
+        "length": 4
+      },
+      {
+        "token": "always",
+        "signature": "alswy",
+        "length": 6
+      },
+      {
+        "token": "mind",
+        "signature": "dimn",
+        "length": 4
+      },
+      {
+        "token": "next",
+        "signature": "entx",
+        "length": 4
+      },
+      {
+        "token": "place",
+        "signature": "acelp",
+        "length": 5
+      },
+      {
+        "token": "inside",
+        "signature": "deins",
+        "length": 6
+      },
+      {
+        "token": "hard",
+        "signature": "adhr",
+        "length": 4
+      },
+      {
+        "token": "help",
+        "signature": "ehlp",
+        "length": 4
+      },
+      {
+        "token": "front",
+        "signature": "fnort",
+        "length": 5
+      },
+      {
+        "token": "without",
+        "signature": "hiotuw",
+        "length": 7
+      },
+      {
+        "token": "found",
+        "signature": "dfnou",
+        "length": 5
+      },
+      {
+        "token": "house",
+        "signature": "ehosu",
+        "length": 5
+      },
+      {
+        "token": "mouth",
+        "signature": "hmotu",
+        "length": 5
+      },
+      {
+        "token": "old",
+        "signature": "dlo",
+        "length": 3
+      },
+      {
+        "token": "same",
+        "signature": "aems",
+        "length": 4
+      },
+      {
+        "token": "keep",
+        "signature": "ekp",
+        "length": 4
+      },
+      {
+        "token": "most",
+        "signature": "most",
+        "length": 4
+      },
+      {
+        "token": "everything",
+        "signature": "eghinrtvy",
+        "length": 10
+      },
+      {
+        "token": "himself",
+        "signature": "efhilms",
+        "length": 7
+      },
+      {
+        "token": "someone",
+        "signature": "emnos",
+        "length": 7
+      },
+      {
+        "token": "toward",
+        "signature": "adortw",
+        "length": 6
+      },
+      {
+        "token": "home",
+        "signature": "ehmo",
+        "length": 4
+      },
+      {
+        "token": "open",
+        "signature": "enop",
+        "length": 4
+      },
+      {
+        "token": "woman",
+        "signature": "amnow",
+        "length": 5
+      },
+      {
+        "token": "trying",
+        "signature": "ginrty",
+        "length": 6
+      },
+      {
+        "token": "heard",
+        "signature": "adehr",
+        "length": 5
+      },
+      {
+        "token": "pulled",
+        "signature": "delpu",
+        "length": 6
+      },
+      {
+        "token": "arms",
+        "signature": "amrs",
+        "length": 4
+      },
+      {
+        "token": "better",
+        "signature": "bert",
+        "length": 6
+      },
+      {
+        "token": "each",
+        "signature": "aceh",
+        "length": 4
+      },
+      {
+        "token": "between",
+        "signature": "bentw",
+        "length": 7
+      },
+      {
+        "token": "new",
+        "signature": "enw",
+        "length": 3
+      },
+      {
+        "token": "give",
+        "signature": "egiv",
+        "length": 4
+      },
+      {
+        "token": "seemed",
+        "signature": "dems",
+        "length": 6
+      },
+      {
+        "token": "smile",
+        "signature": "eilms",
+        "length": 5
+      },
+      {
+        "token": "work",
+        "signature": "korw",
+        "length": 4
+      },
+      {
+        "token": "across",
+        "signature": "acors",
+        "length": 6
+      },
+      {
+        "token": "myself",
+        "signature": "eflmsy",
+        "length": 6
+      },
+      {
+        "token": "three",
+        "signature": "ehrt",
+        "length": 5
+      },
+      {
+        "token": "since",
+        "signature": "ceins",
+        "length": 5
+      },
+      {
+        "token": "already",
+        "signature": "adelry",
+        "length": 7
+      },
+      {
+        "token": "bed",
+        "signature": "bde",
+        "length": 3
+      },
+      {
+        "token": "father",
+        "signature": "aefhrt",
+        "length": 6
+      },
+      {
+        "token": "small",
+        "signature": "alms",
+        "length": 5
+      },
+      {
+        "token": "started",
+        "signature": "aderst",
+        "length": 7
+      },
+      {
+        "token": "almost",
+        "signature": "almost",
+        "length": 6
+      },
+      {
+        "token": "gave",
+        "signature": "aegv",
+        "length": 4
+      },
+      {
+        "token": "years",
+        "signature": "aersy",
+        "length": 5
+      },
+      {
+        "token": "stood",
+        "signature": "dost",
+        "length": 5
+      },
+      {
+        "token": "heart",
+        "signature": "aehrt",
+        "length": 5
+      },
+      {
+        "token": "mother",
+        "signature": "ehmort",
+        "length": 6
+      },
+      {
+        "token": "done",
+        "signature": "deno",
+        "length": 4
+      },
+      {
+        "token": "dark",
+        "signature": "adkr",
+        "length": 4
+      },
+      {
+        "token": "doing",
+        "signature": "dgino",
+        "length": 5
+      },
+      {
+        "token": "okay",
+        "signature": "akoy",
+        "length": 4
+      },
+      {
+        "token": "tried",
+        "signature": "deirt",
+        "length": 5
+      },
+      {
+        "token": "under",
+        "signature": "denru",
+        "length": 5
+      },
+      {
+        "token": "lips",
+        "signature": "ilps",
+        "length": 4
+      },
+      {
+        "token": "else",
+        "signature": "els",
+        "length": 4
+      },
+      {
+        "token": "stop",
+        "signature": "opst",
+        "length": 4
+      },
+      {
+        "token": "walked",
+        "signature": "adeklw",
+        "length": 6
+      },
+      {
+        "token": "words",
+        "signature": "dorsw",
+        "length": 5
+      },
+      {
+        "token": "together",
+        "signature": "eghort",
+        "length": 8
+      },
+      {
+        "token": "nodded",
+        "signature": "deno",
+        "length": 6
+      },
+      {
+        "token": "feet",
+        "signature": "eft",
+        "length": 4
+      },
+      {
+        "token": "black",
+        "signature": "abckl",
+        "length": 5
+      },
+      {
+        "token": "must",
+        "signature": "mstu",
+        "length": 4
+      },
+      {
+        "token": "mean",
+        "signature": "aemn",
+        "length": 4
+      },
+      {
+        "token": "held",
+        "signature": "dehl",
+        "length": 4
+      },
+      {
+        "token": "blood",
+        "signature": "bdlo",
+        "length": 5
+      },
+      {
+        "token": "seen",
+        "signature": "ens",
+        "length": 4
+      },
+      {
+        "token": "world",
+        "signature": "dlorw",
+        "length": 5
+      },
+      {
+        "token": "many",
+        "signature": "amny",
+        "length": 4
+      },
+      {
+        "token": "light",
+        "signature": "ghilt",
+        "length": 5
+      },
+      {
+        "token": "men",
+        "signature": "emn",
+        "length": 3
+      },
+      {
+        "token": "girl",
+        "signature": "gilr",
+        "length": 4
+      },
+      {
+        "token": "sat",
+        "signature": "ast",
+        "length": 3
+      },
+      {
+        "token": "arm",
+        "signature": "amr",
+        "length": 3
+      },
+      {
+        "token": "far",
+        "signature": "afr",
+        "length": 3
+      },
+      {
+        "token": "breath",
+        "signature": "abehrt",
+        "length": 6
+      },
+      {
+        "token": "car",
+        "signature": "acr",
+        "length": 3
+      },
+      {
+        "token": "hear",
+        "signature": "aehr",
+        "length": 4
+      },
+      {
+        "token": "yet",
+        "signature": "ety",
+        "length": 3
+      },
+      {
+        "token": "says",
+        "signature": "asy",
+        "length": 4
+      },
+      {
+        "token": "leave",
+        "signature": "aelv",
+        "length": 5
+      },
+      {
+        "token": "smiled",
+        "signature": "deilms",
+        "length": 6
+      },
+      {
+        "token": "talk",
+        "signature": "aklt",
+        "length": 4
+      },
+      {
+        "token": "end",
+        "signature": "den",
+        "length": 3
+      },
+      {
+        "token": "gone",
+        "signature": "egno",
+        "length": 4
+      },
+      {
+        "token": "herself",
+        "signature": "efhlrs",
+        "length": 7
+      },
+      {
+        "token": "kind",
+        "signature": "dikn",
+        "length": 4
+      },
+      {
+        "token": "floor",
+        "signature": "flor",
+        "length": 5
+      },
+      {
+        "token": "fingers",
+        "signature": "efginrs",
+        "length": 7
+      },
+      {
+        "token": "call",
+        "signature": "acl",
+        "length": 4
+      },
+      {
+        "token": "needed",
+        "signature": "den",
+        "length": 6
+      },
+      {
+        "token": "began",
+        "signature": "abegn",
+        "length": 5
+      },
+      {
+        "token": "also",
+        "signature": "alos",
+        "length": 4
+      },
+      {
+        "token": "name",
+        "signature": "aemn",
+        "length": 4
+      },
+      {
+        "token": "shook",
+        "signature": "hkos",
+        "length": 5
+      },
+      {
+        "token": "getting",
+        "signature": "egint",
+        "length": 7
+      },
+      {
+        "token": "called",
+        "signature": "acdel",
+        "length": 6
+      },
+      {
+        "token": "table",
+        "signature": "abelt",
+        "length": 5
+      },
+      {
+        "token": "water",
+        "signature": "aertw",
+        "length": 5
+      },
+      {
+        "token": "part",
+        "signature": "aprt",
+        "length": 4
+      },
+      {
+        "token": "lot",
+        "signature": "lot",
+        "length": 3
+      },
+      {
+        "token": "course",
+        "signature": "ceorsu",
+        "length": 6
+      },
+      {
+        "token": "yeah",
+        "signature": "aehy",
+        "length": 4
+      },
+      {
+        "token": "coming",
+        "signature": "cgimno",
+        "length": 6
+      },
+      {
+        "token": "finally",
+        "signature": "afilny",
+        "length": 7
+      },
+      {
+        "token": "big",
+        "signature": "bgi",
+        "length": 3
+      },
+      {
+        "token": "probably",
+        "signature": "ablopry",
+        "length": 8
+      },
+      {
+        "token": "second",
+        "signature": "cdenos",
+        "length": 6
+      },
+      {
+        "token": "such",
+        "signature": "chsu",
+        "length": 4
+      },
+      {
+        "token": "deep",
+        "signature": "dep",
+        "length": 4
+      },
+      {
+        "token": "least",
+        "signature": "aelst",
+        "length": 5
+      },
+      {
+        "token": "along",
+        "signature": "aglno",
+        "length": 5
+      },
+      {
+        "token": "moved",
+        "signature": "demov",
+        "length": 5
+      },
+      {
+        "token": "happened",
+        "signature": "adehnp",
+        "length": 8
+      },
+      {
+        "token": "past",
+        "signature": "apst",
+        "length": 4
+      },
+      {
+        "token": "reached",
+        "signature": "acdehr",
+        "length": 7
+      },
+      {
+        "token": "best",
+        "signature": "best",
+        "length": 4
+      },
+      {
+        "token": "believe",
+        "signature": "beilv",
+        "length": 7
+      },
+      {
+        "token": "sorry",
+        "signature": "orsy",
+        "length": 5
+      },
+      {
+        "token": "later",
+        "signature": "aelrt",
+        "length": 5
+      },
+      {
+        "token": "stopped",
+        "signature": "deopst",
+        "length": 7
+      },
+      {
+        "token": "phone",
+        "signature": "ehnop",
+        "length": 5
+      },
+      {
+        "token": "bit",
+        "signature": "bit",
+        "length": 3
+      },
+      {
+        "token": "making",
+        "signature": "agikmn",
+        "length": 6
+      },
+      {
+        "token": "feeling",
+        "signature": "efgiln",
+        "length": 7
+      },
+      {
+        "token": "great",
+        "signature": "aegrt",
+        "length": 5
+      },
+      {
+        "token": "white",
+        "signature": "ehitw",
+        "length": 5
+      },
+      {
+        "token": "soon",
+        "signature": "nos",
+        "length": 4
+      },
+      {
+        "token": "opened",
+        "signature": "denop",
+        "length": 6
+      },
+      {
+        "token": "anyone",
+        "signature": "aenoy",
+        "length": 6
+      },
+      {
+        "token": "ask",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "half",
+        "signature": "afhl",
+        "length": 4
+      },
+      {
+        "token": "used",
+        "signature": "desu",
+        "length": 4
+      },
+      {
+        "token": "set",
+        "signature": "est",
+        "length": 3
+      },
+      {
+        "token": "bad",
+        "signature": "abd",
+        "length": 3
+      },
+      {
+        "token": "dead",
+        "signature": "ade",
+        "length": 4
+      },
+      {
+        "token": "family",
+        "signature": "afilmy",
+        "length": 6
+      },
+      {
+        "token": "everyone",
+        "signature": "enorvy",
+        "length": 8
+      },
+      {
+        "token": "idea",
+        "signature": "adei",
+        "length": 4
+      },
+      {
+        "token": "taking",
+        "signature": "agiknt",
+        "length": 6
+      },
+      {
+        "token": "shoulder",
+        "signature": "dehlorsu",
+        "length": 8
+      },
+      {
+        "token": "kept",
+        "signature": "ekpt",
+        "length": 4
+      },
+      {
+        "token": "move",
+        "signature": "emov",
+        "length": 4
+      },
+      {
+        "token": "red",
+        "signature": "der",
+        "length": 3
+      },
+      {
+        "token": "forward",
+        "signature": "adforw",
+        "length": 7
+      },
+      {
+        "token": "skin",
+        "signature": "ikns",
+        "length": 4
+      },
+      {
+        "token": "morning",
+        "signature": "gimnor",
+        "length": 7
+      },
+      {
+        "token": "care",
+        "signature": "acer",
+        "length": 4
+      },
+      {
+        "token": "quickly",
+        "signature": "ciklquy",
+        "length": 7
+      },
+      {
+        "token": "days",
+        "signature": "adsy",
+        "length": 4
+      },
+      {
+        "token": "stay",
+        "signature": "asty",
+        "length": 4
+      },
+      {
+        "token": "rest",
+        "signature": "erst",
+        "length": 4
+      },
+      {
+        "token": "try",
+        "signature": "rty",
+        "length": 3
+      },
+      {
+        "token": "slowly",
+        "signature": "loswy",
+        "length": 6
+      },
+      {
+        "token": "able",
+        "signature": "abel",
+        "length": 4
+      },
+      {
+        "token": "wall",
+        "signature": "alw",
+        "length": 4
+      },
+      {
+        "token": "turn",
+        "signature": "nrtu",
+        "length": 4
+      },
+      {
+        "token": "alone",
+        "signature": "aelno",
+        "length": 5
+      },
+      {
+        "token": "remember",
+        "signature": "bemr",
+        "length": 8
+      },
+      {
+        "token": "onto",
+        "signature": "not",
+        "length": 4
+      },
+      {
+        "token": "thinking",
+        "signature": "ghiknt",
+        "length": 8
+      },
+      {
+        "token": "having",
+        "signature": "aghinv",
+        "length": 6
+      },
+      {
+        "token": "closed",
+        "signature": "cdelos",
+        "length": 6
+      },
+      {
+        "token": "ground",
+        "signature": "dgnoru",
+        "length": 6
+      },
+      {
+        "token": "stared",
+        "signature": "aderst",
+        "length": 6
+      },
+      {
+        "token": "wrong",
+        "signature": "gnorw",
+        "length": 5
+      },
+      {
+        "token": "ready",
+        "signature": "adery",
+        "length": 5
+      },
+      {
+        "token": "please",
+        "signature": "aelps",
+        "length": 6
+      },
+      {
+        "token": "mine",
+        "signature": "eimn",
+        "length": 4
+      },
+      {
+        "token": "talking",
+        "signature": "agiklnt",
+        "length": 7
+      },
+      {
+        "token": "watched",
+        "signature": "acdehtw",
+        "length": 7
+      },
+      {
+        "token": "either",
+        "signature": "ehirt",
+        "length": 6
+      },
+      {
+        "token": "neck",
+        "signature": "cekn",
+        "length": 4
+      },
+      {
+        "token": "full",
+        "signature": "flu",
+        "length": 4
+      },
+      {
+        "token": "top",
+        "signature": "opt",
+        "length": 3
+      },
+      {
+        "token": "ran",
+        "signature": "anr",
+        "length": 3
+      },
+      {
+        "token": "minutes",
+        "signature": "eimnstu",
+        "length": 7
+      },
+      {
+        "token": "hurt",
+        "signature": "hrtu",
+        "length": 4
+      },
+      {
+        "token": "high",
+        "signature": "ghi",
+        "length": 4
+      },
+      {
+        "token": "outside",
+        "signature": "deiostu",
+        "length": 7
+      },
+      {
+        "token": "actually",
+        "signature": "acltuy",
+        "length": 8
+      },
+      {
+        "token": "pain",
+        "signature": "ainp",
+        "length": 4
+      },
+      {
+        "token": "friend",
+        "signature": "definr",
+        "length": 6
+      },
+      {
+        "token": "fine",
+        "signature": "efin",
+        "length": 4
+      },
+      {
+        "token": "matter",
+        "signature": "aemrt",
+        "length": 6
+      },
+      {
+        "token": "suddenly",
+        "signature": "delnsuy",
+        "length": 8
+      },
+      {
+        "token": "run",
+        "signature": "nru",
+        "length": 3
+      },
+      {
+        "token": "fact",
+        "signature": "acft",
+        "length": 4
+      },
+      {
+        "token": "hold",
+        "signature": "dhlo",
+        "length": 4
+      },
+      {
+        "token": "understand",
+        "signature": "adenrstu",
+        "length": 10
+      },
+      {
+        "token": "lost",
+        "signature": "lost",
+        "length": 4
+      },
+      {
+        "token": "boy",
+        "signature": "boy",
+        "length": 3
+      },
+      {
+        "token": "point",
+        "signature": "inopt",
+        "length": 5
+      },
+      {
+        "token": "gaze",
+        "signature": "aegz",
+        "length": 4
+      },
+      {
+        "token": "standing",
+        "signature": "adginst",
+        "length": 8
+      },
+      {
+        "token": "wait",
+        "signature": "aitw",
+        "length": 4
+      },
+      {
+        "token": "times",
+        "signature": "eimst",
+        "length": 5
+      },
+      {
+        "token": "caught",
+        "signature": "acghtu",
+        "length": 6
+      },
+      {
+        "token": "pretty",
+        "signature": "eprty",
+        "length": 6
+      },
+      {
+        "token": "word",
+        "signature": "dorw",
+        "length": 4
+      },
+      {
+        "token": "fire",
+        "signature": "efir",
+        "length": 4
+      },
+      {
+        "token": "dad",
+        "signature": "ad",
+        "length": 3
+      },
+      {
+        "token": "whole",
+        "signature": "ehlow",
+        "length": 5
+      },
+      {
+        "token": "instead",
+        "signature": "adeinst",
+        "length": 7
+      },
+      {
+        "token": "laughed",
+        "signature": "adeghlu",
+        "length": 7
+      },
+      {
+        "token": "answer",
+        "signature": "aenrsw",
+        "length": 6
+      },
+      {
+        "token": "waiting",
+        "signature": "agintw",
+        "length": 7
+      },
+      {
+        "token": "blue",
+        "signature": "belu",
+        "length": 4
+      },
+      {
+        "token": "five",
+        "signature": "efiv",
+        "length": 4
+      },
+      {
+        "token": "chapter",
+        "signature": "acehprt",
+        "length": 7
+      },
+      {
+        "token": "may",
+        "signature": "amy",
+        "length": 3
+      },
+      {
+        "token": "friends",
+        "signature": "definrs",
+        "length": 7
+      },
+      {
+        "token": "others",
+        "signature": "ehorst",
+        "length": 6
+      },
+      {
+        "token": "taken",
+        "signature": "aeknt",
+        "length": 5
+      },
+      {
+        "token": "cold",
+        "signature": "cdlo",
+        "length": 4
+      },
+      {
+        "token": "ago",
+        "signature": "ago",
+        "length": 3
+      },
+      {
+        "token": "four",
+        "signature": "foru",
+        "length": 4
+      },
+      {
+        "token": "different",
+        "signature": "definrt",
+        "length": 9
+      },
+      {
+        "token": "brother",
+        "signature": "behort",
+        "length": 7
+      },
+      {
+        "token": "use",
+        "signature": "esu",
+        "length": 3
+      },
+      {
+        "token": "legs",
+        "signature": "egls",
+        "length": 4
+      },
+      {
+        "token": "looks",
+        "signature": "klos",
+        "length": 5
+      },
+      {
+        "token": "whispered",
+        "signature": "dehiprsw",
+        "length": 9
+      },
+      {
+        "token": "glanced",
+        "signature": "acdegln",
+        "length": 7
+      },
+      {
+        "token": "young",
+        "signature": "gnouy",
+        "length": 5
+      },
+      {
+        "token": "hit",
+        "signature": "hit",
+        "length": 3
+      },
+      {
+        "token": "king",
+        "signature": "gikn",
+        "length": 4
+      },
+      {
+        "token": "met",
+        "signature": "emt",
+        "length": 3
+      },
+      {
+        "token": "brought",
+        "signature": "bghortu",
+        "length": 7
+      },
+      {
+        "token": "whatever",
+        "signature": "aehrtvw",
+        "length": 8
+      },
+      {
+        "token": "throat",
+        "signature": "ahort",
+        "length": 6
+      },
+      {
+        "token": "question",
+        "signature": "einoqstu",
+        "length": 8
+      },
+      {
+        "token": "fell",
+        "signature": "efl",
+        "length": 4
+      },
+      {
+        "token": "window",
+        "signature": "dinow",
+        "length": 6
+      },
+      {
+        "token": "death",
+        "signature": "adeht",
+        "length": 5
+      },
+      {
+        "token": "meant",
+        "signature": "aemnt",
+        "length": 5
+      },
+      {
+        "token": "holding",
+        "signature": "dghilno",
+        "length": 7
+      },
+      {
+        "token": "stepped",
+        "signature": "depst",
+        "length": 7
+      },
+      {
+        "token": "kiss",
+        "signature": "iks",
+        "length": 4
+      },
+      {
+        "token": "exactly",
+        "signature": "aceltxy",
+        "length": 7
+      },
+      {
+        "token": "school",
+        "signature": "chlos",
+        "length": 6
+      },
+      {
+        "token": "walk",
+        "signature": "aklw",
+        "length": 4
+      },
+      {
+        "token": "quite",
+        "signature": "eiqtu",
+        "length": 5
+      },
+      {
+        "token": "large",
+        "signature": "aeglr",
+        "length": 5
+      },
+      {
+        "token": "leaned",
+        "signature": "adeln",
+        "length": 6
+      },
+      {
+        "token": "sitting",
+        "signature": "ginst",
+        "length": 7
+      },
+      {
+        "token": "watching",
+        "signature": "acghintw",
+        "length": 8
+      },
+      {
+        "token": "happy",
+        "signature": "ahpy",
+        "length": 5
+      },
+      {
+        "token": "realized",
+        "signature": "adeilrz",
+        "length": 8
+      }
+    ],
+    "developing": [
+      {
+        "token": "balance",
+        "signature": "abceln",
+        "length": 7
+      },
+      {
+        "token": "clause",
+        "signature": "acelsu",
+        "length": 6
+      },
+      {
+        "token": "contrast",
+        "signature": "acnorst",
+        "length": 8
+      },
+      {
+        "token": "crafted",
+        "signature": "acdefrt",
+        "length": 7
+      },
+      {
+        "token": "detail",
+        "signature": "adeilt",
+        "length": 6
+      },
+      {
+        "token": "durable",
+        "signature": "abdelru",
+        "length": 7
+      },
+      {
+        "token": "guided",
+        "signature": "degiu",
+        "length": 6
+      },
+      {
+        "token": "passage",
+        "signature": "aegps",
+        "length": 7
+      },
+      {
+        "token": "preview",
+        "signature": "eiprvw",
+        "length": 7
+      },
+      {
+        "token": "readable",
+        "signature": "abdelr",
+        "length": 8
+      },
+      {
+        "token": "recovery",
+        "signature": "ceorvy",
+        "length": 8
+      },
+      {
+        "token": "rhythm",
+        "signature": "hmrty",
+        "length": 6
+      },
+      {
+        "token": "signal",
+        "signature": "agilns",
+        "length": 6
+      },
+      {
+        "token": "spacing",
+        "signature": "acginps",
+        "length": 7
+      },
+      {
+        "token": "steadying",
+        "signature": "adeginsty",
+        "length": 9
+      },
+      {
+        "token": "structure",
+        "signature": "cerstu",
+        "length": 9
+      },
+      {
+        "token": "support",
+        "signature": "oprstu",
+        "length": 7
+      },
+      {
+        "token": "teacher",
+        "signature": "acehrt",
+        "length": 7
+      },
+      {
+        "token": "timing",
+        "signature": "gimnt",
+        "length": 6
+      },
+      {
+        "token": "transition",
+        "signature": "ainorst",
+        "length": 10
+      },
+      {
+        "token": "variety",
+        "signature": "aeirtvy",
+        "length": 7
+      },
+      {
+        "token": "wording",
+        "signature": "dginorw",
+        "length": 7
+      },
+      {
+        "token": "workflow",
+        "signature": "fklorw",
+        "length": 8
+      },
+      {
+        "token": "landed",
+        "signature": "adeln",
+        "length": 6
+      },
+      {
+        "token": "weapons",
+        "signature": "aenopsw",
+        "length": 7
+      },
+      {
+        "token": "removed",
+        "signature": "demorv",
+        "length": 7
+      },
+      {
+        "token": "eyebrows",
+        "signature": "beorswy",
+        "length": 8
+      },
+      {
+        "token": "college",
+        "signature": "ceglo",
+        "length": 7
+      },
+      {
+        "token": "spun",
+        "signature": "npsu",
+        "length": 4
+      },
+      {
+        "token": "inch",
+        "signature": "chin",
+        "length": 4
+      },
+      {
+        "token": "dirty",
+        "signature": "dirty",
+        "length": 5
+      },
+      {
+        "token": "subject",
+        "signature": "bcejstu",
+        "length": 7
+      },
+      {
+        "token": "entirely",
+        "signature": "eilnrty",
+        "length": 8
+      },
+      {
+        "token": "prince",
+        "signature": "ceinpr",
+        "length": 6
+      },
+      {
+        "token": "shape",
+        "signature": "aehps",
+        "length": 5
+      },
+      {
+        "token": "refused",
+        "signature": "defrsu",
+        "length": 7
+      },
+      {
+        "token": "jump",
+        "signature": "jmpu",
+        "length": 4
+      },
+      {
+        "token": "chuckled",
+        "signature": "cdehklu",
+        "length": 8
+      },
+      {
+        "token": "tea",
+        "signature": "aet",
+        "length": 3
+      },
+      {
+        "token": "carrying",
+        "signature": "acginry",
+        "length": 8
+      },
+      {
+        "token": "wonderful",
+        "signature": "deflnoruw",
+        "length": 9
+      },
+      {
+        "token": "nearby",
+        "signature": "abenry",
+        "length": 6
+      },
+      {
+        "token": "planned",
+        "signature": "adelnp",
+        "length": 7
+      },
+      {
+        "token": "showing",
+        "signature": "ghinosw",
+        "length": 7
+      },
+      {
+        "token": "band",
+        "signature": "abdn",
+        "length": 4
+      },
+      {
+        "token": "bringing",
+        "signature": "bginr",
+        "length": 8
+      },
+      {
+        "token": "mood",
+        "signature": "dmo",
+        "length": 4
+      },
+      {
+        "token": "recognized",
+        "signature": "cdeginorz",
+        "length": 10
+      },
+      {
+        "token": "narrow",
+        "signature": "anorw",
+        "length": 6
+      },
+      {
+        "token": "knocked",
+        "signature": "cdekno",
+        "length": 7
+      },
+      {
+        "token": "breathed",
+        "signature": "abdehrt",
+        "length": 8
+      },
+      {
+        "token": "accept",
+        "signature": "acept",
+        "length": 6
+      },
+      {
+        "token": "smart",
+        "signature": "amrst",
+        "length": 5
+      },
+      {
+        "token": "everywhere",
+        "signature": "ehrvwy",
+        "length": 10
+      },
+      {
+        "token": "shared",
+        "signature": "adehrs",
+        "length": 6
+      },
+      {
+        "token": "suggested",
+        "signature": "degstu",
+        "length": 9
+      },
+      {
+        "token": "pool",
+        "signature": "lop",
+        "length": 4
+      },
+      {
+        "token": "peace",
+        "signature": "acep",
+        "length": 5
+      },
+      {
+        "token": "saved",
+        "signature": "adesv",
+        "length": 5
+      },
+      {
+        "token": "gives",
+        "signature": "egisv",
+        "length": 5
+      },
+      {
+        "token": "west",
+        "signature": "estw",
+        "length": 4
+      },
+      {
+        "token": "desperate",
+        "signature": "adeprst",
+        "length": 9
+      },
+      {
+        "token": "grown",
+        "signature": "gnorw",
+        "length": 5
+      },
+      {
+        "token": "gathered",
+        "signature": "adeghrt",
+        "length": 8
+      },
+      {
+        "token": "card",
+        "signature": "acdr",
+        "length": 4
+      },
+      {
+        "token": "warmth",
+        "signature": "ahmrtw",
+        "length": 6
+      },
+      {
+        "token": "song",
+        "signature": "gnos",
+        "length": 4
+      },
+      {
+        "token": "animal",
+        "signature": "ailmn",
+        "length": 6
+      },
+      {
+        "token": "knee",
+        "signature": "ekn",
+        "length": 4
+      },
+      {
+        "token": "closing",
+        "signature": "cgilnos",
+        "length": 7
+      },
+      {
+        "token": "answers",
+        "signature": "aenrsw",
+        "length": 7
+      },
+      {
+        "token": "gift",
+        "signature": "fgit",
+        "length": 4
+      },
+      {
+        "token": "bought",
+        "signature": "bghotu",
+        "length": 6
+      },
+      {
+        "token": "roof",
+        "signature": "for",
+        "length": 4
+      },
+      {
+        "token": "otherwise",
+        "signature": "ehiorstw",
+        "length": 9
+      },
+      {
+        "token": "sending",
+        "signature": "degins",
+        "length": 7
+      },
+      {
+        "token": "avoid",
+        "signature": "adiov",
+        "length": 5
+      },
+      {
+        "token": "double",
+        "signature": "bdelou",
+        "length": 6
+      },
+      {
+        "token": "sucked",
+        "signature": "cdeksu",
+        "length": 6
+      },
+      {
+        "token": "thumb",
+        "signature": "bhmtu",
+        "length": 5
+      },
+      {
+        "token": "stories",
+        "signature": "eiorst",
+        "length": 7
+      },
+      {
+        "token": "deeply",
+        "signature": "delpy",
+        "length": 6
+      },
+      {
+        "token": "rough",
+        "signature": "ghoru",
+        "length": 5
+      },
+      {
+        "token": "drunk",
+        "signature": "dknru",
+        "length": 5
+      },
+      {
+        "token": "buried",
+        "signature": "bdeiru",
+        "length": 6
+      },
+      {
+        "token": "belly",
+        "signature": "bely",
+        "length": 5
+      },
+      {
+        "token": "bother",
+        "signature": "behort",
+        "length": 6
+      },
+      {
+        "token": "groaned",
+        "signature": "adegnor",
+        "length": 7
+      },
+      {
+        "token": "giant",
+        "signature": "agint",
+        "length": 5
+      },
+      {
+        "token": "calls",
+        "signature": "acls",
+        "length": 5
+      },
+      {
+        "token": "tip",
+        "signature": "ipt",
+        "length": 3
+      },
+      {
+        "token": "roll",
+        "signature": "lor",
+        "length": 4
+      },
+      {
+        "token": "base",
+        "signature": "abes",
+        "length": 4
+      },
+      {
+        "token": "faint",
+        "signature": "afint",
+        "length": 5
+      },
+      {
+        "token": "pleased",
+        "signature": "adelps",
+        "length": 7
+      },
+      {
+        "token": "silently",
+        "signature": "eilnsty",
+        "length": 8
+      },
+      {
+        "token": "rolling",
+        "signature": "gilnor",
+        "length": 7
+      },
+      {
+        "token": "awake",
+        "signature": "aekw",
+        "length": 5
+      },
+      {
+        "token": "court",
+        "signature": "cortu",
+        "length": 5
+      },
+      {
+        "token": "shoot",
+        "signature": "host",
+        "length": 5
+      },
+      {
+        "token": "helping",
+        "signature": "eghilnp",
+        "length": 7
+      },
+      {
+        "token": "dragged",
+        "signature": "adegr",
+        "length": 7
+      },
+      {
+        "token": "hug",
+        "signature": "ghu",
+        "length": 3
+      },
+      {
+        "token": "cars",
+        "signature": "acrs",
+        "length": 4
+      },
+      {
+        "token": "win",
+        "signature": "inw",
+        "length": 3
+      },
+      {
+        "token": "rang",
+        "signature": "agnr",
+        "length": 4
+      },
+      {
+        "token": "stage",
+        "signature": "aegst",
+        "length": 5
+      },
+      {
+        "token": "reality",
+        "signature": "aeilrty",
+        "length": 7
+      },
+      {
+        "token": "bullet",
+        "signature": "beltu",
+        "length": 6
+      },
+      {
+        "token": "reply",
+        "signature": "elpry",
+        "length": 5
+      },
+      {
+        "token": "swear",
+        "signature": "aersw",
+        "length": 5
+      },
+      {
+        "token": "public",
+        "signature": "bcilpu",
+        "length": 6
+      },
+      {
+        "token": "surrounded",
+        "signature": "denorsu",
+        "length": 10
+      },
+      {
+        "token": "rich",
+        "signature": "chir",
+        "length": 4
+      },
+      {
+        "token": "excited",
+        "signature": "cdeitx",
+        "length": 7
+      },
+      {
+        "token": "faded",
+        "signature": "adef",
+        "length": 5
+      },
+      {
+        "token": "drawn",
+        "signature": "adnrw",
+        "length": 5
+      },
+      {
+        "token": "instant",
+        "signature": "ainst",
+        "length": 7
+      },
+      {
+        "token": "beauty",
+        "signature": "abetuy",
+        "length": 6
+      },
+      {
+        "token": "track",
+        "signature": "ackrt",
+        "length": 5
+      },
+      {
+        "token": "fifty",
+        "signature": "fity",
+        "length": 5
+      },
+      {
+        "token": "extra",
+        "signature": "aertx",
+        "length": 5
+      },
+      {
+        "token": "imagined",
+        "signature": "adegimn",
+        "length": 8
+      },
+      {
+        "token": "necessary",
+        "signature": "acenrsy",
+        "length": 9
+      },
+      {
+        "token": "training",
+        "signature": "aginrt",
+        "length": 8
+      },
+      {
+        "token": "pulls",
+        "signature": "lpsu",
+        "length": 5
+      },
+      {
+        "token": "burn",
+        "signature": "bnru",
+        "length": 4
+      },
+      {
+        "token": "pictures",
+        "signature": "ceiprstu",
+        "length": 8
+      },
+      {
+        "token": "attempt",
+        "signature": "aempt",
+        "length": 7
+      },
+      {
+        "token": "pause",
+        "signature": "aepsu",
+        "length": 5
+      },
+      {
+        "token": "admitted",
+        "signature": "adeimt",
+        "length": 8
+      },
+      {
+        "token": "action",
+        "signature": "acinot",
+        "length": 6
+      },
+      {
+        "token": "folded",
+        "signature": "deflo",
+        "length": 6
+      },
+      {
+        "token": "steel",
+        "signature": "elst",
+        "length": 5
+      },
+      {
+        "token": "flight",
+        "signature": "fghilt",
+        "length": 6
+      },
+      {
+        "token": "purpose",
+        "signature": "eoprsu",
+        "length": 7
+      },
+      {
+        "token": "bridge",
+        "signature": "bdegir",
+        "length": 6
+      },
+      {
+        "token": "rage",
+        "signature": "aegr",
+        "length": 4
+      },
+      {
+        "token": "leading",
+        "signature": "adegiln",
+        "length": 7
+      },
+      {
+        "token": "charge",
+        "signature": "aceghr",
+        "length": 6
+      },
+      {
+        "token": "glasses",
+        "signature": "aegls",
+        "length": 7
+      },
+      {
+        "token": "knock",
+        "signature": "ckno",
+        "length": 5
+      },
+      {
+        "token": "wiped",
+        "signature": "deipw",
+        "length": 5
+      },
+      {
+        "token": "honey",
+        "signature": "ehnoy",
+        "length": 5
+      },
+      {
+        "token": "names",
+        "signature": "aemns",
+        "length": 5
+      },
+      {
+        "token": "proud",
+        "signature": "dopru",
+        "length": 5
+      },
+      {
+        "token": "fly",
+        "signature": "fly",
+        "length": 3
+      },
+      {
+        "token": "dust",
+        "signature": "dstu",
+        "length": 4
+      },
+      {
+        "token": "drawing",
+        "signature": "adginrw",
+        "length": 7
+      },
+      {
+        "token": "ancient",
+        "signature": "aceint",
+        "length": 7
+      },
+      {
+        "token": "drinking",
+        "signature": "dgiknr",
+        "length": 8
+      },
+      {
+        "token": "horses",
+        "signature": "ehors",
+        "length": 6
+      },
+      {
+        "token": "sliding",
+        "signature": "dgilns",
+        "length": 7
+      },
+      {
+        "token": "pointing",
+        "signature": "ginopt",
+        "length": 8
+      },
+      {
+        "token": "nature",
+        "signature": "aenrtu",
+        "length": 6
+      },
+      {
+        "token": "flash",
+        "signature": "afhls",
+        "length": 5
+      },
+      {
+        "token": "process",
+        "signature": "ceoprs",
+        "length": 7
+      },
+      {
+        "token": "officer",
+        "signature": "cefior",
+        "length": 7
+      },
+      {
+        "token": "cast",
+        "signature": "acst",
+        "length": 4
+      },
+      {
+        "token": "expecting",
+        "signature": "ceginptx",
+        "length": 9
+      },
+      {
+        "token": "mentioned",
+        "signature": "deimnot",
+        "length": 9
+      },
+      {
+        "token": "count",
+        "signature": "cnotu",
+        "length": 5
+      },
+      {
+        "token": "movie",
+        "signature": "eimov",
+        "length": 5
+      },
+      {
+        "token": "service",
+        "signature": "ceirsv",
+        "length": 7
+      },
+      {
+        "token": "passing",
+        "signature": "aginps",
+        "length": 7
+      },
+      {
+        "token": "grow",
+        "signature": "gorw",
+        "length": 4
+      },
+      {
+        "token": "discovered",
+        "signature": "cdeiorsv",
+        "length": 10
+      },
+      {
+        "token": "waves",
+        "signature": "aesvw",
+        "length": 5
+      },
+      {
+        "token": "sink",
+        "signature": "ikns",
+        "length": 4
+      },
+      {
+        "token": "study",
+        "signature": "dstuy",
+        "length": 5
+      },
+      {
+        "token": "plenty",
+        "signature": "elnpty",
+        "length": 6
+      },
+      {
+        "token": "voices",
+        "signature": "ceiosv",
+        "length": 6
+      },
+      {
+        "token": "considering",
+        "signature": "cdeginors",
+        "length": 11
+      },
+      {
+        "token": "opportunity",
+        "signature": "inoprtuy",
+        "length": 11
+      },
+      {
+        "token": "rise",
+        "signature": "eirs",
+        "length": 4
+      },
+      {
+        "token": "dare",
+        "signature": "ader",
+        "length": 4
+      },
+      {
+        "token": "heels",
+        "signature": "ehls",
+        "length": 5
+      },
+      {
+        "token": "glared",
+        "signature": "adeglr",
+        "length": 6
+      },
+      {
+        "token": "rooms",
+        "signature": "mors",
+        "length": 5
+      },
+      {
+        "token": "streets",
+        "signature": "erst",
+        "length": 7
+      },
+      {
+        "token": "dozen",
+        "signature": "denoz",
+        "length": 5
+      },
+      {
+        "token": "excitement",
+        "signature": "ceimntx",
+        "length": 10
+      },
+      {
+        "token": "details",
+        "signature": "adeilst",
+        "length": 7
+      },
+      {
+        "token": "board",
+        "signature": "abdor",
+        "length": 5
+      },
+      {
+        "token": "curious",
+        "signature": "ciorsu",
+        "length": 7
+      },
+      {
+        "token": "mountain",
+        "signature": "aimnotu",
+        "length": 8
+      },
+      {
+        "token": "local",
+        "signature": "aclo",
+        "length": 5
+      },
+      {
+        "token": "horror",
+        "signature": "hor",
+        "length": 6
+      },
+      {
+        "token": "honest",
+        "signature": "ehnost",
+        "length": 6
+      },
+      {
+        "token": "problems",
+        "signature": "belmoprs",
+        "length": 8
+      }
+    ],
+    "advanced": [
+      {
+        "token": "adaptability",
+        "signature": "abdilpty",
+        "length": 12
+      },
+      {
+        "token": "articulation",
+        "signature": "acilnortu",
+        "length": 12
+      },
+      {
+        "token": "benchmark",
+        "signature": "abcehkmnr",
+        "length": 9
+      },
+      {
+        "token": "breadth",
+        "signature": "abdehrt",
+        "length": 7
+      },
+      {
+        "token": "calibration",
+        "signature": "abcilnort",
+        "length": 11
+      },
+      {
+        "token": "coherence",
+        "signature": "cehnor",
+        "length": 9
+      },
+      {
+        "token": "complexity",
+        "signature": "ceilmoptxy",
+        "length": 10
+      },
+      {
+        "token": "expressiveness",
+        "signature": "einprsvx",
+        "length": 14
+      },
+      {
+        "token": "progression",
+        "signature": "eginoprs",
+        "length": 11
+      },
+      {
+        "token": "readability",
+        "signature": "abdeilrty",
+        "length": 11
+      },
+      {
+        "token": "reinforcement",
+        "signature": "cefimnort",
+        "length": 13
+      },
+      {
+        "token": "sophistication",
+        "signature": "achinopst",
+        "length": 14
+      },
+      {
+        "token": "structure-aware",
+        "signature": "-acerstuw",
+        "length": 15
+      },
+      {
+        "token": "teacherlike",
+        "signature": "acehiklrt",
+        "length": 11
+      },
+      {
+        "token": "transition-rich",
+        "signature": "-achinorst",
+        "length": 15
+      },
+      {
+        "token": "variation",
+        "signature": "ainortv",
+        "length": 9
+      },
+      {
+        "token": "intelligent",
+        "signature": "egilnt",
+        "length": 11
+      },
+      {
+        "token": "awareness",
+        "signature": "aenrsw",
+        "length": 9
+      },
+      {
+        "token": "dangling",
+        "signature": "adgiln",
+        "length": 8
+      },
+      {
+        "token": "junior",
+        "signature": "ijnoru",
+        "length": 6
+      },
+      {
+        "token": "decorated",
+        "signature": "acdeort",
+        "length": 9
+      },
+      {
+        "token": "selling",
+        "signature": "egilns",
+        "length": 7
+      },
+      {
+        "token": "addition",
+        "signature": "adinot",
+        "length": 8
+      },
+      {
+        "token": "pleading",
+        "signature": "adegilnp",
+        "length": 8
+      },
+      {
+        "token": "studio",
+        "signature": "diostu",
+        "length": 6
+      },
+      {
+        "token": "toy",
+        "signature": "oty",
+        "length": 3
+      },
+      {
+        "token": "cats",
+        "signature": "acst",
+        "length": 4
+      },
+      {
+        "token": "shuffled",
+        "signature": "defhlsu",
+        "length": 8
+      },
+      {
+        "token": "heck",
+        "signature": "cehk",
+        "length": 4
+      },
+      {
+        "token": "brutal",
+        "signature": "ablrtu",
+        "length": 6
+      },
+      {
+        "token": "brains",
+        "signature": "abinrs",
+        "length": 6
+      },
+      {
+        "token": "rabbit",
+        "signature": "abirt",
+        "length": 6
+      },
+      {
+        "token": "thoughtfully",
+        "signature": "fghlotuy",
+        "length": 12
+      },
+      {
+        "token": "exhaustion",
+        "signature": "aehinostux",
+        "length": 10
+      },
+      {
+        "token": "symbol",
+        "signature": "blmosy",
+        "length": 6
+      },
+      {
+        "token": "blazing",
+        "signature": "abgilnz",
+        "length": 7
+      },
+      {
+        "token": "steadily",
+        "signature": "adeilsty",
+        "length": 8
+      },
+      {
+        "token": "remarked",
+        "signature": "adekmr",
+        "length": 8
+      },
+      {
+        "token": "bartender",
+        "signature": "abdenrt",
+        "length": 9
+      },
+      {
+        "token": "regarding",
+        "signature": "adeginr",
+        "length": 9
+      },
+      {
+        "token": "arrogant",
+        "signature": "agnort",
+        "length": 8
+      },
+      {
+        "token": "appreciated",
+        "signature": "acdeiprt",
+        "length": 11
+      },
+      {
+        "token": "intentions",
+        "signature": "einost",
+        "length": 10
+      },
+      {
+        "token": "whoa",
+        "signature": "ahow",
+        "length": 4
+      },
+      {
+        "token": "pour",
+        "signature": "opru",
+        "length": 4
+      },
+      {
+        "token": "frightening",
+        "signature": "efghinrt",
+        "length": 11
+      },
+      {
+        "token": "charges",
+        "signature": "aceghrs",
+        "length": 7
+      },
+      {
+        "token": "uncertain",
+        "signature": "aceinrtu",
+        "length": 9
+      },
+      {
+        "token": "garbage",
+        "signature": "abegr",
+        "length": 7
+      },
+      {
+        "token": "generous",
+        "signature": "egnorsu",
+        "length": 8
+      },
+      {
+        "token": "tunnels",
+        "signature": "elnstu",
+        "length": 7
+      },
+      {
+        "token": "tests",
+        "signature": "est",
+        "length": 5
+      },
+      {
+        "token": "crumpled",
+        "signature": "cdelmpru",
+        "length": 8
+      },
+      {
+        "token": "safer",
+        "signature": "aefrs",
+        "length": 5
+      },
+      {
+        "token": "promises",
+        "signature": "eimoprs",
+        "length": 8
+      },
+      {
+        "token": "differently",
+        "signature": "defilnrty",
+        "length": 11
+      }
+    ]
+  }
+}

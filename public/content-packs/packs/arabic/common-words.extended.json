@@ -1,0 +1,7376 @@
+{
+  "packId": "arabic:common-words:extended",
+  "languageId": "arabic",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1472,
+  "stages": {
+    "foundational": [
+      {
+        "token": "التفكير",
+        "signature": "اترفكلي",
+        "length": 7
+      },
+      {
+        "token": "تعود",
+        "signature": "تدعو",
+        "length": 4
+      },
+      {
+        "token": "سيحدث",
+        "signature": "ثحدسي",
+        "length": 5
+      },
+      {
+        "token": "حقيقي",
+        "signature": "حقي",
+        "length": 5
+      },
+      {
+        "token": "زلت",
+        "signature": "تزل",
+        "length": 3
+      },
+      {
+        "token": "اسف",
+        "signature": "اسف",
+        "length": 3
+      },
+      {
+        "token": "علم",
+        "signature": "علم",
+        "length": 3
+      },
+      {
+        "token": "الحديث",
+        "signature": "اثحدلي",
+        "length": 6
+      },
+      {
+        "token": "طلبت",
+        "signature": "بتطل",
+        "length": 4
+      },
+      {
+        "token": "دعيني",
+        "signature": "دعني",
+        "length": 5
+      },
+      {
+        "token": "يحتاج",
+        "signature": "اتجحي",
+        "length": 5
+      },
+      {
+        "token": "خمس",
+        "signature": "خسم",
+        "length": 3
+      },
+      {
+        "token": "تخبرني",
+        "signature": "بتخرني",
+        "length": 6
+      },
+      {
+        "token": "وبعد",
+        "signature": "بدعو",
+        "length": 4
+      },
+      {
+        "token": "عندي",
+        "signature": "دعني",
+        "length": 4
+      },
+      {
+        "token": "النوع",
+        "signature": "اعلنو",
+        "length": 5
+      },
+      {
+        "token": "بيننا",
+        "signature": "ابني",
+        "length": 5
+      },
+      {
+        "token": "خلف",
+        "signature": "خفل",
+        "length": 3
+      },
+      {
+        "token": "تفضل",
+        "signature": "تضفل",
+        "length": 4
+      },
+      {
+        "token": "وصلت",
+        "signature": "تصلو",
+        "length": 4
+      },
+      {
+        "token": "ميت",
+        "signature": "تمي",
+        "length": 3
+      },
+      {
+        "token": "فقدت",
+        "signature": "تدفق",
+        "length": 4
+      },
+      {
+        "token": "مثير",
+        "signature": "ثرمي",
+        "length": 4
+      },
+      {
+        "token": "يعد",
+        "signature": "دعي",
+        "length": 3
+      },
+      {
+        "token": "تفهم",
+        "signature": "تفمه",
+        "length": 4
+      },
+      {
+        "token": "قول",
+        "signature": "قلو",
+        "length": 3
+      },
+      {
+        "token": "منكم",
+        "signature": "كمن",
+        "length": 4
+      },
+      {
+        "token": "تفعلين",
+        "signature": "تعفلني",
+        "length": 6
+      },
+      {
+        "token": "اعتقدت",
+        "signature": "اتدعق",
+        "length": 6
+      },
+      {
+        "token": "مساعدتك",
+        "signature": "اتدسعكم",
+        "length": 7
+      },
+      {
+        "token": "تصبح",
+        "signature": "بتحص",
+        "length": 4
+      },
+      {
+        "token": "الوصول",
+        "signature": "اصلو",
+        "length": 6
+      },
+      {
+        "token": "الجيد",
+        "signature": "اجدلي",
+        "length": 5
+      },
+      {
+        "token": "تشارلي",
+        "signature": "اترشلي",
+        "length": 6
+      },
+      {
+        "token": "بنفسك",
+        "signature": "بسفكن",
+        "length": 5
+      },
+      {
+        "token": "بعضنا",
+        "signature": "ابضعن",
+        "length": 5
+      },
+      {
+        "token": "بتلك",
+        "signature": "بتكل",
+        "length": 4
+      },
+      {
+        "token": "ممكن",
+        "signature": "كمن",
+        "length": 4
+      },
+      {
+        "token": "تذكر",
+        "signature": "تذرك",
+        "length": 4
+      },
+      {
+        "token": "توم",
+        "signature": "تمو",
+        "length": 3
+      },
+      {
+        "token": "وعندما",
+        "signature": "ادعمنو",
+        "length": 6
+      },
+      {
+        "token": "نسيت",
+        "signature": "تسني",
+        "length": 4
+      },
+      {
+        "token": "حالك",
+        "signature": "احكل",
+        "length": 4
+      },
+      {
+        "token": "ذاك",
+        "signature": "اذك",
+        "length": 3
+      },
+      {
+        "token": "يعود",
+        "signature": "دعوي",
+        "length": 4
+      },
+      {
+        "token": "يفترض",
+        "signature": "ترضفي",
+        "length": 5
+      },
+      {
+        "token": "جين",
+        "signature": "جني",
+        "length": 3
+      },
+      {
+        "token": "فعلته",
+        "signature": "تعفله",
+        "length": 5
+      },
+      {
+        "token": "اتصل",
+        "signature": "اتصل",
+        "length": 4
+      },
+      {
+        "token": "كهذا",
+        "signature": "اذكه",
+        "length": 4
+      },
+      {
+        "token": "يريدون",
+        "signature": "درنوي",
+        "length": 6
+      },
+      {
+        "token": "جهاز",
+        "signature": "اجزه",
+        "length": 4
+      },
+      {
+        "token": "الصعب",
+        "signature": "ابصعل",
+        "length": 5
+      },
+      {
+        "token": "نعلم",
+        "signature": "علمن",
+        "length": 4
+      },
+      {
+        "token": "الجانب",
+        "signature": "ابجلن",
+        "length": 6
+      },
+      {
+        "token": "قم",
+        "signature": "قم",
+        "length": 2
+      },
+      {
+        "token": "النظر",
+        "signature": "ارظلن",
+        "length": 5
+      },
+      {
+        "token": "يزال",
+        "signature": "ازلي",
+        "length": 4
+      },
+      {
+        "token": "عما",
+        "signature": "اعم",
+        "length": 3
+      },
+      {
+        "token": "دي",
+        "signature": "دي",
+        "length": 2
+      },
+      {
+        "token": "الكبير",
+        "signature": "ابركلي",
+        "length": 6
+      },
+      {
+        "token": "اسمي",
+        "signature": "اسمي",
+        "length": 4
+      },
+      {
+        "token": "تفكر",
+        "signature": "ترفك",
+        "length": 4
+      },
+      {
+        "token": "عرض",
+        "signature": "رضع",
+        "length": 3
+      },
+      {
+        "token": "تحمل",
+        "signature": "تحلم",
+        "length": 4
+      },
+      {
+        "token": "فلا",
+        "signature": "افل",
+        "length": 3
+      },
+      {
+        "token": "المعلومات",
+        "signature": "اتعلمو",
+        "length": 9
+      },
+      {
+        "token": "القليل",
+        "signature": "اقلي",
+        "length": 6
+      },
+      {
+        "token": "لويس",
+        "signature": "سلوي",
+        "length": 4
+      },
+      {
+        "token": "موعد",
+        "signature": "دعمو",
+        "length": 4
+      },
+      {
+        "token": "ببعض",
+        "signature": "بضع",
+        "length": 4
+      },
+      {
+        "token": "يتحدث",
+        "signature": "تثحدي",
+        "length": 5
+      },
+      {
+        "token": "مقابل",
+        "signature": "ابقلم",
+        "length": 5
+      },
+      {
+        "token": "ذاهب",
+        "signature": "ابذه",
+        "length": 4
+      },
+      {
+        "token": "ترك",
+        "signature": "ترك",
+        "length": 3
+      },
+      {
+        "token": "الواضح",
+        "signature": "احضلو",
+        "length": 6
+      },
+      {
+        "token": "بكم",
+        "signature": "بكم",
+        "length": 3
+      },
+      {
+        "token": "الحقيقي",
+        "signature": "احقلي",
+        "length": 7
+      },
+      {
+        "token": "بنفسي",
+        "signature": "بسفني",
+        "length": 5
+      },
+      {
+        "token": "بكثير",
+        "signature": "بثركي",
+        "length": 5
+      },
+      {
+        "token": "يقولون",
+        "signature": "قلنوي",
+        "length": 6
+      },
+      {
+        "token": "بعدها",
+        "signature": "ابدعه",
+        "length": 5
+      },
+      {
+        "token": "معهم",
+        "signature": "عمه",
+        "length": 4
+      },
+      {
+        "token": "قط",
+        "signature": "طق",
+        "length": 2
+      },
+      {
+        "token": "زال",
+        "signature": "ازل",
+        "length": 3
+      },
+      {
+        "token": "البحث",
+        "signature": "ابثحل",
+        "length": 5
+      },
+      {
+        "token": "المناسب",
+        "signature": "ابسلمن",
+        "length": 7
+      },
+      {
+        "token": "مهم",
+        "signature": "مه",
+        "length": 3
+      },
+      {
+        "token": "الشمس",
+        "signature": "اسشلم",
+        "length": 5
+      },
+      {
+        "token": "الدم",
+        "signature": "ادلم",
+        "length": 4
+      },
+      {
+        "token": "طالما",
+        "signature": "اطلم",
+        "length": 5
+      },
+      {
+        "token": "اسمه",
+        "signature": "اسمه",
+        "length": 4
+      },
+      {
+        "token": "عليكم",
+        "signature": "عكلمي",
+        "length": 5
+      },
+      {
+        "token": "تبدين",
+        "signature": "بتدني",
+        "length": 5
+      },
+      {
+        "token": "صعب",
+        "signature": "بصع",
+        "length": 3
+      },
+      {
+        "token": "حيال",
+        "signature": "احلي",
+        "length": 4
+      },
+      {
+        "token": "مشاكل",
+        "signature": "اشكلم",
+        "length": 5
+      },
+      {
+        "token": "عالم",
+        "signature": "اعلم",
+        "length": 4
+      },
+      {
+        "token": "بيل",
+        "signature": "بلي",
+        "length": 3
+      },
+      {
+        "token": "للعمل",
+        "signature": "علم",
+        "length": 5
+      },
+      {
+        "token": "توقفي",
+        "signature": "تفقوي",
+        "length": 5
+      },
+      {
+        "token": "الزواج",
+        "signature": "اجزلو",
+        "length": 6
+      },
+      {
+        "token": "بعيدا",
+        "signature": "ابدعي",
+        "length": 5
+      },
+      {
+        "token": "مركز",
+        "signature": "رزكم",
+        "length": 4
+      },
+      {
+        "token": "فكرت",
+        "signature": "ترفك",
+        "length": 4
+      },
+      {
+        "token": "اكون",
+        "signature": "اكنو",
+        "length": 4
+      },
+      {
+        "token": "صوت",
+        "signature": "تصو",
+        "length": 3
+      },
+      {
+        "token": "انتظري",
+        "signature": "اترظني",
+        "length": 6
+      },
+      {
+        "token": "وهذه",
+        "signature": "ذهو",
+        "length": 4
+      },
+      {
+        "token": "سنكون",
+        "signature": "سكنو",
+        "length": 5
+      },
+      {
+        "token": "خطر",
+        "signature": "خرط",
+        "length": 3
+      },
+      {
+        "token": "الدخول",
+        "signature": "اخدلو",
+        "length": 6
+      },
+      {
+        "token": "ماري",
+        "signature": "ارمي",
+        "length": 4
+      },
+      {
+        "token": "لكننا",
+        "signature": "اكلن",
+        "length": 5
+      },
+      {
+        "token": "الثاني",
+        "signature": "اثلني",
+        "length": 6
+      },
+      {
+        "token": "الكلام",
+        "signature": "اكلم",
+        "length": 6
+      },
+      {
+        "token": "سنذهب",
+        "signature": "بذسنه",
+        "length": 5
+      },
+      {
+        "token": "الداخل",
+        "signature": "اخدل",
+        "length": 6
+      },
+      {
+        "token": "تعتقدين",
+        "signature": "تدعقني",
+        "length": 7
+      },
+      {
+        "token": "الحظ",
+        "signature": "احظل",
+        "length": 4
+      },
+      {
+        "token": "تحرك",
+        "signature": "تحرك",
+        "length": 4
+      },
+      {
+        "token": "ينتهي",
+        "signature": "تنهي",
+        "length": 5
+      },
+      {
+        "token": "اخرج",
+        "signature": "اجخر",
+        "length": 4
+      },
+      {
+        "token": "قسم",
+        "signature": "سقم",
+        "length": 3
+      },
+      {
+        "token": "وانت",
+        "signature": "اتنو",
+        "length": 4
+      },
+      {
+        "token": "الاتصال",
+        "signature": "اتصل",
+        "length": 7
+      },
+      {
+        "token": "كلارك",
+        "signature": "اركل",
+        "length": 5
+      },
+      {
+        "token": "العثور",
+        "signature": "اثرعلو",
+        "length": 6
+      },
+      {
+        "token": "كامل",
+        "signature": "اكلم",
+        "length": 4
+      },
+      {
+        "token": "مازال",
+        "signature": "ازلم",
+        "length": 5
+      },
+      {
+        "token": "البشر",
+        "signature": "ابرشل",
+        "length": 5
+      },
+      {
+        "token": "حبيبتي",
+        "signature": "بتحي",
+        "length": 6
+      },
+      {
+        "token": "مختلف",
+        "signature": "تخفلم",
+        "length": 5
+      },
+      {
+        "token": "تعيش",
+        "signature": "تشعي",
+        "length": 4
+      },
+      {
+        "token": "موجود",
+        "signature": "جدمو",
+        "length": 5
+      },
+      {
+        "token": "يموت",
+        "signature": "تموي",
+        "length": 4
+      },
+      {
+        "token": "وكيف",
+        "signature": "فكوي",
+        "length": 4
+      },
+      {
+        "token": "يحب",
+        "signature": "بحي",
+        "length": 3
+      },
+      {
+        "token": "ضع",
+        "signature": "ضع",
+        "length": 2
+      },
+      {
+        "token": "الحق",
+        "signature": "احقل",
+        "length": 4
+      },
+      {
+        "token": "فعلا",
+        "signature": "اعفل",
+        "length": 4
+      },
+      {
+        "token": "ولكنك",
+        "signature": "كلنو",
+        "length": 5
+      },
+      {
+        "token": "صاح",
+        "signature": "احص",
+        "length": 3
+      },
+      {
+        "token": "جيمي",
+        "signature": "جمي",
+        "length": 4
+      },
+      {
+        "token": "ستفعل",
+        "signature": "تسعفل",
+        "length": 5
+      },
+      {
+        "token": "بعمل",
+        "signature": "بعلم",
+        "length": 4
+      },
+      {
+        "token": "وهل",
+        "signature": "لهو",
+        "length": 3
+      },
+      {
+        "token": "الدكتور",
+        "signature": "اتدركلو",
+        "length": 7
+      },
+      {
+        "token": "الفريق",
+        "signature": "ارفقلي",
+        "length": 6
+      },
+      {
+        "token": "منتصف",
+        "signature": "تصفمن",
+        "length": 5
+      },
+      {
+        "token": "مستعد",
+        "signature": "تدسعم",
+        "length": 5
+      },
+      {
+        "token": "محق",
+        "signature": "حقم",
+        "length": 3
+      },
+      {
+        "token": "الشارع",
+        "signature": "ارشعل",
+        "length": 6
+      },
+      {
+        "token": "تنظر",
+        "signature": "ترظن",
+        "length": 4
+      },
+      {
+        "token": "اقول",
+        "signature": "اقلو",
+        "length": 4
+      },
+      {
+        "token": "المخدرات",
+        "signature": "اتخدرلم",
+        "length": 8
+      },
+      {
+        "token": "وجه",
+        "signature": "جهو",
+        "length": 3
+      },
+      {
+        "token": "ولكنني",
+        "signature": "كلنوي",
+        "length": 6
+      },
+      {
+        "token": "القانون",
+        "signature": "اقلنو",
+        "length": 7
+      },
+      {
+        "token": "التالي",
+        "signature": "اتلي",
+        "length": 6
+      },
+      {
+        "token": "فعلها",
+        "signature": "اعفله",
+        "length": 5
+      },
+      {
+        "token": "ماكس",
+        "signature": "اسكم",
+        "length": 4
+      },
+      {
+        "token": "يعيش",
+        "signature": "شعي",
+        "length": 4
+      },
+      {
+        "token": "واضح",
+        "signature": "احضو",
+        "length": 4
+      },
+      {
+        "token": "كثير",
+        "signature": "ثركي",
+        "length": 4
+      },
+      {
+        "token": "عاد",
+        "signature": "ادع",
+        "length": 3
+      },
+      {
+        "token": "معلومات",
+        "signature": "اتعلمو",
+        "length": 7
+      },
+      {
+        "token": "فلن",
+        "signature": "فلن",
+        "length": 3
+      },
+      {
+        "token": "ابني",
+        "signature": "ابني",
+        "length": 4
+      },
+      {
+        "token": "حوالي",
+        "signature": "احلوي",
+        "length": 5
+      },
+      {
+        "token": "جيمس",
+        "signature": "جسمي",
+        "length": 4
+      },
+      {
+        "token": "تركت",
+        "signature": "ترك",
+        "length": 4
+      },
+      {
+        "token": "وبعدها",
+        "signature": "ابدعهو",
+        "length": 6
+      },
+      {
+        "token": "ولقد",
+        "signature": "دقلو",
+        "length": 4
+      },
+      {
+        "token": "شعرت",
+        "signature": "ترشع",
+        "length": 4
+      },
+      {
+        "token": "والذي",
+        "signature": "اذلوي",
+        "length": 5
+      },
+      {
+        "token": "ابتعد",
+        "signature": "ابتدع",
+        "length": 5
+      },
+      {
+        "token": "الشعور",
+        "signature": "ارشعلو",
+        "length": 6
+      },
+      {
+        "token": "تبحث",
+        "signature": "بتثح",
+        "length": 4
+      },
+      {
+        "token": "نظام",
+        "signature": "اظمن",
+        "length": 4
+      },
+      {
+        "token": "عدت",
+        "signature": "تدع",
+        "length": 3
+      },
+      {
+        "token": "موقع",
+        "signature": "عقمو",
+        "length": 4
+      },
+      {
+        "token": "معا",
+        "signature": "اعم",
+        "length": 3
+      },
+      {
+        "token": "يعتقد",
+        "signature": "تدعقي",
+        "length": 5
+      },
+      {
+        "token": "قليل",
+        "signature": "قلي",
+        "length": 4
+      },
+      {
+        "token": "العميل",
+        "signature": "اعلمي",
+        "length": 6
+      },
+      {
+        "token": "مازلت",
+        "signature": "اتزلم",
+        "length": 5
+      },
+      {
+        "token": "تزال",
+        "signature": "اتزل",
+        "length": 4
+      },
+      {
+        "token": "زوجتك",
+        "signature": "تجزكو",
+        "length": 5
+      },
+      {
+        "token": "ميلاد",
+        "signature": "ادلمي",
+        "length": 5
+      },
+      {
+        "token": "نفسها",
+        "signature": "اسفنه",
+        "length": 5
+      },
+      {
+        "token": "تود",
+        "signature": "تدو",
+        "length": 3
+      },
+      {
+        "token": "علمت",
+        "signature": "تعلم",
+        "length": 4
+      },
+      {
+        "token": "دليل",
+        "signature": "دلي",
+        "length": 4
+      },
+      {
+        "token": "طبيب",
+        "signature": "بطي",
+        "length": 4
+      },
+      {
+        "token": "القتل",
+        "signature": "اتقل",
+        "length": 5
+      },
+      {
+        "token": "تخرج",
+        "signature": "تجخر",
+        "length": 4
+      },
+      {
+        "token": "تجد",
+        "signature": "تجد",
+        "length": 3
+      },
+      {
+        "token": "الهدف",
+        "signature": "ادفله",
+        "length": 5
+      },
+      {
+        "token": "الكتاب",
+        "signature": "ابتكل",
+        "length": 6
+      },
+      {
+        "token": "سي",
+        "signature": "سي",
+        "length": 2
+      },
+      {
+        "token": "هنري",
+        "signature": "رنهي",
+        "length": 4
+      },
+      {
+        "token": "مرات",
+        "signature": "اترم",
+        "length": 4
+      },
+      {
+        "token": "مره",
+        "signature": "رمه",
+        "length": 3
+      },
+      {
+        "token": "شهر",
+        "signature": "رشه",
+        "length": 3
+      },
+      {
+        "token": "البحر",
+        "signature": "ابحرل",
+        "length": 5
+      },
+      {
+        "token": "نجد",
+        "signature": "جدن",
+        "length": 3
+      },
+      {
+        "token": "مهلا",
+        "signature": "المه",
+        "length": 4
+      },
+      {
+        "token": "يصبح",
+        "signature": "بحصي",
+        "length": 4
+      },
+      {
+        "token": "وضعت",
+        "signature": "تضعو",
+        "length": 4
+      },
+      {
+        "token": "تملك",
+        "signature": "تكلم",
+        "length": 4
+      },
+      {
+        "token": "ممتاز",
+        "signature": "اتزم",
+        "length": 5
+      },
+      {
+        "token": "يارجل",
+        "signature": "اجرلي",
+        "length": 5
+      },
+      {
+        "token": "فهذا",
+        "signature": "اذفه",
+        "length": 4
+      },
+      {
+        "token": "انتي",
+        "signature": "اتني",
+        "length": 4
+      },
+      {
+        "token": "ترغب",
+        "signature": "بترغ",
+        "length": 4
+      },
+      {
+        "token": "تمت",
+        "signature": "تم",
+        "length": 3
+      },
+      {
+        "token": "عملي",
+        "signature": "علمي",
+        "length": 4
+      },
+      {
+        "token": "غدا",
+        "signature": "ادغ",
+        "length": 3
+      },
+      {
+        "token": "خيار",
+        "signature": "اخري",
+        "length": 4
+      },
+      {
+        "token": "كلنا",
+        "signature": "اكلن",
+        "length": 4
+      },
+      {
+        "token": "تموت",
+        "signature": "تمو",
+        "length": 4
+      },
+      {
+        "token": "عدا",
+        "signature": "ادع",
+        "length": 3
+      },
+      {
+        "token": "تقصد",
+        "signature": "تدصق",
+        "length": 4
+      },
+      {
+        "token": "المكتب",
+        "signature": "ابتكلم",
+        "length": 6
+      },
+      {
+        "token": "كلما",
+        "signature": "اكلم",
+        "length": 4
+      },
+      {
+        "token": "ديفيد",
+        "signature": "دفي",
+        "length": 5
+      },
+      {
+        "token": "السلاح",
+        "signature": "احسل",
+        "length": 6
+      },
+      {
+        "token": "راي",
+        "signature": "اري",
+        "length": 3
+      },
+      {
+        "token": "فيلم",
+        "signature": "فلمي",
+        "length": 4
+      },
+      {
+        "token": "صديقك",
+        "signature": "دصقكي",
+        "length": 5
+      },
+      {
+        "token": "العرض",
+        "signature": "ارضعل",
+        "length": 5
+      },
+      {
+        "token": "يستحق",
+        "signature": "تحسقي",
+        "length": 5
+      },
+      {
+        "token": "تغيير",
+        "signature": "ترغي",
+        "length": 5
+      },
+      {
+        "token": "سبق",
+        "signature": "بسق",
+        "length": 3
+      },
+      {
+        "token": "حتي",
+        "signature": "تحي",
+        "length": 3
+      },
+      {
+        "token": "تفعلي",
+        "signature": "تعفلي",
+        "length": 5
+      },
+      {
+        "token": "لطالما",
+        "signature": "اطلم",
+        "length": 6
+      },
+      {
+        "token": "صاحب",
+        "signature": "ابحص",
+        "length": 4
+      },
+      {
+        "token": "حينها",
+        "signature": "احنهي",
+        "length": 5
+      },
+      {
+        "token": "حسن",
+        "signature": "حسن",
+        "length": 3
+      },
+      {
+        "token": "ال",
+        "signature": "ال",
+        "length": 2
+      },
+      {
+        "token": "يجعل",
+        "signature": "جعلي",
+        "length": 4
+      },
+      {
+        "token": "يجدر",
+        "signature": "جدري",
+        "length": 4
+      },
+      {
+        "token": "مضحك",
+        "signature": "حضكم",
+        "length": 4
+      },
+      {
+        "token": "كوني",
+        "signature": "كنوي",
+        "length": 4
+      },
+      {
+        "token": "جاهز",
+        "signature": "اجزه",
+        "length": 4
+      },
+      {
+        "token": "القادم",
+        "signature": "ادقلم",
+        "length": 6
+      },
+      {
+        "token": "يديك",
+        "signature": "دكي",
+        "length": 4
+      },
+      {
+        "token": "بالكامل",
+        "signature": "ابكلم",
+        "length": 7
+      },
+      {
+        "token": "الطابق",
+        "signature": "ابطقل",
+        "length": 6
+      },
+      {
+        "token": "قلبي",
+        "signature": "بقلي",
+        "length": 4
+      },
+      {
+        "token": "النقود",
+        "signature": "ادقلنو",
+        "length": 6
+      },
+      {
+        "token": "بعيد",
+        "signature": "بدعي",
+        "length": 4
+      },
+      {
+        "token": "سلاح",
+        "signature": "احسل",
+        "length": 4
+      },
+      {
+        "token": "المحتمل",
+        "signature": "اتحلم",
+        "length": 7
+      },
+      {
+        "token": "تستطيعين",
+        "signature": "تسطعني",
+        "length": 8
+      },
+      {
+        "token": "يتعلق",
+        "signature": "تعقلي",
+        "length": 5
+      },
+      {
+        "token": "اشعر",
+        "signature": "ارشع",
+        "length": 4
+      },
+      {
+        "token": "الجيش",
+        "signature": "اجشلي",
+        "length": 5
+      },
+      {
+        "token": "ابدا",
+        "signature": "ابد",
+        "length": 4
+      },
+      {
+        "token": "جيم",
+        "signature": "جمي",
+        "length": 3
+      },
+      {
+        "token": "يمكنها",
+        "signature": "اكمنهي",
+        "length": 6
+      },
+      {
+        "token": "يكونوا",
+        "signature": "اكنوي",
+        "length": 6
+      },
+      {
+        "token": "عندك",
+        "signature": "دعكن",
+        "length": 4
+      },
+      {
+        "token": "ام",
+        "signature": "ام",
+        "length": 2
+      },
+      {
+        "token": "ماتت",
+        "signature": "اتم",
+        "length": 4
+      },
+      {
+        "token": "ابي",
+        "signature": "ابي",
+        "length": 3
+      },
+      {
+        "token": "مكانك",
+        "signature": "اكمن",
+        "length": 5
+      },
+      {
+        "token": "الخط",
+        "signature": "اخطل",
+        "length": 4
+      },
+      {
+        "token": "المشاكل",
+        "signature": "اشكلم",
+        "length": 7
+      },
+      {
+        "token": "عندها",
+        "signature": "ادعنه",
+        "length": 5
+      },
+      {
+        "token": "زوجي",
+        "signature": "جزوي",
+        "length": 4
+      },
+      {
+        "token": "الصحيح",
+        "signature": "احصلي",
+        "length": 6
+      },
+      {
+        "token": "الصور",
+        "signature": "ارصلو",
+        "length": 5
+      },
+      {
+        "token": "اه",
+        "signature": "اه",
+        "length": 2
+      },
+      {
+        "token": "هاري",
+        "signature": "ارهي",
+        "length": 4
+      },
+      {
+        "token": "القتال",
+        "signature": "اتقل",
+        "length": 6
+      },
+      {
+        "token": "ولكنها",
+        "signature": "اكلنهو",
+        "length": 6
+      },
+      {
+        "token": "اللعنه",
+        "signature": "اعلنه",
+        "length": 6
+      },
+      {
+        "token": "القاتل",
+        "signature": "اتقل",
+        "length": 6
+      },
+      {
+        "token": "داني",
+        "signature": "ادني",
+        "length": 4
+      },
+      {
+        "token": "ليسوا",
+        "signature": "اسلوي",
+        "length": 5
+      },
+      {
+        "token": "وهم",
+        "signature": "مهو",
+        "length": 3
+      },
+      {
+        "token": "دعينا",
+        "signature": "ادعني",
+        "length": 5
+      },
+      {
+        "token": "ملك",
+        "signature": "كلم",
+        "length": 3
+      },
+      {
+        "token": "كلانا",
+        "signature": "اكلن",
+        "length": 5
+      },
+      {
+        "token": "بنفس",
+        "signature": "بسفن",
+        "length": 4
+      },
+      {
+        "token": "حياته",
+        "signature": "اتحهي",
+        "length": 5
+      },
+      {
+        "token": "بوسعي",
+        "signature": "بسعوي",
+        "length": 5
+      },
+      {
+        "token": "بالكاد",
+        "signature": "ابدكل",
+        "length": 6
+      },
+      {
+        "token": "بالداخل",
+        "signature": "ابخدل",
+        "length": 7
+      },
+      {
+        "token": "قطع",
+        "signature": "طعق",
+        "length": 3
+      },
+      {
+        "token": "العيش",
+        "signature": "اشعلي",
+        "length": 5
+      },
+      {
+        "token": "تقل",
+        "signature": "تقل",
+        "length": 3
+      },
+      {
+        "token": "سماع",
+        "signature": "اسعم",
+        "length": 4
+      },
+      {
+        "token": "ارجوك",
+        "signature": "اجركو",
+        "length": 5
+      },
+      {
+        "token": "قامت",
+        "signature": "اتقم",
+        "length": 4
+      },
+      {
+        "token": "لبعض",
+        "signature": "بضعل",
+        "length": 4
+      },
+      {
+        "token": "قريب",
+        "signature": "برقي",
+        "length": 4
+      },
+      {
+        "token": "لوس",
+        "signature": "سلو",
+        "length": 3
+      },
+      {
+        "token": "سنقوم",
+        "signature": "سقمنو",
+        "length": 5
+      },
+      {
+        "token": "شباب",
+        "signature": "ابش",
+        "length": 4
+      },
+      {
+        "token": "القلب",
+        "signature": "ابقل",
+        "length": 5
+      },
+      {
+        "token": "صندوق",
+        "signature": "دصقنو",
+        "length": 5
+      },
+      {
+        "token": "القديم",
+        "signature": "ادقلمي",
+        "length": 6
+      },
+      {
+        "token": "تعد",
+        "signature": "تدع",
+        "length": 3
+      },
+      {
+        "token": "خاص",
+        "signature": "اخص",
+        "length": 3
+      }
+    ],
+    "developing": [
+      {
+        "token": "يطلب",
+        "signature": "بطلي",
+        "length": 4
+      },
+      {
+        "token": "تشغيل",
+        "signature": "تشغلي",
+        "length": 5
+      },
+      {
+        "token": "ليكس",
+        "signature": "سكلي",
+        "length": 4
+      },
+      {
+        "token": "وقتا",
+        "signature": "اتقو",
+        "length": 4
+      },
+      {
+        "token": "كول",
+        "signature": "كلو",
+        "length": 3
+      },
+      {
+        "token": "يطلق",
+        "signature": "طقلي",
+        "length": 4
+      },
+      {
+        "token": "كارين",
+        "signature": "اركني",
+        "length": 5
+      },
+      {
+        "token": "ستعود",
+        "signature": "تدسعو",
+        "length": 5
+      },
+      {
+        "token": "ستارك",
+        "signature": "اترسك",
+        "length": 5
+      },
+      {
+        "token": "دخول",
+        "signature": "خدلو",
+        "length": 4
+      },
+      {
+        "token": "ليو",
+        "signature": "لوي",
+        "length": 3
+      },
+      {
+        "token": "خسرت",
+        "signature": "تخرس",
+        "length": 4
+      },
+      {
+        "token": "البيانات",
+        "signature": "ابتلني",
+        "length": 8
+      },
+      {
+        "token": "صوتك",
+        "signature": "تصكو",
+        "length": 4
+      },
+      {
+        "token": "ابنتك",
+        "signature": "ابتكن",
+        "length": 5
+      },
+      {
+        "token": "لكنت",
+        "signature": "تكلن",
+        "length": 4
+      },
+      {
+        "token": "تجلس",
+        "signature": "تجسل",
+        "length": 4
+      },
+      {
+        "token": "ليكون",
+        "signature": "كلنوي",
+        "length": 5
+      },
+      {
+        "token": "طريقنا",
+        "signature": "ارطقني",
+        "length": 6
+      },
+      {
+        "token": "اليسار",
+        "signature": "ارسلي",
+        "length": 6
+      },
+      {
+        "token": "الحد",
+        "signature": "احدل",
+        "length": 4
+      },
+      {
+        "token": "يقود",
+        "signature": "دقوي",
+        "length": 4
+      },
+      {
+        "token": "وها",
+        "signature": "اهو",
+        "length": 3
+      },
+      {
+        "token": "شيكاغو",
+        "signature": "اشغكوي",
+        "length": 6
+      },
+      {
+        "token": "حدود",
+        "signature": "حدو",
+        "length": 4
+      },
+      {
+        "token": "السريع",
+        "signature": "ارسعلي",
+        "length": 6
+      },
+      {
+        "token": "هربت",
+        "signature": "بتره",
+        "length": 4
+      },
+      {
+        "token": "بحلول",
+        "signature": "بحلو",
+        "length": 5
+      },
+      {
+        "token": "الحقيقه",
+        "signature": "احقلهي",
+        "length": 7
+      },
+      {
+        "token": "التخلص",
+        "signature": "اتخصل",
+        "length": 6
+      },
+      {
+        "token": "تراه",
+        "signature": "اتره",
+        "length": 4
+      },
+      {
+        "token": "الشريط",
+        "signature": "ارشطلي",
+        "length": 6
+      },
+      {
+        "token": "بروس",
+        "signature": "برسو",
+        "length": 4
+      },
+      {
+        "token": "سجل",
+        "signature": "جسل",
+        "length": 3
+      },
+      {
+        "token": "تعرض",
+        "signature": "ترضع",
+        "length": 4
+      },
+      {
+        "token": "السماح",
+        "signature": "احسلم",
+        "length": 6
+      },
+      {
+        "token": "وحده",
+        "signature": "حدهو",
+        "length": 4
+      },
+      {
+        "token": "يتصل",
+        "signature": "تصلي",
+        "length": 4
+      },
+      {
+        "token": "تجري",
+        "signature": "تجري",
+        "length": 4
+      },
+      {
+        "token": "ذاهبون",
+        "signature": "ابذنهو",
+        "length": 6
+      },
+      {
+        "token": "انهض",
+        "signature": "اضنه",
+        "length": 4
+      },
+      {
+        "token": "عيني",
+        "signature": "عني",
+        "length": 4
+      },
+      {
+        "token": "جيل",
+        "signature": "جلي",
+        "length": 3
+      },
+      {
+        "token": "يخبرني",
+        "signature": "بخرني",
+        "length": 6
+      },
+      {
+        "token": "صنعت",
+        "signature": "تصعن",
+        "length": 4
+      },
+      {
+        "token": "اليد",
+        "signature": "ادلي",
+        "length": 4
+      },
+      {
+        "token": "المسرح",
+        "signature": "احرسلم",
+        "length": 6
+      },
+      {
+        "token": "نتكلم",
+        "signature": "تكلمن",
+        "length": 5
+      },
+      {
+        "token": "ساعتين",
+        "signature": "اتسعني",
+        "length": 6
+      },
+      {
+        "token": "ماك",
+        "signature": "اكم",
+        "length": 3
+      },
+      {
+        "token": "التصرف",
+        "signature": "اترصفل",
+        "length": 6
+      },
+      {
+        "token": "تقع",
+        "signature": "تعق",
+        "length": 3
+      },
+      {
+        "token": "يدور",
+        "signature": "دروي",
+        "length": 4
+      },
+      {
+        "token": "لسبب",
+        "signature": "بسل",
+        "length": 4
+      },
+      {
+        "token": "وحش",
+        "signature": "حشو",
+        "length": 3
+      },
+      {
+        "token": "السن",
+        "signature": "اسلن",
+        "length": 4
+      },
+      {
+        "token": "المستحيل",
+        "signature": "اتحسلمي",
+        "length": 8
+      },
+      {
+        "token": "ماركوس",
+        "signature": "ارسكمو",
+        "length": 6
+      },
+      {
+        "token": "النهار",
+        "signature": "ارلنه",
+        "length": 6
+      },
+      {
+        "token": "هاتفي",
+        "signature": "اتفهي",
+        "length": 5
+      },
+      {
+        "token": "ياله",
+        "signature": "الهي",
+        "length": 4
+      },
+      {
+        "token": "تقصدين",
+        "signature": "تدصقني",
+        "length": 6
+      },
+      {
+        "token": "الفصل",
+        "signature": "اصفل",
+        "length": 5
+      },
+      {
+        "token": "تسبب",
+        "signature": "بتس",
+        "length": 4
+      },
+      {
+        "token": "زوجها",
+        "signature": "اجزهو",
+        "length": 5
+      },
+      {
+        "token": "فات",
+        "signature": "اتف",
+        "length": 3
+      },
+      {
+        "token": "الخامس",
+        "signature": "اخسلم",
+        "length": 6
+      },
+      {
+        "token": "يساعد",
+        "signature": "ادسعي",
+        "length": 5
+      },
+      {
+        "token": "جاكسون",
+        "signature": "اجسكنو",
+        "length": 6
+      },
+      {
+        "token": "طرق",
+        "signature": "رطق",
+        "length": 3
+      },
+      {
+        "token": "ينتظر",
+        "signature": "ترظني",
+        "length": 5
+      },
+      {
+        "token": "روبن",
+        "signature": "برنو",
+        "length": 4
+      },
+      {
+        "token": "عادي",
+        "signature": "ادعي",
+        "length": 4
+      },
+      {
+        "token": "فلنذهب",
+        "signature": "بذفلنه",
+        "length": 6
+      },
+      {
+        "token": "عمري",
+        "signature": "رعمي",
+        "length": 4
+      },
+      {
+        "token": "لصالح",
+        "signature": "احصل",
+        "length": 5
+      },
+      {
+        "token": "ذهبنا",
+        "signature": "ابذنه",
+        "length": 5
+      },
+      {
+        "token": "لرجل",
+        "signature": "جرل",
+        "length": 4
+      },
+      {
+        "token": "المرح",
+        "signature": "احرلم",
+        "length": 5
+      },
+      {
+        "token": "شاهدت",
+        "signature": "اتدشه",
+        "length": 5
+      },
+      {
+        "token": "الجنون",
+        "signature": "اجلنو",
+        "length": 6
+      },
+      {
+        "token": "الجهاز",
+        "signature": "اجزله",
+        "length": 6
+      },
+      {
+        "token": "وجدتها",
+        "signature": "اتجدهو",
+        "length": 6
+      },
+      {
+        "token": "الشوارع",
+        "signature": "ارشعلو",
+        "length": 7
+      },
+      {
+        "token": "التدريب",
+        "signature": "ابتدرلي",
+        "length": 7
+      },
+      {
+        "token": "عشرون",
+        "signature": "رشعنو",
+        "length": 5
+      },
+      {
+        "token": "تحدثنا",
+        "signature": "اتثحدن",
+        "length": 6
+      },
+      {
+        "token": "دورك",
+        "signature": "دركو",
+        "length": 4
+      },
+      {
+        "token": "اخبرتك",
+        "signature": "ابتخرك",
+        "length": 6
+      },
+      {
+        "token": "بارك",
+        "signature": "ابرك",
+        "length": 4
+      },
+      {
+        "token": "استخدم",
+        "signature": "اتخدسم",
+        "length": 6
+      },
+      {
+        "token": "سرق",
+        "signature": "رسق",
+        "length": 3
+      },
+      {
+        "token": "الهند",
+        "signature": "ادلنه",
+        "length": 5
+      },
+      {
+        "token": "سيعود",
+        "signature": "دسعوي",
+        "length": 5
+      },
+      {
+        "token": "كيرا",
+        "signature": "اركي",
+        "length": 4
+      },
+      {
+        "token": "كونك",
+        "signature": "كنو",
+        "length": 4
+      },
+      {
+        "token": "الرصاص",
+        "signature": "ارصل",
+        "length": 6
+      },
+      {
+        "token": "نجحت",
+        "signature": "تجحن",
+        "length": 4
+      },
+      {
+        "token": "وحيد",
+        "signature": "حدوي",
+        "length": 4
+      },
+      {
+        "token": "تستمع",
+        "signature": "تسعم",
+        "length": 5
+      },
+      {
+        "token": "القرن",
+        "signature": "ارقلن",
+        "length": 5
+      },
+      {
+        "token": "المطعم",
+        "signature": "اطعلم",
+        "length": 6
+      },
+      {
+        "token": "رجلا",
+        "signature": "اجرل",
+        "length": 4
+      },
+      {
+        "token": "براين",
+        "signature": "ابرني",
+        "length": 5
+      },
+      {
+        "token": "الخاتم",
+        "signature": "اتخلم",
+        "length": 6
+      },
+      {
+        "token": "جوش",
+        "signature": "جشو",
+        "length": 3
+      },
+      {
+        "token": "جيك",
+        "signature": "جكي",
+        "length": 3
+      },
+      {
+        "token": "واحدا",
+        "signature": "احدو",
+        "length": 5
+      },
+      {
+        "token": "زي",
+        "signature": "زي",
+        "length": 2
+      },
+      {
+        "token": "عنده",
+        "signature": "دعنه",
+        "length": 4
+      },
+      {
+        "token": "ساعدوني",
+        "signature": "ادسعنوي",
+        "length": 7
+      },
+      {
+        "token": "بالكثير",
+        "signature": "ابثركلي",
+        "length": 7
+      },
+      {
+        "token": "جايك",
+        "signature": "اجكي",
+        "length": 4
+      },
+      {
+        "token": "لهنا",
+        "signature": "النه",
+        "length": 4
+      },
+      {
+        "token": "المشتبه",
+        "signature": "ابتشلمه",
+        "length": 7
+      },
+      {
+        "token": "مخدرات",
+        "signature": "اتخدرم",
+        "length": 6
+      },
+      {
+        "token": "يعتبر",
+        "signature": "بترعي",
+        "length": 5
+      },
+      {
+        "token": "كيلي",
+        "signature": "كلي",
+        "length": 4
+      },
+      {
+        "token": "لانك",
+        "signature": "اكلن",
+        "length": 4
+      },
+      {
+        "token": "عجوز",
+        "signature": "جزعو",
+        "length": 4
+      },
+      {
+        "token": "جعلني",
+        "signature": "جعلني",
+        "length": 5
+      },
+      {
+        "token": "نار",
+        "signature": "ارن",
+        "length": 3
+      },
+      {
+        "token": "الحكم",
+        "signature": "احكلم",
+        "length": 5
+      },
+      {
+        "token": "قومي",
+        "signature": "قموي",
+        "length": 4
+      },
+      {
+        "token": "صديقتك",
+        "signature": "تدصقكي",
+        "length": 6
+      },
+      {
+        "token": "تدرك",
+        "signature": "تدرك",
+        "length": 4
+      },
+      {
+        "token": "اسرع",
+        "signature": "ارسع",
+        "length": 4
+      },
+      {
+        "token": "يترك",
+        "signature": "تركي",
+        "length": 4
+      },
+      {
+        "token": "الحفل",
+        "signature": "احفل",
+        "length": 5
+      },
+      {
+        "token": "حيوان",
+        "signature": "احنوي",
+        "length": 5
+      },
+      {
+        "token": "ولدت",
+        "signature": "تدلو",
+        "length": 4
+      },
+      {
+        "token": "تصديق",
+        "signature": "تدصقي",
+        "length": 5
+      },
+      {
+        "token": "تقومين",
+        "signature": "تقمنوي",
+        "length": 6
+      },
+      {
+        "token": "اهتم",
+        "signature": "اتمه",
+        "length": 4
+      },
+      {
+        "token": "تقبل",
+        "signature": "بتقل",
+        "length": 4
+      },
+      {
+        "token": "جينا",
+        "signature": "اجني",
+        "length": 4
+      },
+      {
+        "token": "عودي",
+        "signature": "دعوي",
+        "length": 4
+      },
+      {
+        "token": "الاول",
+        "signature": "الو",
+        "length": 5
+      },
+      {
+        "token": "تكلم",
+        "signature": "تكلم",
+        "length": 4
+      },
+      {
+        "token": "انتظروا",
+        "signature": "اترظنو",
+        "length": 7
+      },
+      {
+        "token": "سلاحك",
+        "signature": "احسكل",
+        "length": 5
+      },
+      {
+        "token": "اصبحت",
+        "signature": "ابتحص",
+        "length": 5
+      },
+      {
+        "token": "سيارات",
+        "signature": "اترسي",
+        "length": 6
+      },
+      {
+        "token": "للتحدث",
+        "signature": "تثحدل",
+        "length": 6
+      },
+      {
+        "token": "افعلها",
+        "signature": "اعفله",
+        "length": 6
+      },
+      {
+        "token": "القواعد",
+        "signature": "ادعقلو",
+        "length": 7
+      },
+      {
+        "token": "النادي",
+        "signature": "ادلني",
+        "length": 6
+      },
+      {
+        "token": "التنفس",
+        "signature": "اتسفلن",
+        "length": 6
+      },
+      {
+        "token": "نظر",
+        "signature": "رظن",
+        "length": 3
+      },
+      {
+        "token": "لمكان",
+        "signature": "اكلمن",
+        "length": 5
+      },
+      {
+        "token": "العمليات",
+        "signature": "اتعلمي",
+        "length": 8
+      },
+      {
+        "token": "بجد",
+        "signature": "بجد",
+        "length": 3
+      },
+      {
+        "token": "ملابسك",
+        "signature": "ابسكلم",
+        "length": 6
+      },
+      {
+        "token": "الدليل",
+        "signature": "ادلي",
+        "length": 6
+      },
+      {
+        "token": "السمك",
+        "signature": "اسكلم",
+        "length": 5
+      },
+      {
+        "token": "مثالي",
+        "signature": "اثلمي",
+        "length": 5
+      },
+      {
+        "token": "تخيل",
+        "signature": "تخلي",
+        "length": 4
+      },
+      {
+        "token": "الاقل",
+        "signature": "اقل",
+        "length": 5
+      },
+      {
+        "token": "هما",
+        "signature": "امه",
+        "length": 3
+      },
+      {
+        "token": "جلب",
+        "signature": "بجل",
+        "length": 3
+      },
+      {
+        "token": "فخور",
+        "signature": "خرفو",
+        "length": 4
+      },
+      {
+        "token": "لنفسي",
+        "signature": "سفلني",
+        "length": 5
+      },
+      {
+        "token": "نقود",
+        "signature": "دقنو",
+        "length": 4
+      },
+      {
+        "token": "ترحل",
+        "signature": "تحرل",
+        "length": 4
+      },
+      {
+        "token": "لازال",
+        "signature": "ازل",
+        "length": 5
+      },
+      {
+        "token": "ضخم",
+        "signature": "خضم",
+        "length": 3
+      },
+      {
+        "token": "مسرور",
+        "signature": "رسمو",
+        "length": 5
+      },
+      {
+        "token": "اكتشفت",
+        "signature": "اتشفك",
+        "length": 6
+      },
+      {
+        "token": "الحين",
+        "signature": "احلني",
+        "length": 5
+      },
+      {
+        "token": "للوصول",
+        "signature": "صلو",
+        "length": 6
+      },
+      {
+        "token": "للخلف",
+        "signature": "خفل",
+        "length": 5
+      },
+      {
+        "token": "المخابرات",
+        "signature": "ابتخرلم",
+        "length": 9
+      },
+      {
+        "token": "يصدق",
+        "signature": "دصقي",
+        "length": 4
+      },
+      {
+        "token": "نظرت",
+        "signature": "ترظن",
+        "length": 4
+      },
+      {
+        "token": "الجسر",
+        "signature": "اجرسل",
+        "length": 5
+      },
+      {
+        "token": "يفكر",
+        "signature": "رفكي",
+        "length": 4
+      },
+      {
+        "token": "استيقظ",
+        "signature": "اتسظقي",
+        "length": 6
+      },
+      {
+        "token": "الشعب",
+        "signature": "ابشعل",
+        "length": 5
+      },
+      {
+        "token": "لاري",
+        "signature": "ارلي",
+        "length": 4
+      },
+      {
+        "token": "الخطر",
+        "signature": "اخرطل",
+        "length": 5
+      },
+      {
+        "token": "اراك",
+        "signature": "ارك",
+        "length": 4
+      },
+      {
+        "token": "وقتها",
+        "signature": "اتقهو",
+        "length": 5
+      },
+      {
+        "token": "الصبي",
+        "signature": "ابصلي",
+        "length": 5
+      },
+      {
+        "token": "تهانينا",
+        "signature": "اتنهي",
+        "length": 7
+      },
+      {
+        "token": "يعنيه",
+        "signature": "عنهي",
+        "length": 5
+      },
+      {
+        "token": "القوانين",
+        "signature": "اقلنوي",
+        "length": 8
+      },
+      {
+        "token": "قابل",
+        "signature": "ابقل",
+        "length": 4
+      },
+      {
+        "token": "يعلمون",
+        "signature": "علمنوي",
+        "length": 6
+      },
+      {
+        "token": "عثرت",
+        "signature": "تثرع",
+        "length": 4
+      },
+      {
+        "token": "فرنسا",
+        "signature": "ارسفن",
+        "length": 5
+      },
+      {
+        "token": "ايام",
+        "signature": "امي",
+        "length": 4
+      },
+      {
+        "token": "يتطلب",
+        "signature": "بتطلي",
+        "length": 5
+      },
+      {
+        "token": "البلد",
+        "signature": "ابدل",
+        "length": 5
+      },
+      {
+        "token": "سر",
+        "signature": "رس",
+        "length": 2
+      },
+      {
+        "token": "سررت",
+        "signature": "ترس",
+        "length": 4
+      },
+      {
+        "token": "مالك",
+        "signature": "اكلم",
+        "length": 4
+      },
+      {
+        "token": "باتريك",
+        "signature": "ابتركي",
+        "length": 6
+      },
+      {
+        "token": "فريد",
+        "signature": "درفي",
+        "length": 4
+      },
+      {
+        "token": "تستمر",
+        "signature": "ترسم",
+        "length": 5
+      },
+      {
+        "token": "توقعت",
+        "signature": "تعقو",
+        "length": 5
+      },
+      {
+        "token": "الغضب",
+        "signature": "ابضغل",
+        "length": 5
+      },
+      {
+        "token": "اختبار",
+        "signature": "ابتخر",
+        "length": 6
+      },
+      {
+        "token": "رايان",
+        "signature": "ارني",
+        "length": 5
+      },
+      {
+        "token": "احدهم",
+        "signature": "احدمه",
+        "length": 5
+      },
+      {
+        "token": "جمال",
+        "signature": "اجلم",
+        "length": 4
+      },
+      {
+        "token": "الخلفي",
+        "signature": "اخفلي",
+        "length": 6
+      },
+      {
+        "token": "تدمير",
+        "signature": "تدرمي",
+        "length": 5
+      },
+      {
+        "token": "سنعود",
+        "signature": "دسعنو",
+        "length": 5
+      },
+      {
+        "token": "الشرطي",
+        "signature": "ارشطلي",
+        "length": 6
+      },
+      {
+        "token": "بعدم",
+        "signature": "بدعم",
+        "length": 4
+      },
+      {
+        "token": "يبحثون",
+        "signature": "بثحنوي",
+        "length": 6
+      },
+      {
+        "token": "تراجعوا",
+        "signature": "اتجرعو",
+        "length": 7
+      },
+      {
+        "token": "البنك",
+        "signature": "ابكلن",
+        "length": 5
+      },
+      {
+        "token": "الجدار",
+        "signature": "اجدرل",
+        "length": 6
+      },
+      {
+        "token": "الاطلاق",
+        "signature": "اطقل",
+        "length": 7
+      },
+      {
+        "token": "النيران",
+        "signature": "ارلني",
+        "length": 7
+      },
+      {
+        "token": "المطار",
+        "signature": "ارطلم",
+        "length": 6
+      },
+      {
+        "token": "يالها",
+        "signature": "الهي",
+        "length": 5
+      },
+      {
+        "token": "ستحصل",
+        "signature": "تحسصل",
+        "length": 5
+      },
+      {
+        "token": "ونصف",
+        "signature": "صفنو",
+        "length": 4
+      },
+      {
+        "token": "دوري",
+        "signature": "دروي",
+        "length": 4
+      },
+      {
+        "token": "الجمال",
+        "signature": "اجلم",
+        "length": 6
+      },
+      {
+        "token": "اطلاق",
+        "signature": "اطقل",
+        "length": 5
+      },
+      {
+        "token": "تايلر",
+        "signature": "اترلي",
+        "length": 5
+      },
+      {
+        "token": "معقول",
+        "signature": "عقلمو",
+        "length": 5
+      },
+      {
+        "token": "روجر",
+        "signature": "جرو",
+        "length": 4
+      },
+      {
+        "token": "هاتفك",
+        "signature": "اتفكه",
+        "length": 5
+      },
+      {
+        "token": "الشرف",
+        "signature": "ارشفل",
+        "length": 5
+      },
+      {
+        "token": "شرف",
+        "signature": "رشف",
+        "length": 3
+      },
+      {
+        "token": "زعيم",
+        "signature": "زعمي",
+        "length": 4
+      },
+      {
+        "token": "دفعت",
+        "signature": "تدعف",
+        "length": 4
+      },
+      {
+        "token": "كوب",
+        "signature": "بكو",
+        "length": 3
+      },
+      {
+        "token": "اقل",
+        "signature": "اقل",
+        "length": 3
+      },
+      {
+        "token": "شين",
+        "signature": "شني",
+        "length": 3
+      },
+      {
+        "token": "الشر",
+        "signature": "ارشل",
+        "length": 4
+      },
+      {
+        "token": "شريك",
+        "signature": "رشكي",
+        "length": 4
+      },
+      {
+        "token": "تتوقع",
+        "signature": "تعقو",
+        "length": 5
+      },
+      {
+        "token": "وحدي",
+        "signature": "حدوي",
+        "length": 4
+      },
+      {
+        "token": "السنين",
+        "signature": "اسلني",
+        "length": 6
+      },
+      {
+        "token": "العين",
+        "signature": "اعلني",
+        "length": 5
+      },
+      {
+        "token": "مهتم",
+        "signature": "تمه",
+        "length": 4
+      },
+      {
+        "token": "الحي",
+        "signature": "احلي",
+        "length": 4
+      },
+      {
+        "token": "فقدان",
+        "signature": "ادفقن",
+        "length": 5
+      },
+      {
+        "token": "تمهل",
+        "signature": "تلمه",
+        "length": 4
+      },
+      {
+        "token": "الدفع",
+        "signature": "ادعفل",
+        "length": 5
+      },
+      {
+        "token": "الخيار",
+        "signature": "اخرلي",
+        "length": 6
+      },
+      {
+        "token": "سلام",
+        "signature": "اسلم",
+        "length": 4
+      },
+      {
+        "token": "عقلي",
+        "signature": "عقلي",
+        "length": 4
+      },
+      {
+        "token": "اجتماع",
+        "signature": "اتجعم",
+        "length": 6
+      },
+      {
+        "token": "السوق",
+        "signature": "اسقلو",
+        "length": 5
+      },
+      {
+        "token": "العقل",
+        "signature": "اعقل",
+        "length": 5
+      },
+      {
+        "token": "فقدنا",
+        "signature": "ادفقن",
+        "length": 5
+      },
+      {
+        "token": "تعاني",
+        "signature": "اتعني",
+        "length": 5
+      },
+      {
+        "token": "ظهرت",
+        "signature": "ترظه",
+        "length": 4
+      },
+      {
+        "token": "مررت",
+        "signature": "ترم",
+        "length": 4
+      },
+      {
+        "token": "التحرك",
+        "signature": "اتحركل",
+        "length": 6
+      },
+      {
+        "token": "سعيدا",
+        "signature": "ادسعي",
+        "length": 5
+      },
+      {
+        "token": "تنام",
+        "signature": "اتمن",
+        "length": 4
+      },
+      {
+        "token": "اكبر",
+        "signature": "ابرك",
+        "length": 4
+      },
+      {
+        "token": "فرق",
+        "signature": "رفق",
+        "length": 3
+      },
+      {
+        "token": "جزيلا",
+        "signature": "اجزلي",
+        "length": 5
+      },
+      {
+        "token": "ليلتك",
+        "signature": "تكلي",
+        "length": 5
+      },
+      {
+        "token": "تحقق",
+        "signature": "تحق",
+        "length": 4
+      },
+      {
+        "token": "ويليام",
+        "signature": "الموي",
+        "length": 6
+      },
+      {
+        "token": "اطلق",
+        "signature": "اطقل",
+        "length": 4
+      },
+      {
+        "token": "المريض",
+        "signature": "ارضلمي",
+        "length": 6
+      },
+      {
+        "token": "تعنين",
+        "signature": "تعني",
+        "length": 5
+      },
+      {
+        "token": "اتعلم",
+        "signature": "اتعلم",
+        "length": 5
+      },
+      {
+        "token": "البطل",
+        "signature": "ابطل",
+        "length": 5
+      },
+      {
+        "token": "الوقود",
+        "signature": "ادقلو",
+        "length": 6
+      },
+      {
+        "token": "سميث",
+        "signature": "ثسمي",
+        "length": 4
+      },
+      {
+        "token": "يستغرق",
+        "signature": "ترسغقي",
+        "length": 6
+      },
+      {
+        "token": "عين",
+        "signature": "عني",
+        "length": 3
+      },
+      {
+        "token": "مقرف",
+        "signature": "رفقم",
+        "length": 4
+      },
+      {
+        "token": "تقم",
+        "signature": "تقم",
+        "length": 3
+      },
+      {
+        "token": "بعمر",
+        "signature": "برعم",
+        "length": 4
+      },
+      {
+        "token": "الصين",
+        "signature": "اصلني",
+        "length": 5
+      },
+      {
+        "token": "العم",
+        "signature": "اعلم",
+        "length": 4
+      },
+      {
+        "token": "الحضور",
+        "signature": "احرضلو",
+        "length": 6
+      },
+      {
+        "token": "نقاط",
+        "signature": "اطقن",
+        "length": 4
+      },
+      {
+        "token": "العنوان",
+        "signature": "اعلنو",
+        "length": 7
+      },
+      {
+        "token": "سن",
+        "signature": "سن",
+        "length": 2
+      },
+      {
+        "token": "طاب",
+        "signature": "ابط",
+        "length": 3
+      },
+      {
+        "token": "الوداع",
+        "signature": "ادعلو",
+        "length": 6
+      },
+      {
+        "token": "تصرف",
+        "signature": "ترصف",
+        "length": 4
+      },
+      {
+        "token": "الطيور",
+        "signature": "ارطلوي",
+        "length": 6
+      },
+      {
+        "token": "العلم",
+        "signature": "اعلم",
+        "length": 5
+      },
+      {
+        "token": "ديريك",
+        "signature": "دركي",
+        "length": 5
+      },
+      {
+        "token": "الجبل",
+        "signature": "ابجل",
+        "length": 5
+      },
+      {
+        "token": "قتال",
+        "signature": "اتقل",
+        "length": 4
+      },
+      {
+        "token": "مكتوب",
+        "signature": "بتكمو",
+        "length": 5
+      },
+      {
+        "token": "مقدار",
+        "signature": "ادرقم",
+        "length": 5
+      },
+      {
+        "token": "لمساعدتك",
+        "signature": "اتدسعكلم",
+        "length": 8
+      },
+      {
+        "token": "جنوب",
+        "signature": "بجنو",
+        "length": 4
+      },
+      {
+        "token": "اصدق",
+        "signature": "ادصق",
+        "length": 4
+      },
+      {
+        "token": "وايت",
+        "signature": "اتوي",
+        "length": 4
+      },
+      {
+        "token": "علاقتنا",
+        "signature": "اتعقلن",
+        "length": 7
+      },
+      {
+        "token": "جعلتني",
+        "signature": "تجعلني",
+        "length": 6
+      },
+      {
+        "token": "تكونوا",
+        "signature": "اتكنو",
+        "length": 6
+      },
+      {
+        "token": "ضعيف",
+        "signature": "ضعفي",
+        "length": 4
+      },
+      {
+        "token": "شو",
+        "signature": "شو",
+        "length": 2
+      },
+      {
+        "token": "المسكين",
+        "signature": "اسكلمني",
+        "length": 7
+      },
+      {
+        "token": "رفع",
+        "signature": "رعف",
+        "length": 3
+      },
+      {
+        "token": "القلق",
+        "signature": "اقل",
+        "length": 5
+      },
+      {
+        "token": "فلقد",
+        "signature": "دفقل",
+        "length": 4
+      },
+      {
+        "token": "سحب",
+        "signature": "بحس",
+        "length": 3
+      },
+      {
+        "token": "فشلت",
+        "signature": "تشفل",
+        "length": 4
+      },
+      {
+        "token": "الرياح",
+        "signature": "احرلي",
+        "length": 6
+      },
+      {
+        "token": "شابه",
+        "signature": "ابشه",
+        "length": 4
+      },
+      {
+        "token": "تقود",
+        "signature": "تدقو",
+        "length": 4
+      },
+      {
+        "token": "الخبر",
+        "signature": "ابخرل",
+        "length": 5
+      },
+      {
+        "token": "المجنون",
+        "signature": "اجلمنو",
+        "length": 7
+      },
+      {
+        "token": "العقيد",
+        "signature": "ادعقلي",
+        "length": 6
+      },
+      {
+        "token": "الوثوق",
+        "signature": "اثقلو",
+        "length": 6
+      },
+      {
+        "token": "خطط",
+        "signature": "خط",
+        "length": 3
+      },
+      {
+        "token": "بوقت",
+        "signature": "بتقو",
+        "length": 4
+      },
+      {
+        "token": "الفراش",
+        "signature": "ارشفل",
+        "length": 6
+      },
+      {
+        "token": "كيفن",
+        "signature": "فكني",
+        "length": 4
+      },
+      {
+        "token": "تمر",
+        "signature": "ترم",
+        "length": 3
+      },
+      {
+        "token": "القصص",
+        "signature": "اصقل",
+        "length": 5
+      },
+      {
+        "token": "اطلب",
+        "signature": "ابطل",
+        "length": 4
+      },
+      {
+        "token": "الصغار",
+        "signature": "ارصغل",
+        "length": 6
+      },
+      {
+        "token": "باقي",
+        "signature": "ابقي",
+        "length": 4
+      },
+      {
+        "token": "جمع",
+        "signature": "جعم",
+        "length": 3
+      },
+      {
+        "token": "تفعلها",
+        "signature": "اتعفله",
+        "length": 6
+      },
+      {
+        "token": "كوكب",
+        "signature": "بكو",
+        "length": 4
+      },
+      {
+        "token": "سنين",
+        "signature": "سني",
+        "length": 4
+      },
+      {
+        "token": "الخنزير",
+        "signature": "اخرزلني",
+        "length": 7
+      },
+      {
+        "token": "ترغبين",
+        "signature": "بترغني",
+        "length": 6
+      },
+      {
+        "token": "يقوله",
+        "signature": "قلهوي",
+        "length": 5
+      },
+      {
+        "token": "العلوي",
+        "signature": "اعلوي",
+        "length": 6
+      },
+      {
+        "token": "يحبون",
+        "signature": "بحنوي",
+        "length": 5
+      },
+      {
+        "token": "مسموح",
+        "signature": "حسمو",
+        "length": 5
+      },
+      {
+        "token": "لعدم",
+        "signature": "دعلم",
+        "length": 4
+      },
+      {
+        "token": "خلفك",
+        "signature": "خفكل",
+        "length": 4
+      },
+      {
+        "token": "الحراس",
+        "signature": "احرسل",
+        "length": 6
+      },
+      {
+        "token": "منطقي",
+        "signature": "طقمني",
+        "length": 5
+      },
+      {
+        "token": "مخيف",
+        "signature": "خفمي",
+        "length": 4
+      },
+      {
+        "token": "الاثنان",
+        "signature": "اثلن",
+        "length": 7
+      },
+      {
+        "token": "بحقك",
+        "signature": "بحقك",
+        "length": 4
+      },
+      {
+        "token": "رجالي",
+        "signature": "اجرلي",
+        "length": 5
+      },
+      {
+        "token": "مرت",
+        "signature": "ترم",
+        "length": 3
+      },
+      {
+        "token": "المجتمع",
+        "signature": "اتجعلم",
+        "length": 7
+      },
+      {
+        "token": "تستطع",
+        "signature": "تسطع",
+        "length": 5
+      },
+      {
+        "token": "سمعته",
+        "signature": "تسعمه",
+        "length": 5
+      },
+      {
+        "token": "ليزا",
+        "signature": "ازلي",
+        "length": 4
+      },
+      {
+        "token": "كريم",
+        "signature": "ركمي",
+        "length": 4
+      },
+      {
+        "token": "محمد",
+        "signature": "حدم",
+        "length": 4
+      },
+      {
+        "token": "اختيار",
+        "signature": "اتخري",
+        "length": 6
+      },
+      {
+        "token": "كوبر",
+        "signature": "بركو",
+        "length": 4
+      },
+      {
+        "token": "فيليب",
+        "signature": "بفلي",
+        "length": 5
+      },
+      {
+        "token": "تتبع",
+        "signature": "بتع",
+        "length": 4
+      },
+      {
+        "token": "قارب",
+        "signature": "ابرق",
+        "length": 4
+      },
+      {
+        "token": "نضع",
+        "signature": "ضعن",
+        "length": 3
+      },
+      {
+        "token": "رفيق",
+        "signature": "رفقي",
+        "length": 4
+      },
+      {
+        "token": "كايت",
+        "signature": "اتكي",
+        "length": 4
+      },
+      {
+        "token": "تيم",
+        "signature": "تمي",
+        "length": 3
+      },
+      {
+        "token": "حارس",
+        "signature": "احرس",
+        "length": 4
+      },
+      {
+        "token": "الجنوب",
+        "signature": "ابجلنو",
+        "length": 6
+      },
+      {
+        "token": "زاك",
+        "signature": "ازك",
+        "length": 3
+      },
+      {
+        "token": "بالتحديد",
+        "signature": "ابتحدلي",
+        "length": 8
+      },
+      {
+        "token": "باركر",
+        "signature": "ابرك",
+        "length": 5
+      },
+      {
+        "token": "يكذب",
+        "signature": "بذكي",
+        "length": 4
+      },
+      {
+        "token": "عذرا",
+        "signature": "اذرع",
+        "length": 4
+      },
+      {
+        "token": "المرض",
+        "signature": "ارضلم",
+        "length": 5
+      },
+      {
+        "token": "السيف",
+        "signature": "اسفلي",
+        "length": 5
+      },
+      {
+        "token": "جندي",
+        "signature": "جدني",
+        "length": 4
+      },
+      {
+        "token": "الخمر",
+        "signature": "اخرلم",
+        "length": 5
+      },
+      {
+        "token": "بالواقع",
+        "signature": "ابعقلو",
+        "length": 7
+      },
+      {
+        "token": "هيلين",
+        "signature": "لنهي",
+        "length": 5
+      },
+      {
+        "token": "ست",
+        "signature": "تس",
+        "length": 2
+      },
+      {
+        "token": "وبعض",
+        "signature": "بضعو",
+        "length": 4
+      },
+      {
+        "token": "المرات",
+        "signature": "اترلم",
+        "length": 6
+      },
+      {
+        "token": "يجد",
+        "signature": "جدي",
+        "length": 3
+      },
+      {
+        "token": "يريده",
+        "signature": "درهي",
+        "length": 5
+      },
+      {
+        "token": "يتغير",
+        "signature": "ترغي",
+        "length": 5
+      },
+      {
+        "token": "يقع",
+        "signature": "عقي",
+        "length": 3
+      },
+      {
+        "token": "يقل",
+        "signature": "قلي",
+        "length": 3
+      },
+      {
+        "token": "نلعب",
+        "signature": "بعلن",
+        "length": 4
+      },
+      {
+        "token": "كارول",
+        "signature": "اركلو",
+        "length": 5
+      },
+      {
+        "token": "غرفتي",
+        "signature": "ترغفي",
+        "length": 5
+      },
+      {
+        "token": "انتهينا",
+        "signature": "اتنهي",
+        "length": 7
+      },
+      {
+        "token": "وجدوا",
+        "signature": "اجدو",
+        "length": 5
+      },
+      {
+        "token": "بوضوح",
+        "signature": "بحضو",
+        "length": 5
+      },
+      {
+        "token": "طبعا",
+        "signature": "ابطع",
+        "length": 4
+      },
+      {
+        "token": "شخصي",
+        "signature": "خشصي",
+        "length": 4
+      },
+      {
+        "token": "ديك",
+        "signature": "دكي",
+        "length": 3
+      },
+      {
+        "token": "المطر",
+        "signature": "ارطلم",
+        "length": 5
+      },
+      {
+        "token": "الحارس",
+        "signature": "احرسل",
+        "length": 6
+      },
+      {
+        "token": "اتيت",
+        "signature": "اتي",
+        "length": 4
+      },
+      {
+        "token": "اولا",
+        "signature": "الو",
+        "length": 4
+      },
+      {
+        "token": "تشير",
+        "signature": "ترشي",
+        "length": 4
+      },
+      {
+        "token": "جد",
+        "signature": "جد",
+        "length": 2
+      },
+      {
+        "token": "صالح",
+        "signature": "احصل",
+        "length": 4
+      },
+      {
+        "token": "فعلوا",
+        "signature": "اعفلو",
+        "length": 5
+      },
+      {
+        "token": "حمام",
+        "signature": "احم",
+        "length": 4
+      },
+      {
+        "token": "تشبه",
+        "signature": "بتشه",
+        "length": 4
+      },
+      {
+        "token": "تشرب",
+        "signature": "بترش",
+        "length": 4
+      },
+      {
+        "token": "الجسم",
+        "signature": "اجسلم",
+        "length": 5
+      },
+      {
+        "token": "لاعب",
+        "signature": "ابعل",
+        "length": 4
+      },
+      {
+        "token": "وهكذا",
+        "signature": "اذكهو",
+        "length": 5
+      },
+      {
+        "token": "وعدت",
+        "signature": "تدعو",
+        "length": 4
+      },
+      {
+        "token": "سيحصل",
+        "signature": "حسصلي",
+        "length": 5
+      },
+      {
+        "token": "وهنا",
+        "signature": "انهو",
+        "length": 4
+      },
+      {
+        "token": "ولكنهم",
+        "signature": "كلمنهو",
+        "length": 6
+      },
+      {
+        "token": "رفض",
+        "signature": "رضف",
+        "length": 3
+      },
+      {
+        "token": "الاشخاص",
+        "signature": "اخشصل",
+        "length": 7
+      },
+      {
+        "token": "مميز",
+        "signature": "زمي",
+        "length": 4
+      },
+      {
+        "token": "فينس",
+        "signature": "سفني",
+        "length": 4
+      },
+      {
+        "token": "ستيفن",
+        "signature": "تسفني",
+        "length": 5
+      },
+      {
+        "token": "مشاعر",
+        "signature": "ارشعم",
+        "length": 5
+      },
+      {
+        "token": "اللورد",
+        "signature": "ادرلو",
+        "length": 6
+      },
+      {
+        "token": "عمرها",
+        "signature": "ارعمه",
+        "length": 5
+      },
+      {
+        "token": "كافي",
+        "signature": "افكي",
+        "length": 4
+      },
+      {
+        "token": "بدور",
+        "signature": "بدرو",
+        "length": 4
+      },
+      {
+        "token": "للعيش",
+        "signature": "شعلي",
+        "length": 5
+      },
+      {
+        "token": "تعملين",
+        "signature": "تعلمني",
+        "length": 6
+      },
+      {
+        "token": "مدين",
+        "signature": "دمني",
+        "length": 4
+      },
+      {
+        "token": "شريط",
+        "signature": "رشطي",
+        "length": 4
+      },
+      {
+        "token": "ماريا",
+        "signature": "ارمي",
+        "length": 5
+      },
+      {
+        "token": "هاوس",
+        "signature": "اسهو",
+        "length": 4
+      },
+      {
+        "token": "وحدك",
+        "signature": "حدكو",
+        "length": 4
+      },
+      {
+        "token": "قلبه",
+        "signature": "بقله",
+        "length": 4
+      },
+      {
+        "token": "الشكر",
+        "signature": "ارشكل",
+        "length": 5
+      },
+      {
+        "token": "يمتلك",
+        "signature": "تكلمي",
+        "length": 5
+      },
+      {
+        "token": "كدت",
+        "signature": "تدك",
+        "length": 3
+      },
+      {
+        "token": "سيذهب",
+        "signature": "بذسهي",
+        "length": 5
+      },
+      {
+        "token": "الموعد",
+        "signature": "ادعلمو",
+        "length": 6
+      },
+      {
+        "token": "عامل",
+        "signature": "اعلم",
+        "length": 4
+      },
+      {
+        "token": "مرور",
+        "signature": "رمو",
+        "length": 4
+      },
+      {
+        "token": "الوقوف",
+        "signature": "افقلو",
+        "length": 6
+      },
+      {
+        "token": "عمليات",
+        "signature": "اتعلمي",
+        "length": 6
+      },
+      {
+        "token": "رجالك",
+        "signature": "اجركل",
+        "length": 5
+      },
+      {
+        "token": "تقومي",
+        "signature": "تقموي",
+        "length": 5
+      },
+      {
+        "token": "حولك",
+        "signature": "حكلو",
+        "length": 4
+      },
+      {
+        "token": "يعاني",
+        "signature": "اعني",
+        "length": 5
+      },
+      {
+        "token": "تفعلون",
+        "signature": "تعفلنو",
+        "length": 6
+      },
+      {
+        "token": "تفهمين",
+        "signature": "تفمنهي",
+        "length": 6
+      },
+      {
+        "token": "بوضع",
+        "signature": "بضعو",
+        "length": 4
+      },
+      {
+        "token": "الواحد",
+        "signature": "احدلو",
+        "length": 6
+      },
+      {
+        "token": "معرفته",
+        "signature": "ترعفمه",
+        "length": 6
+      },
+      {
+        "token": "الطقس",
+        "signature": "اسطقل",
+        "length": 5
+      },
+      {
+        "token": "نجح",
+        "signature": "جحن",
+        "length": 3
+      },
+      {
+        "token": "باي",
+        "signature": "ابي",
+        "length": 3
+      },
+      {
+        "token": "كيفين",
+        "signature": "فكني",
+        "length": 5
+      },
+      {
+        "token": "تحاولين",
+        "signature": "اتحلنوي",
+        "length": 7
+      },
+      {
+        "token": "مفتوح",
+        "signature": "تحفمو",
+        "length": 5
+      },
+      {
+        "token": "المتجر",
+        "signature": "اتجرلم",
+        "length": 6
+      },
+      {
+        "token": "باور",
+        "signature": "ابرو",
+        "length": 4
+      },
+      {
+        "token": "السر",
+        "signature": "ارسل",
+        "length": 4
+      },
+      {
+        "token": "والدها",
+        "signature": "ادلهو",
+        "length": 6
+      },
+      {
+        "token": "السفلي",
+        "signature": "اسفلي",
+        "length": 6
+      },
+      {
+        "token": "طريقك",
+        "signature": "رطقكي",
+        "length": 5
+      },
+      {
+        "token": "لورا",
+        "signature": "ارلو",
+        "length": 4
+      },
+      {
+        "token": "خبر",
+        "signature": "بخر",
+        "length": 3
+      },
+      {
+        "token": "المبلغ",
+        "signature": "ابغلم",
+        "length": 6
+      },
+      {
+        "token": "عمرك",
+        "signature": "رعكم",
+        "length": 4
+      },
+      {
+        "token": "علامات",
+        "signature": "اتعلم",
+        "length": 6
+      },
+      {
+        "token": "الظهر",
+        "signature": "ارظله",
+        "length": 5
+      },
+      {
+        "token": "كاري",
+        "signature": "اركي",
+        "length": 4
+      },
+      {
+        "token": "يغادر",
+        "signature": "ادرغي",
+        "length": 5
+      },
+      {
+        "token": "حجم",
+        "signature": "جحم",
+        "length": 3
+      },
+      {
+        "token": "لحسن",
+        "signature": "حسلن",
+        "length": 4
+      },
+      {
+        "token": "دولارات",
+        "signature": "اتدرلو",
+        "length": 7
+      },
+      {
+        "token": "التنين",
+        "signature": "اتلني",
+        "length": 6
+      },
+      {
+        "token": "حمل",
+        "signature": "حلم",
+        "length": 3
+      },
+      {
+        "token": "تودين",
+        "signature": "تدنوي",
+        "length": 5
+      },
+      {
+        "token": "الحادث",
+        "signature": "اثحدل",
+        "length": 6
+      },
+      {
+        "token": "تنجح",
+        "signature": "تجحن",
+        "length": 4
+      },
+      {
+        "token": "بالذهاب",
+        "signature": "ابذله",
+        "length": 7
+      },
+      {
+        "token": "تعرضت",
+        "signature": "ترضع",
+        "length": 5
+      },
+      {
+        "token": "شمال",
+        "signature": "اشلم",
+        "length": 4
+      },
+      {
+        "token": "تذهبين",
+        "signature": "بتذنهي",
+        "length": 6
+      },
+      {
+        "token": "ملف",
+        "signature": "فلم",
+        "length": 3
+      },
+      {
+        "token": "بسببك",
+        "signature": "بسك",
+        "length": 5
+      },
+      {
+        "token": "ساره",
+        "signature": "ارسه",
+        "length": 4
+      },
+      {
+        "token": "اليها",
+        "signature": "الهي",
+        "length": 5
+      },
+      {
+        "token": "الدجاج",
+        "signature": "اجدل",
+        "length": 6
+      },
+      {
+        "token": "الكحول",
+        "signature": "احكلو",
+        "length": 6
+      },
+      {
+        "token": "استعداد",
+        "signature": "اتدسع",
+        "length": 7
+      },
+      {
+        "token": "شعرك",
+        "signature": "رشعك",
+        "length": 4
+      },
+      {
+        "token": "قطار",
+        "signature": "ارطق",
+        "length": 4
+      },
+      {
+        "token": "قصير",
+        "signature": "رصقي",
+        "length": 4
+      },
+      {
+        "token": "تغيرت",
+        "signature": "ترغي",
+        "length": 5
+      },
+      {
+        "token": "تصوير",
+        "signature": "ترصوي",
+        "length": 5
+      },
+      {
+        "token": "النصف",
+        "signature": "اصفلن",
+        "length": 5
+      },
+      {
+        "token": "الدعم",
+        "signature": "ادعلم",
+        "length": 5
+      },
+      {
+        "token": "تبكي",
+        "signature": "بتكي",
+        "length": 4
+      },
+      {
+        "token": "نينا",
+        "signature": "اني",
+        "length": 4
+      },
+      {
+        "token": "غيرت",
+        "signature": "ترغي",
+        "length": 4
+      },
+      {
+        "token": "ليسا",
+        "signature": "اسلي",
+        "length": 4
+      },
+      {
+        "token": "يعيشون",
+        "signature": "شعنوي",
+        "length": 6
+      },
+      {
+        "token": "الحساب",
+        "signature": "ابحسل",
+        "length": 6
+      },
+      {
+        "token": "قدمت",
+        "signature": "تدقم",
+        "length": 4
+      },
+      {
+        "token": "التعرف",
+        "signature": "اترعفل",
+        "length": 6
+      },
+      {
+        "token": "هاك",
+        "signature": "اكه",
+        "length": 3
+      },
+      {
+        "token": "فكره",
+        "signature": "رفكه",
+        "length": 4
+      },
+      {
+        "token": "المكسيك",
+        "signature": "اسكلمي",
+        "length": 7
+      },
+      {
+        "token": "جوليا",
+        "signature": "اجلوي",
+        "length": 5
+      },
+      {
+        "token": "مستقبل",
+        "signature": "بتسقلم",
+        "length": 6
+      },
+      {
+        "token": "قوات",
+        "signature": "اتقو",
+        "length": 4
+      },
+      {
+        "token": "مولي",
+        "signature": "لموي",
+        "length": 4
+      },
+      {
+        "token": "للغايه",
+        "signature": "اغلهي",
+        "length": 6
+      },
+      {
+        "token": "الملفات",
+        "signature": "اتفلم",
+        "length": 7
+      },
+      {
+        "token": "دعها",
+        "signature": "ادعه",
+        "length": 4
+      },
+      {
+        "token": "تيري",
+        "signature": "تري",
+        "length": 4
+      },
+      {
+        "token": "النفس",
+        "signature": "اسفلن",
+        "length": 5
+      },
+      {
+        "token": "واين",
+        "signature": "انوي",
+        "length": 4
+      },
+      {
+        "token": "مان",
+        "signature": "امن",
+        "length": 3
+      },
+      {
+        "token": "الحصان",
+        "signature": "احصلن",
+        "length": 6
+      },
+      {
+        "token": "ريبيكا",
+        "signature": "ابركي",
+        "length": 6
+      },
+      {
+        "token": "مفقود",
+        "signature": "دفقمو",
+        "length": 5
+      },
+      {
+        "token": "ذي",
+        "signature": "ذي",
+        "length": 2
+      },
+      {
+        "token": "بصوت",
+        "signature": "بتصو",
+        "length": 4
+      },
+      {
+        "token": "مستر",
+        "signature": "ترسم",
+        "length": 4
+      },
+      {
+        "token": "تمسك",
+        "signature": "تسكم",
+        "length": 4
+      },
+      {
+        "token": "تحول",
+        "signature": "تحلو",
+        "length": 4
+      },
+      {
+        "token": "يستطع",
+        "signature": "تسطعي",
+        "length": 5
+      },
+      {
+        "token": "مغلق",
+        "signature": "غقلم",
+        "length": 4
+      },
+      {
+        "token": "العليا",
+        "signature": "اعلي",
+        "length": 6
+      },
+      {
+        "token": "تتغير",
+        "signature": "ترغي",
+        "length": 5
+      },
+      {
+        "token": "ضعف",
+        "signature": "ضعف",
+        "length": 3
+      },
+      {
+        "token": "تلقي",
+        "signature": "تقلي",
+        "length": 4
+      },
+      {
+        "token": "يجلس",
+        "signature": "جسلي",
+        "length": 4
+      },
+      {
+        "token": "رمز",
+        "signature": "رزم",
+        "length": 3
+      },
+      {
+        "token": "تهرب",
+        "signature": "بتره",
+        "length": 4
+      },
+      {
+        "token": "وتلك",
+        "signature": "تكلو",
+        "length": 4
+      },
+      {
+        "token": "جعلك",
+        "signature": "جعكل",
+        "length": 4
+      },
+      {
+        "token": "وسيم",
+        "signature": "سموي",
+        "length": 4
+      },
+      {
+        "token": "بينك",
+        "signature": "بكني",
+        "length": 4
+      },
+      {
+        "token": "يسبب",
+        "signature": "بسي",
+        "length": 4
+      },
+      {
+        "token": "منزله",
+        "signature": "زلمنه",
+        "length": 5
+      },
+      {
+        "token": "المشي",
+        "signature": "اشلمي",
+        "length": 5
+      },
+      {
+        "token": "وسيكون",
+        "signature": "سكنوي",
+        "length": 6
+      },
+      {
+        "token": "مساعد",
+        "signature": "ادسعم",
+        "length": 5
+      },
+      {
+        "token": "الحلم",
+        "signature": "احلم",
+        "length": 5
+      },
+      {
+        "token": "لوحدك",
+        "signature": "حدكلو",
+        "length": 5
+      },
+      {
+        "token": "حبي",
+        "signature": "بحي",
+        "length": 3
+      },
+      {
+        "token": "يصعب",
+        "signature": "بصعي",
+        "length": 4
+      },
+      {
+        "token": "ندخل",
+        "signature": "خدلن",
+        "length": 4
+      },
+      {
+        "token": "طويلا",
+        "signature": "اطلوي",
+        "length": 5
+      },
+      {
+        "token": "مشكله",
+        "signature": "شكلمه",
+        "length": 5
+      },
+      {
+        "token": "دوغ",
+        "signature": "دغو",
+        "length": 3
+      },
+      {
+        "token": "القذر",
+        "signature": "اذرقل",
+        "length": 5
+      },
+      {
+        "token": "دوك",
+        "signature": "دكو",
+        "length": 3
+      },
+      {
+        "token": "تسجيل",
+        "signature": "تجسلي",
+        "length": 5
+      },
+      {
+        "token": "الوطن",
+        "signature": "اطلنو",
+        "length": 5
+      },
+      {
+        "token": "لحظات",
+        "signature": "اتحظل",
+        "length": 5
+      },
+      {
+        "token": "كون",
+        "signature": "كنو",
+        "length": 3
+      },
+      {
+        "token": "الزعيم",
+        "signature": "ازعلمي",
+        "length": 6
+      },
+      {
+        "token": "فارغ",
+        "signature": "ارغف",
+        "length": 4
+      },
+      {
+        "token": "الكعك",
+        "signature": "اعكل",
+        "length": 5
+      },
+      {
+        "token": "قتلته",
+        "signature": "تقله",
+        "length": 5
+      },
+      {
+        "token": "مكاني",
+        "signature": "اكمني",
+        "length": 5
+      },
+      {
+        "token": "تمام",
+        "signature": "اتم",
+        "length": 4
+      },
+      {
+        "token": "عديم",
+        "signature": "دعمي",
+        "length": 4
+      },
+      {
+        "token": "رايتشل",
+        "signature": "اترشلي",
+        "length": 6
+      },
+      {
+        "token": "لنقل",
+        "signature": "قلن",
+        "length": 4
+      },
+      {
+        "token": "حكم",
+        "signature": "حكم",
+        "length": 3
+      },
+      {
+        "token": "الطبيعي",
+        "signature": "ابطعلي",
+        "length": 7
+      },
+      {
+        "token": "برج",
+        "signature": "بجر",
+        "length": 3
+      },
+      {
+        "token": "لوثر",
+        "signature": "ثرلو",
+        "length": 4
+      },
+      {
+        "token": "اللطيف",
+        "signature": "اطفلي",
+        "length": 6
+      },
+      {
+        "token": "سبع",
+        "signature": "بسع",
+        "length": 3
+      },
+      {
+        "token": "الشرق",
+        "signature": "ارشقل",
+        "length": 5
+      },
+      {
+        "token": "قطعت",
+        "signature": "تطعق",
+        "length": 4
+      },
+      {
+        "token": "بانك",
+        "signature": "ابكن",
+        "length": 4
+      },
+      {
+        "token": "بحاجه",
+        "signature": "ابجحه",
+        "length": 5
+      },
+      {
+        "token": "نمت",
+        "signature": "تمن",
+        "length": 3
+      },
+      {
+        "token": "نهر",
+        "signature": "رنه",
+        "length": 3
+      },
+      {
+        "token": "تصنع",
+        "signature": "تصعن",
+        "length": 4
+      },
+      {
+        "token": "لايمكن",
+        "signature": "اكلمني",
+        "length": 6
+      },
+      {
+        "token": "بدونك",
+        "signature": "بدكنو",
+        "length": 5
+      },
+      {
+        "token": "سنجد",
+        "signature": "جدسن",
+        "length": 4
+      },
+      {
+        "token": "ارفع",
+        "signature": "ارعف",
+        "length": 4
+      },
+      {
+        "token": "المجال",
+        "signature": "اجلم",
+        "length": 6
+      },
+      {
+        "token": "الملف",
+        "signature": "افلم",
+        "length": 5
+      },
+      {
+        "token": "بمثل",
+        "signature": "بثلم",
+        "length": 4
+      },
+      {
+        "token": "سنحتاج",
+        "signature": "اتجحسن",
+        "length": 6
+      },
+      {
+        "token": "وكما",
+        "signature": "اكمو",
+        "length": 4
+      },
+      {
+        "token": "بعضها",
+        "signature": "ابضعه",
+        "length": 5
+      },
+      {
+        "token": "ويلسون",
+        "signature": "سلنوي",
+        "length": 6
+      },
+      {
+        "token": "فرانكي",
+        "signature": "ارفكني",
+        "length": 6
+      },
+      {
+        "token": "فصل",
+        "signature": "صفل",
+        "length": 3
+      },
+      {
+        "token": "طفلي",
+        "signature": "طفلي",
+        "length": 4
+      },
+      {
+        "token": "بالذنب",
+        "signature": "ابذلن",
+        "length": 6
+      },
+      {
+        "token": "تقترب",
+        "signature": "بترق",
+        "length": 5
+      },
+      {
+        "token": "لانا",
+        "signature": "الن",
+        "length": 4
+      },
+      {
+        "token": "تفتح",
+        "signature": "تحف",
+        "length": 4
+      },
+      {
+        "token": "جنرال",
+        "signature": "اجرلن",
+        "length": 5
+      },
+      {
+        "token": "كذب",
+        "signature": "بذك",
+        "length": 3
+      },
+      {
+        "token": "يهرب",
+        "signature": "برهي",
+        "length": 4
+      },
+      {
+        "token": "بنت",
+        "signature": "بتن",
+        "length": 3
+      },
+      {
+        "token": "لسنوات",
+        "signature": "اتسلنو",
+        "length": 6
+      },
+      {
+        "token": "بالحديث",
+        "signature": "ابثحدلي",
+        "length": 7
+      },
+      {
+        "token": "فشل",
+        "signature": "شفل",
+        "length": 3
+      },
+      {
+        "token": "سطح",
+        "signature": "حسط",
+        "length": 3
+      },
+      {
+        "token": "تتمكن",
+        "signature": "تكمن",
+        "length": 5
+      },
+      {
+        "token": "التركيز",
+        "signature": "اترزكلي",
+        "length": 7
+      },
+      {
+        "token": "لذيذ",
+        "signature": "ذلي",
+        "length": 4
+      },
+      {
+        "token": "كنتما",
+        "signature": "اتكمن",
+        "length": 5
+      },
+      {
+        "token": "الدين",
+        "signature": "ادلني",
+        "length": 5
+      },
+      {
+        "token": "لكان",
+        "signature": "اكلن",
+        "length": 4
+      },
+      {
+        "token": "يود",
+        "signature": "دوي",
+        "length": 3
+      },
+      {
+        "token": "ميشيل",
+        "signature": "شلمي",
+        "length": 5
+      },
+      {
+        "token": "زوي",
+        "signature": "زوي",
+        "length": 3
+      },
+      {
+        "token": "كاميرا",
+        "signature": "اركمي",
+        "length": 6
+      },
+      {
+        "token": "بارع",
+        "signature": "ابرع",
+        "length": 4
+      },
+      {
+        "token": "جنود",
+        "signature": "جدنو",
+        "length": 4
+      },
+      {
+        "token": "تعطي",
+        "signature": "تطعي",
+        "length": 4
+      },
+      {
+        "token": "سباق",
+        "signature": "ابسق",
+        "length": 4
+      },
+      {
+        "token": "الجبال",
+        "signature": "ابجل",
+        "length": 6
+      },
+      {
+        "token": "كاميرات",
+        "signature": "اتركمي",
+        "length": 7
+      },
+      {
+        "token": "سنتين",
+        "signature": "تسني",
+        "length": 5
+      },
+      {
+        "token": "ننظر",
+        "signature": "رظن",
+        "length": 4
+      },
+      {
+        "token": "الحياه",
+        "signature": "احلهي",
+        "length": 6
+      },
+      {
+        "token": "مالم",
+        "signature": "الم",
+        "length": 4
+      },
+      {
+        "token": "تدع",
+        "signature": "تدع",
+        "length": 3
+      },
+      {
+        "token": "لايمكنني",
+        "signature": "اكلمني",
+        "length": 8
+      },
+      {
+        "token": "كيس",
+        "signature": "سكي",
+        "length": 3
+      },
+      {
+        "token": "سري",
+        "signature": "رسي",
+        "length": 3
+      },
+      {
+        "token": "القصر",
+        "signature": "ارصقل",
+        "length": 5
+      },
+      {
+        "token": "الصواب",
+        "signature": "ابصلو",
+        "length": 6
+      },
+      {
+        "token": "يون",
+        "signature": "نوي",
+        "length": 3
+      }
+    ],
+    "advanced": [
+      {
+        "token": "ثلاثين",
+        "signature": "اثلني",
+        "length": 6
+      },
+      {
+        "token": "نجده",
+        "signature": "جدنه",
+        "length": 4
+      },
+      {
+        "token": "الخدمات",
+        "signature": "اتخدلم",
+        "length": 7
+      },
+      {
+        "token": "الصغيره",
+        "signature": "ارصغلهي",
+        "length": 7
+      },
+      {
+        "token": "بجميع",
+        "signature": "بجعمي",
+        "length": 5
+      },
+      {
+        "token": "يحبني",
+        "signature": "بحني",
+        "length": 5
+      },
+      {
+        "token": "كشخص",
+        "signature": "خشصك",
+        "length": 4
+      },
+      {
+        "token": "تتناول",
+        "signature": "اتلنو",
+        "length": 6
+      },
+      {
+        "token": "رجعت",
+        "signature": "تجرع",
+        "length": 4
+      },
+      {
+        "token": "ظن",
+        "signature": "ظن",
+        "length": 2
+      },
+      {
+        "token": "مدخل",
+        "signature": "خدلم",
+        "length": 4
+      },
+      {
+        "token": "المالك",
+        "signature": "اكلم",
+        "length": 6
+      },
+      {
+        "token": "وضعوا",
+        "signature": "اضعو",
+        "length": 5
+      },
+      {
+        "token": "المدرسه",
+        "signature": "ادرسلمه",
+        "length": 7
+      },
+      {
+        "token": "ليونارد",
+        "signature": "ادرلنوي",
+        "length": 7
+      },
+      {
+        "token": "وتقول",
+        "signature": "تقلو",
+        "length": 5
+      },
+      {
+        "token": "يونج",
+        "signature": "جنوي",
+        "length": 4
+      },
+      {
+        "token": "ساندي",
+        "signature": "ادسني",
+        "length": 5
+      },
+      {
+        "token": "القط",
+        "signature": "اطقل",
+        "length": 4
+      },
+      {
+        "token": "بعمق",
+        "signature": "بعقم",
+        "length": 4
+      },
+      {
+        "token": "نشرب",
+        "signature": "برشن",
+        "length": 4
+      },
+      {
+        "token": "اياه",
+        "signature": "اهي",
+        "length": 4
+      },
+      {
+        "token": "شعوري",
+        "signature": "رشعوي",
+        "length": 5
+      },
+      {
+        "token": "ارتكبت",
+        "signature": "ابترك",
+        "length": 6
+      },
+      {
+        "token": "متاكد",
+        "signature": "اتدكم",
+        "length": 5
+      },
+      {
+        "token": "باستمرار",
+        "signature": "ابترسم",
+        "length": 8
+      },
+      {
+        "token": "محترم",
+        "signature": "تحرم",
+        "length": 5
+      },
+      {
+        "token": "عبور",
+        "signature": "برعو",
+        "length": 4
+      },
+      {
+        "token": "دايفيد",
+        "signature": "ادفي",
+        "length": 6
+      },
+      {
+        "token": "ضبط",
+        "signature": "بضط",
+        "length": 3
+      },
+      {
+        "token": "لمس",
+        "signature": "سلم",
+        "length": 3
+      },
+      {
+        "token": "ستنتهي",
+        "signature": "تسنهي",
+        "length": 6
+      },
+      {
+        "token": "كيو",
+        "signature": "كوي",
+        "length": 3
+      },
+      {
+        "token": "بجنون",
+        "signature": "بجنو",
+        "length": 5
+      },
+      {
+        "token": "بلير",
+        "signature": "برلي",
+        "length": 4
+      },
+      {
+        "token": "تمطر",
+        "signature": "ترطم",
+        "length": 4
+      },
+      {
+        "token": "منصب",
+        "signature": "بصمن",
+        "length": 4
+      },
+      {
+        "token": "انسي",
+        "signature": "اسني",
+        "length": 4
+      },
+      {
+        "token": "برافو",
+        "signature": "ابرفو",
+        "length": 5
+      },
+      {
+        "token": "كونغ",
+        "signature": "غكنو",
+        "length": 4
+      },
+      {
+        "token": "يمشي",
+        "signature": "شمي",
+        "length": 4
+      },
+      {
+        "token": "ستخرج",
+        "signature": "تجخرس",
+        "length": 5
+      },
+      {
+        "token": "التيار",
+        "signature": "اترلي",
+        "length": 6
+      },
+      {
+        "token": "ايمي",
+        "signature": "امي",
+        "length": 4
+      },
+      {
+        "token": "ساعدت",
+        "signature": "اتدسع",
+        "length": 5
+      },
+      {
+        "token": "براندون",
+        "signature": "ابدرنو",
+        "length": 7
+      },
+      {
+        "token": "بال",
+        "signature": "ابل",
+        "length": 3
+      },
+      {
+        "token": "ضيق",
+        "signature": "ضقي",
+        "length": 3
+      },
+      {
+        "token": "نجحنا",
+        "signature": "اجحن",
+        "length": 5
+      },
+      {
+        "token": "وانه",
+        "signature": "انهو",
+        "length": 4
+      },
+      {
+        "token": "مايو",
+        "signature": "اموي",
+        "length": 4
+      },
+      {
+        "token": "يتذكر",
+        "signature": "تذركي",
+        "length": 5
+      },
+      {
+        "token": "عالمنا",
+        "signature": "اعلمن",
+        "length": 6
+      },
+      {
+        "token": "المحك",
+        "signature": "احكلم",
+        "length": 5
+      },
+      {
+        "token": "شقتي",
+        "signature": "تشقي",
+        "length": 4
+      },
+      {
+        "token": "صدقيني",
+        "signature": "دصقني",
+        "length": 6
+      },
+      {
+        "token": "برودي",
+        "signature": "بدروي",
+        "length": 5
+      },
+      {
+        "token": "الوادي",
+        "signature": "ادلوي",
+        "length": 6
+      },
+      {
+        "token": "ممتن",
+        "signature": "تمن",
+        "length": 4
+      },
+      {
+        "token": "حرق",
+        "signature": "حرق",
+        "length": 3
+      },
+      {
+        "token": "غيره",
+        "signature": "رغهي",
+        "length": 4
+      },
+      {
+        "token": "يي",
+        "signature": "ي",
+        "length": 2
+      },
+      {
+        "token": "التكنولوجيا",
+        "signature": "اتجكلنوي",
+        "length": 11
+      },
+      {
+        "token": "تافه",
+        "signature": "اتفه",
+        "length": 4
+      },
+      {
+        "token": "فيروس",
+        "signature": "رسفوي",
+        "length": 5
+      },
+      {
+        "token": "ممتعا",
+        "signature": "اتعم",
+        "length": 5
+      },
+      {
+        "token": "يجعلها",
+        "signature": "اجعلهي",
+        "length": 6
+      },
+      {
+        "token": "تتحسن",
+        "signature": "تحسن",
+        "length": 5
+      },
+      {
+        "token": "سيتي",
+        "signature": "تسي",
+        "length": 4
+      },
+      {
+        "token": "تنفجر",
+        "signature": "تجرفن",
+        "length": 5
+      },
+      {
+        "token": "عظام",
+        "signature": "اظعم",
+        "length": 4
+      },
+      {
+        "token": "ولديه",
+        "signature": "دلهوي",
+        "length": 5
+      },
+      {
+        "token": "درو",
+        "signature": "درو",
+        "length": 3
+      },
+      {
+        "token": "ستدفع",
+        "signature": "تدسعف",
+        "length": 5
+      },
+      {
+        "token": "علمنا",
+        "signature": "اعلمن",
+        "length": 5
+      },
+      {
+        "token": "القوي",
+        "signature": "اقلوي",
+        "length": 5
+      },
+      {
+        "token": "ترقص",
+        "signature": "ترصق",
+        "length": 4
+      },
+      {
+        "token": "بورك",
+        "signature": "بركو",
+        "length": 4
+      },
+      {
+        "token": "لتصبح",
+        "signature": "بتحصل",
+        "length": 5
+      },
+      {
+        "token": "تدير",
+        "signature": "تدري",
+        "length": 4
+      },
+      {
+        "token": "عنق",
+        "signature": "عقن",
+        "length": 3
+      },
+      {
+        "token": "كولينز",
+        "signature": "زكلنوي",
+        "length": 6
+      },
+      {
+        "token": "المخ",
+        "signature": "اخلم",
+        "length": 4
+      },
+      {
+        "token": "اللحاق",
+        "signature": "احقل",
+        "length": 6
+      },
+      {
+        "token": "زالوا",
+        "signature": "ازلو",
+        "length": 5
+      },
+      {
+        "token": "صانع",
+        "signature": "اصعن",
+        "length": 4
+      },
+      {
+        "token": "المحافظ",
+        "signature": "احظفلم",
+        "length": 7
+      },
+      {
+        "token": "التاسع",
+        "signature": "اتسعل",
+        "length": 6
+      },
+      {
+        "token": "فريقك",
+        "signature": "رفقكي",
+        "length": 5
+      },
+      {
+        "token": "يتعامل",
+        "signature": "اتعلمي",
+        "length": 6
+      },
+      {
+        "token": "ويندي",
+        "signature": "دنوي",
+        "length": 5
+      },
+      {
+        "token": "بالبيت",
+        "signature": "ابتلي",
+        "length": 6
+      },
+      {
+        "token": "قصد",
+        "signature": "دصق",
+        "length": 3
+      },
+      {
+        "token": "البار",
+        "signature": "ابرل",
+        "length": 5
+      },
+      {
+        "token": "سقوط",
+        "signature": "سطقو",
+        "length": 4
+      },
+      {
+        "token": "مريع",
+        "signature": "رعمي",
+        "length": 4
+      },
+      {
+        "token": "اساعدك",
+        "signature": "ادسعك",
+        "length": 6
+      },
+      {
+        "token": "ياعزيزتي",
+        "signature": "اتزعي",
+        "length": 8
+      },
+      {
+        "token": "رومان",
+        "signature": "ارمنو",
+        "length": 5
+      },
+      {
+        "token": "مواد",
+        "signature": "ادمو",
+        "length": 4
+      },
+      {
+        "token": "تجاهل",
+        "signature": "اتجله",
+        "length": 5
+      },
+      {
+        "token": "يحترق",
+        "signature": "تحرقي",
+        "length": 5
+      },
+      {
+        "token": "بشعور",
+        "signature": "برشعو",
+        "length": 5
+      },
+      {
+        "token": "تسع",
+        "signature": "تسع",
+        "length": 3
+      },
+      {
+        "token": "مورجان",
+        "signature": "اجرمنو",
+        "length": 6
+      },
+      {
+        "token": "الوحيده",
+        "signature": "احدلهوي",
+        "length": 7
+      },
+      {
+        "token": "منخفض",
+        "signature": "خضفمن",
+        "length": 5
+      },
+      {
+        "token": "ماتي",
+        "signature": "اتمي",
+        "length": 4
+      },
+      {
+        "token": "تشايس",
+        "signature": "اتسشي",
+        "length": 5
+      },
+      {
+        "token": "تيس",
+        "signature": "تسي",
+        "length": 3
+      },
+      {
+        "token": "اعطيني",
+        "signature": "اطعني",
+        "length": 6
+      },
+      {
+        "token": "كولين",
+        "signature": "كلنوي",
+        "length": 5
+      },
+      {
+        "token": "كذالك",
+        "signature": "اذكل",
+        "length": 5
+      },
+      {
+        "token": "الخيال",
+        "signature": "اخلي",
+        "length": 6
+      },
+      {
+        "token": "البيانو",
+        "signature": "ابلنوي",
+        "length": 7
+      },
+      {
+        "token": "العب",
+        "signature": "ابعل",
+        "length": 4
+      },
+      {
+        "token": "بابلو",
+        "signature": "ابلو",
+        "length": 5
+      },
+      {
+        "token": "للحفاظ",
+        "signature": "احظفل",
+        "length": 6
+      },
+      {
+        "token": "ناروتو",
+        "signature": "اترنو",
+        "length": 6
+      },
+      {
+        "token": "القديس",
+        "signature": "ادسقلي",
+        "length": 6
+      },
+      {
+        "token": "اتخذت",
+        "signature": "اتخذ",
+        "length": 5
+      },
+      {
+        "token": "منظر",
+        "signature": "رظمن",
+        "length": 4
+      },
+      {
+        "token": "الحلقات",
+        "signature": "اتحقل",
+        "length": 7
+      },
+      {
+        "token": "فيجاس",
+        "signature": "اجسفي",
+        "length": 5
+      },
+      {
+        "token": "مختبر",
+        "signature": "بتخرم",
+        "length": 5
+      },
+      {
+        "token": "اخيرا",
+        "signature": "اخري",
+        "length": 5
+      },
+      {
+        "token": "ليزي",
+        "signature": "زلي",
+        "length": 4
+      },
+      {
+        "token": "سمعتم",
+        "signature": "تسعم",
+        "length": 5
+      },
+      {
+        "token": "نقترب",
+        "signature": "بترقن",
+        "length": 5
+      },
+      {
+        "token": "مجتمع",
+        "signature": "تجعم",
+        "length": 5
+      },
+      {
+        "token": "مواقع",
+        "signature": "اعقمو",
+        "length": 5
+      },
+      {
+        "token": "هونج",
+        "signature": "جنهو",
+        "length": 4
+      },
+      {
+        "token": "العلامات",
+        "signature": "اتعلم",
+        "length": 8
+      },
+      {
+        "token": "ثمان",
+        "signature": "اثمن",
+        "length": 4
+      },
+      {
+        "token": "اقدم",
+        "signature": "ادقم",
+        "length": 4
+      },
+      {
+        "token": "السجين",
+        "signature": "اجسلني",
+        "length": 6
+      },
+      {
+        "token": "الهنود",
+        "signature": "ادلنهو",
+        "length": 6
+      },
+      {
+        "token": "ساذهب",
+        "signature": "ابذسه",
+        "length": 5
+      },
+      {
+        "token": "يدعي",
+        "signature": "دعي",
+        "length": 4
+      },
+      {
+        "token": "باوند",
+        "signature": "ابدنو",
+        "length": 5
+      },
+      {
+        "token": "فستان",
+        "signature": "اتسفن",
+        "length": 5
+      },
+      {
+        "token": "ادخلي",
+        "signature": "اخدلي",
+        "length": 5
+      },
+      {
+        "token": "بدونه",
+        "signature": "بدنهو",
+        "length": 5
+      },
+      {
+        "token": "رسلك",
+        "signature": "رسكل",
+        "length": 4
+      },
+      {
+        "token": "مادي",
+        "signature": "ادمي",
+        "length": 4
+      },
+      {
+        "token": "قادرا",
+        "signature": "ادرق",
+        "length": 5
+      },
+      {
+        "token": "يذكرني",
+        "signature": "ذركني",
+        "length": 6
+      },
+      {
+        "token": "بالبرد",
+        "signature": "ابدرل",
+        "length": 6
+      },
+      {
+        "token": "قوتك",
+        "signature": "تقكو",
+        "length": 4
+      },
+      {
+        "token": "تعبر",
+        "signature": "بترع",
+        "length": 4
+      },
+      {
+        "token": "حصلوا",
+        "signature": "احصلو",
+        "length": 5
+      },
+      {
+        "token": "مطلق",
+        "signature": "طقلم",
+        "length": 4
+      },
+      {
+        "token": "يعرض",
+        "signature": "رضعي",
+        "length": 4
+      },
+      {
+        "token": "نصنع",
+        "signature": "صعن",
+        "length": 4
+      },
+      {
+        "token": "كيث",
+        "signature": "ثكي",
+        "length": 3
+      },
+      {
+        "token": "سيدفع",
+        "signature": "دسعفي",
+        "length": 5
+      },
+      {
+        "token": "وحيدا",
+        "signature": "احدوي",
+        "length": 5
+      },
+      {
+        "token": "امس",
+        "signature": "اسم",
+        "length": 3
+      },
+      {
+        "token": "راسل",
+        "signature": "ارسل",
+        "length": 4
+      },
+      {
+        "token": "توجب",
+        "signature": "بتجو",
+        "length": 4
+      },
+      {
+        "token": "غريبا",
+        "signature": "ابرغي",
+        "length": 5
+      },
+      {
+        "token": "المستشار",
+        "signature": "اترسشلم",
+        "length": 8
+      },
+      {
+        "token": "لتقديم",
+        "signature": "تدقلمي",
+        "length": 6
+      },
+      {
+        "token": "مرتبط",
+        "signature": "بترطم",
+        "length": 5
+      },
+      {
+        "token": "تفعلوا",
+        "signature": "اتعفلو",
+        "length": 6
+      },
+      {
+        "token": "لويد",
+        "signature": "دلوي",
+        "length": 4
+      },
+      {
+        "token": "قرد",
+        "signature": "درق",
+        "length": 3
+      },
+      {
+        "token": "ديب",
+        "signature": "بدي",
+        "length": 3
+      },
+      {
+        "token": "بيكي",
+        "signature": "بكي",
+        "length": 4
+      },
+      {
+        "token": "ثالث",
+        "signature": "اثل",
+        "length": 4
+      },
+      {
+        "token": "قريبين",
+        "signature": "برقني",
+        "length": 6
+      },
+      {
+        "token": "جدار",
+        "signature": "اجدر",
+        "length": 4
+      },
+      {
+        "token": "وحدنا",
+        "signature": "احدنو",
+        "length": 5
+      },
+      {
+        "token": "صديقها",
+        "signature": "ادصقهي",
+        "length": 6
+      },
+      {
+        "token": "تكفي",
+        "signature": "تفكي",
+        "length": 4
+      },
+      {
+        "token": "سجين",
+        "signature": "جسني",
+        "length": 4
+      },
+      {
+        "token": "عساي",
+        "signature": "اسعي",
+        "length": 4
+      },
+      {
+        "token": "كاس",
+        "signature": "اسك",
+        "length": 3
+      },
+      {
+        "token": "يسرني",
+        "signature": "رسني",
+        "length": 5
+      },
+      {
+        "token": "سيصل",
+        "signature": "سصلي",
+        "length": 4
+      },
+      {
+        "token": "قلم",
+        "signature": "قلم",
+        "length": 3
+      },
+      {
+        "token": "الحوض",
+        "signature": "احضلو",
+        "length": 5
+      },
+      {
+        "token": "يظل",
+        "signature": "ظلي",
+        "length": 3
+      },
+      {
+        "token": "باربرا",
+        "signature": "ابر",
+        "length": 6
+      },
+      {
+        "token": "سيرينا",
+        "signature": "ارسني",
+        "length": 6
+      },
+      {
+        "token": "بلد",
+        "signature": "بدل",
+        "length": 3
+      },
+      {
+        "token": "تخص",
+        "signature": "تخص",
+        "length": 3
+      },
+      {
+        "token": "واجبي",
+        "signature": "ابجوي",
+        "length": 5
+      },
+      {
+        "token": "اعتاد",
+        "signature": "اتدع",
+        "length": 5
+      },
+      {
+        "token": "ترفع",
+        "signature": "ترعف",
+        "length": 4
+      },
+      {
+        "token": "مانهاتن",
+        "signature": "اتمنه",
+        "length": 7
+      },
+      {
+        "token": "مدام",
+        "signature": "ادم",
+        "length": 4
+      },
+      {
+        "token": "ضدي",
+        "signature": "دضي",
+        "length": 3
+      },
+      {
+        "token": "نا",
+        "signature": "ان",
+        "length": 2
+      },
+      {
+        "token": "شريف",
+        "signature": "رشفي",
+        "length": 4
+      },
+      {
+        "token": "يرون",
+        "signature": "رنوي",
+        "length": 4
+      },
+      {
+        "token": "ساقي",
+        "signature": "اسقي",
+        "length": 4
+      },
+      {
+        "token": "نسخ",
+        "signature": "خسن",
+        "length": 3
+      },
+      {
+        "token": "توفير",
+        "signature": "ترفوي",
+        "length": 5
+      },
+      {
+        "token": "عينه",
+        "signature": "عنهي",
+        "length": 4
+      },
+      {
+        "token": "لتحقيق",
+        "signature": "تحقلي",
+        "length": 6
+      },
+      {
+        "token": "يقبل",
+        "signature": "بقلي",
+        "length": 4
+      },
+      {
+        "token": "فكرتك",
+        "signature": "ترفك",
+        "length": 5
+      },
+      {
+        "token": "راعي",
+        "signature": "ارعي",
+        "length": 4
+      },
+      {
+        "token": "صوب",
+        "signature": "بصو",
+        "length": 3
+      },
+      {
+        "token": "غياب",
+        "signature": "ابغي",
+        "length": 4
+      },
+      {
+        "token": "نشاط",
+        "signature": "اشطن",
+        "length": 4
+      },
+      {
+        "token": "دروس",
+        "signature": "درسو",
+        "length": 4
+      },
+      {
+        "token": "المثل",
+        "signature": "اثلم",
+        "length": 5
+      },
+      {
+        "token": "السمين",
+        "signature": "اسلمني",
+        "length": 6
+      },
+      {
+        "token": "سيتوجب",
+        "signature": "بتجسوي",
+        "length": 6
+      },
+      {
+        "token": "اريك",
+        "signature": "اركي",
+        "length": 4
+      },
+      {
+        "token": "العبيد",
+        "signature": "ابدعلي",
+        "length": 6
+      },
+      {
+        "token": "لتفعل",
+        "signature": "تعفل",
+        "length": 5
+      },
+      {
+        "token": "ستو",
+        "signature": "تسو",
+        "length": 3
+      },
+      {
+        "token": "النقاط",
+        "signature": "اطقلن",
+        "length": 6
+      },
+      {
+        "token": "تحركي",
+        "signature": "تحركي",
+        "length": 5
+      },
+      {
+        "token": "كارلا",
+        "signature": "اركل",
+        "length": 5
+      },
+      {
+        "token": "مضاد",
+        "signature": "ادضم",
+        "length": 4
+      },
+      {
+        "token": "ظروف",
+        "signature": "رظفو",
+        "length": 4
+      },
+      {
+        "token": "مصنوع",
+        "signature": "صعمنو",
+        "length": 5
+      },
+      {
+        "token": "معسكر",
+        "signature": "رسعكم",
+        "length": 5
+      },
+      {
+        "token": "سمعتي",
+        "signature": "تسعمي",
+        "length": 5
+      },
+      {
+        "token": "تعرفينه",
+        "signature": "ترعفنهي",
+        "length": 7
+      },
+      {
+        "token": "موسم",
+        "signature": "سمو",
+        "length": 4
+      },
+      {
+        "token": "زواجنا",
+        "signature": "اجزنو",
+        "length": 6
+      },
+      {
+        "token": "سمعتها",
+        "signature": "اتسعمه",
+        "length": 6
+      },
+      {
+        "token": "صغيرا",
+        "signature": "ارصغي",
+        "length": 5
+      },
+      {
+        "token": "هوك",
+        "signature": "كهو",
+        "length": 3
+      },
+      {
+        "token": "سيعرف",
+        "signature": "رسعفي",
+        "length": 5
+      },
+      {
+        "token": "بحر",
+        "signature": "بحر",
+        "length": 3
+      },
+      {
+        "token": "دونالد",
+        "signature": "ادلنو",
+        "length": 6
+      },
+      {
+        "token": "الخمس",
+        "signature": "اخسلم",
+        "length": 5
+      },
+      {
+        "token": "لبعضنا",
+        "signature": "ابضعلن",
+        "length": 6
+      },
+      {
+        "token": "مرتاح",
+        "signature": "اتحرم",
+        "length": 5
+      },
+      {
+        "token": "المحمول",
+        "signature": "احلمو",
+        "length": 7
+      },
+      {
+        "token": "حبيب",
+        "signature": "بحي",
+        "length": 4
+      },
+      {
+        "token": "ذراعك",
+        "signature": "اذرعك",
+        "length": 5
+      },
+      {
+        "token": "لتوي",
+        "signature": "تلوي",
+        "length": 4
+      },
+      {
+        "token": "انس",
+        "signature": "اسن",
+        "length": 3
+      },
+      {
+        "token": "لفعله",
+        "signature": "عفله",
+        "length": 5
+      },
+      {
+        "token": "ريتشل",
+        "signature": "ترشلي",
+        "length": 5
+      },
+      {
+        "token": "مرتفع",
+        "signature": "ترعفم",
+        "length": 5
+      },
+      {
+        "token": "البحار",
+        "signature": "ابحرل",
+        "length": 6
+      },
+      {
+        "token": "جميلا",
+        "signature": "اجلمي",
+        "length": 5
+      },
+      {
+        "token": "كندا",
+        "signature": "ادكن",
+        "length": 4
+      },
+      {
+        "token": "جلد",
+        "signature": "جدل",
+        "length": 3
+      },
+      {
+        "token": "باس",
+        "signature": "ابس",
+        "length": 3
+      },
+      {
+        "token": "رغبت",
+        "signature": "بترغ",
+        "length": 4
+      },
+      {
+        "token": "قصتك",
+        "signature": "تصقك",
+        "length": 4
+      },
+      {
+        "token": "التقارير",
+        "signature": "اترقلي",
+        "length": 8
+      },
+      {
+        "token": "مهلك",
+        "signature": "كلمه",
+        "length": 4
+      },
+      {
+        "token": "تقيم",
+        "signature": "تقمي",
+        "length": 4
+      },
+      {
+        "token": "يخاف",
+        "signature": "اخفي",
+        "length": 4
+      },
+      {
+        "token": "كام",
+        "signature": "اكم",
+        "length": 3
+      },
+      {
+        "token": "يستخدمون",
+        "signature": "تخدسمنوي",
+        "length": 8
+      },
+      {
+        "token": "بالظبط",
+        "signature": "ابطظل",
+        "length": 6
+      },
+      {
+        "token": "ريتشي",
+        "signature": "ترشي",
+        "length": 5
+      },
+      {
+        "token": "الاتصالات",
+        "signature": "اتصل",
+        "length": 9
+      },
+      {
+        "token": "تنظرين",
+        "signature": "ترظني",
+        "length": 6
+      },
+      {
+        "token": "دعيه",
+        "signature": "دعهي",
+        "length": 4
+      },
+      {
+        "token": "تجعله",
+        "signature": "تجعله",
+        "length": 5
+      },
+      {
+        "token": "يانغ",
+        "signature": "اغني",
+        "length": 4
+      },
+      {
+        "token": "ثوان",
+        "signature": "اثنو",
+        "length": 4
+      },
+      {
+        "token": "مسبقا",
+        "signature": "ابسقم",
+        "length": 5
+      },
+      {
+        "token": "برمته",
+        "signature": "بترمه",
+        "length": 5
+      },
+      {
+        "token": "مقزز",
+        "signature": "زقم",
+        "length": 4
+      },
+      {
+        "token": "نشاهد",
+        "signature": "ادشنه",
+        "length": 5
+      },
+      {
+        "token": "يشكل",
+        "signature": "شكلي",
+        "length": 4
+      },
+      {
+        "token": "اتعلمين",
+        "signature": "اتعلمني",
+        "length": 7
+      },
+      {
+        "token": "اخبرتني",
+        "signature": "ابتخرني",
+        "length": 7
+      },
+      {
+        "token": "تقطع",
+        "signature": "تطعق",
+        "length": 4
+      },
+      {
+        "token": "تحبك",
+        "signature": "بتحك",
+        "length": 4
+      },
+      {
+        "token": "هيكتور",
+        "signature": "تركهوي",
+        "length": 6
+      },
+      {
+        "token": "ملعون",
+        "signature": "علمنو",
+        "length": 5
+      },
+      {
+        "token": "الضرب",
+        "signature": "ابرضل",
+        "length": 5
+      },
+      {
+        "token": "سرور",
+        "signature": "رسو",
+        "length": 4
+      },
+      {
+        "token": "مولدر",
+        "signature": "درلمو",
+        "length": 5
+      },
+      {
+        "token": "وثم",
+        "signature": "ثمو",
+        "length": 3
+      },
+      {
+        "token": "الفلم",
+        "signature": "افلم",
+        "length": 5
+      },
+      {
+        "token": "اووه",
+        "signature": "اهو",
+        "length": 4
+      },
+      {
+        "token": "طيار",
+        "signature": "ارطي",
+        "length": 4
+      },
+      {
+        "token": "نتوقع",
+        "signature": "تعقنو",
+        "length": 5
+      },
+      {
+        "token": "تفوز",
+        "signature": "تزفو",
+        "length": 4
+      },
+      {
+        "token": "التمثيل",
+        "signature": "اتثلمي",
+        "length": 7
+      },
+      {
+        "token": "مبالغ",
+        "signature": "ابغلم",
+        "length": 5
+      },
+      {
+        "token": "والاس",
+        "signature": "اسلو",
+        "length": 5
+      },
+      {
+        "token": "يمسك",
+        "signature": "سكمي",
+        "length": 4
+      },
+      {
+        "token": "التوتر",
+        "signature": "اترلو",
+        "length": 6
+      },
+      {
+        "token": "تجنب",
+        "signature": "بتجن",
+        "length": 4
+      },
+      {
+        "token": "تمضي",
+        "signature": "تضمي",
+        "length": 4
+      },
+      {
+        "token": "والكثير",
+        "signature": "اثركلوي",
+        "length": 7
+      },
+      {
+        "token": "مختلفين",
+        "signature": "تخفلمني",
+        "length": 7
+      },
+      {
+        "token": "يبقي",
+        "signature": "بقي",
+        "length": 4
+      },
+      {
+        "token": "كوبا",
+        "signature": "ابكو",
+        "length": 4
+      },
+      {
+        "token": "يعودوا",
+        "signature": "ادعوي",
+        "length": 6
+      },
+      {
+        "token": "اتوقع",
+        "signature": "اتعقو",
+        "length": 5
+      },
+      {
+        "token": "حضر",
+        "signature": "حرض",
+        "length": 3
+      },
+      {
+        "token": "ولذا",
+        "signature": "اذلو",
+        "length": 4
+      },
+      {
+        "token": "خارق",
+        "signature": "اخرق",
+        "length": 4
+      },
+      {
+        "token": "خدمات",
+        "signature": "اتخدم",
+        "length": 5
+      },
+      {
+        "token": "ملازم",
+        "signature": "ازلم",
+        "length": 5
+      },
+      {
+        "token": "ورغم",
+        "signature": "رغمو",
+        "length": 4
+      },
+      {
+        "token": "يراه",
+        "signature": "ارهي",
+        "length": 4
+      },
+      {
+        "token": "تحترق",
+        "signature": "تحرق",
+        "length": 5
+      },
+      {
+        "token": "ليكن",
+        "signature": "كلني",
+        "length": 4
+      },
+      {
+        "token": "تنهي",
+        "signature": "تنهي",
+        "length": 4
+      },
+      {
+        "token": "كونها",
+        "signature": "اكنهو",
+        "length": 5
+      },
+      {
+        "token": "جاسوس",
+        "signature": "اجسو",
+        "length": 5
+      },
+      {
+        "token": "المساعده",
+        "signature": "ادسعلمه",
+        "length": 8
+      },
+      {
+        "token": "يهمك",
+        "signature": "كمهي",
+        "length": 4
+      },
+      {
+        "token": "ركز",
+        "signature": "رزك",
+        "length": 3
+      },
+      {
+        "token": "جراي",
+        "signature": "اجري",
+        "length": 4
+      },
+      {
+        "token": "اراد",
+        "signature": "ادر",
+        "length": 4
+      },
+      {
+        "token": "صناديق",
+        "signature": "ادصقني",
+        "length": 6
+      },
+      {
+        "token": "برينان",
+        "signature": "ابرني",
+        "length": 6
+      },
+      {
+        "token": "ياصديقي",
+        "signature": "ادصقي",
+        "length": 7
+      },
+      {
+        "token": "وثقت",
+        "signature": "تثقو",
+        "length": 4
+      },
+      {
+        "token": "المصدر",
+        "signature": "ادرصلم",
+        "length": 6
+      },
+      {
+        "token": "ساعدنا",
+        "signature": "ادسعن",
+        "length": 6
+      },
+      {
+        "token": "مهمتك",
+        "signature": "تكمه",
+        "length": 5
+      },
+      {
+        "token": "احترام",
+        "signature": "اتحرم",
+        "length": 6
+      },
+      {
+        "token": "اثق",
+        "signature": "اثق",
+        "length": 3
+      },
+      {
+        "token": "المجد",
+        "signature": "اجدلم",
+        "length": 5
+      },
+      {
+        "token": "يبكي",
+        "signature": "بكي",
+        "length": 4
+      },
+      {
+        "token": "الذهبي",
+        "signature": "ابذلهي",
+        "length": 6
+      },
+      {
+        "token": "يهتمون",
+        "signature": "تمنهوي",
+        "length": 6
+      },
+      {
+        "token": "شعرها",
+        "signature": "ارشعه",
+        "length": 5
+      },
+      {
+        "token": "يمت",
+        "signature": "تمي",
+        "length": 3
+      },
+      {
+        "token": "تلاحظ",
+        "signature": "اتحظل",
+        "length": 5
+      },
+      {
+        "token": "كليا",
+        "signature": "اكلي",
+        "length": 4
+      },
+      {
+        "token": "ناري",
+        "signature": "ارني",
+        "length": 4
+      },
+      {
+        "token": "بالتفكير",
+        "signature": "ابترفكلي",
+        "length": 8
+      },
+      {
+        "token": "المنظر",
+        "signature": "ارظلمن",
+        "length": 6
+      },
+      {
+        "token": "الوجود",
+        "signature": "اجدلو",
+        "length": 6
+      },
+      {
+        "token": "تغضب",
+        "signature": "بتضغ",
+        "length": 4
+      },
+      {
+        "token": "الن",
+        "signature": "الن",
+        "length": 3
+      },
+      {
+        "token": "يخطر",
+        "signature": "خرطي",
+        "length": 4
+      },
+      {
+        "token": "خصوصا",
+        "signature": "اخصو",
+        "length": 5
+      },
+      {
+        "token": "بيد",
+        "signature": "بدي",
+        "length": 3
+      },
+      {
+        "token": "كينغ",
+        "signature": "غكني",
+        "length": 4
+      },
+      {
+        "token": "كونج",
+        "signature": "جكنو",
+        "length": 4
+      },
+      {
+        "token": "واسع",
+        "signature": "اسعو",
+        "length": 4
+      },
+      {
+        "token": "المعرض",
+        "signature": "ارضعلم",
+        "length": 6
+      },
+      {
+        "token": "بيكيت",
+        "signature": "بتكي",
+        "length": 5
+      },
+      {
+        "token": "تنزل",
+        "signature": "تزلن",
+        "length": 4
+      },
+      {
+        "token": "خلايا",
+        "signature": "اخلي",
+        "length": 5
+      },
+      {
+        "token": "رودي",
+        "signature": "دروي",
+        "length": 4
+      },
+      {
+        "token": "بعين",
+        "signature": "بعني",
+        "length": 4
+      },
+      {
+        "token": "ضيف",
+        "signature": "ضفي",
+        "length": 3
+      },
+      {
+        "token": "الركض",
+        "signature": "ارضكل",
+        "length": 5
+      },
+      {
+        "token": "المظهر",
+        "signature": "ارظلمه",
+        "length": 6
+      },
+      {
+        "token": "العلوم",
+        "signature": "اعلمو",
+        "length": 6
+      },
+      {
+        "token": "دويل",
+        "signature": "دلوي",
+        "length": 4
+      },
+      {
+        "token": "طلبته",
+        "signature": "بتطله",
+        "length": 5
+      },
+      {
+        "token": "مخلوقات",
+        "signature": "اتخقلمو",
+        "length": 7
+      },
+      {
+        "token": "تجارب",
+        "signature": "ابتجر",
+        "length": 5
+      },
+      {
+        "token": "بالخوف",
+        "signature": "ابخفلو",
+        "length": 6
+      },
+      {
+        "token": "دفاع",
+        "signature": "ادعف",
+        "length": 4
+      },
+      {
+        "token": "جانبك",
+        "signature": "ابجكن",
+        "length": 5
+      },
+      {
+        "token": "كاتي",
+        "signature": "اتكي",
+        "length": 4
+      },
+      {
+        "token": "العبور",
+        "signature": "ابرعلو",
+        "length": 6
+      },
+      {
+        "token": "قبض",
+        "signature": "بضق",
+        "length": 3
+      },
+      {
+        "token": "تثير",
+        "signature": "تثري",
+        "length": 4
+      },
+      {
+        "token": "لوحدنا",
+        "signature": "احدلنو",
+        "length": 6
+      },
+      {
+        "token": "سنعرف",
+        "signature": "رسعفن",
+        "length": 5
+      },
+      {
+        "token": "تجاوزت",
+        "signature": "اتجزو",
+        "length": 6
+      },
+      {
+        "token": "قناع",
+        "signature": "اعقن",
+        "length": 4
+      },
+      {
+        "token": "الكوكايين",
+        "signature": "اكلنوي",
+        "length": 9
+      },
+      {
+        "token": "جسمك",
+        "signature": "جسكم",
+        "length": 4
+      },
+      {
+        "token": "اقوله",
+        "signature": "اقلهو",
+        "length": 5
+      },
+      {
+        "token": "نوح",
+        "signature": "حنو",
+        "length": 3
+      },
+      {
+        "token": "وايد",
+        "signature": "ادوي",
+        "length": 4
+      },
+      {
+        "token": "الاخير",
+        "signature": "اخرلي",
+        "length": 6
+      },
+      {
+        "token": "ثابت",
+        "signature": "ابتث",
+        "length": 4
+      },
+      {
+        "token": "والكر",
+        "signature": "اركلو",
+        "length": 5
+      },
+      {
+        "token": "بليك",
+        "signature": "بكلي",
+        "length": 4
+      },
+      {
+        "token": "سونيا",
+        "signature": "اسنوي",
+        "length": 5
+      },
+      {
+        "token": "غلين",
+        "signature": "غلني",
+        "length": 4
+      },
+      {
+        "token": "العقاب",
+        "signature": "ابعقل",
+        "length": 6
+      },
+      {
+        "token": "غوثام",
+        "signature": "اثغمو",
+        "length": 5
+      },
+      {
+        "token": "وضعك",
+        "signature": "ضعكو",
+        "length": 4
+      },
+      {
+        "token": "يكتشف",
+        "signature": "تشفكي",
+        "length": 5
+      },
+      {
+        "token": "سم",
+        "signature": "سم",
+        "length": 2
+      },
+      {
+        "token": "تخرجي",
+        "signature": "تجخري",
+        "length": 5
+      },
+      {
+        "token": "التنفيذي",
+        "signature": "اتذفلني",
+        "length": 8
+      },
+      {
+        "token": "شرح",
+        "signature": "حرش",
+        "length": 3
+      },
+      {
+        "token": "الامن",
+        "signature": "المن",
+        "length": 5
+      },
+      {
+        "token": "يطير",
+        "signature": "رطي",
+        "length": 4
+      },
+      {
+        "token": "الصحي",
+        "signature": "احصلي",
+        "length": 5
+      },
+      {
+        "token": "تنظيم",
+        "signature": "تظمني",
+        "length": 5
+      },
+      {
+        "token": "تركك",
+        "signature": "ترك",
+        "length": 4
+      },
+      {
+        "token": "السهم",
+        "signature": "اسلمه",
+        "length": 5
+      },
+      {
+        "token": "نظرك",
+        "signature": "رظكن",
+        "length": 4
+      },
+      {
+        "token": "فرص",
+        "signature": "رصف",
+        "length": 3
+      },
+      {
+        "token": "يجدي",
+        "signature": "جدي",
+        "length": 4
+      },
+      {
+        "token": "فعلناه",
+        "signature": "اعفلنه",
+        "length": 6
+      },
+      {
+        "token": "الصبر",
+        "signature": "ابرصل",
+        "length": 5
+      },
+      {
+        "token": "ذاتها",
+        "signature": "اتذه",
+        "length": 5
+      },
+      {
+        "token": "تكبر",
+        "signature": "بترك",
+        "length": 4
+      },
+      {
+        "token": "لستم",
+        "signature": "تسلم",
+        "length": 4
+      },
+      {
+        "token": "الجدول",
+        "signature": "اجدلو",
+        "length": 6
+      },
+      {
+        "token": "دجاج",
+        "signature": "اجد",
+        "length": 4
+      },
+      {
+        "token": "نادر",
+        "signature": "ادرن",
+        "length": 4
+      },
+      {
+        "token": "اخبره",
+        "signature": "ابخره",
+        "length": 5
+      },
+      {
+        "token": "الانسان",
+        "signature": "اسلن",
+        "length": 7
+      },
+      {
+        "token": "حساس",
+        "signature": "احس",
+        "length": 4
+      },
+      {
+        "token": "شيلد",
+        "signature": "دشلي",
+        "length": 4
+      },
+      {
+        "token": "جرين",
+        "signature": "جرني",
+        "length": 4
+      },
+      {
+        "token": "التقط",
+        "signature": "اتطقل",
+        "length": 5
+      },
+      {
+        "token": "للرجال",
+        "signature": "اجرل",
+        "length": 6
+      },
+      {
+        "token": "لايهم",
+        "signature": "المهي",
+        "length": 5
+      },
+      {
+        "token": "الضعف",
+        "signature": "اضعفل",
+        "length": 5
+      },
+      {
+        "token": "يمكنكما",
+        "signature": "اكمني",
+        "length": 7
+      },
+      {
+        "token": "نفقد",
+        "signature": "دفقن",
+        "length": 4
+      },
+      {
+        "token": "دعك",
+        "signature": "دعك",
+        "length": 3
+      },
+      {
+        "token": "يقيم",
+        "signature": "قمي",
+        "length": 4
+      },
+      {
+        "token": "النفط",
+        "signature": "اطفلن",
+        "length": 5
+      },
+      {
+        "token": "اختراق",
+        "signature": "اتخرق",
+        "length": 6
+      },
+      {
+        "token": "ساعدتني",
+        "signature": "اتدسعني",
+        "length": 7
+      },
+      {
+        "token": "يورك",
+        "signature": "ركوي",
+        "length": 4
+      },
+      {
+        "token": "ادري",
+        "signature": "ادري",
+        "length": 4
+      },
+      {
+        "token": "بالملل",
+        "signature": "ابلم",
+        "length": 6
+      },
+      {
+        "token": "وضعته",
+        "signature": "تضعهو",
+        "length": 5
+      },
+      {
+        "token": "الرمال",
+        "signature": "ارلم",
+        "length": 6
+      },
+      {
+        "token": "باني",
+        "signature": "ابني",
+        "length": 4
+      },
+      {
+        "token": "باول",
+        "signature": "ابلو",
+        "length": 4
+      },
+      {
+        "token": "للزواج",
+        "signature": "اجزلو",
+        "length": 6
+      },
+      {
+        "token": "سكوتي",
+        "signature": "تسكوي",
+        "length": 5
+      },
+      {
+        "token": "الوسيم",
+        "signature": "اسلموي",
+        "length": 6
+      },
+      {
+        "token": "خططت",
+        "signature": "تخط",
+        "length": 4
+      },
+      {
+        "token": "الصناديق",
+        "signature": "ادصقلني",
+        "length": 8
+      },
+      {
+        "token": "بريطانيا",
+        "signature": "ابرطني",
+        "length": 8
+      },
+      {
+        "token": "صعبا",
+        "signature": "ابصع",
+        "length": 4
+      },
+      {
+        "token": "نهتم",
+        "signature": "تمنه",
+        "length": 4
+      },
+      {
+        "token": "الجبان",
+        "signature": "ابجلن",
+        "length": 6
+      },
+      {
+        "token": "بحجم",
+        "signature": "بجحم",
+        "length": 4
+      },
+      {
+        "token": "هدايا",
+        "signature": "ادهي",
+        "length": 5
+      },
+      {
+        "token": "كروز",
+        "signature": "رزكو",
+        "length": 4
+      },
+      {
+        "token": "والناس",
+        "signature": "اسلنو",
+        "length": 6
+      },
+      {
+        "token": "ليل",
+        "signature": "لي",
+        "length": 3
+      },
+      {
+        "token": "مور",
+        "signature": "رمو",
+        "length": 3
+      },
+      {
+        "token": "يشاهد",
+        "signature": "ادشهي",
+        "length": 5
+      },
+      {
+        "token": "تفهمي",
+        "signature": "تفمهي",
+        "length": 5
+      },
+      {
+        "token": "حلول",
+        "signature": "حلو",
+        "length": 4
+      },
+      {
+        "token": "يمضي",
+        "signature": "ضمي",
+        "length": 4
+      },
+      {
+        "token": "دعي",
+        "signature": "دعي",
+        "length": 3
+      },
+      {
+        "token": "جونيور",
+        "signature": "جرنوي",
+        "length": 6
+      },
+      {
+        "token": "عليا",
+        "signature": "اعلي",
+        "length": 4
+      },
+      {
+        "token": "حقيبتك",
+        "signature": "بتحقكي",
+        "length": 6
+      },
+      {
+        "token": "خمن",
+        "signature": "خمن",
+        "length": 3
+      },
+      {
+        "token": "القفص",
+        "signature": "اصفقل",
+        "length": 5
+      },
+      {
+        "token": "غراي",
+        "signature": "ارغي",
+        "length": 4
+      },
+      {
+        "token": "سلم",
+        "signature": "سلم",
+        "length": 3
+      },
+      {
+        "token": "لجلب",
+        "signature": "بجل",
+        "length": 4
+      },
+      {
+        "token": "مواطن",
+        "signature": "اطمنو",
+        "length": 5
+      },
+      {
+        "token": "النفايات",
+        "signature": "اتفلني",
+        "length": 8
+      },
+      {
+        "token": "ني",
+        "signature": "ني",
+        "length": 2
+      },
+      {
+        "token": "جاستن",
+        "signature": "اتجسن",
+        "length": 5
+      },
+      {
+        "token": "كارسون",
+        "signature": "ارسكنو",
+        "length": 6
+      },
+      {
+        "token": "للدفاع",
+        "signature": "ادعفل",
+        "length": 6
+      },
+      {
+        "token": "يرفض",
+        "signature": "رضفي",
+        "length": 4
+      },
+      {
+        "token": "باتجاه",
+        "signature": "ابتجه",
+        "length": 6
+      },
+      {
+        "token": "حاسوب",
+        "signature": "ابحسو",
+        "length": 5
+      },
+      {
+        "token": "خمسين",
+        "signature": "خسمني",
+        "length": 5
+      },
+      {
+        "token": "حذر",
+        "signature": "حذر",
+        "length": 3
+      },
+      {
+        "token": "انسان",
+        "signature": "اسن",
+        "length": 5
+      },
+      {
+        "token": "قضينا",
+        "signature": "اضقني",
+        "length": 5
+      },
+      {
+        "token": "منتج",
+        "signature": "تجمن",
+        "length": 4
+      },
+      {
+        "token": "مهووس",
+        "signature": "سمهو",
+        "length": 5
+      },
+      {
+        "token": "يعبر",
+        "signature": "برعي",
+        "length": 4
+      },
+      {
+        "token": "كلارا",
+        "signature": "اركل",
+        "length": 5
+      },
+      {
+        "token": "يشتري",
+        "signature": "ترشي",
+        "length": 5
+      },
+      {
+        "token": "جدك",
+        "signature": "جدك",
+        "length": 3
+      },
+      {
+        "token": "سفن",
+        "signature": "سفن",
+        "length": 3
+      },
+      {
+        "token": "يتحكم",
+        "signature": "تحكمي",
+        "length": 5
+      },
+      {
+        "token": "يمنع",
+        "signature": "عمني",
+        "length": 4
+      },
+      {
+        "token": "نراه",
+        "signature": "ارنه",
+        "length": 4
+      },
+      {
+        "token": "تدعوني",
+        "signature": "تدعنوي",
+        "length": 6
+      },
+      {
+        "token": "ظهره",
+        "signature": "رظه",
+        "length": 4
+      },
+      {
+        "token": "اخبارك",
+        "signature": "ابخرك",
+        "length": 6
+      },
+      {
+        "token": "جوردان",
+        "signature": "اجدرنو",
+        "length": 6
+      },
+      {
+        "token": "سموك",
+        "signature": "سكمو",
+        "length": 4
+      },
+      {
+        "token": "المدارس",
+        "signature": "ادرسلم",
+        "length": 7
+      },
+      {
+        "token": "وجميع",
+        "signature": "جعموي",
+        "length": 5
+      },
+      {
+        "token": "غامض",
+        "signature": "اضغم",
+        "length": 4
+      },
+      {
+        "token": "تصدقني",
+        "signature": "تدصقني",
+        "length": 6
+      },
+      {
+        "token": "خرجنا",
+        "signature": "اجخرن",
+        "length": 5
+      },
+      {
+        "token": "روزي",
+        "signature": "رزوي",
+        "length": 4
+      },
+      {
+        "token": "الليالي",
+        "signature": "الي",
+        "length": 7
+      },
+      {
+        "token": "سيخرج",
+        "signature": "جخرسي",
+        "length": 5
+      },
+      {
+        "token": "فينسنت",
+        "signature": "تسفني",
+        "length": 6
+      },
+      {
+        "token": "لنقوم",
+        "signature": "قلمنو",
+        "length": 5
+      },
+      {
+        "token": "تحققت",
+        "signature": "تحق",
+        "length": 5
+      },
+      {
+        "token": "كونر",
+        "signature": "ركنو",
+        "length": 4
+      },
+      {
+        "token": "الكولونيل",
+        "signature": "اكلنوي",
+        "length": 9
+      },
+      {
+        "token": "اركب",
+        "signature": "ابرك",
+        "length": 4
+      },
+      {
+        "token": "الظل",
+        "signature": "اظل",
+        "length": 4
+      },
+      {
+        "token": "تخافي",
+        "signature": "اتخفي",
+        "length": 5
+      },
+      {
+        "token": "بشان",
+        "signature": "ابشن",
+        "length": 4
+      },
+      {
+        "token": "الاولاد",
+        "signature": "ادلو",
+        "length": 7
+      },
+      {
+        "token": "المتهم",
+        "signature": "اتلمه",
+        "length": 6
+      },
+      {
+        "token": "ستظل",
+        "signature": "تسظل",
+        "length": 4
+      },
+      {
+        "token": "السقوط",
+        "signature": "اسطقلو",
+        "length": 6
+      },
+      {
+        "token": "والدتها",
+        "signature": "اتدلهو",
+        "length": 7
+      },
+      {
+        "token": "استعمال",
+        "signature": "اتسعلم",
+        "length": 7
+      },
+      {
+        "token": "لعيد",
+        "signature": "دعلي",
+        "length": 4
+      },
+      {
+        "token": "صار",
+        "signature": "ارص",
+        "length": 3
+      },
+      {
+        "token": "بالي",
+        "signature": "ابلي",
+        "length": 4
+      },
+      {
+        "token": "يوليو",
+        "signature": "لوي",
+        "length": 5
+      },
+      {
+        "token": "تذكروا",
+        "signature": "اتذركو",
+        "length": 6
+      },
+      {
+        "token": "بم",
+        "signature": "بم",
+        "length": 2
+      },
+      {
+        "token": "نلقي",
+        "signature": "قلني",
+        "length": 4
+      },
+      {
+        "token": "الدرع",
+        "signature": "ادرعل",
+        "length": 5
+      },
+      {
+        "token": "رضيع",
+        "signature": "رضعي",
+        "length": 4
+      },
+      {
+        "token": "اسفل",
+        "signature": "اسفل",
+        "length": 4
+      },
+      {
+        "token": "مارست",
+        "signature": "اترسم",
+        "length": 5
+      },
+      {
+        "token": "اضع",
+        "signature": "اضع",
+        "length": 3
+      },
+      {
+        "token": "بيرسي",
+        "signature": "برسي",
+        "length": 5
+      },
+      {
+        "token": "تجده",
+        "signature": "تجده",
+        "length": 4
+      },
+      {
+        "token": "تستسلم",
+        "signature": "تسلم",
+        "length": 6
+      },
+      {
+        "token": "صحفي",
+        "signature": "حصفي",
+        "length": 4
+      },
+      {
+        "token": "والجميع",
+        "signature": "اجعلموي",
+        "length": 7
+      },
+      {
+        "token": "ثلج",
+        "signature": "ثجل",
+        "length": 3
+      },
+      {
+        "token": "فمه",
+        "signature": "فمه",
+        "length": 3
+      },
+      {
+        "token": "لنعد",
+        "signature": "دعلن",
+        "length": 4
+      },
+      {
+        "token": "جدتك",
+        "signature": "تجدك",
+        "length": 4
+      },
+      {
+        "token": "وفقا",
+        "signature": "افقو",
+        "length": 4
+      },
+      {
+        "token": "سوبر",
+        "signature": "برسو",
+        "length": 4
+      },
+      {
+        "token": "تطبيق",
+        "signature": "بتطقي",
+        "length": 5
+      },
+      {
+        "token": "اركض",
+        "signature": "ارضك",
+        "length": 4
+      },
+      {
+        "token": "اصمتي",
+        "signature": "اتصمي",
+        "length": 5
+      },
+      {
+        "token": "اختي",
+        "signature": "اتخي",
+        "length": 4
+      },
+      {
+        "token": "سنعمل",
+        "signature": "سعلمن",
+        "length": 5
+      },
+      {
+        "token": "كاسي",
+        "signature": "اسكي",
+        "length": 4
+      },
+      {
+        "token": "هيو",
+        "signature": "هوي",
+        "length": 3
+      },
+      {
+        "token": "جيدون",
+        "signature": "جدنوي",
+        "length": 5
+      },
+      {
+        "token": "جوان",
+        "signature": "اجنو",
+        "length": 4
+      },
+      {
+        "token": "يعبث",
+        "signature": "بثعي",
+        "length": 4
+      },
+      {
+        "token": "العملاق",
+        "signature": "اعقلم",
+        "length": 7
+      }
+    ]
+  }
+}

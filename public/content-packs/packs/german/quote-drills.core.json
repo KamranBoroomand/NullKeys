@@ -1,0 +1,682 @@
+{
+  "packId": "german:quote-drills:core",
+  "languageId": "german",
+  "contentFamilyId": "quote-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 96,
+  "entries": [
+    {
+      "text": "Bald fing sie wieder an.",
+      "signature": ".abdefgilnrsw",
+      "openingToken": "bald",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "\" dachte Alice bei sich.",
+      "signature": ".\"abcdehilst",
+      "openingToken": "dachte",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" in der Ferne erscholl.",
+      "signature": ".\"cdefhilnors",
+      "openingToken": "in",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Das ist höchst komisch!",
+      "signature": "!„acdhikmoöst",
+      "openingToken": "das",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ich bin keine Schlange!",
+      "signature": "!„abceghiklns",
+      "openingToken": "ich",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Sage den nächsten Vers!",
+      "signature": "!„aäcdeghnrstv",
+      "openingToken": "sage",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Sage den nächsten Vers.",
+      "signature": ".„aäcdeghnrstv",
+      "openingToken": "sage",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Alice war ganz verwirrt.",
+      "signature": ".acegilnrtvwz",
+      "openingToken": "alice",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" fragte der König Alice.",
+      "signature": ".\"acdefgiklnört",
+      "openingToken": "fragte",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" fragte die Katze leise.",
+      "signature": ".\"adefgiklrstz",
+      "openingToken": "fragte",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" fuhr Alice eifrig fort.",
+      "signature": ".\"acefghilortu",
+      "openingToken": "fuhr",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Bist du jetzt zufrieden?",
+      "signature": "?„bdefijnrstuz",
+      "openingToken": "bist",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Es kam ganz verschieden!",
+      "signature": "!„acdeghikmnrsvz",
+      "openingToken": "es",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Oh, meine weichen Pfoten!",
+      "signature": ",!cefhimnoptw",
+      "openingToken": "oh",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" sagte die Raupe strenge.",
+      "signature": ".\"adeginprstu",
+      "openingToken": "sagte",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ruft den nächsten Zeugen!",
+      "signature": "!„äcdefghnrstuz",
+      "openingToken": "ruft",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ruft den nächsten Zeugen.",
+      "signature": ".„äcdefghnrstuz",
+      "openingToken": "ruft",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Sind ihre Köpfe gefallen?",
+      "signature": "?„adefghiklnöprs",
+      "openingToken": "sind",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Aufgehängt soll er werden!",
+      "signature": "!aädefghlnorstuw",
+      "openingToken": "aufgehängt",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ihr macht mich schwindlig.",
+      "signature": ".„acdghilmnrstw",
+      "openingToken": "ihr",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Kannst du Croquet spielen?",
+      "signature": "?„acdeiklnopqrstu",
+      "openingToken": "kannst",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "die Herzogin, die Herzogin!",
+      "signature": ",!deghinorz",
+      "openingToken": "die",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" Aber sie wartete geduldig.",
+      "signature": ".\"abdegilrstuw",
+      "openingToken": "aber",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Aber das von den Füßen?",
+      "signature": "?„abdefnorsßüv",
+      "openingToken": "aber",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Was soll ich aber thun?",
+      "signature": "?„abcehilnorstuw",
+      "openingToken": "was",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ja, das ist das Räthsel!",
+      "signature": ",!aädehijlrst",
+      "openingToken": "ja",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" drang der König in sie.",
+      "signature": ".\"adegiknörs",
+      "openingToken": "drang",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„An wen ist es adressirt?",
+      "signature": "?„adeinrstw",
+      "openingToken": "an",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Schlagt ihm den Kopf ab!",
+      "signature": "!„abcdefghiklmnopst",
+      "openingToken": "schlagt",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Schlagt ihr den Kopf ab!",
+      "signature": "!„abcdefghiklnoprst",
+      "openingToken": "schlagt",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Und wer sind diese drei?",
+      "signature": "?„deinrsuw",
+      "openingToken": "und",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Es wird wohl einen geben.",
+      "signature": ".bdeghilnorsw",
+      "openingToken": "es",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ich werde zu spät kommen!",
+      "signature": "!äcdehikmnoprstuwz",
+      "openingToken": "ich",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "komm und hilf mir heraus!",
+      "signature": "!adefhiklmnorsu",
+      "openingToken": "komm",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "; aber es kam ganz anders!",
+      "signature": ";!abdegkmnrsz",
+      "openingToken": "aber",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ich meinte es nicht böse!",
+      "signature": "!„bcehimnöst",
+      "openingToken": "ich",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ihr aber doch, nicht wahr?",
+      "signature": ",?abcdehinortw",
+      "openingToken": "ihr",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Dann rückt ihr wohl herum?",
+      "signature": "?„acdehiklmnortuüw",
+      "openingToken": "dann",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Es ist nicht meines Amtes.",
+      "signature": ".„acehimnst",
+      "openingToken": "es",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Was für eine komische Uhr!",
+      "signature": "!„acefhikmnorsuüw",
+      "openingToken": "was",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Woher soll ich das wissen?",
+      "signature": "?„acdehilnorsw",
+      "openingToken": "woher",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "endlich ist mein Kopf frei!",
+      "signature": "!cdefhiklmnoprst",
+      "openingToken": "endlich",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "o mein Fell und Knebelbart!",
+      "signature": "!abdefiklmnortu",
+      "openingToken": "o",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Was ist dir denn geschehen?",
+      "signature": "?acdeghinrstw",
+      "openingToken": "was",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" schrie die Königin sie an.",
+      "signature": ".\"acdeghiknörs",
+      "openingToken": "schrie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ueber und über genug Platz!",
+      "signature": "!„abdeglnprtuüz",
+      "openingToken": "ueber",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" sagte Alice zu sich selbst.",
+      "signature": ".\"abceghilstuz",
+      "openingToken": "sagte",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Die Königin wird dich hören!",
+      "signature": "!„cdeghiknörw",
+      "openingToken": "die",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ist dir etwas Wein gefällig?",
+      "signature": "?„aädefgilnrstw",
+      "openingToken": "ist",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Wie gefällt dir die Königin?",
+      "signature": "?„ädefgiklnörtw",
+      "openingToken": "wie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Das wird sonderbar sein, das!",
+      "signature": ",!abdeinorsw",
+      "openingToken": "das",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "– wie seltsam heute Alles ist!",
+      "signature": "–!aehilmstuw",
+      "openingToken": "wie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Aber Alles ist heute komisch!",
+      "signature": "!„abcehiklmorstu",
+      "openingToken": "aber",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Da kommt noch Vielerlei erst.",
+      "signature": ".„acdehiklmnorstv",
+      "openingToken": "da",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ich habe die Worte vergessen.",
+      "signature": ".„abcdeghinorstvw",
+      "openingToken": "ich",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Was für ein komisches Gefühl!",
+      "signature": "!„acefghiklmnorsüw",
+      "openingToken": "was",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "das kannst du nicht abläugnen.",
+      "signature": ".aäbcdeghiklnstu",
+      "openingToken": "das",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "grabe Aepfel aus, Euer Jnaden!",
+      "signature": ",!abdefgjlnprsu",
+      "openingToken": "grabe",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Vielleicht kennst du das Lied?",
+      "signature": "?acdehiklnstuv",
+      "openingToken": "vielleicht",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" ungefähr ein Mal jede Minute.",
+      "signature": ".\"aädefghijlmnrtu",
+      "openingToken": "ungefähr",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Sagtest du Ferkel oder Fächer?",
+      "signature": "?„aäcdefghklorstu",
+      "openingToken": "sagtest",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Wann hast du damit angefangen?",
+      "signature": "?„adefghimnstuw",
+      "openingToken": "wann",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Die Raupe sprach zuerst wieder.",
+      "signature": ".acdehiprstuwz",
+      "openingToken": "die",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Mich zum Fenster hinaus ziehen?",
+      "signature": "?acefhimnrstuz",
+      "openingToken": "mich",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Es beweist durchaus gar nichts!",
+      "signature": "!„abcdeghinrstuw",
+      "openingToken": "es",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Sie würde sie bald zurückholen!",
+      "signature": "!„abcdehiklnorsuüwz",
+      "openingToken": "sie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Wie soll ich denn hineinkommen?",
+      "signature": "?„cdehiklmnosw",
+      "openingToken": "wie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Und Katzen fressen doch Spatzen?",
+      "signature": "?acdefhknoprstuz",
+      "openingToken": "und",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "– Wie soll ich denn hineinkommen?",
+      "signature": "–?cdehiklmnosw",
+      "openingToken": "wie",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Den wievielsten haben wir heute?",
+      "signature": "?„abdehilnrstuvw",
+      "openingToken": "den",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Ihr sollt nicht getödtet werden!",
+      "signature": "!„cdeghilnoörstw",
+      "openingToken": "ihr",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" sagte Alice in reumüthigem Tone.",
+      "signature": ".\"aceghilmnorstuü",
+      "openingToken": "sagte",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" unterstand sich Alice zu fragen.",
+      "signature": ".\"acdefghilnrstuz",
+      "openingToken": "unterstand",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Das war glücklich davon gekommen!",
+      "signature": "!„acdeghiklmnorsüvw",
+      "openingToken": "das",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Laßt den ersten Zeugen eintreten!",
+      "signature": "!„adegilnrsßtuz",
+      "openingToken": "laßt",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" schrien die Soldaten als Antwort.",
+      "signature": ".\"acdehilnorstw",
+      "openingToken": "schrien",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„So macht ihr es wohl hier?",
+      "signature": "?„acehilmorstw",
+      "openingToken": "so",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Es ist nun immer sechs Uhr!",
+      "signature": "!cehimnrstu",
+      "openingToken": "es",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Was wird nur aus mir werden?",
+      "signature": "?adeimnrsuw",
+      "openingToken": "was",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ja, wenn sie das nur könnten!",
+      "signature": ",!adeijknörstuw",
+      "openingToken": "ja",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" wandte er sich an den Buben.",
+      "signature": ".\"abcdehinrstuw",
+      "openingToken": "wandte",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Was für einen Kummer hat sie?",
+      "signature": "?„aefhikmnrstuüw",
+      "openingToken": "was",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Hältst du mich für einen Esel?",
+      "signature": "?äcdefhilmnrstuü",
+      "openingToken": "hältst",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Höre gleich auf, sage ich dir!",
+      "signature": ",!acdefghilörsu",
+      "openingToken": "höre",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Oh, das möchte ich nicht gern!",
+      "signature": ",!acdeghimnoörst",
+      "openingToken": "oh",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" fuhr er zu Alice gewandt fort.",
+      "signature": ".\"acdefghilnortuwz",
+      "openingToken": "fuhr",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Aber wer soll die Preise geben?",
+      "signature": "?„abdegilnoprsw",
+      "openingToken": "aber",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Wie groß möchtest du gern sein?",
+      "signature": "?„cdeghimnoörsßtuw",
+      "openingToken": "wie",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "denn ich kann es unmöglich thun!",
+      "signature": "!acdeghiklmnöstu",
+      "openingToken": "denn",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Nein, es waren keine Thränen da.",
+      "signature": ",.aädehiknrstw",
+      "openingToken": "nein",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Sage ihr, daß sie anfangen soll.",
+      "signature": ",.adefghilnorsß",
+      "openingToken": "sage",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "\" Dabei sah sie Alice fragend an.",
+      "signature": ".\"abcdefghilnrs",
+      "openingToken": "dabei",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "„Wie habe ich das nur angefangen?",
+      "signature": "?„abcdefghinrsuw",
+      "openingToken": "wie",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Aber Alles ist heut so sonderbar.",
+      "signature": ".abdehilnorstu",
+      "openingToken": "aber",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Alle still, wenn ich bitten darf!",
+      "signature": ",!abcdefhilnrstw",
+      "openingToken": "alle",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Den möchte ich dir zeigen können!",
+      "signature": "!cdeghikmnörtz",
+      "openingToken": "den",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    }
+  ]
+}

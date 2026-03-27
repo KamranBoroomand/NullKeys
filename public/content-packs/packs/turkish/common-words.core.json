@@ -1,0 +1,3626 @@
+{
+  "packId": "turkish:common-words:core",
+  "languageId": "turkish",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "bir",
+        "signature": "bir",
+        "length": 3
+      },
+      {
+        "token": "bu",
+        "signature": "bu",
+        "length": 2
+      },
+      {
+        "token": "ve",
+        "signature": "ev",
+        "length": 2
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "için",
+        "signature": "çin",
+        "length": 4
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "ben",
+        "signature": "ben",
+        "length": 3
+      },
+      {
+        "token": "çok",
+        "signature": "çko",
+        "length": 3
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "ama",
+        "signature": "am",
+        "length": 3
+      },
+      {
+        "token": "var",
+        "signature": "arv",
+        "length": 3
+      },
+      {
+        "token": "evet",
+        "signature": "etv",
+        "length": 4
+      },
+      {
+        "token": "mı",
+        "signature": "ım",
+        "length": 2
+      },
+      {
+        "token": "değil",
+        "signature": "değil",
+        "length": 5
+      },
+      {
+        "token": "hayır",
+        "signature": "ahıry",
+        "length": 5
+      },
+      {
+        "token": "iyi",
+        "signature": "iy",
+        "length": 3
+      },
+      {
+        "token": "şey",
+        "signature": "eşy",
+        "length": 3
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "sen",
+        "signature": "ens",
+        "length": 3
+      },
+      {
+        "token": "daha",
+        "signature": "adh",
+        "length": 4
+      },
+      {
+        "token": "bana",
+        "signature": "abn",
+        "length": 4
+      },
+      {
+        "token": "kadar",
+        "signature": "adkr",
+        "length": 5
+      },
+      {
+        "token": "bunu",
+        "signature": "bnu",
+        "length": 4
+      },
+      {
+        "token": "onu",
+        "signature": "nou",
+        "length": 3
+      },
+      {
+        "token": "seni",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "tamam",
+        "signature": "amt",
+        "length": 5
+      },
+      {
+        "token": "beni",
+        "signature": "bein",
+        "length": 4
+      },
+      {
+        "token": "yok",
+        "signature": "koy",
+        "length": 3
+      },
+      {
+        "token": "gibi",
+        "signature": "bgi",
+        "length": 4
+      },
+      {
+        "token": "benim",
+        "signature": "beimn",
+        "length": 5
+      },
+      {
+        "token": "her",
+        "signature": "ehr",
+        "length": 3
+      },
+      {
+        "token": "sana",
+        "signature": "ans",
+        "length": 4
+      },
+      {
+        "token": "ki",
+        "signature": "ik",
+        "length": 2
+      },
+      {
+        "token": "sadece",
+        "signature": "acdes",
+        "length": 6
+      },
+      {
+        "token": "neden",
+        "signature": "den",
+        "length": 5
+      },
+      {
+        "token": "senin",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "burada",
+        "signature": "abdru",
+        "length": 6
+      },
+      {
+        "token": "zaman",
+        "signature": "amnz",
+        "length": 5
+      },
+      {
+        "token": "nasıl",
+        "signature": "aılns",
+        "length": 5
+      },
+      {
+        "token": "olduğunu",
+        "signature": "dğlnou",
+        "length": 8
+      },
+      {
+        "token": "hiç",
+        "signature": "çhi",
+        "length": 3
+      },
+      {
+        "token": "şimdi",
+        "signature": "dimş",
+        "length": 5
+      },
+      {
+        "token": "sonra",
+        "signature": "anors",
+        "length": 5
+      },
+      {
+        "token": "mu",
+        "signature": "mu",
+        "length": 2
+      },
+      {
+        "token": "misin",
+        "signature": "imns",
+        "length": 5
+      },
+      {
+        "token": "şu",
+        "signature": "şu",
+        "length": 2
+      },
+      {
+        "token": "öyle",
+        "signature": "elöy",
+        "length": 4
+      },
+      {
+        "token": "biraz",
+        "signature": "abirz",
+        "length": 5
+      },
+      {
+        "token": "önce",
+        "signature": "cenö",
+        "length": 4
+      },
+      {
+        "token": "musun",
+        "signature": "mnsu",
+        "length": 5
+      },
+      {
+        "token": "güzel",
+        "signature": "eglüz",
+        "length": 5
+      },
+      {
+        "token": "hadi",
+        "signature": "adhi",
+        "length": 4
+      },
+      {
+        "token": "ona",
+        "signature": "ano",
+        "length": 3
+      },
+      {
+        "token": "işte",
+        "signature": "eişt",
+        "length": 4
+      },
+      {
+        "token": "oldu",
+        "signature": "dlou",
+        "length": 4
+      },
+      {
+        "token": "bak",
+        "signature": "abk",
+        "length": 3
+      },
+      {
+        "token": "lütfen",
+        "signature": "eflntü",
+        "length": 6
+      },
+      {
+        "token": "yani",
+        "signature": "ainy",
+        "length": 4
+      },
+      {
+        "token": "böyle",
+        "signature": "belöy",
+        "length": 5
+      },
+      {
+        "token": "eğer",
+        "signature": "eğr",
+        "length": 4
+      },
+      {
+        "token": "geri",
+        "signature": "egir",
+        "length": 4
+      },
+      {
+        "token": "bile",
+        "signature": "beil",
+        "length": 4
+      },
+      {
+        "token": "istiyorum",
+        "signature": "imorstuy",
+        "length": 9
+      },
+      {
+        "token": "onun",
+        "signature": "nou",
+        "length": 4
+      },
+      {
+        "token": "çünkü",
+        "signature": "çknü",
+        "length": 5
+      },
+      {
+        "token": "biliyorum",
+        "signature": "bilmoruy",
+        "length": 9
+      },
+      {
+        "token": "gerçekten",
+        "signature": "çegknrt",
+        "length": 9
+      },
+      {
+        "token": "artık",
+        "signature": "aıkrt",
+        "length": 5
+      },
+      {
+        "token": "iki",
+        "signature": "ik",
+        "length": 3
+      },
+      {
+        "token": "belki",
+        "signature": "beikl",
+        "length": 5
+      },
+      {
+        "token": "peki",
+        "signature": "eikp",
+        "length": 4
+      },
+      {
+        "token": "başka",
+        "signature": "abkş",
+        "length": 5
+      },
+      {
+        "token": "tek",
+        "signature": "ekt",
+        "length": 3
+      },
+      {
+        "token": "doğru",
+        "signature": "dğoru",
+        "length": 5
+      },
+      {
+        "token": "olarak",
+        "signature": "aklor",
+        "length": 6
+      },
+      {
+        "token": "büyük",
+        "signature": "bküy",
+        "length": 5
+      },
+      {
+        "token": "buraya",
+        "signature": "abruy",
+        "length": 6
+      },
+      {
+        "token": "biri",
+        "signature": "bir",
+        "length": 4
+      },
+      {
+        "token": "olan",
+        "signature": "alno",
+        "length": 4
+      },
+      {
+        "token": "sanırım",
+        "signature": "aımnrs",
+        "length": 7
+      },
+      {
+        "token": "olacak",
+        "signature": "acklo",
+        "length": 6
+      },
+      {
+        "token": "olur",
+        "signature": "loru",
+        "length": 4
+      },
+      {
+        "token": "yardım",
+        "signature": "adımry",
+        "length": 6
+      },
+      {
+        "token": "demek",
+        "signature": "dekm",
+        "length": 5
+      },
+      {
+        "token": "hiçbir",
+        "signature": "bçhir",
+        "length": 6
+      },
+      {
+        "token": "bilmiyorum",
+        "signature": "bilmoruy",
+        "length": 10
+      },
+      {
+        "token": "efendim",
+        "signature": "defimn",
+        "length": 7
+      },
+      {
+        "token": "nerede",
+        "signature": "denr",
+        "length": 6
+      },
+      {
+        "token": "biz",
+        "signature": "biz",
+        "length": 3
+      },
+      {
+        "token": "bunun",
+        "signature": "bnu",
+        "length": 5
+      },
+      {
+        "token": "teşekkürler",
+        "signature": "eklrştü",
+        "length": 11
+      },
+      {
+        "token": "ile",
+        "signature": "eil",
+        "length": 3
+      },
+      {
+        "token": "orada",
+        "signature": "ador",
+        "length": 5
+      },
+      {
+        "token": "merhaba",
+        "signature": "abehmr",
+        "length": 7
+      },
+      {
+        "token": "fazla",
+        "signature": "aflz",
+        "length": 5
+      },
+      {
+        "token": "kötü",
+        "signature": "kötü",
+        "length": 4
+      },
+      {
+        "token": "yeni",
+        "signature": "einy",
+        "length": 4
+      },
+      {
+        "token": "biliyor",
+        "signature": "bilory",
+        "length": 7
+      },
+      {
+        "token": "gece",
+        "signature": "ceg",
+        "length": 4
+      },
+      {
+        "token": "gün",
+        "signature": "gnü",
+        "length": 3
+      },
+      {
+        "token": "harika",
+        "signature": "ahikr",
+        "length": 6
+      },
+      {
+        "token": "tüm",
+        "signature": "mtü",
+        "length": 3
+      },
+      {
+        "token": "ederim",
+        "signature": "deimr",
+        "length": 6
+      },
+      {
+        "token": "bütün",
+        "signature": "bntü",
+        "length": 5
+      },
+      {
+        "token": "haydi",
+        "signature": "adhiy",
+        "length": 5
+      },
+      {
+        "token": "şeyi",
+        "signature": "eişy",
+        "length": 4
+      },
+      {
+        "token": "şeyler",
+        "signature": "elrşy",
+        "length": 6
+      },
+      {
+        "token": "tam",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "sorun",
+        "signature": "norsu",
+        "length": 5
+      },
+      {
+        "token": "üzgünüm",
+        "signature": "gmnüz",
+        "length": 7
+      },
+      {
+        "token": "hemen",
+        "signature": "ehmn",
+        "length": 5
+      },
+      {
+        "token": "küçük",
+        "signature": "çkü",
+        "length": 5
+      },
+      {
+        "token": "olsun",
+        "signature": "lnosu",
+        "length": 5
+      },
+      {
+        "token": "siz",
+        "signature": "isz",
+        "length": 3
+      },
+      {
+        "token": "onları",
+        "signature": "aılnor",
+        "length": 6
+      },
+      {
+        "token": "gerek",
+        "signature": "egkr",
+        "length": 5
+      },
+      {
+        "token": "hakkında",
+        "signature": "adhıkn",
+        "length": 8
+      },
+      {
+        "token": "ver",
+        "signature": "erv",
+        "length": 3
+      },
+      {
+        "token": "gel",
+        "signature": "egl",
+        "length": 3
+      },
+      {
+        "token": "olabilir",
+        "signature": "abilor",
+        "length": 8
+      },
+      {
+        "token": "izin",
+        "signature": "inz",
+        "length": 4
+      },
+      {
+        "token": "devam",
+        "signature": "ademv",
+        "length": 5
+      },
+      {
+        "token": "aynı",
+        "signature": "aıny",
+        "length": 4
+      },
+      {
+        "token": "diye",
+        "signature": "deiy",
+        "length": 4
+      },
+      {
+        "token": "kız",
+        "signature": "ıkz",
+        "length": 3
+      },
+      {
+        "token": "bize",
+        "signature": "beiz",
+        "length": 4
+      },
+      {
+        "token": "bizi",
+        "signature": "biz",
+        "length": 4
+      },
+      {
+        "token": "buna",
+        "signature": "abnu",
+        "length": 4
+      },
+      {
+        "token": "teşekkür",
+        "signature": "ekrştü",
+        "length": 8
+      },
+      {
+        "token": "bayan",
+        "signature": "abny",
+        "length": 5
+      },
+      {
+        "token": "kendi",
+        "signature": "deikn",
+        "length": 5
+      },
+      {
+        "token": "pekala",
+        "signature": "aeklp",
+        "length": 6
+      },
+      {
+        "token": "içinde",
+        "signature": "çdein",
+        "length": 6
+      },
+      {
+        "token": "oluyor",
+        "signature": "loruy",
+        "length": 6
+      },
+      {
+        "token": "tabii",
+        "signature": "abit",
+        "length": 5
+      },
+      {
+        "token": "sizi",
+        "signature": "isz",
+        "length": 4
+      },
+      {
+        "token": "yüzden",
+        "signature": "denüyz",
+        "length": 6
+      },
+      {
+        "token": "kimse",
+        "signature": "eikms",
+        "length": 5
+      },
+      {
+        "token": "dur",
+        "signature": "dru",
+        "length": 3
+      },
+      {
+        "token": "hala",
+        "signature": "ahl",
+        "length": 4
+      },
+      {
+        "token": "seninle",
+        "signature": "eilns",
+        "length": 7
+      },
+      {
+        "token": "selam",
+        "signature": "aelms",
+        "length": 5
+      },
+      {
+        "token": "dostum",
+        "signature": "dmostu",
+        "length": 6
+      },
+      {
+        "token": "asla",
+        "signature": "als",
+        "length": 4
+      },
+      {
+        "token": "mısın",
+        "signature": "ımns",
+        "length": 5
+      },
+      {
+        "token": "baba",
+        "signature": "ab",
+        "length": 4
+      },
+      {
+        "token": "değilim",
+        "signature": "değilm",
+        "length": 7
+      },
+      {
+        "token": "önemli",
+        "signature": "eilmnö",
+        "length": 6
+      },
+      {
+        "token": "mü",
+        "signature": "mü",
+        "length": 2
+      },
+      {
+        "token": "tekrar",
+        "signature": "aekrt",
+        "length": 6
+      },
+      {
+        "token": "benimle",
+        "signature": "beilmn",
+        "length": 7
+      },
+      {
+        "token": "bizim",
+        "signature": "bimz",
+        "length": 5
+      },
+      {
+        "token": "söyle",
+        "signature": "elösy",
+        "length": 5
+      },
+      {
+        "token": "göre",
+        "signature": "egör",
+        "length": 4
+      },
+      {
+        "token": "vardı",
+        "signature": "adırv",
+        "length": 5
+      },
+      {
+        "token": "aslında",
+        "signature": "adılns",
+        "length": 7
+      },
+      {
+        "token": "dakika",
+        "signature": "adik",
+        "length": 6
+      },
+      {
+        "token": "ister",
+        "signature": "eirst",
+        "length": 5
+      },
+      {
+        "token": "geldi",
+        "signature": "degil",
+        "length": 5
+      },
+      {
+        "token": "biliyorsun",
+        "signature": "bilnorsuy",
+        "length": 10
+      },
+      {
+        "token": "üç",
+        "signature": "çü",
+        "length": 2
+      },
+      {
+        "token": "yoksa",
+        "signature": "akosy",
+        "length": 5
+      },
+      {
+        "token": "özür",
+        "signature": "örüz",
+        "length": 4
+      },
+      {
+        "token": "saat",
+        "signature": "ast",
+        "length": 4
+      },
+      {
+        "token": "bence",
+        "signature": "bcen",
+        "length": 5
+      },
+      {
+        "token": "gerçek",
+        "signature": "çegkr",
+        "length": 6
+      },
+      {
+        "token": "herkes",
+        "signature": "ehkrs",
+        "length": 6
+      },
+      {
+        "token": "neler",
+        "signature": "elnr",
+        "length": 5
+      },
+      {
+        "token": "olmak",
+        "signature": "aklmo",
+        "length": 5
+      },
+      {
+        "token": "geliyor",
+        "signature": "egilory",
+        "length": 7
+      },
+      {
+        "token": "şunu",
+        "signature": "nşu",
+        "length": 4
+      },
+      {
+        "token": "istiyorsun",
+        "signature": "inorstuy",
+        "length": 10
+      },
+      {
+        "token": "para",
+        "signature": "apr",
+        "length": 4
+      },
+      {
+        "token": "onunla",
+        "signature": "alnou",
+        "length": 6
+      },
+      {
+        "token": "uzun",
+        "signature": "nuz",
+        "length": 4
+      },
+      {
+        "token": "yapıyorsun",
+        "signature": "aınoprsuy",
+        "length": 10
+      },
+      {
+        "token": "emin",
+        "signature": "eimn",
+        "length": 4
+      },
+      {
+        "token": "bakalım",
+        "signature": "abıklm",
+        "length": 7
+      },
+      {
+        "token": "bugün",
+        "signature": "bgnuü",
+        "length": 5
+      },
+      {
+        "token": "işe",
+        "signature": "eiş",
+        "length": 3
+      },
+      {
+        "token": "onlar",
+        "signature": "alnor",
+        "length": 5
+      },
+      {
+        "token": "bekle",
+        "signature": "bekl",
+        "length": 5
+      },
+      {
+        "token": "miyim",
+        "signature": "imy",
+        "length": 5
+      },
+      {
+        "token": "buradan",
+        "signature": "abdnru",
+        "length": 7
+      },
+      {
+        "token": "nedir",
+        "signature": "deinr",
+        "length": 5
+      },
+      {
+        "token": "yine",
+        "signature": "einy",
+        "length": 4
+      },
+      {
+        "token": "birkaç",
+        "signature": "abçikr",
+        "length": 6
+      },
+      {
+        "token": "pek",
+        "signature": "ekp",
+        "length": 3
+      },
+      {
+        "token": "birlikte",
+        "signature": "beiklrt",
+        "length": 8
+      },
+      {
+        "token": "çocuk",
+        "signature": "cçkou",
+        "length": 5
+      },
+      {
+        "token": "gidelim",
+        "signature": "degilm",
+        "length": 7
+      },
+      {
+        "token": "hep",
+        "signature": "ehp",
+        "length": 3
+      },
+      {
+        "token": "yer",
+        "signature": "ery",
+        "length": 3
+      },
+      {
+        "token": "yere",
+        "signature": "ery",
+        "length": 4
+      },
+      {
+        "token": "sizin",
+        "signature": "insz",
+        "length": 5
+      },
+      {
+        "token": "söyledi",
+        "signature": "deilösy",
+        "length": 7
+      },
+      {
+        "token": "şekilde",
+        "signature": "deiklş",
+        "length": 7
+      },
+      {
+        "token": "bırak",
+        "signature": "abıkr",
+        "length": 5
+      },
+      {
+        "token": "yıl",
+        "signature": "ıly",
+        "length": 3
+      },
+      {
+        "token": "çocuklar",
+        "signature": "acçkloru",
+        "length": 8
+      },
+      {
+        "token": "burası",
+        "signature": "abırsu",
+        "length": 6
+      },
+      {
+        "token": "olmaz",
+        "signature": "almoz",
+        "length": 5
+      },
+      {
+        "token": "zaten",
+        "signature": "aentz",
+        "length": 5
+      },
+      {
+        "token": "hazır",
+        "signature": "ahırz",
+        "length": 5
+      },
+      {
+        "token": "kaç",
+        "signature": "açk",
+        "length": 3
+      },
+      {
+        "token": "istemiyorum",
+        "signature": "eimorstuy",
+        "length": 11
+      },
+      {
+        "token": "hepsi",
+        "signature": "ehips",
+        "length": 5
+      },
+      {
+        "token": "nereye",
+        "signature": "enry",
+        "length": 6
+      },
+      {
+        "token": "olmalı",
+        "signature": "aılmo",
+        "length": 6
+      },
+      {
+        "token": "dinle",
+        "signature": "deiln",
+        "length": 5
+      },
+      {
+        "token": "dilerim",
+        "signature": "deilmr",
+        "length": 7
+      },
+      {
+        "token": "işi",
+        "signature": "iş",
+        "length": 3
+      },
+      {
+        "token": "lazım",
+        "signature": "aılmz",
+        "length": 5
+      },
+      {
+        "token": "etmek",
+        "signature": "ekmt",
+        "length": 5
+      },
+      {
+        "token": "ilgili",
+        "signature": "gil",
+        "length": 6
+      },
+      {
+        "token": "kendini",
+        "signature": "deikn",
+        "length": 7
+      },
+      {
+        "token": "insanlar",
+        "signature": "ailnrs",
+        "length": 8
+      },
+      {
+        "token": "karşı",
+        "signature": "aıkrş",
+        "length": 5
+      },
+      {
+        "token": "olduğu",
+        "signature": "dğlou",
+        "length": 6
+      },
+      {
+        "token": "söz",
+        "signature": "ösz",
+        "length": 3
+      },
+      {
+        "token": "az",
+        "signature": "az",
+        "length": 2
+      },
+      {
+        "token": "ediyorum",
+        "signature": "deimoruy",
+        "length": 8
+      },
+      {
+        "token": "eski",
+        "signature": "eiks",
+        "length": 4
+      },
+      {
+        "token": "kesinlikle",
+        "signature": "eiklns",
+        "length": 10
+      },
+      {
+        "token": "anda",
+        "signature": "adn",
+        "length": 4
+      },
+      {
+        "token": "fakat",
+        "signature": "afkt",
+        "length": 5
+      },
+      {
+        "token": "tane",
+        "signature": "aent",
+        "length": 4
+      },
+      {
+        "token": "aman",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "benden",
+        "signature": "bden",
+        "length": 6
+      },
+      {
+        "token": "gerekiyor",
+        "signature": "egikory",
+        "length": 9
+      },
+      {
+        "token": "bunlar",
+        "signature": "ablnru",
+        "length": 6
+      },
+      {
+        "token": "birşey",
+        "signature": "beirşy",
+        "length": 6
+      },
+      {
+        "token": "istiyor",
+        "signature": "iorsty",
+        "length": 7
+      },
+      {
+        "token": "yapmak",
+        "signature": "akmpy",
+        "length": 6
+      },
+      {
+        "token": "zor",
+        "signature": "orz",
+        "length": 3
+      },
+      {
+        "token": "görmek",
+        "signature": "egkmör",
+        "length": 6
+      },
+      {
+        "token": "insan",
+        "signature": "ains",
+        "length": 5
+      },
+      {
+        "token": "tatlım",
+        "signature": "aılmt",
+        "length": 6
+      },
+      {
+        "token": "seviyorum",
+        "signature": "eimorsuvy",
+        "length": 9
+      },
+      {
+        "token": "bundan",
+        "signature": "abdnu",
+        "length": 6
+      },
+      {
+        "token": "misiniz",
+        "signature": "imnsz",
+        "length": 7
+      },
+      {
+        "token": "diğer",
+        "signature": "değir",
+        "length": 5
+      },
+      {
+        "token": "içeri",
+        "signature": "çeir",
+        "length": 5
+      },
+      {
+        "token": "kişi",
+        "signature": "ikş",
+        "length": 4
+      },
+      {
+        "token": "onlara",
+        "signature": "alnor",
+        "length": 6
+      },
+      {
+        "token": "yapma",
+        "signature": "ampy",
+        "length": 5
+      },
+      {
+        "token": "oraya",
+        "signature": "aory",
+        "length": 5
+      },
+      {
+        "token": "elbette",
+        "signature": "belt",
+        "length": 7
+      },
+      {
+        "token": "senden",
+        "signature": "dens",
+        "length": 6
+      },
+      {
+        "token": "kez",
+        "signature": "ekz",
+        "length": 3
+      },
+      {
+        "token": "kontrol",
+        "signature": "klnort",
+        "length": 7
+      },
+      {
+        "token": "gidip",
+        "signature": "dgip",
+        "length": 5
+      },
+      {
+        "token": "hafta",
+        "signature": "afht",
+        "length": 5
+      },
+      {
+        "token": "hoş",
+        "signature": "hoş",
+        "length": 3
+      },
+      {
+        "token": "yarın",
+        "signature": "aınry",
+        "length": 5
+      },
+      {
+        "token": "edin",
+        "signature": "dein",
+        "length": 4
+      },
+      {
+        "token": "özel",
+        "signature": "elöz",
+        "length": 4
+      },
+      {
+        "token": "doktor",
+        "signature": "dkort",
+        "length": 6
+      },
+      {
+        "token": "gereken",
+        "signature": "egknr",
+        "length": 7
+      },
+      {
+        "token": "yanlış",
+        "signature": "aılnşy",
+        "length": 6
+      },
+      {
+        "token": "yerde",
+        "signature": "dery",
+        "length": 5
+      },
+      {
+        "token": "zorunda",
+        "signature": "adnoruz",
+        "length": 7
+      },
+      {
+        "token": "bakın",
+        "signature": "abıkn",
+        "length": 5
+      },
+      {
+        "token": "ihtiyacım",
+        "signature": "achiımty",
+        "length": 9
+      },
+      {
+        "token": "sağ",
+        "signature": "ağs",
+        "length": 3
+      },
+      {
+        "token": "bazı",
+        "signature": "abız",
+        "length": 4
+      },
+      {
+        "token": "dışarı",
+        "signature": "adırş",
+        "length": 6
+      },
+      {
+        "token": "ediyor",
+        "signature": "deiory",
+        "length": 6
+      },
+      {
+        "token": "gördüm",
+        "signature": "dgmörü",
+        "length": 6
+      },
+      {
+        "token": "niye",
+        "signature": "einy",
+        "length": 4
+      },
+      {
+        "token": "birini",
+        "signature": "binr",
+        "length": 6
+      },
+      {
+        "token": "geç",
+        "signature": "çeg",
+        "length": 3
+      },
+      {
+        "token": "kahretsin",
+        "signature": "aehiknrst",
+        "length": 9
+      },
+      {
+        "token": "eminim",
+        "signature": "eimn",
+        "length": 6
+      },
+      {
+        "token": "nereden",
+        "signature": "denr",
+        "length": 7
+      },
+      {
+        "token": "sakin",
+        "signature": "aikns",
+        "length": 5
+      },
+      {
+        "token": "dikkat",
+        "signature": "adikt",
+        "length": 6
+      },
+      {
+        "token": "falan",
+        "signature": "afln",
+        "length": 5
+      },
+      {
+        "token": "mutlu",
+        "signature": "lmtu",
+        "length": 5
+      },
+      {
+        "token": "dedim",
+        "signature": "deim",
+        "length": 5
+      },
+      {
+        "token": "gidiyor",
+        "signature": "dgiory",
+        "length": 7
+      },
+      {
+        "token": "hem",
+        "signature": "ehm",
+        "length": 3
+      },
+      {
+        "token": "yemek",
+        "signature": "ekmy",
+        "length": 5
+      },
+      {
+        "token": "ondan",
+        "signature": "adno",
+        "length": 5
+      },
+      {
+        "token": "erkek",
+        "signature": "ekr",
+        "length": 5
+      },
+      {
+        "token": "polis",
+        "signature": "ilops",
+        "length": 5
+      },
+      {
+        "token": "yalan",
+        "signature": "alny",
+        "length": 5
+      },
+      {
+        "token": "gitti",
+        "signature": "git",
+        "length": 5
+      },
+      {
+        "token": "beri",
+        "signature": "beir",
+        "length": 4
+      },
+      {
+        "token": "beş",
+        "signature": "beş",
+        "length": 3
+      },
+      {
+        "token": "değildi",
+        "signature": "değil",
+        "length": 7
+      },
+      {
+        "token": "yalnız",
+        "signature": "aılnyz",
+        "length": 6
+      },
+      {
+        "token": "çabuk",
+        "signature": "abçku",
+        "length": 5
+      },
+      {
+        "token": "görüşürüz",
+        "signature": "görşüz",
+        "length": 9
+      },
+      {
+        "token": "merak",
+        "signature": "aekmr",
+        "length": 5
+      },
+      {
+        "token": "babam",
+        "signature": "abm",
+        "length": 5
+      },
+      {
+        "token": "etti",
+        "signature": "eit",
+        "length": 4
+      },
+      {
+        "token": "haber",
+        "signature": "abehr",
+        "length": 5
+      },
+      {
+        "token": "nefret",
+        "signature": "efnrt",
+        "length": 6
+      },
+      {
+        "token": "gördün",
+        "signature": "dgnörü",
+        "length": 6
+      },
+      {
+        "token": "sence",
+        "signature": "cens",
+        "length": 5
+      },
+      {
+        "token": "umarım",
+        "signature": "aımru",
+        "length": 6
+      },
+      {
+        "token": "dün",
+        "signature": "dnü",
+        "length": 3
+      },
+      {
+        "token": "istediğim",
+        "signature": "değimst",
+        "length": 9
+      },
+      {
+        "token": "ateş",
+        "signature": "aeşt",
+        "length": 4
+      },
+      {
+        "token": "değilsin",
+        "signature": "değilns",
+        "length": 8
+      },
+      {
+        "token": "sanki",
+        "signature": "aikns",
+        "length": 5
+      },
+      {
+        "token": "veya",
+        "signature": "aevy",
+        "length": 4
+      },
+      {
+        "token": "ayrıca",
+        "signature": "acıry",
+        "length": 6
+      },
+      {
+        "token": "dolar",
+        "signature": "adlor",
+        "length": 5
+      },
+      {
+        "token": "geçen",
+        "signature": "çegn",
+        "length": 5
+      },
+      {
+        "token": "yaptım",
+        "signature": "aımpty",
+        "length": 6
+      },
+      {
+        "token": "iyiyim",
+        "signature": "imy",
+        "length": 6
+      },
+      {
+        "token": "kes",
+        "signature": "eks",
+        "length": 3
+      },
+      {
+        "token": "tanrı",
+        "signature": "aınrt",
+        "length": 5
+      },
+      {
+        "token": "etme",
+        "signature": "emt",
+        "length": 4
+      },
+      {
+        "token": "olduğumu",
+        "signature": "dğlmou",
+        "length": 8
+      },
+      {
+        "token": "sabah",
+        "signature": "abhs",
+        "length": 5
+      },
+      {
+        "token": "yap",
+        "signature": "apy",
+        "length": 3
+      },
+      {
+        "token": "karar",
+        "signature": "akr",
+        "length": 5
+      },
+      {
+        "token": "kendimi",
+        "signature": "deikmn",
+        "length": 7
+      },
+      {
+        "token": "kendine",
+        "signature": "deikn",
+        "length": 7
+      },
+      {
+        "token": "üzerinde",
+        "signature": "deinrüz",
+        "length": 8
+      },
+      {
+        "token": "yerine",
+        "signature": "einry",
+        "length": 6
+      },
+      {
+        "token": "akşam",
+        "signature": "akmş",
+        "length": 5
+      },
+      {
+        "token": "bunları",
+        "signature": "abılnru",
+        "length": 7
+      },
+      {
+        "token": "dört",
+        "signature": "dört",
+        "length": 4
+      },
+      {
+        "token": "sonunda",
+        "signature": "adnosu",
+        "length": 7
+      },
+      {
+        "token": "su",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "vardır",
+        "signature": "adırv",
+        "length": 6
+      },
+      {
+        "token": "adı",
+        "signature": "adı",
+        "length": 3
+      },
+      {
+        "token": "işin",
+        "signature": "inş",
+        "length": 4
+      },
+      {
+        "token": "yaptın",
+        "signature": "aınpty",
+        "length": 6
+      },
+      {
+        "token": "yeter",
+        "signature": "erty",
+        "length": 5
+      },
+      {
+        "token": "boyunca",
+        "signature": "abcnouy",
+        "length": 7
+      },
+      {
+        "token": "hangi",
+        "signature": "aghin",
+        "length": 5
+      },
+      {
+        "token": "olmuş",
+        "signature": "lmoşu",
+        "length": 5
+      },
+      {
+        "token": "tamamen",
+        "signature": "aemnt",
+        "length": 7
+      },
+      {
+        "token": "adamım",
+        "signature": "adım",
+        "length": 6
+      },
+      {
+        "token": "farklı",
+        "signature": "afıklr",
+        "length": 6
+      },
+      {
+        "token": "kal",
+        "signature": "akl",
+        "length": 3
+      },
+      {
+        "token": "olamaz",
+        "signature": "almoz",
+        "length": 6
+      },
+      {
+        "token": "olması",
+        "signature": "aılmos",
+        "length": 6
+      },
+      {
+        "token": "açık",
+        "signature": "açık",
+        "length": 4
+      },
+      {
+        "token": "bitti",
+        "signature": "bit",
+        "length": 5
+      },
+      {
+        "token": "ettim",
+        "signature": "eimt",
+        "length": 5
+      },
+      {
+        "token": "adamı",
+        "signature": "adım",
+        "length": 5
+      },
+      {
+        "token": "bende",
+        "signature": "bden",
+        "length": 5
+      },
+      {
+        "token": "beraber",
+        "signature": "aber",
+        "length": 7
+      },
+      {
+        "token": "neyse",
+        "signature": "ensy",
+        "length": 5
+      },
+      {
+        "token": "söyledim",
+        "signature": "deilmösy",
+        "length": 8
+      },
+      {
+        "token": "yol",
+        "signature": "loy",
+        "length": 3
+      },
+      {
+        "token": "adım",
+        "signature": "adım",
+        "length": 4
+      },
+      {
+        "token": "bazen",
+        "signature": "abenz",
+        "length": 5
+      },
+      {
+        "token": "olursa",
+        "signature": "alorsu",
+        "length": 6
+      },
+      {
+        "token": "tarafından",
+        "signature": "adfınrt",
+        "length": 10
+      },
+      {
+        "token": "aldım",
+        "signature": "adılm",
+        "length": 5
+      },
+      {
+        "token": "annem",
+        "signature": "aemn",
+        "length": 5
+      },
+      {
+        "token": "birisi",
+        "signature": "birs",
+        "length": 6
+      },
+      {
+        "token": "buldum",
+        "signature": "bdlmu",
+        "length": 6
+      },
+      {
+        "token": "fark",
+        "signature": "afkr",
+        "length": 4
+      },
+      {
+        "token": "konuşmak",
+        "signature": "akmnoşu",
+        "length": 8
+      },
+      {
+        "token": "oldukça",
+        "signature": "açdklou",
+        "length": 7
+      },
+      {
+        "token": "tabi",
+        "signature": "abit",
+        "length": 4
+      },
+      {
+        "token": "yüzünden",
+        "signature": "denüyz",
+        "length": 8
+      },
+      {
+        "token": "cevap",
+        "signature": "acepv",
+        "length": 5
+      },
+      {
+        "token": "henüz",
+        "signature": "ehnüz",
+        "length": 5
+      },
+      {
+        "token": "kolay",
+        "signature": "akloy",
+        "length": 5
+      },
+      {
+        "token": "zamanı",
+        "signature": "aımnz",
+        "length": 6
+      },
+      {
+        "token": "aç",
+        "signature": "aç",
+        "length": 2
+      },
+      {
+        "token": "gelecek",
+        "signature": "cegkl",
+        "length": 7
+      },
+      {
+        "token": "gitmek",
+        "signature": "egikmt",
+        "length": 6
+      },
+      {
+        "token": "mükemmel",
+        "signature": "eklmü",
+        "length": 8
+      },
+      {
+        "token": "olmadığını",
+        "signature": "adğılmno",
+        "length": 10
+      },
+      {
+        "token": "öyleyse",
+        "signature": "elösy",
+        "length": 7
+      },
+      {
+        "token": "sahip",
+        "signature": "ahips",
+        "length": 5
+      },
+      {
+        "token": "saniye",
+        "signature": "aeinsy",
+        "length": 6
+      },
+      {
+        "token": "yapıyor",
+        "signature": "aıopry",
+        "length": 7
+      },
+      {
+        "token": "yoktu",
+        "signature": "kotuy",
+        "length": 5
+      },
+      {
+        "token": "dedi",
+        "signature": "dei",
+        "length": 4
+      },
+      {
+        "token": "ise",
+        "signature": "eis",
+        "length": 3
+      },
+      {
+        "token": "onların",
+        "signature": "aılnor",
+        "length": 7
+      },
+      {
+        "token": "sakın",
+        "signature": "aıkns",
+        "length": 5
+      },
+      {
+        "token": "yanında",
+        "signature": "adıny",
+        "length": 7
+      },
+      {
+        "token": "yolu",
+        "signature": "louy",
+        "length": 4
+      },
+      {
+        "token": "başına",
+        "signature": "abınş",
+        "length": 6
+      },
+      {
+        "token": "bilirsin",
+        "signature": "bilnrs",
+        "length": 8
+      },
+      {
+        "token": "görünüyor",
+        "signature": "gnoörüy",
+        "length": 9
+      },
+      {
+        "token": "olun",
+        "signature": "lnou",
+        "length": 4
+      },
+      {
+        "token": "uzak",
+        "signature": "akuz",
+        "length": 4
+      },
+      {
+        "token": "anlıyorum",
+        "signature": "aılmnoruy",
+        "length": 9
+      },
+      {
+        "token": "bebeğim",
+        "signature": "beğim",
+        "length": 7
+      },
+      {
+        "token": "düşünüyorsun",
+        "signature": "dnorsşuüy",
+        "length": 12
+      },
+      {
+        "token": "eder",
+        "signature": "der",
+        "length": 4
+      },
+      {
+        "token": "oldum",
+        "signature": "dlmou",
+        "length": 5
+      },
+      {
+        "token": "olsa",
+        "signature": "alos",
+        "length": 4
+      },
+      {
+        "token": "sanmıyorum",
+        "signature": "aımnorsuy",
+        "length": 10
+      },
+      {
+        "token": "yardımcı",
+        "signature": "acdımry",
+        "length": 8
+      },
+      {
+        "token": "ara",
+        "signature": "ar",
+        "length": 3
+      },
+      {
+        "token": "araba",
+        "signature": "abr",
+        "length": 5
+      },
+      {
+        "token": "geldim",
+        "signature": "degilm",
+        "length": 6
+      },
+      {
+        "token": "genç",
+        "signature": "çegn",
+        "length": 4
+      },
+      {
+        "token": "neredeyse",
+        "signature": "denrsy",
+        "length": 9
+      },
+      {
+        "token": "adamın",
+        "signature": "adımn",
+        "length": 6
+      },
+      {
+        "token": "almak",
+        "signature": "aklm",
+        "length": 5
+      },
+      {
+        "token": "altında",
+        "signature": "adılnt",
+        "length": 7
+      },
+      {
+        "token": "dünya",
+        "signature": "adnüy",
+        "length": 5
+      },
+      {
+        "token": "evde",
+        "signature": "dev",
+        "length": 4
+      },
+      {
+        "token": "günü",
+        "signature": "gnü",
+        "length": 4
+      },
+      {
+        "token": "halde",
+        "signature": "adehl",
+        "length": 5
+      },
+      {
+        "token": "konusunda",
+        "signature": "adknosu",
+        "length": 9
+      },
+      {
+        "token": "söylemek",
+        "signature": "eklmösy",
+        "length": 8
+      },
+      {
+        "token": "yaptı",
+        "signature": "aıpty",
+        "length": 5
+      },
+      {
+        "token": "yeniden",
+        "signature": "deiny",
+        "length": 7
+      },
+      {
+        "token": "dersin",
+        "signature": "deinrs",
+        "length": 6
+      },
+      {
+        "token": "galiba",
+        "signature": "abgil",
+        "length": 6
+      },
+      {
+        "token": "hızlı",
+        "signature": "hılz",
+        "length": 5
+      },
+      {
+        "token": "miyiz",
+        "signature": "imyz",
+        "length": 5
+      },
+      {
+        "token": "on",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "süre",
+        "signature": "ersü",
+        "length": 4
+      },
+      {
+        "token": "azından",
+        "signature": "adınz",
+        "length": 7
+      },
+      {
+        "token": "duydum",
+        "signature": "dmuy",
+        "length": 6
+      },
+      {
+        "token": "düşündüm",
+        "signature": "dmnşü",
+        "length": 8
+      },
+      {
+        "token": "evlat",
+        "signature": "aeltv",
+        "length": 5
+      },
+      {
+        "token": "göz",
+        "signature": "göz",
+        "length": 3
+      },
+      {
+        "token": "herhangi",
+        "signature": "aeghinr",
+        "length": 8
+      },
+      {
+        "token": "in",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "istedim",
+        "signature": "deimst",
+        "length": 7
+      },
+      {
+        "token": "komik",
+        "signature": "ikmo",
+        "length": 5
+      },
+      {
+        "token": "konuda",
+        "signature": "adknou",
+        "length": 6
+      },
+      {
+        "token": "oğlum",
+        "signature": "ğlmou",
+        "length": 5
+      },
+      {
+        "token": "söylüyor",
+        "signature": "loörsüy",
+        "length": 8
+      },
+      {
+        "token": "ancak",
+        "signature": "ackn",
+        "length": 5
+      },
+      {
+        "token": "ciddi",
+        "signature": "cdi",
+        "length": 5
+      },
+      {
+        "token": "çalışıyorum",
+        "signature": "açılmorşuy",
+        "length": 11
+      },
+      {
+        "token": "hepimiz",
+        "signature": "ehimpz",
+        "length": 7
+      },
+      {
+        "token": "silah",
+        "signature": "ahils",
+        "length": 5
+      },
+      {
+        "token": "şuna",
+        "signature": "anşu",
+        "length": 4
+      },
+      {
+        "token": "altı",
+        "signature": "aılt",
+        "length": 4
+      },
+      {
+        "token": "boş",
+        "signature": "boş",
+        "length": 3
+      },
+      {
+        "token": "çıktı",
+        "signature": "çıkt",
+        "length": 5
+      },
+      {
+        "token": "gidiyorum",
+        "signature": "dgimoruy",
+        "length": 9
+      },
+      {
+        "token": "hayatım",
+        "signature": "ahımty",
+        "length": 7
+      },
+      {
+        "token": "ikinci",
+        "signature": "cikn",
+        "length": 6
+      },
+      {
+        "token": "kaldı",
+        "signature": "adıkl",
+        "length": 5
+      },
+      {
+        "token": "sende",
+        "signature": "dens",
+        "length": 5
+      },
+      {
+        "token": "şeyin",
+        "signature": "einşy",
+        "length": 5
+      },
+      {
+        "token": "vay",
+        "signature": "avy",
+        "length": 3
+      },
+      {
+        "token": "alo",
+        "signature": "alo",
+        "length": 3
+      },
+      {
+        "token": "düşünüyorum",
+        "signature": "dmnorşuüy",
+        "length": 11
+      },
+      {
+        "token": "garip",
+        "signature": "agipr",
+        "length": 5
+      },
+      {
+        "token": "gelen",
+        "signature": "egln",
+        "length": 5
+      },
+      {
+        "token": "hava",
+        "signature": "ahv",
+        "length": 4
+      },
+      {
+        "token": "hayatta",
+        "signature": "ahty",
+        "length": 7
+      },
+      {
+        "token": "insanların",
+        "signature": "aiılnrs",
+        "length": 10
+      },
+      {
+        "token": "kimin",
+        "signature": "ikmn",
+        "length": 5
+      },
+      {
+        "token": "olacağım",
+        "signature": "acğılmo",
+        "length": 8
+      },
+      {
+        "token": "olduğuna",
+        "signature": "adğlnou",
+        "length": 8
+      },
+      {
+        "token": "oyun",
+        "signature": "nouy",
+        "length": 4
+      },
+      {
+        "token": "rahat",
+        "signature": "ahrt",
+        "length": 5
+      },
+      {
+        "token": "savaş",
+        "signature": "asşv",
+        "length": 5
+      },
+      {
+        "token": "arada",
+        "signature": "adr",
+        "length": 5
+      },
+      {
+        "token": "hareket",
+        "signature": "aehkrt",
+        "length": 7
+      },
+      {
+        "token": "hayal",
+        "signature": "ahly",
+        "length": 5
+      },
+      {
+        "token": "soru",
+        "signature": "orsu",
+        "length": 4
+      },
+      {
+        "token": "yakın",
+        "signature": "aıkny",
+        "length": 5
+      },
+      {
+        "token": "yaptığını",
+        "signature": "ağınpty",
+        "length": 9
+      },
+      {
+        "token": "başladı",
+        "signature": "abdılş",
+        "length": 7
+      },
+      {
+        "token": "çalışıyor",
+        "signature": "açılorşy",
+        "length": 9
+      },
+      {
+        "token": "gelip",
+        "signature": "egilp",
+        "length": 5
+      },
+      {
+        "token": "gidiyoruz",
+        "signature": "dgioruyz",
+        "length": 9
+      },
+      {
+        "token": "güçlü",
+        "signature": "çglü",
+        "length": 5
+      },
+      {
+        "token": "hayat",
+        "signature": "ahty",
+        "length": 5
+      },
+      {
+        "token": "kapıyı",
+        "signature": "aıkpy",
+        "length": 6
+      },
+      {
+        "token": "telefon",
+        "signature": "eflnot",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "düzgün",
+        "signature": "dgnüz",
+        "length": 6
+      },
+      {
+        "token": "ederiz",
+        "signature": "deirz",
+        "length": 6
+      },
+      {
+        "token": "etmem",
+        "signature": "emt",
+        "length": 5
+      },
+      {
+        "token": "ettik",
+        "signature": "eikt",
+        "length": 5
+      },
+      {
+        "token": "evden",
+        "signature": "denv",
+        "length": 5
+      },
+      {
+        "token": "gelmez",
+        "signature": "eglmz",
+        "length": 6
+      },
+      {
+        "token": "geride",
+        "signature": "degir",
+        "length": 6
+      },
+      {
+        "token": "gideceğiz",
+        "signature": "cdegğiz",
+        "length": 9
+      },
+      {
+        "token": "girmek",
+        "signature": "egikmr",
+        "length": 6
+      },
+      {
+        "token": "görmüş",
+        "signature": "gmörşü",
+        "length": 6
+      },
+      {
+        "token": "haberi",
+        "signature": "abehir",
+        "length": 6
+      },
+      {
+        "token": "hallederim",
+        "signature": "adehilmr",
+        "length": 10
+      },
+      {
+        "token": "harekete",
+        "signature": "aehkrt",
+        "length": 8
+      },
+      {
+        "token": "hastaneye",
+        "signature": "aehnsty",
+        "length": 9
+      },
+      {
+        "token": "hatırladın",
+        "signature": "adhılnrt",
+        "length": 10
+      },
+      {
+        "token": "hatırlamıyorum",
+        "signature": "ahılmortuy",
+        "length": 14
+      },
+      {
+        "token": "hayir",
+        "signature": "ahiry",
+        "length": 5
+      },
+      {
+        "token": "ışık",
+        "signature": "ıkş",
+        "length": 4
+      },
+      {
+        "token": "inanmıyorum",
+        "signature": "aiımnoruy",
+        "length": 11
+      },
+      {
+        "token": "intihar",
+        "signature": "ahinrt",
+        "length": 7
+      },
+      {
+        "token": "istedin",
+        "signature": "deinst",
+        "length": 7
+      },
+      {
+        "token": "işaret",
+        "signature": "aeirşt",
+        "length": 6
+      },
+      {
+        "token": "işine",
+        "signature": "einş",
+        "length": 5
+      },
+      {
+        "token": "iyisin",
+        "signature": "insy",
+        "length": 6
+      },
+      {
+        "token": "kahraman",
+        "signature": "ahkmnr",
+        "length": 8
+      },
+      {
+        "token": "kanıt",
+        "signature": "aıknt",
+        "length": 5
+      },
+      {
+        "token": "kardeşin",
+        "signature": "adeiknrş",
+        "length": 8
+      },
+      {
+        "token": "karısı",
+        "signature": "aıkrs",
+        "length": 6
+      },
+      {
+        "token": "kenara",
+        "signature": "aeknr",
+        "length": 6
+      },
+      {
+        "token": "kıçını",
+        "signature": "çıkn",
+        "length": 6
+      },
+      {
+        "token": "kızgın",
+        "signature": "gıknz",
+        "length": 6
+      },
+      {
+        "token": "kulağa",
+        "signature": "ağklu",
+        "length": 6
+      },
+      {
+        "token": "kurban",
+        "signature": "abknru",
+        "length": 6
+      },
+      {
+        "token": "kurşun",
+        "signature": "knrşu",
+        "length": 6
+      },
+      {
+        "token": "mektup",
+        "signature": "ekmptu",
+        "length": 6
+      },
+      {
+        "token": "nasılsınız",
+        "signature": "aılnsz",
+        "length": 10
+      },
+      {
+        "token": "olabileceğini",
+        "signature": "abceğilno",
+        "length": 13
+      },
+      {
+        "token": "olacaktır",
+        "signature": "acıklort",
+        "length": 9
+      },
+      {
+        "token": "oturun",
+        "signature": "nortu",
+        "length": 6
+      },
+      {
+        "token": "oynamak",
+        "signature": "akmnoy",
+        "length": 7
+      },
+      {
+        "token": "polisler",
+        "signature": "eiloprs",
+        "length": 8
+      },
+      {
+        "token": "rapor",
+        "signature": "aopr",
+        "length": 5
+      },
+      {
+        "token": "resim",
+        "signature": "eimrs",
+        "length": 5
+      },
+      {
+        "token": "ruh",
+        "signature": "hru",
+        "length": 3
+      },
+      {
+        "token": "saatte",
+        "signature": "aest",
+        "length": 6
+      },
+      {
+        "token": "sağlam",
+        "signature": "ağlms",
+        "length": 6
+      },
+      {
+        "token": "savunma",
+        "signature": "amnsuv",
+        "length": 7
+      },
+      {
+        "token": "sayesinde",
+        "signature": "adeinsy",
+        "length": 9
+      },
+      {
+        "token": "seçim",
+        "signature": "çeims",
+        "length": 5
+      },
+      {
+        "token": "sevgilim",
+        "signature": "egilmsv",
+        "length": 8
+      },
+      {
+        "token": "sıkıcı",
+        "signature": "cıks",
+        "length": 6
+      },
+      {
+        "token": "sırasında",
+        "signature": "adınrs",
+        "length": 9
+      },
+      {
+        "token": "söylediğim",
+        "signature": "değilmösy",
+        "length": 10
+      },
+      {
+        "token": "söylemedin",
+        "signature": "deilmnösy",
+        "length": 10
+      },
+      {
+        "token": "söylemeye",
+        "signature": "elmösy",
+        "length": 9
+      },
+      {
+        "token": "şansı",
+        "signature": "aınsş",
+        "length": 5
+      },
+      {
+        "token": "şarap",
+        "signature": "aprş",
+        "length": 5
+      },
+      {
+        "token": "şerif",
+        "signature": "efirş",
+        "length": 5
+      },
+      {
+        "token": "tamir",
+        "signature": "aimrt",
+        "length": 5
+      },
+      {
+        "token": "tarafı",
+        "signature": "afırt",
+        "length": 6
+      },
+      {
+        "token": "uzakta",
+        "signature": "aktuz",
+        "length": 6
+      },
+      {
+        "token": "ünlü",
+        "signature": "lnü",
+        "length": 4
+      },
+      {
+        "token": "yabancı",
+        "signature": "abcıny",
+        "length": 7
+      },
+      {
+        "token": "yakışıklı",
+        "signature": "aıklşy",
+        "length": 9
+      },
+      {
+        "token": "yan",
+        "signature": "any",
+        "length": 3
+      },
+      {
+        "token": "yapayım",
+        "signature": "aımpy",
+        "length": 7
+      },
+      {
+        "token": "yapın",
+        "signature": "aınpy",
+        "length": 5
+      },
+      {
+        "token": "yarı",
+        "signature": "aıry",
+        "length": 4
+      },
+      {
+        "token": "yaşayan",
+        "signature": "anşy",
+        "length": 7
+      },
+      {
+        "token": "yüzünü",
+        "signature": "nüyz",
+        "length": 6
+      },
+      {
+        "token": "zamandan",
+        "signature": "admnz",
+        "length": 8
+      },
+      {
+        "token": "zamanında",
+        "signature": "adımnz",
+        "length": 9
+      },
+      {
+        "token": "zevk",
+        "signature": "ekvz",
+        "length": 4
+      },
+      {
+        "token": "adında",
+        "signature": "adın",
+        "length": 6
+      },
+      {
+        "token": "aklını",
+        "signature": "aıkln",
+        "length": 6
+      },
+      {
+        "token": "anlaştık",
+        "signature": "aıklnşt",
+        "length": 8
+      },
+      {
+        "token": "aşağıya",
+        "signature": "ağışy",
+        "length": 7
+      },
+      {
+        "token": "ayrı",
+        "signature": "aıry",
+        "length": 4
+      },
+      {
+        "token": "babamı",
+        "signature": "abım",
+        "length": 6
+      },
+      {
+        "token": "başında",
+        "signature": "abdınş",
+        "length": 7
+      },
+      {
+        "token": "başlıyoruz",
+        "signature": "abılorşuyz",
+        "length": 10
+      },
+      {
+        "token": "bey",
+        "signature": "bey",
+        "length": 3
+      },
+      {
+        "token": "bıraktı",
+        "signature": "abıkrt",
+        "length": 7
+      },
+      {
+        "token": "biliyordu",
+        "signature": "bdiloruy",
+        "length": 9
+      },
+      {
+        "token": "binlerce",
+        "signature": "bceilnr",
+        "length": 8
+      },
+      {
+        "token": "birazcık",
+        "signature": "abciıkrz",
+        "length": 8
+      },
+      {
+        "token": "birer",
+        "signature": "beir",
+        "length": 5
+      },
+      {
+        "token": "bol",
+        "signature": "blo",
+        "length": 3
+      },
+      {
+        "token": "bölge",
+        "signature": "beglö",
+        "length": 5
+      },
+      {
+        "token": "bulmaya",
+        "signature": "ablmuy",
+        "length": 7
+      },
+      {
+        "token": "ceset",
+        "signature": "cest",
+        "length": 5
+      },
+      {
+        "token": "çalışıyoruz",
+        "signature": "açılorşuyz",
+        "length": 11
+      },
+      {
+        "token": "çıkın",
+        "signature": "çıkn",
+        "length": 5
+      },
+      {
+        "token": "değiller",
+        "signature": "değilr",
+        "length": 8
+      },
+      {
+        "token": "diyelim",
+        "signature": "deilmy",
+        "length": 7
+      },
+      {
+        "token": "dönerim",
+        "signature": "deimnör",
+        "length": 7
+      },
+      {
+        "token": "dönüp",
+        "signature": "dnöpü",
+        "length": 5
+      },
+      {
+        "token": "dünyadaki",
+        "signature": "adiknüy",
+        "length": 9
+      },
+      {
+        "token": "edeceğiz",
+        "signature": "cdeğiz",
+        "length": 8
+      },
+      {
+        "token": "ediyorlar",
+        "signature": "adeilory",
+        "length": 9
+      },
+      {
+        "token": "elinden",
+        "signature": "deiln",
+        "length": 7
+      },
+      {
+        "token": "epey",
+        "signature": "epy",
+        "length": 4
+      },
+      {
+        "token": "etmiyor",
+        "signature": "eimorty",
+        "length": 7
+      },
+      {
+        "token": "ettiğim",
+        "signature": "eğimt",
+        "length": 7
+      },
+      {
+        "token": "evlilik",
+        "signature": "eiklv",
+        "length": 7
+      },
+      {
+        "token": "fikrin",
+        "signature": "fiknr",
+        "length": 6
+      },
+      {
+        "token": "filmi",
+        "signature": "film",
+        "length": 5
+      },
+      {
+        "token": "futbol",
+        "signature": "bflotu",
+        "length": 6
+      },
+      {
+        "token": "geçiyorsun",
+        "signature": "çeginorsuy",
+        "length": 10
+      },
+      {
+        "token": "geleceğim",
+        "signature": "cegğilm",
+        "length": 9
+      },
+      {
+        "token": "gelince",
+        "signature": "cegiln",
+        "length": 7
+      },
+      {
+        "token": "gerekmiyor",
+        "signature": "egikmory",
+        "length": 10
+      },
+      {
+        "token": "getirdi",
+        "signature": "degirt",
+        "length": 7
+      },
+      {
+        "token": "girecek",
+        "signature": "cegikr",
+        "length": 7
+      },
+      {
+        "token": "girip",
+        "signature": "gipr",
+        "length": 5
+      },
+      {
+        "token": "göremiyorum",
+        "signature": "egimoöruy",
+        "length": 11
+      },
+      {
+        "token": "görüyorsun",
+        "signature": "gnoörsuüy",
+        "length": 10
+      },
+      {
+        "token": "göstermek",
+        "signature": "egkmörst",
+        "length": 9
+      },
+      {
+        "token": "hangisi",
+        "signature": "aghins",
+        "length": 7
+      },
+      {
+        "token": "hariç",
+        "signature": "açhir",
+        "length": 5
+      },
+      {
+        "token": "imdat",
+        "signature": "adimt",
+        "length": 5
+      },
+      {
+        "token": "indir",
+        "signature": "dinr",
+        "length": 5
+      },
+      {
+        "token": "isterseniz",
+        "signature": "einrstz",
+        "length": 10
+      },
+      {
+        "token": "iyisini",
+        "signature": "insy",
+        "length": 7
+      },
+      {
+        "token": "izi",
+        "signature": "iz",
+        "length": 3
+      },
+      {
+        "token": "kardeş",
+        "signature": "adekrş",
+        "length": 6
+      },
+      {
+        "token": "karın",
+        "signature": "aıknr",
+        "length": 5
+      },
+      {
+        "token": "kısmı",
+        "signature": "ıkms",
+        "length": 5
+      },
+      {
+        "token": "kilo",
+        "signature": "iklo",
+        "length": 4
+      },
+      {
+        "token": "kiminle",
+        "signature": "eiklmn",
+        "length": 7
+      },
+      {
+        "token": "kişinin",
+        "signature": "iknş",
+        "length": 7
+      },
+      {
+        "token": "kitabı",
+        "signature": "abiıkt",
+        "length": 6
+      },
+      {
+        "token": "kocaman",
+        "signature": "ackmno",
+        "length": 7
+      },
+      {
+        "token": "kuş",
+        "signature": "kşu",
+        "length": 3
+      },
+      {
+        "token": "masum",
+        "signature": "amsu",
+        "length": 5
+      },
+      {
+        "token": "meşgul",
+        "signature": "eglmşu",
+        "length": 6
+      },
+      {
+        "token": "nasıldı",
+        "signature": "adılns",
+        "length": 7
+      },
+      {
+        "token": "nerden",
+        "signature": "denr",
+        "length": 6
+      },
+      {
+        "token": "odada",
+        "signature": "ado",
+        "length": 5
+      },
+      {
+        "token": "odasına",
+        "signature": "adınos",
+        "length": 7
+      },
+      {
+        "token": "olmuştu",
+        "signature": "lmoştu",
+        "length": 7
+      },
+      {
+        "token": "olmuyor",
+        "signature": "lmoruy",
+        "length": 7
+      },
+      {
+        "token": "olursun",
+        "signature": "lnorsu",
+        "length": 7
+      },
+      {
+        "token": "oradaki",
+        "signature": "adikor",
+        "length": 7
+      },
+      {
+        "token": "orta",
+        "signature": "aort",
+        "length": 4
+      },
+      {
+        "token": "ortada",
+        "signature": "adort",
+        "length": 6
+      },
+      {
+        "token": "öğle",
+        "signature": "eğlö",
+        "length": 4
+      },
+      {
+        "token": "özledim",
+        "signature": "deilmöz",
+        "length": 7
+      },
+      {
+        "token": "parasını",
+        "signature": "aınprs",
+        "length": 8
+      },
+      {
+        "token": "peşinde",
+        "signature": "deinpş",
+        "length": 7
+      },
+      {
+        "token": "sey",
+        "signature": "esy",
+        "length": 3
+      },
+      {
+        "token": "sınıf",
+        "signature": "fıns",
+        "length": 5
+      },
+      {
+        "token": "sizce",
+        "signature": "ceisz",
+        "length": 5
+      },
+      {
+        "token": "sorumlu",
+        "signature": "lmorsu",
+        "length": 7
+      },
+      {
+        "token": "söylerim",
+        "signature": "eilmörsy",
+        "length": 8
+      },
+      {
+        "token": "spor",
+        "signature": "oprs",
+        "length": 4
+      },
+      {
+        "token": "suyu",
+        "signature": "suy",
+        "length": 4
+      },
+      {
+        "token": "şükür",
+        "signature": "krşü",
+        "length": 5
+      },
+      {
+        "token": "taş",
+        "signature": "aşt",
+        "length": 3
+      },
+      {
+        "token": "ters",
+        "signature": "erst",
+        "length": 4
+      },
+      {
+        "token": "uzay",
+        "signature": "auyz",
+        "length": 4
+      },
+      {
+        "token": "veremem",
+        "signature": "emrv",
+        "length": 7
+      },
+      {
+        "token": "yana",
+        "signature": "any",
+        "length": 4
+      },
+      {
+        "token": "yapabiliriz",
+        "signature": "abilpryz",
+        "length": 11
+      },
+      {
+        "token": "yapacağımı",
+        "signature": "acğımpy",
+        "length": 10
+      },
+      {
+        "token": "yapamazsın",
+        "signature": "aımnpsyz",
+        "length": 10
+      },
+      {
+        "token": "yapmamı",
+        "signature": "aımpy",
+        "length": 7
+      },
+      {
+        "token": "yapmamız",
+        "signature": "aımpyz",
+        "length": 8
+      },
+      {
+        "token": "yerlerde",
+        "signature": "delry",
+        "length": 8
+      },
+      {
+        "token": "yüzde",
+        "signature": "deüyz",
+        "length": 5
+      },
+      {
+        "token": "afedersin",
+        "signature": "adefinrs",
+        "length": 9
+      },
+      {
+        "token": "amca",
+        "signature": "acm",
+        "length": 4
+      },
+      {
+        "token": "annemi",
+        "signature": "aeimn",
+        "length": 6
+      },
+      {
+        "token": "arabada",
+        "signature": "abdr",
+        "length": 7
+      },
+      {
+        "token": "arasındaki",
+        "signature": "adiıknrs",
+        "length": 10
+      },
+      {
+        "token": "arayıp",
+        "signature": "aıpry",
+        "length": 6
+      },
+      {
+        "token": "arkadaşlar",
+        "signature": "adklrş",
+        "length": 10
+      },
+      {
+        "token": "bakıyorum",
+        "signature": "abıkmoruy",
+        "length": 9
+      },
+      {
+        "token": "barış",
+        "signature": "abırş",
+        "length": 5
+      },
+      {
+        "token": "baskı",
+        "signature": "abıks",
+        "length": 5
+      },
+      {
+        "token": "bebeği",
+        "signature": "beği",
+        "length": 6
+      },
+      {
+        "token": "benzer",
+        "signature": "benrz",
+        "length": 6
+      },
+      {
+        "token": "bırakıp",
+        "signature": "abıkpr",
+        "length": 7
+      },
+      {
+        "token": "bilirim",
+        "signature": "bilmr",
+        "length": 7
+      },
+      {
+        "token": "birbirimize",
+        "signature": "beimrz",
+        "length": 11
+      },
+      {
+        "token": "birbirimizi",
+        "signature": "bimrz",
+        "length": 11
+      },
+      {
+        "token": "birisin",
+        "signature": "binrs",
+        "length": 7
+      },
+      {
+        "token": "bişey",
+        "signature": "beişy",
+        "length": 5
+      },
+      {
+        "token": "bizde",
+        "signature": "bdeiz",
+        "length": 5
+      },
+      {
+        "token": "budur",
+        "signature": "bdru",
+        "length": 5
+      }
+    ],
+    "advanced": [
+      {
+        "token": "arabamı",
+        "signature": "abımr",
+        "length": 7
+      },
+      {
+        "token": "aradığını",
+        "signature": "adğınr",
+        "length": 9
+      },
+      {
+        "token": "aradın",
+        "signature": "adınr",
+        "length": 6
+      },
+      {
+        "token": "aralar",
+        "signature": "alr",
+        "length": 6
+      },
+      {
+        "token": "aranızda",
+        "signature": "adınrz",
+        "length": 8
+      },
+      {
+        "token": "arasından",
+        "signature": "adınrs",
+        "length": 9
+      },
+      {
+        "token": "arıyorlar",
+        "signature": "aılory",
+        "length": 9
+      },
+      {
+        "token": "arkadaşımı",
+        "signature": "adıkmrş",
+        "length": 10
+      },
+      {
+        "token": "arkadaşımın",
+        "signature": "adıkmnrş",
+        "length": 11
+      },
+      {
+        "token": "arkadaşımla",
+        "signature": "adıklmrş",
+        "length": 11
+      },
+      {
+        "token": "arkadaşına",
+        "signature": "adıknrş",
+        "length": 10
+      },
+      {
+        "token": "arkadaşız",
+        "signature": "adıkrşz",
+        "length": 9
+      },
+      {
+        "token": "arkadaşlarını",
+        "signature": "adıklnrş",
+        "length": 13
+      },
+      {
+        "token": "arkanda",
+        "signature": "adknr",
+        "length": 7
+      },
+      {
+        "token": "arkasından",
+        "signature": "adıknrs",
+        "length": 10
+      },
+      {
+        "token": "aslan",
+        "signature": "alns",
+        "length": 5
+      },
+      {
+        "token": "atmaya",
+        "signature": "amty",
+        "length": 6
+      },
+      {
+        "token": "attın",
+        "signature": "aınt",
+        "length": 5
+      },
+      {
+        "token": "av",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "avukatı",
+        "signature": "aıktuv",
+        "length": 7
+      },
+      {
+        "token": "aykırı",
+        "signature": "aıkry",
+        "length": 6
+      },
+      {
+        "token": "babanız",
+        "signature": "abınz",
+        "length": 7
+      },
+      {
+        "token": "babasını",
+        "signature": "abıns",
+        "length": 8
+      },
+      {
+        "token": "bahis",
+        "signature": "abhis",
+        "length": 5
+      },
+      {
+        "token": "bahset",
+        "signature": "abehst",
+        "length": 6
+      },
+      {
+        "token": "bakacak",
+        "signature": "abck",
+        "length": 7
+      },
+      {
+        "token": "bakım",
+        "signature": "abıkm",
+        "length": 5
+      },
+      {
+        "token": "bakire",
+        "signature": "abeikr",
+        "length": 6
+      },
+      {
+        "token": "baktı",
+        "signature": "abıkt",
+        "length": 5
+      },
+      {
+        "token": "basınç",
+        "signature": "abçıns",
+        "length": 6
+      },
+      {
+        "token": "başardı",
+        "signature": "abdırş",
+        "length": 7
+      },
+      {
+        "token": "başardım",
+        "signature": "abdımrş",
+        "length": 8
+      },
+      {
+        "token": "başarı",
+        "signature": "abırş",
+        "length": 6
+      },
+      {
+        "token": "başımıza",
+        "signature": "abımşz",
+        "length": 8
+      },
+      {
+        "token": "başkaları",
+        "signature": "abıklrş",
+        "length": 9
+      },
+      {
+        "token": "başkalarının",
+        "signature": "abıklnrş",
+        "length": 12
+      },
+      {
+        "token": "başkasını",
+        "signature": "abıknsş",
+        "length": 9
+      },
+      {
+        "token": "başkasının",
+        "signature": "abıknsş",
+        "length": 10
+      },
+      {
+        "token": "başladılar",
+        "signature": "abdılrş",
+        "length": 10
+      },
+      {
+        "token": "başlama",
+        "signature": "ablmş",
+        "length": 7
+      },
+      {
+        "token": "başlamış",
+        "signature": "abılmş",
+        "length": 8
+      },
+      {
+        "token": "baya",
+        "signature": "aby",
+        "length": 4
+      },
+      {
+        "token": "bekar",
+        "signature": "abekr",
+        "length": 5
+      },
+      {
+        "token": "bekleme",
+        "signature": "beklm",
+        "length": 7
+      },
+      {
+        "token": "bekleyeceğim",
+        "signature": "bceğiklmy",
+        "length": 12
+      },
+      {
+        "token": "belası",
+        "signature": "abeıls",
+        "length": 6
+      },
+      {
+        "token": "belirsiz",
+        "signature": "beilrsz",
+        "length": 8
+      },
+      {
+        "token": "belkide",
+        "signature": "bdeikl",
+        "length": 7
+      },
+      {
+        "token": "benle",
+        "signature": "beln",
+        "length": 5
+      },
+      {
+        "token": "bense",
+        "signature": "bens",
+        "length": 5
+      },
+      {
+        "token": "bensiz",
+        "signature": "beinsz",
+        "length": 6
+      },
+      {
+        "token": "beyni",
+        "signature": "beiny",
+        "length": 5
+      },
+      {
+        "token": "beynini",
+        "signature": "beiny",
+        "length": 7
+      },
+      {
+        "token": "bırakacağım",
+        "signature": "abcğıkmr",
+        "length": 11
+      },
+      {
+        "token": "bırakacak",
+        "signature": "abcıkr",
+        "length": 9
+      },
+      {
+        "token": "biçim",
+        "signature": "bçim",
+        "length": 5
+      }
+    ]
+  }
+}

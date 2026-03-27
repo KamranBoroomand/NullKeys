@@ -1,0 +1,7376 @@
+{
+  "packId": "greek:common-words:extended",
+  "languageId": "greek",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1472,
+  "stages": {
+    "foundational": [
+      {
+        "token": "όσα",
+        "signature": "αόσ",
+        "length": 3
+      },
+      {
+        "token": "νεκρός",
+        "signature": "εκνόρς",
+        "length": 6
+      },
+      {
+        "token": "πλάκα",
+        "signature": "αάκλπ",
+        "length": 5
+      },
+      {
+        "token": "έρθεις",
+        "signature": "εέθιρς",
+        "length": 6
+      },
+      {
+        "token": "ποιον",
+        "signature": "ινοπ",
+        "length": 5
+      },
+      {
+        "token": "σημασία",
+        "signature": "αηίμσ",
+        "length": 7
+      },
+      {
+        "token": "γύρω",
+        "signature": "γρύω",
+        "length": 4
+      },
+      {
+        "token": "βρεις",
+        "signature": "βειρς",
+        "length": 5
+      },
+      {
+        "token": "παιχνίδι",
+        "signature": "αδιίνπχ",
+        "length": 8
+      },
+      {
+        "token": "καλημέρα",
+        "signature": "αέηκλμρ",
+        "length": 8
+      },
+      {
+        "token": "χάρη",
+        "signature": "άηρχ",
+        "length": 4
+      },
+      {
+        "token": "έλεγα",
+        "signature": "αγεέλ",
+        "length": 5
+      },
+      {
+        "token": "καταλαβαίνεις",
+        "signature": "αβειίκλνςτ",
+        "length": 13
+      },
+      {
+        "token": "κατάλαβα",
+        "signature": "αάβκλτ",
+        "length": 8
+      },
+      {
+        "token": "σκοτώσει",
+        "signature": "εικοστώ",
+        "length": 8
+      },
+      {
+        "token": "άσε",
+        "signature": "άεσ",
+        "length": 3
+      },
+      {
+        "token": "πολλές",
+        "signature": "έλοπς",
+        "length": 6
+      },
+      {
+        "token": "σημαντικό",
+        "signature": "αηικμνόστ",
+        "length": 9
+      },
+      {
+        "token": "άντρα",
+        "signature": "αάνρτ",
+        "length": 5
+      },
+      {
+        "token": "όνομά",
+        "signature": "άμνοό",
+        "length": 5
+      },
+      {
+        "token": "πάρουμε",
+        "signature": "άεμοπρυ",
+        "length": 7
+      },
+      {
+        "token": "συγχωρείτε",
+        "signature": "γείρστυχω",
+        "length": 10
+      },
+      {
+        "token": "φύγεις",
+        "signature": "γειςύφ",
+        "length": 6
+      },
+      {
+        "token": "εσάς",
+        "signature": "άεσς",
+        "length": 4
+      },
+      {
+        "token": "κατάσταση",
+        "signature": "αάηκστ",
+        "length": 9
+      },
+      {
+        "token": "σκότωσε",
+        "signature": "εκόστω",
+        "length": 7
+      },
+      {
+        "token": "φαγητό",
+        "signature": "αγηότφ",
+        "length": 6
+      },
+      {
+        "token": "φοβάμαι",
+        "signature": "αάβιμοφ",
+        "length": 7
+      },
+      {
+        "token": "κοπέλα",
+        "signature": "αέκλοπ",
+        "length": 6
+      },
+      {
+        "token": "κορίτσια",
+        "signature": "αιίκορστ",
+        "length": 8
+      },
+      {
+        "token": "βασικά",
+        "signature": "αάβικσ",
+        "length": 6
+      },
+      {
+        "token": "εμπρός",
+        "signature": "εμόπρς",
+        "length": 6
+      },
+      {
+        "token": "λόγος",
+        "signature": "γλοός",
+        "length": 5
+      },
+      {
+        "token": "αυτοκίνητο",
+        "signature": "αηίκνοτυ",
+        "length": 10
+      },
+      {
+        "token": "ζωής",
+        "signature": "ζήςω",
+        "length": 4
+      },
+      {
+        "token": "κανένας",
+        "signature": "αέκνς",
+        "length": 7
+      },
+      {
+        "token": "απόδοση",
+        "signature": "αδηοόπσ",
+        "length": 7
+      },
+      {
+        "token": "γονείς",
+        "signature": "γείνος",
+        "length": 6
+      },
+      {
+        "token": "πρώτο",
+        "signature": "οπρτώ",
+        "length": 5
+      },
+      {
+        "token": "άλλους",
+        "signature": "άλοςυ",
+        "length": 6
+      },
+      {
+        "token": "αστείο",
+        "signature": "αείοστ",
+        "length": 6
+      },
+      {
+        "token": "γλυκιά",
+        "signature": "άγικλυ",
+        "length": 6
+      },
+      {
+        "token": "πεθάνει",
+        "signature": "άεθινπ",
+        "length": 7
+      },
+      {
+        "token": "ενώ",
+        "signature": "ενώ",
+        "length": 3
+      },
+      {
+        "token": "έφυγε",
+        "signature": "γεέυφ",
+        "length": 5
+      },
+      {
+        "token": "μείνε",
+        "signature": "είμν",
+        "length": 5
+      },
+      {
+        "token": "νοιάζει",
+        "signature": "άεζινο",
+        "length": 7
+      },
+      {
+        "token": "δολάρια",
+        "signature": "αάδιλορ",
+        "length": 7
+      },
+      {
+        "token": "σχέδιο",
+        "signature": "δέιοσχ",
+        "length": 6
+      },
+      {
+        "token": "υπήρχε",
+        "signature": "εήπρυχ",
+        "length": 6
+      },
+      {
+        "token": "έτοιμος",
+        "signature": "έιμοςτ",
+        "length": 7
+      },
+      {
+        "token": "τύχη",
+        "signature": "ητύχ",
+        "length": 4
+      },
+      {
+        "token": "αρχή",
+        "signature": "αήρχ",
+        "length": 4
+      },
+      {
+        "token": "πόδια",
+        "signature": "αδιόπ",
+        "length": 5
+      },
+      {
+        "token": "έρθω",
+        "signature": "έθρω",
+        "length": 4
+      },
+      {
+        "token": "οποίο",
+        "signature": "ίοπ",
+        "length": 5
+      },
+      {
+        "token": "όμορφη",
+        "signature": "ημοόρφ",
+        "length": 6
+      },
+      {
+        "token": "σωστό",
+        "signature": "όστω",
+        "length": 5
+      },
+      {
+        "token": "νέο",
+        "signature": "ένο",
+        "length": 3
+      },
+      {
+        "token": "σίγουρη",
+        "signature": "γηίορσυ",
+        "length": 7
+      },
+      {
+        "token": "τελικά",
+        "signature": "άεικλτ",
+        "length": 6
+      },
+      {
+        "token": "άκουσα",
+        "signature": "αάκοσυ",
+        "length": 6
+      },
+      {
+        "token": "βοηθήσει",
+        "signature": "βεηήθιοσ",
+        "length": 8
+      },
+      {
+        "token": "προσπαθώ",
+        "signature": "αθοπρσώ",
+        "length": 8
+      },
+      {
+        "token": "μοιάζει",
+        "signature": "άεζιμο",
+        "length": 7
+      },
+      {
+        "token": "φίλους",
+        "signature": "ίλοςυφ",
+        "length": 6
+      },
+      {
+        "token": "μπορούσες",
+        "signature": "εμοπρσςύ",
+        "length": 9
+      },
+      {
+        "token": "περίπου",
+        "signature": "είοπρυ",
+        "length": 7
+      },
+      {
+        "token": "αφεντικό",
+        "signature": "αεικνότφ",
+        "length": 8
+      },
+      {
+        "token": "δύναμη",
+        "signature": "αδημνύ",
+        "length": 6
+      },
+      {
+        "token": "χρειαζόμαστε",
+        "signature": "αεζιμόρστχ",
+        "length": 12
+      },
+      {
+        "token": "καλύτερη",
+        "signature": "αεηκλρτύ",
+        "length": 8
+      },
+      {
+        "token": "κάναμε",
+        "signature": "αάεκμν",
+        "length": 6
+      },
+      {
+        "token": "γη",
+        "signature": "γη",
+        "length": 2
+      },
+      {
+        "token": "έδωσε",
+        "signature": "δεέσω",
+        "length": 5
+      },
+      {
+        "token": "μείνει",
+        "signature": "ειίμν",
+        "length": 6
+      },
+      {
+        "token": "βρήκες",
+        "signature": "βεήκρς",
+        "length": 6
+      },
+      {
+        "token": "γιος",
+        "signature": "γιος",
+        "length": 4
+      },
+      {
+        "token": "περίπτωση",
+        "signature": "εηίπρστω",
+        "length": 9
+      },
+      {
+        "token": "ακούγεται",
+        "signature": "αγεικοτύ",
+        "length": 9
+      },
+      {
+        "token": "επόμενη",
+        "signature": "εημνόπ",
+        "length": 7
+      },
+      {
+        "token": "πάρτι",
+        "signature": "άιπρτ",
+        "length": 5
+      },
+      {
+        "token": "ραντεβού",
+        "signature": "αβενορτύ",
+        "length": 8
+      },
+      {
+        "token": "φέρω",
+        "signature": "έρφω",
+        "length": 4
+      },
+      {
+        "token": "ακούω",
+        "signature": "ακούω",
+        "length": 5
+      },
+      {
+        "token": "καλώς",
+        "signature": "ακλςώ",
+        "length": 5
+      },
+      {
+        "token": "περάσει",
+        "signature": "άειπρσ",
+        "length": 7
+      },
+      {
+        "token": "περιμένω",
+        "signature": "εέιμνπρω",
+        "length": 8
+      },
+      {
+        "token": "επιλογή",
+        "signature": "γεήιλοπ",
+        "length": 7
+      },
+      {
+        "token": "μισό",
+        "signature": "ιμόσ",
+        "length": 4
+      },
+      {
+        "token": "σώμα",
+        "signature": "αμσώ",
+        "length": 4
+      },
+      {
+        "token": "τύπο",
+        "signature": "οπτύ",
+        "length": 4
+      },
+      {
+        "token": "βρει",
+        "signature": "βειρ",
+        "length": 4
+      },
+      {
+        "token": "μιας",
+        "signature": "αιμς",
+        "length": 4
+      },
+      {
+        "token": "νοσοκομείο",
+        "signature": "είκμνοσ",
+        "length": 10
+      },
+      {
+        "token": "χώρα",
+        "signature": "αρχώ",
+        "length": 4
+      },
+      {
+        "token": "βιβλίο",
+        "signature": "βιίλο",
+        "length": 6
+      },
+      {
+        "token": "μάθω",
+        "signature": "άθμω",
+        "length": 4
+      },
+      {
+        "token": "μείνω",
+        "signature": "είμνω",
+        "length": 5
+      },
+      {
+        "token": "μπράβο",
+        "signature": "άβμοπρ",
+        "length": 6
+      },
+      {
+        "token": "πλέον",
+        "signature": "έλνοπ",
+        "length": 5
+      },
+      {
+        "token": "αφήσεις",
+        "signature": "αεήισςφ",
+        "length": 7
+      },
+      {
+        "token": "περισσότερα",
+        "signature": "αειόπρστ",
+        "length": 11
+      },
+      {
+        "token": "φίλο",
+        "signature": "ίλοφ",
+        "length": 4
+      },
+      {
+        "token": "ακούς",
+        "signature": "ακοςύ",
+        "length": 5
+      },
+      {
+        "token": "έξι",
+        "signature": "έιξ",
+        "length": 3
+      },
+      {
+        "token": "καφέ",
+        "signature": "αέκφ",
+        "length": 4
+      },
+      {
+        "token": "μήνυμα",
+        "signature": "αήμνυ",
+        "length": 6
+      },
+      {
+        "token": "όπλα",
+        "signature": "αλόπ",
+        "length": 4
+      },
+      {
+        "token": "γιο",
+        "signature": "γιο",
+        "length": 3
+      },
+      {
+        "token": "ήμασταν",
+        "signature": "αήμνστ",
+        "length": 7
+      },
+      {
+        "token": "πρόσεχε",
+        "signature": "εόπρσχ",
+        "length": 7
+      },
+      {
+        "token": "δείτε",
+        "signature": "δείτ",
+        "length": 5
+      },
+      {
+        "token": "σχετικά",
+        "signature": "άεικστχ",
+        "length": 7
+      },
+      {
+        "token": "άρεσε",
+        "signature": "άερσ",
+        "length": 5
+      },
+      {
+        "token": "διαλόγων",
+        "signature": "αγδιλνόω",
+        "length": 8
+      },
+      {
+        "token": "εύκολο",
+        "signature": "εκλού",
+        "length": 6
+      },
+      {
+        "token": "ταινία",
+        "signature": "αιίντ",
+        "length": 6
+      },
+      {
+        "token": "χρειάζεσαι",
+        "signature": "αάεζιρσχ",
+        "length": 10
+      },
+      {
+        "token": "αξίζει",
+        "signature": "αεζιίξ",
+        "length": 6
+      },
+      {
+        "token": "αφήστε",
+        "signature": "αεήστφ",
+        "length": 6
+      },
+      {
+        "token": "καληνύχτα",
+        "signature": "αηκλντύχ",
+        "length": 9
+      },
+      {
+        "token": "πρόσωπο",
+        "signature": "οόπρσω",
+        "length": 7
+      },
+      {
+        "token": "βρίσκεται",
+        "signature": "αβειίκρστ",
+        "length": 9
+      },
+      {
+        "token": "οτιδήποτε",
+        "signature": "δεήιοπτ",
+        "length": 9
+      },
+      {
+        "token": "σκέφτομαι",
+        "signature": "αέικμοστφ",
+        "length": 9
+      },
+      {
+        "token": "άκου",
+        "signature": "άκου",
+        "length": 4
+      },
+      {
+        "token": "περιμένετε",
+        "signature": "εέιμνπρτ",
+        "length": 10
+      },
+      {
+        "token": "άλλον",
+        "signature": "άλνο",
+        "length": 5
+      },
+      {
+        "token": "αρέσουν",
+        "signature": "αένορσυ",
+        "length": 7
+      },
+      {
+        "token": "πήγα",
+        "signature": "αγήπ",
+        "length": 4
+      },
+      {
+        "token": "πήρες",
+        "signature": "εήπρς",
+        "length": 5
+      },
+      {
+        "token": "συμφωνία",
+        "signature": "αίμνσυφω",
+        "length": 8
+      },
+      {
+        "token": "είπαν",
+        "signature": "αείνπ",
+        "length": 5
+      },
+      {
+        "token": "κρεβάτι",
+        "signature": "άβεικρτ",
+        "length": 7
+      },
+      {
+        "token": "μιλάω",
+        "signature": "άιλμω",
+        "length": 5
+      },
+      {
+        "token": "σκοτώσω",
+        "signature": "κοστωώ",
+        "length": 7
+      },
+      {
+        "token": "άλλες",
+        "signature": "άελς",
+        "length": 5
+      },
+      {
+        "token": "ποτό",
+        "signature": "οόπτ",
+        "length": 4
+      },
+      {
+        "token": "προφανώς",
+        "signature": "ανοπρςφώ",
+        "length": 8
+      },
+      {
+        "token": "άφησε",
+        "signature": "άεησφ",
+        "length": 5
+      },
+      {
+        "token": "ερώτηση",
+        "signature": "εηρστώ",
+        "length": 7
+      },
+      {
+        "token": "ηρέμησε",
+        "signature": "εέημρσ",
+        "length": 7
+      },
+      {
+        "token": "περιμένει",
+        "signature": "εέιμνπρ",
+        "length": 9
+      },
+      {
+        "token": "δίπλα",
+        "signature": "αδίλπ",
+        "length": 5
+      },
+      {
+        "token": "άλλοι",
+        "signature": "άιλο",
+        "length": 5
+      },
+      {
+        "token": "αυτού",
+        "signature": "αοτυύ",
+        "length": 5
+      },
+      {
+        "token": "φίλη",
+        "signature": "ηίλφ",
+        "length": 4
+      },
+      {
+        "token": "κάπως",
+        "signature": "άκπςω",
+        "length": 5
+      },
+      {
+        "token": "ξέρουν",
+        "signature": "ένξορυ",
+        "length": 6
+      },
+      {
+        "token": "βάλω",
+        "signature": "άβλω",
+        "length": 4
+      },
+      {
+        "token": "κοιτάξτε",
+        "signature": "άεικξοτ",
+        "length": 8
+      },
+      {
+        "token": "σειρά",
+        "signature": "άειρσ",
+        "length": 5
+      },
+      {
+        "token": "ήξερε",
+        "signature": "εήξρ",
+        "length": 5
+      },
+      {
+        "token": "παρά",
+        "signature": "αάπρ",
+        "length": 4
+      },
+      {
+        "token": "πραγματικότητα",
+        "signature": "αγηικμόπρτ",
+        "length": 14
+      },
+      {
+        "token": "τελευταίο",
+        "signature": "αείλοτυ",
+        "length": 9
+      },
+      {
+        "token": "λέτε",
+        "signature": "εέλτ",
+        "length": 4
+      },
+      {
+        "token": "μείνεις",
+        "signature": "ειίμνς",
+        "length": 7
+      },
+      {
+        "token": "τελείωσε",
+        "signature": "είλστω",
+        "length": 8
+      },
+      {
+        "token": "γνωρίζω",
+        "signature": "γζίνρω",
+        "length": 7
+      },
+      {
+        "token": "έλεγε",
+        "signature": "γεέλ",
+        "length": 5
+      },
+      {
+        "token": "έρχομαι",
+        "signature": "αέιμορχ",
+        "length": 7
+      },
+      {
+        "token": "ήξερες",
+        "signature": "εήξρς",
+        "length": 6
+      },
+      {
+        "token": "ακούσει",
+        "signature": "αεικοσύ",
+        "length": 7
+      },
+      {
+        "token": "γιατρός",
+        "signature": "αγιόρςτ",
+        "length": 7
+      },
+      {
+        "token": "έκαναν",
+        "signature": "αέκν",
+        "length": 6
+      },
+      {
+        "token": "πέρασε",
+        "signature": "αεέπρσ",
+        "length": 6
+      },
+      {
+        "token": "δουλεύει",
+        "signature": "δειλουύ",
+        "length": 8
+      },
+      {
+        "token": "λέξη",
+        "signature": "έηλξ",
+        "length": 4
+      },
+      {
+        "token": "ρούχα",
+        "signature": "αορύχ",
+        "length": 5
+      },
+      {
+        "token": "στοιχεία",
+        "signature": "αειίοστχ",
+        "length": 8
+      },
+      {
+        "token": "κάποιες",
+        "signature": "άεικοπς",
+        "length": 7
+      },
+      {
+        "token": "αδερφή",
+        "signature": "αδεήρφ",
+        "length": 6
+      },
+      {
+        "token": "παλιά",
+        "signature": "αάιλπ",
+        "length": 5
+      },
+      {
+        "token": "υπέροχο",
+        "signature": "έοπρυχ",
+        "length": 7
+      },
+      {
+        "token": "φωτιά",
+        "signature": "άιτφω",
+        "length": 5
+      },
+      {
+        "token": "γίνω",
+        "signature": "γίνω",
+        "length": 4
+      },
+      {
+        "token": "δες",
+        "signature": "δες",
+        "length": 3
+      },
+      {
+        "token": "δώσει",
+        "signature": "δεισώ",
+        "length": 5
+      },
+      {
+        "token": "εντελώς",
+        "signature": "ελνςτώ",
+        "length": 7
+      },
+      {
+        "token": "ερωτήσεις",
+        "signature": "εήιρσςτω",
+        "length": 9
+      },
+      {
+        "token": "πλευρά",
+        "signature": "άελπρυ",
+        "length": 6
+      },
+      {
+        "token": "σημείο",
+        "signature": "εηίμοσ",
+        "length": 6
+      },
+      {
+        "token": "άρα",
+        "signature": "αάρ",
+        "length": 3
+      },
+      {
+        "token": "δέκα",
+        "signature": "αδέκ",
+        "length": 4
+      },
+      {
+        "token": "κομμάτι",
+        "signature": "άικμοτ",
+        "length": 7
+      },
+      {
+        "token": "γίνεις",
+        "signature": "γειίνς",
+        "length": 6
+      },
+      {
+        "token": "δικά",
+        "signature": "άδικ",
+        "length": 4
+      },
+      {
+        "token": "περιοχή",
+        "signature": "εήιοπρχ",
+        "length": 7
+      },
+      {
+        "token": "πουθενά",
+        "signature": "άεθνοπυ",
+        "length": 7
+      },
+      {
+        "token": "φωτογραφία",
+        "signature": "αγίορτφω",
+        "length": 10
+      },
+      {
+        "token": "είδε",
+        "signature": "δεί",
+        "length": 4
+      },
+      {
+        "token": "επάνω",
+        "signature": "άενπω",
+        "length": 5
+      },
+      {
+        "token": "λίγη",
+        "signature": "γηίλ",
+        "length": 4
+      },
+      {
+        "token": "μιλάμε",
+        "signature": "άειλμ",
+        "length": 6
+      },
+      {
+        "token": "τελειώσει",
+        "signature": "ειλστώ",
+        "length": 9
+      },
+      {
+        "token": "βρήκαμε",
+        "signature": "αβεήκμρ",
+        "length": 7
+      },
+      {
+        "token": "εβδομάδα",
+        "signature": "αάβδεμο",
+        "length": 8
+      },
+      {
+        "token": "μάθει",
+        "signature": "άεθιμ",
+        "length": 5
+      },
+      {
+        "token": "δείπνο",
+        "signature": "δείνοπ",
+        "length": 6
+      },
+      {
+        "token": "πάτε",
+        "signature": "άεπτ",
+        "length": 4
+      },
+      {
+        "token": "προσοχή",
+        "signature": "ήοπρσχ",
+        "length": 7
+      },
+      {
+        "token": "υπέροχα",
+        "signature": "αέοπρυχ",
+        "length": 7
+      },
+      {
+        "token": "βρήκε",
+        "signature": "βεήκρ",
+        "length": 5
+      },
+      {
+        "token": "μάθεις",
+        "signature": "άεθιμς",
+        "length": 6
+      },
+      {
+        "token": "οικογένειά",
+        "signature": "άγεέικνο",
+        "length": 10
+      },
+      {
+        "token": "περίεργο",
+        "signature": "γείοπρ",
+        "length": 8
+      },
+      {
+        "token": "είδους",
+        "signature": "δείοςυ",
+        "length": 6
+      },
+      {
+        "token": "περίμενα",
+        "signature": "αείμνπρ",
+        "length": 8
+      },
+      {
+        "token": "πληροφορίες",
+        "signature": "εηίλοπρςφ",
+        "length": 11
+      },
+      {
+        "token": "προβλήματα",
+        "signature": "αβήλμοπρτ",
+        "length": 10
+      },
+      {
+        "token": "βοηθήσεις",
+        "signature": "βεηήθιοσς",
+        "length": 9
+      },
+      {
+        "token": "επιμέλεια",
+        "signature": "αεέιλμπ",
+        "length": 9
+      },
+      {
+        "token": "ημέρα",
+        "signature": "αέημρ",
+        "length": 5
+      },
+      {
+        "token": "κάτσε",
+        "signature": "άεκστ",
+        "length": 5
+      },
+      {
+        "token": "πόσα",
+        "signature": "αόπσ",
+        "length": 4
+      },
+      {
+        "token": "χριστέ",
+        "signature": "έιρστχ",
+        "length": 6
+      },
+      {
+        "token": "μέλλον",
+        "signature": "έλμνο",
+        "length": 6
+      },
+      {
+        "token": "μιλάει",
+        "signature": "άειλμ",
+        "length": 6
+      },
+      {
+        "token": "μιλήσει",
+        "signature": "εήιλμσ",
+        "length": 7
+      },
+      {
+        "token": "πολλοί",
+        "signature": "ίλοπ",
+        "length": 6
+      },
+      {
+        "token": "ντε",
+        "signature": "εντ",
+        "length": 3
+      },
+      {
+        "token": "ταξίδι",
+        "signature": "αδιίξτ",
+        "length": 6
+      },
+      {
+        "token": "φύγετε",
+        "signature": "γετύφ",
+        "length": 6
+      },
+      {
+        "token": "άδεια",
+        "signature": "αάδει",
+        "length": 5
+      },
+      {
+        "token": "άτομο",
+        "signature": "άμοτ",
+        "length": 5
+      },
+      {
+        "token": "είτε",
+        "signature": "είτ",
+        "length": 4
+      },
+      {
+        "token": "δείξω",
+        "signature": "δείξω",
+        "length": 5
+      },
+      {
+        "token": "οποία",
+        "signature": "αίοπ",
+        "length": 5
+      },
+      {
+        "token": "προσπάθησε",
+        "signature": "άεηθοπρσ",
+        "length": 10
+      },
+      {
+        "token": "θάνατο",
+        "signature": "αάθνοτ",
+        "length": 6
+      },
+      {
+        "token": "μουσική",
+        "signature": "ήικμοσυ",
+        "length": 7
+      },
+      {
+        "token": "πόλεμο",
+        "signature": "ελμοόπ",
+        "length": 6
+      },
+      {
+        "token": "σκάφος",
+        "signature": "άκοσςφ",
+        "length": 6
+      },
+      {
+        "token": "κάποτε",
+        "signature": "άεκοπτ",
+        "length": 6
+      },
+      {
+        "token": "σκέφτεσαι",
+        "signature": "αεέικστφ",
+        "length": 9
+      },
+      {
+        "token": "τιμή",
+        "signature": "ήιμτ",
+        "length": 4
+      },
+      {
+        "token": "γυρίσω",
+        "signature": "γίρσυω",
+        "length": 6
+      },
+      {
+        "token": "καθώς",
+        "signature": "αθκςώ",
+        "length": 5
+      },
+      {
+        "token": "σκάσε",
+        "signature": "άεκσ",
+        "length": 5
+      },
+      {
+        "token": "γνώμη",
+        "signature": "γημνώ",
+        "length": 5
+      },
+      {
+        "token": "εναντίον",
+        "signature": "αείνοτ",
+        "length": 8
+      },
+      {
+        "token": "επιτέλους",
+        "signature": "εέιλοπςτυ",
+        "length": 9
+      },
+      {
+        "token": "μακάρι",
+        "signature": "αάικμρ",
+        "length": 6
+      },
+      {
+        "token": "παντού",
+        "signature": "ανοπτύ",
+        "length": 6
+      },
+      {
+        "token": "τμήμα",
+        "signature": "αήμτ",
+        "length": 5
+      },
+      {
+        "token": "τόσα",
+        "signature": "αόστ",
+        "length": 4
+      },
+      {
+        "token": "χάλια",
+        "signature": "αάιλχ",
+        "length": 5
+      },
+      {
+        "token": "εκείνος",
+        "signature": "είκνος",
+        "length": 7
+      },
+      {
+        "token": "έτοιμη",
+        "signature": "έηιμοτ",
+        "length": 6
+      },
+      {
+        "token": "παίρνει",
+        "signature": "αειίνπρ",
+        "length": 7
+      },
+      {
+        "token": "πάρτε",
+        "signature": "άεπρτ",
+        "length": 5
+      },
+      {
+        "token": "ρωτήσω",
+        "signature": "ήρστω",
+        "length": 6
+      },
+      {
+        "token": "υπό",
+        "signature": "όπυ",
+        "length": 3
+      },
+      {
+        "token": "ασφάλεια",
+        "signature": "αάειλσφ",
+        "length": 8
+      },
+      {
+        "token": "θεού",
+        "signature": "εθού",
+        "length": 4
+      },
+      {
+        "token": "υποτίθεται",
+        "signature": "αεθιίοπτυ",
+        "length": 10
+      },
+      {
+        "token": "είδος",
+        "signature": "δείος",
+        "length": 5
+      },
+      {
+        "token": "έρχονται",
+        "signature": "αέινορτχ",
+        "length": 8
+      },
+      {
+        "token": "μαλλιά",
+        "signature": "αάιλμ",
+        "length": 6
+      },
+      {
+        "token": "μήνα",
+        "signature": "αήμν",
+        "length": 4
+      },
+      {
+        "token": "νιώθεις",
+        "signature": "εθινςώ",
+        "length": 7
+      },
+      {
+        "token": "συνήθως",
+        "signature": "ήθνσςυω",
+        "length": 7
+      },
+      {
+        "token": "υπόσχομαι",
+        "signature": "αιμοόπσυχ",
+        "length": 9
+      },
+      {
+        "token": "ντετέκτιβ",
+        "signature": "βεέικντ",
+        "length": 9
+      },
+      {
+        "token": "σύστημα",
+        "signature": "αημστύ",
+        "length": 7
+      },
+      {
+        "token": "αλλάξει",
+        "signature": "αάειλξ",
+        "length": 7
+      },
+      {
+        "token": "αποστολή",
+        "signature": "αήλοπστ",
+        "length": 8
+      },
+      {
+        "token": "γάμο",
+        "signature": "άγμο",
+        "length": 4
+      },
+      {
+        "token": "γιατρέ",
+        "signature": "αγέιρτ",
+        "length": 6
+      },
+      {
+        "token": "έτοιμοι",
+        "signature": "έιμοτ",
+        "length": 7
+      },
+      {
+        "token": "κέντρο",
+        "signature": "έκνορτ",
+        "length": 6
+      },
+      {
+        "token": "λίστα",
+        "signature": "αίλστ",
+        "length": 5
+      },
+      {
+        "token": "όντως",
+        "signature": "νόςτω",
+        "length": 5
+      },
+      {
+        "token": "φοβάσαι",
+        "signature": "αάβιοσφ",
+        "length": 7
+      },
+      {
+        "token": "δώρο",
+        "signature": "δορώ",
+        "length": 4
+      },
+      {
+        "token": "δώσεις",
+        "signature": "δεισςώ",
+        "length": 6
+      },
+      {
+        "token": "λίγα",
+        "signature": "αγίλ",
+        "length": 4
+      },
+      {
+        "token": "φως",
+        "signature": "ςφω",
+        "length": 3
+      },
+      {
+        "token": "ενδιαφέρον",
+        "signature": "αδεέινορφ",
+        "length": 10
+      },
+      {
+        "token": "θεό",
+        "signature": "εθό",
+        "length": 3
+      },
+      {
+        "token": "καλύτερος",
+        "signature": "αεκλορςτύ",
+        "length": 9
+      },
+      {
+        "token": "κατάλαβες",
+        "signature": "αάβεκλςτ",
+        "length": 9
+      },
+      {
+        "token": "κυρίες",
+        "signature": "είκρςυ",
+        "length": 6
+      },
+      {
+        "token": "μέση",
+        "signature": "έημσ",
+        "length": 4
+      },
+      {
+        "token": "πρώτος",
+        "signature": "οπρςτώ",
+        "length": 6
+      },
+      {
+        "token": "συνέχισε",
+        "signature": "εέινσυχ",
+        "length": 8
+      },
+      {
+        "token": "χρόνος",
+        "signature": "νοόρςχ",
+        "length": 6
+      },
+      {
+        "token": "άνθρωπο",
+        "signature": "άθνοπρω",
+        "length": 7
+      },
+      {
+        "token": "όμορφο",
+        "signature": "μοόρφ",
+        "length": 6
+      },
+      {
+        "token": "φωτογραφίες",
+        "signature": "αγείορςτφω",
+        "length": 11
+      },
+      {
+        "token": "άνδρες",
+        "signature": "άδενρς",
+        "length": 6
+      },
+      {
+        "token": "βάλε",
+        "signature": "άβελ",
+        "length": 4
+      },
+      {
+        "token": "ευχαριστούμε",
+        "signature": "αειμορστυύχ",
+        "length": 12
+      },
+      {
+        "token": "τρελός",
+        "signature": "ελόρςτ",
+        "length": 6
+      },
+      {
+        "token": "βδομάδα",
+        "signature": "αάβδμο",
+        "length": 7
+      },
+      {
+        "token": "έρευνα",
+        "signature": "αεένρυ",
+        "length": 6
+      },
+      {
+        "token": "φέρε",
+        "signature": "εέρφ",
+        "length": 4
+      },
+      {
+        "token": "χρειαστεί",
+        "signature": "αειίρστχ",
+        "length": 9
+      },
+      {
+        "token": "δεσποινίς",
+        "signature": "δειίνοπσς",
+        "length": 9
+      },
+      {
+        "token": "εν",
+        "signature": "εν",
+        "length": 2
+      },
+      {
+        "token": "νόημα",
+        "signature": "αημνό",
+        "length": 5
+      },
+      {
+        "token": "λόγια",
+        "signature": "αγιλό",
+        "length": 5
+      },
+      {
+        "token": "μπορούσαμε",
+        "signature": "αεμοπρσύ",
+        "length": 10
+      },
+      {
+        "token": "αδελφή",
+        "signature": "αδεήλφ",
+        "length": 6
+      },
+      {
+        "token": "λείπει",
+        "signature": "ειίλπ",
+        "length": 6
+      },
+      {
+        "token": "τέλειο",
+        "signature": "εέιλοτ",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "συμβούλιο",
+        "signature": "βιλμοσυύ",
+        "length": 9
+      },
+      {
+        "token": "τέτοιες",
+        "signature": "εέιοςτ",
+        "length": 7
+      },
+      {
+        "token": "τηλεφώνημα",
+        "signature": "αεηλμντφώ",
+        "length": 10
+      },
+      {
+        "token": "χρησιμοποίησε",
+        "signature": "εηιίμοπρσχ",
+        "length": 13
+      },
+      {
+        "token": "άλογα",
+        "signature": "αάγλο",
+        "length": 5
+      },
+      {
+        "token": "αποτελέσματα",
+        "signature": "αεέλμοπστ",
+        "length": 12
+      },
+      {
+        "token": "γάμου",
+        "signature": "άγμου",
+        "length": 5
+      },
+      {
+        "token": "γαμώ",
+        "signature": "αγμώ",
+        "length": 4
+      },
+      {
+        "token": "γράφει",
+        "signature": "άγειρφ",
+        "length": 6
+      },
+      {
+        "token": "δούλευε",
+        "signature": "δελουύ",
+        "length": 7
+      },
+      {
+        "token": "εγκλήματος",
+        "signature": "αγεήκλμοςτ",
+        "length": 10
+      },
+      {
+        "token": "επικεφαλής",
+        "signature": "αεήικλπςφ",
+        "length": 10
+      },
+      {
+        "token": "θύματα",
+        "signature": "αθμτύ",
+        "length": 6
+      },
+      {
+        "token": "καριέρα",
+        "signature": "αέικρ",
+        "length": 7
+      },
+      {
+        "token": "λευκό",
+        "signature": "εκλόυ",
+        "length": 5
+      },
+      {
+        "token": "παίζω",
+        "signature": "αζίπω",
+        "length": 5
+      },
+      {
+        "token": "πρόσφατα",
+        "signature": "αόπρστφ",
+        "length": 8
+      },
+      {
+        "token": "σώσω",
+        "signature": "σωώ",
+        "length": 4
+      },
+      {
+        "token": "τελειώνει",
+        "signature": "ειλντώ",
+        "length": 9
+      },
+      {
+        "token": "υπήρξε",
+        "signature": "εήξπρυ",
+        "length": 6
+      },
+      {
+        "token": "φάνηκε",
+        "signature": "άεηκνφ",
+        "length": 6
+      },
+      {
+        "token": "φάντασμα",
+        "signature": "αάμνστφ",
+        "length": 8
+      },
+      {
+        "token": "φέρτε",
+        "signature": "εέρτφ",
+        "length": 5
+      },
+      {
+        "token": "χαρούμενη",
+        "signature": "αεημνορύχ",
+        "length": 9
+      },
+      {
+        "token": "αλλάξεις",
+        "signature": "αάειλξς",
+        "length": 8
+      },
+      {
+        "token": "αστεία",
+        "signature": "αείστ",
+        "length": 6
+      },
+      {
+        "token": "βάζω",
+        "signature": "άβζω",
+        "length": 4
+      },
+      {
+        "token": "βρήκατε",
+        "signature": "αβεήκρτ",
+        "length": 7
+      },
+      {
+        "token": "βρίσκομαι",
+        "signature": "αβιίκμορσ",
+        "length": 9
+      },
+      {
+        "token": "γάλα",
+        "signature": "αάγλ",
+        "length": 4
+      },
+      {
+        "token": "γράμματα",
+        "signature": "αάγμρτ",
+        "length": 8
+      },
+      {
+        "token": "γύρισα",
+        "signature": "αγιρσύ",
+        "length": 6
+      },
+      {
+        "token": "δαχτυλίδι",
+        "signature": "αδιίλτυχ",
+        "length": 9
+      },
+      {
+        "token": "δείχνουν",
+        "signature": "δείνουχ",
+        "length": 8
+      },
+      {
+        "token": "δολοφόνο",
+        "signature": "δλνοόφ",
+        "length": 8
+      },
+      {
+        "token": "δυνατή",
+        "signature": "αδήντυ",
+        "length": 6
+      },
+      {
+        "token": "έλεγαν",
+        "signature": "αγεέλν",
+        "length": 6
+      },
+      {
+        "token": "θαυμάσια",
+        "signature": "αάθιμσυ",
+        "length": 8
+      },
+      {
+        "token": "καταστροφή",
+        "signature": "αήκορστφ",
+        "length": 10
+      },
+      {
+        "token": "κερδίσει",
+        "signature": "δειίκρσ",
+        "length": 8
+      },
+      {
+        "token": "κρίση",
+        "signature": "ηίκρσ",
+        "length": 5
+      },
+      {
+        "token": "μπούμε",
+        "signature": "εμοπύ",
+        "length": 6
+      },
+      {
+        "token": "νότια",
+        "signature": "αινότ",
+        "length": 5
+      },
+      {
+        "token": "ξεχάσεις",
+        "signature": "άειξσςχ",
+        "length": 8
+      },
+      {
+        "token": "οκτώ",
+        "signature": "κοτώ",
+        "length": 4
+      },
+      {
+        "token": "παραλία",
+        "signature": "αίλπρ",
+        "length": 7
+      },
+      {
+        "token": "πηγή",
+        "signature": "γηήπ",
+        "length": 4
+      },
+      {
+        "token": "πιθανό",
+        "signature": "αθινόπ",
+        "length": 6
+      },
+      {
+        "token": "πιθανότατα",
+        "signature": "αθινόπτ",
+        "length": 10
+      },
+      {
+        "token": "πληρώσει",
+        "signature": "εηιλπρσώ",
+        "length": 8
+      },
+      {
+        "token": "στου",
+        "signature": "οστυ",
+        "length": 4
+      },
+      {
+        "token": "στόχο",
+        "signature": "οόστχ",
+        "length": 5
+      },
+      {
+        "token": "ταχύτητα",
+        "signature": "αητύχ",
+        "length": 8
+      },
+      {
+        "token": "τελευταίες",
+        "signature": "αείλςτυ",
+        "length": 10
+      },
+      {
+        "token": "τρομερό",
+        "signature": "εμοόρτ",
+        "length": 7
+      },
+      {
+        "token": "υποθέσεις",
+        "signature": "εέθιοπσςυ",
+        "length": 9
+      },
+      {
+        "token": "αδύνατον",
+        "signature": "αδνοτύ",
+        "length": 8
+      },
+      {
+        "token": "απέναντι",
+        "signature": "αέινπτ",
+        "length": 8
+      },
+      {
+        "token": "απόδειξη",
+        "signature": "αδεηιξόπ",
+        "length": 8
+      },
+      {
+        "token": "αριθμός",
+        "signature": "αθιμόρς",
+        "length": 7
+      },
+      {
+        "token": "γελοίο",
+        "signature": "γείλο",
+        "length": 6
+      },
+      {
+        "token": "γνωρίζουμε",
+        "signature": "γεζίμνορυω",
+        "length": 10
+      },
+      {
+        "token": "γνωρίσει",
+        "signature": "γειίνρσω",
+        "length": 8
+      },
+      {
+        "token": "δέρμα",
+        "signature": "αδέμρ",
+        "length": 5
+      },
+      {
+        "token": "διευθυντής",
+        "signature": "δεήθινςτυ",
+        "length": 10
+      },
+      {
+        "token": "ελεύθερη",
+        "signature": "εηθλρύ",
+        "length": 8
+      },
+      {
+        "token": "έφυγα",
+        "signature": "αγέυφ",
+        "length": 5
+      },
+      {
+        "token": "κάποιους",
+        "signature": "άικοπςυ",
+        "length": 8
+      },
+      {
+        "token": "καρέκλα",
+        "signature": "αέκλρ",
+        "length": 7
+      },
+      {
+        "token": "μένεις",
+        "signature": "εέιμνς",
+        "length": 6
+      },
+      {
+        "token": "μένω",
+        "signature": "έμνω",
+        "length": 4
+      },
+      {
+        "token": "μνήμη",
+        "signature": "ηήμν",
+        "length": 5
+      },
+      {
+        "token": "όσους",
+        "signature": "οόσςυ",
+        "length": 5
+      },
+      {
+        "token": "παίξω",
+        "signature": "αίξπω",
+        "length": 5
+      },
+      {
+        "token": "πανεπιστήμιο",
+        "signature": "αεήιμνοπστ",
+        "length": 12
+      },
+      {
+        "token": "πάρκο",
+        "signature": "άκοπρ",
+        "length": 5
+      },
+      {
+        "token": "προχώρα",
+        "signature": "αοπρχώ",
+        "length": 7
+      },
+      {
+        "token": "πύλη",
+        "signature": "ηλπύ",
+        "length": 4
+      },
+      {
+        "token": "στήθος",
+        "signature": "ήθοσςτ",
+        "length": 6
+      },
+      {
+        "token": "συνεχίσω",
+        "signature": "είνσυχω",
+        "length": 8
+      },
+      {
+        "token": "τεράστια",
+        "signature": "αάειρστ",
+        "length": 8
+      },
+      {
+        "token": "υπάρξει",
+        "signature": "άειξπρυ",
+        "length": 7
+      },
+      {
+        "token": "φαινόταν",
+        "signature": "αινότφ",
+        "length": 8
+      },
+      {
+        "token": "χτύπημα",
+        "signature": "αημπτύχ",
+        "length": 7
+      },
+      {
+        "token": "αγορά",
+        "signature": "αάγορ",
+        "length": 5
+      },
+      {
+        "token": "αεροδρόμιο",
+        "signature": "αδειμοόρ",
+        "length": 10
+      },
+      {
+        "token": "απλή",
+        "signature": "αήλπ",
+        "length": 4
+      },
+      {
+        "token": "βρίσκεις",
+        "signature": "βειίκρσς",
+        "length": 8
+      },
+      {
+        "token": "γνωρίσω",
+        "signature": "γίνρσω",
+        "length": 7
+      },
+      {
+        "token": "διάβασα",
+        "signature": "αάβδισ",
+        "length": 7
+      },
+      {
+        "token": "είδαμε",
+        "signature": "αδείμ",
+        "length": 6
+      },
+      {
+        "token": "εκδίκηση",
+        "signature": "δεηίκσ",
+        "length": 8
+      },
+      {
+        "token": "έξυπνο",
+        "signature": "ένξοπυ",
+        "length": 6
+      },
+      {
+        "token": "επιλογές",
+        "signature": "γεέιλοπς",
+        "length": 8
+      },
+      {
+        "token": "έρθετε",
+        "signature": "εέθρτ",
+        "length": 6
+      },
+      {
+        "token": "ιδέες",
+        "signature": "δεέις",
+        "length": 5
+      },
+      {
+        "token": "κάμερες",
+        "signature": "άεκμρς",
+        "length": 7
+      },
+      {
+        "token": "κλείσει",
+        "signature": "ειίκλσ",
+        "length": 7
+      },
+      {
+        "token": "κουνήσου",
+        "signature": "ήκνοσυ",
+        "length": 8
+      },
+      {
+        "token": "κρέας",
+        "signature": "αέκρς",
+        "length": 5
+      },
+      {
+        "token": "λάθη",
+        "signature": "άηθλ",
+        "length": 4
+      },
+      {
+        "token": "μαγεία",
+        "signature": "αγείμ",
+        "length": 6
+      },
+      {
+        "token": "μαύρη",
+        "signature": "αημρύ",
+        "length": 5
+      },
+      {
+        "token": "μονάδα",
+        "signature": "αάδμνο",
+        "length": 6
+      },
+      {
+        "token": "οδηγεί",
+        "signature": "γδεηίο",
+        "length": 6
+      },
+      {
+        "token": "παίξει",
+        "signature": "αειίξπ",
+        "length": 6
+      },
+      {
+        "token": "παρασκευή",
+        "signature": "αεήκπρσυ",
+        "length": 9
+      },
+      {
+        "token": "παρόν",
+        "signature": "ανόπρ",
+        "length": 5
+      },
+      {
+        "token": "πριγκίπισσα",
+        "signature": "αγιίκπρσ",
+        "length": 11
+      },
+      {
+        "token": "πυροβόλησε",
+        "signature": "βεηλοόπρσυ",
+        "length": 10
+      },
+      {
+        "token": "σαββατοκύριακο",
+        "signature": "αβικορστύ",
+        "length": 14
+      },
+      {
+        "token": "στιγμές",
+        "signature": "γέιμσςτ",
+        "length": 7
+      },
+      {
+        "token": "σύζυγό",
+        "signature": "γζόσυύ",
+        "length": 6
+      },
+      {
+        "token": "σφαίρες",
+        "signature": "αείρσςφ",
+        "length": 7
+      },
+      {
+        "token": "τελείωσα",
+        "signature": "αείλστω",
+        "length": 8
+      },
+      {
+        "token": "τζιν",
+        "signature": "ζιντ",
+        "length": 4
+      },
+      {
+        "token": "τρώει",
+        "signature": "ειρτώ",
+        "length": 5
+      },
+      {
+        "token": "φτάσαμε",
+        "signature": "αάεμστφ",
+        "length": 7
+      },
+      {
+        "token": "φύση",
+        "signature": "ησύφ",
+        "length": 4
+      },
+      {
+        "token": "χαρούμενος",
+        "signature": "αεμνορςύχ",
+        "length": 10
+      },
+      {
+        "token": "χρειαστώ",
+        "signature": "αειρστχώ",
+        "length": 8
+      },
+      {
+        "token": "ψέμα",
+        "signature": "αέμψ",
+        "length": 4
+      },
+      {
+        "token": "ακούει",
+        "signature": "αεικού",
+        "length": 6
+      },
+      {
+        "token": "απαίσια",
+        "signature": "αιίπσ",
+        "length": 7
+      },
+      {
+        "token": "απαίσιο",
+        "signature": "αιίοπσ",
+        "length": 7
+      },
+      {
+        "token": "απειλή",
+        "signature": "αεήιλπ",
+        "length": 6
+      },
+      {
+        "token": "βάλτε",
+        "signature": "άβελτ",
+        "length": 5
+      },
+      {
+        "token": "βοηθός",
+        "signature": "βηθοός",
+        "length": 6
+      },
+      {
+        "token": "βρε",
+        "signature": "βερ",
+        "length": 3
+      },
+      {
+        "token": "γάτα",
+        "signature": "αάγτ",
+        "length": 4
+      },
+      {
+        "token": "δικοί",
+        "signature": "διίκο",
+        "length": 5
+      },
+      {
+        "token": "δρόμους",
+        "signature": "δμοόρςυ",
+        "length": 7
+      },
+      {
+        "token": "έγραψε",
+        "signature": "αγεέρψ",
+        "length": 6
+      },
+      {
+        "token": "εις",
+        "signature": "εις",
+        "length": 3
+      },
+      {
+        "token": "εντολή",
+        "signature": "εήλνοτ",
+        "length": 6
+      },
+      {
+        "token": "έστω",
+        "signature": "έστω",
+        "length": 4
+      },
+      {
+        "token": "ήρωας",
+        "signature": "αήρςω",
+        "length": 5
+      },
+      {
+        "token": "θέματα",
+        "signature": "αέθμτ",
+        "length": 6
+      },
+      {
+        "token": "ισχύει",
+        "signature": "εισύχ",
+        "length": 6
+      },
+      {
+        "token": "καθαρό",
+        "signature": "αθκόρ",
+        "length": 6
+      },
+      {
+        "token": "καλοκαίρι",
+        "signature": "αιίκλορ",
+        "length": 9
+      },
+      {
+        "token": "κατάλληλη",
+        "signature": "αάηκλτ",
+        "length": 9
+      },
+      {
+        "token": "κατάφερε",
+        "signature": "αάεκρτφ",
+        "length": 8
+      },
+      {
+        "token": "κρατάω",
+        "signature": "αάκρτω",
+        "length": 6
+      },
+      {
+        "token": "μέλη",
+        "signature": "έηλμ",
+        "length": 4
+      },
+      {
+        "token": "μυρίζει",
+        "signature": "εζιίμρυ",
+        "length": 7
+      },
+      {
+        "token": "νοιάζεται",
+        "signature": "αάεζινοτ",
+        "length": 9
+      },
+      {
+        "token": "νόμο",
+        "signature": "μνοό",
+        "length": 4
+      },
+      {
+        "token": "ονομάζεται",
+        "signature": "αάεζιμνοτ",
+        "length": 10
+      },
+      {
+        "token": "πεδίο",
+        "signature": "δείοπ",
+        "length": 5
+      },
+      {
+        "token": "πέφτει",
+        "signature": "εέιπτφ",
+        "length": 6
+      },
+      {
+        "token": "πήγαμε",
+        "signature": "αγεήμπ",
+        "length": 6
+      },
+      {
+        "token": "πιστέψεις",
+        "signature": "εέιπσςτψ",
+        "length": 9
+      },
+      {
+        "token": "προσπαθούσα",
+        "signature": "αθοπρσύ",
+        "length": 11
+      },
+      {
+        "token": "προτείνω",
+        "signature": "είνοπρτω",
+        "length": 8
+      },
+      {
+        "token": "προτού",
+        "signature": "οπρτύ",
+        "length": 6
+      },
+      {
+        "token": "σκουπίδια",
+        "signature": "αδιίκοπσυ",
+        "length": 9
+      },
+      {
+        "token": "σύζυγο",
+        "signature": "γζοσυύ",
+        "length": 6
+      },
+      {
+        "token": "τύπου",
+        "signature": "οπτυύ",
+        "length": 5
+      },
+      {
+        "token": "υπόλοιπο",
+        "signature": "ιλοόπυ",
+        "length": 8
+      },
+      {
+        "token": "φάρμακα",
+        "signature": "αάκμρφ",
+        "length": 7
+      },
+      {
+        "token": "φάση",
+        "signature": "άησφ",
+        "length": 4
+      },
+      {
+        "token": "χτυπήσει",
+        "signature": "εήιπστυχ",
+        "length": 8
+      },
+      {
+        "token": "ωστόσο",
+        "signature": "οόστω",
+        "length": 6
+      },
+      {
+        "token": "αποθήκη",
+        "signature": "αηήθκοπ",
+        "length": 7
+      },
+      {
+        "token": "βγείτε",
+        "signature": "βγείτ",
+        "length": 6
+      },
+      {
+        "token": "γέρος",
+        "signature": "γέορς",
+        "length": 5
+      },
+      {
+        "token": "γεύση",
+        "signature": "γεησύ",
+        "length": 5
+      },
+      {
+        "token": "διασκέδαση",
+        "signature": "αδέηικσ",
+        "length": 10
+      },
+      {
+        "token": "εκατό",
+        "signature": "αεκότ",
+        "length": 5
+      },
+      {
+        "token": "εκείνα",
+        "signature": "αείκν",
+        "length": 6
+      },
+      {
+        "token": "επιστρέφω",
+        "signature": "εέιπρστφω",
+        "length": 9
+      },
+      {
+        "token": "ευχαριστήσω",
+        "signature": "αεήιρστυχω",
+        "length": 11
+      },
+      {
+        "token": "ζητάω",
+        "signature": "άζητω",
+        "length": 5
+      },
+      {
+        "token": "θείε",
+        "signature": "εθί",
+        "length": 4
+      },
+      {
+        "token": "θεωρία",
+        "signature": "αεθίρω",
+        "length": 6
+      },
+      {
+        "token": "καθήκον",
+        "signature": "αήθκνο",
+        "length": 7
+      },
+      {
+        "token": "καταλαβαίνετε",
+        "signature": "αβείκλντ",
+        "length": 13
+      },
+      {
+        "token": "κατάφερα",
+        "signature": "αάεκρτφ",
+        "length": 8
+      },
+      {
+        "token": "κηδεία",
+        "signature": "αδεηίκ",
+        "length": 6
+      },
+      {
+        "token": "κούκλα",
+        "signature": "ακλού",
+        "length": 6
+      },
+      {
+        "token": "λοχία",
+        "signature": "αίλοχ",
+        "length": 5
+      },
+      {
+        "token": "μετρητά",
+        "signature": "άεημρτ",
+        "length": 7
+      },
+      {
+        "token": "νίκη",
+        "signature": "ηίκν",
+        "length": 4
+      },
+      {
+        "token": "οδό",
+        "signature": "δοό",
+        "length": 3
+      },
+      {
+        "token": "παίξεις",
+        "signature": "αειίξπς",
+        "length": 7
+      },
+      {
+        "token": "πιθανότητες",
+        "signature": "αεηθινόπςτ",
+        "length": 11
+      },
+      {
+        "token": "πόση",
+        "signature": "ηόπσ",
+        "length": 4
+      },
+      {
+        "token": "πράγματά",
+        "signature": "αάγμπρτ",
+        "length": 8
+      },
+      {
+        "token": "σημάδια",
+        "signature": "αάδηιμσ",
+        "length": 7
+      },
+      {
+        "token": "σπουδαίο",
+        "signature": "αδίοπσυ",
+        "length": 8
+      },
+      {
+        "token": "στάση",
+        "signature": "άηστ",
+        "length": 5
+      },
+      {
+        "token": "στραβά",
+        "signature": "αάβρστ",
+        "length": 6
+      },
+      {
+        "token": "συναντήσω",
+        "signature": "αήνστυω",
+        "length": 9
+      },
+      {
+        "token": "τεράστιο",
+        "signature": "άειορστ",
+        "length": 8
+      },
+      {
+        "token": "αγαπημένη",
+        "signature": "αγέημνπ",
+        "length": 9
+      },
+      {
+        "token": "αδύνατο",
+        "signature": "αδνοτύ",
+        "length": 7
+      },
+      {
+        "token": "άνετα",
+        "signature": "αάεντ",
+        "length": 5
+      },
+      {
+        "token": "αρχές",
+        "signature": "αέρςχ",
+        "length": 5
+      },
+      {
+        "token": "γειτονιά",
+        "signature": "άγεινοτ",
+        "length": 8
+      },
+      {
+        "token": "γης",
+        "signature": "γης",
+        "length": 3
+      },
+      {
+        "token": "γράψω",
+        "signature": "άγρψω",
+        "length": 5
+      },
+      {
+        "token": "δικές",
+        "signature": "δέικς",
+        "length": 5
+      },
+      {
+        "token": "δοκίμασε",
+        "signature": "αδείκμοσ",
+        "length": 8
+      },
+      {
+        "token": "δρόμος",
+        "signature": "δμοόρς",
+        "length": 6
+      },
+      {
+        "token": "ελέγχου",
+        "signature": "γεέλουχ",
+        "length": 7
+      },
+      {
+        "token": "έξυπνη",
+        "signature": "έηνξπυ",
+        "length": 6
+      },
+      {
+        "token": "ζητάς",
+        "signature": "άζηςτ",
+        "length": 5
+      },
+      {
+        "token": "ήσυχη",
+        "signature": "ηήσυχ",
+        "length": 5
+      },
+      {
+        "token": "θαύμα",
+        "signature": "αθμύ",
+        "length": 5
+      },
+      {
+        "token": "καινούργια",
+        "signature": "αγικνορύ",
+        "length": 10
+      },
+      {
+        "token": "κάνα",
+        "signature": "αάκν",
+        "length": 4
+      },
+      {
+        "token": "καταφέρεις",
+        "signature": "αεέικρςτφ",
+        "length": 10
+      },
+      {
+        "token": "μαθήματα",
+        "signature": "αήθμτ",
+        "length": 8
+      },
+      {
+        "token": "μεγάλες",
+        "signature": "άγελμς",
+        "length": 7
+      },
+      {
+        "token": "νομίζουν",
+        "signature": "ζίμνου",
+        "length": 8
+      },
+      {
+        "token": "ξύλο",
+        "signature": "λξού",
+        "length": 4
+      },
+      {
+        "token": "όποιον",
+        "signature": "ινοόπ",
+        "length": 6
+      },
+      {
+        "token": "οποίος",
+        "signature": "ίοπς",
+        "length": 6
+      },
+      {
+        "token": "ουρανό",
+        "signature": "ανοόρυ",
+        "length": 6
+      },
+      {
+        "token": "παγίδα",
+        "signature": "αγδίπ",
+        "length": 6
+      },
+      {
+        "token": "παίρνουν",
+        "signature": "αίνοπρυ",
+        "length": 8
+      },
+      {
+        "token": "πατρίδα",
+        "signature": "αδίπρτ",
+        "length": 7
+      },
+      {
+        "token": "πελάτης",
+        "signature": "άεηλπςτ",
+        "length": 7
+      },
+      {
+        "token": "πιάσω",
+        "signature": "άιπσω",
+        "length": 5
+      },
+      {
+        "token": "ποτάμι",
+        "signature": "άιμοπτ",
+        "length": 6
+      },
+      {
+        "token": "προσεκτικά",
+        "signature": "άεικοπρστ",
+        "length": 10
+      },
+      {
+        "token": "σκληρή",
+        "signature": "ηήκλρσ",
+        "length": 6
+      },
+      {
+        "token": "ταυτότητα",
+        "signature": "αηότυ",
+        "length": 9
+      },
+      {
+        "token": "φόβο",
+        "signature": "βοόφ",
+        "length": 4
+      },
+      {
+        "token": "ωραίος",
+        "signature": "αίορςω",
+        "length": 6
+      },
+      {
+        "token": "αγγλικά",
+        "signature": "αάγικλ",
+        "length": 7
+      },
+      {
+        "token": "αγοράσω",
+        "signature": "αάγορσω",
+        "length": 7
+      },
+      {
+        "token": "αυτών",
+        "signature": "αντυώ",
+        "length": 5
+      },
+      {
+        "token": "βλέπουν",
+        "signature": "βέλνοπυ",
+        "length": 7
+      },
+      {
+        "token": "γενέθλια",
+        "signature": "αγεέθιλν",
+        "length": 8
+      },
+      {
+        "token": "διάβολο",
+        "signature": "άβδιλο",
+        "length": 7
+      },
+      {
+        "token": "διάλειμμα",
+        "signature": "αάδειλμ",
+        "length": 9
+      },
+      {
+        "token": "διάφορα",
+        "signature": "αάδιορφ",
+        "length": 7
+      },
+      {
+        "token": "έκρηξη",
+        "signature": "έηκξρ",
+        "length": 6
+      },
+      {
+        "token": "ελεύθερο",
+        "signature": "εθλορύ",
+        "length": 8
+      },
+      {
+        "token": "επιτρέπεται",
+        "signature": "αεέιπρτ",
+        "length": 11
+      },
+      {
+        "token": "έφυγες",
+        "signature": "γεέςυφ",
+        "length": 6
+      },
+      {
+        "token": "καινούρια",
+        "signature": "αικνορύ",
+        "length": 9
+      },
+      {
+        "token": "λογική",
+        "signature": "γήικλο",
+        "length": 6
+      },
+      {
+        "token": "μπαίνει",
+        "signature": "αειίμνπ",
+        "length": 7
+      },
+      {
+        "token": "μπορούσατε",
+        "signature": "αεμοπρστύ",
+        "length": 10
+      },
+      {
+        "token": "ξέχασες",
+        "signature": "αεέξσςχ",
+        "length": 7
+      },
+      {
+        "token": "ουίσκι",
+        "signature": "ιίκοσυ",
+        "length": 6
+      },
+      {
+        "token": "παντρευτώ",
+        "signature": "αενπρτυώ",
+        "length": 9
+      },
+      {
+        "token": "περήφανος",
+        "signature": "αεήνοπρςφ",
+        "length": 9
+      },
+      {
+        "token": "πέτα",
+        "signature": "αέπτ",
+        "length": 4
+      },
+      {
+        "token": "πιάσε",
+        "signature": "άειπσ",
+        "length": 5
+      },
+      {
+        "token": "πλήρη",
+        "signature": "ηήλπρ",
+        "length": 5
+      },
+      {
+        "token": "σκότωσαν",
+        "signature": "ακνόστω",
+        "length": 8
+      },
+      {
+        "token": "σκυλιά",
+        "signature": "άικλσυ",
+        "length": 6
+      },
+      {
+        "token": "σπουδαία",
+        "signature": "αδίοπσυ",
+        "length": 8
+      },
+      {
+        "token": "συμβαίνουν",
+        "signature": "αβίμνοσυ",
+        "length": 10
+      },
+      {
+        "token": "τριγύρω",
+        "signature": "γιρτύω",
+        "length": 7
+      },
+      {
+        "token": "φιλαράκο",
+        "signature": "αάικλορφ",
+        "length": 8
+      },
+      {
+        "token": "φοράει",
+        "signature": "άειορφ",
+        "length": 6
+      },
+      {
+        "token": "φτιάξει",
+        "signature": "άειξτφ",
+        "length": 7
+      },
+      {
+        "token": "φύγουν",
+        "signature": "γνουύφ",
+        "length": 6
+      },
+      {
+        "token": "χρησιμοποιεί",
+        "signature": "εηιίμοπρσχ",
+        "length": 12
+      },
+      {
+        "token": "άλλου",
+        "signature": "άλου",
+        "length": 5
+      },
+      {
+        "token": "αξία",
+        "signature": "αίξ",
+        "length": 4
+      },
+      {
+        "token": "αποφάσισα",
+        "signature": "αάιοπσφ",
+        "length": 9
+      },
+      {
+        "token": "άσχημη",
+        "signature": "άημσχ",
+        "length": 6
+      },
+      {
+        "token": "άφησέ",
+        "signature": "άέησφ",
+        "length": 5
+      },
+      {
+        "token": "βάζει",
+        "signature": "άβεζι",
+        "length": 5
+      },
+      {
+        "token": "βιάσου",
+        "signature": "άβιοσυ",
+        "length": 6
+      },
+      {
+        "token": "δυνατός",
+        "signature": "αδνόςτυ",
+        "length": 7
+      },
+      {
+        "token": "δωρεάν",
+        "signature": "άδενρω",
+        "length": 6
+      },
+      {
+        "token": "ελήφθη",
+        "signature": "εηήθλφ",
+        "length": 6
+      },
+      {
+        "token": "ένιωσα",
+        "signature": "αέινσω",
+        "length": 6
+      },
+      {
+        "token": "επιστρέψεις",
+        "signature": "εέιπρσςτψ",
+        "length": 11
+      },
+      {
+        "token": "έστειλα",
+        "signature": "αεέιλστ",
+        "length": 7
+      },
+      {
+        "token": "ζεστό",
+        "signature": "εζόστ",
+        "length": 5
+      },
+      {
+        "token": "ζήσεις",
+        "signature": "εζήισς",
+        "length": 6
+      },
+      {
+        "token": "καταφέρει",
+        "signature": "αεέικρτφ",
+        "length": 9
+      },
+      {
+        "token": "κοιμηθείς",
+        "signature": "εηθιίκμος",
+        "length": 9
+      },
+      {
+        "token": "λίμνη",
+        "signature": "ηίλμν",
+        "length": 5
+      },
+      {
+        "token": "μάθουν",
+        "signature": "άθμνου",
+        "length": 6
+      },
+      {
+        "token": "ναρκωτικών",
+        "signature": "αικνρτωώ",
+        "length": 10
+      },
+      {
+        "token": "ομάδας",
+        "signature": "αάδμος",
+        "length": 6
+      },
+      {
+        "token": "όμορφος",
+        "signature": "μοόρςφ",
+        "length": 7
+      },
+      {
+        "token": "παντρευτεί",
+        "signature": "αείνπρτυ",
+        "length": 10
+      },
+      {
+        "token": "πελάτη",
+        "signature": "άεηλπτ",
+        "length": 6
+      },
+      {
+        "token": "περνάς",
+        "signature": "άενπρς",
+        "length": 6
+      },
+      {
+        "token": "πιούμε",
+        "signature": "ειμοπύ",
+        "length": 6
+      },
+      {
+        "token": "ποτά",
+        "signature": "άοπτ",
+        "length": 4
+      },
+      {
+        "token": "ποτήρι",
+        "signature": "ήιοπρτ",
+        "length": 6
+      },
+      {
+        "token": "πρόεδρο",
+        "signature": "δεοόπρ",
+        "length": 7
+      },
+      {
+        "token": "σχέσεις",
+        "signature": "εέισςχ",
+        "length": 7
+      },
+      {
+        "token": "σχολή",
+        "signature": "ήλοσχ",
+        "length": 5
+      },
+      {
+        "token": "χρειάζεστε",
+        "signature": "άεζιρστχ",
+        "length": 10
+      },
+      {
+        "token": "χρησιμοποιήσω",
+        "signature": "ηήιμοπρσχω",
+        "length": 13
+      },
+      {
+        "token": "αναρωτιόμουν",
+        "signature": "αιμνοόρτυω",
+        "length": 12
+      },
+      {
+        "token": "ανησυχεί",
+        "signature": "αεηίνσυχ",
+        "length": 8
+      },
+      {
+        "token": "απάντησε",
+        "signature": "αάεηνπστ",
+        "length": 8
+      },
+      {
+        "token": "απασχολημένος",
+        "signature": "αέηλμνοπσςχ",
+        "length": 13
+      },
+      {
+        "token": "απόσταση",
+        "signature": "αηόπστ",
+        "length": 8
+      },
+      {
+        "token": "αστυνομικό",
+        "signature": "αικμνοόστυ",
+        "length": 10
+      },
+      {
+        "token": "αφήσετε",
+        "signature": "αεήστφ",
+        "length": 7
+      },
+      {
+        "token": "γλύκα",
+        "signature": "αγκλύ",
+        "length": 5
+      },
+      {
+        "token": "δείξει",
+        "signature": "δειίξ",
+        "length": 6
+      },
+      {
+        "token": "διάθεση",
+        "signature": "άδεηθισ",
+        "length": 7
+      },
+      {
+        "token": "διαφορετική",
+        "signature": "αδεήικορτφ",
+        "length": 11
+      },
+      {
+        "token": "έβλεπα",
+        "signature": "αβεέλπ",
+        "length": 6
+      },
+      {
+        "token": "εμπιστεύομαι",
+        "signature": "αειμοπστύ",
+        "length": 12
+      },
+      {
+        "token": "ζουν",
+        "signature": "ζνου",
+        "length": 4
+      },
+      {
+        "token": "ήσυχα",
+        "signature": "αήσυχ",
+        "length": 5
+      },
+      {
+        "token": "κάθεσαι",
+        "signature": "αάεθικσ",
+        "length": 7
+      },
+      {
+        "token": "καταστρέψει",
+        "signature": "αεέικρστψ",
+        "length": 11
+      },
+      {
+        "token": "καταφέρουμε",
+        "signature": "αεέκμορτυφ",
+        "length": 11
+      },
+      {
+        "token": "καταφέρω",
+        "signature": "αέκρτφω",
+        "length": 8
+      },
+      {
+        "token": "κορυφή",
+        "signature": "ήκορυφ",
+        "length": 6
+      },
+      {
+        "token": "κρατήσουμε",
+        "signature": "αεήκμορστυ",
+        "length": 10
+      },
+      {
+        "token": "λογικό",
+        "signature": "γικλοό",
+        "length": 6
+      },
+      {
+        "token": "μπείτε",
+        "signature": "είμπτ",
+        "length": 6
+      },
+      {
+        "token": "ξαναδώ",
+        "signature": "αδνξώ",
+        "length": 6
+      },
+      {
+        "token": "ξεχνάς",
+        "signature": "άενξςχ",
+        "length": 6
+      },
+      {
+        "token": "παντρευτείς",
+        "signature": "αείνπρςτυ",
+        "length": 11
+      },
+      {
+        "token": "παππούς",
+        "signature": "αοπςύ",
+        "length": 7
+      },
+      {
+        "token": "πέρασες",
+        "signature": "αεέπρσς",
+        "length": 7
+      },
+      {
+        "token": "περί",
+        "signature": "είπρ",
+        "length": 4
+      },
+      {
+        "token": "περίεργα",
+        "signature": "αγείπρ",
+        "length": 8
+      },
+      {
+        "token": "πόρτες",
+        "signature": "εόπρςτ",
+        "length": 6
+      },
+      {
+        "token": "πόσοι",
+        "signature": "ιοόπσ",
+        "length": 5
+      },
+      {
+        "token": "πράξη",
+        "signature": "άηξπρ",
+        "length": 5
+      },
+      {
+        "token": "προσπαθούμε",
+        "signature": "αεθμοπρσύ",
+        "length": 11
+      },
+      {
+        "token": "σερ",
+        "signature": "ερσ",
+        "length": 3
+      },
+      {
+        "token": "σκέψεις",
+        "signature": "εέικσςψ",
+        "length": 7
+      },
+      {
+        "token": "συ",
+        "signature": "συ",
+        "length": 2
+      },
+      {
+        "token": "συνεχίστε",
+        "signature": "είνστυχ",
+        "length": 9
+      },
+      {
+        "token": "τέρμα",
+        "signature": "αέμρτ",
+        "length": 5
+      },
+      {
+        "token": "τρως",
+        "signature": "ρςτω",
+        "length": 4
+      },
+      {
+        "token": "τυχερή",
+        "signature": "εήρτυχ",
+        "length": 6
+      },
+      {
+        "token": "φήμη",
+        "signature": "ηήμφ",
+        "length": 4
+      },
+      {
+        "token": "φιλί",
+        "signature": "ιίλφ",
+        "length": 4
+      },
+      {
+        "token": "χάνεις",
+        "signature": "άεινςχ",
+        "length": 6
+      },
+      {
+        "token": "ανοησίες",
+        "signature": "αεηίνοσς",
+        "length": 8
+      },
+      {
+        "token": "άρρωστη",
+        "signature": "άηρστω",
+        "length": 7
+      },
+      {
+        "token": "βλάκας",
+        "signature": "αάβκλς",
+        "length": 6
+      },
+      {
+        "token": "βρεθεί",
+        "signature": "βεθίρ",
+        "length": 6
+      },
+      {
+        "token": "γεγονότα",
+        "signature": "αγενοότ",
+        "length": 8
+      },
+      {
+        "token": "γεμάτη",
+        "signature": "άγεημτ",
+        "length": 6
+      },
+      {
+        "token": "γέρο",
+        "signature": "γέορ",
+        "length": 4
+      },
+      {
+        "token": "δικαιοσύνη",
+        "signature": "αδηικνοσύ",
+        "length": 10
+      },
+      {
+        "token": "έκλεισε",
+        "signature": "εέικλσ",
+        "length": 7
+      },
+      {
+        "token": "ενοχλεί",
+        "signature": "είλνοχ",
+        "length": 7
+      },
+      {
+        "token": "ένταλμα",
+        "signature": "αέλμντ",
+        "length": 7
+      },
+      {
+        "token": "έσπασε",
+        "signature": "αεέπσ",
+        "length": 6
+      },
+      {
+        "token": "ευγενικό",
+        "signature": "γεικνόυ",
+        "length": 8
+      },
+      {
+        "token": "έφτιαξα",
+        "signature": "αέιξτφ",
+        "length": 7
+      },
+      {
+        "token": "θελα",
+        "signature": "αεθλ",
+        "length": 4
+      },
+      {
+        "token": "θυμωμένος",
+        "signature": "έθμνοςυω",
+        "length": 9
+      },
+      {
+        "token": "καταπληκτικό",
+        "signature": "αηικλόπτ",
+        "length": 12
+      },
+      {
+        "token": "κατηγορίες",
+        "signature": "αγεηίκορςτ",
+        "length": 10
+      },
+      {
+        "token": "κουνηθείτε",
+        "signature": "εηθίκνοτυ",
+        "length": 10
+      },
+      {
+        "token": "ληστεία",
+        "signature": "αεηίλστ",
+        "length": 7
+      },
+      {
+        "token": "μοναδική",
+        "signature": "αδήικμνο",
+        "length": 8
+      },
+      {
+        "token": "μπάτσοι",
+        "signature": "άιμοπστ",
+        "length": 7
+      },
+      {
+        "token": "μπελάδες",
+        "signature": "άδελμπς",
+        "length": 8
+      },
+      {
+        "token": "μπόρεσα",
+        "signature": "αεμόπρσ",
+        "length": 7
+      },
+      {
+        "token": "νόμος",
+        "signature": "μνοός",
+        "length": 5
+      },
+      {
+        "token": "ντροπή",
+        "signature": "ήνοπρτ",
+        "length": 6
+      },
+      {
+        "token": "ξεχάσει",
+        "signature": "άειξσχ",
+        "length": 7
+      },
+      {
+        "token": "παρ",
+        "signature": "απρ",
+        "length": 3
+      },
+      {
+        "token": "προηγούμενη",
+        "signature": "γεημνοπρύ",
+        "length": 11
+      },
+      {
+        "token": "σκέφτηκες",
+        "signature": "εέηκσςτφ",
+        "length": 9
+      },
+      {
+        "token": "σκύλος",
+        "signature": "κλοσςύ",
+        "length": 6
+      },
+      {
+        "token": "στείλει",
+        "signature": "ειίλστ",
+        "length": 7
+      },
+      {
+        "token": "στρατός",
+        "signature": "αόρσςτ",
+        "length": 7
+      },
+      {
+        "token": "τόπο",
+        "signature": "οόπτ",
+        "length": 4
+      },
+      {
+        "token": "φοβάται",
+        "signature": "αάβιοτφ",
+        "length": 7
+      },
+      {
+        "token": "χάπια",
+        "signature": "αάιπχ",
+        "length": 5
+      },
+      {
+        "token": "χτυπάει",
+        "signature": "άειπτυχ",
+        "length": 7
+      },
+      {
+        "token": "ψάχνουν",
+        "signature": "άνουχψ",
+        "length": 7
+      },
+      {
+        "token": "αγαπητέ",
+        "signature": "αγέηπτ",
+        "length": 7
+      },
+      {
+        "token": "ακούτε",
+        "signature": "αεκοτύ",
+        "length": 6
+      },
+      {
+        "token": "άλλων",
+        "signature": "άλνω",
+        "length": 5
+      },
+      {
+        "token": "ανοίξτε",
+        "signature": "αείνξοτ",
+        "length": 7
+      },
+      {
+        "token": "ανοίξω",
+        "signature": "αίνξοω",
+        "length": 6
+      },
+      {
+        "token": "αντέχω",
+        "signature": "αέντχω",
+        "length": 6
+      },
+      {
+        "token": "αποτυπώματα",
+        "signature": "αμοπτυώ",
+        "length": 11
+      },
+      {
+        "token": "αρκετή",
+        "signature": "αεήκρτ",
+        "length": 6
+      },
+      {
+        "token": "αστυνομίας",
+        "signature": "αίμνοσςτυ",
+        "length": 10
+      },
+      {
+        "token": "βαν",
+        "signature": "αβν",
+        "length": 3
+      },
+      {
+        "token": "βλακείες",
+        "signature": "αβείκλς",
+        "length": 8
+      },
+      {
+        "token": "γυαλιά",
+        "signature": "αάγιλυ",
+        "length": 6
+      },
+      {
+        "token": "ελέγξω",
+        "signature": "γεέλξω",
+        "length": 6
+      },
+      {
+        "token": "εμφανίστηκε",
+        "signature": "αεηίκμνστφ",
+        "length": 11
+      },
+      {
+        "token": "εννοείτε",
+        "signature": "είνοτ",
+        "length": 8
+      },
+      {
+        "token": "εξαιρετικά",
+        "signature": "αάεικξρτ",
+        "length": 10
+      },
+      {
+        "token": "έψαχνα",
+        "signature": "αένχψ",
+        "length": 6
+      },
+      {
+        "token": "ζούμε",
+        "signature": "εζμού",
+        "length": 5
+      },
+      {
+        "token": "ήλιος",
+        "signature": "ήιλος",
+        "length": 5
+      },
+      {
+        "token": "ιατρική",
+        "signature": "αήικρτ",
+        "length": 7
+      },
+      {
+        "token": "μπάτσος",
+        "signature": "άμοπσςτ",
+        "length": 7
+      },
+      {
+        "token": "ξεκίνα",
+        "signature": "αείκνξ",
+        "length": 6
+      },
+      {
+        "token": "ξεκινήσει",
+        "signature": "εήικνξσ",
+        "length": 9
+      },
+      {
+        "token": "πιες",
+        "signature": "ειπς",
+        "length": 4
+      },
+      {
+        "token": "πουν",
+        "signature": "νοπυ",
+        "length": 4
+      },
+      {
+        "token": "προσωπική",
+        "signature": "ήικοπρσω",
+        "length": 9
+      },
+      {
+        "token": "ρώτα",
+        "signature": "αρτώ",
+        "length": 4
+      },
+      {
+        "token": "τής",
+        "signature": "ήςτ",
+        "length": 3
+      },
+      {
+        "token": "τρόπους",
+        "signature": "οόπρςτυ",
+        "length": 7
+      },
+      {
+        "token": "υπομονή",
+        "signature": "ήμνοπυ",
+        "length": 7
+      },
+      {
+        "token": "φοβερή",
+        "signature": "βεήορφ",
+        "length": 6
+      },
+      {
+        "token": "αγόρασα",
+        "signature": "αγόρσ",
+        "length": 7
+      },
+      {
+        "token": "ακίνητος",
+        "signature": "αηίκνοςτ",
+        "length": 8
+      },
+      {
+        "token": "αναμνήσεις",
+        "signature": "αεήιμνσς",
+        "length": 10
+      },
+      {
+        "token": "ανοίξει",
+        "signature": "αειίνξο",
+        "length": 7
+      },
+      {
+        "token": "αρχίσω",
+        "signature": "αίρσχω",
+        "length": 6
+      },
+      {
+        "token": "βέβαιος",
+        "signature": "αβέιος",
+        "length": 7
+      },
+      {
+        "token": "βία",
+        "signature": "αβί",
+        "length": 3
+      },
+      {
+        "token": "γίνουμε",
+        "signature": "γείμνου",
+        "length": 7
+      },
+      {
+        "token": "γύρισες",
+        "signature": "γειρσςύ",
+        "length": 7
+      },
+      {
+        "token": "δευτέρα",
+        "signature": "αδεέρτυ",
+        "length": 7
+      },
+      {
+        "token": "δίνουν",
+        "signature": "δίνου",
+        "length": 6
+      },
+      {
+        "token": "είκοσι",
+        "signature": "ειίκοσ",
+        "length": 6
+      },
+      {
+        "token": "είσαστε",
+        "signature": "αείστ",
+        "length": 7
+      },
+      {
+        "token": "επείγον",
+        "signature": "γείνοπ",
+        "length": 7
+      },
+      {
+        "token": "ερχόταν",
+        "signature": "αενόρτχ",
+        "length": 7
+      },
+      {
+        "token": "έφυγαν",
+        "signature": "αγένυφ",
+        "length": 6
+      },
+      {
+        "token": "ζημιά",
+        "signature": "άζηιμ",
+        "length": 5
+      },
+      {
+        "token": "ζώο",
+        "signature": "ζοώ",
+        "length": 3
+      },
+      {
+        "token": "ήλιο",
+        "signature": "ήιλο",
+        "length": 4
+      },
+      {
+        "token": "ήλπιζα",
+        "signature": "αζήιλπ",
+        "length": 6
+      },
+      {
+        "token": "κανονικά",
+        "signature": "αάικνο",
+        "length": 8
+      },
+      {
+        "token": "κολέγιο",
+        "signature": "γέικλο",
+        "length": 7
+      },
+      {
+        "token": "μάρτυρας",
+        "signature": "αάμρςτυ",
+        "length": 8
+      },
+      {
+        "token": "μάρτυρες",
+        "signature": "άεμρςτυ",
+        "length": 8
+      },
+      {
+        "token": "μίλησες",
+        "signature": "εηίλμσς",
+        "length": 7
+      },
+      {
+        "token": "μοιάζεις",
+        "signature": "άεζιμος",
+        "length": 8
+      },
+      {
+        "token": "νοσοκόμα",
+        "signature": "ακμνοόσ",
+        "length": 8
+      },
+      {
+        "token": "παντελόνι",
+        "signature": "αειλνόπτ",
+        "length": 9
+      },
+      {
+        "token": "πέταξε",
+        "signature": "αεέξπτ",
+        "length": 6
+      },
+      {
+        "token": "πλάσμα",
+        "signature": "αάλμπσ",
+        "length": 6
+      },
+      {
+        "token": "πληρώσεις",
+        "signature": "εηιλπρσςώ",
+        "length": 9
+      },
+      {
+        "token": "προηγούμενα",
+        "signature": "αγεημνοπρύ",
+        "length": 11
+      },
+      {
+        "token": "προσέχω",
+        "signature": "έοπρσχω",
+        "length": 7
+      },
+      {
+        "token": "στρατηγέ",
+        "signature": "αγέηρστ",
+        "length": 8
+      },
+      {
+        "token": "σώσεις",
+        "signature": "εισςώ",
+        "length": 6
+      },
+      {
+        "token": "τράβα",
+        "signature": "αάβρτ",
+        "length": 5
+      },
+      {
+        "token": "τρίτο",
+        "signature": "ίορτ",
+        "length": 5
+      },
+      {
+        "token": "τύπους",
+        "signature": "οπςτυύ",
+        "length": 6
+      },
+      {
+        "token": "φάκελο",
+        "signature": "άεκλοφ",
+        "length": 6
+      },
+      {
+        "token": "χάθηκε",
+        "signature": "άεηθκχ",
+        "length": 6
+      },
+      {
+        "token": "χρονιά",
+        "signature": "άινορχ",
+        "length": 6
+      },
+      {
+        "token": "αγόρασε",
+        "signature": "αγεόρσ",
+        "length": 7
+      },
+      {
+        "token": "αδελφέ",
+        "signature": "αδεέλφ",
+        "length": 6
+      },
+      {
+        "token": "αιτία",
+        "signature": "αιίτ",
+        "length": 5
+      },
+      {
+        "token": "αναφέρω",
+        "signature": "αένρφω",
+        "length": 7
+      },
+      {
+        "token": "απαραίτητο",
+        "signature": "αηίοπρτ",
+        "length": 10
+      },
+      {
+        "token": "αρέσεις",
+        "signature": "αεέιρσς",
+        "length": 7
+      },
+      {
+        "token": "ασθενείς",
+        "signature": "αεθίνσς",
+        "length": 8
+      },
+      {
+        "token": "ασθενής",
+        "signature": "αεήθνσς",
+        "length": 7
+      },
+      {
+        "token": "βάρκα",
+        "signature": "αάβκρ",
+        "length": 5
+      },
+      {
+        "token": "δουλεύουν",
+        "signature": "δελνουύ",
+        "length": 9
+      },
+      {
+        "token": "εκπομπή",
+        "signature": "εήκμοπ",
+        "length": 7
+      },
+      {
+        "token": "ένοχος",
+        "signature": "ένοςχ",
+        "length": 6
+      },
+      {
+        "token": "εξής",
+        "signature": "εήξς",
+        "length": 4
+      },
+      {
+        "token": "έσωσε",
+        "signature": "εέσω",
+        "length": 5
+      },
+      {
+        "token": "ζήτησες",
+        "signature": "εζηήσςτ",
+        "length": 7
+      },
+      {
+        "token": "θυμίζει",
+        "signature": "εζθιίμυ",
+        "length": 7
+      },
+      {
+        "token": "καθηγητής",
+        "signature": "αγηήθκςτ",
+        "length": 9
+      },
+      {
+        "token": "κήπο",
+        "signature": "ήκοπ",
+        "length": 4
+      },
+      {
+        "token": "κιλά",
+        "signature": "άικλ",
+        "length": 4
+      },
+      {
+        "token": "κοιτάξω",
+        "signature": "άικξοτω",
+        "length": 7
+      },
+      {
+        "token": "κρατήσου",
+        "signature": "αήκορστυ",
+        "length": 8
+      },
+      {
+        "token": "οικογένειας",
+        "signature": "αγεέικνος",
+        "length": 11
+      },
+      {
+        "token": "όρια",
+        "signature": "αιόρ",
+        "length": 4
+      },
+      {
+        "token": "περιουσία",
+        "signature": "αειίοπρσυ",
+        "length": 9
+      },
+      {
+        "token": "περισσότερη",
+        "signature": "εηιόπρστ",
+        "length": 11
+      },
+      {
+        "token": "πιάσουν",
+        "signature": "άινοπσυ",
+        "length": 7
+      },
+      {
+        "token": "πληροφορία",
+        "signature": "αηίλοπρφ",
+        "length": 10
+      },
+      {
+        "token": "πολύς",
+        "signature": "λοπςύ",
+        "length": 5
+      },
+      {
+        "token": "σπαθί",
+        "signature": "αθίπσ",
+        "length": 5
+      },
+      {
+        "token": "συμβόλαιο",
+        "signature": "αβιλμοόσυ",
+        "length": 9
+      },
+      {
+        "token": "σύμπαν",
+        "signature": "αμνπσύ",
+        "length": 6
+      },
+      {
+        "token": "συνεχίσεις",
+        "signature": "ειίνσςυχ",
+        "length": 10
+      },
+      {
+        "token": "συσκευή",
+        "signature": "εήκσυ",
+        "length": 7
+      },
+      {
+        "token": "ταλέντο",
+        "signature": "αέλνοτ",
+        "length": 7
+      },
+      {
+        "token": "τηλέφωνό",
+        "signature": "έηλνότφω",
+        "length": 8
+      },
+      {
+        "token": "τόσες",
+        "signature": "εόσςτ",
+        "length": 5
+      },
+      {
+        "token": "φέρουμε",
+        "signature": "εέμορυφ",
+        "length": 7
+      },
+      {
+        "token": "ακούσατε",
+        "signature": "αεκοστύ",
+        "length": 8
+      },
+      {
+        "token": "αρκετές",
+        "signature": "αεέκρςτ",
+        "length": 7
+      },
+      {
+        "token": "άρχισα",
+        "signature": "αάιρσχ",
+        "length": 6
+      },
+      {
+        "token": "ασθενοφόρο",
+        "signature": "αεθνοόρσφ",
+        "length": 10
+      },
+      {
+        "token": "ασφαλείς",
+        "signature": "αείλσςφ",
+        "length": 8
+      },
+      {
+        "token": "αυλή",
+        "signature": "αήλυ",
+        "length": 4
+      },
+      {
+        "token": "βαρέθηκα",
+        "signature": "αβέηθκρ",
+        "length": 8
+      },
+      {
+        "token": "βρίσκεσαι",
+        "signature": "αβειίκρσ",
+        "length": 9
+      },
+      {
+        "token": "γιου",
+        "signature": "γιου",
+        "length": 4
+      },
+      {
+        "token": "δείγμα",
+        "signature": "αγδείμ",
+        "length": 6
+      },
+      {
+        "token": "δουλέψω",
+        "signature": "δέλουψω",
+        "length": 7
+      },
+      {
+        "token": "έβγαλε",
+        "signature": "αβγεέλ",
+        "length": 6
+      },
+      {
+        "token": "είδαν",
+        "signature": "αδείν",
+        "length": 5
+      },
+      {
+        "token": "εξουσία",
+        "signature": "αείξοσυ",
+        "length": 7
+      },
+      {
+        "token": "επιστρέψουμε",
+        "signature": "εέιμοπρστυψ",
+        "length": 12
+      },
+      {
+        "token": "επιστροφή",
+        "signature": "εήιοπρστφ",
+        "length": 9
+      },
+      {
+        "token": "επόμενος",
+        "signature": "εμνοόπς",
+        "length": 8
+      },
+      {
+        "token": "θείο",
+        "signature": "εθίο",
+        "length": 4
+      },
+      {
+        "token": "μηνύματα",
+        "signature": "αημντύ",
+        "length": 8
+      },
+      {
+        "token": "μιλάνε",
+        "signature": "άειλμν",
+        "length": 6
+      },
+      {
+        "token": "μορφή",
+        "signature": "ήμορφ",
+        "length": 5
+      },
+      {
+        "token": "μυρωδιά",
+        "signature": "άδιμρυω",
+        "length": 7
+      },
+      {
+        "token": "νόμιζες",
+        "signature": "εζιμνός",
+        "length": 7
+      },
+      {
+        "token": "οδηγήσει",
+        "signature": "γδεηήιοσ",
+        "length": 8
+      },
+      {
+        "token": "οδηγός",
+        "signature": "γδηοός",
+        "length": 6
+      },
+      {
+        "token": "οποιονδήποτε",
+        "signature": "δεήινοπτ",
+        "length": 12
+      },
+      {
+        "token": "όροφο",
+        "signature": "οόρφ",
+        "length": 5
+      },
+      {
+        "token": "όσοι",
+        "signature": "ιοόσ",
+        "length": 4
+      },
+      {
+        "token": "πακέτο",
+        "signature": "αέκοπτ",
+        "length": 6
+      },
+      {
+        "token": "παντρεμένος",
+        "signature": "αεέμνοπρςτ",
+        "length": 11
+      },
+      {
+        "token": "παράτα",
+        "signature": "αάπρτ",
+        "length": 6
+      },
+      {
+        "token": "πέθαναν",
+        "signature": "αέθνπ",
+        "length": 7
+      },
+      {
+        "token": "πεθάνουν",
+        "signature": "άεθνοπυ",
+        "length": 8
+      },
+      {
+        "token": "πέρασαν",
+        "signature": "αένπρσ",
+        "length": 7
+      },
+      {
+        "token": "πέτρα",
+        "signature": "αέπρτ",
+        "length": 5
+      },
+      {
+        "token": "πίστευε",
+        "signature": "είπστυ",
+        "length": 7
+      },
+      {
+        "token": "ρώτησε",
+        "signature": "εηρστώ",
+        "length": 6
+      },
+      {
+        "token": "σπάσει",
+        "signature": "άειπσ",
+        "length": 6
+      },
+      {
+        "token": "στείλε",
+        "signature": "είλστ",
+        "length": 6
+      },
+      {
+        "token": "τέχνη",
+        "signature": "έηντχ",
+        "length": 5
+      },
+      {
+        "token": "τομέα",
+        "signature": "αέμοτ",
+        "length": 5
+      },
+      {
+        "token": "τρέλα",
+        "signature": "αέλρτ",
+        "length": 5
+      },
+      {
+        "token": "υπόγειο",
+        "signature": "γειοόπυ",
+        "length": 7
+      },
+      {
+        "token": "φταις",
+        "signature": "αιςτφ",
+        "length": 5
+      },
+      {
+        "token": "χάσουμε",
+        "signature": "άεμοσυχ",
+        "length": 7
+      },
+      {
+        "token": "ψάρι",
+        "signature": "άιρψ",
+        "length": 4
+      },
+      {
+        "token": "αληθινά",
+        "signature": "αάηθιλν",
+        "length": 7
+      },
+      {
+        "token": "ανθρώπινο",
+        "signature": "αθινοπρώ",
+        "length": 9
+      },
+      {
+        "token": "ανθρώπου",
+        "signature": "αθνοπρυώ",
+        "length": 8
+      },
+      {
+        "token": "άξιζε",
+        "signature": "άεζιξ",
+        "length": 5
+      },
+      {
+        "token": "αποφάσισε",
+        "signature": "αάειοπσφ",
+        "length": 9
+      },
+      {
+        "token": "άρθρο",
+        "signature": "άθορ",
+        "length": 5
+      },
+      {
+        "token": "αρχικά",
+        "signature": "αάικρχ",
+        "length": 6
+      },
+      {
+        "token": "βοηθήστε",
+        "signature": "βεηήθοστ",
+        "length": 8
+      },
+      {
+        "token": "γλυκά",
+        "signature": "άγκλυ",
+        "length": 5
+      },
+      {
+        "token": "διαβάσει",
+        "signature": "αάβδεισ",
+        "length": 8
+      },
+      {
+        "token": "διευθυντή",
+        "signature": "δεήθιντυ",
+        "length": 9
+      },
+      {
+        "token": "δικαστής",
+        "signature": "αδήικσςτ",
+        "length": 8
+      },
+      {
+        "token": "δράση",
+        "signature": "άδηρσ",
+        "length": 5
+      },
+      {
+        "token": "δώρα",
+        "signature": "αδρώ",
+        "length": 4
+      },
+      {
+        "token": "ειδήσεις",
+        "signature": "δεήισς",
+        "length": 8
+      },
+      {
+        "token": "εντύπωση",
+        "signature": "εηνπστύω",
+        "length": 8
+      },
+      {
+        "token": "επιτρέψτε",
+        "signature": "εέιπρτψ",
+        "length": 9
+      },
+      {
+        "token": "ευτυχισμένος",
+        "signature": "εέιμνοσςτυχ",
+        "length": 12
+      },
+      {
+        "token": "ευχή",
+        "signature": "εήυχ",
+        "length": 4
+      },
+      {
+        "token": "έως",
+        "signature": "έςω",
+        "length": 3
+      },
+      {
+        "token": "καταφέραμε",
+        "signature": "αεέκμρτφ",
+        "length": 10
+      },
+      {
+        "token": "κοιμάσαι",
+        "signature": "αάικμοσ",
+        "length": 8
+      },
+      {
+        "token": "κράτησε",
+        "signature": "άεηκρστ",
+        "length": 7
+      },
+      {
+        "token": "μάθετε",
+        "signature": "άεθμτ",
+        "length": 6
+      },
+      {
+        "token": "μάς",
+        "signature": "άμς",
+        "length": 3
+      },
+      {
+        "token": "μεγαλειότατε",
+        "signature": "αγειλμότ",
+        "length": 12
+      },
+      {
+        "token": "μεθυσμένος",
+        "signature": "εέθμνοσςυ",
+        "length": 10
+      },
+      {
+        "token": "μιλούσε",
+        "signature": "ειλμοσύ",
+        "length": 7
+      },
+      {
+        "token": "μοναδικό",
+        "signature": "αδικμνοό",
+        "length": 8
+      },
+      {
+        "token": "μπήκα",
+        "signature": "αήκμπ",
+        "length": 5
+      },
+      {
+        "token": "μπορέσουμε",
+        "signature": "εέμοπρσυ",
+        "length": 10
+      },
+      {
+        "token": "μωρά",
+        "signature": "άμρω",
+        "length": 4
+      },
+      {
+        "token": "οδηγίες",
+        "signature": "γδεηίος",
+        "length": 7
+      },
+      {
+        "token": "όρεξη",
+        "signature": "εηξόρ",
+        "length": 5
+      },
+      {
+        "token": "παρουσία",
+        "signature": "αίοπρσυ",
+        "length": 8
+      },
+      {
+        "token": "πεινάω",
+        "signature": "άεινπω",
+        "length": 6
+      },
+      {
+        "token": "προσπαθούν",
+        "signature": "αθνοπρσύ",
+        "length": 10
+      },
+      {
+        "token": "σκέφτεται",
+        "signature": "αεέικστφ",
+        "length": 9
+      },
+      {
+        "token": "σκληρός",
+        "signature": "ηκλόρσς",
+        "length": 7
+      },
+      {
+        "token": "τσακ",
+        "signature": "ακστ",
+        "length": 4
+      },
+      {
+        "token": "υγεία",
+        "signature": "αγείυ",
+        "length": 5
+      },
+      {
+        "token": "φίλες",
+        "signature": "είλςφ",
+        "length": 5
+      },
+      {
+        "token": "φύγαμε",
+        "signature": "αγεμύφ",
+        "length": 6
+      },
+      {
+        "token": "χαζό",
+        "signature": "αζόχ",
+        "length": 4
+      },
+      {
+        "token": "ανέφερε",
+        "signature": "αεένρφ",
+        "length": 7
+      },
+      {
+        "token": "αρχείο",
+        "signature": "αείορχ",
+        "length": 6
+      },
+      {
+        "token": "αυτιά",
+        "signature": "αάιτυ",
+        "length": 5
+      },
+      {
+        "token": "βρισκόμαστε",
+        "signature": "αβεικμόρστ",
+        "length": 11
+      },
+      {
+        "token": "δείξεις",
+        "signature": "δειίξς",
+        "length": 7
+      },
+      {
+        "token": "διαβάσω",
+        "signature": "αάβδισω",
+        "length": 7
+      },
+      {
+        "token": "διάολε",
+        "signature": "άδειλο",
+        "length": 6
+      },
+      {
+        "token": "δικαστή",
+        "signature": "αδήικστ",
+        "length": 7
+      },
+      {
+        "token": "δόκτωρ",
+        "signature": "δκόρτω",
+        "length": 6
+      },
+      {
+        "token": "έγινα",
+        "signature": "αγέιν",
+        "length": 5
+      },
+      {
+        "token": "έδωσαν",
+        "signature": "αδένσω",
+        "length": 6
+      },
+      {
+        "token": "εκατομμύριο",
+        "signature": "αεικμορτύ",
+        "length": 11
+      },
+      {
+        "token": "εκατοντάδες",
+        "signature": "αάδεκνοςτ",
+        "length": 11
+      },
+      {
+        "token": "εκείνοι",
+        "signature": "ειίκνο",
+        "length": 7
+      },
+      {
+        "token": "έκθεση",
+        "signature": "εέηθκσ",
+        "length": 6
+      },
+      {
+        "token": "εμπιστεύεσαι",
+        "signature": "αειμπστύ",
+        "length": 12
+      },
+      {
+        "token": "έπαθες",
+        "signature": "αεέθπς",
+        "length": 6
+      },
+      {
+        "token": "επιθυμία",
+        "signature": "αεθιίμπυ",
+        "length": 8
+      },
+      {
+        "token": "επιτροπή",
+        "signature": "εήιοπρτ",
+        "length": 8
+      },
+      {
+        "token": "ευτυχία",
+        "signature": "αείτυχ",
+        "length": 7
+      },
+      {
+        "token": "εφημερίδες",
+        "signature": "δεηίμρςφ",
+        "length": 10
+      },
+      {
+        "token": "έφτιαξε",
+        "signature": "αεέιξτφ",
+        "length": 7
+      },
+      {
+        "token": "ζέστη",
+        "signature": "έζηστ",
+        "length": 5
+      },
+      {
+        "token": "θέατρο",
+        "signature": "αέθορτ",
+        "length": 6
+      },
+      {
+        "token": "καθαρή",
+        "signature": "αήθκρ",
+        "length": 6
+      },
+      {
+        "token": "κουρασμένος",
+        "signature": "αέκμνορσςυ",
+        "length": 11
+      },
+      {
+        "token": "κόψω",
+        "signature": "κόψω",
+        "length": 4
+      },
+      {
+        "token": "κρατήστε",
+        "signature": "αεήκρστ",
+        "length": 8
+      },
+      {
+        "token": "κυνήγι",
+        "signature": "γήικνυ",
+        "length": 6
+      },
+      {
+        "token": "λοχαγέ",
+        "signature": "αγέλοχ",
+        "length": 6
+      },
+      {
+        "token": "μάντεψε",
+        "signature": "άεμντψ",
+        "length": 7
+      },
+      {
+        "token": "μένουν",
+        "signature": "έμνου",
+        "length": 6
+      },
+      {
+        "token": "μυαλά",
+        "signature": "αάλμυ",
+        "length": 5
+      },
+      {
+        "token": "ντον",
+        "signature": "νοτ",
+        "length": 4
+      },
+      {
+        "token": "ξεφύγει",
+        "signature": "γειξύφ",
+        "length": 7
+      },
+      {
+        "token": "όλος",
+        "signature": "λοός",
+        "length": 4
+      },
+      {
+        "token": "ομάδες",
+        "signature": "άδεμος",
+        "length": 6
+      },
+      {
+        "token": "ομορφιά",
+        "signature": "άιμορφ",
+        "length": 7
+      },
+      {
+        "token": "παιδιού",
+        "signature": "αδιοπύ",
+        "length": 7
+      },
+      {
+        "token": "πεθάνουμε",
+        "signature": "άεθμνοπυ",
+        "length": 9
+      },
+      {
+        "token": "περάσαμε",
+        "signature": "αάεμπρσ",
+        "length": 8
+      },
+      {
+        "token": "περίεργη",
+        "signature": "γεηίπρ",
+        "length": 8
+      },
+      {
+        "token": "περίμενες",
+        "signature": "είμνπρς",
+        "length": 9
+      },
+      {
+        "token": "πετύχει",
+        "signature": "ειπτύχ",
+        "length": 7
+      },
+      {
+        "token": "πιάνει",
+        "signature": "άεινπ",
+        "length": 6
+      },
+      {
+        "token": "πιθανώς",
+        "signature": "αθινπςώ",
+        "length": 7
+      }
+    ],
+    "advanced": [
+      {
+        "token": "βρώμικο",
+        "signature": "βικμορώ",
+        "length": 7
+      },
+      {
+        "token": "γενεθλίων",
+        "signature": "γεθίλνω",
+        "length": 9
+      },
+      {
+        "token": "γενικά",
+        "signature": "άγεικν",
+        "length": 6
+      },
+      {
+        "token": "γραβάτα",
+        "signature": "αάβγρτ",
+        "length": 7
+      },
+      {
+        "token": "γραφεία",
+        "signature": "αγείρφ",
+        "length": 7
+      },
+      {
+        "token": "γυμνή",
+        "signature": "γήμνυ",
+        "length": 5
+      },
+      {
+        "token": "δημιουργεί",
+        "signature": "γδεηιίμορυ",
+        "length": 10
+      },
+      {
+        "token": "δημοκρατία",
+        "signature": "αδηίκμορτ",
+        "length": 10
+      },
+      {
+        "token": "δια",
+        "signature": "αδι",
+        "length": 3
+      },
+      {
+        "token": "διαθήκη",
+        "signature": "αδηήθικ",
+        "length": 7
+      },
+      {
+        "token": "διαρροή",
+        "signature": "αδήιορ",
+        "length": 7
+      },
+      {
+        "token": "έβρισκα",
+        "signature": "αβέικρσ",
+        "length": 7
+      },
+      {
+        "token": "έθνος",
+        "signature": "έθνος",
+        "length": 5
+      },
+      {
+        "token": "εκραγεί",
+        "signature": "αγείκρ",
+        "length": 7
+      },
+      {
+        "token": "εκρηκτικά",
+        "signature": "άεηικρτ",
+        "length": 9
+      },
+      {
+        "token": "ενθουσιασμένος",
+        "signature": "αεέθιμνοσςυ",
+        "length": 14
+      },
+      {
+        "token": "ένορκοι",
+        "signature": "έικνορ",
+        "length": 7
+      },
+      {
+        "token": "ένσταση",
+        "signature": "αέηνστ",
+        "length": 7
+      },
+      {
+        "token": "έξτρα",
+        "signature": "αέξρτ",
+        "length": 5
+      },
+      {
+        "token": "επαγγελματική",
+        "signature": "αγεήικλμπτ",
+        "length": 13
+      },
+      {
+        "token": "επέστρεψες",
+        "signature": "εέπρσςτψ",
+        "length": 10
+      },
+      {
+        "token": "επιστήμονες",
+        "signature": "εήιμνοπσςτ",
+        "length": 11
+      },
+      {
+        "token": "επιτέθηκαν",
+        "signature": "αεέηθικνπτ",
+        "length": 10
+      },
+      {
+        "token": "εργάζεται",
+        "signature": "αάγεζιρτ",
+        "length": 9
+      },
+      {
+        "token": "εσωτερική",
+        "signature": "εήικρστω",
+        "length": 9
+      },
+      {
+        "token": "ευκαιρίες",
+        "signature": "αειίκρςυ",
+        "length": 9
+      },
+      {
+        "token": "ευχάριστο",
+        "signature": "άειορστυχ",
+        "length": 9
+      },
+      {
+        "token": "έφτασαν",
+        "signature": "αένστφ",
+        "length": 7
+      },
+      {
+        "token": "εχθροί",
+        "signature": "εθίορχ",
+        "length": 6
+      },
+      {
+        "token": "ζευγάρια",
+        "signature": "αάγεζιρυ",
+        "length": 8
+      },
+      {
+        "token": "ζώων",
+        "signature": "ζνωώ",
+        "length": 4
+      },
+      {
+        "token": "ηρεμήσεις",
+        "signature": "εηήιμρσς",
+        "length": 9
+      },
+      {
+        "token": "ήρωες",
+        "signature": "εήρςω",
+        "length": 5
+      },
+      {
+        "token": "θέαμα",
+        "signature": "αέθμ",
+        "length": 5
+      },
+      {
+        "token": "θεωρείται",
+        "signature": "αεθιίρτω",
+        "length": 9
+      },
+      {
+        "token": "θυμηθείτε",
+        "signature": "εηθίμτυ",
+        "length": 9
+      },
+      {
+        "token": "θυμό",
+        "signature": "θμόυ",
+        "length": 4
+      },
+      {
+        "token": "ιδιωτική",
+        "signature": "δήικτω",
+        "length": 8
+      },
+      {
+        "token": "καθημερινά",
+        "signature": "αάεηθικμνρ",
+        "length": 10
+      },
+      {
+        "token": "καίγεται",
+        "signature": "αγειίκτ",
+        "length": 8
+      },
+      {
+        "token": "καλύβα",
+        "signature": "αβκλύ",
+        "length": 6
+      },
+      {
+        "token": "καλύψει",
+        "signature": "αεικλύψ",
+        "length": 7
+      },
+      {
+        "token": "καρφί",
+        "signature": "αίκρφ",
+        "length": 5
+      },
+      {
+        "token": "καταλήξει",
+        "signature": "αεήικλξτ",
+        "length": 9
+      },
+      {
+        "token": "κεντρική",
+        "signature": "εήικνρτ",
+        "length": 8
+      },
+      {
+        "token": "κεράσω",
+        "signature": "άεκρσω",
+        "length": 6
+      },
+      {
+        "token": "κέρδος",
+        "signature": "δέκορς",
+        "length": 6
+      },
+      {
+        "token": "κλέφτες",
+        "signature": "εέκλςτφ",
+        "length": 7
+      },
+      {
+        "token": "κοιλάδα",
+        "signature": "αάδικλο",
+        "length": 7
+      },
+      {
+        "token": "κόμμα",
+        "signature": "ακμό",
+        "length": 5
+      },
+      {
+        "token": "κορμί",
+        "signature": "ίκμορ",
+        "length": 5
+      },
+      {
+        "token": "κρατάνε",
+        "signature": "αάεκνρτ",
+        "length": 7
+      },
+      {
+        "token": "κρατήσουν",
+        "signature": "αήκνορστυ",
+        "length": 9
+      },
+      {
+        "token": "κυνηγός",
+        "signature": "γηκνόςυ",
+        "length": 7
+      },
+      {
+        "token": "κύρια",
+        "signature": "αικρύ",
+        "length": 5
+      },
+      {
+        "token": "λέγομαι",
+        "signature": "αγέιλμο",
+        "length": 7
+      },
+      {
+        "token": "λεπτομέρεια",
+        "signature": "αεέιλμοπρτ",
+        "length": 11
+      },
+      {
+        "token": "λύκος",
+        "signature": "κλοςύ",
+        "length": 5
+      },
+      {
+        "token": "μαζέψω",
+        "signature": "αέζμψω",
+        "length": 6
+      },
+      {
+        "token": "μελέτη",
+        "signature": "εέηλμτ",
+        "length": 6
+      },
+      {
+        "token": "μέλι",
+        "signature": "έιλμ",
+        "length": 4
+      },
+      {
+        "token": "μερίδιο",
+        "signature": "δειίμορ",
+        "length": 7
+      },
+      {
+        "token": "μεταφέρει",
+        "signature": "αεέιμρτφ",
+        "length": 9
+      },
+      {
+        "token": "μηχανικός",
+        "signature": "αηικμνόςχ",
+        "length": 9
+      },
+      {
+        "token": "μιλήσουν",
+        "signature": "ήιλμνοσυ",
+        "length": 8
+      },
+      {
+        "token": "μπάσκετ",
+        "signature": "άεκμπστ",
+        "length": 7
+      },
+      {
+        "token": "μπάσταρδος",
+        "signature": "αάδμοπρσςτ",
+        "length": 10
+      },
+      {
+        "token": "μπήκαν",
+        "signature": "αήκμνπ",
+        "length": 6
+      },
+      {
+        "token": "μωρού",
+        "signature": "μορύω",
+        "length": 5
+      },
+      {
+        "token": "νεκροταφείο",
+        "signature": "αείκνορτφ",
+        "length": 11
+      },
+      {
+        "token": "νικήσουμε",
+        "signature": "εήικμνοσυ",
+        "length": 9
+      },
+      {
+        "token": "νοιώθεις",
+        "signature": "εθινοςώ",
+        "length": 8
+      },
+      {
+        "token": "νύχτας",
+        "signature": "ανςτύχ",
+        "length": 6
+      },
+      {
+        "token": "ξεκινά",
+        "signature": "άεικνξ",
+        "length": 6
+      },
+      {
+        "token": "ξυπνήσεις",
+        "signature": "εήινξπσςυ",
+        "length": 9
+      },
+      {
+        "token": "ξυπνήσω",
+        "signature": "ήνξπσυω",
+        "length": 7
+      },
+      {
+        "token": "οδηγούν",
+        "signature": "γδηνού",
+        "length": 7
+      },
+      {
+        "token": "όμορφες",
+        "signature": "εμοόρςφ",
+        "length": 7
+      },
+      {
+        "token": "όρος",
+        "signature": "οόρς",
+        "length": 4
+      },
+      {
+        "token": "παγκόσμιο",
+        "signature": "αγικμοόπσ",
+        "length": 9
+      },
+      {
+        "token": "πάθεις",
+        "signature": "άεθιπς",
+        "length": 6
+      },
+      {
+        "token": "παντρεύτηκα",
+        "signature": "αεηκνπρτύ",
+        "length": 11
+      },
+      {
+        "token": "παραγγελία",
+        "signature": "αγείλπρ",
+        "length": 10
+      },
+      {
+        "token": "παρόμοιο",
+        "signature": "αιμοόπρ",
+        "length": 8
+      },
+      {
+        "token": "πεθαίνεις",
+        "signature": "αεθιίνπς",
+        "length": 9
+      },
+      {
+        "token": "πείσεις",
+        "signature": "ειίπσς",
+        "length": 7
+      },
+      {
+        "token": "πινακίδα",
+        "signature": "αδιίκνπ",
+        "length": 8
+      },
+      {
+        "token": "πλεονέκτημα",
+        "signature": "αεέηκλμνοπτ",
+        "length": 11
+      },
+      {
+        "token": "πληρώνεις",
+        "signature": "εηιλνπρςώ",
+        "length": 9
+      },
+      {
+        "token": "πλήρωσα",
+        "signature": "αήλπρσω",
+        "length": 7
+      },
+      {
+        "token": "πνεύματα",
+        "signature": "αεμνπτύ",
+        "length": 8
+      },
+      {
+        "token": "πόκερ",
+        "signature": "εκόπρ",
+        "length": 5
+      },
+      {
+        "token": "πονάς",
+        "signature": "άνοπς",
+        "length": 5
+      },
+      {
+        "token": "πουλάς",
+        "signature": "άλοπςυ",
+        "length": 6
+      },
+      {
+        "token": "πρόοδο",
+        "signature": "δοόπρ",
+        "length": 6
+      },
+      {
+        "token": "προτείνεις",
+        "signature": "ειίνοπρςτ",
+        "length": 10
+      },
+      {
+        "token": "προφορά",
+        "signature": "άοπρφ",
+        "length": 7
+      },
+      {
+        "token": "πυροβολήθηκε",
+        "signature": "βεηήθκλοπρυ",
+        "length": 12
+      },
+      {
+        "token": "ρωτάει",
+        "signature": "άειρτω",
+        "length": 6
+      },
+      {
+        "token": "σελίδες",
+        "signature": "δείλσς",
+        "length": 7
+      },
+      {
+        "token": "σημαίνουν",
+        "signature": "αηίμνοσυ",
+        "length": 9
+      },
+      {
+        "token": "σκανδάλη",
+        "signature": "αάδηκλνσ",
+        "length": 8
+      },
+      {
+        "token": "σούπερμαν",
+        "signature": "αεμνοπρσύ",
+        "length": 9
+      },
+      {
+        "token": "σπασμένο",
+        "signature": "αέμνοπσ",
+        "length": 8
+      },
+      {
+        "token": "σταθερή",
+        "signature": "αεήθρστ",
+        "length": 7
+      },
+      {
+        "token": "στείλτε",
+        "signature": "είλστ",
+        "length": 7
+      },
+      {
+        "token": "στολές",
+        "signature": "έλοσςτ",
+        "length": 6
+      },
+      {
+        "token": "συγκεντρώσου",
+        "signature": "γεκνορστυώ",
+        "length": 12
+      },
+      {
+        "token": "συμπτώματα",
+        "signature": "αμπστυώ",
+        "length": 10
+      },
+      {
+        "token": "συνέδριο",
+        "signature": "δέινορσυ",
+        "length": 8
+      },
+      {
+        "token": "συνεχίζεται",
+        "signature": "αεζιίνστυχ",
+        "length": 11
+      },
+      {
+        "token": "συντεταγμένες",
+        "signature": "αγεέμνσςτυ",
+        "length": 13
+      },
+      {
+        "token": "τάξης",
+        "signature": "άηξςτ",
+        "length": 5
+      },
+      {
+        "token": "τελείωνε",
+        "signature": "είλντω",
+        "length": 8
+      },
+      {
+        "token": "τελικό",
+        "signature": "εικλότ",
+        "length": 6
+      },
+      {
+        "token": "τέτοιος",
+        "signature": "έιοςτ",
+        "length": 7
+      },
+      {
+        "token": "τζούνιορ",
+        "signature": "ζινορτύ",
+        "length": 8
+      },
+      {
+        "token": "τόπος",
+        "signature": "οόπςτ",
+        "length": 5
+      },
+      {
+        "token": "τραγωδία",
+        "signature": "αγδίρτω",
+        "length": 8
+      },
+      {
+        "token": "τρέχω",
+        "signature": "έρτχω",
+        "length": 5
+      },
+      {
+        "token": "τρύπες",
+        "signature": "επρςτύ",
+        "length": 6
+      },
+      {
+        "token": "τσούλα",
+        "signature": "αλοστύ",
+        "length": 6
+      },
+      {
+        "token": "υπολογιστές",
+        "signature": "γέιλοπσςτυ",
+        "length": 11
+      },
+      {
+        "token": "υπουργός",
+        "signature": "γοόπρςυ",
+        "length": 8
+      },
+      {
+        "token": "φορέσεις",
+        "signature": "εέιορσςφ",
+        "length": 8
+      },
+      {
+        "token": "φρικιό",
+        "signature": "ικόρφ",
+        "length": 6
+      },
+      {
+        "token": "φυσιολογική",
+        "signature": "γήικλοσυφ",
+        "length": 11
+      },
+      {
+        "token": "χάθηκαν",
+        "signature": "αάηθκνχ",
+        "length": 7
+      },
+      {
+        "token": "χάπι",
+        "signature": "άιπχ",
+        "length": 4
+      },
+      {
+        "token": "χάσιμο",
+        "signature": "άιμοσχ",
+        "length": 6
+      },
+      {
+        "token": "χήρα",
+        "signature": "αήρχ",
+        "length": 4
+      },
+      {
+        "token": "χουμε",
+        "signature": "εμουχ",
+        "length": 5
+      },
+      {
+        "token": "χρειαστείτε",
+        "signature": "αειίρστχ",
+        "length": 11
+      },
+      {
+        "token": "χρήματά",
+        "signature": "αάήμρτχ",
+        "length": 7
+      },
+      {
+        "token": "χρησιμοποιούμε",
+        "signature": "εηιμοπρσύχ",
+        "length": 14
+      },
+      {
+        "token": "χρυσή",
+        "signature": "ήρσυχ",
+        "length": 5
+      },
+      {
+        "token": "χτυπήθηκε",
+        "signature": "εηήθκπτυχ",
+        "length": 9
+      },
+      {
+        "token": "χυμό",
+        "signature": "μόυχ",
+        "length": 4
+      },
+      {
+        "token": "χώρες",
+        "signature": "ερςχώ",
+        "length": 5
+      },
+      {
+        "token": "χωρίσει",
+        "signature": "ειίρσχω",
+        "length": 7
+      },
+      {
+        "token": "ωραίες",
+        "signature": "αείρςω",
+        "length": 6
+      },
+      {
+        "token": "αγαπημένος",
+        "signature": "αγέημνοπς",
+        "length": 10
+      },
+      {
+        "token": "αγαπούν",
+        "signature": "αγνοπύ",
+        "length": 7
+      },
+      {
+        "token": "αγγίξει",
+        "signature": "αγειίξ",
+        "length": 7
+      },
+      {
+        "token": "αγνοείται",
+        "signature": "αγειίνοτ",
+        "length": 9
+      },
+      {
+        "token": "αγόρασες",
+        "signature": "αγεόρσς",
+        "length": 8
+      },
+      {
+        "token": "αισθήσεις",
+        "signature": "αεήθισς",
+        "length": 9
+      },
+      {
+        "token": "ακίνητοι",
+        "signature": "αηιίκνοτ",
+        "length": 8
+      },
+      {
+        "token": "αμάν",
+        "signature": "αάμν",
+        "length": 4
+      },
+      {
+        "token": "αναγνωρίζω",
+        "signature": "αγζίνρω",
+        "length": 10
+      },
+      {
+        "token": "ανακοίνωση",
+        "signature": "αηίκνοσω",
+        "length": 10
+      },
+      {
+        "token": "αναλαμβάνω",
+        "signature": "αάβλμνω",
+        "length": 10
+      },
+      {
+        "token": "άνεμος",
+        "signature": "άεμνος",
+        "length": 6
+      },
+      {
+        "token": "αξίζω",
+        "signature": "αζίξω",
+        "length": 5
+      },
+      {
+        "token": "απευθείας",
+        "signature": "αεθίπςυ",
+        "length": 9
+      },
+      {
+        "token": "αποδεικνύει",
+        "signature": "αδεικνοπύ",
+        "length": 11
+      },
+      {
+        "token": "αποφασίσαμε",
+        "signature": "αείμοπσφ",
+        "length": 11
+      },
+      {
+        "token": "αρνητικό",
+        "signature": "αηικνόρτ",
+        "length": 8
+      },
+      {
+        "token": "αρχαία",
+        "signature": "αίρχ",
+        "length": 6
+      },
+      {
+        "token": "αρχιφύλακα",
+        "signature": "αικλρύφχ",
+        "length": 10
+      },
+      {
+        "token": "αυγή",
+        "signature": "αγήυ",
+        "length": 4
+      },
+      {
+        "token": "αφήνετε",
+        "signature": "αεήντφ",
+        "length": 7
+      },
+      {
+        "token": "βαλίτσες",
+        "signature": "αβείλσςτ",
+        "length": 8
+      },
+      {
+        "token": "βιάζεσαι",
+        "signature": "αάβεζισ",
+        "length": 8
+      },
+      {
+        "token": "βιαστούμε",
+        "signature": "αβειμοστύ",
+        "length": 9
+      },
+      {
+        "token": "βοηθά",
+        "signature": "άβηθο",
+        "length": 5
+      },
+      {
+        "token": "βοήθα",
+        "signature": "αβήθο",
+        "length": 5
+      },
+      {
+        "token": "βρέχει",
+        "signature": "βεέιρχ",
+        "length": 6
+      },
+      {
+        "token": "βρίσκουμε",
+        "signature": "βείκμορσυ",
+        "length": 9
+      },
+      {
+        "token": "γενιά",
+        "signature": "άγειν",
+        "length": 5
+      },
+      {
+        "token": "γεννηθεί",
+        "signature": "γεηθίν",
+        "length": 8
+      },
+      {
+        "token": "γιατρούς",
+        "signature": "αγιορςτύ",
+        "length": 8
+      },
+      {
+        "token": "γκόμενες",
+        "signature": "γεκμνός",
+        "length": 8
+      },
+      {
+        "token": "γνωριζόμαστε",
+        "signature": "αγεζιμνόρστω",
+        "length": 12
+      },
+      {
+        "token": "γουστάρει",
+        "signature": "άγειορστυ",
+        "length": 9
+      },
+      {
+        "token": "γυναικεία",
+        "signature": "αγειίκνυ",
+        "length": 9
+      },
+      {
+        "token": "γυρίζω",
+        "signature": "γζίρυω",
+        "length": 6
+      },
+      {
+        "token": "γυρίσουν",
+        "signature": "γίνορσυ",
+        "length": 8
+      },
+      {
+        "token": "δαίμονα",
+        "signature": "αδίμνο",
+        "length": 7
+      },
+      {
+        "token": "δανειστώ",
+        "signature": "αδεινστώ",
+        "length": 8
+      },
+      {
+        "token": "δέχεται",
+        "signature": "αδεέιτχ",
+        "length": 7
+      },
+      {
+        "token": "δέχτηκε",
+        "signature": "δεέηκτχ",
+        "length": 7
+      },
+      {
+        "token": "δημιουργία",
+        "signature": "αγδηιίμορυ",
+        "length": 10
+      },
+      {
+        "token": "δημόσιο",
+        "signature": "δηιμοόσ",
+        "length": 7
+      },
+      {
+        "token": "δοκιμασία",
+        "signature": "αδιίκμοσ",
+        "length": 9
+      },
+      {
+        "token": "δολάριο",
+        "signature": "άδιλορ",
+        "length": 7
+      },
+      {
+        "token": "δολαρίων",
+        "signature": "αδίλνορω",
+        "length": 8
+      },
+      {
+        "token": "δώσαμε",
+        "signature": "αδεμσώ",
+        "length": 6
+      },
+      {
+        "token": "έδειχνε",
+        "signature": "δεέινχ",
+        "length": 7
+      },
+      {
+        "token": "ειδικές",
+        "signature": "δεέικς",
+        "length": 7
+      },
+      {
+        "token": "εκδήλωση",
+        "signature": "δεηήκλσω",
+        "length": 8
+      },
+      {
+        "token": "έλαβε",
+        "signature": "αβεέλ",
+        "length": 5
+      },
+      {
+        "token": "ένεση",
+        "signature": "εέηνσ",
+        "length": 5
+      },
+      {
+        "token": "εννοούσε",
+        "signature": "ενοσύ",
+        "length": 8
+      },
+      {
+        "token": "εξηγήσει",
+        "signature": "γεηήιξσ",
+        "length": 8
+      },
+      {
+        "token": "εξίσου",
+        "signature": "είξοσυ",
+        "length": 6
+      },
+      {
+        "token": "έπαιζα",
+        "signature": "αέζιπ",
+        "length": 6
+      },
+      {
+        "token": "επηρεάζει",
+        "signature": "άεζηιπρ",
+        "length": 9
+      },
+      {
+        "token": "επιθεωρητή",
+        "signature": "εηήθιπρτω",
+        "length": 10
+      },
+      {
+        "token": "επιστρέψουν",
+        "signature": "εέινοπρστυψ",
+        "length": 11
+      },
+      {
+        "token": "επιτρέπετε",
+        "signature": "εέιπρτ",
+        "length": 10
+      },
+      {
+        "token": "έρευνες",
+        "signature": "εένρςυ",
+        "length": 7
+      },
+      {
+        "token": "έριξα",
+        "signature": "αέιξρ",
+        "length": 5
+      },
+      {
+        "token": "εταιρίας",
+        "signature": "αειίρςτ",
+        "length": 8
+      },
+      {
+        "token": "ευτυχής",
+        "signature": "εήςτυχ",
+        "length": 7
+      },
+      {
+        "token": "έχασαν",
+        "signature": "αένσχ",
+        "length": 6
+      },
+      {
+        "token": "ζεστή",
+        "signature": "εζήστ",
+        "length": 5
+      },
+      {
+        "token": "ζηλεύω",
+        "signature": "εζηλύω",
+        "length": 6
+      },
+      {
+        "token": "ζούγκλα",
+        "signature": "αγζκλού",
+        "length": 7
+      },
+      {
+        "token": "θαύματα",
+        "signature": "αθμτύ",
+        "length": 7
+      },
+      {
+        "token": "θέληση",
+        "signature": "έηθλσ",
+        "length": 6
+      },
+      {
+        "token": "καθίσω",
+        "signature": "αθίκσω",
+        "length": 6
+      },
+      {
+        "token": "καθόμαστε",
+        "signature": "αεθκμόστ",
+        "length": 9
+      },
+      {
+        "token": "καθυστέρηση",
+        "signature": "αέηθκρστυ",
+        "length": 11
+      },
+      {
+        "token": "καλέσατε",
+        "signature": "αεέκλστ",
+        "length": 8
+      },
+      {
+        "token": "καλύπτει",
+        "signature": "αεικλπτύ",
+        "length": 8
+      },
+      {
+        "token": "κανενός",
+        "signature": "αεκνός",
+        "length": 7
+      },
+      {
+        "token": "κανόνισε",
+        "signature": "αεικνόσ",
+        "length": 8
+      },
+      {
+        "token": "κανονίσουμε",
+        "signature": "αείκμνοσυ",
+        "length": 11
+      },
+      {
+        "token": "κατανόηση",
+        "signature": "αηκνόστ",
+        "length": 9
+      },
+      {
+        "token": "καυγά",
+        "signature": "αάγκυ",
+        "length": 5
+      },
+      {
+        "token": "κέρδη",
+        "signature": "δέηκρ",
+        "length": 5
+      },
+      {
+        "token": "κινδύνου",
+        "signature": "δικνουύ",
+        "length": 8
+      },
+      {
+        "token": "κίτρινο",
+        "signature": "ιίκνορτ",
+        "length": 7
+      },
+      {
+        "token": "κληρονομιά",
+        "signature": "άηικλμνορ",
+        "length": 10
+      },
+      {
+        "token": "κουράστηκα",
+        "signature": "αάηκορστυ",
+        "length": 10
+      },
+      {
+        "token": "κράτησα",
+        "signature": "αάηκρστ",
+        "length": 7
+      },
+      {
+        "token": "κρύψει",
+        "signature": "εικρύψ",
+        "length": 6
+      },
+      {
+        "token": "κυβέρνησης",
+        "signature": "βέηκνρσςυ",
+        "length": 10
+      },
+      {
+        "token": "κύματα",
+        "signature": "ακμτύ",
+        "length": 6
+      },
+      {
+        "token": "λαμβάνεις",
+        "signature": "αάβειλμνς",
+        "length": 9
+      },
+      {
+        "token": "λεγες",
+        "signature": "γελς",
+        "length": 5
+      },
+      {
+        "token": "λειτουργήσει",
+        "signature": "γεήιλορστυ",
+        "length": 12
+      },
+      {
+        "token": "λείψεις",
+        "signature": "ειίλςψ",
+        "length": 7
+      },
+      {
+        "token": "μασάζ",
+        "signature": "αάζμσ",
+        "length": 5
+      },
+      {
+        "token": "μένουμε",
+        "signature": "εέμνου",
+        "length": 7
+      },
+      {
+        "token": "μήνυμά",
+        "signature": "άήμνυ",
+        "length": 6
+      },
+      {
+        "token": "μίλι",
+        "signature": "ιίλμ",
+        "length": 4
+      },
+      {
+        "token": "μιλούσες",
+        "signature": "ειλμοσςύ",
+        "length": 8
+      },
+      {
+        "token": "μιλώ",
+        "signature": "ιλμώ",
+        "length": 4
+      },
+      {
+        "token": "μισούν",
+        "signature": "ιμνοσύ",
+        "length": 6
+      },
+      {
+        "token": "μοτέλ",
+        "signature": "έλμοτ",
+        "length": 5
+      },
+      {
+        "token": "μούρη",
+        "signature": "ημορύ",
+        "length": 5
+      },
+      {
+        "token": "μπελάς",
+        "signature": "άελμπς",
+        "length": 6
+      },
+      {
+        "token": "μωρέ",
+        "signature": "έμρω",
+        "length": 4
+      },
+      {
+        "token": "νέου",
+        "signature": "ένου",
+        "length": 4
+      },
+      {
+        "token": "νόστιμο",
+        "signature": "ιμνοόστ",
+        "length": 7
+      },
+      {
+        "token": "ξαναδείς",
+        "signature": "αδείνξς",
+        "length": 8
+      },
+      {
+        "token": "ξεκουραστείς",
+        "signature": "αείκξορσςτυ",
+        "length": 12
+      },
+      {
+        "token": "οδηγήσεις",
+        "signature": "γδεηήιοσς",
+        "length": 9
+      },
+      {
+        "token": "οδηγούσε",
+        "signature": "γδεηοσύ",
+        "length": 8
+      },
+      {
+        "token": "οξυγόνο",
+        "signature": "γνξοόυ",
+        "length": 7
+      },
+      {
+        "token": "όποιο",
+        "signature": "ιοόπ",
+        "length": 5
+      },
+      {
+        "token": "όργανο",
+        "signature": "αγνοόρ",
+        "length": 6
+      },
+      {
+        "token": "παιχνιδιού",
+        "signature": "αδινοπύχ",
+        "length": 10
+      },
+      {
+        "token": "παναγία",
+        "signature": "αγίνπ",
+        "length": 7
+      },
+      {
+        "token": "παραδεχτώ",
+        "signature": "αδεπρτχώ",
+        "length": 9
+      },
+      {
+        "token": "πάτα",
+        "signature": "αάπτ",
+        "length": 4
+      },
+      {
+        "token": "πείνα",
+        "signature": "αείνπ",
+        "length": 5
+      },
+      {
+        "token": "πειράξει",
+        "signature": "άειξπρ",
+        "length": 8
+      },
+      {
+        "token": "περιέργεια",
+        "signature": "αγεέιπρ",
+        "length": 10
+      },
+      {
+        "token": "περιοχής",
+        "signature": "εήιοπρςχ",
+        "length": 8
+      },
+      {
+        "token": "περνάνε",
+        "signature": "άενπρ",
+        "length": 7
+      },
+      {
+        "token": "πιάνω",
+        "signature": "άινπω",
+        "length": 5
+      },
+      {
+        "token": "πισινό",
+        "signature": "ινόπσ",
+        "length": 6
+      },
+      {
+        "token": "πολεμήσουμε",
+        "signature": "εήλμοπσυ",
+        "length": 11
+      },
+      {
+        "token": "πολίτης",
+        "signature": "ηίλοπςτ",
+        "length": 7
+      },
+      {
+        "token": "πουλήσεις",
+        "signature": "εήιλοπσςυ",
+        "length": 9
+      },
+      {
+        "token": "προσεκτικός",
+        "signature": "εικοόπρσςτ",
+        "length": 11
+      },
+      {
+        "token": "προσπάθησαν",
+        "signature": "αάηθνοπρσ",
+        "length": 11
+      },
+      {
+        "token": "προστατεύσω",
+        "signature": "αεοπρστύω",
+        "length": 11
+      },
+      {
+        "token": "προσώπου",
+        "signature": "οπρσυώ",
+        "length": 8
+      },
+      {
+        "token": "πρωτάθλημα",
+        "signature": "αάηθλμπρτω",
+        "length": 10
+      },
+      {
+        "token": "πρώτης",
+        "signature": "ηπρςτώ",
+        "length": 6
+      },
+      {
+        "token": "πρωτόκολλο",
+        "signature": "κλοόπρτω",
+        "length": 10
+      },
+      {
+        "token": "πτέρυγα",
+        "signature": "αγέπρτυ",
+        "length": 7
+      },
+      {
+        "token": "σαφής",
+        "signature": "αήσςφ",
+        "length": 5
+      },
+      {
+        "token": "σηκώστε",
+        "signature": "εηκστώ",
+        "length": 7
+      },
+      {
+        "token": "σημερινή",
+        "signature": "εηήιμνρσ",
+        "length": 8
+      },
+      {
+        "token": "σκεφτόμαστε",
+        "signature": "αεκμόστφ",
+        "length": 11
+      },
+      {
+        "token": "σπάει",
+        "signature": "άειπσ",
+        "length": 5
+      },
+      {
+        "token": "σταθμός",
+        "signature": "αθμόσςτ",
+        "length": 7
+      },
+      {
+        "token": "σταμάτησες",
+        "signature": "αάεημσςτ",
+        "length": 10
+      },
+      {
+        "token": "στέλνουν",
+        "signature": "έλνοστυ",
+        "length": 8
+      },
+      {
+        "token": "σύγκρουση",
+        "signature": "γηκορσυύ",
+        "length": 9
+      },
+      {
+        "token": "συνείδηση",
+        "signature": "δεηίνσυ",
+        "length": 9
+      },
+      {
+        "token": "συνεχίζεις",
+        "signature": "εζιίνσςυχ",
+        "length": 10
+      },
+      {
+        "token": "συνηθισμένη",
+        "signature": "έηθιμνσυ",
+        "length": 11
+      },
+      {
+        "token": "σύνταξη",
+        "signature": "αηνξστύ",
+        "length": 7
+      },
+      {
+        "token": "σχεδίου",
+        "signature": "δείοσυχ",
+        "length": 7
+      },
+      {
+        "token": "σχοινί",
+        "signature": "ιίνοσχ",
+        "length": 6
+      },
+      {
+        "token": "ταγματάρχη",
+        "signature": "αάγημρτχ",
+        "length": 10
+      },
+      {
+        "token": "τελευταίους",
+        "signature": "αείλοςτυ",
+        "length": 11
+      },
+      {
+        "token": "τιμές",
+        "signature": "έιμςτ",
+        "length": 5
+      },
+      {
+        "token": "τιμής",
+        "signature": "ήιμςτ",
+        "length": 5
+      },
+      {
+        "token": "τολμήσεις",
+        "signature": "εήιλμοσςτ",
+        "length": 9
+      },
+      {
+        "token": "τόνο",
+        "signature": "νοότ",
+        "length": 4
+      },
+      {
+        "token": "τούς",
+        "signature": "οςτύ",
+        "length": 4
+      },
+      {
+        "token": "τραβάς",
+        "signature": "αάβρςτ",
+        "length": 6
+      },
+      {
+        "token": "τραβήξω",
+        "signature": "αβήξρτω",
+        "length": 7
+      },
+      {
+        "token": "τραίνο",
+        "signature": "αίνορτ",
+        "length": 6
+      },
+      {
+        "token": "τροχιά",
+        "signature": "άιορτχ",
+        "length": 6
+      },
+      {
+        "token": "τυφλός",
+        "signature": "λόςτυφ",
+        "length": 6
+      },
+      {
+        "token": "τυχαίνει",
+        "signature": "αειίντυχ",
+        "length": 8
+      },
+      {
+        "token": "υπήρξαν",
+        "signature": "αήνξπρυ",
+        "length": 7
+      },
+      {
+        "token": "υπογράψει",
+        "signature": "άγειοπρυψ",
+        "length": 9
+      },
+      {
+        "token": "υπόθεσης",
+        "signature": "εηθόπσςυ",
+        "length": 8
+      },
+      {
+        "token": "υψηλή",
+        "signature": "ηήλυψ",
+        "length": 5
+      },
+      {
+        "token": "φανταζόμουν",
+        "signature": "αζμνοότυφ",
+        "length": 11
+      },
+      {
+        "token": "φανταστικά",
+        "signature": "αάικνστφ",
+        "length": 10
+      },
+      {
+        "token": "φανταστική",
+        "signature": "αήικνστφ",
+        "length": 10
+      },
+      {
+        "token": "φάρσα",
+        "signature": "αάρσφ",
+        "length": 5
+      },
+      {
+        "token": "φέρνουν",
+        "signature": "ένορυφ",
+        "length": 7
+      },
+      {
+        "token": "φιλήσω",
+        "signature": "ήιλσφω",
+        "length": 6
+      },
+      {
+        "token": "φοβήθηκα",
+        "signature": "αβηήθκοφ",
+        "length": 8
+      },
+      {
+        "token": "φούρνο",
+        "signature": "νορύφ",
+        "length": 6
+      },
+      {
+        "token": "φράγκα",
+        "signature": "αάγκρφ",
+        "length": 6
+      },
+      {
+        "token": "φταίξιμο",
+        "signature": "αιίμξοτφ",
+        "length": 8
+      },
+      {
+        "token": "φτιάχνουν",
+        "signature": "άινοτυφχ",
+        "length": 9
+      },
+      {
+        "token": "φύλακες",
+        "signature": "αεκλςύφ",
+        "length": 7
+      },
+      {
+        "token": "φύλλα",
+        "signature": "αλύφ",
+        "length": 5
+      },
+      {
+        "token": "φύσης",
+        "signature": "ησςύφ",
+        "length": 5
+      },
+      {
+        "token": "φωλιά",
+        "signature": "άιλφω",
+        "length": 5
+      },
+      {
+        "token": "χαλί",
+        "signature": "αίλχ",
+        "length": 4
+      },
+      {
+        "token": "χειρότερος",
+        "signature": "ειοόρςτχ",
+        "length": 10
+      },
+      {
+        "token": "χρημάτων",
+        "signature": "άημνρτχω",
+        "length": 8
+      },
+      {
+        "token": "χρυσάφι",
+        "signature": "άιρσυφχ",
+        "length": 7
+      },
+      {
+        "token": "χρώματα",
+        "signature": "αμρτχώ",
+        "length": 7
+      },
+      {
+        "token": "ψάξεις",
+        "signature": "άειξςψ",
+        "length": 6
+      },
+      {
+        "token": "ψεύτικη",
+        "signature": "εηικτύψ",
+        "length": 7
+      },
+      {
+        "token": "ψηλός",
+        "signature": "ηλόςψ",
+        "length": 5
+      },
+      {
+        "token": "αγάπησα",
+        "signature": "αάγηπσ",
+        "length": 7
+      },
+      {
+        "token": "αγελάδα",
+        "signature": "αάγδελ",
+        "length": 7
+      },
+      {
+        "token": "αγοράσουμε",
+        "signature": "αάγεμορσυ",
+        "length": 10
+      },
+      {
+        "token": "άγριο",
+        "signature": "άγιορ",
+        "length": 5
+      },
+      {
+        "token": "αδερφού",
+        "signature": "αδεορύφ",
+        "length": 7
+      },
+      {
+        "token": "ακολούθησα",
+        "signature": "αηθκλοσύ",
+        "length": 10
+      },
+      {
+        "token": "ακολουθήσεις",
+        "signature": "αεήθικλοσςυ",
+        "length": 12
+      },
+      {
+        "token": "αλάτι",
+        "signature": "αάιλτ",
+        "length": 5
+      },
+      {
+        "token": "αλυσίδα",
+        "signature": "αδίλσυ",
+        "length": 7
+      },
+      {
+        "token": "άμμο",
+        "signature": "άμο",
+        "length": 4
+      },
+      {
+        "token": "αναλάβεις",
+        "signature": "αάβειλνς",
+        "length": 9
+      },
+      {
+        "token": "ανάμνηση",
+        "signature": "αάημνσ",
+        "length": 8
+      },
+      {
+        "token": "αναπνέει",
+        "signature": "αεέινπ",
+        "length": 8
+      },
+      {
+        "token": "ανέλαβε",
+        "signature": "αβεέλν",
+        "length": 7
+      },
+      {
+        "token": "ανέφερα",
+        "signature": "αεένρφ",
+        "length": 7
+      },
+      {
+        "token": "ανέφερες",
+        "signature": "αεένρςφ",
+        "length": 8
+      },
+      {
+        "token": "ανήκω",
+        "signature": "αήκνω",
+        "length": 5
+      },
+      {
+        "token": "ανησυχία",
+        "signature": "αηίνσυχ",
+        "length": 8
+      },
+      {
+        "token": "ανησυχούσα",
+        "signature": "αηνοσυύχ",
+        "length": 10
+      },
+      {
+        "token": "ανθρώπινα",
+        "signature": "αθινπρώ",
+        "length": 9
+      },
+      {
+        "token": "ανόητε",
+        "signature": "αεηνότ",
+        "length": 6
+      },
+      {
+        "token": "άνοιξη",
+        "signature": "άηινξο",
+        "length": 6
+      },
+      {
+        "token": "απαντάει",
+        "signature": "αάεινπτ",
+        "length": 8
+      },
+      {
+        "token": "απαντάς",
+        "signature": "αάνπςτ",
+        "length": 7
+      },
+      {
+        "token": "απόφασή",
+        "signature": "αήόπσφ",
+        "length": 7
+      },
+      {
+        "token": "αποφασίσω",
+        "signature": "αίοπσφω",
+        "length": 9
+      },
+      {
+        "token": "αργήσεις",
+        "signature": "αγεήιρσς",
+        "length": 8
+      },
+      {
+        "token": "αρχής",
+        "signature": "αήρςχ",
+        "length": 5
+      },
+      {
+        "token": "άρχισες",
+        "signature": "άειρσςχ",
+        "length": 7
+      },
+      {
+        "token": "αυγό",
+        "signature": "αγόυ",
+        "length": 4
+      },
+      {
+        "token": "αυτοκρατορία",
+        "signature": "αίκορτυ",
+        "length": 12
+      },
+      {
+        "token": "βάζουμε",
+        "signature": "άβεζμου",
+        "length": 7
+      },
+      {
+        "token": "βάλαμε",
+        "signature": "αάβελμ",
+        "length": 6
+      },
+      {
+        "token": "βότκα",
+        "signature": "αβκότ",
+        "length": 5
+      },
+      {
+        "token": "γέλιο",
+        "signature": "γέιλο",
+        "length": 5
+      },
+      {
+        "token": "γούστο",
+        "signature": "γοστύ",
+        "length": 6
+      },
+      {
+        "token": "γράψε",
+        "signature": "άγερψ",
+        "length": 5
+      },
+      {
+        "token": "γρηγορότερα",
+        "signature": "αγεηοόρτ",
+        "length": 11
+      },
+      {
+        "token": "δάνειο",
+        "signature": "άδεινο",
+        "length": 6
+      },
+      {
+        "token": "δεσμό",
+        "signature": "δεμόσ",
+        "length": 5
+      },
+      {
+        "token": "δέχεσαι",
+        "signature": "αδεέισχ",
+        "length": 7
+      },
+      {
+        "token": "δεχτείς",
+        "signature": "δείςτχ",
+        "length": 7
+      },
+      {
+        "token": "διάλεξες",
+        "signature": "άδειλξς",
+        "length": 8
+      },
+      {
+        "token": "διπλά",
+        "signature": "άδιλπ",
+        "length": 5
+      },
+      {
+        "token": "διπλή",
+        "signature": "δήιλπ",
+        "length": 5
+      },
+      {
+        "token": "δίωξη",
+        "signature": "δηίξω",
+        "length": 5
+      },
+      {
+        "token": "δουλεύετε",
+        "signature": "δελοτυύ",
+        "length": 9
+      },
+      {
+        "token": "δρα",
+        "signature": "αδρ",
+        "length": 3
+      },
+      {
+        "token": "δραστηριότητα",
+        "signature": "αδηιόρστ",
+        "length": 13
+      },
+      {
+        "token": "δρόμοι",
+        "signature": "διμοόρ",
+        "length": 6
+      },
+      {
+        "token": "δωματίου",
+        "signature": "αδίμοτυω",
+        "length": 8
+      },
+      {
+        "token": "έβαζε",
+        "signature": "αβεέζ",
+        "length": 5
+      },
+      {
+        "token": "έβγαινε",
+        "signature": "αβγεέιν",
+        "length": 7
+      },
+      {
+        "token": "έγραφε",
+        "signature": "αγεέρφ",
+        "length": 6
+      },
+      {
+        "token": "εκδοχή",
+        "signature": "δεήκοχ",
+        "length": 6
+      },
+      {
+        "token": "ελέγξτε",
+        "signature": "γεέλξτ",
+        "length": 7
+      },
+      {
+        "token": "έμενα",
+        "signature": "αεέμν",
+        "length": 5
+      },
+      {
+        "token": "εμετό",
+        "signature": "εμότ",
+        "length": 5
+      },
+      {
+        "token": "ενημέρωσε",
+        "signature": "εέημνρσω",
+        "length": 9
+      },
+      {
+        "token": "ενοχλητικό",
+        "signature": "εηικλνοότχ",
+        "length": 10
+      },
+      {
+        "token": "εντοπίσουμε",
+        "signature": "είμνοπστυ",
+        "length": 11
+      },
+      {
+        "token": "εξαφάνιση",
+        "signature": "αάεηινξσφ",
+        "length": 9
+      },
+      {
+        "token": "εξαφανίστηκαν",
+        "signature": "αεηίκνξστφ",
+        "length": 13
+      },
+      {
+        "token": "επαφές",
+        "signature": "αεέπςφ",
+        "length": 6
+      },
+      {
+        "token": "επιβάτες",
+        "signature": "άβειπςτ",
+        "length": 8
+      },
+      {
+        "token": "επισκέψεις",
+        "signature": "εέικπσςψ",
+        "length": 10
+      },
+      {
+        "token": "επόμενα",
+        "signature": "αεμνόπ",
+        "length": 7
+      },
+      {
+        "token": "ετοιμάσω",
+        "signature": "άειμοστω",
+        "length": 8
+      },
+      {
+        "token": "ευγενικά",
+        "signature": "άγεικνυ",
+        "length": 8
+      },
+      {
+        "token": "ευχαριστημένος",
+        "signature": "αεέηιμνορσςτυχ",
+        "length": 14
+      },
+      {
+        "token": "ζήσουν",
+        "signature": "ζήνοσυ",
+        "length": 6
+      },
+      {
+        "token": "ηθική",
+        "signature": "ηήθικ",
+        "length": 5
+      },
+      {
+        "token": "θλιβερό",
+        "signature": "βεθιλόρ",
+        "length": 7
+      },
+      {
+        "token": "θρόνο",
+        "signature": "θνοόρ",
+        "length": 5
+      },
+      {
+        "token": "θυμηθείς",
+        "signature": "εηθίμςυ",
+        "length": 8
+      },
+      {
+        "token": "θυμώσει",
+        "signature": "εθιμσυώ",
+        "length": 7
+      },
+      {
+        "token": "ιδιαίτερη",
+        "signature": "αδεηιίρτ",
+        "length": 9
+      },
+      {
+        "token": "ιδιοκτήτη",
+        "signature": "δηήικοτ",
+        "length": 9
+      },
+      {
+        "token": "καθάρισε",
+        "signature": "αάεθικρσ",
+        "length": 8
+      },
+      {
+        "token": "κακία",
+        "signature": "αίκ",
+        "length": 5
+      },
+      {
+        "token": "καλάθι",
+        "signature": "αάθικλ",
+        "length": 6
+      },
+      {
+        "token": "καμπίνα",
+        "signature": "αίκμνπ",
+        "length": 7
+      },
+      {
+        "token": "κάπτεν",
+        "signature": "άεκνπτ",
+        "length": 6
+      },
+      {
+        "token": "κατάθλιψη",
+        "signature": "αάηθικλτψ",
+        "length": 9
+      },
+      {
+        "token": "καταλήξεις",
+        "signature": "αεήικλξςτ",
+        "length": 10
+      },
+      {
+        "token": "κατάλογο",
+        "signature": "αάγκλοτ",
+        "length": 8
+      },
+      {
+        "token": "κατάστρωμα",
+        "signature": "αάκμρστω",
+        "length": 10
+      },
+      {
+        "token": "κατέστρεψες",
+        "signature": "αεέκρσςτψ",
+        "length": 11
+      },
+      {
+        "token": "καύσιμα",
+        "signature": "αικμσύ",
+        "length": 7
+      },
+      {
+        "token": "κιθάρα",
+        "signature": "αάθικρ",
+        "length": 6
+      },
+      {
+        "token": "κινητά",
+        "signature": "άηικντ",
+        "length": 6
+      },
+      {
+        "token": "κλέβεις",
+        "signature": "βεέικλς",
+        "length": 7
+      },
+      {
+        "token": "κλείνω",
+        "signature": "είκλνω",
+        "length": 6
+      },
+      {
+        "token": "κοιτάζεις",
+        "signature": "άεζικοςτ",
+        "length": 9
+      },
+      {
+        "token": "κοιτάξει",
+        "signature": "άεικξοτ",
+        "length": 8
+      },
+      {
+        "token": "κολιέ",
+        "signature": "έικλο",
+        "length": 5
+      },
+      {
+        "token": "κουνιέσαι",
+        "signature": "αέικνοσυ",
+        "length": 9
+      },
+      {
+        "token": "κρεβατοκάμαρα",
+        "signature": "αάβεκμορτ",
+        "length": 13
+      },
+      {
+        "token": "κρύα",
+        "signature": "ακρύ",
+        "length": 4
+      },
+      {
+        "token": "κρυφό",
+        "signature": "κόρυφ",
+        "length": 5
+      },
+      {
+        "token": "κυρίας",
+        "signature": "αίκρςυ",
+        "length": 6
+      },
+      {
+        "token": "λάσπη",
+        "signature": "άηλπσ",
+        "length": 5
+      },
+      {
+        "token": "λίγοι",
+        "signature": "γιίλο",
+        "length": 5
+      },
+      {
+        "token": "λουλούδι",
+        "signature": "διλουύ",
+        "length": 8
+      },
+      {
+        "token": "λοχίας",
+        "signature": "αίλοςχ",
+        "length": 6
+      },
+      {
+        "token": "λυπηρό",
+        "signature": "ηλόπρυ",
+        "length": 6
+      },
+      {
+        "token": "μακρύ",
+        "signature": "ακμρύ",
+        "length": 5
+      },
+      {
+        "token": "μεγάλης",
+        "signature": "άγεηλμς",
+        "length": 7
+      },
+      {
+        "token": "μέλιτος",
+        "signature": "έιλμοςτ",
+        "length": 7
+      },
+      {
+        "token": "μέρας",
+        "signature": "αέμρς",
+        "length": 5
+      },
+      {
+        "token": "μετοχές",
+        "signature": "εέμοςτχ",
+        "length": 7
+      },
+      {
+        "token": "μηνών",
+        "signature": "ημνώ",
+        "length": 5
+      },
+      {
+        "token": "μόδας",
+        "signature": "αδμός",
+        "length": 5
+      },
+      {
+        "token": "μουνί",
+        "signature": "ίμνου",
+        "length": 5
+      },
+      {
+        "token": "μπουφάν",
+        "signature": "άμνοπυφ",
+        "length": 7
+      },
+      {
+        "token": "μυρίζεις",
+        "signature": "εζιίμρςυ",
+        "length": 8
+      },
+      {
+        "token": "νικήσεις",
+        "signature": "εήικνσς",
+        "length": 8
+      },
+      {
+        "token": "ξανακούσει",
+        "signature": "αεικνξοσύ",
+        "length": 10
+      },
+      {
+        "token": "ξεκαθαρίσουμε",
+        "signature": "αεθίκμξορσυ",
+        "length": 13
+      },
+      {
+        "token": "ξεκινήσαμε",
+        "signature": "αεήικμνξσ",
+        "length": 10
+      },
+      {
+        "token": "ξεχάστε",
+        "signature": "άεξστχ",
+        "length": 7
+      },
+      {
+        "token": "ξύπνια",
+        "signature": "αινξπύ",
+        "length": 6
+      },
+      {
+        "token": "οδηγώ",
+        "signature": "γδηοώ",
+        "length": 5
+      },
+      {
+        "token": "ομολογία",
+        "signature": "αγίλμο",
+        "length": 8
+      },
+      {
+        "token": "οποίους",
+        "signature": "ίοπςυ",
+        "length": 7
+      },
+      {
+        "token": "όρκο",
+        "signature": "κοόρ",
+        "length": 4
+      },
+      {
+        "token": "οστά",
+        "signature": "άοστ",
+        "length": 4
+      },
+      {
+        "token": "παγκόσμια",
+        "signature": "αγικμόπσ",
+        "length": 9
+      },
+      {
+        "token": "παίζετε",
+        "signature": "αεζίπτ",
+        "length": 7
+      },
+      {
+        "token": "παπούτσι",
+        "signature": "αιοπστύ",
+        "length": 8
+      },
+      {
+        "token": "παραδώσω",
+        "signature": "αδπρσωώ",
+        "length": 8
+      },
+      {
+        "token": "παρακολούθησης",
+        "signature": "αηθκλοπρσςύ",
+        "length": 14
+      },
+      {
+        "token": "παραμονή",
+        "signature": "αήμνοπρ",
+        "length": 8
+      },
+      {
+        "token": "παραμύθι",
+        "signature": "αθιμπρύ",
+        "length": 8
+      },
+      {
+        "token": "παρατάς",
+        "signature": "αάπρςτ",
+        "length": 7
+      },
+      {
+        "token": "περιμένοντας",
+        "signature": "αεέιμνοπρςτ",
+        "length": 12
+      },
+      {
+        "token": "περίοδος",
+        "signature": "δείοπρς",
+        "length": 8
+      },
+      {
+        "token": "περνά",
+        "signature": "άενπρ",
+        "length": 5
+      },
+      {
+        "token": "περπατάς",
+        "signature": "αάεπρςτ",
+        "length": 8
+      },
+      {
+        "token": "πετσέτα",
+        "signature": "αεέπστ",
+        "length": 7
+      },
+      {
+        "token": "πήδα",
+        "signature": "αδήπ",
+        "length": 4
+      },
+      {
+        "token": "πιθανή",
+        "signature": "αήθινπ",
+        "length": 6
+      },
+      {
+        "token": "πίπα",
+        "signature": "αίπ",
+        "length": 4
+      },
+      {
+        "token": "πιστωτική",
+        "signature": "ήικπστω",
+        "length": 9
+      },
+      {
+        "token": "πλατεία",
+        "signature": "αείλπτ",
+        "length": 7
+      },
+      {
+        "token": "πληρώσουμε",
+        "signature": "εηλμοπρσυώ",
+        "length": 10
+      },
+      {
+        "token": "πονοκέφαλο",
+        "signature": "αέκλνοπφ",
+        "length": 10
+      },
+      {
+        "token": "ποσότητα",
+        "signature": "αηοόπστ",
+        "length": 8
+      },
+      {
+        "token": "προδότης",
+        "signature": "δηοόπρςτ",
+        "length": 8
+      },
+      {
+        "token": "προπονητή",
+        "signature": "ηήνοπρτ",
+        "length": 9
+      },
+      {
+        "token": "προπονητής",
+        "signature": "ηήνοπρςτ",
+        "length": 10
+      },
+      {
+        "token": "προσέξει",
+        "signature": "εέιξοπρσ",
+        "length": 8
+      },
+      {
+        "token": "προστατέψει",
+        "signature": "αεέιοπρστψ",
+        "length": 11
+      },
+      {
+        "token": "προσωπικού",
+        "signature": "ικοπρσύω",
+        "length": 10
+      },
+      {
+        "token": "πρωταθλητής",
+        "signature": "αηήθλπρςτω",
+        "length": 11
+      },
+      {
+        "token": "πυροβολισμό",
+        "signature": "βιλμοόπρσυ",
+        "length": 11
+      },
+      {
+        "token": "σαιζόν",
+        "signature": "αζινόσ",
+        "length": 6
+      },
+      {
+        "token": "σέβομαι",
+        "signature": "αβέιμοσ",
+        "length": 7
+      },
+      {
+        "token": "σκάφους",
+        "signature": "άκοσςυφ",
+        "length": 7
+      },
+      {
+        "token": "σκέτη",
+        "signature": "έηκστ",
+        "length": 5
+      },
+      {
+        "token": "σκεφτήκαμε",
+        "signature": "αεήκμστφ",
+        "length": 10
+      },
+      {
+        "token": "σκοτώσετε",
+        "signature": "εκοστώ",
+        "length": 9
+      },
+      {
+        "token": "σπάσεις",
+        "signature": "άειπσς",
+        "length": 7
+      },
+      {
+        "token": "σταθερά",
+        "signature": "αάεθρστ",
+        "length": 7
+      },
+      {
+        "token": "σταμάτησαν",
+        "signature": "αάημνστ",
+        "length": 10
+      },
+      {
+        "token": "συλλάβουν",
+        "signature": "άβλνοσυ",
+        "length": 9
+      },
+      {
+        "token": "συμπέρασμα",
+        "signature": "αέμπρσυ",
+        "length": 10
+      },
+      {
+        "token": "συνδέεται",
+        "signature": "αδεέινστυ",
+        "length": 9
+      },
+      {
+        "token": "συνεχίζουμε",
+        "signature": "εζίμνοσυχ",
+        "length": 11
+      },
+      {
+        "token": "σύνολο",
+        "signature": "λνοσύ",
+        "length": 6
+      },
+      {
+        "token": "συστήματος",
+        "signature": "αήμοσςτυ",
+        "length": 10
+      },
+      {
+        "token": "σφιχτά",
+        "signature": "άιστφχ",
+        "length": 6
+      },
+      {
+        "token": "σωλήνα",
+        "signature": "αήλνσω",
+        "length": 6
+      },
+      {
+        "token": "σώσε",
+        "signature": "εσώ",
+        "length": 4
+      },
+      {
+        "token": "ταγματάρχα",
+        "signature": "αάγμρτχ",
+        "length": 10
+      },
+      {
+        "token": "τόσους",
+        "signature": "οόσςτυ",
+        "length": 6
+      },
+      {
+        "token": "τουαλέτες",
+        "signature": "αεέλοςτυ",
+        "length": 9
+      },
+      {
+        "token": "τραβάει",
+        "signature": "αάβειρτ",
+        "length": 7
+      },
+      {
+        "token": "τρομάζει",
+        "signature": "άεζιμορτ",
+        "length": 8
+      },
+      {
+        "token": "τρόφιμα",
+        "signature": "αιμόρτφ",
+        "length": 7
+      },
+      {
+        "token": "τσίρκο",
+        "signature": "ίκορστ",
+        "length": 6
+      },
+      {
+        "token": "υποθέσω",
+        "signature": "έθοπσυω",
+        "length": 7
+      },
+      {
+        "token": "υψηλής",
+        "signature": "ηήλςυψ",
+        "length": 6
+      },
+      {
+        "token": "φαίνεστε",
+        "signature": "αείνστφ",
+        "length": 8
+      },
+      {
+        "token": "φανταστείτε",
+        "signature": "αείνστφ",
+        "length": 11
+      },
+      {
+        "token": "φέρετε",
+        "signature": "εέρτφ",
+        "length": 6
+      },
+      {
+        "token": "φιλαράκια",
+        "signature": "αάικλρφ",
+        "length": 9
+      },
+      {
+        "token": "φιλμ",
+        "signature": "ιλμφ",
+        "length": 4
+      },
+      {
+        "token": "φοβερά",
+        "signature": "άβεορφ",
+        "length": 6
+      },
+      {
+        "token": "φοβόταν",
+        "signature": "αβνοότφ",
+        "length": 7
+      },
+      {
+        "token": "φροντίσουμε",
+        "signature": "είμνορστυφ",
+        "length": 11
+      },
+      {
+        "token": "φρούτα",
+        "signature": "αορτύφ",
+        "length": 6
+      },
+      {
+        "token": "φυτά",
+        "signature": "άτυφ",
+        "length": 4
+      },
+      {
+        "token": "φωτιάς",
+        "signature": "άιςτφω",
+        "length": 6
+      },
+      {
+        "token": "χαίρεσαι",
+        "signature": "αειίρσχ",
+        "length": 8
+      },
+      {
+        "token": "χαρακτήρας",
+        "signature": "αήκρςτχ",
+        "length": 10
+      },
+      {
+        "token": "χαρούμενο",
+        "signature": "αεμνορύχ",
+        "length": 9
+      },
+      {
+        "token": "χοντρό",
+        "signature": "νοόρτχ",
+        "length": 6
+      },
+      {
+        "token": "χρησιμοποίησα",
+        "signature": "αηιίμοπρσχ",
+        "length": 13
+      },
+      {
+        "token": "χρησιμοποίησες",
+        "signature": "εηιίμοπρσςχ",
+        "length": 14
+      },
+      {
+        "token": "χρυσός",
+        "signature": "όρσςυχ",
+        "length": 6
+      },
+      {
+        "token": "χτύπησαν",
+        "signature": "αηνπστύχ",
+        "length": 8
+      },
+      {
+        "token": "ψάξτε",
+        "signature": "άεξτψ",
+        "length": 5
+      },
+      {
+        "token": "ψητό",
+        "signature": "ηότψ",
+        "length": 4
+      },
+      {
+        "token": "άθλια",
+        "signature": "αάθιλ",
+        "length": 5
+      },
+      {
+        "token": "ακαδημία",
+        "signature": "αδηίκμ",
+        "length": 8
+      },
+      {
+        "token": "ακολουθώ",
+        "signature": "αθκλουώ",
+        "length": 8
+      },
+      {
+        "token": "αληθεύει",
+        "signature": "αεηθιλύ",
+        "length": 8
+      },
+      {
+        "token": "άλμα",
+        "signature": "αάλμ",
+        "length": 4
+      }
+    ]
+  }
+}

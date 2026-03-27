@@ -1,0 +1,3626 @@
+{
+  "packId": "latvian:common-words:core",
+  "languageId": "latvian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "būt",
+        "signature": "btū",
+        "length": 3
+      },
+      {
+        "token": "un",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "ar",
+        "signature": "ar",
+        "length": 2
+      },
+      {
+        "token": "tas",
+        "signature": "ast",
+        "length": 3
+      },
+      {
+        "token": "par",
+        "signature": "apr",
+        "length": 3
+      },
+      {
+        "token": "ka",
+        "signature": "ak",
+        "length": 2
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "kas",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "gads",
+        "signature": "adgs",
+        "length": 4
+      },
+      {
+        "token": "arī",
+        "signature": "aīr",
+        "length": 3
+      },
+      {
+        "token": "kā",
+        "signature": "āk",
+        "length": 2
+      },
+      {
+        "token": "uz",
+        "signature": "uz",
+        "length": 2
+      },
+      {
+        "token": "viņš",
+        "signature": "iņšv",
+        "length": 4
+      },
+      {
+        "token": "tikt",
+        "signature": "ikt",
+        "length": 4
+      },
+      {
+        "token": "tā",
+        "signature": "āt",
+        "length": 2
+      },
+      {
+        "token": "varēt",
+        "signature": "aērtv",
+        "length": 5
+      },
+      {
+        "token": "bet",
+        "signature": "bet",
+        "length": 3
+      },
+      {
+        "token": "latvija",
+        "signature": "aijltv",
+        "length": 7
+      },
+      {
+        "token": "vai",
+        "signature": "aiv",
+        "length": 3
+      },
+      {
+        "token": "es",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "šis",
+        "signature": "isš",
+        "length": 3
+      },
+      {
+        "token": "valsts",
+        "signature": "alstv",
+        "length": 6
+      },
+      {
+        "token": "pēc",
+        "signature": "cēp",
+        "length": 3
+      },
+      {
+        "token": "laiks",
+        "signature": "aikls",
+        "length": 5
+      },
+      {
+        "token": "lai",
+        "signature": "ail",
+        "length": 3
+      },
+      {
+        "token": "kurš",
+        "signature": "kršu",
+        "length": 4
+      },
+      {
+        "token": "līdz",
+        "signature": "dīlz",
+        "length": 4
+      },
+      {
+        "token": "mēs",
+        "signature": "ēms",
+        "length": 3
+      },
+      {
+        "token": "gan",
+        "signature": "agn",
+        "length": 3
+      },
+      {
+        "token": "jau",
+        "signature": "aju",
+        "length": 3
+      },
+      {
+        "token": "viens",
+        "signature": "einsv",
+        "length": 5
+      },
+      {
+        "token": "viss",
+        "signature": "isv",
+        "length": 4
+      },
+      {
+        "token": "liels",
+        "signature": "eils",
+        "length": 5
+      },
+      {
+        "token": "darbs",
+        "signature": "abdrs",
+        "length": 5
+      },
+      {
+        "token": "šī",
+        "signature": "īš",
+        "length": 2
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "kura",
+        "signature": "akru",
+        "length": 4
+      },
+      {
+        "token": "daudz",
+        "signature": "aduz",
+        "length": 5
+      },
+      {
+        "token": "viņa",
+        "signature": "aiņv",
+        "length": 4
+      },
+      {
+        "token": "tikai",
+        "signature": "aikt",
+        "length": 5
+      },
+      {
+        "token": "cilvēks",
+        "signature": "cēiklsv",
+        "length": 7
+      },
+      {
+        "token": "jauns",
+        "signature": "ajnsu",
+        "length": 5
+      },
+      {
+        "token": "jo",
+        "signature": "jo",
+        "length": 2
+      },
+      {
+        "token": "rīga",
+        "signature": "agīr",
+        "length": 4
+      },
+      {
+        "token": "vieta",
+        "signature": "aeitv",
+        "length": 5
+      },
+      {
+        "token": "pirmais",
+        "signature": "aimprs",
+        "length": 7
+      },
+      {
+        "token": "sava",
+        "signature": "asv",
+        "length": 4
+      },
+      {
+        "token": "kad",
+        "signature": "adk",
+        "length": 3
+      },
+      {
+        "token": "pie",
+        "signature": "eip",
+        "length": 3
+      },
+      {
+        "token": "vēl",
+        "signature": "ēlv",
+        "length": 3
+      },
+      {
+        "token": "savs",
+        "signature": "asv",
+        "length": 4
+      },
+      {
+        "token": "tad",
+        "signature": "adt",
+        "length": 3
+      },
+      {
+        "token": "bērns",
+        "signature": "bēnrs",
+        "length": 5
+      },
+      {
+        "token": "taču",
+        "signature": "ačtu",
+        "length": 4
+      },
+      {
+        "token": "divi",
+        "signature": "div",
+        "length": 4
+      },
+      {
+        "token": "daļa",
+        "signature": "adļ",
+        "length": 4
+      },
+      {
+        "token": "notikt",
+        "signature": "iknot",
+        "length": 6
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "kāds",
+        "signature": "ādks",
+        "length": 4
+      },
+      {
+        "token": "diena",
+        "signature": "adein",
+        "length": 5
+      },
+      {
+        "token": "ļoti",
+        "signature": "iļot",
+        "length": 4
+      },
+      {
+        "token": "cits",
+        "signature": "cist",
+        "length": 4
+      },
+      {
+        "token": "labs",
+        "signature": "abls",
+        "length": 4
+      },
+      {
+        "token": "pats",
+        "signature": "apst",
+        "length": 4
+      },
+      {
+        "token": "izmantot",
+        "signature": "aimnotz",
+        "length": 8
+      },
+      {
+        "token": "ministrs",
+        "signature": "imnrst",
+        "length": 8
+      },
+      {
+        "token": "kur",
+        "signature": "kru",
+        "length": 3
+      },
+      {
+        "token": "veikt",
+        "signature": "eiktv",
+        "length": 5
+      },
+      {
+        "token": "grupa",
+        "signature": "agpru",
+        "length": 5
+      },
+      {
+        "token": "tomēr",
+        "signature": "ēmort",
+        "length": 5
+      },
+      {
+        "token": "zināt",
+        "signature": "āintz",
+        "length": 5
+      },
+      {
+        "token": "pasaule",
+        "signature": "aelpsu",
+        "length": 7
+      },
+      {
+        "token": "norādīt",
+        "signature": "ādīnort",
+        "length": 7
+      },
+      {
+        "token": "iespēja",
+        "signature": "aeēijps",
+        "length": 7
+      },
+      {
+        "token": "likums",
+        "signature": "iklmsu",
+        "length": 6
+      },
+      {
+        "token": "eiropa",
+        "signature": "aeiopr",
+        "length": 6
+      },
+      {
+        "token": "pret",
+        "signature": "eprt",
+        "length": 4
+      },
+      {
+        "token": "punkts",
+        "signature": "knpstu",
+        "length": 6
+      },
+      {
+        "token": "visa",
+        "signature": "aisv",
+        "length": 4
+      },
+      {
+        "token": "iespējams",
+        "signature": "aeēijmps",
+        "length": 9
+      },
+      {
+        "token": "savukārt",
+        "signature": "aākrstuv",
+        "length": 8
+      },
+      {
+        "token": "pilsēta",
+        "signature": "aēilpst",
+        "length": 7
+      },
+      {
+        "token": "noteikt",
+        "signature": "eiknot",
+        "length": 7
+      },
+      {
+        "token": "gadījums",
+        "signature": "adgījmsu",
+        "length": 8
+      },
+      {
+        "token": "dažāds",
+        "signature": "aādsž",
+        "length": 6
+      },
+      {
+        "token": "komisija",
+        "signature": "aijkmos",
+        "length": 8
+      },
+      {
+        "token": "pa",
+        "signature": "ap",
+        "length": 2
+      },
+      {
+        "token": "sākt",
+        "signature": "ākst",
+        "length": 4
+      },
+      {
+        "token": "pat",
+        "signature": "apt",
+        "length": 3
+      },
+      {
+        "token": "informācija",
+        "signature": "aācfijmnor",
+        "length": 11
+      },
+      {
+        "token": "trīs",
+        "signature": "īrst",
+        "length": 4
+      },
+      {
+        "token": "saņemt",
+        "signature": "aemņst",
+        "length": 6
+      },
+      {
+        "token": "pašvaldība",
+        "signature": "abdīlpšv",
+        "length": 10
+      },
+      {
+        "token": "māja",
+        "signature": "aājm",
+        "length": 4
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "spēle",
+        "signature": "eēlps",
+        "length": 5
+      },
+      {
+        "token": "komanda",
+        "signature": "adkmno",
+        "length": 7
+      },
+      {
+        "token": "ministrija",
+        "signature": "aijmnrst",
+        "length": 10
+      },
+      {
+        "token": "iela",
+        "signature": "aeil",
+        "length": 4
+      },
+      {
+        "token": "uzņēmums",
+        "signature": "ēmņsuz",
+        "length": 8
+      },
+      {
+        "token": "rezultāts",
+        "signature": "āelrstuz",
+        "length": 9
+      },
+      {
+        "token": "novads",
+        "signature": "adnosv",
+        "length": 6
+      },
+      {
+        "token": "otrais",
+        "signature": "aiorst",
+        "length": 6
+      },
+      {
+        "token": "teikt",
+        "signature": "eikt",
+        "length": 5
+      },
+      {
+        "token": "piemērs",
+        "signature": "eēimprs",
+        "length": 7
+      },
+      {
+        "token": "kļūt",
+        "signature": "kļtū",
+        "length": 4
+      },
+      {
+        "token": "pirms",
+        "signature": "imprs",
+        "length": 5
+      },
+      {
+        "token": "paredzēt",
+        "signature": "adeēprtz",
+        "length": 8
+      },
+      {
+        "token": "cita",
+        "signature": "acit",
+        "length": 4
+      },
+      {
+        "token": "vairāki",
+        "signature": "aāikrv",
+        "length": 7
+      },
+      {
+        "token": "sacīt",
+        "signature": "acīst",
+        "length": 5
+      },
+      {
+        "token": "nekā",
+        "signature": "āekn",
+        "length": 4
+      },
+      {
+        "token": "vārds",
+        "signature": "ādrsv",
+        "length": 5
+      },
+      {
+        "token": "noteikums",
+        "signature": "eikmnostu",
+        "length": 9
+      },
+      {
+        "token": "jautājums",
+        "signature": "aājmstu",
+        "length": 9
+      },
+      {
+        "token": "kāda",
+        "signature": "aādk",
+        "length": 4
+      },
+      {
+        "token": "darbība",
+        "signature": "abdīr",
+        "length": 7
+      },
+      {
+        "token": "redzēt",
+        "signature": "deērtz",
+        "length": 6
+      },
+      {
+        "token": "kaut",
+        "signature": "aktu",
+        "length": 4
+      },
+      {
+        "token": "jūs",
+        "signature": "jsū",
+        "length": 3
+      },
+      {
+        "token": "tik",
+        "signature": "ikt",
+        "length": 3
+      },
+      {
+        "token": "dzīve",
+        "signature": "deīvz",
+        "length": 5
+      },
+      {
+        "token": "iegūt",
+        "signature": "egitū",
+        "length": 5
+      },
+      {
+        "token": "atbalstīt",
+        "signature": "abīlst",
+        "length": 9
+      },
+      {
+        "token": "projekts",
+        "signature": "ejkoprst",
+        "length": 8
+      },
+      {
+        "token": "tāpēc",
+        "signature": "ācēpt",
+        "length": 5
+      },
+      {
+        "token": "reize",
+        "signature": "eirz",
+        "length": 5
+      },
+      {
+        "token": "radīt",
+        "signature": "adīrt",
+        "length": 5
+      },
+      {
+        "token": "centrs",
+        "signature": "cenrst",
+        "length": 6
+      },
+      {
+        "token": "persona",
+        "signature": "aenoprs",
+        "length": 7
+      },
+      {
+        "token": "skaits",
+        "signature": "aikst",
+        "length": 6
+      },
+      {
+        "token": "strādāt",
+        "signature": "ādrst",
+        "length": 7
+      },
+      {
+        "token": "krievija",
+        "signature": "aeijkrv",
+        "length": 8
+      },
+      {
+        "token": "bez",
+        "signature": "bez",
+        "length": 3
+      },
+      {
+        "token": "nepieciešams",
+        "signature": "aceimnpsš",
+        "length": 12
+      },
+      {
+        "token": "veids",
+        "signature": "deisv",
+        "length": 5
+      },
+      {
+        "token": "uzskatīt",
+        "signature": "aīkstuz",
+        "length": 8
+      },
+      {
+        "token": "sistēma",
+        "signature": "aēimst",
+        "length": 7
+      },
+      {
+        "token": "lieta",
+        "signature": "aeilt",
+        "length": 5
+      },
+      {
+        "token": "mazs",
+        "signature": "amsz",
+        "length": 4
+      },
+      {
+        "token": "tāds",
+        "signature": "ādst",
+        "length": 4
+      },
+      {
+        "token": "eiro",
+        "signature": "eior",
+        "length": 4
+      },
+      {
+        "token": "spēks",
+        "signature": "ēkps",
+        "length": 5
+      },
+      {
+        "token": "sabiedrība",
+        "signature": "abdeiīrs",
+        "length": 10
+      },
+      {
+        "token": "labi",
+        "signature": "abil",
+        "length": 4
+      },
+      {
+        "token": "attīstība",
+        "signature": "abīst",
+        "length": 9
+      },
+      {
+        "token": "lēmums",
+        "signature": "ēlmsu",
+        "length": 6
+      },
+      {
+        "token": "ceļš",
+        "signature": "ceļš",
+        "length": 4
+      },
+      {
+        "token": "iedzīvotājs",
+        "signature": "ādeiījostvz",
+        "length": 11
+      },
+      {
+        "token": "tagad",
+        "signature": "adgt",
+        "length": 5
+      },
+      {
+        "token": "ģimene",
+        "signature": "eģimn",
+        "length": 6
+      },
+      {
+        "token": "kopā",
+        "signature": "ākop",
+        "length": 4
+      },
+      {
+        "token": "izglītība",
+        "signature": "abgiīltz",
+        "length": 9
+      },
+      {
+        "token": "sevis",
+        "signature": "eisv",
+        "length": 5
+      },
+      {
+        "token": "tāpat",
+        "signature": "aāpt",
+        "length": 5
+      },
+      {
+        "token": "skola",
+        "signature": "aklos",
+        "length": 5
+      },
+      {
+        "token": "puse",
+        "signature": "epsu",
+        "length": 4
+      },
+      {
+        "token": "šāds",
+        "signature": "ādsš",
+        "length": 4
+      },
+      {
+        "token": "augsts",
+        "signature": "agstu",
+        "length": 6
+      },
+      {
+        "token": "saistīt",
+        "signature": "aiīst",
+        "length": 7
+      },
+      {
+        "token": "sieviete",
+        "signature": "eistv",
+        "length": 8
+      },
+      {
+        "token": "vecs",
+        "signature": "cesv",
+        "length": 4
+      },
+      {
+        "token": "pants",
+        "signature": "anpst",
+        "length": 5
+      },
+      {
+        "token": "priekšlikums",
+        "signature": "eiklmprsšu",
+        "length": 12
+      },
+      {
+        "token": "starp",
+        "signature": "aprst",
+        "length": 5
+      },
+      {
+        "token": "veidot",
+        "signature": "deiotv",
+        "length": 6
+      },
+      {
+        "token": "atzīt",
+        "signature": "aītz",
+        "length": 5
+      },
+      {
+        "token": "situācija",
+        "signature": "aācijstu",
+        "length": 9
+      },
+      {
+        "token": "nodrošināt",
+        "signature": "ādinoršt",
+        "length": 10
+      },
+      {
+        "token": "tiesa",
+        "signature": "aeist",
+        "length": 5
+      },
+      {
+        "token": "darīt",
+        "signature": "adīrt",
+        "length": 5
+      },
+      {
+        "token": "domāt",
+        "signature": "ādmot",
+        "length": 5
+      },
+      {
+        "token": "pēdējais",
+        "signature": "adēijps",
+        "length": 8
+      },
+      {
+        "token": "pasākums",
+        "signature": "aākmpsu",
+        "length": 8
+      },
+      {
+        "token": "process",
+        "signature": "ceoprs",
+        "length": 7
+      },
+      {
+        "token": "atrasties",
+        "signature": "aeirst",
+        "length": 9
+      },
+      {
+        "token": "katrs",
+        "signature": "akrst",
+        "length": 5
+      },
+      {
+        "token": "piedalīties",
+        "signature": "adeiīlpst",
+        "length": 11
+      },
+      {
+        "token": "minēt",
+        "signature": "ēimnt",
+        "length": 5
+      },
+      {
+        "token": "zeme",
+        "signature": "emz",
+        "length": 4
+      },
+      {
+        "token": "dzīvot",
+        "signature": "dīotvz",
+        "length": 6
+      },
+      {
+        "token": "vien",
+        "signature": "einv",
+        "length": 4
+      },
+      {
+        "token": "policija",
+        "signature": "acijlop",
+        "length": 8
+      },
+      {
+        "token": "pieņemt",
+        "signature": "eimņpt",
+        "length": 7
+      },
+      {
+        "token": "valoda",
+        "signature": "adlov",
+        "length": 6
+      },
+      {
+        "token": "tieši",
+        "signature": "eišt",
+        "length": 5
+      },
+      {
+        "token": "tiesība",
+        "signature": "abeiīst",
+        "length": 7
+      },
+      {
+        "token": "kultūra",
+        "signature": "aklrtuū",
+        "length": 7
+      },
+      {
+        "token": "tur",
+        "signature": "rtu",
+        "length": 3
+      },
+      {
+        "token": "attiecība",
+        "signature": "abceiīt",
+        "length": 9
+      },
+      {
+        "token": "mēnesis",
+        "signature": "eēimns",
+        "length": 7
+      },
+      {
+        "token": "pētījums",
+        "signature": "ēījmpstu",
+        "length": 8
+      },
+      {
+        "token": "valdība",
+        "signature": "abdīlv",
+        "length": 7
+      },
+      {
+        "token": "līdzeklis",
+        "signature": "deiīklsz",
+        "length": 9
+      },
+      {
+        "token": "daudzi",
+        "signature": "adiuz",
+        "length": 6
+      },
+      {
+        "token": "latvietis",
+        "signature": "aeilstv",
+        "length": 9
+      },
+      {
+        "token": "pakalpojums",
+        "signature": "ajklmopsu",
+        "length": 11
+      },
+      {
+        "token": "saskaņa",
+        "signature": "akņs",
+        "length": 7
+      },
+      {
+        "token": "lats",
+        "signature": "alst",
+        "length": 4
+      },
+      {
+        "token": "miljons",
+        "signature": "ijlmnos",
+        "length": 7
+      },
+      {
+        "token": "veselība",
+        "signature": "abeīlsv",
+        "length": 8
+      },
+      {
+        "token": "nauda",
+        "signature": "adnu",
+        "length": 5
+      },
+      {
+        "token": "spēt",
+        "signature": "ēpst",
+        "length": 4
+      },
+      {
+        "token": "saeima",
+        "signature": "aeims",
+        "length": 6
+      },
+      {
+        "token": "doties",
+        "signature": "deiost",
+        "length": 6
+      },
+      {
+        "token": "atklāt",
+        "signature": "aāklt",
+        "length": 6
+      },
+      {
+        "token": "dome",
+        "signature": "demo",
+        "length": 4
+      },
+      {
+        "token": "finanses",
+        "signature": "aefins",
+        "length": 8
+      },
+      {
+        "token": "sociāls",
+        "signature": "ācilos",
+        "length": 7
+      },
+      {
+        "token": "atrast",
+        "signature": "arst",
+        "length": 6
+      },
+      {
+        "token": "iestāde",
+        "signature": "ādeist",
+        "length": 7
+      },
+      {
+        "token": "īpašums",
+        "signature": "aīmpsšu",
+        "length": 7
+      },
+      {
+        "token": "programma",
+        "signature": "agmopr",
+        "length": 9
+      },
+      {
+        "token": "nu",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "vīrietis",
+        "signature": "eiīrstv",
+        "length": 8
+      },
+      {
+        "token": "līmenis",
+        "signature": "eiīlmns",
+        "length": 7
+      },
+      {
+        "token": "saprast",
+        "signature": "aprst",
+        "length": 7
+      },
+      {
+        "token": "nedēļa",
+        "signature": "adeēļn",
+        "length": 6
+      },
+      {
+        "token": "vajadzēt",
+        "signature": "adējtvz",
+        "length": 8
+      },
+      {
+        "token": "vide",
+        "signature": "deiv",
+        "length": 4
+      },
+      {
+        "token": "prezidents",
+        "signature": "deinprstz",
+        "length": 10
+      },
+      {
+        "token": "vadītājs",
+        "signature": "aādījstv",
+        "length": 8
+      },
+      {
+        "token": "sabiedrisks",
+        "signature": "abdeikrs",
+        "length": 11
+      },
+      {
+        "token": "sniegt",
+        "signature": "eginst",
+        "length": 6
+      },
+      {
+        "token": "iet",
+        "signature": "eit",
+        "length": 3
+      },
+      {
+        "token": "ūdens",
+        "signature": "densū",
+        "length": 5
+      },
+      {
+        "token": "gribēt",
+        "signature": "bēgirt",
+        "length": 6
+      },
+      {
+        "token": "dati",
+        "signature": "adit",
+        "length": 4
+      },
+      {
+        "token": "vēlēties",
+        "signature": "eēilstv",
+        "length": 8
+      },
+      {
+        "token": "dot",
+        "signature": "dot",
+        "length": 3
+      },
+      {
+        "token": "organizācija",
+        "signature": "aācgijnorz",
+        "length": 12
+      },
+      {
+        "token": "stāstīt",
+        "signature": "āīst",
+        "length": 7
+      },
+      {
+        "token": "teritorija",
+        "signature": "aeijort",
+        "length": 10
+      },
+      {
+        "token": "ņemt",
+        "signature": "emņt",
+        "length": 4
+      },
+      {
+        "token": "runāt",
+        "signature": "ānrtu",
+        "length": 5
+      },
+      {
+        "token": "tāda",
+        "signature": "aādt",
+        "length": 4
+      },
+      {
+        "token": "pārstāvis",
+        "signature": "āiprstv",
+        "length": 9
+      },
+      {
+        "token": "kārtība",
+        "signature": "aābīkrt",
+        "length": 7
+      },
+      {
+        "token": "mērķis",
+        "signature": "ēiķmrs",
+        "length": 6
+      },
+      {
+        "token": "aizsardzība",
+        "signature": "abdiīrsz",
+        "length": 11
+      },
+      {
+        "token": "gūt",
+        "signature": "gtū",
+        "length": 3
+      },
+      {
+        "token": "palikt",
+        "signature": "aiklpt",
+        "length": 6
+      },
+      {
+        "token": "četri",
+        "signature": "čeirt",
+        "length": 5
+      },
+      {
+        "token": "asv",
+        "signature": "asv",
+        "length": 3
+      },
+      {
+        "token": "šāda",
+        "signature": "aādš",
+        "length": 4
+      },
+      {
+        "token": "informēt",
+        "signature": "ēfimnort",
+        "length": 8
+      },
+      {
+        "token": "dēļ",
+        "signature": "dēļ",
+        "length": 3
+      },
+      {
+        "token": "sākums",
+        "signature": "ākmsu",
+        "length": 6
+      },
+      {
+        "token": "deputāts",
+        "signature": "ādepstu",
+        "length": 8
+      },
+      {
+        "token": "darbinieks",
+        "signature": "abdeiknrs",
+        "length": 10
+      },
+      {
+        "token": "šobrīd",
+        "signature": "bdīorš",
+        "length": 6
+      },
+      {
+        "token": "padome",
+        "signature": "ademop",
+        "length": 6
+      },
+      {
+        "token": "trešais",
+        "signature": "aeirsšt",
+        "length": 7
+      },
+      {
+        "token": "kabinets",
+        "signature": "abeiknst",
+        "length": 8
+      },
+      {
+        "token": "pati",
+        "signature": "aipt",
+        "length": 4
+      },
+      {
+        "token": "dienests",
+        "signature": "deinst",
+        "length": 8
+      },
+      {
+        "token": "bieži",
+        "signature": "beiž",
+        "length": 5
+      },
+      {
+        "token": "problēma",
+        "signature": "abēlmopr",
+        "length": 8
+      },
+      {
+        "token": "turpināt",
+        "signature": "āinprtu",
+        "length": 8
+      },
+      {
+        "token": "otrs",
+        "signature": "orst",
+        "length": 4
+      },
+      {
+        "token": "līgums",
+        "signature": "gīlmsu",
+        "length": 6
+      },
+      {
+        "token": "sports",
+        "signature": "oprst",
+        "length": 6
+      },
+      {
+        "token": "aicināt",
+        "signature": "aācint",
+        "length": 7
+      },
+      {
+        "token": "plānot",
+        "signature": "ālnopt",
+        "length": 6
+      },
+      {
+        "token": "nacionāls",
+        "signature": "aācilnos",
+        "length": 9
+      },
+      {
+        "token": "spēlēt",
+        "signature": "ēlpst",
+        "length": 6
+      },
+      {
+        "token": "cik",
+        "signature": "cik",
+        "length": 3
+      },
+      {
+        "token": "iepriekš",
+        "signature": "eikprš",
+        "length": 8
+      },
+      {
+        "token": "tirgus",
+        "signature": "girstu",
+        "length": 6
+      },
+      {
+        "token": "ļaut",
+        "signature": "aļtu",
+        "length": 4
+      },
+      {
+        "token": "brīdis",
+        "signature": "bdiīrs",
+        "length": 6
+      },
+      {
+        "token": "atbalsts",
+        "signature": "ablst",
+        "length": 8
+      },
+      {
+        "token": "sezona",
+        "signature": "aenosz",
+        "length": 6
+      },
+      {
+        "token": "budžets",
+        "signature": "bdestuž",
+        "length": 7
+      },
+      {
+        "token": "gaidīt",
+        "signature": "adgiīt",
+        "length": 6
+      },
+      {
+        "token": "pieci",
+        "signature": "ceip",
+        "length": 5
+      },
+      {
+        "token": "vecums",
+        "signature": "cemsuv",
+        "length": 6
+      },
+      {
+        "token": "nodoklis",
+        "signature": "diklnos",
+        "length": 8
+      },
+      {
+        "token": "drošība",
+        "signature": "abdīorš",
+        "length": 7
+      },
+      {
+        "token": "izveidot",
+        "signature": "deiotvz",
+        "length": 8
+      },
+      {
+        "token": "pacients",
+        "signature": "aceinpst",
+        "length": 8
+      },
+      {
+        "token": "palīdzēt",
+        "signature": "adēīlptz",
+        "length": 8
+      },
+      {
+        "token": "partija",
+        "signature": "aijprt",
+        "length": 7
+      },
+      {
+        "token": "galvenais",
+        "signature": "aegilnsv",
+        "length": 9
+      },
+      {
+        "token": "piedāvāt",
+        "signature": "ādeiptv",
+        "length": 8
+      },
+      {
+        "token": "vairs",
+        "signature": "airsv",
+        "length": 5
+      },
+      {
+        "token": "starptautisks",
+        "signature": "aikprstu",
+        "length": 13
+      },
+      {
+        "token": "beigas",
+        "signature": "abegis",
+        "length": 6
+      },
+      {
+        "token": "roka",
+        "signature": "akor",
+        "length": 4
+      },
+      {
+        "token": "uzsvērt",
+        "signature": "ērstuvz",
+        "length": 7
+      },
+      {
+        "token": "pagasts",
+        "signature": "agpst",
+        "length": 7
+      },
+      {
+        "token": "sasniegt",
+        "signature": "aeginst",
+        "length": 8
+      },
+      {
+        "token": "amats",
+        "signature": "amst",
+        "length": 5
+      },
+      {
+        "token": "dalībnieks",
+        "signature": "abdeiīklns",
+        "length": 10
+      },
+      {
+        "token": "ēka",
+        "signature": "aēk",
+        "length": 3
+      },
+      {
+        "token": "cena",
+        "signature": "acen",
+        "length": 4
+      },
+      {
+        "token": "sia",
+        "signature": "ais",
+        "length": 3
+      },
+      {
+        "token": "jānis",
+        "signature": "āijns",
+        "length": 5
+      },
+      {
+        "token": "īpaši",
+        "signature": "aiīpš",
+        "length": 5
+      },
+      {
+        "token": "ziņa",
+        "signature": "aiņz",
+        "length": 4
+      },
+      {
+        "token": "savienība",
+        "signature": "abeiīnsv",
+        "length": 9
+      },
+      {
+        "token": "filma",
+        "signature": "afilm",
+        "length": 5
+      },
+      {
+        "token": "posms",
+        "signature": "mops",
+        "length": 5
+      },
+      {
+        "token": "izdarīt",
+        "signature": "adiīrtz",
+        "length": 7
+      },
+      {
+        "token": "vēlu",
+        "signature": "ēluv",
+        "length": 4
+      },
+      {
+        "token": "ziņot",
+        "signature": "iņotz",
+        "length": 5
+      },
+      {
+        "token": "grozījums",
+        "signature": "gījmorsuz",
+        "length": 9
+      },
+      {
+        "token": "telpa",
+        "signature": "aelpt",
+        "length": 5
+      },
+      {
+        "token": "vadība",
+        "signature": "abdīv",
+        "length": 6
+      },
+      {
+        "token": "mūzika",
+        "signature": "aikmūz",
+        "length": 6
+      },
+      {
+        "token": "mācība",
+        "signature": "aābcīm",
+        "length": 6
+      },
+      {
+        "token": "čempionāts",
+        "signature": "āčeimnopst",
+        "length": 10
+      },
+      {
+        "token": "māksla",
+        "signature": "aāklms",
+        "length": 6
+      },
+      {
+        "token": "kopš",
+        "signature": "kopš",
+        "length": 4
+      },
+      {
+        "token": "paiet",
+        "signature": "aeipt",
+        "length": 5
+      },
+      {
+        "token": "minūte",
+        "signature": "eimntū",
+        "length": 6
+      },
+      {
+        "token": "vērtība",
+        "signature": "abēīrtv",
+        "length": 7
+      },
+      {
+        "token": "klubs",
+        "signature": "bklsu",
+        "length": 5
+      },
+      {
+        "token": "palīdzība",
+        "signature": "abdīlpz",
+        "length": 9
+      },
+      {
+        "token": "skaidrot",
+        "signature": "adikorst",
+        "length": 8
+      },
+      {
+        "token": "pārvalde",
+        "signature": "aādelprv",
+        "length": 8
+      },
+      {
+        "token": "nākt",
+        "signature": "āknt",
+        "length": 4
+      },
+      {
+        "token": "sadarbība",
+        "signature": "abdīrs",
+        "length": 9
+      },
+      {
+        "token": "kopums",
+        "signature": "kmopsu",
+        "length": 6
+      },
+      {
+        "token": "decembris",
+        "signature": "bcdeimrs",
+        "length": 9
+      },
+      {
+        "token": "marts",
+        "signature": "amrst",
+        "length": 5
+      },
+      {
+        "token": "turklāt",
+        "signature": "āklrtu",
+        "length": 7
+      },
+      {
+        "token": "vēlēšanas",
+        "signature": "aēlnsšv",
+        "length": 9
+      },
+      {
+        "token": "katra",
+        "signature": "akrt",
+        "length": 5
+      },
+      {
+        "token": "jeb",
+        "signature": "bej",
+        "length": 3
+      },
+      {
+        "token": "tauta",
+        "signature": "atu",
+        "length": 5
+      },
+      {
+        "token": "vadīt",
+        "signature": "adītv",
+        "length": 5
+      },
+      {
+        "token": "banka",
+        "signature": "abkn",
+        "length": 5
+      },
+      {
+        "token": "abi",
+        "signature": "abi",
+        "length": 3
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "liecināt",
+        "signature": "āceilnt",
+        "length": 8
+      },
+      {
+        "token": "pieaugt",
+        "signature": "aegiptu",
+        "length": 7
+      },
+      {
+        "token": "republika",
+        "signature": "abeiklpru",
+        "length": 9
+      },
+      {
+        "token": "piešķirt",
+        "signature": "eiķpršt",
+        "length": 8
+      },
+      {
+        "token": "jūnijs",
+        "signature": "ijnsū",
+        "length": 6
+      },
+      {
+        "token": "iesniegt",
+        "signature": "eginst",
+        "length": 8
+      },
+      {
+        "token": "septembris",
+        "signature": "beimprst",
+        "length": 10
+      },
+      {
+        "token": "janvāris",
+        "signature": "aāijnrsv",
+        "length": 8
+      },
+      {
+        "token": "vienība",
+        "signature": "abeiīnv",
+        "length": 7
+      },
+      {
+        "token": "nevis",
+        "signature": "einsv",
+        "length": 5
+      },
+      {
+        "token": "novembris",
+        "signature": "beimnorsv",
+        "length": 9
+      },
+      {
+        "token": "vērā",
+        "signature": "āērv",
+        "length": 4
+      },
+      {
+        "token": "apstāklis",
+        "signature": "aāiklpst",
+        "length": 9
+      },
+      {
+        "token": "maijs",
+        "signature": "aijms",
+        "length": 5
+      },
+      {
+        "token": "šogad",
+        "signature": "adgoš",
+        "length": 5
+      },
+      {
+        "token": "kārta",
+        "signature": "aākrt",
+        "length": 5
+      },
+      {
+        "token": "likt",
+        "signature": "iklt",
+        "length": 4
+      },
+      {
+        "token": "oktobris",
+        "signature": "bikorst",
+        "length": 8
+      },
+      {
+        "token": "izlase",
+        "signature": "aeilsz",
+        "length": 6
+      },
+      {
+        "token": "apstiprināt",
+        "signature": "aāinprst",
+        "length": 11
+      },
+      {
+        "token": "sacensība",
+        "signature": "abceīns",
+        "length": 9
+      },
+      {
+        "token": "aprīlis",
+        "signature": "aiīlprs",
+        "length": 7
+      },
+      {
+        "token": "lietot",
+        "signature": "eilot",
+        "length": 6
+      },
+      {
+        "token": "grāmata",
+        "signature": "aāgmrt",
+        "length": 7
+      },
+      {
+        "token": "izdoties",
+        "signature": "deiostz",
+        "length": 8
+      },
+      {
+        "token": "augusts",
+        "signature": "agstu",
+        "length": 7
+      },
+      {
+        "token": "stunda",
+        "signature": "adnstu",
+        "length": 6
+      },
+      {
+        "token": "šeit",
+        "signature": "eišt",
+        "length": 4
+      },
+      {
+        "token": "gals",
+        "signature": "agls",
+        "length": 4
+      },
+      {
+        "token": "ap",
+        "signature": "ap",
+        "length": 2
+      },
+      {
+        "token": "produkts",
+        "signature": "dkoprstu",
+        "length": 8
+      },
+      {
+        "token": "iekļaut",
+        "signature": "aeikļtu",
+        "length": 7
+      },
+      {
+        "token": "biedrība",
+        "signature": "abdeiīr",
+        "length": 8
+      },
+      {
+        "token": "paziņot",
+        "signature": "aiņoptz",
+        "length": 7
+      },
+      {
+        "token": "vienmēr",
+        "signature": "eēimnrv",
+        "length": 7
+      },
+      {
+        "token": "materiāls",
+        "signature": "aāeilmrst",
+        "length": 9
+      },
+      {
+        "token": "atbilst",
+        "signature": "abilst",
+        "length": 7
+      },
+      {
+        "token": "zāle",
+        "signature": "āelz",
+        "length": 4
+      },
+      {
+        "token": "liepāja",
+        "signature": "aāeijlp",
+        "length": 7
+      },
+      {
+        "token": "protams",
+        "signature": "amoprst",
+        "length": 7
+      },
+      {
+        "token": "atkal",
+        "signature": "aklt",
+        "length": 5
+      },
+      {
+        "token": "rakstīt",
+        "signature": "aīkrst",
+        "length": 7
+      },
+      {
+        "token": "dziesma",
+        "signature": "adeimsz",
+        "length": 7
+      },
+      {
+        "token": "aģentūra",
+        "signature": "aeģnrtū",
+        "length": 8
+      },
+      {
+        "token": "konstatēt",
+        "signature": "aēknost",
+        "length": 9
+      },
+      {
+        "token": "patikt",
+        "signature": "aikpt",
+        "length": 6
+      },
+      {
+        "token": "svarīgs",
+        "signature": "agīrsv",
+        "length": 7
+      },
+      {
+        "token": "varbūt",
+        "signature": "abrtūv",
+        "length": 6
+      },
+      {
+        "token": "nodaļa",
+        "signature": "adļno",
+        "length": 6
+      },
+      {
+        "token": "vecāks",
+        "signature": "āceksv",
+        "length": 6
+      },
+      {
+        "token": "dokuments",
+        "signature": "dekmnostu",
+        "length": 9
+      },
+      {
+        "token": "darboties",
+        "signature": "abdeiorst",
+        "length": 9
+      },
+      {
+        "token": "prasība",
+        "signature": "abīprs",
+        "length": 7
+      },
+      {
+        "token": "dzimt",
+        "signature": "dimtz",
+        "length": 5
+      },
+      {
+        "token": "acs",
+        "signature": "acs",
+        "length": 3
+      },
+      {
+        "token": "aptuveni",
+        "signature": "aeinptuv",
+        "length": 8
+      },
+      {
+        "token": "vismaz",
+        "signature": "aimsvz",
+        "length": 6
+      },
+      {
+        "token": "zaudēt",
+        "signature": "adētuz",
+        "length": 6
+      },
+      {
+        "token": "konkurss",
+        "signature": "knorsu",
+        "length": 8
+      },
+      {
+        "token": "pieiet",
+        "signature": "eipt",
+        "length": 6
+      },
+      {
+        "token": "lietuva",
+        "signature": "aeiltuv",
+        "length": 7
+      },
+      {
+        "token": "paust",
+        "signature": "apstu",
+        "length": 5
+      },
+      {
+        "token": "īpašs",
+        "signature": "aīpsš",
+        "length": 5
+      },
+      {
+        "token": "plāns",
+        "signature": "ālnps",
+        "length": 5
+      },
+      {
+        "token": "nosacīt",
+        "signature": "acīnost",
+        "length": 7
+      },
+      {
+        "token": "plašs",
+        "signature": "alpsš",
+        "length": 5
+      },
+      {
+        "token": "ievērot",
+        "signature": "eēiortv",
+        "length": 7
+      },
+      {
+        "token": "pamats",
+        "signature": "ampst",
+        "length": 6
+      },
+      {
+        "token": "sēde",
+        "signature": "deēs",
+        "length": 4
+      },
+      {
+        "token": "mana",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "konkrēts",
+        "signature": "ēknorst",
+        "length": 8
+      },
+      {
+        "token": "saistība",
+        "signature": "abiīst",
+        "length": 8
+      },
+      {
+        "token": "gaiss",
+        "signature": "agis",
+        "length": 5
+      },
+      {
+        "token": "lauks",
+        "signature": "aklsu",
+        "length": 5
+      },
+      {
+        "token": "iepriekšējs",
+        "signature": "eēijkprsš",
+        "length": 11
+      },
+      {
+        "token": "skatīties",
+        "signature": "aeiīkst",
+        "length": 9
+      },
+      {
+        "token": "nozare",
+        "signature": "aenorz",
+        "length": 6
+      },
+      {
+        "token": "klase",
+        "signature": "aekls",
+        "length": 5
+      },
+      {
+        "token": "izvēlēties",
+        "signature": "eēilstvz",
+        "length": 10
+      },
+      {
+        "token": "vārti",
+        "signature": "āirtv",
+        "length": 5
+      },
+      {
+        "token": "mežs",
+        "signature": "emsž",
+        "length": 4
+      },
+      {
+        "token": "laukums",
+        "signature": "aklmsu",
+        "length": 7
+      },
+      {
+        "token": "ietekmēt",
+        "signature": "eēikmt",
+        "length": 8
+      },
+      {
+        "token": "kopējs",
+        "signature": "ējkops",
+        "length": 6
+      },
+      {
+        "token": "ekonomika",
+        "signature": "aeikmno",
+        "length": 9
+      },
+      {
+        "token": "saruna",
+        "signature": "anrsu",
+        "length": 6
+      },
+      {
+        "token": "interese",
+        "signature": "einrst",
+        "length": 8
+      },
+      {
+        "token": "svētki",
+        "signature": "ēikstv",
+        "length": 6
+      },
+      {
+        "token": "rasties",
+        "signature": "aeirst",
+        "length": 7
+      },
+      {
+        "token": "apmērs",
+        "signature": "aēmprs",
+        "length": 6
+      },
+      {
+        "token": "daba",
+        "signature": "abd",
+        "length": 4
+      },
+      {
+        "token": "sākties",
+        "signature": "āeikst",
+        "length": 7
+      },
+      {
+        "token": "braukt",
+        "signature": "abkrtu",
+        "length": 6
+      },
+      {
+        "token": "februāris",
+        "signature": "ābefirsu",
+        "length": 9
+      },
+      {
+        "token": "nozīmēt",
+        "signature": "ēīmnotz",
+        "length": 7
+      },
+      {
+        "token": "kāpēc",
+        "signature": "ācēkp",
+        "length": 5
+      },
+      {
+        "token": "robeža",
+        "signature": "abeorž",
+        "length": 6
+      },
+      {
+        "token": "vācija",
+        "signature": "aācijv",
+        "length": 6
+      },
+      {
+        "token": "koncerts",
+        "signature": "ceknorst",
+        "length": 8
+      },
+      {
+        "token": "piemērot",
+        "signature": "eēimoprt",
+        "length": 8
+      },
+      {
+        "token": "reģions",
+        "signature": "eģinors",
+        "length": 7
+      },
+      {
+        "token": "cīņa",
+        "signature": "acīņ",
+        "length": 4
+      },
+      {
+        "token": "satiksme",
+        "signature": "aeikmst",
+        "length": 8
+      },
+      {
+        "token": "uzvara",
+        "signature": "aruvz",
+        "length": 6
+      },
+      {
+        "token": "jaunietis",
+        "signature": "aeijnstu",
+        "length": 9
+      },
+      {
+        "token": "mačs",
+        "signature": "ačms",
+        "length": 4
+      },
+      {
+        "token": "slimība",
+        "signature": "abiīlms",
+        "length": 7
+      },
+      {
+        "token": "turnīrs",
+        "signature": "īnrstu",
+        "length": 7
+      },
+      {
+        "token": "notikums",
+        "signature": "ikmnostu",
+        "length": 8
+      },
+      {
+        "token": "uzdevums",
+        "signature": "demsuvz",
+        "length": 8
+      },
+      {
+        "token": "rīcība",
+        "signature": "abcīr",
+        "length": 6
+      },
+      {
+        "token": "dažs",
+        "signature": "adsž",
+        "length": 4
+      },
+      {
+        "token": "slimnīca",
+        "signature": "aciīlmns",
+        "length": 8
+      },
+      {
+        "token": "rīkojums",
+        "signature": "ījkmorsu",
+        "length": 8
+      },
+      {
+        "token": "gandrīz",
+        "signature": "adgīnrz",
+        "length": 7
+      },
+      {
+        "token": "joprojām",
+        "signature": "ājmopr",
+        "length": 8
+      },
+      {
+        "token": "meklēt",
+        "signature": "eēklmt",
+        "length": 6
+      },
+      {
+        "token": "turpmāk",
+        "signature": "ākmprtu",
+        "length": 7
+      },
+      {
+        "token": "nams",
+        "signature": "amns",
+        "length": 4
+      },
+      {
+        "token": "pieredze",
+        "signature": "deiprz",
+        "length": 8
+      },
+      {
+        "token": "jūra",
+        "signature": "ajrū",
+        "length": 4
+      },
+      {
+        "token": "periods",
+        "signature": "deioprs",
+        "length": 7
+      },
+      {
+        "token": "politisks",
+        "signature": "iklopst",
+        "length": 9
+      },
+      {
+        "token": "garš",
+        "signature": "agrš",
+        "length": 4
+      },
+      {
+        "token": "tādēļ",
+        "signature": "ādēļt",
+        "length": 5
+      },
+      {
+        "token": "koks",
+        "signature": "kos",
+        "length": 4
+      },
+      {
+        "token": "tīkls",
+        "signature": "īklst",
+        "length": 5
+      },
+      {
+        "token": "igaunija",
+        "signature": "agijnu",
+        "length": 8
+      },
+      {
+        "token": "vietējs",
+        "signature": "eēijstv",
+        "length": 7
+      },
+      {
+        "token": "izdevums",
+        "signature": "deimsuvz",
+        "length": 8
+      },
+      {
+        "token": "vidus",
+        "signature": "disuv",
+        "length": 5
+      },
+      {
+        "token": "sastāvs",
+        "signature": "aāstv",
+        "length": 7
+      },
+      {
+        "token": "skolēns",
+        "signature": "ēklnos",
+        "length": 7
+      },
+      {
+        "token": "kars",
+        "signature": "akrs",
+        "length": 4
+      },
+      {
+        "token": "vasara",
+        "signature": "arsv",
+        "length": 6
+      },
+      {
+        "token": "aizvadīt",
+        "signature": "adiītvz",
+        "length": 8
+      },
+      {
+        "token": "saraksts",
+        "signature": "akrst",
+        "length": 8
+      },
+      {
+        "token": "šķist",
+        "signature": "iķsšt",
+        "length": 5
+      },
+      {
+        "token": "metode",
+        "signature": "demot",
+        "length": 6
+      },
+      {
+        "token": "seši",
+        "signature": "eisš",
+        "length": 4
+      },
+      {
+        "token": "baltija",
+        "signature": "abijlt",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "ilgt",
+        "signature": "gilt",
+        "length": 4
+      },
+      {
+        "token": "svētdien",
+        "signature": "deēinstv",
+        "length": 8
+      },
+      {
+        "token": "traucējums",
+        "signature": "acējmrstu",
+        "length": 10
+      },
+      {
+        "token": "tradicionāls",
+        "signature": "aācdilnorst",
+        "length": 12
+      },
+      {
+        "token": "treniņš",
+        "signature": "einņršt",
+        "length": 7
+      },
+      {
+        "token": "minimāls",
+        "signature": "āilmns",
+        "length": 8
+      },
+      {
+        "token": "viesnīca",
+        "signature": "aceiīnsv",
+        "length": 8
+      },
+      {
+        "token": "novēršana",
+        "signature": "aēnoršv",
+        "length": 9
+      },
+      {
+        "token": "medaļa",
+        "signature": "adeļm",
+        "length": 6
+      },
+      {
+        "token": "dārgs",
+        "signature": "ādgrs",
+        "length": 5
+      },
+      {
+        "token": "trūkt",
+        "signature": "krtū",
+        "length": 5
+      },
+      {
+        "token": "dienvidi",
+        "signature": "deinv",
+        "length": 8
+      },
+      {
+        "token": "apsūdzēt",
+        "signature": "adēpstūz",
+        "length": 8
+      },
+      {
+        "token": "traucēt",
+        "signature": "acērtu",
+        "length": 7
+      },
+      {
+        "token": "atpūta",
+        "signature": "aptū",
+        "length": 6
+      },
+      {
+        "token": "sadalīt",
+        "signature": "adīlst",
+        "length": 7
+      },
+      {
+        "token": "stāvs",
+        "signature": "āstv",
+        "length": 5
+      },
+      {
+        "token": "anna",
+        "signature": "an",
+        "length": 4
+      },
+      {
+        "token": "vilnis",
+        "signature": "ilnsv",
+        "length": 6
+      },
+      {
+        "token": "efektīvs",
+        "signature": "efīkstv",
+        "length": 8
+      },
+      {
+        "token": "zinātnieks",
+        "signature": "āeiknstz",
+        "length": 10
+      },
+      {
+        "token": "saglabāties",
+        "signature": "aābegilst",
+        "length": 11
+      },
+      {
+        "token": "premjers",
+        "signature": "ejmprs",
+        "length": 8
+      },
+      {
+        "token": "trauma",
+        "signature": "amrtu",
+        "length": 6
+      },
+      {
+        "token": "izveidoties",
+        "signature": "deiostvz",
+        "length": 11
+      },
+      {
+        "token": "lidmašīna",
+        "signature": "adiīlmnš",
+        "length": 9
+      },
+      {
+        "token": "protokols",
+        "signature": "kloprst",
+        "length": 9
+      },
+      {
+        "token": "dziedāt",
+        "signature": "ādeitz",
+        "length": 7
+      },
+      {
+        "token": "patiešām",
+        "signature": "aāeimpšt",
+        "length": 8
+      },
+      {
+        "token": "mēģinājums",
+        "signature": "āēģijmnsu",
+        "length": 10
+      },
+      {
+        "token": "brits",
+        "signature": "birst",
+        "length": 5
+      },
+      {
+        "token": "zobs",
+        "signature": "bosz",
+        "length": 4
+      },
+      {
+        "token": "frakcija",
+        "signature": "acfijkr",
+        "length": 8
+      },
+      {
+        "token": "versija",
+        "signature": "aeijrsv",
+        "length": 7
+      },
+      {
+        "token": "beidzot",
+        "signature": "bdeiotz",
+        "length": 7
+      },
+      {
+        "token": "personība",
+        "signature": "abeīnoprs",
+        "length": 9
+      },
+      {
+        "token": "izaugsme",
+        "signature": "aegimsuz",
+        "length": 8
+      },
+      {
+        "token": "medicīnisks",
+        "signature": "cdeiīkmns",
+        "length": 11
+      },
+      {
+        "token": "kredīts",
+        "signature": "deīkrst",
+        "length": 7
+      },
+      {
+        "token": "ziemassvētki",
+        "signature": "aeēikmstvz",
+        "length": 12
+      },
+      {
+        "token": "aizvien",
+        "signature": "aeinvz",
+        "length": 7
+      },
+      {
+        "token": "regulāri",
+        "signature": "āegilru",
+        "length": 8
+      },
+      {
+        "token": "toreiz",
+        "signature": "eiortz",
+        "length": 6
+      },
+      {
+        "token": "uzturēt",
+        "signature": "ērtuz",
+        "length": 7
+      },
+      {
+        "token": "ola",
+        "signature": "alo",
+        "length": 3
+      },
+      {
+        "token": "pazīme",
+        "signature": "aeīmpz",
+        "length": 6
+      },
+      {
+        "token": "ticami",
+        "signature": "acimt",
+        "length": 6
+      },
+      {
+        "token": "lidosta",
+        "signature": "adilost",
+        "length": 7
+      },
+      {
+        "token": "trase",
+        "signature": "aerst",
+        "length": 5
+      },
+      {
+        "token": "cienīt",
+        "signature": "ceiīnt",
+        "length": 6
+      },
+      {
+        "token": "vietnieks",
+        "signature": "eiknstv",
+        "length": 9
+      },
+      {
+        "token": "mirklis",
+        "signature": "iklmrs",
+        "length": 7
+      },
+      {
+        "token": "nogādāt",
+        "signature": "ādgnot",
+        "length": 7
+      },
+      {
+        "token": "krūts",
+        "signature": "krstū",
+        "length": 5
+      },
+      {
+        "token": "sniegs",
+        "signature": "egins",
+        "length": 6
+      },
+      {
+        "token": "vīruss",
+        "signature": "īrsuv",
+        "length": 6
+      },
+      {
+        "token": "ceļojums",
+        "signature": "cejļmosu",
+        "length": 8
+      },
+      {
+        "token": "ierocis",
+        "signature": "ceiors",
+        "length": 7
+      },
+      {
+        "token": "kompetence",
+        "signature": "cekmnopt",
+        "length": 10
+      },
+      {
+        "token": "auglis",
+        "signature": "agilsu",
+        "length": 6
+      },
+      {
+        "token": "bojā",
+        "signature": "ābjo",
+        "length": 4
+      },
+      {
+        "token": "tiesisks",
+        "signature": "eikst",
+        "length": 8
+      },
+      {
+        "token": "sestdien",
+        "signature": "deinst",
+        "length": 8
+      },
+      {
+        "token": "vid",
+        "signature": "div",
+        "length": 3
+      },
+      {
+        "token": "apģērbs",
+        "signature": "abēģprs",
+        "length": 7
+      },
+      {
+        "token": "bruņot",
+        "signature": "bņortu",
+        "length": 6
+      },
+      {
+        "token": "nereti",
+        "signature": "einrt",
+        "length": 6
+      },
+      {
+        "token": "kino",
+        "signature": "ikno",
+        "length": 4
+      },
+      {
+        "token": "jebkura",
+        "signature": "abejkru",
+        "length": 7
+      },
+      {
+        "token": "atjaunošana",
+        "signature": "ajnoštu",
+        "length": 11
+      },
+      {
+        "token": "amerika",
+        "signature": "aeikmr",
+        "length": 7
+      },
+      {
+        "token": "mazulis",
+        "signature": "ailmsuz",
+        "length": 7
+      },
+      {
+        "token": "salīdzinājums",
+        "signature": "aādiījlmnsuz",
+        "length": 13
+      },
+      {
+        "token": "nafta",
+        "signature": "afnt",
+        "length": 5
+      },
+      {
+        "token": "loks",
+        "signature": "klos",
+        "length": 4
+      },
+      {
+        "token": "atlīdzība",
+        "signature": "abdīltz",
+        "length": 9
+      },
+      {
+        "token": "pieminēt",
+        "signature": "eēimnpt",
+        "length": 8
+      },
+      {
+        "token": "sektors",
+        "signature": "ekorst",
+        "length": 7
+      },
+      {
+        "token": "pareizi",
+        "signature": "aeiprz",
+        "length": 7
+      },
+      {
+        "token": "negadījums",
+        "signature": "adegījmnsu",
+        "length": 10
+      },
+      {
+        "token": "gatavoties",
+        "signature": "aegiostv",
+        "length": 10
+      },
+      {
+        "token": "pārsteigt",
+        "signature": "āegiprst",
+        "length": 9
+      },
+      {
+        "token": "iniciatīva",
+        "signature": "aciīntv",
+        "length": 10
+      },
+      {
+        "token": "izmērs",
+        "signature": "ēimrsz",
+        "length": 6
+      },
+      {
+        "token": "pārskats",
+        "signature": "aākprst",
+        "length": 8
+      },
+      {
+        "token": "ierakstīt",
+        "signature": "aeiīkrst",
+        "length": 9
+      },
+      {
+        "token": "krist",
+        "signature": "ikrst",
+        "length": 5
+      },
+      {
+        "token": "saņemšana",
+        "signature": "aemnņsš",
+        "length": 9
+      },
+      {
+        "token": "nokļūt",
+        "signature": "kļnotū",
+        "length": 6
+      },
+      {
+        "token": "konteksts",
+        "signature": "eknost",
+        "length": 9
+      },
+      {
+        "token": "nest",
+        "signature": "enst",
+        "length": 4
+      },
+      {
+        "token": "izvēlēt",
+        "signature": "ēiltvz",
+        "length": 7
+      },
+      {
+        "token": "audzēknis",
+        "signature": "adēiknsuz",
+        "length": 9
+      },
+      {
+        "token": "parāds",
+        "signature": "aādprs",
+        "length": 6
+      },
+      {
+        "token": "elektroenerģija",
+        "signature": "aeģijklnort",
+        "length": 15
+      },
+      {
+        "token": "spiest",
+        "signature": "eipst",
+        "length": 6
+      },
+      {
+        "token": "reizēm",
+        "signature": "eēimrz",
+        "length": 6
+      },
+      {
+        "token": "savulaik",
+        "signature": "aiklsuv",
+        "length": 8
+      },
+      {
+        "token": "izšķirt",
+        "signature": "iķrštz",
+        "length": 7
+      },
+      {
+        "token": "pareizs",
+        "signature": "aeiprsz",
+        "length": 7
+      },
+      {
+        "token": "patērētājs",
+        "signature": "aāējprst",
+        "length": 10
+      },
+      {
+        "token": "tavs",
+        "signature": "astv",
+        "length": 4
+      },
+      {
+        "token": "uzbrucējs",
+        "signature": "bcējrsuz",
+        "length": 9
+      },
+      {
+        "token": "tālrunis",
+        "signature": "āilnrstu",
+        "length": 8
+      },
+      {
+        "token": "eksports",
+        "signature": "ekoprst",
+        "length": 8
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "precīzs",
+        "signature": "ceīprsz",
+        "length": 7
+      },
+      {
+        "token": "pāreja",
+        "signature": "aāejpr",
+        "length": 6
+      },
+      {
+        "token": "vērtējums",
+        "signature": "ējmrstuv",
+        "length": 9
+      },
+      {
+        "token": "iecirknis",
+        "signature": "ceiknrs",
+        "length": 9
+      },
+      {
+        "token": "vienotība",
+        "signature": "abeiīnotv",
+        "length": 9
+      },
+      {
+        "token": "neatkarība",
+        "signature": "abeīknrt",
+        "length": 10
+      },
+      {
+        "token": "apturēt",
+        "signature": "aēprtu",
+        "length": 7
+      },
+      {
+        "token": "dzīvs",
+        "signature": "dīsvz",
+        "length": 5
+      },
+      {
+        "token": "uzlikt",
+        "signature": "ikltuz",
+        "length": 6
+      },
+      {
+        "token": "iznākt",
+        "signature": "āikntz",
+        "length": 6
+      },
+      {
+        "token": "laulība",
+        "signature": "abīlu",
+        "length": 7
+      },
+      {
+        "token": "pasniegt",
+        "signature": "aeginpst",
+        "length": 8
+      },
+      {
+        "token": "mobils",
+        "signature": "bilmos",
+        "length": 6
+      },
+      {
+        "token": "izvietot",
+        "signature": "eiotvz",
+        "length": 8
+      },
+      {
+        "token": "turpināties",
+        "signature": "āeinprstu",
+        "length": 11
+      },
+      {
+        "token": "simts",
+        "signature": "imst",
+        "length": 5
+      },
+      {
+        "token": "mute",
+        "signature": "emtu",
+        "length": 4
+      },
+      {
+        "token": "uzņēmējdarbība",
+        "signature": "abdēījmņruz",
+        "length": 14
+      },
+      {
+        "token": "reģistrācija",
+        "signature": "aāceģijrst",
+        "length": 12
+      },
+      {
+        "token": "indivīds",
+        "signature": "diīnsv",
+        "length": 8
+      },
+      {
+        "token": "kauls",
+        "signature": "aklsu",
+        "length": 5
+      },
+      {
+        "token": "iegāde",
+        "signature": "ādegi",
+        "length": 6
+      },
+      {
+        "token": "slavens",
+        "signature": "aelnsv",
+        "length": 7
+      },
+      {
+        "token": "paveikt",
+        "signature": "aeikptv",
+        "length": 7
+      },
+      {
+        "token": "plūsma",
+        "signature": "almpsū",
+        "length": 6
+      },
+      {
+        "token": "ieguldīt",
+        "signature": "degiīltu",
+        "length": 8
+      },
+      {
+        "token": "kauja",
+        "signature": "ajku",
+        "length": 5
+      },
+      {
+        "token": "vilciens",
+        "signature": "ceilnsv",
+        "length": 8
+      },
+      {
+        "token": "mīļš",
+        "signature": "īļmš",
+        "length": 4
+      },
+      {
+        "token": "dzēriens",
+        "signature": "deēinrsz",
+        "length": 8
+      },
+      {
+        "token": "izplatība",
+        "signature": "abiīlptz",
+        "length": 9
+      },
+      {
+        "token": "mājaslapa",
+        "signature": "aājlmps",
+        "length": 9
+      },
+      {
+        "token": "uzvedība",
+        "signature": "abdeīuvz",
+        "length": 8
+      },
+      {
+        "token": "baidīties",
+        "signature": "abdeiīst",
+        "length": 9
+      },
+      {
+        "token": "cukurs",
+        "signature": "ckrsu",
+        "length": 6
+      },
+      {
+        "token": "lūgums",
+        "signature": "glmsuū",
+        "length": 6
+      },
+      {
+        "token": "degviela",
+        "signature": "adegilv",
+        "length": 8
+      },
+      {
+        "token": "firma",
+        "signature": "afimr",
+        "length": 5
+      },
+      {
+        "token": "licence",
+        "signature": "ceiln",
+        "length": 7
+      },
+      {
+        "token": "valka",
+        "signature": "aklv",
+        "length": 5
+      },
+      {
+        "token": "andrejs",
+        "signature": "adejnrs",
+        "length": 7
+      },
+      {
+        "token": "krājums",
+        "signature": "ājkmrsu",
+        "length": 7
+      },
+      {
+        "token": "nato",
+        "signature": "anot",
+        "length": 4
+      },
+      {
+        "token": "bagāts",
+        "signature": "aābgst",
+        "length": 6
+      },
+      {
+        "token": "tumšs",
+        "signature": "msštu",
+        "length": 5
+      },
+      {
+        "token": "autore",
+        "signature": "aeortu",
+        "length": 6
+      },
+      {
+        "token": "ienākt",
+        "signature": "āeiknt",
+        "length": 6
+      },
+      {
+        "token": "ievērojami",
+        "signature": "aeēijmorv",
+        "length": 10
+      },
+      {
+        "token": "pārdošana",
+        "signature": "aādnoprš",
+        "length": 9
+      },
+      {
+        "token": "priekšā",
+        "signature": "āeikprš",
+        "length": 7
+      },
+      {
+        "token": "pirkt",
+        "signature": "ikprt",
+        "length": 5
+      },
+      {
+        "token": "neatkarīgs",
+        "signature": "aegīknrst",
+        "length": 10
+      },
+      {
+        "token": "savienot",
+        "signature": "aeinostv",
+        "length": 8
+      },
+      {
+        "token": "edgars",
+        "signature": "adegrs",
+        "length": 6
+      },
+      {
+        "token": "londona",
+        "signature": "adlno",
+        "length": 7
+      },
+      {
+        "token": "pētnieks",
+        "signature": "eēiknpst",
+        "length": 8
+      },
+      {
+        "token": "parasts",
+        "signature": "aprst",
+        "length": 7
+      },
+      {
+        "token": "vēlreiz",
+        "signature": "eēilrvz",
+        "length": 7
+      },
+      {
+        "token": "noslēgums",
+        "signature": "ēglmnosu",
+        "length": 9
+      },
+      {
+        "token": "paskaidrot",
+        "signature": "adikoprst",
+        "length": 10
+      },
+      {
+        "token": "attālums",
+        "signature": "aālmstu",
+        "length": 8
+      },
+      {
+        "token": "izcils",
+        "signature": "cilsz",
+        "length": 6
+      },
+      {
+        "token": "paskatīties",
+        "signature": "aeiīkpst",
+        "length": 11
+      },
+      {
+        "token": "romāns",
+        "signature": "āmnors",
+        "length": 6
+      },
+      {
+        "token": "uzstāties",
+        "signature": "āeistuz",
+        "length": 9
+      },
+      {
+        "token": "privatizācija",
+        "signature": "aācijprtvz",
+        "length": 13
+      },
+      {
+        "token": "ierast",
+        "signature": "aeirst",
+        "length": 6
+      },
+      {
+        "token": "papīrs",
+        "signature": "aīprs",
+        "length": 6
+      },
+      {
+        "token": "skolotāja",
+        "signature": "aājklost",
+        "length": 9
+      },
+      {
+        "token": "spriest",
+        "signature": "eiprst",
+        "length": 7
+      },
+      {
+        "token": "uzturēšana",
+        "signature": "aēnrštuz",
+        "length": 10
+      },
+      {
+        "token": "tava",
+        "signature": "atv",
+        "length": 4
+      },
+      {
+        "token": "ierīce",
+        "signature": "ceiīr",
+        "length": 6
+      },
+      {
+        "token": "diennakts",
+        "signature": "adeiknst",
+        "length": 9
+      },
+      {
+        "token": "peļņa",
+        "signature": "aeļņp",
+        "length": 5
+      },
+      {
+        "token": "uzstādīt",
+        "signature": "ādīstuz",
+        "length": 8
+      },
+      {
+        "token": "atnākt",
+        "signature": "aāknt",
+        "length": 6
+      },
+      {
+        "token": "ii",
+        "signature": "i",
+        "length": 2
+      },
+      {
+        "token": "piektdien",
+        "signature": "deiknpt",
+        "length": 9
+      },
+      {
+        "token": "likme",
+        "signature": "eiklm",
+        "length": 5
+      },
+      {
+        "token": "automobilis",
+        "signature": "abilmostu",
+        "length": 11
+      },
+      {
+        "token": "veiksmīgi",
+        "signature": "egiīkmsv",
+        "length": 9
+      },
+      {
+        "token": "sadarboties",
+        "signature": "abdeiorst",
+        "length": 11
+      },
+      {
+        "token": "skats",
+        "signature": "akst",
+        "length": 5
+      }
+    ],
+    "advanced": [
+      {
+        "token": "kauns",
+        "signature": "aknsu",
+        "length": 5
+      },
+      {
+        "token": "progress",
+        "signature": "egoprs",
+        "length": 8
+      },
+      {
+        "token": "aizrauties",
+        "signature": "aeirstuz",
+        "length": 10
+      },
+      {
+        "token": "daiļrade",
+        "signature": "adeiļr",
+        "length": 8
+      },
+      {
+        "token": "alianse",
+        "signature": "aeilns",
+        "length": 7
+      },
+      {
+        "token": "austrumeiropa",
+        "signature": "aeimoprstu",
+        "length": 13
+      },
+      {
+        "token": "godalga",
+        "signature": "adglo",
+        "length": 7
+      },
+      {
+        "token": "vads",
+        "signature": "adsv",
+        "length": 4
+      },
+      {
+        "token": "rads",
+        "signature": "adrs",
+        "length": 4
+      },
+      {
+        "token": "reorganizācija",
+        "signature": "aācegijnorz",
+        "length": 14
+      },
+      {
+        "token": "džezs",
+        "signature": "deszž",
+        "length": 5
+      },
+      {
+        "token": "lins",
+        "signature": "ilns",
+        "length": 4
+      },
+      {
+        "token": "brokastis",
+        "signature": "abikorst",
+        "length": 9
+      },
+      {
+        "token": "kreditors",
+        "signature": "deikorst",
+        "length": 9
+      },
+      {
+        "token": "lauris",
+        "signature": "ailrsu",
+        "length": 6
+      },
+      {
+        "token": "meksika",
+        "signature": "aeikms",
+        "length": 7
+      },
+      {
+        "token": "mīla",
+        "signature": "aīlm",
+        "length": 4
+      },
+      {
+        "token": "ietaupīt",
+        "signature": "aeiīptu",
+        "length": 8
+      },
+      {
+        "token": "pieskaitīt",
+        "signature": "aeiīkpst",
+        "length": 10
+      },
+      {
+        "token": "ārpolitika",
+        "signature": "aāikloprt",
+        "length": 10
+      },
+      {
+        "token": "detālplānojums",
+        "signature": "ādejlmnopstu",
+        "length": 14
+      },
+      {
+        "token": "dinamika",
+        "signature": "adikmn",
+        "length": 8
+      },
+      {
+        "token": "losandželosa",
+        "signature": "adelnosž",
+        "length": 12
+      },
+      {
+        "token": "sarmīte",
+        "signature": "aeīmrst",
+        "length": 7
+      },
+      {
+        "token": "defekts",
+        "signature": "defkst",
+        "length": 7
+      },
+      {
+        "token": "dinamisks",
+        "signature": "adikmns",
+        "length": 9
+      },
+      {
+        "token": "ārzemnieks",
+        "signature": "āeikmnrsz",
+        "length": 10
+      },
+      {
+        "token": "kukulis",
+        "signature": "iklsu",
+        "length": 7
+      },
+      {
+        "token": "senāts",
+        "signature": "āenst",
+        "length": 6
+      },
+      {
+        "token": "tecēt",
+        "signature": "ceēt",
+        "length": 5
+      },
+      {
+        "token": "valdnieks",
+        "signature": "adeiklnsv",
+        "length": 9
+      },
+      {
+        "token": "iekrist",
+        "signature": "eikrst",
+        "length": 7
+      },
+      {
+        "token": "nekāds",
+        "signature": "ādekns",
+        "length": 6
+      },
+      {
+        "token": "mūžīgs",
+        "signature": "gīmsūž",
+        "length": 6
+      },
+      {
+        "token": "līdzvērtīgs",
+        "signature": "dēgīlrstvz",
+        "length": 11
+      },
+      {
+        "token": "vērt",
+        "signature": "ērtv",
+        "length": 4
+      },
+      {
+        "token": "deivids",
+        "signature": "deisv",
+        "length": 7
+      },
+      {
+        "token": "sekotājs",
+        "signature": "āejkost",
+        "length": 8
+      },
+      {
+        "token": "taksometrs",
+        "signature": "aekmorst",
+        "length": 10
+      },
+      {
+        "token": "spriedze",
+        "signature": "deiprsz",
+        "length": 8
+      },
+      {
+        "token": "iespējamība",
+        "signature": "abeēiījmps",
+        "length": 11
+      },
+      {
+        "token": "ledusskapis",
+        "signature": "adeiklpsu",
+        "length": 11
+      },
+      {
+        "token": "panna",
+        "signature": "anp",
+        "length": 5
+      },
+      {
+        "token": "dambis",
+        "signature": "abdims",
+        "length": 6
+      },
+      {
+        "token": "ķiploks",
+        "signature": "ikķlops",
+        "length": 7
+      },
+      {
+        "token": "tablete",
+        "signature": "abelt",
+        "length": 7
+      },
+      {
+        "token": "aita",
+        "signature": "ait",
+        "length": 4
+      },
+      {
+        "token": "kp",
+        "signature": "kp",
+        "length": 2
+      },
+      {
+        "token": "zemi",
+        "signature": "eimz",
+        "length": 4
+      },
+      {
+        "token": "kuņģis",
+        "signature": "ģikņsu",
+        "length": 6
+      },
+      {
+        "token": "horvātija",
+        "signature": "aāhijortv",
+        "length": 9
+      },
+      {
+        "token": "savdabīgs",
+        "signature": "abdgīsv",
+        "length": 9
+      },
+      {
+        "token": "politiski",
+        "signature": "iklopst",
+        "length": 9
+      },
+      {
+        "token": "ieklausīties",
+        "signature": "aeiīklstu",
+        "length": 12
+      },
+      {
+        "token": "kipra",
+        "signature": "aikpr",
+        "length": 5
+      },
+      {
+        "token": "reputācija",
+        "signature": "aāceijprtu",
+        "length": 10
+      }
+    ]
+  }
+}

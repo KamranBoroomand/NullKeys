@@ -1,0 +1,3626 @@
+{
+  "packId": "swedish:common-words:core",
+  "languageId": "swedish",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "och",
+        "signature": "cho",
+        "length": 3
+      },
+      {
+        "token": "att",
+        "signature": "at",
+        "length": 3
+      },
+      {
+        "token": "han",
+        "signature": "ahn",
+        "length": 3
+      },
+      {
+        "token": "en",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "det",
+        "signature": "det",
+        "length": 3
+      },
+      {
+        "token": "på",
+        "signature": "åp",
+        "length": 2
+      },
+      {
+        "token": "som",
+        "signature": "mos",
+        "length": 3
+      },
+      {
+        "token": "jag",
+        "signature": "agj",
+        "length": 3
+      },
+      {
+        "token": "med",
+        "signature": "dem",
+        "length": 3
+      },
+      {
+        "token": "sig",
+        "signature": "gis",
+        "length": 3
+      },
+      {
+        "token": "hon",
+        "signature": "hno",
+        "length": 3
+      },
+      {
+        "token": "till",
+        "signature": "ilt",
+        "length": 4
+      },
+      {
+        "token": "är",
+        "signature": "är",
+        "length": 2
+      },
+      {
+        "token": "var",
+        "signature": "arv",
+        "length": 3
+      },
+      {
+        "token": "den",
+        "signature": "den",
+        "length": 3
+      },
+      {
+        "token": "för",
+        "signature": "för",
+        "length": 3
+      },
+      {
+        "token": "inte",
+        "signature": "eint",
+        "length": 4
+      },
+      {
+        "token": "så",
+        "signature": "ås",
+        "length": 2
+      },
+      {
+        "token": "av",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "om",
+        "signature": "mo",
+        "length": 2
+      },
+      {
+        "token": "ett",
+        "signature": "et",
+        "length": 3
+      },
+      {
+        "token": "du",
+        "signature": "du",
+        "length": 2
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "honom",
+        "signature": "hmno",
+        "length": 5
+      },
+      {
+        "token": "mig",
+        "signature": "gim",
+        "length": 3
+      },
+      {
+        "token": "har",
+        "signature": "ahr",
+        "length": 3
+      },
+      {
+        "token": "men",
+        "signature": "emn",
+        "length": 3
+      },
+      {
+        "token": "hade",
+        "signature": "adeh",
+        "length": 4
+      },
+      {
+        "token": "henne",
+        "signature": "ehn",
+        "length": 5
+      },
+      {
+        "token": "skulle",
+        "signature": "eklsu",
+        "length": 6
+      },
+      {
+        "token": "sade",
+        "signature": "ades",
+        "length": 4
+      },
+      {
+        "token": "nu",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "då",
+        "signature": "åd",
+        "length": 2
+      },
+      {
+        "token": "icke",
+        "signature": "ceik",
+        "length": 4
+      },
+      {
+        "token": "upp",
+        "signature": "pu",
+        "length": 3
+      },
+      {
+        "token": "kan",
+        "signature": "akn",
+        "length": 3
+      },
+      {
+        "token": "över",
+        "signature": "eörv",
+        "length": 4
+      },
+      {
+        "token": "min",
+        "signature": "imn",
+        "length": 3
+      },
+      {
+        "token": "eller",
+        "signature": "elr",
+        "length": 5
+      },
+      {
+        "token": "ska",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "där",
+        "signature": "ädr",
+        "length": 3
+      },
+      {
+        "token": "från",
+        "signature": "åfnr",
+        "length": 4
+      },
+      {
+        "token": "vid",
+        "signature": "div",
+        "length": 3
+      },
+      {
+        "token": "ut",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "gick",
+        "signature": "cgik",
+        "length": 4
+      },
+      {
+        "token": "kunde",
+        "signature": "deknu",
+        "length": 5
+      },
+      {
+        "token": "vara",
+        "signature": "arv",
+        "length": 4
+      },
+      {
+        "token": "väl",
+        "signature": "älv",
+        "length": 3
+      },
+      {
+        "token": "vad",
+        "signature": "adv",
+        "length": 3
+      },
+      {
+        "token": "dem",
+        "signature": "dem",
+        "length": 3
+      },
+      {
+        "token": "när",
+        "signature": "änr",
+        "length": 3
+      },
+      {
+        "token": "åt",
+        "signature": "åt",
+        "length": 2
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "hennes",
+        "signature": "ehns",
+        "length": 6
+      },
+      {
+        "token": "än",
+        "signature": "än",
+        "length": 2
+      },
+      {
+        "token": "efter",
+        "signature": "efrt",
+        "length": 5
+      },
+      {
+        "token": "mot",
+        "signature": "mot",
+        "length": 3
+      },
+      {
+        "token": "ha",
+        "signature": "ah",
+        "length": 2
+      },
+      {
+        "token": "in",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "kom",
+        "signature": "kmo",
+        "length": 3
+      },
+      {
+        "token": "mor",
+        "signature": "mor",
+        "length": 3
+      },
+      {
+        "token": "tog",
+        "signature": "got",
+        "length": 3
+      },
+      {
+        "token": "blev",
+        "signature": "belv",
+        "length": 4
+      },
+      {
+        "token": "fram",
+        "signature": "afmr",
+        "length": 4
+      },
+      {
+        "token": "här",
+        "signature": "ähr",
+        "length": 3
+      },
+      {
+        "token": "alla",
+        "signature": "al",
+        "length": 4
+      },
+      {
+        "token": "dig",
+        "signature": "dgi",
+        "length": 3
+      },
+      {
+        "token": "såg",
+        "signature": "ågs",
+        "length": 3
+      },
+      {
+        "token": "sa",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "under",
+        "signature": "denru",
+        "length": 5
+      },
+      {
+        "token": "ej",
+        "signature": "ej",
+        "length": 2
+      },
+      {
+        "token": "utan",
+        "signature": "antu",
+        "length": 4
+      },
+      {
+        "token": "något",
+        "signature": "ågnot",
+        "length": 5
+      },
+      {
+        "token": "bara",
+        "signature": "abr",
+        "length": 4
+      },
+      {
+        "token": "sitt",
+        "signature": "ist",
+        "length": 4
+      },
+      {
+        "token": "någon",
+        "signature": "ågno",
+        "length": 5
+      },
+      {
+        "token": "svarade",
+        "signature": "adersv",
+        "length": 7
+      },
+      {
+        "token": "vill",
+        "signature": "ilv",
+        "length": 4
+      },
+      {
+        "token": "sina",
+        "signature": "ains",
+        "length": 4
+      },
+      {
+        "token": "själv",
+        "signature": "äjlsv",
+        "length": 5
+      },
+      {
+        "token": "oss",
+        "signature": "os",
+        "length": 3
+      },
+      {
+        "token": "skall",
+        "signature": "akls",
+        "length": 5
+      },
+      {
+        "token": "mycket",
+        "signature": "cekmty",
+        "length": 6
+      },
+      {
+        "token": "ni",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "gå",
+        "signature": "åg",
+        "length": 2
+      },
+      {
+        "token": "vet",
+        "signature": "etv",
+        "length": 3
+      },
+      {
+        "token": "fru",
+        "signature": "fru",
+        "length": 3
+      },
+      {
+        "token": "detta",
+        "signature": "adet",
+        "length": 5
+      },
+      {
+        "token": "hur",
+        "signature": "hru",
+        "length": 3
+      },
+      {
+        "token": "herr",
+        "signature": "ehr",
+        "length": 4
+      },
+      {
+        "token": "ur",
+        "signature": "ru",
+        "length": 2
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "aldrig",
+        "signature": "adgilr",
+        "length": 6
+      },
+      {
+        "token": "få",
+        "signature": "åf",
+        "length": 2
+      },
+      {
+        "token": "ville",
+        "signature": "eilv",
+        "length": 5
+      },
+      {
+        "token": "satt",
+        "signature": "ast",
+        "length": 4
+      },
+      {
+        "token": "stod",
+        "signature": "dost",
+        "length": 4
+      },
+      {
+        "token": "bort",
+        "signature": "bort",
+        "length": 4
+      },
+      {
+        "token": "får",
+        "signature": "åfr",
+        "length": 3
+      },
+      {
+        "token": "allt",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "också",
+        "signature": "åckos",
+        "length": 5
+      },
+      {
+        "token": "andra",
+        "signature": "adnr",
+        "length": 5
+      },
+      {
+        "token": "ännu",
+        "signature": "änu",
+        "length": 4
+      },
+      {
+        "token": "blir",
+        "signature": "bilr",
+        "length": 4
+      },
+      {
+        "token": "tänkte",
+        "signature": "äeknt",
+        "length": 6
+      },
+      {
+        "token": "hela",
+        "signature": "aehl",
+        "length": 4
+      },
+      {
+        "token": "mitt",
+        "signature": "imt",
+        "length": 4
+      },
+      {
+        "token": "frågade",
+        "signature": "aådefgr",
+        "length": 7
+      },
+      {
+        "token": "göra",
+        "signature": "agör",
+        "length": 4
+      },
+      {
+        "token": "går",
+        "signature": "ågr",
+        "length": 3
+      },
+      {
+        "token": "varit",
+        "signature": "airtv",
+        "length": 5
+      },
+      {
+        "token": "måste",
+        "signature": "åemst",
+        "length": 5
+      },
+      {
+        "token": "gång",
+        "signature": "ågn",
+        "length": 4
+      },
+      {
+        "token": "ingenting",
+        "signature": "egint",
+        "length": 9
+      },
+      {
+        "token": "började",
+        "signature": "abdejör",
+        "length": 7
+      },
+      {
+        "token": "huvudet",
+        "signature": "dehtuv",
+        "length": 7
+      },
+      {
+        "token": "kommer",
+        "signature": "ekmor",
+        "length": 6
+      },
+      {
+        "token": "bli",
+        "signature": "bil",
+        "length": 3
+      },
+      {
+        "token": "gjorde",
+        "signature": "degjor",
+        "length": 6
+      },
+      {
+        "token": "nog",
+        "signature": "gno",
+        "length": 3
+      },
+      {
+        "token": "ingen",
+        "signature": "egin",
+        "length": 5
+      },
+      {
+        "token": "säger",
+        "signature": "äegrs",
+        "length": 5
+      },
+      {
+        "token": "ropade",
+        "signature": "adeopr",
+        "length": 6
+      },
+      {
+        "token": "satte",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "steg",
+        "signature": "egst",
+        "length": 4
+      },
+      {
+        "token": "greven",
+        "signature": "egnrv",
+        "length": 6
+      },
+      {
+        "token": "säga",
+        "signature": "aägs",
+        "length": 4
+      },
+      {
+        "token": "genom",
+        "signature": "egmno",
+        "length": 5
+      },
+      {
+        "token": "annat",
+        "signature": "ant",
+        "length": 5
+      },
+      {
+        "token": "kände",
+        "signature": "ädekn",
+        "length": 5
+      },
+      {
+        "token": "åter",
+        "signature": "åert",
+        "length": 4
+      },
+      {
+        "token": "far",
+        "signature": "afr",
+        "length": 3
+      },
+      {
+        "token": "två",
+        "signature": "åtv",
+        "length": 3
+      },
+      {
+        "token": "lilla",
+        "signature": "ail",
+        "length": 5
+      },
+      {
+        "token": "mer",
+        "signature": "emr",
+        "length": 3
+      },
+      {
+        "token": "några",
+        "signature": "aågnr",
+        "length": 5
+      },
+      {
+        "token": "redan",
+        "signature": "adenr",
+        "length": 5
+      },
+      {
+        "token": "ögonen",
+        "signature": "egnoö",
+        "length": 6
+      },
+      {
+        "token": "år",
+        "signature": "år",
+        "length": 2
+      },
+      {
+        "token": "denna",
+        "signature": "aden",
+        "length": 5
+      },
+      {
+        "token": "ju",
+        "signature": "ju",
+        "length": 2
+      },
+      {
+        "token": "gör",
+        "signature": "gör",
+        "length": 3
+      },
+      {
+        "token": "stund",
+        "signature": "dnstu",
+        "length": 5
+      },
+      {
+        "token": "flickan",
+        "signature": "acfikln",
+        "length": 7
+      },
+      {
+        "token": "igen",
+        "signature": "egin",
+        "length": 4
+      },
+      {
+        "token": "vände",
+        "signature": "ädenv",
+        "length": 5
+      },
+      {
+        "token": "ögon",
+        "signature": "gnoö",
+        "length": 4
+      },
+      {
+        "token": "alldeles",
+        "signature": "adels",
+        "length": 8
+      },
+      {
+        "token": "kanske",
+        "signature": "aekns",
+        "length": 6
+      },
+      {
+        "token": "prästen",
+        "signature": "äenprst",
+        "length": 7
+      },
+      {
+        "token": "er",
+        "signature": "er",
+        "length": 2
+      },
+      {
+        "token": "mellan",
+        "signature": "aelmn",
+        "length": 6
+      },
+      {
+        "token": "dörren",
+        "signature": "denör",
+        "length": 6
+      },
+      {
+        "token": "länge",
+        "signature": "äegln",
+        "length": 5
+      },
+      {
+        "token": "tror",
+        "signature": "ort",
+        "length": 4
+      },
+      {
+        "token": "gumman",
+        "signature": "agmnu",
+        "length": 6
+      },
+      {
+        "token": "många",
+        "signature": "aågmn",
+        "length": 5
+      },
+      {
+        "token": "höll",
+        "signature": "hlö",
+        "length": 4
+      },
+      {
+        "token": "nästan",
+        "signature": "aänst",
+        "length": 6
+      },
+      {
+        "token": "ord",
+        "signature": "dor",
+        "length": 3
+      },
+      {
+        "token": "dag",
+        "signature": "adg",
+        "length": 3
+      },
+      {
+        "token": "komma",
+        "signature": "akmo",
+        "length": 5
+      },
+      {
+        "token": "barn",
+        "signature": "abnr",
+        "length": 4
+      },
+      {
+        "token": "din",
+        "signature": "din",
+        "length": 3
+      },
+      {
+        "token": "handen",
+        "signature": "adehn",
+        "length": 6
+      },
+      {
+        "token": "hörde",
+        "signature": "dehör",
+        "length": 5
+      },
+      {
+        "token": "plötsligt",
+        "signature": "gilöpst",
+        "length": 9
+      },
+      {
+        "token": "fast",
+        "signature": "afst",
+        "length": 4
+      },
+      {
+        "token": "endast",
+        "signature": "adenst",
+        "length": 6
+      },
+      {
+        "token": "hand",
+        "signature": "adhn",
+        "length": 4
+      },
+      {
+        "token": "kring",
+        "signature": "giknr",
+        "length": 5
+      },
+      {
+        "token": "kära",
+        "signature": "aäkr",
+        "length": 4
+      },
+      {
+        "token": "ser",
+        "signature": "ers",
+        "length": 3
+      },
+      {
+        "token": "stora",
+        "signature": "aorst",
+        "length": 5
+      },
+      {
+        "token": "alltid",
+        "signature": "adilt",
+        "length": 6
+      },
+      {
+        "token": "gästgivarn",
+        "signature": "aäginrstv",
+        "length": 10
+      },
+      {
+        "token": "tänker",
+        "signature": "äeknrt",
+        "length": 6
+      },
+      {
+        "token": "därför",
+        "signature": "ädför",
+        "length": 6
+      },
+      {
+        "token": "låg",
+        "signature": "ågl",
+        "length": 3
+      },
+      {
+        "token": "hos",
+        "signature": "hos",
+        "length": 3
+      },
+      {
+        "token": "just",
+        "signature": "jstu",
+        "length": 4
+      },
+      {
+        "token": "någonting",
+        "signature": "åginot",
+        "length": 9
+      },
+      {
+        "token": "tid",
+        "signature": "dit",
+        "length": 3
+      },
+      {
+        "token": "länsman",
+        "signature": "aälmns",
+        "length": 7
+      },
+      {
+        "token": "tre",
+        "signature": "ert",
+        "length": 3
+      },
+      {
+        "token": "stor",
+        "signature": "orst",
+        "length": 4
+      },
+      {
+        "token": "liten",
+        "signature": "eilnt",
+        "length": 5
+      },
+      {
+        "token": "skrek",
+        "signature": "ekrs",
+        "length": 5
+      },
+      {
+        "token": "framför",
+        "signature": "afmör",
+        "length": 7
+      },
+      {
+        "token": "ty",
+        "signature": "ty",
+        "length": 2
+      },
+      {
+        "token": "drog",
+        "signature": "dgor",
+        "length": 4
+      },
+      {
+        "token": "annan",
+        "signature": "an",
+        "length": 5
+      },
+      {
+        "token": "gamla",
+        "signature": "aglm",
+        "length": 5
+      },
+      {
+        "token": "slog",
+        "signature": "glos",
+        "length": 4
+      },
+      {
+        "token": "tillbaka",
+        "signature": "abiklt",
+        "length": 8
+      },
+      {
+        "token": "fått",
+        "signature": "åft",
+        "length": 4
+      },
+      {
+        "token": "hem",
+        "signature": "ehm",
+        "length": 3
+      },
+      {
+        "token": "sagt",
+        "signature": "agst",
+        "length": 4
+      },
+      {
+        "token": "voro",
+        "signature": "orv",
+        "length": 4
+      },
+      {
+        "token": "vägen",
+        "signature": "äegnv",
+        "length": 5
+      },
+      {
+        "token": "bordet",
+        "signature": "bdeort",
+        "length": 6
+      },
+      {
+        "token": "gjort",
+        "signature": "gjort",
+        "length": 5
+      },
+      {
+        "token": "lade",
+        "signature": "adel",
+        "length": 4
+      },
+      {
+        "token": "rätt",
+        "signature": "ärt",
+        "length": 4
+      },
+      {
+        "token": "tala",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "väg",
+        "signature": "ägv",
+        "length": 3
+      },
+      {
+        "token": "litet",
+        "signature": "eilt",
+        "length": 5
+      },
+      {
+        "token": "sedan",
+        "signature": "adens",
+        "length": 5
+      },
+      {
+        "token": "visste",
+        "signature": "eistv",
+        "length": 6
+      },
+      {
+        "token": "vår",
+        "signature": "årv",
+        "length": 3
+      },
+      {
+        "token": "sätt",
+        "signature": "äst",
+        "length": 4
+      },
+      {
+        "token": "dess",
+        "signature": "des",
+        "length": 4
+      },
+      {
+        "token": "gav",
+        "signature": "agv",
+        "length": 3
+      },
+      {
+        "token": "lät",
+        "signature": "ält",
+        "length": 3
+      },
+      {
+        "token": "även",
+        "signature": "äenv",
+        "length": 4
+      },
+      {
+        "token": "båda",
+        "signature": "aåbd",
+        "length": 4
+      },
+      {
+        "token": "ansikte",
+        "signature": "aeiknst",
+        "length": 7
+      },
+      {
+        "token": "omkring",
+        "signature": "gikmnor",
+        "length": 7
+      },
+      {
+        "token": "reste",
+        "signature": "erst",
+        "length": 5
+      },
+      {
+        "token": "helt",
+        "signature": "ehlt",
+        "length": 4
+      },
+      {
+        "token": "kunna",
+        "signature": "aknu",
+        "length": 5
+      },
+      {
+        "token": "bakom",
+        "signature": "abkmo",
+        "length": 5
+      },
+      {
+        "token": "dessa",
+        "signature": "ades",
+        "length": 5
+      },
+      {
+        "token": "fortsatte",
+        "signature": "aeforst",
+        "length": 9
+      },
+      {
+        "token": "genast",
+        "signature": "aegnst",
+        "length": 6
+      },
+      {
+        "token": "snart",
+        "signature": "anrst",
+        "length": 5
+      },
+      {
+        "token": "deras",
+        "signature": "aders",
+        "length": 5
+      },
+      {
+        "token": "tyckte",
+        "signature": "cekty",
+        "length": 6
+      },
+      {
+        "token": "fall",
+        "signature": "afl",
+        "length": 4
+      },
+      {
+        "token": "händerna",
+        "signature": "aädehnr",
+        "length": 8
+      },
+      {
+        "token": "höra",
+        "signature": "ahör",
+        "length": 4
+      },
+      {
+        "token": "längre",
+        "signature": "äeglnr",
+        "length": 6
+      },
+      {
+        "token": "tro",
+        "signature": "ort",
+        "length": 3
+      },
+      {
+        "token": "varandra",
+        "signature": "adnrv",
+        "length": 8
+      },
+      {
+        "token": "veta",
+        "signature": "aetv",
+        "length": 4
+      },
+      {
+        "token": "ansiktet",
+        "signature": "aeiknst",
+        "length": 8
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "långt",
+        "signature": "åglnt",
+        "length": 5
+      },
+      {
+        "token": "mera",
+        "signature": "aemr",
+        "length": 4
+      },
+      {
+        "token": "stannade",
+        "signature": "adenst",
+        "length": 8
+      },
+      {
+        "token": "tiden",
+        "signature": "deint",
+        "length": 5
+      },
+      {
+        "token": "tar",
+        "signature": "art",
+        "length": 3
+      },
+      {
+        "token": "hör",
+        "signature": "hör",
+        "length": 3
+      },
+      {
+        "token": "ifrån",
+        "signature": "åfinr",
+        "length": 5
+      },
+      {
+        "token": "bättre",
+        "signature": "äbert",
+        "length": 6
+      },
+      {
+        "token": "ganska",
+        "signature": "agkns",
+        "length": 6
+      },
+      {
+        "token": "rädd",
+        "signature": "ädr",
+        "length": 4
+      },
+      {
+        "token": "gott",
+        "signature": "got",
+        "length": 4
+      },
+      {
+        "token": "heller",
+        "signature": "ehlr",
+        "length": 6
+      },
+      {
+        "token": "mumlade",
+        "signature": "adelmu",
+        "length": 7
+      },
+      {
+        "token": "ställde",
+        "signature": "ädelst",
+        "length": 7
+      },
+      {
+        "token": "upprepade",
+        "signature": "adepru",
+        "length": 9
+      },
+      {
+        "token": "bland",
+        "signature": "abdln",
+        "length": 5
+      },
+      {
+        "token": "känner",
+        "signature": "äeknr",
+        "length": 6
+      },
+      {
+        "token": "sett",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "ändå",
+        "signature": "åädn",
+        "length": 4
+      },
+      {
+        "token": "ensam",
+        "signature": "aemns",
+        "length": 5
+      },
+      {
+        "token": "samma",
+        "signature": "ams",
+        "length": 5
+      },
+      {
+        "token": "tänka",
+        "signature": "aäknt",
+        "length": 5
+      },
+      {
+        "token": "ta",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "verkligen",
+        "signature": "egiklnrv",
+        "length": 9
+      },
+      {
+        "token": "först",
+        "signature": "först",
+        "length": 5
+      },
+      {
+        "token": "händer",
+        "signature": "ädehnr",
+        "length": 6
+      },
+      {
+        "token": "lika",
+        "signature": "aikl",
+        "length": 4
+      },
+      {
+        "token": "dock",
+        "signature": "cdko",
+        "length": 4
+      },
+      {
+        "token": "fann",
+        "signature": "afn",
+        "length": 4
+      },
+      {
+        "token": "sakta",
+        "signature": "akst",
+        "length": 5
+      },
+      {
+        "token": "små",
+        "signature": "åms",
+        "length": 3
+      },
+      {
+        "token": "fönstret",
+        "signature": "efnörst",
+        "length": 8
+      },
+      {
+        "token": "människa",
+        "signature": "aäikmns",
+        "length": 8
+      },
+      {
+        "token": "sprang",
+        "signature": "agnprs",
+        "length": 6
+      },
+      {
+        "token": "står",
+        "signature": "årst",
+        "length": 4
+      },
+      {
+        "token": "folk",
+        "signature": "fklo",
+        "length": 4
+      },
+      {
+        "token": "första",
+        "signature": "aförst",
+        "length": 6
+      },
+      {
+        "token": "gubben",
+        "signature": "begnu",
+        "length": 6
+      },
+      {
+        "token": "kommit",
+        "signature": "ikmot",
+        "length": 6
+      },
+      {
+        "token": "saken",
+        "signature": "aekns",
+        "length": 5
+      },
+      {
+        "token": "sant",
+        "signature": "anst",
+        "length": 4
+      },
+      {
+        "token": "varje",
+        "signature": "aejrv",
+        "length": 5
+      },
+      {
+        "token": "gammal",
+        "signature": "aglm",
+        "length": 6
+      },
+      {
+        "token": "hustru",
+        "signature": "hrstu",
+        "length": 6
+      },
+      {
+        "token": "trappan",
+        "signature": "anprt",
+        "length": 7
+      },
+      {
+        "token": "enda",
+        "signature": "aden",
+        "length": 4
+      },
+      {
+        "token": "fanns",
+        "signature": "afns",
+        "length": 5
+      },
+      {
+        "token": "gården",
+        "signature": "ådegnr",
+        "length": 6
+      },
+      {
+        "token": "gått",
+        "signature": "ågt",
+        "length": 4
+      },
+      {
+        "token": "hastigt",
+        "signature": "aghist",
+        "length": 7
+      },
+      {
+        "token": "nåd",
+        "signature": "ådn",
+        "length": 3
+      },
+      {
+        "token": "sitter",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "skull",
+        "signature": "klsu",
+        "length": 5
+      },
+      {
+        "token": "vore",
+        "signature": "eorv",
+        "length": 4
+      },
+      {
+        "token": "ens",
+        "signature": "ens",
+        "length": 3
+      },
+      {
+        "token": "haft",
+        "signature": "afht",
+        "length": 4
+      },
+      {
+        "token": "talade",
+        "signature": "adelt",
+        "length": 6
+      },
+      {
+        "token": "varken",
+        "signature": "aeknrv",
+        "length": 6
+      },
+      {
+        "token": "trodde",
+        "signature": "deort",
+        "length": 6
+      },
+      {
+        "token": "tycktes",
+        "signature": "ceksty",
+        "length": 7
+      },
+      {
+        "token": "emot",
+        "signature": "emot",
+        "length": 4
+      },
+      {
+        "token": "hålla",
+        "signature": "aåhl",
+        "length": 5
+      },
+      {
+        "token": "varför",
+        "signature": "aförv",
+        "length": 6
+      },
+      {
+        "token": "blivit",
+        "signature": "biltv",
+        "length": 6
+      },
+      {
+        "token": "svarta",
+        "signature": "arstv",
+        "length": 6
+      },
+      {
+        "token": "röst",
+        "signature": "örst",
+        "length": 4
+      },
+      {
+        "token": "sidan",
+        "signature": "adins",
+        "length": 5
+      },
+      {
+        "token": "illa",
+        "signature": "ail",
+        "length": 4
+      },
+      {
+        "token": "par",
+        "signature": "apr",
+        "length": 3
+      },
+      {
+        "token": "stirrade",
+        "signature": "adeirst",
+        "length": 8
+      },
+      {
+        "token": "barnen",
+        "signature": "abenr",
+        "length": 6
+      },
+      {
+        "token": "vem",
+        "signature": "emv",
+        "length": 3
+      },
+      {
+        "token": "älskade",
+        "signature": "aädekls",
+        "length": 7
+      },
+      {
+        "token": "innan",
+        "signature": "ain",
+        "length": 5
+      },
+      {
+        "token": "mindre",
+        "signature": "deimnr",
+        "length": 6
+      },
+      {
+        "token": "taga",
+        "signature": "agt",
+        "length": 4
+      },
+      {
+        "token": "finns",
+        "signature": "fins",
+        "length": 5
+      },
+      {
+        "token": "flicka",
+        "signature": "acfikl",
+        "length": 6
+      },
+      {
+        "token": "hjärta",
+        "signature": "aähjrt",
+        "length": 6
+      },
+      {
+        "token": "mannen",
+        "signature": "aemn",
+        "length": 6
+      },
+      {
+        "token": "namn",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "sista",
+        "signature": "aist",
+        "length": 5
+      },
+      {
+        "token": "stort",
+        "signature": "orst",
+        "length": 5
+      },
+      {
+        "token": "visst",
+        "signature": "istv",
+        "length": 5
+      },
+      {
+        "token": "fråga",
+        "signature": "aåfgr",
+        "length": 5
+      },
+      {
+        "token": "gången",
+        "signature": "åegn",
+        "length": 6
+      },
+      {
+        "token": "kärlek",
+        "signature": "äeklr",
+        "length": 6
+      },
+      {
+        "token": "livet",
+        "signature": "eiltv",
+        "length": 5
+      },
+      {
+        "token": "log",
+        "signature": "glo",
+        "length": 3
+      },
+      {
+        "token": "rum",
+        "signature": "mru",
+        "length": 3
+      },
+      {
+        "token": "huvud",
+        "signature": "dhuv",
+        "length": 5
+      },
+      {
+        "token": "köket",
+        "signature": "eköt",
+        "length": 5
+      },
+      {
+        "token": "långsamt",
+        "signature": "aåglmnst",
+        "length": 8
+      },
+      {
+        "token": "sen",
+        "signature": "ens",
+        "length": 3
+      },
+      {
+        "token": "ända",
+        "signature": "aädn",
+        "length": 4
+      },
+      {
+        "token": "all",
+        "signature": "al",
+        "length": 3
+      },
+      {
+        "token": "dom",
+        "signature": "dmo",
+        "length": 3
+      },
+      {
+        "token": "ihop",
+        "signature": "hiop",
+        "length": 4
+      },
+      {
+        "token": "kvar",
+        "signature": "akrv",
+        "length": 4
+      },
+      {
+        "token": "magistern",
+        "signature": "aegimnrst",
+        "length": 9
+      },
+      {
+        "token": "sist",
+        "signature": "ist",
+        "length": 4
+      },
+      {
+        "token": "tyst",
+        "signature": "sty",
+        "length": 4
+      },
+      {
+        "token": "högt",
+        "signature": "ghöt",
+        "length": 4
+      },
+      {
+        "token": "lämnade",
+        "signature": "aädelmn",
+        "length": 7
+      },
+      {
+        "token": "ögonblick",
+        "signature": "bcgiklnoö",
+        "length": 9
+      },
+      {
+        "token": "dagen",
+        "signature": "adegn",
+        "length": 5
+      },
+      {
+        "token": "mun",
+        "signature": "mnu",
+        "length": 3
+      },
+      {
+        "token": "unga",
+        "signature": "agnu",
+        "length": 4
+      },
+      {
+        "token": "armarna",
+        "signature": "amnr",
+        "length": 7
+      },
+      {
+        "token": "bergmästaren",
+        "signature": "aäbegmnrst",
+        "length": 12
+      },
+      {
+        "token": "kroppen",
+        "signature": "eknopr",
+        "length": 7
+      },
+      {
+        "token": "vita",
+        "signature": "aitv",
+        "length": 4
+      },
+      {
+        "token": "borde",
+        "signature": "bdeor",
+        "length": 5
+      },
+      {
+        "token": "gånger",
+        "signature": "åegnr",
+        "length": 6
+      },
+      {
+        "token": "håller",
+        "signature": "åehlr",
+        "length": 6
+      },
+      {
+        "token": "viskade",
+        "signature": "adeiksv",
+        "length": 7
+      },
+      {
+        "token": "armen",
+        "signature": "aemnr",
+        "length": 5
+      },
+      {
+        "token": "både",
+        "signature": "åbde",
+        "length": 4
+      },
+      {
+        "token": "bäst",
+        "signature": "äbst",
+        "length": 4
+      },
+      {
+        "token": "dit",
+        "signature": "dit",
+        "length": 3
+      },
+      {
+        "token": "förr",
+        "signature": "för",
+        "length": 4
+      },
+      {
+        "token": "leva",
+        "signature": "aelv",
+        "length": 4
+      },
+      {
+        "token": "pojken",
+        "signature": "ejknop",
+        "length": 6
+      },
+      {
+        "token": "skrattade",
+        "signature": "adekrst",
+        "length": 9
+      },
+      {
+        "token": "stilla",
+        "signature": "ailst",
+        "length": 6
+      },
+      {
+        "token": "sådan",
+        "signature": "aådns",
+        "length": 5
+      },
+      {
+        "token": "vilja",
+        "signature": "aijlv",
+        "length": 5
+      },
+      {
+        "token": "föll",
+        "signature": "flö",
+        "length": 4
+      },
+      {
+        "token": "förde",
+        "signature": "deför",
+        "length": 5
+      },
+      {
+        "token": "helst",
+        "signature": "ehlst",
+        "length": 5
+      },
+      {
+        "token": "hårt",
+        "signature": "åhrt",
+        "length": 4
+      },
+      {
+        "token": "ung",
+        "signature": "gnu",
+        "length": 3
+      },
+      {
+        "token": "riktigt",
+        "signature": "gikrt",
+        "length": 7
+      },
+      {
+        "token": "viss",
+        "signature": "isv",
+        "length": 4
+      },
+      {
+        "token": "generalagenten",
+        "signature": "aeglnrt",
+        "length": 14
+      },
+      {
+        "token": "golvet",
+        "signature": "eglotv",
+        "length": 6
+      },
+      {
+        "token": "inför",
+        "signature": "finör",
+        "length": 5
+      },
+      {
+        "token": "kväll",
+        "signature": "äklv",
+        "length": 5
+      },
+      {
+        "token": "lugn",
+        "signature": "glnu",
+        "length": 4
+      },
+      {
+        "token": "lyfte",
+        "signature": "eflty",
+        "length": 5
+      },
+      {
+        "token": "lång",
+        "signature": "ågln",
+        "length": 4
+      },
+      {
+        "token": "natten",
+        "signature": "aent",
+        "length": 6
+      },
+      {
+        "token": "son",
+        "signature": "nos",
+        "length": 3
+      },
+      {
+        "token": "stackars",
+        "signature": "ackrst",
+        "length": 8
+      },
+      {
+        "token": "bredvid",
+        "signature": "bdeirv",
+        "length": 7
+      },
+      {
+        "token": "flickorna",
+        "signature": "acfiklnor",
+        "length": 9
+      },
+      {
+        "token": "hit",
+        "signature": "hit",
+        "length": 3
+      },
+      {
+        "token": "låt",
+        "signature": "ålt",
+        "length": 3
+      },
+      {
+        "token": "lätt",
+        "signature": "ält",
+        "length": 4
+      },
+      {
+        "token": "nära",
+        "signature": "aänr",
+        "length": 4
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "bar",
+        "signature": "abr",
+        "length": 3
+      },
+      {
+        "token": "eftersom",
+        "signature": "efmorst",
+        "length": 8
+      },
+      {
+        "token": "ena",
+        "signature": "aen",
+        "length": 3
+      },
+      {
+        "token": "följde",
+        "signature": "defjlö",
+        "length": 6
+      },
+      {
+        "token": "lämna",
+        "signature": "aälmn",
+        "length": 5
+      },
+      {
+        "token": "ryggen",
+        "signature": "egnry",
+        "length": 6
+      },
+      {
+        "token": "slutligen",
+        "signature": "egilnstu",
+        "length": 9
+      },
+      {
+        "token": "tante",
+        "signature": "aent",
+        "length": 5
+      },
+      {
+        "token": "grevinnan",
+        "signature": "aeginrv",
+        "length": 9
+      },
+      {
+        "token": "långa",
+        "signature": "aågln",
+        "length": 5
+      },
+      {
+        "token": "rummet",
+        "signature": "emrtu",
+        "length": 6
+      },
+      {
+        "token": "svart",
+        "signature": "arstv",
+        "length": 5
+      },
+      {
+        "token": "tagit",
+        "signature": "agit",
+        "length": 5
+      },
+      {
+        "token": "damerna",
+        "signature": "ademnr",
+        "length": 7
+      },
+      {
+        "token": "dotter",
+        "signature": "deort",
+        "length": 6
+      },
+      {
+        "token": "fröken",
+        "signature": "efknör",
+        "length": 6
+      },
+      {
+        "token": "förbi",
+        "signature": "bfiör",
+        "length": 5
+      },
+      {
+        "token": "kvinna",
+        "signature": "aiknv",
+        "length": 6
+      },
+      {
+        "token": "stack",
+        "signature": "ackst",
+        "length": 5
+      },
+      {
+        "token": "alltjämt",
+        "signature": "aäjlmt",
+        "length": 8
+      },
+      {
+        "token": "förstår",
+        "signature": "åförst",
+        "length": 7
+      },
+      {
+        "token": "lite",
+        "signature": "eilt",
+        "length": 4
+      },
+      {
+        "token": "plats",
+        "signature": "alpst",
+        "length": 5
+      },
+      {
+        "token": "själva",
+        "signature": "aäjlsv",
+        "length": 6
+      },
+      {
+        "token": "skogen",
+        "signature": "egknos",
+        "length": 6
+      },
+      {
+        "token": "stället",
+        "signature": "äelst",
+        "length": 7
+      },
+      {
+        "token": "vars",
+        "signature": "arsv",
+        "length": 4
+      },
+      {
+        "token": "vänner",
+        "signature": "äenrv",
+        "length": 6
+      },
+      {
+        "token": "förstod",
+        "signature": "dfoörst",
+        "length": 7
+      },
+      {
+        "token": "klockan",
+        "signature": "acklno",
+        "length": 7
+      },
+      {
+        "token": "nej",
+        "signature": "ejn",
+        "length": 3
+      },
+      {
+        "token": "sida",
+        "signature": "adis",
+        "length": 4
+      },
+      {
+        "token": "slag",
+        "signature": "agls",
+        "length": 4
+      },
+      {
+        "token": "tycker",
+        "signature": "cekrty",
+        "length": 6
+      },
+      {
+        "token": "vidare",
+        "signature": "adeirv",
+        "length": 6
+      },
+      {
+        "token": "vän",
+        "signature": "änv",
+        "length": 3
+      },
+      {
+        "token": "äro",
+        "signature": "äor",
+        "length": 3
+      },
+      {
+        "token": "borta",
+        "signature": "abort",
+        "length": 5
+      },
+      {
+        "token": "greve",
+        "signature": "egrv",
+        "length": 5
+      },
+      {
+        "token": "huset",
+        "signature": "ehstu",
+        "length": 5
+      },
+      {
+        "token": "kastade",
+        "signature": "adekst",
+        "length": 7
+      },
+      {
+        "token": "rörelse",
+        "signature": "elörs",
+        "length": 7
+      },
+      {
+        "token": "smula",
+        "signature": "almsu",
+        "length": 5
+      },
+      {
+        "token": "vart",
+        "signature": "artv",
+        "length": 4
+      },
+      {
+        "token": "visade",
+        "signature": "adeisv",
+        "length": 6
+      },
+      {
+        "token": "betraktade",
+        "signature": "abdekrt",
+        "length": 10
+      },
+      {
+        "token": "ditt",
+        "signature": "dit",
+        "length": 4
+      },
+      {
+        "token": "gingo",
+        "signature": "gino",
+        "length": 5
+      },
+      {
+        "token": "hört",
+        "signature": "hört",
+        "length": 4
+      },
+      {
+        "token": "kropp",
+        "signature": "kopr",
+        "length": 5
+      },
+      {
+        "token": "ligger",
+        "signature": "egilr",
+        "length": 6
+      },
+      {
+        "token": "liksom",
+        "signature": "iklmos",
+        "length": 6
+      },
+      {
+        "token": "sköt",
+        "signature": "köst",
+        "length": 4
+      },
+      {
+        "token": "sväran",
+        "signature": "aänrsv",
+        "length": 6
+      },
+      {
+        "token": "sökte",
+        "signature": "eköst",
+        "length": 5
+      },
+      {
+        "token": "tunga",
+        "signature": "agntu",
+        "length": 5
+      },
+      {
+        "token": "bästa",
+        "signature": "aäbst",
+        "length": 5
+      },
+      {
+        "token": "dö",
+        "signature": "dö",
+        "length": 2
+      },
+      {
+        "token": "gärna",
+        "signature": "aägnr",
+        "length": 5
+      },
+      {
+        "token": "alls",
+        "signature": "als",
+        "length": 4
+      },
+      {
+        "token": "doktor",
+        "signature": "dkort",
+        "length": 6
+      },
+      {
+        "token": "egen",
+        "signature": "egn",
+        "length": 4
+      },
+      {
+        "token": "emellertid",
+        "signature": "deilmrt",
+        "length": 10
+      },
+      {
+        "token": "hängde",
+        "signature": "ädeghn",
+        "length": 6
+      },
+      {
+        "token": "lugnt",
+        "signature": "glntu",
+        "length": 5
+      },
+      {
+        "token": "mest",
+        "signature": "emst",
+        "length": 4
+      },
+      {
+        "token": "munnen",
+        "signature": "emnu",
+        "length": 6
+      },
+      {
+        "token": "måtte",
+        "signature": "åemt",
+        "length": 5
+      },
+      {
+        "token": "runt",
+        "signature": "nrtu",
+        "length": 4
+      },
+      {
+        "token": "sak",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "strök",
+        "signature": "körst",
+        "length": 5
+      },
+      {
+        "token": "tag",
+        "signature": "agt",
+        "length": 3
+      },
+      {
+        "token": "bad",
+        "signature": "abd",
+        "length": 3
+      },
+      {
+        "token": "behöver",
+        "signature": "behörv",
+        "length": 7
+      },
+      {
+        "token": "förstå",
+        "signature": "åförst",
+        "length": 6
+      },
+      {
+        "token": "ge",
+        "signature": "eg",
+        "length": 2
+      },
+      {
+        "token": "mat",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "morgon",
+        "signature": "gmnor",
+        "length": 6
+      },
+      {
+        "token": "nickade",
+        "signature": "acdeikn",
+        "length": 7
+      },
+      {
+        "token": "tills",
+        "signature": "ilst",
+        "length": 5
+      },
+      {
+        "token": "uppför",
+        "signature": "föpru",
+        "length": 6
+      },
+      {
+        "token": "död",
+        "signature": "dö",
+        "length": 3
+      },
+      {
+        "token": "fem",
+        "signature": "efm",
+        "length": 3
+      },
+      {
+        "token": "glädje",
+        "signature": "ädegjl",
+        "length": 6
+      },
+      {
+        "token": "goda",
+        "signature": "adgo",
+        "length": 4
+      },
+      {
+        "token": "hällen",
+        "signature": "äehln",
+        "length": 6
+      },
+      {
+        "token": "kyrkoherden",
+        "signature": "dehknory",
+        "length": 11
+      },
+      {
+        "token": "lyssnade",
+        "signature": "adelnsy",
+        "length": 8
+      }
+    ],
+    "developing": [
+      {
+        "token": "passande",
+        "signature": "adenps",
+        "length": 8
+      },
+      {
+        "token": "plikt",
+        "signature": "iklpt",
+        "length": 5
+      },
+      {
+        "token": "pojkar",
+        "signature": "ajkopr",
+        "length": 6
+      },
+      {
+        "token": "pratar",
+        "signature": "aprt",
+        "length": 6
+      },
+      {
+        "token": "rann",
+        "signature": "anr",
+        "length": 4
+      },
+      {
+        "token": "rock",
+        "signature": "ckor",
+        "length": 4
+      },
+      {
+        "token": "rätade",
+        "signature": "aädert",
+        "length": 6
+      },
+      {
+        "token": "rätten",
+        "signature": "äenrt",
+        "length": 6
+      },
+      {
+        "token": "skarp",
+        "signature": "akprs",
+        "length": 5
+      },
+      {
+        "token": "skreko",
+        "signature": "ekors",
+        "length": 6
+      },
+      {
+        "token": "skrika",
+        "signature": "aikrs",
+        "length": 6
+      },
+      {
+        "token": "slåss",
+        "signature": "åls",
+        "length": 5
+      },
+      {
+        "token": "släpade",
+        "signature": "aädelps",
+        "length": 7
+      },
+      {
+        "token": "snyftade",
+        "signature": "adefnsty",
+        "length": 8
+      },
+      {
+        "token": "snälla",
+        "signature": "aälns",
+        "length": 6
+      },
+      {
+        "token": "spegeln",
+        "signature": "eglnps",
+        "length": 7
+      },
+      {
+        "token": "spelade",
+        "signature": "adelps",
+        "length": 7
+      },
+      {
+        "token": "stigande",
+        "signature": "adeginst",
+        "length": 8
+      },
+      {
+        "token": "stryker",
+        "signature": "ekrsty",
+        "length": 7
+      },
+      {
+        "token": "stående",
+        "signature": "ådenst",
+        "length": 7
+      },
+      {
+        "token": "säg",
+        "signature": "ägs",
+        "length": 3
+      },
+      {
+        "token": "sälja",
+        "signature": "aäjls",
+        "length": 5
+      },
+      {
+        "token": "tjänare",
+        "signature": "aäejnrt",
+        "length": 7
+      },
+      {
+        "token": "torparen",
+        "signature": "aenoprt",
+        "length": 8
+      },
+      {
+        "token": "träd",
+        "signature": "ädrt",
+        "length": 4
+      },
+      {
+        "token": "trädgård",
+        "signature": "åädgrt",
+        "length": 8
+      },
+      {
+        "token": "träffat",
+        "signature": "aäfrt",
+        "length": 7
+      },
+      {
+        "token": "tänder",
+        "signature": "ädenrt",
+        "length": 6
+      },
+      {
+        "token": "ungar",
+        "signature": "agnru",
+        "length": 5
+      },
+      {
+        "token": "uppåt",
+        "signature": "åptu",
+        "length": 5
+      },
+      {
+        "token": "utseende",
+        "signature": "denstu",
+        "length": 8
+      },
+      {
+        "token": "va",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "vansinnig",
+        "signature": "aginsv",
+        "length": 9
+      },
+      {
+        "token": "varpå",
+        "signature": "aåprv",
+        "length": 5
+      },
+      {
+        "token": "vassen",
+        "signature": "aensv",
+        "length": 6
+      },
+      {
+        "token": "vrå",
+        "signature": "årv",
+        "length": 3
+      },
+      {
+        "token": "väckte",
+        "signature": "äcektv",
+        "length": 6
+      },
+      {
+        "token": "vägar",
+        "signature": "aägrv",
+        "length": 5
+      },
+      {
+        "token": "yngling",
+        "signature": "gilny",
+        "length": 7
+      },
+      {
+        "token": "äldsta",
+        "signature": "aädlst",
+        "length": 6
+      },
+      {
+        "token": "äter",
+        "signature": "äert",
+        "length": 4
+      },
+      {
+        "token": "ögat",
+        "signature": "agöt",
+        "length": 4
+      },
+      {
+        "token": "öppen",
+        "signature": "enöp",
+        "length": 5
+      },
+      {
+        "token": "öronen",
+        "signature": "enoör",
+        "length": 6
+      },
+      {
+        "token": "annorlunda",
+        "signature": "adlnoru",
+        "length": 10
+      },
+      {
+        "token": "arbetet",
+        "signature": "abert",
+        "length": 7
+      },
+      {
+        "token": "baklänges",
+        "signature": "aäbegklns",
+        "length": 9
+      },
+      {
+        "token": "barndom",
+        "signature": "abdmnor",
+        "length": 7
+      },
+      {
+        "token": "bedja",
+        "signature": "abdej",
+        "length": 5
+      },
+      {
+        "token": "behov",
+        "signature": "behov",
+        "length": 5
+      },
+      {
+        "token": "bit",
+        "signature": "bit",
+        "length": 3
+      },
+      {
+        "token": "bodde",
+        "signature": "bdeo",
+        "length": 5
+      },
+      {
+        "token": "brydde",
+        "signature": "bdery",
+        "length": 6
+      },
+      {
+        "token": "bädd",
+        "signature": "äbd",
+        "length": 4
+      },
+      {
+        "token": "dagens",
+        "signature": "adegns",
+        "length": 6
+      },
+      {
+        "token": "dans",
+        "signature": "adns",
+        "length": 4
+      },
+      {
+        "token": "dansen",
+        "signature": "adens",
+        "length": 6
+      },
+      {
+        "token": "djupare",
+        "signature": "adejpru",
+        "length": 7
+      },
+      {
+        "token": "dragit",
+        "signature": "adgirt",
+        "length": 6
+      },
+      {
+        "token": "drogo",
+        "signature": "dgor",
+        "length": 5
+      },
+      {
+        "token": "därav",
+        "signature": "aädrv",
+        "length": 5
+      },
+      {
+        "token": "faller",
+        "signature": "aeflr",
+        "length": 6
+      },
+      {
+        "token": "fallet",
+        "signature": "aeflt",
+        "length": 6
+      },
+      {
+        "token": "fattigdom",
+        "signature": "adfgimot",
+        "length": 9
+      },
+      {
+        "token": "fina",
+        "signature": "afin",
+        "length": 4
+      },
+      {
+        "token": "finnas",
+        "signature": "afins",
+        "length": 6
+      },
+      {
+        "token": "fjärran",
+        "signature": "aäfjnr",
+        "length": 7
+      },
+      {
+        "token": "flytta",
+        "signature": "aflty",
+        "length": 6
+      },
+      {
+        "token": "folket",
+        "signature": "efklot",
+        "length": 6
+      },
+      {
+        "token": "foten",
+        "signature": "efnot",
+        "length": 5
+      },
+      {
+        "token": "fria",
+        "signature": "afir",
+        "length": 4
+      },
+      {
+        "token": "fågeln",
+        "signature": "åefgln",
+        "length": 6
+      },
+      {
+        "token": "fållbänken",
+        "signature": "åäbefkln",
+        "length": 10
+      },
+      {
+        "token": "färdig",
+        "signature": "ädfgir",
+        "length": 6
+      },
+      {
+        "token": "förargelse",
+        "signature": "aefglörs",
+        "length": 10
+      },
+      {
+        "token": "förblev",
+        "signature": "beflörv",
+        "length": 7
+      },
+      {
+        "token": "föremål",
+        "signature": "åeflmör",
+        "length": 7
+      },
+      {
+        "token": "föreslog",
+        "signature": "efgloörs",
+        "length": 8
+      },
+      {
+        "token": "förfärlig",
+        "signature": "äfgilör",
+        "length": 9
+      },
+      {
+        "token": "förslag",
+        "signature": "afglörs",
+        "length": 7
+      },
+      {
+        "token": "glädjen",
+        "signature": "ädegjln",
+        "length": 7
+      },
+      {
+        "token": "granskade",
+        "signature": "adegknrs",
+        "length": 9
+      },
+      {
+        "token": "greps",
+        "signature": "egprs",
+        "length": 5
+      },
+      {
+        "token": "grubblade",
+        "signature": "abdeglru",
+        "length": 9
+      },
+      {
+        "token": "gula",
+        "signature": "aglu",
+        "length": 4
+      },
+      {
+        "token": "halv",
+        "signature": "ahlv",
+        "length": 4
+      },
+      {
+        "token": "hammare",
+        "signature": "aehmr",
+        "length": 7
+      },
+      {
+        "token": "hederlig",
+        "signature": "deghilr",
+        "length": 8
+      },
+      {
+        "token": "helvete",
+        "signature": "ehltv",
+        "length": 7
+      },
+      {
+        "token": "historier",
+        "signature": "ehiorst",
+        "length": 9
+      },
+      {
+        "token": "husbond",
+        "signature": "bdhnosu",
+        "length": 7
+      },
+      {
+        "token": "hänga",
+        "signature": "aäghn",
+        "length": 5
+      },
+      {
+        "token": "ingalunda",
+        "signature": "adgilnu",
+        "length": 9
+      },
+      {
+        "token": "jämt",
+        "signature": "äjmt",
+        "length": 4
+      },
+      {
+        "token": "kaffe",
+        "signature": "aefk",
+        "length": 5
+      },
+      {
+        "token": "kammare",
+        "signature": "aekmr",
+        "length": 7
+      },
+      {
+        "token": "kinder",
+        "signature": "deiknr",
+        "length": 6
+      },
+      {
+        "token": "klockstapeln",
+        "signature": "aceklnopst",
+        "length": 12
+      },
+      {
+        "token": "knäppte",
+        "signature": "äeknpt",
+        "length": 7
+      },
+      {
+        "token": "kolrakärran",
+        "signature": "aäklnor",
+        "length": 11
+      },
+      {
+        "token": "kors",
+        "signature": "kors",
+        "length": 4
+      },
+      {
+        "token": "kändes",
+        "signature": "ädekns",
+        "length": 6
+      },
+      {
+        "token": "käringen",
+        "signature": "äegiknr",
+        "length": 8
+      },
+      {
+        "token": "kör",
+        "signature": "kör",
+        "length": 3
+      },
+      {
+        "token": "lindarna",
+        "signature": "adilnr",
+        "length": 8
+      },
+      {
+        "token": "loss",
+        "signature": "los",
+        "length": 4
+      },
+      {
+        "token": "låna",
+        "signature": "aåln",
+        "length": 4
+      },
+      {
+        "token": "längst",
+        "signature": "äglnst",
+        "length": 6
+      },
+      {
+        "token": "läppar",
+        "signature": "aälpr",
+        "length": 6
+      },
+      {
+        "token": "lön",
+        "signature": "lnö",
+        "length": 3
+      },
+      {
+        "token": "manliga",
+        "signature": "agilmn",
+        "length": 7
+      },
+      {
+        "token": "medel",
+        "signature": "delm",
+        "length": 5
+      },
+      {
+        "token": "mjuka",
+        "signature": "ajkmu",
+        "length": 5
+      },
+      {
+        "token": "mål",
+        "signature": "ålm",
+        "length": 3
+      },
+      {
+        "token": "märkte",
+        "signature": "äekmrt",
+        "length": 6
+      },
+      {
+        "token": "nå",
+        "signature": "ån",
+        "length": 2
+      },
+      {
+        "token": "närheten",
+        "signature": "äehnrt",
+        "length": 8
+      },
+      {
+        "token": "näsa",
+        "signature": "aäns",
+        "length": 4
+      },
+      {
+        "token": "piga",
+        "signature": "agip",
+        "length": 4
+      },
+      {
+        "token": "pigor",
+        "signature": "giopr",
+        "length": 5
+      },
+      {
+        "token": "påstod",
+        "signature": "ådopst",
+        "length": 6
+      },
+      {
+        "token": "ryste",
+        "signature": "ersty",
+        "length": 5
+      },
+      {
+        "token": "rådde",
+        "signature": "åder",
+        "length": 5
+      },
+      {
+        "token": "rättaren",
+        "signature": "aäenrt",
+        "length": 8
+      },
+      {
+        "token": "saknade",
+        "signature": "adekns",
+        "length": 7
+      },
+      {
+        "token": "silver",
+        "signature": "eilrsv",
+        "length": 6
+      },
+      {
+        "token": "sinne",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "sjungande",
+        "signature": "adegjnsu",
+        "length": 9
+      },
+      {
+        "token": "sker",
+        "signature": "ekrs",
+        "length": 4
+      },
+      {
+        "token": "skog",
+        "signature": "gkos",
+        "length": 4
+      },
+      {
+        "token": "skola",
+        "signature": "aklos",
+        "length": 5
+      },
+      {
+        "token": "skrämde",
+        "signature": "ädekmrs",
+        "length": 7
+      },
+      {
+        "token": "smak",
+        "signature": "akms",
+        "length": 4
+      },
+      {
+        "token": "smycken",
+        "signature": "cekmnsy",
+        "length": 7
+      },
+      {
+        "token": "smällde",
+        "signature": "ädelms",
+        "length": 7
+      },
+      {
+        "token": "snabbt",
+        "signature": "abnst",
+        "length": 6
+      },
+      {
+        "token": "spänning",
+        "signature": "äginps",
+        "length": 8
+      },
+      {
+        "token": "spärrade",
+        "signature": "aädeprs",
+        "length": 8
+      },
+      {
+        "token": "stammade",
+        "signature": "ademst",
+        "length": 8
+      },
+      {
+        "token": "stycken",
+        "signature": "ceknsty",
+        "length": 7
+      },
+      {
+        "token": "syndernas",
+        "signature": "adenrsy",
+        "length": 9
+      },
+      {
+        "token": "sång",
+        "signature": "ågns",
+        "length": 4
+      },
+      {
+        "token": "sängs",
+        "signature": "ägns",
+        "length": 5
+      },
+      {
+        "token": "tidigt",
+        "signature": "dgit",
+        "length": 6
+      },
+      {
+        "token": "tjocka",
+        "signature": "acjkot",
+        "length": 6
+      },
+      {
+        "token": "tystnaden",
+        "signature": "adensty",
+        "length": 9
+      },
+      {
+        "token": "ungdomen",
+        "signature": "degmnou",
+        "length": 8
+      },
+      {
+        "token": "upphörde",
+        "signature": "dehöpru",
+        "length": 8
+      },
+      {
+        "token": "utmed",
+        "signature": "demtu",
+        "length": 5
+      },
+      {
+        "token": "vek",
+        "signature": "ekv",
+        "length": 3
+      },
+      {
+        "token": "verkade",
+        "signature": "adekrv",
+        "length": 7
+      },
+      {
+        "token": "vrede",
+        "signature": "derv",
+        "length": 5
+      },
+      {
+        "token": "yngre",
+        "signature": "egnry",
+        "length": 5
+      },
+      {
+        "token": "åren",
+        "signature": "åenr",
+        "length": 4
+      },
+      {
+        "token": "återvända",
+        "signature": "aåädenrtv",
+        "length": 9
+      },
+      {
+        "token": "ämnade",
+        "signature": "aädemn",
+        "length": 6
+      },
+      {
+        "token": "äpple",
+        "signature": "äelp",
+        "length": 5
+      },
+      {
+        "token": "ära",
+        "signature": "aär",
+        "length": 3
+      },
+      {
+        "token": "öron",
+        "signature": "noör",
+        "length": 4
+      },
+      {
+        "token": "angår",
+        "signature": "aågnr",
+        "length": 5
+      },
+      {
+        "token": "antagligen",
+        "signature": "aegilnt",
+        "length": 10
+      },
+      {
+        "token": "avsky",
+        "signature": "aksvy",
+        "length": 5
+      },
+      {
+        "token": "begärde",
+        "signature": "äbdegr",
+        "length": 7
+      },
+      {
+        "token": "bekännelse",
+        "signature": "äbeklns",
+        "length": 10
+      },
+      {
+        "token": "berodde",
+        "signature": "bdeor",
+        "length": 7
+      },
+      {
+        "token": "besked",
+        "signature": "bdeks",
+        "length": 6
+      },
+      {
+        "token": "bittert",
+        "signature": "beirt",
+        "length": 7
+      },
+      {
+        "token": "bjuder",
+        "signature": "bdejru",
+        "length": 6
+      },
+      {
+        "token": "bleve",
+        "signature": "belv",
+        "length": 5
+      },
+      {
+        "token": "blodet",
+        "signature": "bdelot",
+        "length": 6
+      },
+      {
+        "token": "blyg",
+        "signature": "bgly",
+        "length": 4
+      },
+      {
+        "token": "brann",
+        "signature": "abnr",
+        "length": 5
+      },
+      {
+        "token": "bryr",
+        "signature": "bry",
+        "length": 4
+      },
+      {
+        "token": "båten",
+        "signature": "åbent",
+        "length": 5
+      },
+      {
+        "token": "drömt",
+        "signature": "dmört",
+        "length": 5
+      },
+      {
+        "token": "dålig",
+        "signature": "ådgil",
+        "length": 5
+      },
+      {
+        "token": "däruppe",
+        "signature": "ädepru",
+        "length": 7
+      },
+      {
+        "token": "enligt",
+        "signature": "egilnt",
+        "length": 6
+      },
+      {
+        "token": "era",
+        "signature": "aer",
+        "length": 3
+      },
+      {
+        "token": "fadern",
+        "signature": "adefnr",
+        "length": 6
+      },
+      {
+        "token": "fantasi",
+        "signature": "afinst",
+        "length": 7
+      },
+      {
+        "token": "fattigt",
+        "signature": "afgit",
+        "length": 7
+      },
+      {
+        "token": "femton",
+        "signature": "efmnot",
+        "length": 6
+      },
+      {
+        "token": "fickan",
+        "signature": "acfikn",
+        "length": 6
+      },
+      {
+        "token": "finger",
+        "signature": "efginr",
+        "length": 6
+      },
+      {
+        "token": "fingrar",
+        "signature": "afginr",
+        "length": 7
+      },
+      {
+        "token": "frid",
+        "signature": "dfir",
+        "length": 4
+      },
+      {
+        "token": "fyllda",
+        "signature": "adfly",
+        "length": 6
+      },
+      {
+        "token": "fägnar",
+        "signature": "aäfgnr",
+        "length": 6
+      },
+      {
+        "token": "färg",
+        "signature": "äfgr",
+        "length": 4
+      }
+    ],
+    "advanced": [
+      {
+        "token": "krumbukter",
+        "signature": "bekmrtu",
+        "length": 10
+      },
+      {
+        "token": "kryper",
+        "signature": "ekpry",
+        "length": 6
+      },
+      {
+        "token": "krängde",
+        "signature": "ädegknr",
+        "length": 7
+      },
+      {
+        "token": "kvantum",
+        "signature": "akmntuv",
+        "length": 7
+      },
+      {
+        "token": "kvinnors",
+        "signature": "iknorsv",
+        "length": 8
+      },
+      {
+        "token": "kvällar",
+        "signature": "aäklrv",
+        "length": 7
+      },
+      {
+        "token": "kyrkherrn",
+        "signature": "ehknry",
+        "length": 9
+      },
+      {
+        "token": "kyss",
+        "signature": "ksy",
+        "length": 4
+      },
+      {
+        "token": "käken",
+        "signature": "äekn",
+        "length": 5
+      },
+      {
+        "token": "käresta",
+        "signature": "aäekrst",
+        "length": 7
+      },
+      {
+        "token": "kärrans",
+        "signature": "aäknrs",
+        "length": 7
+      },
+      {
+        "token": "kärret",
+        "signature": "äekrt",
+        "length": 6
+      },
+      {
+        "token": "kök",
+        "signature": "kö",
+        "length": 3
+      },
+      {
+        "token": "köksdörren",
+        "signature": "deknörs",
+        "length": 10
+      },
+      {
+        "token": "könen",
+        "signature": "eknö",
+        "length": 5
+      },
+      {
+        "token": "köttet",
+        "signature": "eköt",
+        "length": 6
+      },
+      {
+        "token": "lakanen",
+        "signature": "aekln",
+        "length": 7
+      },
+      {
+        "token": "lamm",
+        "signature": "alm",
+        "length": 4
+      },
+      {
+        "token": "lampa",
+        "signature": "almp",
+        "length": 5
+      },
+      {
+        "token": "leden",
+        "signature": "deln",
+        "length": 5
+      },
+      {
+        "token": "lejt",
+        "signature": "ejlt",
+        "length": 4
+      },
+      {
+        "token": "leka",
+        "signature": "aekl",
+        "length": 4
+      },
+      {
+        "token": "leksaker",
+        "signature": "aeklrs",
+        "length": 8
+      },
+      {
+        "token": "lidelse",
+        "signature": "deils",
+        "length": 7
+      },
+      {
+        "token": "likaledes",
+        "signature": "adeikls",
+        "length": 9
+      },
+      {
+        "token": "likaså",
+        "signature": "aåikls",
+        "length": 6
+      },
+      {
+        "token": "likblek",
+        "signature": "beikl",
+        "length": 7
+      },
+      {
+        "token": "lindade",
+        "signature": "adeiln",
+        "length": 7
+      },
+      {
+        "token": "listig",
+        "signature": "gilst",
+        "length": 6
+      },
+      {
+        "token": "ljudligt",
+        "signature": "dgijltu",
+        "length": 8
+      },
+      {
+        "token": "ljungen",
+        "signature": "egjlnu",
+        "length": 7
+      },
+      {
+        "token": "ljust",
+        "signature": "jlstu",
+        "length": 5
+      },
+      {
+        "token": "ljuvligt",
+        "signature": "gijltuv",
+        "length": 8
+      },
+      {
+        "token": "ljöd",
+        "signature": "djlö",
+        "length": 4
+      },
+      {
+        "token": "lugg",
+        "signature": "glu",
+        "length": 4
+      },
+      {
+        "token": "lugnande",
+        "signature": "adeglnu",
+        "length": 8
+      },
+      {
+        "token": "lugnat",
+        "signature": "aglntu",
+        "length": 6
+      },
+      {
+        "token": "luns",
+        "signature": "lnsu",
+        "length": 4
+      },
+      {
+        "token": "lurat",
+        "signature": "alrtu",
+        "length": 5
+      },
+      {
+        "token": "lustiga",
+        "signature": "agilstu",
+        "length": 7
+      },
+      {
+        "token": "lutad",
+        "signature": "adltu",
+        "length": 5
+      },
+      {
+        "token": "lutar",
+        "signature": "alrtu",
+        "length": 5
+      },
+      {
+        "token": "lyckligaste",
+        "signature": "acegiklsty",
+        "length": 11
+      },
+      {
+        "token": "lyfta",
+        "signature": "aflty",
+        "length": 5
+      },
+      {
+        "token": "lyftad",
+        "signature": "adflty",
+        "length": 6
+      },
+      {
+        "token": "låga",
+        "signature": "aågl",
+        "length": 4
+      },
+      {
+        "token": "låren",
+        "signature": "åelnr",
+        "length": 5
+      },
+      {
+        "token": "lägrade",
+        "signature": "aädeglr",
+        "length": 7
+      },
+      {
+        "token": "läkaren",
+        "signature": "aäeklnr",
+        "length": 7
+      },
+      {
+        "token": "lämnats",
+        "signature": "aälmnst",
+        "length": 7
+      },
+      {
+        "token": "lämplig",
+        "signature": "ägilmp",
+        "length": 7
+      },
+      {
+        "token": "längden",
+        "signature": "ädegln",
+        "length": 7
+      },
+      {
+        "token": "längtan",
+        "signature": "aäglnt",
+        "length": 7
+      },
+      {
+        "token": "länk",
+        "signature": "äkln",
+        "length": 4
+      },
+      {
+        "token": "länsmans",
+        "signature": "aälmns",
+        "length": 8
+      },
+      {
+        "token": "läroverk",
+        "signature": "äeklorv",
+        "length": 8
+      }
+    ]
+  }
+}

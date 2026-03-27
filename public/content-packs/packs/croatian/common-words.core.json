@@ -1,0 +1,3626 @@
+{
+  "packId": "croatian:common-words:core",
+  "languageId": "croatian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "je",
+        "signature": "ej",
+        "length": 2
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "što",
+        "signature": "ošt",
+        "length": 3
+      },
+      {
+        "token": "na",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "ti",
+        "signature": "it",
+        "length": 2
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "za",
+        "signature": "az",
+        "length": 2
+      },
+      {
+        "token": "si",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "su",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "nije",
+        "signature": "eijn",
+        "length": 4
+      },
+      {
+        "token": "ga",
+        "signature": "ag",
+        "length": 2
+      },
+      {
+        "token": "me",
+        "signature": "em",
+        "length": 2
+      },
+      {
+        "token": "od",
+        "signature": "do",
+        "length": 2
+      },
+      {
+        "token": "kako",
+        "signature": "ako",
+        "length": 4
+      },
+      {
+        "token": "bi",
+        "signature": "bi",
+        "length": 2
+      },
+      {
+        "token": "će",
+        "signature": "će",
+        "length": 2
+      },
+      {
+        "token": "dobro",
+        "signature": "bdor",
+        "length": 5
+      },
+      {
+        "token": "ako",
+        "signature": "ako",
+        "length": 3
+      },
+      {
+        "token": "smo",
+        "signature": "mos",
+        "length": 3
+      },
+      {
+        "token": "sa",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "ću",
+        "signature": "ću",
+        "length": 2
+      },
+      {
+        "token": "kao",
+        "signature": "ako",
+        "length": 3
+      },
+      {
+        "token": "biti",
+        "signature": "bit",
+        "length": 4
+      },
+      {
+        "token": "tako",
+        "signature": "akot",
+        "length": 4
+      },
+      {
+        "token": "ovdje",
+        "signature": "dejov",
+        "length": 5
+      },
+      {
+        "token": "ste",
+        "signature": "est",
+        "length": 3
+      },
+      {
+        "token": "nisam",
+        "signature": "aimns",
+        "length": 5
+      },
+      {
+        "token": "mogu",
+        "signature": "gmou",
+        "length": 4
+      },
+      {
+        "token": "zašto",
+        "signature": "aoštz",
+        "length": 5
+      },
+      {
+        "token": "još",
+        "signature": "još",
+        "length": 3
+      },
+      {
+        "token": "on",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "pa",
+        "signature": "ap",
+        "length": 2
+      },
+      {
+        "token": "nešto",
+        "signature": "enošt",
+        "length": 5
+      },
+      {
+        "token": "bilo",
+        "signature": "bilo",
+        "length": 4
+      },
+      {
+        "token": "koji",
+        "signature": "ijko",
+        "length": 4
+      },
+      {
+        "token": "kad",
+        "signature": "adk",
+        "length": 3
+      },
+      {
+        "token": "vas",
+        "signature": "asv",
+        "length": 3
+      },
+      {
+        "token": "iz",
+        "signature": "iz",
+        "length": 2
+      },
+      {
+        "token": "hvala",
+        "signature": "ahlv",
+        "length": 5
+      },
+      {
+        "token": "ih",
+        "signature": "hi",
+        "length": 2
+      },
+      {
+        "token": "gdje",
+        "signature": "degj",
+        "length": 4
+      },
+      {
+        "token": "ili",
+        "signature": "il",
+        "length": 3
+      },
+      {
+        "token": "možda",
+        "signature": "admož",
+        "length": 5
+      },
+      {
+        "token": "vam",
+        "signature": "amv",
+        "length": 3
+      },
+      {
+        "token": "moj",
+        "signature": "jmo",
+        "length": 3
+      },
+      {
+        "token": "ćemo",
+        "signature": "ćemo",
+        "length": 4
+      },
+      {
+        "token": "sada",
+        "signature": "ads",
+        "length": 4
+      },
+      {
+        "token": "bih",
+        "signature": "bhi",
+        "length": 3
+      },
+      {
+        "token": "onda",
+        "signature": "adno",
+        "length": 4
+      },
+      {
+        "token": "tko",
+        "signature": "kot",
+        "length": 3
+      },
+      {
+        "token": "nas",
+        "signature": "ans",
+        "length": 3
+      },
+      {
+        "token": "mu",
+        "signature": "mu",
+        "length": 2
+      },
+      {
+        "token": "do",
+        "signature": "do",
+        "length": 2
+      },
+      {
+        "token": "ništa",
+        "signature": "ainšt",
+        "length": 5
+      },
+      {
+        "token": "zar",
+        "signature": "arz",
+        "length": 3
+      },
+      {
+        "token": "mene",
+        "signature": "emn",
+        "length": 4
+      },
+      {
+        "token": "može",
+        "signature": "emož",
+        "length": 4
+      },
+      {
+        "token": "tebe",
+        "signature": "bet",
+        "length": 4
+      },
+      {
+        "token": "ćeš",
+        "signature": "ćeš",
+        "length": 3
+      },
+      {
+        "token": "kada",
+        "signature": "adk",
+        "length": 4
+      },
+      {
+        "token": "možeš",
+        "signature": "emošž",
+        "length": 5
+      },
+      {
+        "token": "reći",
+        "signature": "ćeir",
+        "length": 4
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "imam",
+        "signature": "aim",
+        "length": 4
+      },
+      {
+        "token": "nam",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "jer",
+        "signature": "ejr",
+        "length": 3
+      },
+      {
+        "token": "šta",
+        "signature": "ašt",
+        "length": 3
+      },
+      {
+        "token": "jesi",
+        "signature": "eijs",
+        "length": 4
+      },
+      {
+        "token": "hej",
+        "signature": "ehj",
+        "length": 3
+      },
+      {
+        "token": "ni",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "zbog",
+        "signature": "bgoz",
+        "length": 4
+      },
+      {
+        "token": "ljudi",
+        "signature": "dijlu",
+        "length": 5
+      },
+      {
+        "token": "svi",
+        "signature": "isv",
+        "length": 3
+      },
+      {
+        "token": "nisi",
+        "signature": "ins",
+        "length": 4
+      },
+      {
+        "token": "hajde",
+        "signature": "adehj",
+        "length": 5
+      },
+      {
+        "token": "po",
+        "signature": "op",
+        "length": 2
+      },
+      {
+        "token": "uvijek",
+        "signature": "eijkuv",
+        "length": 6
+      },
+      {
+        "token": "jedan",
+        "signature": "adejn",
+        "length": 5
+      },
+      {
+        "token": "već",
+        "signature": "ćev",
+        "length": 3
+      },
+      {
+        "token": "neće",
+        "signature": "ćen",
+        "length": 4
+      },
+      {
+        "token": "zato",
+        "signature": "aotz",
+        "length": 4
+      },
+      {
+        "token": "nego",
+        "signature": "egno",
+        "length": 4
+      },
+      {
+        "token": "baš",
+        "signature": "abš",
+        "length": 3
+      },
+      {
+        "token": "bez",
+        "signature": "bez",
+        "length": 3
+      },
+      {
+        "token": "možemo",
+        "signature": "emož",
+        "length": 6
+      },
+      {
+        "token": "vrijeme",
+        "signature": "eijmrv",
+        "length": 7
+      },
+      {
+        "token": "dok",
+        "signature": "dko",
+        "length": 3
+      },
+      {
+        "token": "toga",
+        "signature": "agot",
+        "length": 4
+      },
+      {
+        "token": "oni",
+        "signature": "ino",
+        "length": 3
+      },
+      {
+        "token": "ovaj",
+        "signature": "ajov",
+        "length": 4
+      },
+      {
+        "token": "taj",
+        "signature": "ajt",
+        "length": 3
+      },
+      {
+        "token": "joj",
+        "signature": "jo",
+        "length": 3
+      },
+      {
+        "token": "žao",
+        "signature": "aož",
+        "length": 3
+      },
+      {
+        "token": "mogao",
+        "signature": "agmo",
+        "length": 5
+      },
+      {
+        "token": "tvoj",
+        "signature": "jotv",
+        "length": 4
+      },
+      {
+        "token": "nikad",
+        "signature": "adikn",
+        "length": 5
+      },
+      {
+        "token": "znači",
+        "signature": "ačinz",
+        "length": 5
+      },
+      {
+        "token": "posao",
+        "signature": "aops",
+        "length": 5
+      },
+      {
+        "token": "nemoj",
+        "signature": "ejmno",
+        "length": 5
+      },
+      {
+        "token": "godina",
+        "signature": "adgino",
+        "length": 6
+      },
+      {
+        "token": "neću",
+        "signature": "ćenu",
+        "length": 4
+      },
+      {
+        "token": "netko",
+        "signature": "eknot",
+        "length": 5
+      },
+      {
+        "token": "meni",
+        "signature": "eimn",
+        "length": 4
+      },
+      {
+        "token": "im",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "vidjeti",
+        "signature": "deijtv",
+        "length": 7
+      },
+      {
+        "token": "kod",
+        "signature": "dko",
+        "length": 3
+      },
+      {
+        "token": "dva",
+        "signature": "adv",
+        "length": 3
+      },
+      {
+        "token": "njega",
+        "signature": "aegjn",
+        "length": 5
+      },
+      {
+        "token": "život",
+        "signature": "iotvž",
+        "length": 5
+      },
+      {
+        "token": "mora",
+        "signature": "amor",
+        "length": 4
+      },
+      {
+        "token": "nisu",
+        "signature": "insu",
+        "length": 4
+      },
+      {
+        "token": "možete",
+        "signature": "emotž",
+        "length": 6
+      },
+      {
+        "token": "stvar",
+        "signature": "arstv",
+        "length": 5
+      },
+      {
+        "token": "jeste",
+        "signature": "ejst",
+        "length": 5
+      },
+      {
+        "token": "pomoći",
+        "signature": "ćimop",
+        "length": 6
+      },
+      {
+        "token": "hoćeš",
+        "signature": "ćehoš",
+        "length": 5
+      },
+      {
+        "token": "neka",
+        "signature": "aekn",
+        "length": 4
+      },
+      {
+        "token": "odmah",
+        "signature": "adhmo",
+        "length": 5
+      },
+      {
+        "token": "ići",
+        "signature": "ći",
+        "length": 3
+      },
+      {
+        "token": "nikada",
+        "signature": "adikn",
+        "length": 6
+      },
+      {
+        "token": "ime",
+        "signature": "eim",
+        "length": 3
+      },
+      {
+        "token": "danas",
+        "signature": "adns",
+        "length": 5
+      },
+      {
+        "token": "čovjek",
+        "signature": "čejkov",
+        "length": 6
+      },
+      {
+        "token": "nitko",
+        "signature": "iknot",
+        "length": 5
+      },
+      {
+        "token": "opet",
+        "signature": "eopt",
+        "length": 4
+      },
+      {
+        "token": "evo",
+        "signature": "eov",
+        "length": 3
+      },
+      {
+        "token": "tri",
+        "signature": "irt",
+        "length": 3
+      },
+      {
+        "token": "jesam",
+        "signature": "aejms",
+        "length": 5
+      },
+      {
+        "token": "učiniti",
+        "signature": "čintu",
+        "length": 7
+      },
+      {
+        "token": "svoj",
+        "signature": "josv",
+        "length": 4
+      },
+      {
+        "token": "čemu",
+        "signature": "čemu",
+        "length": 4
+      },
+      {
+        "token": "ćete",
+        "signature": "ćet",
+        "length": 4
+      },
+      {
+        "token": "nakon",
+        "signature": "akno",
+        "length": 5
+      },
+      {
+        "token": "tobom",
+        "signature": "bmot",
+        "length": 5
+      },
+      {
+        "token": "nismo",
+        "signature": "imnos",
+        "length": 5
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "mnom",
+        "signature": "mno",
+        "length": 4
+      },
+      {
+        "token": "prema",
+        "signature": "aempr",
+        "length": 5
+      },
+      {
+        "token": "neki",
+        "signature": "eikn",
+        "length": 4
+      },
+      {
+        "token": "čak",
+        "signature": "ačk",
+        "length": 3
+      },
+      {
+        "token": "htio",
+        "signature": "hiot",
+        "length": 4
+      },
+      {
+        "token": "oko",
+        "signature": "ko",
+        "length": 3
+      },
+      {
+        "token": "ide",
+        "signature": "dei",
+        "length": 3
+      },
+      {
+        "token": "mjesto",
+        "signature": "ejmost",
+        "length": 6
+      },
+      {
+        "token": "žena",
+        "signature": "aenž",
+        "length": 4
+      },
+      {
+        "token": "bok",
+        "signature": "bko",
+        "length": 3
+      },
+      {
+        "token": "otac",
+        "signature": "acot",
+        "length": 4
+      },
+      {
+        "token": "tebi",
+        "signature": "beit",
+        "length": 4
+      },
+      {
+        "token": "drugi",
+        "signature": "dgiru",
+        "length": 5
+      },
+      {
+        "token": "znati",
+        "signature": "aintz",
+        "length": 5
+      },
+      {
+        "token": "vrata",
+        "signature": "artv",
+        "length": 5
+      },
+      {
+        "token": "prvi",
+        "signature": "iprv",
+        "length": 4
+      },
+      {
+        "token": "ju",
+        "signature": "ju",
+        "length": 2
+      },
+      {
+        "token": "novac",
+        "signature": "acnov",
+        "length": 5
+      },
+      {
+        "token": "njih",
+        "signature": "hijn",
+        "length": 4
+      },
+      {
+        "token": "doći",
+        "signature": "ćdio",
+        "length": 4
+      },
+      {
+        "token": "način",
+        "signature": "ačin",
+        "length": 5
+      },
+      {
+        "token": "naći",
+        "signature": "aćin",
+        "length": 4
+      },
+      {
+        "token": "ovamo",
+        "signature": "amov",
+        "length": 5
+      },
+      {
+        "token": "ubiti",
+        "signature": "bitu",
+        "length": 5
+      },
+      {
+        "token": "vratiti",
+        "signature": "airtv",
+        "length": 7
+      },
+      {
+        "token": "sebe",
+        "signature": "bes",
+        "length": 4
+      },
+      {
+        "token": "poput",
+        "signature": "optu",
+        "length": 5
+      },
+      {
+        "token": "otići",
+        "signature": "ćiot",
+        "length": 5
+      },
+      {
+        "token": "vaš",
+        "signature": "ašv",
+        "length": 3
+      },
+      {
+        "token": "kroz",
+        "signature": "korz",
+        "length": 4
+      },
+      {
+        "token": "odavde",
+        "signature": "adeov",
+        "length": 6
+      },
+      {
+        "token": "ma",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "zajedno",
+        "signature": "adejnoz",
+        "length": 7
+      },
+      {
+        "token": "razgovarati",
+        "signature": "agiortvz",
+        "length": 11
+      },
+      {
+        "token": "sutra",
+        "signature": "arstu",
+        "length": 5
+      },
+      {
+        "token": "pod",
+        "signature": "dop",
+        "length": 3
+      },
+      {
+        "token": "naš",
+        "signature": "anš",
+        "length": 3
+      },
+      {
+        "token": "imati",
+        "signature": "aimt",
+        "length": 5
+      },
+      {
+        "token": "dosta",
+        "signature": "adost",
+        "length": 5
+      },
+      {
+        "token": "svaki",
+        "signature": "aiksv",
+        "length": 5
+      },
+      {
+        "token": "dakle",
+        "signature": "adekl",
+        "length": 5
+      },
+      {
+        "token": "hoću",
+        "signature": "ćhou",
+        "length": 4
+      },
+      {
+        "token": "nećeš",
+        "signature": "ćenš",
+        "length": 5
+      },
+      {
+        "token": "koga",
+        "signature": "agko",
+        "length": 4
+      },
+      {
+        "token": "osim",
+        "signature": "imos",
+        "length": 4
+      },
+      {
+        "token": "raditi",
+        "signature": "adirt",
+        "length": 6
+      },
+      {
+        "token": "vama",
+        "signature": "amv",
+        "length": 4
+      },
+      {
+        "token": "njim",
+        "signature": "ijmn",
+        "length": 4
+      },
+      {
+        "token": "unutra",
+        "signature": "anrtu",
+        "length": 6
+      },
+      {
+        "token": "zapravo",
+        "signature": "aoprvz",
+        "length": 7
+      },
+      {
+        "token": "mogli",
+        "signature": "gilmo",
+        "length": 5
+      },
+      {
+        "token": "mogla",
+        "signature": "aglmo",
+        "length": 5
+      },
+      {
+        "token": "nama",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "protiv",
+        "signature": "ioprtv",
+        "length": 6
+      },
+      {
+        "token": "noć",
+        "signature": "ćno",
+        "length": 3
+      },
+      {
+        "token": "pomoć",
+        "signature": "ćmop",
+        "length": 5
+      },
+      {
+        "token": "niste",
+        "signature": "einst",
+        "length": 5
+      },
+      {
+        "token": "dobiti",
+        "signature": "bdiot",
+        "length": 6
+      },
+      {
+        "token": "par",
+        "signature": "apr",
+        "length": 3
+      },
+      {
+        "token": "auto",
+        "signature": "aotu",
+        "length": 4
+      },
+      {
+        "token": "super",
+        "signature": "eprsu",
+        "length": 5
+      },
+      {
+        "token": "dio",
+        "signature": "dio",
+        "length": 3
+      },
+      {
+        "token": "dolje",
+        "signature": "dejlo",
+        "length": 5
+      },
+      {
+        "token": "večeras",
+        "signature": "ačersv",
+        "length": 7
+      },
+      {
+        "token": "istina",
+        "signature": "ainst",
+        "length": 6
+      },
+      {
+        "token": "napraviti",
+        "signature": "ainprtv",
+        "length": 9
+      },
+      {
+        "token": "minuta",
+        "signature": "aimntu",
+        "length": 6
+      },
+      {
+        "token": "dvije",
+        "signature": "deijv",
+        "length": 5
+      },
+      {
+        "token": "van",
+        "signature": "anv",
+        "length": 3
+      },
+      {
+        "token": "uz",
+        "signature": "uz",
+        "length": 2
+      },
+      {
+        "token": "mrtav",
+        "signature": "amrtv",
+        "length": 5
+      },
+      {
+        "token": "bismo",
+        "signature": "bimos",
+        "length": 5
+      },
+      {
+        "token": "ovako",
+        "signature": "akov",
+        "length": 5
+      },
+      {
+        "token": "mog",
+        "signature": "gmo",
+        "length": 3
+      },
+      {
+        "token": "njegov",
+        "signature": "egjnov",
+        "length": 6
+      },
+      {
+        "token": "sto",
+        "signature": "ost",
+        "length": 3
+      },
+      {
+        "token": "preko",
+        "signature": "ekopr",
+        "length": 5
+      },
+      {
+        "token": "vjerovati",
+        "signature": "aeijortv",
+        "length": 9
+      },
+      {
+        "token": "prijatelj",
+        "signature": "aeijlprt",
+        "length": 9
+      },
+      {
+        "token": "dati",
+        "signature": "adit",
+        "length": 4
+      },
+      {
+        "token": "broj",
+        "signature": "bjor",
+        "length": 4
+      },
+      {
+        "token": "natrag",
+        "signature": "agnrt",
+        "length": 6
+      },
+      {
+        "token": "kakav",
+        "signature": "akv",
+        "length": 5
+      },
+      {
+        "token": "onaj",
+        "signature": "ajno",
+        "length": 4
+      },
+      {
+        "token": "ostati",
+        "signature": "aiost",
+        "length": 6
+      },
+      {
+        "token": "obitelj",
+        "signature": "beijlot",
+        "length": 7
+      },
+      {
+        "token": "iza",
+        "signature": "aiz",
+        "length": 3
+      },
+      {
+        "token": "majka",
+        "signature": "ajkm",
+        "length": 5
+      },
+      {
+        "token": "došli",
+        "signature": "diloš",
+        "length": 5
+      },
+      {
+        "token": "poslije",
+        "signature": "eijlops",
+        "length": 7
+      },
+      {
+        "token": "htjela",
+        "signature": "aehjlt",
+        "length": 6
+      },
+      {
+        "token": "hoće",
+        "signature": "ćeho",
+        "length": 4
+      },
+      {
+        "token": "njima",
+        "signature": "aijmn",
+        "length": 5
+      },
+      {
+        "token": "nju",
+        "signature": "jnu",
+        "length": 3
+      },
+      {
+        "token": "ipak",
+        "signature": "aikp",
+        "length": 4
+      },
+      {
+        "token": "njemu",
+        "signature": "ejmnu",
+        "length": 5
+      },
+      {
+        "token": "brod",
+        "signature": "bdor",
+        "length": 4
+      },
+      {
+        "token": "svijet",
+        "signature": "eijstv",
+        "length": 6
+      },
+      {
+        "token": "trenutak",
+        "signature": "aeknrtu",
+        "length": 8
+      },
+      {
+        "token": "pronaći",
+        "signature": "aćinopr",
+        "length": 7
+      },
+      {
+        "token": "briga",
+        "signature": "abgir",
+        "length": 5
+      },
+      {
+        "token": "tada",
+        "signature": "adt",
+        "length": 4
+      },
+      {
+        "token": "zaista",
+        "signature": "aistz",
+        "length": 6
+      },
+      {
+        "token": "oružje",
+        "signature": "ejoruž",
+        "length": 6
+      },
+      {
+        "token": "valjda",
+        "signature": "adjlv",
+        "length": 6
+      },
+      {
+        "token": "uskoro",
+        "signature": "korsu",
+        "length": 6
+      },
+      {
+        "token": "priča",
+        "signature": "ačipr",
+        "length": 5
+      },
+      {
+        "token": "moći",
+        "signature": "ćimo",
+        "length": 4
+      },
+      {
+        "token": "srce",
+        "signature": "cers",
+        "length": 4
+      },
+      {
+        "token": "ovim",
+        "signature": "imov",
+        "length": 4
+      },
+      {
+        "token": "njom",
+        "signature": "jmno",
+        "length": 4
+      },
+      {
+        "token": "također",
+        "signature": "ađekort",
+        "length": 7
+      },
+      {
+        "token": "grad",
+        "signature": "adgr",
+        "length": 4
+      },
+      {
+        "token": "jedini",
+        "signature": "deijn",
+        "length": 6
+      },
+      {
+        "token": "između",
+        "signature": "đeimuz",
+        "length": 6
+      },
+      {
+        "token": "čega",
+        "signature": "ačeg",
+        "length": 4
+      },
+      {
+        "token": "riječ",
+        "signature": "čeijr",
+        "length": 5
+      },
+      {
+        "token": "sebi",
+        "signature": "beis",
+        "length": 4
+      },
+      {
+        "token": "nećemo",
+        "signature": "ćemno",
+        "length": 6
+      },
+      {
+        "token": "uzeti",
+        "signature": "eituz",
+        "length": 5
+      },
+      {
+        "token": "žele",
+        "signature": "elž",
+        "length": 4
+      },
+      {
+        "token": "oči",
+        "signature": "čio",
+        "length": 3
+      },
+      {
+        "token": "tek",
+        "signature": "ekt",
+        "length": 3
+      },
+      {
+        "token": "slučaj",
+        "signature": "ačjlsu",
+        "length": 6
+      },
+      {
+        "token": "jutro",
+        "signature": "jortu",
+        "length": 5
+      },
+      {
+        "token": "blizu",
+        "signature": "biluz",
+        "length": 5
+      },
+      {
+        "token": "pred",
+        "signature": "depr",
+        "length": 4
+      },
+      {
+        "token": "osoba",
+        "signature": "abos",
+        "length": 5
+      },
+      {
+        "token": "halo",
+        "signature": "ahlo",
+        "length": 4
+      },
+      {
+        "token": "budem",
+        "signature": "bdemu",
+        "length": 5
+      },
+      {
+        "token": "umrijeti",
+        "signature": "eijmrtu",
+        "length": 8
+      },
+      {
+        "token": "četiri",
+        "signature": "čeirt",
+        "length": 6
+      },
+      {
+        "token": "vani",
+        "signature": "ainv",
+        "length": 4
+      },
+      {
+        "token": "kraj",
+        "signature": "ajkr",
+        "length": 4
+      },
+      {
+        "token": "veoma",
+        "signature": "aemov",
+        "length": 5
+      },
+      {
+        "token": "dečko",
+        "signature": "čdeko",
+        "length": 5
+      },
+      {
+        "token": "jesu",
+        "signature": "ejsu",
+        "length": 4
+      },
+      {
+        "token": "negdje",
+        "signature": "degjn",
+        "length": 6
+      },
+      {
+        "token": "ikada",
+        "signature": "adik",
+        "length": 5
+      },
+      {
+        "token": "pištolj",
+        "signature": "ijlopšt",
+        "length": 7
+      },
+      {
+        "token": "nemojte",
+        "signature": "ejmnot",
+        "length": 7
+      },
+      {
+        "token": "ideja",
+        "signature": "adeij",
+        "length": 5
+      },
+      {
+        "token": "polako",
+        "signature": "aklop",
+        "length": 6
+      },
+      {
+        "token": "ljubav",
+        "signature": "abjluv",
+        "length": 6
+      },
+      {
+        "token": "ponekad",
+        "signature": "adeknop",
+        "length": 7
+      },
+      {
+        "token": "policija",
+        "signature": "acijlop",
+        "length": 8
+      },
+      {
+        "token": "lice",
+        "signature": "ceil",
+        "length": 4
+      },
+      {
+        "token": "moglo",
+        "signature": "glmo",
+        "length": 5
+      },
+      {
+        "token": "ovoj",
+        "signature": "jov",
+        "length": 4
+      },
+      {
+        "token": "tijelo",
+        "signature": "eijlot",
+        "length": 6
+      },
+      {
+        "token": "tjedan",
+        "signature": "adejnt",
+        "length": 6
+      },
+      {
+        "token": "ikad",
+        "signature": "adik",
+        "length": 4
+      },
+      {
+        "token": "svom",
+        "signature": "mosv",
+        "length": 4
+      },
+      {
+        "token": "razlog",
+        "signature": "aglorz",
+        "length": 6
+      },
+      {
+        "token": "spremni",
+        "signature": "eimnprs",
+        "length": 7
+      },
+      {
+        "token": "barem",
+        "signature": "abemr",
+        "length": 5
+      },
+      {
+        "token": "svega",
+        "signature": "aegsv",
+        "length": 5
+      },
+      {
+        "token": "djevojka",
+        "signature": "adejkov",
+        "length": 8
+      },
+      {
+        "token": "draga",
+        "signature": "adgr",
+        "length": 5
+      },
+      {
+        "token": "budeš",
+        "signature": "bdešu",
+        "length": 5
+      },
+      {
+        "token": "ponovo",
+        "signature": "nopv",
+        "length": 6
+      },
+      {
+        "token": "sinoć",
+        "signature": "ćinos",
+        "length": 5
+      },
+      {
+        "token": "šest",
+        "signature": "esšt",
+        "length": 4
+      },
+      {
+        "token": "tvog",
+        "signature": "gotv",
+        "length": 4
+      },
+      {
+        "token": "odakle",
+        "signature": "adeklo",
+        "length": 6
+      },
+      {
+        "token": "svima",
+        "signature": "aimsv",
+        "length": 5
+      },
+      {
+        "token": "pitati",
+        "signature": "aipt",
+        "length": 6
+      },
+      {
+        "token": "djeca",
+        "signature": "acdej",
+        "length": 5
+      },
+      {
+        "token": "nje",
+        "signature": "ejn",
+        "length": 3
+      },
+      {
+        "token": "čim",
+        "signature": "čim",
+        "length": 3
+      },
+      {
+        "token": "čuti",
+        "signature": "čitu",
+        "length": 4
+      },
+      {
+        "token": "hoćete",
+        "signature": "ćehot",
+        "length": 6
+      },
+      {
+        "token": "ispod",
+        "signature": "diops",
+        "length": 5
+      },
+      {
+        "token": "pričati",
+        "signature": "ačiprt",
+        "length": 7
+      },
+      {
+        "token": "njoj",
+        "signature": "jno",
+        "length": 4
+      },
+      {
+        "token": "nekako",
+        "signature": "aekno",
+        "length": 6
+      },
+      {
+        "token": "živjeti",
+        "signature": "eijtvž",
+        "length": 7
+      },
+      {
+        "token": "gledati",
+        "signature": "adegilt",
+        "length": 7
+      },
+      {
+        "token": "ujutro",
+        "signature": "jortu",
+        "length": 6
+      },
+      {
+        "token": "naprijed",
+        "signature": "adeijnpr",
+        "length": 8
+      },
+      {
+        "token": "ostaviti",
+        "signature": "aiostv",
+        "length": 8
+      },
+      {
+        "token": "zbilja",
+        "signature": "abijlz",
+        "length": 6
+      },
+      {
+        "token": "morati",
+        "signature": "aimort",
+        "length": 6
+      },
+      {
+        "token": "iako",
+        "signature": "aiko",
+        "length": 4
+      },
+      {
+        "token": "dogoditi",
+        "signature": "dgiot",
+        "length": 8
+      },
+      {
+        "token": "piće",
+        "signature": "ćeip",
+        "length": 4
+      },
+      {
+        "token": "nikoga",
+        "signature": "agikno",
+        "length": 6
+      },
+      {
+        "token": "živ",
+        "signature": "ivž",
+        "length": 3
+      },
+      {
+        "token": "zadnji",
+        "signature": "adijnz",
+        "length": 6
+      },
+      {
+        "token": "kuća",
+        "signature": "aćku",
+        "length": 4
+      },
+      {
+        "token": "isti",
+        "signature": "ist",
+        "length": 4
+      },
+      {
+        "token": "doista",
+        "signature": "adiost",
+        "length": 6
+      },
+      {
+        "token": "sestra",
+        "signature": "aerst",
+        "length": 6
+      },
+      {
+        "token": "ispred",
+        "signature": "deiprs",
+        "length": 6
+      },
+      {
+        "token": "deset",
+        "signature": "dest",
+        "length": 5
+      },
+      {
+        "token": "ubojica",
+        "signature": "abcijou",
+        "length": 7
+      },
+      {
+        "token": "poziv",
+        "signature": "iopvz",
+        "length": 5
+      },
+      {
+        "token": "ondje",
+        "signature": "dejno",
+        "length": 5
+      },
+      {
+        "token": "ovi",
+        "signature": "iov",
+        "length": 3
+      },
+      {
+        "token": "ostali",
+        "signature": "ailost",
+        "length": 6
+      },
+      {
+        "token": "tih",
+        "signature": "hit",
+        "length": 3
+      },
+      {
+        "token": "sigurni",
+        "signature": "ginrsu",
+        "length": 7
+      },
+      {
+        "token": "telefon",
+        "signature": "eflnot",
+        "length": 7
+      },
+      {
+        "token": "govoriti",
+        "signature": "giortv",
+        "length": 8
+      },
+      {
+        "token": "sastanak",
+        "signature": "aknst",
+        "length": 8
+      },
+      {
+        "token": "čeka",
+        "signature": "aček",
+        "length": 4
+      },
+      {
+        "token": "igra",
+        "signature": "agir",
+        "length": 4
+      },
+      {
+        "token": "odvesti",
+        "signature": "deiostv",
+        "length": 7
+      },
+      {
+        "token": "izaći",
+        "signature": "aćiz",
+        "length": 5
+      },
+      {
+        "token": "jesmo",
+        "signature": "ejmos",
+        "length": 5
+      },
+      {
+        "token": "ubojstvo",
+        "signature": "bjostuv",
+        "length": 8
+      },
+      {
+        "token": "večer",
+        "signature": "červ",
+        "length": 5
+      },
+      {
+        "token": "ući",
+        "signature": "ćiu",
+        "length": 3
+      },
+      {
+        "token": "spasiti",
+        "signature": "aipst",
+        "length": 7
+      },
+      {
+        "token": "odgovor",
+        "signature": "dgorv",
+        "length": 7
+      },
+      {
+        "token": "pustiti",
+        "signature": "ipstu",
+        "length": 7
+      },
+      {
+        "token": "osjećaj",
+        "signature": "aćejos",
+        "length": 7
+      },
+      {
+        "token": "kralj",
+        "signature": "ajklr",
+        "length": 5
+      },
+      {
+        "token": "tjedna",
+        "signature": "adejnt",
+        "length": 6
+      },
+      {
+        "token": "pokazati",
+        "signature": "aikoptz",
+        "length": 8
+      },
+      {
+        "token": "zaustaviti",
+        "signature": "aistuvz",
+        "length": 10
+      },
+      {
+        "token": "kriv",
+        "signature": "ikrv",
+        "length": 4
+      },
+      {
+        "token": "inače",
+        "signature": "ačein",
+        "length": 5
+      },
+      {
+        "token": "tvom",
+        "signature": "motv",
+        "length": 4
+      },
+      {
+        "token": "jutros",
+        "signature": "jorstu",
+        "length": 6
+      },
+      {
+        "token": "svakako",
+        "signature": "akosv",
+        "length": 7
+      },
+      {
+        "token": "mjesec",
+        "signature": "cejms",
+        "length": 6
+      },
+      {
+        "token": "čekati",
+        "signature": "ačeikt",
+        "length": 6
+      },
+      {
+        "token": "nećete",
+        "signature": "ćent",
+        "length": 6
+      },
+      {
+        "token": "dali",
+        "signature": "adil",
+        "length": 4
+      },
+      {
+        "token": "nazvati",
+        "signature": "aintvz",
+        "length": 7
+      },
+      {
+        "token": "jedva",
+        "signature": "adejv",
+        "length": 5
+      },
+      {
+        "token": "muž",
+        "signature": "muž",
+        "length": 3
+      },
+      {
+        "token": "dobri",
+        "signature": "bdior",
+        "length": 5
+      },
+      {
+        "token": "uraditi",
+        "signature": "adirtu",
+        "length": 7
+      },
+      {
+        "token": "nazad",
+        "signature": "adnz",
+        "length": 5
+      },
+      {
+        "token": "jučer",
+        "signature": "čejru",
+        "length": 5
+      },
+      {
+        "token": "pored",
+        "signature": "deopr",
+        "length": 5
+      },
+      {
+        "token": "napad",
+        "signature": "adnp",
+        "length": 5
+      },
+      {
+        "token": "bolji",
+        "signature": "bijlo",
+        "length": 5
+      },
+      {
+        "token": "sljedeći",
+        "signature": "ćdeijls",
+        "length": 8
+      },
+      {
+        "token": "umjesto",
+        "signature": "ejmostu",
+        "length": 7
+      },
+      {
+        "token": "krevet",
+        "signature": "ekrtv",
+        "length": 6
+      },
+      {
+        "token": "završiti",
+        "signature": "airštvz",
+        "length": 8
+      },
+      {
+        "token": "oče",
+        "signature": "čeo",
+        "length": 3
+      },
+      {
+        "token": "zbogom",
+        "signature": "bgmoz",
+        "length": 6
+      },
+      {
+        "token": "eto",
+        "signature": "eot",
+        "length": 3
+      },
+      {
+        "token": "dom",
+        "signature": "dmo",
+        "length": 3
+      },
+      {
+        "token": "zauvijek",
+        "signature": "aeijkuvz",
+        "length": 8
+      },
+      {
+        "token": "htjeli",
+        "signature": "ehijlt",
+        "length": 6
+      },
+      {
+        "token": "pomozi",
+        "signature": "imopz",
+        "length": 6
+      },
+      {
+        "token": "gle",
+        "signature": "egl",
+        "length": 3
+      },
+      {
+        "token": "hoćemo",
+        "signature": "ćehmo",
+        "length": 6
+      },
+      {
+        "token": "zatim",
+        "signature": "aimtz",
+        "length": 5
+      },
+      {
+        "token": "dopustiti",
+        "signature": "diopstu",
+        "length": 9
+      },
+      {
+        "token": "glavni",
+        "signature": "agilnv",
+        "length": 6
+      },
+      {
+        "token": "vrsta",
+        "signature": "arstv",
+        "length": 5
+      },
+      {
+        "token": "prestati",
+        "signature": "aeiprst",
+        "length": 8
+      },
+      {
+        "token": "kćer",
+        "signature": "ćekr",
+        "length": 4
+      },
+      {
+        "token": "riješiti",
+        "signature": "eijršt",
+        "length": 8
+      },
+      {
+        "token": "izvući",
+        "signature": "ćiuvz",
+        "length": 6
+      },
+      {
+        "token": "početi",
+        "signature": "čeiopt",
+        "length": 6
+      },
+      {
+        "token": "leđa",
+        "signature": "ađel",
+        "length": 4
+      },
+      {
+        "token": "razgovor",
+        "signature": "agorvz",
+        "length": 8
+      },
+      {
+        "token": "igrati",
+        "signature": "agirt",
+        "length": 6
+      },
+      {
+        "token": "zatvor",
+        "signature": "aortvz",
+        "length": 6
+      },
+      {
+        "token": "pokušaj",
+        "signature": "ajkopšu",
+        "length": 7
+      },
+      {
+        "token": "njen",
+        "signature": "ejn",
+        "length": 4
+      },
+      {
+        "token": "promijeniti",
+        "signature": "eijmnoprt",
+        "length": 11
+      },
+      {
+        "token": "prošli",
+        "signature": "iloprš",
+        "length": 6
+      },
+      {
+        "token": "momak",
+        "signature": "akmo",
+        "length": 5
+      },
+      {
+        "token": "saznati",
+        "signature": "ainstz",
+        "length": 7
+      },
+      {
+        "token": "platiti",
+        "signature": "ailpt",
+        "length": 7
+      },
+      {
+        "token": "sedam",
+        "signature": "adems",
+        "length": 5
+      },
+      {
+        "token": "doktor",
+        "signature": "dkort",
+        "length": 6
+      },
+      {
+        "token": "brinuti",
+        "signature": "binrtu",
+        "length": 7
+      },
+      {
+        "token": "ured",
+        "signature": "deru",
+        "length": 4
+      },
+      {
+        "token": "kapetan",
+        "signature": "aeknpt",
+        "length": 7
+      },
+      {
+        "token": "pronašli",
+        "signature": "ailnoprš",
+        "length": 8
+      },
+      {
+        "token": "izvan",
+        "signature": "ainvz",
+        "length": 5
+      },
+      {
+        "token": "tvoji",
+        "signature": "ijotv",
+        "length": 5
+      },
+      {
+        "token": "um",
+        "signature": "mu",
+        "length": 2
+      },
+      {
+        "token": "hajdemo",
+        "signature": "adehjmo",
+        "length": 7
+      },
+      {
+        "token": "shvatiti",
+        "signature": "ahistv",
+        "length": 8
+      },
+      {
+        "token": "izgubiti",
+        "signature": "bgituz",
+        "length": 8
+      },
+      {
+        "token": "postati",
+        "signature": "aiopst",
+        "length": 7
+      },
+      {
+        "token": "pas",
+        "signature": "aps",
+        "length": 3
+      },
+      {
+        "token": "išta",
+        "signature": "aišt",
+        "length": 4
+      },
+      {
+        "token": "srediti",
+        "signature": "deirst",
+        "length": 7
+      },
+      {
+        "token": "cura",
+        "signature": "acru",
+        "length": 4
+      },
+      {
+        "token": "držati",
+        "signature": "adirtž",
+        "length": 6
+      },
+      {
+        "token": "znak",
+        "signature": "aknz",
+        "length": 4
+      },
+      {
+        "token": "gospodin",
+        "signature": "dginops",
+        "length": 8
+      },
+      {
+        "token": "čast",
+        "signature": "ačst",
+        "length": 4
+      },
+      {
+        "token": "glas",
+        "signature": "agls",
+        "length": 4
+      },
+      {
+        "token": "tražiti",
+        "signature": "airtž",
+        "length": 7
+      },
+      {
+        "token": "policajac",
+        "signature": "acijlop",
+        "length": 9
+      },
+      {
+        "token": "loš",
+        "signature": "loš",
+        "length": 3
+      },
+      {
+        "token": "šef",
+        "signature": "efš",
+        "length": 3
+      },
+      {
+        "token": "šteta",
+        "signature": "aešt",
+        "length": 5
+      },
+      {
+        "token": "pokušati",
+        "signature": "aikopštu",
+        "length": 8
+      },
+      {
+        "token": "mrtvi",
+        "signature": "imrtv",
+        "length": 5
+      },
+      {
+        "token": "radije",
+        "signature": "adeijr",
+        "length": 6
+      },
+      {
+        "token": "ključ",
+        "signature": "čjklu",
+        "length": 5
+      },
+      {
+        "token": "dat",
+        "signature": "adt",
+        "length": 3
+      },
+      {
+        "token": "spavati",
+        "signature": "aipstv",
+        "length": 7
+      },
+      {
+        "token": "staviti",
+        "signature": "aistv",
+        "length": 7
+      },
+      {
+        "token": "posljednji",
+        "signature": "deijlnops",
+        "length": 10
+      },
+      {
+        "token": "jesti",
+        "signature": "eijst",
+        "length": 5
+      },
+      {
+        "token": "kupiti",
+        "signature": "ikptu",
+        "length": 6
+      },
+      {
+        "token": "usta",
+        "signature": "astu",
+        "length": 4
+      },
+      {
+        "token": "poslati",
+        "signature": "ailopst",
+        "length": 7
+      },
+      {
+        "token": "proći",
+        "signature": "ćiopr",
+        "length": 5
+      },
+      {
+        "token": "rođendan",
+        "signature": "adđenor",
+        "length": 8
+      },
+      {
+        "token": "misliti",
+        "signature": "ilmst",
+        "length": 7
+      },
+      {
+        "token": "upoznati",
+        "signature": "ainoptuz",
+        "length": 8
+      },
+      {
+        "token": "moć",
+        "signature": "ćmo",
+        "length": 3
+      },
+      {
+        "token": "iznad",
+        "signature": "adinz",
+        "length": 5
+      },
+      {
+        "token": "budu",
+        "signature": "bdu",
+        "length": 4
+      },
+      {
+        "token": "društvo",
+        "signature": "dorštuv",
+        "length": 7
+      },
+      {
+        "token": "mozak",
+        "signature": "akmoz",
+        "length": 5
+      },
+      {
+        "token": "zvati",
+        "signature": "aitvz",
+        "length": 5
+      },
+      {
+        "token": "zemlja",
+        "signature": "aejlmz",
+        "length": 6
+      },
+      {
+        "token": "zakon",
+        "signature": "aknoz",
+        "length": 5
+      },
+      {
+        "token": "prokletstvo",
+        "signature": "ekloprstv",
+        "length": 11
+      },
+      {
+        "token": "nositi",
+        "signature": "inost",
+        "length": 6
+      },
+      {
+        "token": "izbor",
+        "signature": "biorz",
+        "length": 5
+      },
+      {
+        "token": "osam",
+        "signature": "amos",
+        "length": 4
+      },
+      {
+        "token": "budemo",
+        "signature": "bdemou",
+        "length": 6
+      },
+      {
+        "token": "ubijen",
+        "signature": "beijnu",
+        "length": 6
+      },
+      {
+        "token": "rad",
+        "signature": "adr",
+        "length": 3
+      },
+      {
+        "token": "dokaz",
+        "signature": "adkoz",
+        "length": 5
+      },
+      {
+        "token": "ovuda",
+        "signature": "adouv",
+        "length": 5
+      },
+      {
+        "token": "pogledati",
+        "signature": "adegilopt",
+        "length": 9
+      },
+      {
+        "token": "muškarac",
+        "signature": "ackmršu",
+        "length": 8
+      },
+      {
+        "token": "nastaviti",
+        "signature": "ainstv",
+        "length": 9
+      },
+      {
+        "token": "soba",
+        "signature": "abos",
+        "length": 4
+      },
+      {
+        "token": "pogled",
+        "signature": "deglop",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "jezero",
+        "signature": "ejorz",
+        "length": 6
+      },
+      {
+        "token": "roba",
+        "signature": "abor",
+        "length": 4
+      },
+      {
+        "token": "zmija",
+        "signature": "aijmz",
+        "length": 5
+      },
+      {
+        "token": "posjet",
+        "signature": "ejopst",
+        "length": 6
+      },
+      {
+        "token": "proveli",
+        "signature": "eiloprv",
+        "length": 7
+      },
+      {
+        "token": "pogon",
+        "signature": "gnop",
+        "length": 5
+      },
+      {
+        "token": "smijati",
+        "signature": "aijmst",
+        "length": 7
+      },
+      {
+        "token": "plin",
+        "signature": "ilnp",
+        "length": 4
+      },
+      {
+        "token": "gradonačelnik",
+        "signature": "ačdegiklnor",
+        "length": 13
+      },
+      {
+        "token": "završen",
+        "signature": "aenršvz",
+        "length": 7
+      },
+      {
+        "token": "faca",
+        "signature": "acf",
+        "length": 4
+      },
+      {
+        "token": "očistiti",
+        "signature": "čiost",
+        "length": 8
+      },
+      {
+        "token": "pružiti",
+        "signature": "iprtuž",
+        "length": 7
+      },
+      {
+        "token": "trčati",
+        "signature": "ačirt",
+        "length": 6
+      },
+      {
+        "token": "unatoč",
+        "signature": "ačnotu",
+        "length": 6
+      },
+      {
+        "token": "ozlijeđen",
+        "signature": "đeijlnoz",
+        "length": 9
+      },
+      {
+        "token": "zatvorenik",
+        "signature": "aeiknortvz",
+        "length": 10
+      },
+      {
+        "token": "dolazak",
+        "signature": "adkloz",
+        "length": 7
+      },
+      {
+        "token": "napolju",
+        "signature": "ajlnopu",
+        "length": 7
+      },
+      {
+        "token": "obični",
+        "signature": "bčino",
+        "length": 6
+      },
+      {
+        "token": "jaje",
+        "signature": "aej",
+        "length": 4
+      },
+      {
+        "token": "kolica",
+        "signature": "aciklo",
+        "length": 6
+      },
+      {
+        "token": "starac",
+        "signature": "acrst",
+        "length": 6
+      },
+      {
+        "token": "zdrav",
+        "signature": "adrvz",
+        "length": 5
+      },
+      {
+        "token": "katastrofa",
+        "signature": "afkorst",
+        "length": 10
+      },
+      {
+        "token": "rez",
+        "signature": "erz",
+        "length": 3
+      },
+      {
+        "token": "mozgu",
+        "signature": "gmouz",
+        "length": 5
+      },
+      {
+        "token": "smislu",
+        "signature": "ilmsu",
+        "length": 6
+      },
+      {
+        "token": "puls",
+        "signature": "lpsu",
+        "length": 4
+      },
+      {
+        "token": "štit",
+        "signature": "išt",
+        "length": 4
+      },
+      {
+        "token": "usluga",
+        "signature": "aglsu",
+        "length": 6
+      },
+      {
+        "token": "cijev",
+        "signature": "ceijv",
+        "length": 5
+      },
+      {
+        "token": "bitka",
+        "signature": "abikt",
+        "length": 5
+      },
+      {
+        "token": "predstaviti",
+        "signature": "adeiprstv",
+        "length": 11
+      },
+      {
+        "token": "nedostajati",
+        "signature": "adeijnost",
+        "length": 11
+      },
+      {
+        "token": "curica",
+        "signature": "aciru",
+        "length": 6
+      },
+      {
+        "token": "pomoćnik",
+        "signature": "ćikmnop",
+        "length": 8
+      },
+      {
+        "token": "mijenjati",
+        "signature": "aeijmnt",
+        "length": 9
+      },
+      {
+        "token": "šampanjac",
+        "signature": "acjmnpš",
+        "length": 9
+      },
+      {
+        "token": "sprema",
+        "signature": "aemprs",
+        "length": 6
+      },
+      {
+        "token": "gaće",
+        "signature": "aćeg",
+        "length": 4
+      },
+      {
+        "token": "dvorac",
+        "signature": "acdorv",
+        "length": 6
+      },
+      {
+        "token": "akcija",
+        "signature": "acijk",
+        "length": 6
+      },
+      {
+        "token": "napredak",
+        "signature": "adeknpr",
+        "length": 8
+      },
+      {
+        "token": "povrijeđen",
+        "signature": "đeijnoprv",
+        "length": 10
+      },
+      {
+        "token": "majmun",
+        "signature": "ajmnu",
+        "length": 6
+      },
+      {
+        "token": "kompanija",
+        "signature": "aijkmnop",
+        "length": 9
+      },
+      {
+        "token": "rok",
+        "signature": "kor",
+        "length": 3
+      },
+      {
+        "token": "kladiti",
+        "signature": "adiklt",
+        "length": 7
+      },
+      {
+        "token": "magija",
+        "signature": "agijm",
+        "length": 6
+      },
+      {
+        "token": "temperatura",
+        "signature": "aemprtu",
+        "length": 11
+      },
+      {
+        "token": "odgovarati",
+        "signature": "adgiortv",
+        "length": 10
+      },
+      {
+        "token": "srušiti",
+        "signature": "irsštu",
+        "length": 7
+      },
+      {
+        "token": "snijeg",
+        "signature": "egijns",
+        "length": 6
+      },
+      {
+        "token": "služiti",
+        "signature": "ilstuž",
+        "length": 7
+      },
+      {
+        "token": "staklo",
+        "signature": "aklost",
+        "length": 6
+      },
+      {
+        "token": "vuk",
+        "signature": "kuv",
+        "length": 3
+      },
+      {
+        "token": "ikoga",
+        "signature": "agiko",
+        "length": 5
+      },
+      {
+        "token": "djelovati",
+        "signature": "adeijlotv",
+        "length": 9
+      },
+      {
+        "token": "stranica",
+        "signature": "acinrst",
+        "length": 8
+      },
+      {
+        "token": "postaja",
+        "signature": "ajopst",
+        "length": 7
+      },
+      {
+        "token": "opustiti",
+        "signature": "iopstu",
+        "length": 8
+      },
+      {
+        "token": "dogovoriti",
+        "signature": "dgiortv",
+        "length": 10
+      },
+      {
+        "token": "zabaviti",
+        "signature": "abitvz",
+        "length": 8
+      },
+      {
+        "token": "kasni",
+        "signature": "aikns",
+        "length": 5
+      },
+      {
+        "token": "ispuniti",
+        "signature": "inpstu",
+        "length": 8
+      },
+      {
+        "token": "ponos",
+        "signature": "nops",
+        "length": 5
+      },
+      {
+        "token": "vjenčati",
+        "signature": "ačeijntv",
+        "length": 8
+      },
+      {
+        "token": "božji",
+        "signature": "bijož",
+        "length": 5
+      },
+      {
+        "token": "snaći",
+        "signature": "aćins",
+        "length": 5
+      },
+      {
+        "token": "priprema",
+        "signature": "aeimpr",
+        "length": 8
+      },
+      {
+        "token": "brzina",
+        "signature": "abinrz",
+        "length": 6
+      },
+      {
+        "token": "prevariti",
+        "signature": "aeiprtv",
+        "length": 9
+      },
+      {
+        "token": "kolač",
+        "signature": "ačklo",
+        "length": 5
+      },
+      {
+        "token": "kretati",
+        "signature": "aeikrt",
+        "length": 7
+      },
+      {
+        "token": "bicikl",
+        "signature": "bcikl",
+        "length": 6
+      },
+      {
+        "token": "kost",
+        "signature": "kost",
+        "length": 4
+      },
+      {
+        "token": "snimak",
+        "signature": "aikmns",
+        "length": 6
+      },
+      {
+        "token": "oduzeti",
+        "signature": "deiotuz",
+        "length": 7
+      },
+      {
+        "token": "uzbuna",
+        "signature": "abnuz",
+        "length": 6
+      },
+      {
+        "token": "kom",
+        "signature": "kmo",
+        "length": 3
+      },
+      {
+        "token": "objaviti",
+        "signature": "abijotv",
+        "length": 8
+      },
+      {
+        "token": "nadzor",
+        "signature": "adnorz",
+        "length": 6
+      },
+      {
+        "token": "fakultet",
+        "signature": "aefkltu",
+        "length": 8
+      },
+      {
+        "token": "zanimljiv",
+        "signature": "aijlmnvz",
+        "length": 9
+      },
+      {
+        "token": "straga",
+        "signature": "agrst",
+        "length": 6
+      },
+      {
+        "token": "svjetski",
+        "signature": "eijkstv",
+        "length": 8
+      },
+      {
+        "token": "obući",
+        "signature": "bćiou",
+        "length": 5
+      },
+      {
+        "token": "gol",
+        "signature": "glo",
+        "length": 3
+      },
+      {
+        "token": "lažni",
+        "signature": "ailnž",
+        "length": 5
+      },
+      {
+        "token": "podrum",
+        "signature": "dmopru",
+        "length": 6
+      },
+      {
+        "token": "eksplozija",
+        "signature": "aeijklopsz",
+        "length": 10
+      },
+      {
+        "token": "pomaknuti",
+        "signature": "aikmnoptu",
+        "length": 9
+      },
+      {
+        "token": "pojas",
+        "signature": "ajops",
+        "length": 5
+      },
+      {
+        "token": "trening",
+        "signature": "eginrt",
+        "length": 7
+      },
+      {
+        "token": "žalost",
+        "signature": "alostž",
+        "length": 6
+      },
+      {
+        "token": "razvod",
+        "signature": "adorvz",
+        "length": 6
+      },
+      {
+        "token": "družiti",
+        "signature": "dirtuž",
+        "length": 7
+      },
+      {
+        "token": "otisak",
+        "signature": "aikost",
+        "length": 6
+      },
+      {
+        "token": "carstvo",
+        "signature": "acorstv",
+        "length": 7
+      },
+      {
+        "token": "pobiti",
+        "signature": "biopt",
+        "length": 6
+      },
+      {
+        "token": "medicinski",
+        "signature": "cdeikmns",
+        "length": 10
+      },
+      {
+        "token": "razum",
+        "signature": "amruz",
+        "length": 5
+      },
+      {
+        "token": "izvana",
+        "signature": "ainvz",
+        "length": 6
+      },
+      {
+        "token": "vlast",
+        "signature": "alstv",
+        "length": 5
+      },
+      {
+        "token": "uhvaćen",
+        "signature": "aćehnuv",
+        "length": 7
+      },
+      {
+        "token": "povezati",
+        "signature": "aeioptvz",
+        "length": 8
+      },
+      {
+        "token": "pobjednik",
+        "signature": "bdeijknop",
+        "length": 9
+      },
+      {
+        "token": "straža",
+        "signature": "arstž",
+        "length": 6
+      },
+      {
+        "token": "stvarni",
+        "signature": "ainrstv",
+        "length": 7
+      },
+      {
+        "token": "složiti",
+        "signature": "ilostž",
+        "length": 7
+      },
+      {
+        "token": "jao",
+        "signature": "ajo",
+        "length": 3
+      },
+      {
+        "token": "poginuti",
+        "signature": "ginoptu",
+        "length": 8
+      },
+      {
+        "token": "krilo",
+        "signature": "iklor",
+        "length": 5
+      },
+      {
+        "token": "otpustiti",
+        "signature": "iopstu",
+        "length": 9
+      },
+      {
+        "token": "vlasništvo",
+        "signature": "ailnosštv",
+        "length": 10
+      },
+      {
+        "token": "recept",
+        "signature": "ceprt",
+        "length": 6
+      },
+      {
+        "token": "dijeliti",
+        "signature": "deijlt",
+        "length": 8
+      },
+      {
+        "token": "energija",
+        "signature": "aegijnr",
+        "length": 8
+      },
+      {
+        "token": "drukčiji",
+        "signature": "čdijkru",
+        "length": 8
+      },
+      {
+        "token": "uključen",
+        "signature": "čejklnu",
+        "length": 8
+      },
+      {
+        "token": "otpušten",
+        "signature": "enopštu",
+        "length": 8
+      },
+      {
+        "token": "sloboda",
+        "signature": "abdlos",
+        "length": 7
+      },
+      {
+        "token": "ubijati",
+        "signature": "abijtu",
+        "length": 7
+      },
+      {
+        "token": "glumac",
+        "signature": "acglmu",
+        "length": 6
+      },
+      {
+        "token": "svjesni",
+        "signature": "eijnsv",
+        "length": 7
+      },
+      {
+        "token": "tema",
+        "signature": "aemt",
+        "length": 4
+      },
+      {
+        "token": "kaos",
+        "signature": "akos",
+        "length": 4
+      },
+      {
+        "token": "kostim",
+        "signature": "ikmost",
+        "length": 6
+      },
+      {
+        "token": "putovati",
+        "signature": "aioptuv",
+        "length": 8
+      },
+      {
+        "token": "smjer",
+        "signature": "ejmrs",
+        "length": 5
+      },
+      {
+        "token": "smrad",
+        "signature": "admrs",
+        "length": 5
+      },
+      {
+        "token": "oprati",
+        "signature": "aioprt",
+        "length": 6
+      },
+      {
+        "token": "nikomu",
+        "signature": "ikmnou",
+        "length": 6
+      },
+      {
+        "token": "novinar",
+        "signature": "ainorv",
+        "length": 7
+      },
+      {
+        "token": "unatrag",
+        "signature": "agnrtu",
+        "length": 7
+      },
+      {
+        "token": "potrebni",
+        "signature": "beinoprt",
+        "length": 8
+      },
+      {
+        "token": "uzalud",
+        "signature": "adluz",
+        "length": 6
+      },
+      {
+        "token": "dućan",
+        "signature": "aćdnu",
+        "length": 5
+      },
+      {
+        "token": "uže",
+        "signature": "euž",
+        "length": 3
+      },
+      {
+        "token": "pravda",
+        "signature": "adprv",
+        "length": 6
+      },
+      {
+        "token": "računati",
+        "signature": "ačinrtu",
+        "length": 8
+      },
+      {
+        "token": "ispraviti",
+        "signature": "aiprstv",
+        "length": 9
+      },
+      {
+        "token": "dojam",
+        "signature": "adjmo",
+        "length": 5
+      },
+      {
+        "token": "luk",
+        "signature": "klu",
+        "length": 3
+      },
+      {
+        "token": "zamjenik",
+        "signature": "aeijkmnz",
+        "length": 8
+      },
+      {
+        "token": "izazvati",
+        "signature": "aitvz",
+        "length": 8
+      },
+      {
+        "token": "širi",
+        "signature": "irš",
+        "length": 4
+      },
+      {
+        "token": "stric",
+        "signature": "cirst",
+        "length": 5
+      },
+      {
+        "token": "glumiti",
+        "signature": "gilmtu",
+        "length": 7
+      },
+      {
+        "token": "zli",
+        "signature": "ilz",
+        "length": 3
+      },
+      {
+        "token": "šifra",
+        "signature": "afirš",
+        "length": 5
+      },
+      {
+        "token": "državni",
+        "signature": "adinrvž",
+        "length": 7
+      },
+      {
+        "token": "izvaditi",
+        "signature": "aditvz",
+        "length": 8
+      },
+      {
+        "token": "ispit",
+        "signature": "ipst",
+        "length": 5
+      },
+      {
+        "token": "aerodrom",
+        "signature": "ademor",
+        "length": 8
+      },
+      {
+        "token": "sluga",
+        "signature": "aglsu",
+        "length": 5
+      },
+      {
+        "token": "nekamo",
+        "signature": "aekmno",
+        "length": 6
+      },
+      {
+        "token": "gladni",
+        "signature": "adgiln",
+        "length": 6
+      },
+      {
+        "token": "kartica",
+        "signature": "acikrt",
+        "length": 7
+      },
+      {
+        "token": "velečasni",
+        "signature": "ačeilnsv",
+        "length": 9
+      },
+      {
+        "token": "specijalni",
+        "signature": "aceijlnps",
+        "length": 10
+      },
+      {
+        "token": "mirni",
+        "signature": "imnr",
+        "length": 5
+      },
+      {
+        "token": "optužen",
+        "signature": "enoptuž",
+        "length": 7
+      },
+      {
+        "token": "pametni",
+        "signature": "aeimnpt",
+        "length": 7
+      },
+      {
+        "token": "zahod",
+        "signature": "adhoz",
+        "length": 5
+      },
+      {
+        "token": "okidač",
+        "signature": "ačdiko",
+        "length": 6
+      },
+      {
+        "token": "istok",
+        "signature": "ikost",
+        "length": 5
+      },
+      {
+        "token": "hram",
+        "signature": "ahmr",
+        "length": 4
+      },
+      {
+        "token": "ratni",
+        "signature": "ainrt",
+        "length": 5
+      },
+      {
+        "token": "cipela",
+        "signature": "aceilp",
+        "length": 6
+      },
+      {
+        "token": "izlazak",
+        "signature": "aiklz",
+        "length": 7
+      },
+      {
+        "token": "oprema",
+        "signature": "aemopr",
+        "length": 6
+      },
+      {
+        "token": "skrivati",
+        "signature": "aikrstv",
+        "length": 8
+      },
+      {
+        "token": "izgovor",
+        "signature": "giorvz",
+        "length": 7
+      },
+      {
+        "token": "skok",
+        "signature": "kos",
+        "length": 4
+      },
+      {
+        "token": "kut",
+        "signature": "ktu",
+        "length": 3
+      },
+      {
+        "token": "muški",
+        "signature": "ikmšu",
+        "length": 5
+      },
+      {
+        "token": "stranac",
+        "signature": "acnrst",
+        "length": 7
+      },
+      {
+        "token": "rep",
+        "signature": "epr",
+        "length": 3
+      },
+      {
+        "token": "trbuh",
+        "signature": "bhrtu",
+        "length": 5
+      },
+      {
+        "token": "prijenos",
+        "signature": "eijnoprs",
+        "length": 8
+      },
+      {
+        "token": "savjetnik",
+        "signature": "aeijknstv",
+        "length": 9
+      },
+      {
+        "token": "odoh",
+        "signature": "dho",
+        "length": 4
+      },
+      {
+        "token": "pametniji",
+        "signature": "aeijmnpt",
+        "length": 9
+      },
+      {
+        "token": "ljubazni",
+        "signature": "abijlnuz",
+        "length": 8
+      },
+      {
+        "token": "vijeće",
+        "signature": "ćeijv",
+        "length": 6
+      },
+      {
+        "token": "sekunda",
+        "signature": "adeknsu",
+        "length": 7
+      },
+      {
+        "token": "murjak",
+        "signature": "ajkmru",
+        "length": 6
+      },
+      {
+        "token": "šok",
+        "signature": "koš",
+        "length": 3
+      }
+    ],
+    "advanced": [
+      {
+        "token": "štoviše",
+        "signature": "eioštv",
+        "length": 7
+      },
+      {
+        "token": "isplata",
+        "signature": "ailpst",
+        "length": 7
+      },
+      {
+        "token": "avenija",
+        "signature": "aeijnv",
+        "length": 7
+      },
+      {
+        "token": "arhitekt",
+        "signature": "aehikrt",
+        "length": 8
+      },
+      {
+        "token": "zabrljati",
+        "signature": "abijlrtz",
+        "length": 9
+      },
+      {
+        "token": "prenoćiti",
+        "signature": "ćeinoprt",
+        "length": 9
+      },
+      {
+        "token": "sirotište",
+        "signature": "eiorsšt",
+        "length": 9
+      },
+      {
+        "token": "ljepilo",
+        "signature": "eijlop",
+        "length": 7
+      },
+      {
+        "token": "nacrtati",
+        "signature": "acinrt",
+        "length": 8
+      },
+      {
+        "token": "potok",
+        "signature": "kopt",
+        "length": 5
+      },
+      {
+        "token": "amandman",
+        "signature": "admn",
+        "length": 8
+      },
+      {
+        "token": "titl",
+        "signature": "ilt",
+        "length": 4
+      },
+      {
+        "token": "mnome",
+        "signature": "emno",
+        "length": 5
+      },
+      {
+        "token": "obogatiti",
+        "signature": "abgiot",
+        "length": 9
+      },
+      {
+        "token": "sportaš",
+        "signature": "aoprsšt",
+        "length": 7
+      },
+      {
+        "token": "evakuacija",
+        "signature": "aceijkuv",
+        "length": 10
+      },
+      {
+        "token": "cigara",
+        "signature": "acgir",
+        "length": 6
+      },
+      {
+        "token": "nerado",
+        "signature": "adenor",
+        "length": 6
+      },
+      {
+        "token": "tablica",
+        "signature": "abcilt",
+        "length": 7
+      },
+      {
+        "token": "dokumentarac",
+        "signature": "acdekmnortu",
+        "length": 12
+      },
+      {
+        "token": "krajnji",
+        "signature": "aijknr",
+        "length": 7
+      },
+      {
+        "token": "lutalica",
+        "signature": "aciltu",
+        "length": 8
+      },
+      {
+        "token": "patolog",
+        "signature": "aglopt",
+        "length": 7
+      },
+      {
+        "token": "tkogod",
+        "signature": "dgkot",
+        "length": 6
+      },
+      {
+        "token": "sedlo",
+        "signature": "delos",
+        "length": 5
+      },
+      {
+        "token": "fokus",
+        "signature": "fkosu",
+        "length": 5
+      },
+      {
+        "token": "jardi",
+        "signature": "adijr",
+        "length": 5
+      },
+      {
+        "token": "limun",
+        "signature": "ilmnu",
+        "length": 5
+      },
+      {
+        "token": "seljak",
+        "signature": "aejkls",
+        "length": 6
+      },
+      {
+        "token": "spol",
+        "signature": "lops",
+        "length": 4
+      },
+      {
+        "token": "strop",
+        "signature": "oprst",
+        "length": 5
+      },
+      {
+        "token": "osvetnik",
+        "signature": "eiknostv",
+        "length": 8
+      },
+      {
+        "token": "opušten",
+        "signature": "enopštu",
+        "length": 7
+      },
+      {
+        "token": "pokrivač",
+        "signature": "ačikoprv",
+        "length": 8
+      },
+      {
+        "token": "čokoladni",
+        "signature": "ačdiklno",
+        "length": 9
+      },
+      {
+        "token": "univerzum",
+        "signature": "eimnruvz",
+        "length": 9
+      },
+      {
+        "token": "prikriti",
+        "signature": "ikprt",
+        "length": 8
+      },
+      {
+        "token": "nit",
+        "signature": "int",
+        "length": 3
+      },
+      {
+        "token": "smetnja",
+        "signature": "aejmnst",
+        "length": 7
+      },
+      {
+        "token": "ulični",
+        "signature": "čilnu",
+        "length": 6
+      },
+      {
+        "token": "centimetar",
+        "signature": "aceimnrt",
+        "length": 10
+      },
+      {
+        "token": "dodijeljen",
+        "signature": "deijlno",
+        "length": 10
+      },
+      {
+        "token": "izgrađen",
+        "signature": "ađeginrz",
+        "length": 8
+      },
+      {
+        "token": "maraton",
+        "signature": "amnort",
+        "length": 7
+      },
+      {
+        "token": "veleposlanstvo",
+        "signature": "aelnopstv",
+        "length": 14
+      },
+      {
+        "token": "raspasti",
+        "signature": "aiprst",
+        "length": 8
+      },
+      {
+        "token": "satnija",
+        "signature": "aijnst",
+        "length": 7
+      },
+      {
+        "token": "napušten",
+        "signature": "aenpštu",
+        "length": 8
+      },
+      {
+        "token": "posrednik",
+        "signature": "deiknoprs",
+        "length": 9
+      },
+      {
+        "token": "praznina",
+        "signature": "ainprz",
+        "length": 8
+      },
+      {
+        "token": "skalpel",
+        "signature": "aeklps",
+        "length": 7
+      },
+      {
+        "token": "funkcija",
+        "signature": "acfijknu",
+        "length": 8
+      },
+      {
+        "token": "protok",
+        "signature": "koprt",
+        "length": 6
+      },
+      {
+        "token": "razumni",
+        "signature": "aimnruz",
+        "length": 7
+      },
+      {
+        "token": "tužilaštvo",
+        "signature": "ailoštuvž",
+        "length": 10
+      },
+      {
+        "token": "teleskop",
+        "signature": "eklopst",
+        "length": 8
+      }
+    ]
+  }
+}

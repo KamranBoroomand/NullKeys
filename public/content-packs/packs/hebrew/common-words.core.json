@@ -1,0 +1,1166 @@
+{
+  "packId": "hebrew:common-words:core",
+  "languageId": "hebrew",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 230,
+  "stages": {
+    "foundational": [
+      {
+        "token": "במשחק",
+        "signature": "בחמקש",
+        "length": 5
+      },
+      {
+        "token": "ארכאולוגיים",
+        "signature": "אגויכלםר",
+        "length": 11
+      },
+      {
+        "token": "שמאחורי",
+        "signature": "אוחימרש",
+        "length": 7
+      },
+      {
+        "token": "לדוגמה",
+        "signature": "גדהולמ",
+        "length": 6
+      },
+      {
+        "token": "אשכול",
+        "signature": "אוכלש",
+        "length": 5
+      },
+      {
+        "token": "המשחק",
+        "signature": "החמקש",
+        "length": 5
+      },
+      {
+        "token": "כחודש",
+        "signature": "דוחכש",
+        "length": 5
+      },
+      {
+        "token": "לחמוק",
+        "signature": "וחלמק",
+        "length": 5
+      },
+      {
+        "token": "שאוכל",
+        "signature": "אוכלש",
+        "length": 5
+      },
+      {
+        "token": "שוקולד",
+        "signature": "דולקש",
+        "length": 6
+      },
+      {
+        "token": "שלאחר",
+        "signature": "אחלרש",
+        "length": 5
+      },
+      {
+        "token": "לשחק",
+        "signature": "חלקש",
+        "length": 4
+      },
+      {
+        "token": "מחדש",
+        "signature": "דחמש",
+        "length": 4
+      },
+      {
+        "token": "משחק",
+        "signature": "חמקש",
+        "length": 4
+      },
+      {
+        "token": "במיוחד",
+        "signature": "בדוחימ",
+        "length": 6
+      },
+      {
+        "token": "מאבקים",
+        "signature": "אבימםק",
+        "length": 6
+      },
+      {
+        "token": "במקביל",
+        "signature": "בילמק",
+        "length": 6
+      },
+      {
+        "token": "לחשוב",
+        "signature": "בוחלש",
+        "length": 5
+      },
+      {
+        "token": "מלבד",
+        "signature": "בדלמ",
+        "length": 4
+      },
+      {
+        "token": "האוכלוסין",
+        "signature": "אהויכלןס",
+        "length": 9
+      },
+      {
+        "token": "הדמוקרטיה",
+        "signature": "דהוטימקר",
+        "length": 9
+      },
+      {
+        "token": "מאחוריהם",
+        "signature": "אהוחימםר",
+        "length": 8
+      },
+      {
+        "token": "האוכלוסייה",
+        "signature": "אהויכלס",
+        "length": 10
+      },
+      {
+        "token": "הגדולים",
+        "signature": "גדהוילם",
+        "length": 7
+      },
+      {
+        "token": "הקדושים",
+        "signature": "דהויםקש",
+        "length": 7
+      },
+      {
+        "token": "לראשונה",
+        "signature": "אהולנרש",
+        "length": 7
+      },
+      {
+        "token": "איכשהו",
+        "signature": "אהויכש",
+        "length": 6
+      },
+      {
+        "token": "גדולים",
+        "signature": "גדוילם",
+        "length": 6
+      },
+      {
+        "token": "החדשים",
+        "signature": "דהחיםש",
+        "length": 6
+      },
+      {
+        "token": "החכמים",
+        "signature": "החיכמם",
+        "length": 6
+      },
+      {
+        "token": "הקומנדו",
+        "signature": "דהומנק",
+        "length": 7
+      },
+      {
+        "token": "השולחן",
+        "signature": "הוחלןש",
+        "length": 6
+      },
+      {
+        "token": "חודשיים",
+        "signature": "דוחיםש",
+        "length": 7
+      },
+      {
+        "token": "חודשים",
+        "signature": "דוחיםש",
+        "length": 6
+      },
+      {
+        "token": "כדורסל",
+        "signature": "דוכלסר",
+        "length": 6
+      },
+      {
+        "token": "להישאר",
+        "signature": "אהילרש",
+        "length": 6
+      },
+      {
+        "token": "להמשיך",
+        "signature": "היךלמש",
+        "length": 6
+      },
+      {
+        "token": "לקריאה",
+        "signature": "אהילקר",
+        "length": 6
+      },
+      {
+        "token": "מאחורי",
+        "signature": "אוחימר",
+        "length": 6
+      },
+      {
+        "token": "מאחוריו",
+        "signature": "אוחימר",
+        "length": 7
+      },
+      {
+        "token": "משוכנע",
+        "signature": "וכמנעש",
+        "length": 6
+      },
+      {
+        "token": "שאמורה",
+        "signature": "אהומרש",
+        "length": 6
+      },
+      {
+        "token": "גדולה",
+        "signature": "גדהול",
+        "length": 5
+      },
+      {
+        "token": "גידלו",
+        "signature": "גדויל",
+        "length": 5
+      },
+      {
+        "token": "גשמים",
+        "signature": "גימםש",
+        "length": 5
+      },
+      {
+        "token": "הגדול",
+        "signature": "גדהול",
+        "length": 5
+      },
+      {
+        "token": "הגדולה",
+        "signature": "גדהול",
+        "length": 6
+      },
+      {
+        "token": "הגודל",
+        "signature": "גדהול",
+        "length": 5
+      },
+      {
+        "token": "הגלימה",
+        "signature": "גהילמ",
+        "length": 6
+      },
+      {
+        "token": "הלחימה",
+        "signature": "החילמ",
+        "length": 6
+      },
+      {
+        "token": "המחפש",
+        "signature": "החמפש",
+        "length": 5
+      },
+      {
+        "token": "המפלגה",
+        "signature": "גהלמפ",
+        "length": 6
+      },
+      {
+        "token": "המשפחה",
+        "signature": "החמפש",
+        "length": 6
+      },
+      {
+        "token": "השחקן",
+        "signature": "החןקש",
+        "length": 5
+      },
+      {
+        "token": "ולאחר",
+        "signature": "אוחלר",
+        "length": 5
+      },
+      {
+        "token": "חדשים",
+        "signature": "דחיםש",
+        "length": 5
+      },
+      {
+        "token": "כאילו",
+        "signature": "אויכל",
+        "length": 5
+      },
+      {
+        "token": "כלומר",
+        "signature": "וכלמר",
+        "length": 5
+      },
+      {
+        "token": "כשהוא",
+        "signature": "אהוכש",
+        "length": 5
+      },
+      {
+        "token": "לגמרי",
+        "signature": "גילמר",
+        "length": 5
+      },
+      {
+        "token": "להגיד",
+        "signature": "גדהיל",
+        "length": 5
+      },
+      {
+        "token": "למגוון",
+        "signature": "גולמן",
+        "length": 6
+      },
+      {
+        "token": "למעשה",
+        "signature": "הלמעש",
+        "length": 5
+      },
+      {
+        "token": "למצוא",
+        "signature": "אולמצ",
+        "length": 5
+      },
+      {
+        "token": "למראה",
+        "signature": "אהלמר",
+        "length": 5
+      },
+      {
+        "token": "לצמוח",
+        "signature": "וחלמצ",
+        "length": 5
+      },
+      {
+        "token": "לקרוא",
+        "signature": "אולקר",
+        "length": 5
+      },
+      {
+        "token": "לראשו",
+        "signature": "אולרש",
+        "length": 5
+      },
+      {
+        "token": "לשמוע",
+        "signature": "ולמעש",
+        "length": 5
+      },
+      {
+        "token": "לשמור",
+        "signature": "ולמרש",
+        "length": 5
+      },
+      {
+        "token": "מאוחר",
+        "signature": "אוחמר",
+        "length": 5
+      },
+      {
+        "token": "מהחדר",
+        "signature": "דהחמר",
+        "length": 5
+      },
+      {
+        "token": "מחזיק",
+        "signature": "זחימק",
+        "length": 5
+      },
+      {
+        "token": "מכשפה",
+        "signature": "הכמפש",
+        "length": 5
+      },
+      {
+        "token": "מסוגל",
+        "signature": "גולמס",
+        "length": 5
+      },
+      {
+        "token": "מצליח",
+        "signature": "חילמצ",
+        "length": 5
+      },
+      {
+        "token": "נכשלה",
+        "signature": "הכלנש",
+        "length": 5
+      },
+      {
+        "token": "קדימה",
+        "signature": "דהימק",
+        "length": 5
+      },
+      {
+        "token": "שאולי",
+        "signature": "אוילש",
+        "length": 5
+      },
+      {
+        "token": "שאנחנו",
+        "signature": "אוחנש",
+        "length": 6
+      },
+      {
+        "token": "שולחן",
+        "signature": "וחלןש",
+        "length": 5
+      },
+      {
+        "token": "שכולם",
+        "signature": "וכלםש",
+        "length": 5
+      },
+      {
+        "token": "גדול",
+        "signature": "גדול",
+        "length": 4
+      },
+      {
+        "token": "האדמה",
+        "signature": "אדהמ",
+        "length": 5
+      },
+      {
+        "token": "האשמה",
+        "signature": "אהמש",
+        "length": 5
+      },
+      {
+        "token": "הדגל",
+        "signature": "גדהל",
+        "length": 4
+      },
+      {
+        "token": "ההשמדה",
+        "signature": "דהמש",
+        "length": 6
+      },
+      {
+        "token": "החדש",
+        "signature": "דהחש",
+        "length": 4
+      },
+      {
+        "token": "החדשה",
+        "signature": "דהחש",
+        "length": 5
+      },
+      {
+        "token": "הממשלה",
+        "signature": "הלמש",
+        "length": 6
+      },
+      {
+        "token": "השלג",
+        "signature": "גהלש",
+        "length": 4
+      },
+      {
+        "token": "חדשה",
+        "signature": "דהחש",
+        "length": 4
+      },
+      {
+        "token": "חידק",
+        "signature": "דחיק",
+        "length": 4
+      },
+      {
+        "token": "כאלה",
+        "signature": "אהכל",
+        "length": 4
+      },
+      {
+        "token": "כדאי",
+        "signature": "אדיכ",
+        "length": 4
+      },
+      {
+        "token": "כנגד",
+        "signature": "גדכנ",
+        "length": 4
+      },
+      {
+        "token": "לאכול",
+        "signature": "אוכל",
+        "length": 5
+      },
+      {
+        "token": "לחדר",
+        "signature": "דחלר",
+        "length": 4
+      },
+      {
+        "token": "לחפש",
+        "signature": "חלפש",
+        "length": 4
+      },
+      {
+        "token": "לכאן",
+        "signature": "אכלן",
+        "length": 4
+      },
+      {
+        "token": "ללמוד",
+        "signature": "דולמ",
+        "length": 5
+      },
+      {
+        "token": "לשאול",
+        "signature": "אולש",
+        "length": 5
+      },
+      {
+        "token": "לשטח",
+        "signature": "חטלש",
+        "length": 4
+      },
+      {
+        "token": "מאוד",
+        "signature": "אדומ",
+        "length": 4
+      },
+      {
+        "token": "מאשר",
+        "signature": "אמרש",
+        "length": 4
+      },
+      {
+        "token": "מדאם",
+        "signature": "אדמם",
+        "length": 4
+      },
+      {
+        "token": "מוקד",
+        "signature": "דומק",
+        "length": 4
+      },
+      {
+        "token": "מושג",
+        "signature": "גומש",
+        "length": 4
+      },
+      {
+        "token": "מחפש",
+        "signature": "חמפש",
+        "length": 4
+      },
+      {
+        "token": "מילא",
+        "signature": "אילמ",
+        "length": 4
+      },
+      {
+        "token": "מכאן",
+        "signature": "אכמן",
+        "length": 4
+      },
+      {
+        "token": "מכוח",
+        "signature": "וחכמ",
+        "length": 4
+      },
+      {
+        "token": "מלחמה",
+        "signature": "החלמ",
+        "length": 5
+      },
+      {
+        "token": "מפקד",
+        "signature": "דמפק",
+        "length": 4
+      },
+      {
+        "token": "נחמד",
+        "signature": "דחמנ",
+        "length": 4
+      },
+      {
+        "token": "שאלה",
+        "signature": "אהלש",
+        "length": 4
+      },
+      {
+        "token": "שאמר",
+        "signature": "אמרש",
+        "length": 4
+      },
+      {
+        "token": "שלכם",
+        "signature": "כלםש",
+        "length": 4
+      },
+      {
+        "token": "שעמד",
+        "signature": "דמעש",
+        "length": 4
+      },
+      {
+        "token": "אחד",
+        "signature": "אדח",
+        "length": 3
+      },
+      {
+        "token": "דגל",
+        "signature": "גדל",
+        "length": 3
+      },
+      {
+        "token": "חדש",
+        "signature": "דחש",
+        "length": 3
+      },
+      {
+        "token": "חמש",
+        "signature": "חמש",
+        "length": 3
+      },
+      {
+        "token": "לגדל",
+        "signature": "גדל",
+        "length": 4
+      },
+      {
+        "token": "לחש",
+        "signature": "חלש",
+        "length": 3
+      },
+      {
+        "token": "למד",
+        "signature": "דלמ",
+        "length": 3
+      },
+      {
+        "token": "למשל",
+        "signature": "למש",
+        "length": 4
+      },
+      {
+        "token": "לקח",
+        "signature": "חלק",
+        "length": 3
+      },
+      {
+        "token": "מכל",
+        "signature": "כלמ",
+        "length": 3
+      },
+      {
+        "token": "מלא",
+        "signature": "אלמ",
+        "length": 3
+      },
+      {
+        "token": "מקל",
+        "signature": "למק",
+        "length": 3
+      },
+      {
+        "token": "שאל",
+        "signature": "אלש",
+        "length": 3
+      },
+      {
+        "token": "שכל",
+        "signature": "כלש",
+        "length": 3
+      },
+      {
+        "token": "שלא",
+        "signature": "אלש",
+        "length": 3
+      },
+      {
+        "token": "שלח",
+        "signature": "חלש",
+        "length": 3
+      },
+      {
+        "token": "שמח",
+        "signature": "חמש",
+        "length": 3
+      },
+      {
+        "token": "האבולוציוני",
+        "signature": "אבהוילנצ",
+        "length": 11
+      },
+      {
+        "token": "בניגוד",
+        "signature": "בגדוינ",
+        "length": 6
+      },
+      {
+        "token": "בקשרים",
+        "signature": "ביםקרש",
+        "length": 6
+      },
+      {
+        "token": "המבוגר",
+        "signature": "בגהומר",
+        "length": 6
+      },
+      {
+        "token": "ובמידה",
+        "signature": "בדהוימ",
+        "length": 6
+      },
+      {
+        "token": "חושבים",
+        "signature": "בוחיםש",
+        "length": 6
+      },
+      {
+        "token": "להבחין",
+        "signature": "בהחילן",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "לרגע",
+        "signature": "גלער",
+        "length": 4
+      },
+      {
+        "token": "מדוע",
+        "signature": "דומע",
+        "length": 4
+      },
+      {
+        "token": "מוגן",
+        "signature": "גומן",
+        "length": 4
+      },
+      {
+        "token": "מוחי",
+        "signature": "וחימ",
+        "length": 4
+      },
+      {
+        "token": "מוכן",
+        "signature": "וכמן",
+        "length": 4
+      },
+      {
+        "token": "מוצאו",
+        "signature": "אומצ",
+        "length": 5
+      },
+      {
+        "token": "מחוץ",
+        "signature": "וחמץ",
+        "length": 4
+      },
+      {
+        "token": "מחייך",
+        "signature": "חיךמ",
+        "length": 5
+      },
+      {
+        "token": "מילים",
+        "signature": "ילמם",
+        "length": 5
+      },
+      {
+        "token": "מכני",
+        "signature": "יכמנ",
+        "length": 4
+      },
+      {
+        "token": "ממחנה",
+        "signature": "החמנ",
+        "length": 5
+      },
+      {
+        "token": "מניח",
+        "signature": "חימנ",
+        "length": 4
+      },
+      {
+        "token": "מעלה",
+        "signature": "הלמע",
+        "length": 4
+      },
+      {
+        "token": "מפיק",
+        "signature": "ימפק",
+        "length": 4
+      },
+      {
+        "token": "מצדם",
+        "signature": "דמםצ",
+        "length": 4
+      },
+      {
+        "token": "מקווה",
+        "signature": "הומק",
+        "length": 5
+      },
+      {
+        "token": "מקום",
+        "signature": "ומםק",
+        "length": 4
+      },
+      {
+        "token": "מקור",
+        "signature": "ומקר",
+        "length": 4
+      },
+      {
+        "token": "מראה",
+        "signature": "אהמר",
+        "length": 4
+      },
+      {
+        "token": "מרכז",
+        "signature": "זכמר",
+        "length": 4
+      },
+      {
+        "token": "משהו",
+        "signature": "הומש",
+        "length": 4
+      },
+      {
+        "token": "משום",
+        "signature": "ומםש",
+        "length": 4
+      },
+      {
+        "token": "נאלץ",
+        "signature": "אלנץ",
+        "length": 4
+      },
+      {
+        "token": "נדמה",
+        "signature": "דהמנ",
+        "length": 4
+      },
+      {
+        "token": "נמצא",
+        "signature": "אמנצ",
+        "length": 4
+      },
+      {
+        "token": "נעמד",
+        "signature": "דמנע",
+        "length": 4
+      },
+      {
+        "token": "נפלא",
+        "signature": "אלנפ",
+        "length": 4
+      },
+      {
+        "token": "נשאר",
+        "signature": "אנרש",
+        "length": 4
+      },
+      {
+        "token": "נשמע",
+        "signature": "מנעש",
+        "length": 4
+      },
+      {
+        "token": "עומד",
+        "signature": "דומע",
+        "length": 4
+      },
+      {
+        "token": "עמדה",
+        "signature": "דהמע",
+        "length": 4
+      },
+      {
+        "token": "עמדו",
+        "signature": "דומע",
+        "length": 4
+      },
+      {
+        "token": "פקדה",
+        "signature": "דהפק",
+        "length": 4
+      },
+      {
+        "token": "קודם",
+        "signature": "דוםק",
+        "length": 4
+      },
+      {
+        "token": "קיימו",
+        "signature": "וימק",
+        "length": 5
+      },
+      {
+        "token": "קיימים",
+        "signature": "ימםק",
+        "length": 6
+      },
+      {
+        "token": "ראשו",
+        "signature": "אורש",
+        "length": 4
+      },
+      {
+        "token": "ראשי",
+        "signature": "אירש",
+        "length": 4
+      },
+      {
+        "token": "שאין",
+        "signature": "איןש",
+        "length": 4
+      },
+      {
+        "token": "שאני",
+        "signature": "אינש",
+        "length": 4
+      },
+      {
+        "token": "שהוא",
+        "signature": "אהוש",
+        "length": 4
+      },
+      {
+        "token": "שהיא",
+        "signature": "אהיש",
+        "length": 4
+      },
+      {
+        "token": "שהפכה",
+        "signature": "הכפש",
+        "length": 5
+      },
+      {
+        "token": "שומר",
+        "signature": "ומרש",
+        "length": 4
+      },
+      {
+        "token": "שונא",
+        "signature": "אונש",
+        "length": 4
+      },
+      {
+        "token": "שחור",
+        "signature": "וחרש",
+        "length": 4
+      },
+      {
+        "token": "שימוש",
+        "signature": "וימש",
+        "length": 5
+      },
+      {
+        "token": "שכנה",
+        "signature": "הכנש",
+        "length": 4
+      },
+      {
+        "token": "שלהם",
+        "signature": "הלםש",
+        "length": 4
+      },
+      {
+        "token": "שלום",
+        "signature": "ולםש",
+        "length": 4
+      },
+      {
+        "token": "שלושה",
+        "signature": "הולש",
+        "length": 5
+      },
+      {
+        "token": "שלנו",
+        "signature": "ולנש",
+        "length": 4
+      },
+      {
+        "token": "שמעו",
+        "signature": "ומעש",
+        "length": 4
+      },
+      {
+        "token": "שקטה",
+        "signature": "הטקש",
+        "length": 4
+      },
+      {
+        "token": "שראה",
+        "signature": "אהרש",
+        "length": 4
+      },
+      {
+        "token": "ששימשה",
+        "signature": "הימש",
+        "length": 6
+      },
+      {
+        "token": "אדם",
+        "signature": "אדם",
+        "length": 3
+      },
+      {
+        "token": "אחר",
+        "signature": "אחר",
+        "length": 3
+      },
+      {
+        "token": "איש",
+        "signature": "איש",
+        "length": 3
+      },
+      {
+        "token": "אכן",
+        "signature": "אכן",
+        "length": 3
+      },
+      {
+        "token": "אלה",
+        "signature": "אהל",
+        "length": 3
+      },
+      {
+        "token": "אלי",
+        "signature": "איל",
+        "length": 3
+      }
+    ],
+    "advanced": [
+      {
+        "token": "יצא",
+        "signature": "איצ",
+        "length": 3
+      },
+      {
+        "token": "ישן",
+        "signature": "יןש",
+        "length": 3
+      },
+      {
+        "token": "ישר",
+        "signature": "ירש",
+        "length": 3
+      },
+      {
+        "token": "כזה",
+        "signature": "הזכ",
+        "length": 3
+      },
+      {
+        "token": "כסף",
+        "signature": "כסף",
+        "length": 3
+      },
+      {
+        "token": "כפי",
+        "signature": "יכפ",
+        "length": 3
+      },
+      {
+        "token": "להם",
+        "signature": "הלם",
+        "length": 3
+      },
+      {
+        "token": "לזה",
+        "signature": "הזל",
+        "length": 3
+      },
+      {
+        "token": "לטפל",
+        "signature": "טלפ",
+        "length": 4
+      },
+      {
+        "token": "לילה",
+        "signature": "היל",
+        "length": 4
+      },
+      {
+        "token": "לנו",
+        "signature": "ולנ",
+        "length": 3
+      },
+      {
+        "token": "לפי",
+        "signature": "ילפ",
+        "length": 3
+      },
+      {
+        "token": "מהם",
+        "signature": "המם",
+        "length": 3
+      },
+      {
+        "token": "מהר",
+        "signature": "המר",
+        "length": 3
+      },
+      {
+        "token": "מזה",
+        "signature": "הזמ",
+        "length": 3
+      },
+      {
+        "token": "מזהה",
+        "signature": "הזמ",
+        "length": 4
+      },
+      {
+        "token": "מטה",
+        "signature": "הטמ",
+        "length": 3
+      },
+      {
+        "token": "מטר",
+        "signature": "טמר",
+        "length": 3
+      },
+      {
+        "token": "מים",
+        "signature": "ימם",
+        "length": 3
+      },
+      {
+        "token": "מין",
+        "signature": "ימן",
+        "length": 3
+      },
+      {
+        "token": "מיני",
+        "signature": "ימנ",
+        "length": 4
+      },
+      {
+        "token": "ממנה",
+        "signature": "המנ",
+        "length": 4
+      },
+      {
+        "token": "ממנו",
+        "signature": "ומנ",
+        "length": 4
+      },
+      {
+        "token": "מעט",
+        "signature": "טמע",
+        "length": 3
+      },
+      {
+        "token": "נכנס",
+        "signature": "כנס",
+        "length": 4
+      }
+    ]
+  }
+}

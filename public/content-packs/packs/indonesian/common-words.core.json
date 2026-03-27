@@ -1,0 +1,536 @@
+{
+  "packId": "indonesian:common-words:core",
+  "languageId": "indonesian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 104,
+  "stages": {
+    "foundational": [
+      {
+        "token": "air",
+        "signature": "air",
+        "length": 3
+      },
+      {
+        "token": "meja",
+        "signature": "aejm",
+        "length": 4
+      },
+      {
+        "token": "sore",
+        "signature": "eors",
+        "length": 4
+      },
+      {
+        "token": "pagi",
+        "signature": "agip",
+        "length": 4
+      },
+      {
+        "token": "kota",
+        "signature": "akot",
+        "length": 4
+      },
+      {
+        "token": "kata",
+        "signature": "akt",
+        "length": 4
+      },
+      {
+        "token": "pola",
+        "signature": "alop",
+        "length": 4
+      },
+      {
+        "token": "desa",
+        "signature": "ades",
+        "length": 4
+      },
+      {
+        "token": "buah",
+        "signature": "abhu",
+        "length": 4
+      },
+      {
+        "token": "rabu",
+        "signature": "abru",
+        "length": 4
+      },
+      {
+        "token": "waktu",
+        "signature": "aktuw",
+        "length": 5
+      },
+      {
+        "token": "rumah",
+        "signature": "ahmru",
+        "length": 5
+      },
+      {
+        "token": "jalan",
+        "signature": "ajln",
+        "length": 5
+      },
+      {
+        "token": "pintu",
+        "signature": "inptu",
+        "length": 5
+      },
+      {
+        "token": "angin",
+        "signature": "agin",
+        "length": 5
+      },
+      {
+        "token": "dunia",
+        "signature": "adinu",
+        "length": 5
+      },
+      {
+        "token": "kerja",
+        "signature": "aejkr",
+        "length": 5
+      },
+      {
+        "token": "ritme",
+        "signature": "eimrt",
+        "length": 5
+      },
+      {
+        "token": "jelas",
+        "signature": "aejls",
+        "length": 5
+      },
+      {
+        "token": "papan",
+        "signature": "anp",
+        "length": 5
+      },
+      {
+        "token": "angka",
+        "signature": "agkn",
+        "length": 5
+      },
+      {
+        "token": "teman",
+        "signature": "aemnt",
+        "length": 5
+      },
+      {
+        "token": "pasar",
+        "signature": "aprs",
+        "length": 5
+      },
+      {
+        "token": "ruang",
+        "signature": "agnru",
+        "length": 5
+      },
+      {
+        "token": "lampu",
+        "signature": "almpu",
+        "length": 5
+      },
+      {
+        "token": "taman",
+        "signature": "amnt",
+        "length": 5
+      },
+      {
+        "token": "suara",
+        "signature": "arsu",
+        "length": 5
+      },
+      {
+        "token": "warna",
+        "signature": "anrw",
+        "length": 5
+      },
+      {
+        "token": "cuaca",
+        "signature": "acu",
+        "length": 5
+      },
+      {
+        "token": "musim",
+        "signature": "imsu",
+        "length": 5
+      },
+      {
+        "token": "kapal",
+        "signature": "aklp",
+        "length": 5
+      },
+      {
+        "token": "pesan",
+        "signature": "aenps",
+        "length": 5
+      },
+      {
+        "token": "bahan",
+        "signature": "abhn",
+        "length": 5
+      },
+      {
+        "token": "gerak",
+        "signature": "aegkr",
+        "length": 5
+      },
+      {
+        "token": "usaha",
+        "signature": "ahsu",
+        "length": 5
+      },
+      {
+        "token": "hasil",
+        "signature": "ahils",
+        "length": 5
+      },
+      {
+        "token": "bunga",
+        "signature": "abgnu",
+        "length": 5
+      }
+    ],
+    "developing": [
+      {
+        "token": "kertas",
+        "signature": "aekrst",
+        "length": 6
+      },
+      {
+        "token": "tangan",
+        "signature": "agnt",
+        "length": 6
+      },
+      {
+        "token": "jendela",
+        "signature": "adejln",
+        "length": 7
+      },
+      {
+        "token": "sekolah",
+        "signature": "aehklos",
+        "length": 7
+      },
+      {
+        "token": "detail",
+        "signature": "adeilt",
+        "length": 6
+      },
+      {
+        "token": "memori",
+        "signature": "eimor",
+        "length": 6
+      },
+      {
+        "token": "bacaan",
+        "signature": "abcn",
+        "length": 6
+      },
+      {
+        "token": "pandangan",
+        "signature": "adgnp",
+        "length": 9
+      },
+      {
+        "token": "sinyal",
+        "signature": "ailnsy",
+        "length": 6
+      },
+      {
+        "token": "latihan",
+        "signature": "ahilnt",
+        "length": 7
+      },
+      {
+        "token": "kontrol",
+        "signature": "klnort",
+        "length": 7
+      },
+      {
+        "token": "jembatan",
+        "signature": "abejmnt",
+        "length": 8
+      },
+      {
+        "token": "keluarga",
+        "signature": "aegklru",
+        "length": 8
+      },
+      {
+        "token": "kantor",
+        "signature": "aknort",
+        "length": 6
+      },
+      {
+        "token": "halaman",
+        "signature": "ahlmn",
+        "length": 7
+      },
+      {
+        "token": "senyum",
+        "signature": "emnsuy",
+        "length": 6
+      },
+      {
+        "token": "cerita",
+        "signature": "aceirt",
+        "length": 6
+      },
+      {
+        "token": "gambar",
+        "signature": "abgmr",
+        "length": 6
+      },
+      {
+        "token": "langit",
+        "signature": "agilnt",
+        "length": 6
+      },
+      {
+        "token": "pantai",
+        "signature": "ainpt",
+        "length": 6
+      },
+      {
+        "token": "sungai",
+        "signature": "aginsu",
+        "length": 6
+      },
+      {
+        "token": "gunung",
+        "signature": "gnu",
+        "length": 6
+      },
+      {
+        "token": "kereta",
+        "signature": "aekrt",
+        "length": 6
+      },
+      {
+        "token": "bandara",
+        "signature": "abdnr",
+        "length": 7
+      },
+      {
+        "token": "stasiun",
+        "signature": "ainstu",
+        "length": 7
+      },
+      {
+        "token": "berita",
+        "signature": "abeirt",
+        "length": 6
+      },
+      {
+        "token": "jawaban",
+        "signature": "abjnw",
+        "length": 7
+      },
+      {
+        "token": "alasan",
+        "signature": "alns",
+        "length": 6
+      },
+      {
+        "token": "bentuk",
+        "signature": "bekntu",
+        "length": 6
+      },
+      {
+        "token": "ukuran",
+        "signature": "aknru",
+        "length": 6
+      },
+      {
+        "token": "tenaga",
+        "signature": "aegnt",
+        "length": 6
+      },
+      {
+        "token": "langkah",
+        "signature": "aghkln",
+        "length": 7
+      },
+      {
+        "token": "pilihan",
+        "signature": "ahilnp",
+        "length": 7
+      }
+    ],
+    "advanced": [
+      {
+        "token": "tujuan",
+        "signature": "ajntu",
+        "length": 6
+      },
+      {
+        "token": "perasaan",
+        "signature": "aenprs",
+        "length": 8
+      },
+      {
+        "token": "harapan",
+        "signature": "ahnpr",
+        "length": 7
+      },
+      {
+        "token": "perhatian",
+        "signature": "aehinprt",
+        "length": 9
+      },
+      {
+        "token": "kebiasaan",
+        "signature": "abeikns",
+        "length": 9
+      },
+      {
+        "token": "pelajaran",
+        "signature": "aejlnpr",
+        "length": 9
+      },
+      {
+        "token": "bahasa",
+        "signature": "abhs",
+        "length": 6
+      },
+      {
+        "token": "tulisan",
+        "signature": "ailnstu",
+        "length": 7
+      },
+      {
+        "token": "pembaca",
+        "signature": "abcemp",
+        "length": 7
+      },
+      {
+        "token": "pemimpin",
+        "signature": "eimnp",
+        "length": 8
+      },
+      {
+        "token": "layanan",
+        "signature": "alny",
+        "length": 7
+      },
+      {
+        "token": "sejarah",
+        "signature": "aehjrs",
+        "length": 7
+      },
+      {
+        "token": "budaya",
+        "signature": "abduy",
+        "length": 6
+      },
+      {
+        "token": "makanan",
+        "signature": "akmn",
+        "length": 7
+      },
+      {
+        "token": "minuman",
+        "signature": "aimnu",
+        "length": 7
+      },
+      {
+        "token": "sayuran",
+        "signature": "anrsuy",
+        "length": 7
+      },
+      {
+        "token": "perjalanan",
+        "signature": "aejlnpr",
+        "length": 10
+      },
+      {
+        "token": "kemajuan",
+        "signature": "aejkmnu",
+        "length": 8
+      },
+      {
+        "token": "ketelitian",
+        "signature": "aeiklnt",
+        "length": 10
+      },
+      {
+        "token": "ketenangan",
+        "signature": "aegknt",
+        "length": 10
+      },
+      {
+        "token": "kecepatan",
+        "signature": "aceknpt",
+        "length": 9
+      },
+      {
+        "token": "kestabilan",
+        "signature": "abeiklnst",
+        "length": 10
+      },
+      {
+        "token": "catatan",
+        "signature": "acnt",
+        "length": 7
+      },
+      {
+        "token": "tugas",
+        "signature": "agstu",
+        "length": 5
+      },
+      {
+        "token": "minggu",
+        "signature": "gimnu",
+        "length": 6
+      },
+      {
+        "token": "bulan",
+        "signature": "ablnu",
+        "length": 5
+      },
+      {
+        "token": "tahun",
+        "signature": "ahntu",
+        "length": 5
+      },
+      {
+        "token": "malam",
+        "signature": "alm",
+        "length": 5
+      },
+      {
+        "token": "siang",
+        "signature": "agins",
+        "length": 5
+      },
+      {
+        "token": "senin",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "selasa",
+        "signature": "aels",
+        "length": 6
+      },
+      {
+        "token": "kamis",
+        "signature": "aikms",
+        "length": 5
+      },
+      {
+        "token": "jumat",
+        "signature": "ajmtu",
+        "length": 5
+      },
+      {
+        "token": "sabtu",
+        "signature": "abstu",
+        "length": 5
+      }
+    ]
+  }
+}

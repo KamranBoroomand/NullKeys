@@ -1,0 +1,850 @@
+{
+  "packId": "persian:phrase-drills:core",
+  "languageId": "persian",
+  "contentFamilyId": "phrase-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 120,
+  "entries": [
+    {
+      "text": "صدای دور آرام می‌آید",
+      "signature": "‌آادرصموی",
+      "openingToken": "صدای",
+      "tokenCount": 4,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "آب روشن در جوی می‌رود",
+      "signature": "‌آبجدرشمنوی",
+      "openingToken": "آب",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "صبح آرام از راه می‌رسد",
+      "signature": "‌آابحدرزسصمهی",
+      "openingToken": "صبح",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "آفتاب کم بر سنگ می‌تابد",
+      "signature": "‌آابتدرسفکگمنی",
+      "openingToken": "آفتاب",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "باد کم از حیاط می‌گذرد",
+      "signature": "‌ابحدذرزطکگمی",
+      "openingToken": "باد",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "راه باریک تا در می‌رود",
+      "signature": "‌ابتدرکمهوی",
+      "openingToken": "راه",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نسیم نرم از باغ می‌آید",
+      "signature": "‌آابدرزسغمنی",
+      "openingToken": "نسیم",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "برگ نازک روی میز می‌ماند",
+      "signature": "‌ابدرزکگمنوی",
+      "openingToken": "برگ",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "کوچه روشن تا خانه می‌رسد",
+      "signature": "‌اتچخدرسشکمنهوی",
+      "openingToken": "کوچه",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "هوای خنک از باغچه می‌آید",
+      "signature": "‌آابچخدزغکمنهوی",
+      "openingToken": "هوای",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بوی باران در حیاط می‌پیچد",
+      "signature": "‌ابپچحدرطمنوی",
+      "openingToken": "بوی",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "موج نرم کنار ساحل می‌ماند",
+      "signature": "‌اجحدرسکلمنوی",
+      "openingToken": "موج",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نور نرم روی دیوار می‌ماند",
+      "signature": "‌ادرمنوی",
+      "openingToken": "نور",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "پنجره باز هوای تازه می‌دهد",
+      "signature": "‌ابپتجدرزمنهوی",
+      "openingToken": "پنجره",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "آسمان صاف بالای بام می‌ماند",
+      "signature": "‌آابدسصفلمنی",
+      "openingToken": "آسمان",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سایه درخت روی دیوار می‌لغزد",
+      "signature": "‌اتخدرزسغلمهوی",
+      "openingToken": "سایه",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "صبح روشن روی دیوار می‌نشیند",
+      "signature": "‌ابحدرشصمنوی",
+      "openingToken": "صبح",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله کوتاه هنوز زنده می‌ماند",
+      "signature": "‌اتجدزکلمنهوی",
+      "openingToken": "جمله",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مکث به‌موقع ریتم را نمی‌شکند",
+      "signature": "‌ابتثدرشعقکمنهوی",
+      "openingToken": "مکث",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "در نیمه‌باز هوای تازه می‌آورد",
+      "signature": "‌آابتدرزمنهوی",
+      "openingToken": "در",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "فاصله درست دور واژه‌ها می‌ماند",
+      "signature": "‌اتدرژسصفلمنهوی",
+      "openingToken": "فاصله",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "خانه هنوز ساکت و روشن است",
+      "signature": "اتخرزسشکنهو",
+      "openingToken": "خانه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "راه ساده و روشن پیش می‌رود",
+      "signature": "‌اپدرسشمنهوی",
+      "openingToken": "راه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سنگ روشن کنار آب مانده است",
+      "signature": "آابتدرسشکگمنهو",
+      "openingToken": "سنگ",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "گذر آرام فشار را کم می‌کند",
+      "signature": "‌آادذرشفکگمنی",
+      "openingToken": "گذر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "متن زنده فشار را کم می‌کند",
+      "signature": "‌اتدرزشفکمنهی",
+      "openingToken": "متن",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مسیر چشم فشار را کم می‌کند",
+      "signature": "‌اچدرسشفکمنی",
+      "openingToken": "مسیر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نقطه ضعف فشار را کم می‌کند",
+      "signature": "‌ادرشضطعفقکمنهی",
+      "openingToken": "نقطه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بازگشت نرم خطا را کم می‌کند",
+      "signature": "‌ابتخدرزشطکگمنی",
+      "openingToken": "بازگشت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ترکیب سخت فشار را کم می‌کند",
+      "signature": "‌ابتخدرسشفکمنی",
+      "openingToken": "ترکیب",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله بلند فشار را کم می‌کند",
+      "signature": "‌ابجدرشفکلمنهی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله روشن فشار را کم می‌کند",
+      "signature": "‌اجدرشفکلمنهوی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "درس کوتاه فشار را کم می‌کند",
+      "signature": "‌اتدرسشفکمنهوی",
+      "openingToken": "درس",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ریتم آرام فشار را کم می‌کند",
+      "signature": "‌آاتدرشفکمنی",
+      "openingToken": "ریتم",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "صدای دور از پشت بام می‌گذرد",
+      "signature": "‌ابپتدذرزشصگموی",
+      "openingToken": "صدای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "گذر آرام دقت را نگه می‌دارد",
+      "signature": "‌آاتدذرقگمنهی",
+      "openingToken": "گذر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "متن زنده دقت را نگه می‌دارد",
+      "signature": "‌اتدرزقگمنهی",
+      "openingToken": "متن",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرور منظم فشار را کم می‌کند",
+      "signature": "‌ادرشظفکمنوی",
+      "openingToken": "مرور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مسیر چشم دقت را نگه می‌دارد",
+      "signature": "‌اتچدرسشقگمنهی",
+      "openingToken": "مسیر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مکث کوتاه فشار را کم می‌کند",
+      "signature": "‌اتثدرشفکمنهوی",
+      "openingToken": "مکث",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نقطه ضعف دقت را نگه می‌دارد",
+      "signature": "‌اتدرضطعفقگمنهی",
+      "openingToken": "نقطه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه آشنا فشار را کم می‌کند",
+      "signature": "‌آادرژشفکمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه دقیق فشار را کم می‌کند",
+      "signature": "‌ادرژشفقکمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بوی چای تازه در اتاق می‌ماند",
+      "signature": "‌ابتچدرزقمنهوی",
+      "openingToken": "بوی",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "پیوند تازه فشار را کم می‌کند",
+      "signature": "‌اپتدرزشفکمنهوی",
+      "openingToken": "پیوند",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ترکیب سخت دقت را نگه می‌دارد",
+      "signature": "‌ابتخدرسقکگمنهی",
+      "openingToken": "ترکیب",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله بلند دقت را نگه می‌دارد",
+      "signature": "‌ابتجدرقگلمنهی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله روشن دقت را نگه می‌دارد",
+      "signature": "‌اتجدرشقگلمنهوی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "چای گرم روی میز آرام می‌ماند",
+      "signature": "‌آاچدرزگمنوی",
+      "openingToken": "چای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "چراغ کوچک کنار راه مانده است",
+      "signature": "اتچدرسغکمنهو",
+      "openingToken": "چراغ",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "چراغ کوچک گوشه اتاق روشن است",
+      "signature": "اتچرسشغقکگنهو",
+      "openingToken": "چراغ",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "درس کوتاه دقت را نگه می‌دارد",
+      "signature": "‌اتدرسقکگمنهوی",
+      "openingToken": "درس",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ریتم آرام دقت را نگه می‌دارد",
+      "signature": "‌آاتدرقگمنهی",
+      "openingToken": "ریتم",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سایه نرم تا لبه دیوار می‌رسد",
+      "signature": "‌ابتدرسلمنهوی",
+      "openingToken": "سایه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سکوت نرم تا پایان راه می‌رود",
+      "signature": "‌اپتدرسکمنهوی",
+      "openingToken": "سکوت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "صدای نرم از کوچه بالا می‌آید",
+      "signature": "‌آابچدرزصکلمنهوی",
+      "openingToken": "صدای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "عبارت تازه فشار را کم می‌کند",
+      "signature": "‌ابتدرزشعفکمنهی",
+      "openingToken": "عبارت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "گذر آرام ذهن را آماده می‌کند",
+      "signature": "‌آادذرکگمنهی",
+      "openingToken": "گذر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "متن زنده ذهن را آماده می‌کند",
+      "signature": "‌آاتدذرزکمنهی",
+      "openingToken": "متن",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرحله بعدی فشار را کم می‌کند",
+      "signature": "‌ابحدرشعفکلمنهی",
+      "openingToken": "مرحله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرور منظم دقت را نگه می‌دارد",
+      "signature": "‌اتدرظقگمنهوی",
+      "openingToken": "مرور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مسیر چشم ذهن را آماده می‌کند",
+      "signature": "‌آاچدذرسشکمنهی",
+      "openingToken": "مسیر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مکث کوتاه دقت را نگه می‌دارد",
+      "signature": "‌اتثدرقکگمنهوی",
+      "openingToken": "مکث",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نشانه روشن فشار را کم می‌کند",
+      "signature": "‌ادرشفکمنهوی",
+      "openingToken": "نشانه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نقطه ضعف ذهن را آماده می‌کند",
+      "signature": "‌آادذرضطعفقکمنهی",
+      "openingToken": "نقطه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نور صبح روی فرش آرام می‌افتد",
+      "signature": "‌آابتحدرشصفمنوی",
+      "openingToken": "نور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه آشنا دقت را نگه می‌دارد",
+      "signature": "‌آاتدرژشقگمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه دقیق دقت را نگه می‌دارد",
+      "signature": "‌اتدرژقگمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بوی نان تازه در راهرو می‌پیچد",
+      "signature": "‌ابپتچدرزمنهوی",
+      "openingToken": "بوی",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "پیوند تازه دقت را نگه می‌دارد",
+      "signature": "‌اپتدرزقگمنهوی",
+      "openingToken": "پیوند",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ترکیب سخت ذهن را آماده می‌کند",
+      "signature": "‌آابتخدذرسکمنهی",
+      "openingToken": "ترکیب",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله بلند ذهن را آماده می‌کند",
+      "signature": "‌آابجدذرکلمنهی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله روشن ذهن را آماده می‌کند",
+      "signature": "‌آاجدذرشکلمنهوی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "حافظه حرکتی فشار را کم می‌کند",
+      "signature": "‌اتحدرشظفکمنهی",
+      "openingToken": "حافظه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "درس کوتاه ذهن را آماده می‌کند",
+      "signature": "‌آاتدذرسکمنهوی",
+      "openingToken": "درس",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ریتم آرام ذهن را آماده می‌کند",
+      "signature": "‌آاتدذرکمنهی",
+      "openingToken": "ریتم",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "عبارت تازه دقت را نگه می‌دارد",
+      "signature": "‌ابتدرزعقگمنهی",
+      "openingToken": "عبارت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "عصر آرام روی بام خانه می‌ماند",
+      "signature": "‌آابخدرصعمنهوی",
+      "openingToken": "عصر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "گذر آرام تعادل را نگه می‌دارد",
+      "signature": "‌آاتدذرعگلمنهی",
+      "openingToken": "گذر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "متن زنده تعادل را نگه می‌دارد",
+      "signature": "‌اتدرزعگلمنهی",
+      "openingToken": "متن",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرحله بعدی دقت را نگه می‌دارد",
+      "signature": "‌ابتحدرعقگلمنهی",
+      "openingToken": "مرحله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرور منظم ذهن را آماده می‌کند",
+      "signature": "‌آادذرظکمنهوی",
+      "openingToken": "مرور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مسیر چشم تعادل را نگه می‌دارد",
+      "signature": "‌اتچدرسشعگلمنهی",
+      "openingToken": "مسیر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مکث کوتاه ذهن را آماده می‌کند",
+      "signature": "‌آاتثدذرکمنهوی",
+      "openingToken": "مکث",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نشانه روشن دقت را نگه می‌دارد",
+      "signature": "‌اتدرشقگمنهوی",
+      "openingToken": "نشانه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نقطه ضعف تعادل را نگه می‌دارد",
+      "signature": "‌اتدرضطعفقگلمنهی",
+      "openingToken": "نقطه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه آشنا ذهن را آماده می‌کند",
+      "signature": "‌آادذرژشکمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه دقیق ذهن را آماده می‌کند",
+      "signature": "‌آادذرژقکمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بازبینی سریع فشار را کم می‌کند",
+      "signature": "‌ابدرزسشعفکمنی",
+      "openingToken": "بازبینی",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "برگ خیس کنار پله‌ها افتاده است",
+      "signature": "‌ابپتخدرسفکگلنهی",
+      "openingToken": "برگ",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "پرسش روشن با نشانه درست می‌آید",
+      "signature": "‌آابپتدرسشمنهوی",
+      "openingToken": "پرسش",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "پیوند تازه ذهن را آماده می‌کند",
+      "signature": "‌آاپتدذرزکمنهوی",
+      "openingToken": "پیوند",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ترکیب سخت تعادل را نگه می‌دارد",
+      "signature": "‌ابتخدرسعکگلمنهی",
+      "openingToken": "ترکیب",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "تکرار سنجیده فشار را کم می‌کند",
+      "signature": "‌اتجدرسشفکمنهی",
+      "openingToken": "تکرار",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "تمرین روزانه فشار را کم می‌کند",
+      "signature": "‌اتدرزشفکمنهوی",
+      "openingToken": "تمرین",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله بلند تعادل را نگه می‌دارد",
+      "signature": "‌ابتجدرعگلمنهی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "جمله روشن تعادل را نگه می‌دارد",
+      "signature": "‌اتجدرشعگلمنهوی",
+      "openingToken": "جمله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "حافظه حرکتی دقت را نگه می‌دارد",
+      "signature": "‌اتحدرظفقکگمنهی",
+      "openingToken": "حافظه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "درس کوتاه تعادل را نگه می‌دارد",
+      "signature": "‌اتدرسعکگلمنهوی",
+      "openingToken": "درس",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "ریتم آرام تعادل را نگه می‌دارد",
+      "signature": "‌آاتدرعگلمنهی",
+      "openingToken": "ریتم",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سایه روشن کنار پنجره مانده است",
+      "signature": "اپتجدرسشکمنهوی",
+      "openingToken": "سایه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سکوت خانه با صدای دور نمی‌شکند",
+      "signature": "‌ابتخدرسشصکمنهوی",
+      "openingToken": "سکوت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "سکوت نرم روی صفحه باز می‌نشیند",
+      "signature": "‌ابتحدرزسشصفکمنهوی",
+      "openingToken": "سکوت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "شاخه نازک روی دیوار افتاده است",
+      "signature": "اتخدرزسشفکنهوی",
+      "openingToken": "شاخه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "صدای باران تا آخر راهرو می‌رسد",
+      "signature": "‌آابتخدرسصمنهوی",
+      "openingToken": "صدای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "صدای قدم‌ها روی سنگ نرم می‌شود",
+      "signature": "‌ادرسشصقگمنهوی",
+      "openingToken": "صدای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "عبارت تازه ذهن را آماده می‌کند",
+      "signature": "‌آابتدذرزعکمنهی",
+      "openingToken": "عبارت",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "گذر آرام سرعت را نرم‌تر می‌کند",
+      "signature": "‌آاتدذرسعکگمنی",
+      "openingToken": "گذر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "متن زنده سرعت را نرم‌تر می‌کند",
+      "signature": "‌اتدرزسعکمنهی",
+      "openingToken": "متن",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرحله بعدی ذهن را آماده می‌کند",
+      "signature": "‌آابحدذرعکلمنهی",
+      "openingToken": "مرحله",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مرور منظم تعادل را نگه می‌دارد",
+      "signature": "‌اتدرظعگلمنهوی",
+      "openingToken": "مرور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مسیر چشم سرعت را نرم‌تر می‌کند",
+      "signature": "‌اتچدرسشعکمنی",
+      "openingToken": "مسیر",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "مکث کوتاه تعادل را نگه می‌دارد",
+      "signature": "‌اتثدرعکگلمنهوی",
+      "openingToken": "مکث",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نشانه روشن ذهن را آماده می‌کند",
+      "signature": "‌آادذرشکمنهوی",
+      "openingToken": "نشانه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نقطه ضعف سرعت را نرم‌تر می‌کند",
+      "signature": "‌اتدرسضطعفقکمنهی",
+      "openingToken": "نقطه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "نور عصر روی دیوار روشن می‌لغزد",
+      "signature": "‌ادرزشصعغلمنوی",
+      "openingToken": "نور",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "هوای خنک از پنجره آهسته می‌وزد",
+      "signature": "‌آاپتجخدرزسکمنهوی",
+      "openingToken": "هوای",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه آشنا تعادل را نگه می‌دارد",
+      "signature": "‌آاتدرژشعگلمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "واژه دقیق تعادل را نگه می‌دارد",
+      "signature": "‌اتدرژعقگلمنهوی",
+      "openingToken": "واژه",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "بازبینی سریع دقت را نگه می‌دارد",
+      "signature": "‌ابتدرزسعقگمنهی",
+      "openingToken": "بازبینی",
+      "tokenCount": 6,
+      "difficultyBand": "developing"
+    }
+  ]
+}

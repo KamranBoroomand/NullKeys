@@ -1,0 +1,292 @@
+const foundationalPunctuationClusters = [
+  "() [] {}",
+  "<> :: ..",
+  "\"\" '' ``",
+  "+ - = _",
+  "/ \\ //",
+  ", ; : .",
+  "?! !! ??",
+  "__ -- ++",
+  "[ ] / /",
+  "( ) + =",
+] as const;
+
+const developingPunctuationClusters = [
+  "[]{}()<>",
+  "\"\" / '' / ``",
+  "!= == <= >=",
+  "+= -= *= /=",
+  ":: .. ;; ,,",
+  "-> => == !=",
+  "/* */ // #!",
+  "[[]] {{}} (())",
+  "<< >> <<>>",
+  "\\\\ // /\\\\",
+] as const;
+
+const fluentPunctuationClusters = [
+  "({[]}) <><>",
+  "\"\" \\\"\\\" ''",
+  "[{()}] / <{[]}>",
+  "&& || ++ --",
+  "!= == <= >=",
+  ":: :: .. ..",
+  "/* */ // #!",
+  "<<>> {{}} [[]]",
+  "\\\\// /\\\\/ //\\\\",
+  "?? !! ?! :;",
+] as const;
+
+const advancedPunctuationClusters = [
+  "(({[]})) <<>>",
+  "[[{}]] ((<>))",
+  "&& || ?? !!",
+  "-> => :: ..",
+  "\"\" '' `` \\\"",
+  "/* */ // ##",
+  "(([])) {{<>}}",
+  "[[]]{{}}(())<<>>",
+  ":: == != <= >=",
+  "\\\\ // /\\\\ ///",
+] as const;
+
+const expertPunctuationClusters = [
+  "(({{[[]]}}))",
+  "\"\"''``::;;,,",
+  "&&||??!!+=-=",
+  "[{(<[]>)}]/\\\\",
+  "/*//*/ ##!!??",
+  "<><><>[][]{}{}",
+  "(([])){<>}[{}]",
+  "::..;;,,--__++",
+  "\\\\\\\\ //// /\\\\/",
+  "!= == <= >= -> =>",
+] as const;
+
+export const punctuationClusters = [
+  ...foundationalPunctuationClusters,
+  ...developingPunctuationClusters,
+  ...fluentPunctuationClusters,
+  ...advancedPunctuationClusters,
+  ...expertPunctuationClusters,
+] as const;
+
+export const symbolPatternTiers = {
+  foundational: [
+    "[] [] {} {}",
+    "() () <> <>",
+    "\"\" '' ``",
+    ":: .. ;; ,,",
+    "/ \\ // \\\\",
+    "+ - = _",
+    "?! !! ??",
+    "[ ] / /",
+    "( ) + =",
+    "{ } : ;",
+    "< > / \\",
+    "-- __ ++",
+  ],
+  developing: [
+    "[]{}()<>",
+    "\"\" / '' / ``",
+    "!= == <= >=",
+    "+= -= *= /=",
+    ":: .. ;; ,,",
+    "-> => == !=",
+    "/* */ // #!",
+    "[[]] {{}} (())",
+    "<< >> <<>>",
+    "\\\\ // /\\\\",
+    "?! ?! !! ??",
+    "({}) [<>] //",
+  ],
+  fluent: [
+    "({[]}) <><>",
+    "\"\"\\\"\\\" ''\\''",
+    "[{()}] / <{[]}>",
+    "&& || ++ --",
+    "!= == <= >=",
+    ":: :: .. ..",
+    "/* */ // #!",
+    "<<>> {{}} [[]]",
+    "\\\\// /\\\\/ //\\\\",
+    "?? !! ?! :;",
+    "([{}]) /= += -= *=",
+    "<> <> [] {} ()",
+  ],
+  advanced: [
+    "(({[]})) <<>>",
+    "[[{}]] ((<>))",
+    "&& || ?? !!",
+    "-> => :: ..",
+    "\"\" '' `` \\\" \\'",
+    "/* */ // ## !!",
+    "(([])) {{<>}}",
+    "[[]]{{}}(())<<>>",
+    "::==!=<=>=",
+    "\\\\ // /\\\\ ///",
+    "({[]})[<>]::",
+    "<>[]{}()|&",
+  ],
+  "expert-control": [
+    "(({{[[]]}}))",
+    "\"\"''``::;;,,",
+    "&&||??!!+=-=",
+    "[{(<[]>)}]/\\\\",
+    "/*//*/ ##!!??",
+    "<><><>[][]{}{}",
+    "(([])){<>}[{}]",
+    "::..;;,,--__++",
+    "\\\\\\\\ //// /\\\\/",
+    "!= == <= >= -> =>",
+    "[{()}]<>/\\\\|&",
+    "((<>)){[]}::??",
+  ],
+} as const;
+
+export const symbolPatternSequences = Object.values(symbolPatternTiers).flat() as readonly string[];
+
+export const codeSymbolPatterns = [
+  "items?.[0] ?? fallback",
+  "result.map((item) => item.id)",
+  "{\"mode\":\"safe\",\"retry\":2}",
+  "<section data-id=\"alpha\"></section>",
+  "cache[key] = nextValue;",
+  "cache[key] ||= nextValue;",
+  "prev === current ? nextValue : prevValue;",
+  "value !== null && ready",
+  "Promise.all([load(), save()])",
+  "type Pair<T> = [T, T]",
+  "({ left, right }) => total ?? 0",
+  "entry?.meta?.tags?.[1] ?? \"idle\"",
+] as const;
+
+export const numberPatternTiers = {
+  foundational: [
+    "12 48 96 128",
+    "3.5 7.0 14.5",
+    "07:30 14:45 23:05",
+    "25% 50% 75%",
+    "5/8 3/4 7/10",
+    "$12 $45 $90",
+    "€2.50 €8.75 €16.00",
+    "2026-03-16 2026-04-03",
+    "03/16/2026 04/03/2026",
+    "v1.0 v1.2 v1.4",
+    "ID-120 ID-245 ID-380",
+    "1:2 2:3 3:5",
+  ],
+  developing: [
+    "-12 +48 -96 +128",
+    "0.125 0.25 0.5 1.0",
+    "2026-03-16 07:45",
+    "03/16/2026 14:30",
+    "€12.50 $48.00 £7.25",
+    "12:05:42 18:42:10",
+    "16:9 4:3 21:9",
+    "ID-1208 ID-2450 ID-3802",
+    "v2.14.0 v2.18.3 v3.0.1",
+    "#1208-45 #2450-18 #3802-77",
+    "18.4% -3.2% +0.8%",
+    "1.25 2.50 5.75 10.00",
+  ],
+  fluent: [
+    "+18.4% -3.2% +0.8%",
+    "2026.03.16 21:09",
+    "+03:00 / -05:00 / +09:30",
+    "00:12:48 01:05:32 02:40:11",
+    "$1,240.50 €980.20 ¥12,000",
+    "35.689 51.389 119.4",
+    "1.25x 1.5x 2.0x",
+    "v2.14.0-608 v2.18.3-712",
+    "4/8 7/16 15/32",
+    "2026-W11-2 2026-W16-5",
+    "ID-3905-12 SN-2048-77",
+    "00:45 / 01:20 / 02:15",
+  ],
+  advanced: [
+    "-18.405 +72.330 -0.875",
+    "2026-03-16T07:45:12Z",
+    "2026-Q2 / 2026-W11 / D2",
+    "0.84 -> 1.05",
+    "3/8 7/16 15/32 31/64",
+    "+35.689 +51.389 +119.4",
+    "$1,240.50 €980.20 ¥12,000",
+    "SN-2048-77 / ID-3904",
+    "v3.18.14-2 v4.0.0-1",
+    "#2048 / 2026-04-03 / +30",
+    "12.4 0.75 42.8",
+    "001-2048-77 / 039-04 / 007-18",
+  ],
+  "expert-control": [
+    "-18.405,+72.330 -> +91.118",
+    "2026-03-16T07:45:12.842Z",
+    "23:59:58 / 00:12:48.220",
+    "$1,240.50 / -3.25% / 0.842",
+    "1:50000 7/16 15/32 31/64",
+    "ID-4208-7719 / SN-2048-77",
+    "2026-03-16 07:45 +03:00 / 04:45Z",
+    "2048 / 2039 / 03 / 0.4%",
+    "v3.18.14-2 / 904 / 48.220",
+    "2026-Q4 / 2026-W48 / 23:59:58",
+    "#7719-2048 / +119.4 / 35.6895",
+    "00:12:48.220 / 64:36 / 05",
+  ],
+} as const;
+
+const flattenedNumberPatterns = Object.values(numberPatternTiers).flat();
+
+export const numericClusters = flattenedNumberPatterns.slice(0, 20) as readonly string[];
+export const dateAndTimePatterns = flattenedNumberPatterns.slice(20, 36) as readonly string[];
+export const measurementPatterns = flattenedNumberPatterns.slice(36, 44) as readonly string[];
+export const benchmarkNumberPatterns = flattenedNumberPatterns.slice(44) as readonly string[];
+
+export const commandFlagPatterns = [
+  "-a -l -h",
+  "-n 20 -type f",
+  "--limit=25 --json",
+  "--host=127.0.0.1 --port=4010",
+  "-i input.txt -o output.log",
+  "--since=2h --follow --color=never",
+  "-a -v --delete --dry-run",
+  "--maxdepth=3 --hidden --glob=\"*.ts\"",
+  "-czf archive.tgz --exclude node_modules",
+  "--tail=200 --timestamps --no-pager",
+  "--author=\"Kamran\" --since=\"2 weeks ago\"",
+  "--line-buffered --color=never --smart-case",
+  "--retry=3 --retry-delay=2 --fail",
+  "--format=json --limit=50 --cursor=next",
+] as const;
+
+export const mixedPracticeFragments = [
+  "steady rhythm, clean punctuation.",
+  "touch input loves larger targets.",
+  "type the brackets before the word.",
+  "repeat weak letters without losing flow.",
+  "numpad drills reward accurate reaches.",
+  "slow hands can still produce clean code.",
+  "recent regressions deserve short recovery cycles.",
+  "unlocks should feel earned, not random.",
+  "language-aware drills stay readable under pressure.",
+  "modifier timing improves shell command control.",
+  "clear stage shifts make harder lessons easier to trust.",
+  "broad structure matters more than raw passage length.",
+] as const;
+
+export const numpadDrillFragments = [
+  "7 8 9 + 4 5 6 - 1 2 3 0",
+  "100 250 900 + 64 32 16",
+  "75.2 19.8 42.6 88.4",
+  "1 4 7 0 2 5 8 . 3 6 9",
+  "700 840 920 / 105 210 315",
+  "12.4 18.8 24.6 30.2",
+] as const;
+
+export const modifierDrillFragments = [
+  "shift + [ ] shift + { }",
+  "ctrl c ctrl v ctrl shift p",
+  "alt tab cmd k cmd /",
+  "ctrl alt delete shift enter",
+  "shift 7 shift 8 shift 9",
+  "ctrl r ctrl l alt shift f",
+] as const;

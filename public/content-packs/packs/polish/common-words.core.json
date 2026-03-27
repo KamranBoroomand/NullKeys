@@ -1,0 +1,3626 @@
+{
+  "packId": "polish:common-words:core",
+  "languageId": "polish",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "się",
+        "signature": "ęis",
+        "length": 3
+      },
+      {
+        "token": "nie",
+        "signature": "ein",
+        "length": 3
+      },
+      {
+        "token": "to",
+        "signature": "ot",
+        "length": 2
+      },
+      {
+        "token": "na",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "że",
+        "signature": "eż",
+        "length": 2
+      },
+      {
+        "token": "jest",
+        "signature": "ejst",
+        "length": 4
+      },
+      {
+        "token": "do",
+        "signature": "do",
+        "length": 2
+      },
+      {
+        "token": "co",
+        "signature": "co",
+        "length": 2
+      },
+      {
+        "token": "mnie",
+        "signature": "eimn",
+        "length": 4
+      },
+      {
+        "token": "jak",
+        "signature": "ajk",
+        "length": 3
+      },
+      {
+        "token": "tak",
+        "signature": "akt",
+        "length": 3
+      },
+      {
+        "token": "za",
+        "signature": "az",
+        "length": 2
+      },
+      {
+        "token": "go",
+        "signature": "go",
+        "length": 2
+      },
+      {
+        "token": "tym",
+        "signature": "mty",
+        "length": 3
+      },
+      {
+        "token": "tego",
+        "signature": "egot",
+        "length": 4
+      },
+      {
+        "token": "ci",
+        "signature": "ci",
+        "length": 2
+      },
+      {
+        "token": "ale",
+        "signature": "ael",
+        "length": 3
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "cię",
+        "signature": "cęi",
+        "length": 3
+      },
+      {
+        "token": "ma",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "tylko",
+        "signature": "kloty",
+        "length": 5
+      },
+      {
+        "token": "po",
+        "signature": "op",
+        "length": 2
+      },
+      {
+        "token": "dla",
+        "signature": "adl",
+        "length": 3
+      },
+      {
+        "token": "ty",
+        "signature": "ty",
+        "length": 2
+      },
+      {
+        "token": "coś",
+        "signature": "coś",
+        "length": 3
+      },
+      {
+        "token": "już",
+        "signature": "już",
+        "length": 3
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "być",
+        "signature": "bćy",
+        "length": 3
+      },
+      {
+        "token": "od",
+        "signature": "do",
+        "length": 2
+      },
+      {
+        "token": "tam",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "może",
+        "signature": "emoż",
+        "length": 4
+      },
+      {
+        "token": "będzie",
+        "signature": "bdeęiz",
+        "length": 6
+      },
+      {
+        "token": "sobie",
+        "signature": "beios",
+        "length": 5
+      },
+      {
+        "token": "jej",
+        "signature": "ej",
+        "length": 3
+      },
+      {
+        "token": "jestem",
+        "signature": "ejmst",
+        "length": 6
+      },
+      {
+        "token": "jesteś",
+        "signature": "ejsśt",
+        "length": 6
+      },
+      {
+        "token": "ze",
+        "signature": "ez",
+        "length": 2
+      },
+      {
+        "token": "ciebie",
+        "signature": "bcei",
+        "length": 6
+      },
+      {
+        "token": "wiem",
+        "signature": "eimw",
+        "length": 4
+      },
+      {
+        "token": "by",
+        "signature": "by",
+        "length": 2
+      },
+      {
+        "token": "są",
+        "signature": "ąs",
+        "length": 2
+      },
+      {
+        "token": "nas",
+        "signature": "ans",
+        "length": 3
+      },
+      {
+        "token": "mam",
+        "signature": "am",
+        "length": 3
+      },
+      {
+        "token": "ją",
+        "signature": "ąj",
+        "length": 2
+      },
+      {
+        "token": "teraz",
+        "signature": "aertz",
+        "length": 5
+      },
+      {
+        "token": "czy",
+        "signature": "cyz",
+        "length": 3
+      },
+      {
+        "token": "było",
+        "signature": "błoy",
+        "length": 4
+      },
+      {
+        "token": "wszystko",
+        "signature": "kostwyz",
+        "length": 8
+      },
+      {
+        "token": "ich",
+        "signature": "chi",
+        "length": 3
+      },
+      {
+        "token": "był",
+        "signature": "bły",
+        "length": 3
+      },
+      {
+        "token": "mogę",
+        "signature": "ęgmo",
+        "length": 4
+      },
+      {
+        "token": "przez",
+        "signature": "eprz",
+        "length": 5
+      },
+      {
+        "token": "jego",
+        "signature": "egjo",
+        "length": 4
+      },
+      {
+        "token": "żeby",
+        "signature": "beyż",
+        "length": 4
+      },
+      {
+        "token": "jeśli",
+        "signature": "eijlś",
+        "length": 5
+      },
+      {
+        "token": "dobrze",
+        "signature": "bdeorz",
+        "length": 6
+      },
+      {
+        "token": "pani",
+        "signature": "ainp",
+        "length": 4
+      },
+      {
+        "token": "bardzo",
+        "signature": "abdorz",
+        "length": 6
+      },
+      {
+        "token": "też",
+        "signature": "etż",
+        "length": 3
+      },
+      {
+        "token": "masz",
+        "signature": "amsz",
+        "length": 4
+      },
+      {
+        "token": "mu",
+        "signature": "mu",
+        "length": 2
+      },
+      {
+        "token": "jeszcze",
+        "signature": "cejsz",
+        "length": 7
+      },
+      {
+        "token": "nic",
+        "signature": "cin",
+        "length": 3
+      },
+      {
+        "token": "on",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "tutaj",
+        "signature": "ajtu",
+        "length": 5
+      },
+      {
+        "token": "porządku",
+        "signature": "ądkopruz",
+        "length": 8
+      },
+      {
+        "token": "kiedy",
+        "signature": "deiky",
+        "length": 5
+      },
+      {
+        "token": "mój",
+        "signature": "jmó",
+        "length": 3
+      },
+      {
+        "token": "zrobić",
+        "signature": "bćiorz",
+        "length": 6
+      },
+      {
+        "token": "domu",
+        "signature": "dmou",
+        "length": 4
+      },
+      {
+        "token": "nam",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "nim",
+        "signature": "imn",
+        "length": 3
+      },
+      {
+        "token": "chcę",
+        "signature": "cęh",
+        "length": 4
+      },
+      {
+        "token": "chcesz",
+        "signature": "cehsz",
+        "length": 6
+      },
+      {
+        "token": "je",
+        "signature": "ej",
+        "length": 2
+      },
+      {
+        "token": "więc",
+        "signature": "cęiw",
+        "length": 4
+      },
+      {
+        "token": "prawda",
+        "signature": "adprw",
+        "length": 6
+      },
+      {
+        "token": "tej",
+        "signature": "ejt",
+        "length": 3
+      },
+      {
+        "token": "gdzie",
+        "signature": "degiz",
+        "length": 5
+      },
+      {
+        "token": "mamy",
+        "signature": "amy",
+        "length": 4
+      },
+      {
+        "token": "była",
+        "signature": "abły",
+        "length": 4
+      },
+      {
+        "token": "gdy",
+        "signature": "dgy",
+        "length": 3
+      },
+      {
+        "token": "lat",
+        "signature": "alt",
+        "length": 3
+      },
+      {
+        "token": "bo",
+        "signature": "bo",
+        "length": 2
+      },
+      {
+        "token": "powiedzieć",
+        "signature": "ćdeiopwz",
+        "length": 10
+      },
+      {
+        "token": "wiesz",
+        "signature": "eiswz",
+        "length": 5
+      },
+      {
+        "token": "możesz",
+        "signature": "emoszż",
+        "length": 6
+      },
+      {
+        "token": "który",
+        "signature": "kórty",
+        "length": 5
+      },
+      {
+        "token": "więcej",
+        "signature": "ceęijw",
+        "length": 6
+      },
+      {
+        "token": "prostu",
+        "signature": "oprstu",
+        "length": 6
+      },
+      {
+        "token": "tobą",
+        "signature": "ąbot",
+        "length": 4
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "mną",
+        "signature": "ąmn",
+        "length": 3
+      },
+      {
+        "token": "stało",
+        "signature": "ałost",
+        "length": 5
+      },
+      {
+        "token": "trochę",
+        "signature": "cęhort",
+        "length": 6
+      },
+      {
+        "token": "nigdy",
+        "signature": "dginy",
+        "length": 5
+      },
+      {
+        "token": "razem",
+        "signature": "aemrz",
+        "length": 5
+      },
+      {
+        "token": "proszę",
+        "signature": "ęoprsz",
+        "length": 6
+      },
+      {
+        "token": "was",
+        "signature": "asw",
+        "length": 3
+      },
+      {
+        "token": "czas",
+        "signature": "acsz",
+        "length": 4
+      },
+      {
+        "token": "ludzi",
+        "signature": "diluz",
+        "length": 5
+      },
+      {
+        "token": "będę",
+        "signature": "bdę",
+        "length": 4
+      },
+      {
+        "token": "niż",
+        "signature": "inż",
+        "length": 3
+      },
+      {
+        "token": "pana",
+        "signature": "anp",
+        "length": 4
+      },
+      {
+        "token": "bez",
+        "signature": "bez",
+        "length": 3
+      },
+      {
+        "token": "moje",
+        "signature": "ejmo",
+        "length": 4
+      },
+      {
+        "token": "chce",
+        "signature": "ceh",
+        "length": 4
+      },
+      {
+        "token": "naprawdę",
+        "signature": "adęnprw",
+        "length": 8
+      },
+      {
+        "token": "nawet",
+        "signature": "aentw",
+        "length": 5
+      },
+      {
+        "token": "przed",
+        "signature": "deprz",
+        "length": 5
+      },
+      {
+        "token": "czasu",
+        "signature": "acsuz",
+        "length": 5
+      },
+      {
+        "token": "czym",
+        "signature": "cmyz",
+        "length": 4
+      },
+      {
+        "token": "kto",
+        "signature": "kot",
+        "length": 3
+      },
+      {
+        "token": "ona",
+        "signature": "ano",
+        "length": 3
+      },
+      {
+        "token": "raz",
+        "signature": "arz",
+        "length": 3
+      },
+      {
+        "token": "chodzi",
+        "signature": "cdhioz",
+        "length": 6
+      },
+      {
+        "token": "temu",
+        "signature": "emtu",
+        "length": 4
+      },
+      {
+        "token": "życie",
+        "signature": "ceiyż",
+        "length": 5
+      },
+      {
+        "token": "ktoś",
+        "signature": "kośt",
+        "length": 4
+      },
+      {
+        "token": "rzeczy",
+        "signature": "ceryz",
+        "length": 6
+      },
+      {
+        "token": "niego",
+        "signature": "egino",
+        "length": 5
+      },
+      {
+        "token": "robisz",
+        "signature": "biorsz",
+        "length": 6
+      },
+      {
+        "token": "moja",
+        "signature": "ajmo",
+        "length": 4
+      },
+      {
+        "token": "twój",
+        "signature": "jótw",
+        "length": 4
+      },
+      {
+        "token": "przy",
+        "signature": "pryz",
+        "length": 4
+      },
+      {
+        "token": "tych",
+        "signature": "chty",
+        "length": 4
+      },
+      {
+        "token": "zawsze",
+        "signature": "aeswz",
+        "length": 6
+      },
+      {
+        "token": "siebie",
+        "signature": "beis",
+        "length": 6
+      },
+      {
+        "token": "właśnie",
+        "signature": "aeiłnśw",
+        "length": 7
+      },
+      {
+        "token": "które",
+        "signature": "ekórt",
+        "length": 5
+      },
+      {
+        "token": "albo",
+        "signature": "ablo",
+        "length": 4
+      },
+      {
+        "token": "będziesz",
+        "signature": "bdeęisz",
+        "length": 8
+      },
+      {
+        "token": "im",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "moim",
+        "signature": "imo",
+        "length": 4
+      },
+      {
+        "token": "możemy",
+        "signature": "emoyż",
+        "length": 6
+      },
+      {
+        "token": "pod",
+        "signature": "dop",
+        "length": 3
+      },
+      {
+        "token": "miał",
+        "signature": "aiłm",
+        "length": 4
+      },
+      {
+        "token": "stąd",
+        "signature": "ądst",
+        "length": 4
+      },
+      {
+        "token": "jesteśmy",
+        "signature": "ejmsśty",
+        "length": 8
+      },
+      {
+        "token": "czego",
+        "signature": "cegoz",
+        "length": 5
+      },
+      {
+        "token": "mojego",
+        "signature": "egjmo",
+        "length": 6
+      },
+      {
+        "token": "dzieje",
+        "signature": "deijz",
+        "length": 6
+      },
+      {
+        "token": "mieć",
+        "signature": "ćeim",
+        "length": 4
+      },
+      {
+        "token": "ludzie",
+        "signature": "deiluz",
+        "length": 6
+      },
+      {
+        "token": "dalej",
+        "signature": "adejl",
+        "length": 5
+      },
+      {
+        "token": "aby",
+        "signature": "aby",
+        "length": 3
+      },
+      {
+        "token": "dlaczego",
+        "signature": "acdegloz",
+        "length": 8
+      },
+      {
+        "token": "nią",
+        "signature": "ąin",
+        "length": 3
+      },
+      {
+        "token": "dobry",
+        "signature": "bdory",
+        "length": 5
+      },
+      {
+        "token": "musisz",
+        "signature": "imsuz",
+        "length": 6
+      },
+      {
+        "token": "panie",
+        "signature": "aeinp",
+        "length": 5
+      },
+      {
+        "token": "pomóc",
+        "signature": "cmoóp",
+        "length": 5
+      },
+      {
+        "token": "miejsce",
+        "signature": "ceijms",
+        "length": 7
+      },
+      {
+        "token": "wiedzieć",
+        "signature": "ćdeiwz",
+        "length": 8
+      },
+      {
+        "token": "mojej",
+        "signature": "ejmo",
+        "length": 5
+      },
+      {
+        "token": "iść",
+        "signature": "ćiś",
+        "length": 3
+      },
+      {
+        "token": "nich",
+        "signature": "chin",
+        "length": 4
+      },
+      {
+        "token": "moją",
+        "signature": "ąjmo",
+        "length": 4
+      },
+      {
+        "token": "swoje",
+        "signature": "ejosw",
+        "length": 5
+      },
+      {
+        "token": "ta",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "wam",
+        "signature": "amw",
+        "length": 3
+      },
+      {
+        "token": "chyba",
+        "signature": "abchy",
+        "length": 5
+      },
+      {
+        "token": "znaczy",
+        "signature": "acnyz",
+        "length": 6
+      },
+      {
+        "token": "muszę",
+        "signature": "ęmsuz",
+        "length": 5
+      },
+      {
+        "token": "twoje",
+        "signature": "ejotw",
+        "length": 5
+      },
+      {
+        "token": "taki",
+        "signature": "aikt",
+        "length": 4
+      },
+      {
+        "token": "powiedział",
+        "signature": "adeiłopwz",
+        "length": 10
+      },
+      {
+        "token": "tę",
+        "signature": "ęt",
+        "length": 2
+      },
+      {
+        "token": "musi",
+        "signature": "imsu",
+        "length": 4
+      },
+      {
+        "token": "wszystkich",
+        "signature": "chikstwyz",
+        "length": 10
+      },
+      {
+        "token": "nad",
+        "signature": "adn",
+        "length": 3
+      },
+      {
+        "token": "wie",
+        "signature": "eiw",
+        "length": 3
+      },
+      {
+        "token": "wszyscy",
+        "signature": "cswyz",
+        "length": 7
+      },
+      {
+        "token": "lepiej",
+        "signature": "eijlp",
+        "length": 6
+      },
+      {
+        "token": "wiele",
+        "signature": "eilw",
+        "length": 5
+      },
+      {
+        "token": "my",
+        "signature": "my",
+        "length": 2
+      },
+      {
+        "token": "twoja",
+        "signature": "ajotw",
+        "length": 5
+      },
+      {
+        "token": "takie",
+        "signature": "aeikt",
+        "length": 5
+      },
+      {
+        "token": "mówi",
+        "signature": "imów",
+        "length": 4
+      },
+      {
+        "token": "jako",
+        "signature": "ajko",
+        "length": 4
+      },
+      {
+        "token": "kilka",
+        "signature": "aikl",
+        "length": 5
+      },
+      {
+        "token": "jeden",
+        "signature": "dejn",
+        "length": 5
+      },
+      {
+        "token": "myśli",
+        "signature": "ilmśy",
+        "length": 5
+      },
+      {
+        "token": "sposób",
+        "signature": "boóps",
+        "length": 6
+      },
+      {
+        "token": "niej",
+        "signature": "eijn",
+        "length": 4
+      },
+      {
+        "token": "robić",
+        "signature": "bćior",
+        "length": 5
+      },
+      {
+        "token": "dziś",
+        "signature": "diśz",
+        "length": 4
+      },
+      {
+        "token": "dużo",
+        "signature": "douż",
+        "length": 4
+      },
+      {
+        "token": "dwa",
+        "signature": "adw",
+        "length": 3
+      },
+      {
+        "token": "pewno",
+        "signature": "enopw",
+        "length": 5
+      },
+      {
+        "token": "kogoś",
+        "signature": "gkoś",
+        "length": 5
+      },
+      {
+        "token": "dzień",
+        "signature": "deińz",
+        "length": 5
+      },
+      {
+        "token": "takiego",
+        "signature": "aegikot",
+        "length": 7
+      },
+      {
+        "token": "dzieci",
+        "signature": "cdeiz",
+        "length": 6
+      },
+      {
+        "token": "pracy",
+        "signature": "acpry",
+        "length": 5
+      },
+      {
+        "token": "rację",
+        "signature": "acęjr",
+        "length": 5
+      },
+      {
+        "token": "dobra",
+        "signature": "abdor",
+        "length": 5
+      },
+      {
+        "token": "jakiś",
+        "signature": "aijkś",
+        "length": 5
+      },
+      {
+        "token": "która",
+        "signature": "akórt",
+        "length": 5
+      },
+      {
+        "token": "stanie",
+        "signature": "aeinst",
+        "length": 6
+      },
+      {
+        "token": "wszystkie",
+        "signature": "eikstwyz",
+        "length": 9
+      },
+      {
+        "token": "zobaczyć",
+        "signature": "abcćoyz",
+        "length": 8
+      },
+      {
+        "token": "wtedy",
+        "signature": "detwy",
+        "length": 5
+      },
+      {
+        "token": "jakieś",
+        "signature": "aeijkś",
+        "length": 6
+      },
+      {
+        "token": "tobie",
+        "signature": "beiot",
+        "length": 5
+      },
+      {
+        "token": "cały",
+        "signature": "acły",
+        "length": 4
+      },
+      {
+        "token": "bardziej",
+        "signature": "abdeijrz",
+        "length": 8
+      },
+      {
+        "token": "potem",
+        "signature": "emopt",
+        "length": 5
+      },
+      {
+        "token": "życia",
+        "signature": "aciyż",
+        "length": 5
+      },
+      {
+        "token": "zbyt",
+        "signature": "btyz",
+        "length": 4
+      },
+      {
+        "token": "można",
+        "signature": "amnoż",
+        "length": 5
+      },
+      {
+        "token": "będziemy",
+        "signature": "bdeęimyz",
+        "length": 8
+      },
+      {
+        "token": "mają",
+        "signature": "aąjm",
+        "length": 4
+      },
+      {
+        "token": "swoją",
+        "signature": "ąjosw",
+        "length": 5
+      },
+      {
+        "token": "tyle",
+        "signature": "elty",
+        "length": 4
+      },
+      {
+        "token": "nadzieję",
+        "signature": "adeęijnz",
+        "length": 8
+      },
+      {
+        "token": "tą",
+        "signature": "ąt",
+        "length": 2
+      },
+      {
+        "token": "dni",
+        "signature": "din",
+        "length": 3
+      },
+      {
+        "token": "zanim",
+        "signature": "aimnz",
+        "length": 5
+      },
+      {
+        "token": "twoim",
+        "signature": "imotw",
+        "length": 5
+      },
+      {
+        "token": "nami",
+        "signature": "aimn",
+        "length": 4
+      },
+      {
+        "token": "oni",
+        "signature": "ino",
+        "length": 3
+      },
+      {
+        "token": "długo",
+        "signature": "dgłou",
+        "length": 5
+      },
+      {
+        "token": "mógł",
+        "signature": "głmó",
+        "length": 4
+      },
+      {
+        "token": "żebyś",
+        "signature": "beśyż",
+        "length": 5
+      },
+      {
+        "token": "robi",
+        "signature": "bior",
+        "length": 4
+      },
+      {
+        "token": "znaleźć",
+        "signature": "aćelnzź",
+        "length": 7
+      },
+      {
+        "token": "mówisz",
+        "signature": "imóswz",
+        "length": 6
+      },
+      {
+        "token": "nocy",
+        "signature": "cnoy",
+        "length": 4
+      },
+      {
+        "token": "myślisz",
+        "signature": "ilmsśyz",
+        "length": 7
+      },
+      {
+        "token": "dnia",
+        "signature": "adin",
+        "length": 4
+      },
+      {
+        "token": "ojciec",
+        "signature": "ceijo",
+        "length": 6
+      },
+      {
+        "token": "musimy",
+        "signature": "imsuy",
+        "length": 6
+      },
+      {
+        "token": "twojej",
+        "signature": "ejotw",
+        "length": 6
+      },
+      {
+        "token": "samo",
+        "signature": "amos",
+        "length": 4
+      },
+      {
+        "token": "żyje",
+        "signature": "ejyż",
+        "length": 4
+      },
+      {
+        "token": "razie",
+        "signature": "aeirz",
+        "length": 5
+      },
+      {
+        "token": "będą",
+        "signature": "ąbdę",
+        "length": 4
+      },
+      {
+        "token": "minut",
+        "signature": "imntu",
+        "length": 5
+      },
+      {
+        "token": "zabić",
+        "signature": "abćiz",
+        "length": 5
+      },
+      {
+        "token": "dlatego",
+        "signature": "adeglot",
+        "length": 7
+      },
+      {
+        "token": "wygląda",
+        "signature": "aądglwy",
+        "length": 7
+      },
+      {
+        "token": "zrobił",
+        "signature": "biłorz",
+        "length": 6
+      },
+      {
+        "token": "twoją",
+        "signature": "ąjotw",
+        "length": 5
+      },
+      {
+        "token": "dzisiaj",
+        "signature": "adijsz",
+        "length": 7
+      },
+      {
+        "token": "trzeba",
+        "signature": "abertz",
+        "length": 6
+      },
+      {
+        "token": "sobą",
+        "signature": "ąbos",
+        "length": 4
+      },
+      {
+        "token": "spokój",
+        "signature": "jkoóps",
+        "length": 6
+      },
+      {
+        "token": "imię",
+        "signature": "ęim",
+        "length": 4
+      },
+      {
+        "token": "stary",
+        "signature": "arsty",
+        "length": 5
+      },
+      {
+        "token": "którzy",
+        "signature": "kórtyz",
+        "length": 6
+      },
+      {
+        "token": "później",
+        "signature": "eijnópź",
+        "length": 7
+      },
+      {
+        "token": "zostać",
+        "signature": "aćostz",
+        "length": 6
+      },
+      {
+        "token": "bym",
+        "signature": "bmy",
+        "length": 3
+      },
+      {
+        "token": "wszystkim",
+        "signature": "ikmstwyz",
+        "length": 9
+      },
+      {
+        "token": "trzy",
+        "signature": "rtyz",
+        "length": 4
+      },
+      {
+        "token": "chwilę",
+        "signature": "cęhilw",
+        "length": 6
+      },
+      {
+        "token": "mówić",
+        "signature": "ćimów",
+        "length": 5
+      },
+      {
+        "token": "czegoś",
+        "signature": "cegośz",
+        "length": 6
+      },
+      {
+        "token": "szybko",
+        "signature": "bkosyz",
+        "length": 6
+      },
+      {
+        "token": "dziecko",
+        "signature": "cdeikoz",
+        "length": 7
+      },
+      {
+        "token": "byłem",
+        "signature": "bełmy",
+        "length": 5
+      },
+      {
+        "token": "porozmawiać",
+        "signature": "aćimoprwz",
+        "length": 11
+      },
+      {
+        "token": "kiedyś",
+        "signature": "deikśy",
+        "length": 6
+      },
+      {
+        "token": "ani",
+        "signature": "ain",
+        "length": 3
+      },
+      {
+        "token": "pieniądze",
+        "signature": "ądeinpz",
+        "length": 9
+      },
+      {
+        "token": "broń",
+        "signature": "bńor",
+        "length": 4
+      },
+      {
+        "token": "drzwi",
+        "signature": "dirwz",
+        "length": 5
+      },
+      {
+        "token": "roku",
+        "signature": "koru",
+        "length": 4
+      },
+      {
+        "token": "taka",
+        "signature": "akt",
+        "length": 4
+      },
+      {
+        "token": "powodu",
+        "signature": "dopuw",
+        "length": 6
+      },
+      {
+        "token": "nikt",
+        "signature": "iknt",
+        "length": 4
+      },
+      {
+        "token": "końcu",
+        "signature": "ckńou",
+        "length": 5
+      },
+      {
+        "token": "nasze",
+        "signature": "aensz",
+        "length": 5
+      },
+      {
+        "token": "panu",
+        "signature": "anpu",
+        "length": 4
+      },
+      {
+        "token": "twojego",
+        "signature": "egjotw",
+        "length": 7
+      },
+      {
+        "token": "wcześniej",
+        "signature": "ceijnśwz",
+        "length": 9
+      },
+      {
+        "token": "innego",
+        "signature": "egino",
+        "length": 6
+      },
+      {
+        "token": "którą",
+        "signature": "ąkórt",
+        "length": 5
+      },
+      {
+        "token": "chciał",
+        "signature": "achił",
+        "length": 6
+      },
+      {
+        "token": "pierwszy",
+        "signature": "eiprswyz",
+        "length": 8
+      },
+      {
+        "token": "razy",
+        "signature": "aryz",
+        "length": 4
+      },
+      {
+        "token": "moich",
+        "signature": "chimo",
+        "length": 5
+      },
+      {
+        "token": "były",
+        "signature": "bły",
+        "length": 4
+      },
+      {
+        "token": "został",
+        "signature": "ałostz",
+        "length": 6
+      },
+      {
+        "token": "sprawy",
+        "signature": "aprswy",
+        "length": 6
+      },
+      {
+        "token": "miejscu",
+        "signature": "ceijmsu",
+        "length": 7
+      },
+      {
+        "token": "rozumiem",
+        "signature": "eimoruz",
+        "length": 8
+      },
+      {
+        "token": "pomysł",
+        "signature": "łmopsy",
+        "length": 6
+      },
+      {
+        "token": "ile",
+        "signature": "eil",
+        "length": 3
+      },
+      {
+        "token": "myślę",
+        "signature": "ęlmśy",
+        "length": 5
+      },
+      {
+        "token": "miała",
+        "signature": "aiłm",
+        "length": 5
+      },
+      {
+        "token": "mogą",
+        "signature": "ągmo",
+        "length": 4
+      },
+      {
+        "token": "we",
+        "signature": "ew",
+        "length": 2
+      },
+      {
+        "token": "lub",
+        "signature": "blu",
+        "length": 3
+      },
+      {
+        "token": "którego",
+        "signature": "egkoórt",
+        "length": 7
+      },
+      {
+        "token": "nasz",
+        "signature": "ansz",
+        "length": 4
+      },
+      {
+        "token": "kochanie",
+        "signature": "acehikno",
+        "length": 8
+      },
+      {
+        "token": "dobre",
+        "signature": "bdeor",
+        "length": 5
+      },
+      {
+        "token": "miałem",
+        "signature": "aeiłm",
+        "length": 6
+      },
+      {
+        "token": "wciąż",
+        "signature": "ąciwż",
+        "length": 5
+      },
+      {
+        "token": "żebym",
+        "signature": "bemyż",
+        "length": 5
+      },
+      {
+        "token": "dom",
+        "signature": "dmo",
+        "length": 3
+      },
+      {
+        "token": "dzięki",
+        "signature": "dęikz",
+        "length": 6
+      },
+      {
+        "token": "jutro",
+        "signature": "jortu",
+        "length": 5
+      },
+      {
+        "token": "mówię",
+        "signature": "ęimów",
+        "length": 5
+      },
+      {
+        "token": "nadal",
+        "signature": "adln",
+        "length": 5
+      },
+      {
+        "token": "człowiek",
+        "signature": "ceikłowz",
+        "length": 8
+      },
+      {
+        "token": "ojca",
+        "signature": "acjo",
+        "length": 4
+      },
+      {
+        "token": "noc",
+        "signature": "cno",
+        "length": 3
+      },
+      {
+        "token": "lata",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "gdzieś",
+        "signature": "degiśz",
+        "length": 6
+      },
+      {
+        "token": "pewien",
+        "signature": "einpw",
+        "length": 6
+      },
+      {
+        "token": "takim",
+        "signature": "aikmt",
+        "length": 5
+      },
+      {
+        "token": "koniec",
+        "signature": "ceikno",
+        "length": 6
+      },
+      {
+        "token": "znowu",
+        "signature": "nouwz",
+        "length": 5
+      },
+      {
+        "token": "pokoju",
+        "signature": "jkopu",
+        "length": 6
+      },
+      {
+        "token": "byś",
+        "signature": "bśy",
+        "length": 3
+      },
+      {
+        "token": "którym",
+        "signature": "kmórty",
+        "length": 6
+      },
+      {
+        "token": "wy",
+        "signature": "wy",
+        "length": 2
+      },
+      {
+        "token": "nimi",
+        "signature": "imn",
+        "length": 4
+      },
+      {
+        "token": "których",
+        "signature": "chkórty",
+        "length": 7
+      },
+      {
+        "token": "swój",
+        "signature": "jósw",
+        "length": 4
+      },
+      {
+        "token": "widzę",
+        "signature": "dęiwz",
+        "length": 5
+      },
+      {
+        "token": "swojego",
+        "signature": "egjosw",
+        "length": 7
+      },
+      {
+        "token": "jaki",
+        "signature": "aijk",
+        "length": 4
+      },
+      {
+        "token": "czemu",
+        "signature": "cemuz",
+        "length": 5
+      },
+      {
+        "token": "życiu",
+        "signature": "ciuyż",
+        "length": 5
+      },
+      {
+        "token": "oczy",
+        "signature": "coyz",
+        "length": 4
+      },
+      {
+        "token": "której",
+        "signature": "ejkórt",
+        "length": 6
+      },
+      {
+        "token": "swoim",
+        "signature": "imosw",
+        "length": 5
+      },
+      {
+        "token": "sprawa",
+        "signature": "aprsw",
+        "length": 6
+      },
+      {
+        "token": "sprawę",
+        "signature": "aęprsw",
+        "length": 6
+      },
+      {
+        "token": "jakby",
+        "signature": "abjky",
+        "length": 5
+      },
+      {
+        "token": "wrócić",
+        "signature": "cćiórw",
+        "length": 6
+      },
+      {
+        "token": "również",
+        "signature": "einórwż",
+        "length": 7
+      },
+      {
+        "token": "kogo",
+        "signature": "gko",
+        "length": 4
+      },
+      {
+        "token": "pewnie",
+        "signature": "einpw",
+        "length": 6
+      },
+      {
+        "token": "wiemy",
+        "signature": "eimwy",
+        "length": 5
+      },
+      {
+        "token": "jedną",
+        "signature": "ądejn",
+        "length": 5
+      },
+      {
+        "token": "powiem",
+        "signature": "eimopw",
+        "length": 6
+      },
+      {
+        "token": "chciałem",
+        "signature": "acehiłm",
+        "length": 8
+      },
+      {
+        "token": "dać",
+        "signature": "aćd",
+        "length": 3
+      },
+      {
+        "token": "śmierci",
+        "signature": "ceimrś",
+        "length": 7
+      },
+      {
+        "token": "całą",
+        "signature": "aącł",
+        "length": 4
+      },
+      {
+        "token": "miejsca",
+        "signature": "aceijms",
+        "length": 7
+      },
+      {
+        "token": "pracę",
+        "signature": "acępr",
+        "length": 5
+      },
+      {
+        "token": "jedno",
+        "signature": "dejno",
+        "length": 5
+      },
+      {
+        "token": "źle",
+        "signature": "elź",
+        "length": 3
+      },
+      {
+        "token": "widziałem",
+        "signature": "adeiłmwz",
+        "length": 9
+      },
+      {
+        "token": "świecie",
+        "signature": "ceiśw",
+        "length": 7
+      },
+      {
+        "token": "swoich",
+        "signature": "chiosw",
+        "length": 6
+      },
+      {
+        "token": "widzieć",
+        "signature": "ćdeiwz",
+        "length": 7
+      },
+      {
+        "token": "świat",
+        "signature": "aiśtw",
+        "length": 5
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "dość",
+        "signature": "ćdoś",
+        "length": 4
+      },
+      {
+        "token": "każdy",
+        "signature": "adkyż",
+        "length": 5
+      },
+      {
+        "token": "pomocy",
+        "signature": "cmopy",
+        "length": 6
+      },
+      {
+        "token": "dwóch",
+        "signature": "cdhów",
+        "length": 5
+      },
+      {
+        "token": "wina",
+        "signature": "ainw",
+        "length": 4
+      },
+      {
+        "token": "rzecz",
+        "signature": "cerz",
+        "length": 5
+      },
+      {
+        "token": "musiał",
+        "signature": "aiłmsu",
+        "length": 6
+      },
+      {
+        "token": "swojej",
+        "signature": "ejosw",
+        "length": 6
+      },
+      {
+        "token": "samochód",
+        "signature": "acdhmoós",
+        "length": 8
+      },
+      {
+        "token": "facet",
+        "signature": "aceft",
+        "length": 5
+      },
+      {
+        "token": "znam",
+        "signature": "amnz",
+        "length": 4
+      },
+      {
+        "token": "rano",
+        "signature": "anor",
+        "length": 4
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "jednego",
+        "signature": "degjno",
+        "length": 7
+      },
+      {
+        "token": "innych",
+        "signature": "chiny",
+        "length": 6
+      },
+      {
+        "token": "chwili",
+        "signature": "chilw",
+        "length": 6
+      },
+      {
+        "token": "jednak",
+        "signature": "adejkn",
+        "length": 6
+      },
+      {
+        "token": "zrobię",
+        "signature": "bęiorz",
+        "length": 6
+      },
+      {
+        "token": "telefon",
+        "signature": "eflnot",
+        "length": 7
+      },
+      {
+        "token": "gdyby",
+        "signature": "bdgy",
+        "length": 5
+      },
+      {
+        "token": "ogóle",
+        "signature": "egloó",
+        "length": 5
+      },
+      {
+        "token": "jesteście",
+        "signature": "ceijsśt",
+        "length": 9
+      },
+      {
+        "token": "dwie",
+        "signature": "deiw",
+        "length": 4
+      },
+      {
+        "token": "dokładnie",
+        "signature": "adeikłno",
+        "length": 9
+      },
+      {
+        "token": "dziękuję",
+        "signature": "dęijkuz",
+        "length": 8
+      },
+      {
+        "token": "niczego",
+        "signature": "ceginoz",
+        "length": 7
+      },
+      {
+        "token": "naszej",
+        "signature": "aejnsz",
+        "length": 6
+      },
+      {
+        "token": "prawie",
+        "signature": "aeiprw",
+        "length": 6
+      },
+      {
+        "token": "byłeś",
+        "signature": "bełśy",
+        "length": 5
+      },
+      {
+        "token": "żadnych",
+        "signature": "acdhnyż",
+        "length": 7
+      },
+      {
+        "token": "czuję",
+        "signature": "cęjuz",
+        "length": 5
+      },
+      {
+        "token": "mały",
+        "signature": "ałmy",
+        "length": 4
+      },
+      {
+        "token": "śmierć",
+        "signature": "ćeimrś",
+        "length": 6
+      },
+      {
+        "token": "numer",
+        "signature": "emnru",
+        "length": 5
+      },
+      {
+        "token": "pytanie",
+        "signature": "aeinpty",
+        "length": 7
+      },
+      {
+        "token": "poznać",
+        "signature": "aćnopz",
+        "length": 6
+      },
+      {
+        "token": "byli",
+        "signature": "bily",
+        "length": 4
+      },
+      {
+        "token": "działa",
+        "signature": "adiłz",
+        "length": 6
+      },
+      {
+        "token": "między",
+        "signature": "dęimyz",
+        "length": 6
+      },
+      {
+        "token": "idzie",
+        "signature": "deiz",
+        "length": 5
+      },
+      {
+        "token": "naszych",
+        "signature": "achnsyz",
+        "length": 7
+      },
+      {
+        "token": "mów",
+        "signature": "mów",
+        "length": 3
+      },
+      {
+        "token": "pieniędzy",
+        "signature": "deęinpyz",
+        "length": 9
+      },
+      {
+        "token": "powiedz",
+        "signature": "deiopwz",
+        "length": 7
+      },
+      {
+        "token": "każdym",
+        "signature": "adkmyż",
+        "length": 6
+      },
+      {
+        "token": "wydaje",
+        "signature": "adejwy",
+        "length": 6
+      },
+      {
+        "token": "podczas",
+        "signature": "acdopsz",
+        "length": 7
+      },
+      {
+        "token": "godziny",
+        "signature": "dginoyz",
+        "length": 7
+      },
+      {
+        "token": "niech",
+        "signature": "cehin",
+        "length": 5
+      },
+      {
+        "token": "jednym",
+        "signature": "dejmny",
+        "length": 6
+      },
+      {
+        "token": "pojęcia",
+        "signature": "acęijop",
+        "length": 7
+      },
+      {
+        "token": "powinniśmy",
+        "signature": "imnopśwy",
+        "length": 10
+      },
+      {
+        "token": "inne",
+        "signature": "ein",
+        "length": 4
+      },
+      {
+        "token": "człowieka",
+        "signature": "aceikłowz",
+        "length": 9
+      },
+      {
+        "token": "inny",
+        "signature": "iny",
+        "length": 4
+      },
+      {
+        "token": "prawdę",
+        "signature": "adęprw",
+        "length": 6
+      },
+      {
+        "token": "godzin",
+        "signature": "dginoz",
+        "length": 6
+      },
+      {
+        "token": "krwi",
+        "signature": "ikrw",
+        "length": 4
+      },
+      {
+        "token": "drogi",
+        "signature": "dgior",
+        "length": 5
+      },
+      {
+        "token": "matka",
+        "signature": "akmt",
+        "length": 5
+      },
+      {
+        "token": "prawo",
+        "signature": "aoprw",
+        "length": 5
+      },
+      {
+        "token": "jakie",
+        "signature": "aeijk",
+        "length": 5
+      },
+      {
+        "token": "ponieważ",
+        "signature": "aeinopwż",
+        "length": 8
+      },
+      {
+        "token": "dostać",
+        "signature": "aćdost",
+        "length": 6
+      },
+      {
+        "token": "czujesz",
+        "signature": "cejsuz",
+        "length": 7
+      },
+      {
+        "token": "przepraszam",
+        "signature": "aemprsz",
+        "length": 11
+      },
+      {
+        "token": "poza",
+        "signature": "aopz",
+        "length": 4
+      },
+      {
+        "token": "zaraz",
+        "signature": "arz",
+        "length": 5
+      },
+      {
+        "token": "słowa",
+        "signature": "ałosw",
+        "length": 5
+      },
+      {
+        "token": "czymś",
+        "signature": "cmśyz",
+        "length": 5
+      },
+      {
+        "token": "wiedział",
+        "signature": "adeiłwz",
+        "length": 8
+      },
+      {
+        "token": "zrobiłeś",
+        "signature": "beiłorśz",
+        "length": 8
+      },
+      {
+        "token": "naszego",
+        "signature": "aegnosz",
+        "length": 7
+      },
+      {
+        "token": "całe",
+        "signature": "aceł",
+        "length": 4
+      },
+      {
+        "token": "wiadomość",
+        "signature": "aćdimośw",
+        "length": 9
+      },
+      {
+        "token": "powiedziała",
+        "signature": "adeiłopwz",
+        "length": 11
+      },
+      {
+        "token": "także",
+        "signature": "aektż",
+        "length": 5
+      },
+      {
+        "token": "gra",
+        "signature": "agr",
+        "length": 3
+      },
+      {
+        "token": "czasie",
+        "signature": "aceisz",
+        "length": 6
+      },
+      {
+        "token": "lubię",
+        "signature": "bęilu",
+        "length": 5
+      },
+      {
+        "token": "żyć",
+        "signature": "ćyż",
+        "length": 3
+      },
+      {
+        "token": "przeciwko",
+        "signature": "ceikoprwz",
+        "length": 9
+      },
+      {
+        "token": "kocham",
+        "signature": "achkmo",
+        "length": 6
+      },
+      {
+        "token": "powrotem",
+        "signature": "emoprtw",
+        "length": 8
+      },
+      {
+        "token": "powiesz",
+        "signature": "eiopswz",
+        "length": 7
+      },
+      {
+        "token": "chcą",
+        "signature": "ąch",
+        "length": 4
+      },
+      {
+        "token": "parę",
+        "signature": "aępr",
+        "length": 4
+      },
+      {
+        "token": "potrzebuję",
+        "signature": "beęjoprtuz",
+        "length": 10
+      },
+      {
+        "token": "ważne",
+        "signature": "aenwż",
+        "length": 5
+      },
+      {
+        "token": "przykro",
+        "signature": "kopryz",
+        "length": 7
+      },
+      {
+        "token": "twoich",
+        "signature": "chiotw",
+        "length": 6
+      },
+      {
+        "token": "pewna",
+        "signature": "aenpw",
+        "length": 5
+      },
+      {
+        "token": "oznacza",
+        "signature": "acnoz",
+        "length": 7
+      },
+      {
+        "token": "podoba",
+        "signature": "abdop",
+        "length": 6
+      },
+      {
+        "token": "sądzę",
+        "signature": "ądęsz",
+        "length": 5
+      },
+      {
+        "token": "mówił",
+        "signature": "iłmów",
+        "length": 5
+      },
+      {
+        "token": "dziewczyna",
+        "signature": "acdeinwyz",
+        "length": 10
+      },
+      {
+        "token": "wielu",
+        "signature": "eiluw",
+        "length": 5
+      },
+      {
+        "token": "inaczej",
+        "signature": "aceijnz",
+        "length": 7
+      },
+      {
+        "token": "znów",
+        "signature": "nówz",
+        "length": 4
+      },
+      {
+        "token": "rozmawiać",
+        "signature": "aćimorwz",
+        "length": 9
+      },
+      {
+        "token": "serce",
+        "signature": "cers",
+        "length": 5
+      },
+      {
+        "token": "ręce",
+        "signature": "ceęr",
+        "length": 4
+      },
+      {
+        "token": "żona",
+        "signature": "anoż",
+        "length": 4
+      },
+      {
+        "token": "wczoraj",
+        "signature": "acjorwz",
+        "length": 7
+      },
+      {
+        "token": "końca",
+        "signature": "ackńo",
+        "length": 5
+      },
+      {
+        "token": "zabrać",
+        "signature": "abćrz",
+        "length": 6
+      },
+      {
+        "token": "naszym",
+        "signature": "amnsyz",
+        "length": 6
+      },
+      {
+        "token": "dopóki",
+        "signature": "dikoóp",
+        "length": 6
+      },
+      {
+        "token": "martw",
+        "signature": "amrtw",
+        "length": 5
+      },
+      {
+        "token": "nikogo",
+        "signature": "gikno",
+        "length": 6
+      },
+      {
+        "token": "kobiety",
+        "signature": "beikoty",
+        "length": 7
+      },
+      {
+        "token": "ciągle",
+        "signature": "ącegil",
+        "length": 6
+      },
+      {
+        "token": "takich",
+        "signature": "achikt",
+        "length": 6
+      },
+      {
+        "token": "sprawie",
+        "signature": "aeiprsw",
+        "length": 7
+      },
+      {
+        "token": "syna",
+        "signature": "ansy",
+        "length": 4
+      },
+      {
+        "token": "byłam",
+        "signature": "abłmy",
+        "length": 5
+      },
+      {
+        "token": "rodziny",
+        "signature": "dinoryz",
+        "length": 7
+      },
+      {
+        "token": "drodze",
+        "signature": "deorz",
+        "length": 6
+      },
+      {
+        "token": "dolarów",
+        "signature": "adloórw",
+        "length": 7
+      },
+      {
+        "token": "myślałem",
+        "signature": "aelłmśy",
+        "length": 8
+      }
+    ],
+    "developing": [
+      {
+        "token": "wyniki",
+        "signature": "iknwy",
+        "length": 6
+      },
+      {
+        "token": "waszej",
+        "signature": "aejswz",
+        "length": 6
+      },
+      {
+        "token": "oglądać",
+        "signature": "aąćdglo",
+        "length": 7
+      },
+      {
+        "token": "mężczyzną",
+        "signature": "ącęmnyzż",
+        "length": 9
+      },
+      {
+        "token": "szuka",
+        "signature": "aksuz",
+        "length": 5
+      },
+      {
+        "token": "najlepszego",
+        "signature": "aegjlnopsz",
+        "length": 11
+      },
+      {
+        "token": "rękach",
+        "signature": "acęhkr",
+        "length": 6
+      },
+      {
+        "token": "morderstwa",
+        "signature": "ademorstw",
+        "length": 10
+      },
+      {
+        "token": "wyszedł",
+        "signature": "dełswyz",
+        "length": 7
+      },
+      {
+        "token": "dziećmi",
+        "signature": "ćdeimz",
+        "length": 7
+      },
+      {
+        "token": "przeszłości",
+        "signature": "ceiłoprsśz",
+        "length": 11
+      },
+      {
+        "token": "znaczyć",
+        "signature": "acćnyz",
+        "length": 7
+      },
+      {
+        "token": "dwoje",
+        "signature": "dejow",
+        "length": 5
+      },
+      {
+        "token": "nikim",
+        "signature": "ikmn",
+        "length": 5
+      },
+      {
+        "token": "wysłać",
+        "signature": "aćłswy",
+        "length": 6
+      },
+      {
+        "token": "bliżej",
+        "signature": "beijlż",
+        "length": 6
+      },
+      {
+        "token": "wiary",
+        "signature": "airwy",
+        "length": 5
+      },
+      {
+        "token": "pokładzie",
+        "signature": "adeikłopz",
+        "length": 9
+      },
+      {
+        "token": "dostanie",
+        "signature": "adeinost",
+        "length": 8
+      },
+      {
+        "token": "rozkazy",
+        "signature": "akoryz",
+        "length": 7
+      },
+      {
+        "token": "ufać",
+        "signature": "aćfu",
+        "length": 4
+      },
+      {
+        "token": "kapitan",
+        "signature": "aiknpt",
+        "length": 7
+      },
+      {
+        "token": "obraz",
+        "signature": "aborz",
+        "length": 5
+      },
+      {
+        "token": "indziej",
+        "signature": "deijnz",
+        "length": 7
+      },
+      {
+        "token": "chciałby",
+        "signature": "abchiły",
+        "length": 8
+      },
+      {
+        "token": "kochać",
+        "signature": "acćhko",
+        "length": 6
+      },
+      {
+        "token": "akcji",
+        "signature": "acijk",
+        "length": 5
+      },
+      {
+        "token": "wziął",
+        "signature": "ąiłwz",
+        "length": 5
+      },
+      {
+        "token": "chłopca",
+        "signature": "achłop",
+        "length": 7
+      },
+      {
+        "token": "ojcu",
+        "signature": "cjou",
+        "length": 4
+      },
+      {
+        "token": "uczucia",
+        "signature": "aciuz",
+        "length": 7
+      },
+      {
+        "token": "trzymaj",
+        "signature": "ajmrtyz",
+        "length": 7
+      },
+      {
+        "token": "otwarte",
+        "signature": "aeortw",
+        "length": 7
+      },
+      {
+        "token": "strzelać",
+        "signature": "aćelrstz",
+        "length": 8
+      },
+      {
+        "token": "wyglądać",
+        "signature": "aąćdglwy",
+        "length": 8
+      },
+      {
+        "token": "szanse",
+        "signature": "aensz",
+        "length": 6
+      },
+      {
+        "token": "doczekać",
+        "signature": "acćdekoz",
+        "length": 8
+      },
+      {
+        "token": "podziękować",
+        "signature": "aćdęikopwz",
+        "length": 11
+      },
+      {
+        "token": "dowodów",
+        "signature": "doów",
+        "length": 7
+      },
+      {
+        "token": "liczy",
+        "signature": "cilyz",
+        "length": 5
+      },
+      {
+        "token": "sali",
+        "signature": "ails",
+        "length": 4
+      },
+      {
+        "token": "miałaś",
+        "signature": "aiłmś",
+        "length": 6
+      },
+      {
+        "token": "zmiany",
+        "signature": "aimnyz",
+        "length": 6
+      },
+      {
+        "token": "pójdziemy",
+        "signature": "deijmópyz",
+        "length": 9
+      },
+      {
+        "token": "młoda",
+        "signature": "adłmo",
+        "length": 5
+      },
+      {
+        "token": "jakiej",
+        "signature": "aeijk",
+        "length": 6
+      },
+      {
+        "token": "abym",
+        "signature": "abmy",
+        "length": 4
+      },
+      {
+        "token": "jedzie",
+        "signature": "deijz",
+        "length": 6
+      },
+      {
+        "token": "śniadanie",
+        "signature": "adeinś",
+        "length": 9
+      },
+      {
+        "token": "własnego",
+        "signature": "aegłnosw",
+        "length": 8
+      },
+      {
+        "token": "wewnątrz",
+        "signature": "ąenrtwz",
+        "length": 8
+      },
+      {
+        "token": "taty",
+        "signature": "aty",
+        "length": 4
+      },
+      {
+        "token": "twierdzi",
+        "signature": "deirtwz",
+        "length": 8
+      },
+      {
+        "token": "dziesięć",
+        "signature": "ćdeęisz",
+        "length": 8
+      },
+      {
+        "token": "tamtej",
+        "signature": "aejmt",
+        "length": 6
+      },
+      {
+        "token": "podać",
+        "signature": "aćdop",
+        "length": 5
+      },
+      {
+        "token": "tysiące",
+        "signature": "ąceisty",
+        "length": 7
+      },
+      {
+        "token": "słyszeć",
+        "signature": "ćełsyz",
+        "length": 7
+      },
+      {
+        "token": "rodzaj",
+        "signature": "adjorz",
+        "length": 6
+      },
+      {
+        "token": "kasy",
+        "signature": "aksy",
+        "length": 4
+      },
+      {
+        "token": "ostatnią",
+        "signature": "aąinost",
+        "length": 8
+      },
+      {
+        "token": "znamy",
+        "signature": "amnyz",
+        "length": 5
+      },
+      {
+        "token": "decyzja",
+        "signature": "acdejyz",
+        "length": 7
+      },
+      {
+        "token": "sprawia",
+        "signature": "aiprsw",
+        "length": 7
+      },
+      {
+        "token": "inna",
+        "signature": "ain",
+        "length": 4
+      },
+      {
+        "token": "zostaje",
+        "signature": "aejostz",
+        "length": 7
+      },
+      {
+        "token": "dziewczynka",
+        "signature": "acdeiknwyz",
+        "length": 11
+      },
+      {
+        "token": "brakuje",
+        "signature": "abejkru",
+        "length": 7
+      },
+      {
+        "token": "sytuacja",
+        "signature": "acjstuy",
+        "length": 8
+      },
+      {
+        "token": "nigdzie",
+        "signature": "deginz",
+        "length": 7
+      },
+      {
+        "token": "widok",
+        "signature": "dikow",
+        "length": 5
+      },
+      {
+        "token": "ostatnim",
+        "signature": "aimnost",
+        "length": 8
+      },
+      {
+        "token": "miałby",
+        "signature": "abiłmy",
+        "length": 6
+      },
+      {
+        "token": "mil",
+        "signature": "ilm",
+        "length": 3
+      },
+      {
+        "token": "dostęp",
+        "signature": "dęopst",
+        "length": 6
+      },
+      {
+        "token": "przyjemność",
+        "signature": "ćejmnoprśyz",
+        "length": 11
+      },
+      {
+        "token": "mieszkania",
+        "signature": "aeikmnsz",
+        "length": 10
+      },
+      {
+        "token": "wiedziałeś",
+        "signature": "adeiłśwz",
+        "length": 10
+      },
+      {
+        "token": "drugiego",
+        "signature": "degioru",
+        "length": 8
+      },
+      {
+        "token": "oczu",
+        "signature": "couz",
+        "length": 4
+      },
+      {
+        "token": "umysł",
+        "signature": "łmsuy",
+        "length": 5
+      },
+      {
+        "token": "poziom",
+        "signature": "imopz",
+        "length": 6
+      },
+      {
+        "token": "prowadzić",
+        "signature": "aćdioprwz",
+        "length": 9
+      },
+      {
+        "token": "dniu",
+        "signature": "dinu",
+        "length": 4
+      },
+      {
+        "token": "mężem",
+        "signature": "eęmż",
+        "length": 5
+      },
+      {
+        "token": "różnych",
+        "signature": "chnóryż",
+        "length": 7
+      },
+      {
+        "token": "energii",
+        "signature": "eginr",
+        "length": 7
+      },
+      {
+        "token": "umiera",
+        "signature": "aeimru",
+        "length": 6
+      },
+      {
+        "token": "ocalić",
+        "signature": "acćilo",
+        "length": 6
+      },
+      {
+        "token": "woli",
+        "signature": "ilow",
+        "length": 4
+      },
+      {
+        "token": "rzeczą",
+        "signature": "ącerz",
+        "length": 6
+      },
+      {
+        "token": "szkodzi",
+        "signature": "dikosz",
+        "length": 7
+      },
+      {
+        "token": "bólu",
+        "signature": "blóu",
+        "length": 4
+      },
+      {
+        "token": "pomóż",
+        "signature": "moópż",
+        "length": 5
+      },
+      {
+        "token": "dziwnie",
+        "signature": "deinwz",
+        "length": 7
+      },
+      {
+        "token": "zgadza",
+        "signature": "adgz",
+        "length": 6
+      },
+      {
+        "token": "żył",
+        "signature": "łyż",
+        "length": 3
+      },
+      {
+        "token": "przychodzi",
+        "signature": "cdhiopryz",
+        "length": 10
+      },
+      {
+        "token": "spotkania",
+        "signature": "aiknopst",
+        "length": 9
+      },
+      {
+        "token": "codziennie",
+        "signature": "cdeinoz",
+        "length": 10
+      },
+      {
+        "token": "potrzeby",
+        "signature": "beoprtyz",
+        "length": 8
+      },
+      {
+        "token": "bawić",
+        "signature": "abćiw",
+        "length": 5
+      },
+      {
+        "token": "tędy",
+        "signature": "dęty",
+        "length": 4
+      },
+      {
+        "token": "znaczenie",
+        "signature": "aceinz",
+        "length": 9
+      },
+      {
+        "token": "lepszego",
+        "signature": "eglopsz",
+        "length": 8
+      },
+      {
+        "token": "dosyć",
+        "signature": "ćdosy",
+        "length": 5
+      },
+      {
+        "token": "zmieniło",
+        "signature": "eiłmnoz",
+        "length": 8
+      },
+      {
+        "token": "umowę",
+        "signature": "ęmouw",
+        "length": 5
+      },
+      {
+        "token": "daleka",
+        "signature": "adekl",
+        "length": 6
+      },
+      {
+        "token": "wraca",
+        "signature": "acrw",
+        "length": 5
+      },
+      {
+        "token": "małego",
+        "signature": "aegłmo",
+        "length": 6
+      },
+      {
+        "token": "zostaniesz",
+        "signature": "aeinostz",
+        "length": 10
+      },
+      {
+        "token": "długi",
+        "signature": "dgiłu",
+        "length": 5
+      },
+      {
+        "token": "siedzi",
+        "signature": "deisz",
+        "length": 6
+      },
+      {
+        "token": "zamian",
+        "signature": "aimnz",
+        "length": 6
+      },
+      {
+        "token": "klasy",
+        "signature": "aklsy",
+        "length": 5
+      },
+      {
+        "token": "utrzymać",
+        "signature": "aćmrtuyz",
+        "length": 8
+      },
+      {
+        "token": "przygotować",
+        "signature": "aćgoprtwyz",
+        "length": 11
+      },
+      {
+        "token": "sądzie",
+        "signature": "ądeisz",
+        "length": 6
+      },
+      {
+        "token": "podróży",
+        "signature": "doópryż",
+        "length": 7
+      },
+      {
+        "token": "głodny",
+        "signature": "dgłnoy",
+        "length": 6
+      },
+      {
+        "token": "prawdziwym",
+        "signature": "adimprwyz",
+        "length": 10
+      },
+      {
+        "token": "zostanę",
+        "signature": "aęnostz",
+        "length": 7
+      },
+      {
+        "token": "pomocą",
+        "signature": "ącmop",
+        "length": 6
+      },
+      {
+        "token": "szaleństwo",
+        "signature": "aelńostwz",
+        "length": 10
+      },
+      {
+        "token": "chodźmy",
+        "signature": "cdhmoyź",
+        "length": 7
+      },
+      {
+        "token": "dawaj",
+        "signature": "adjw",
+        "length": 5
+      },
+      {
+        "token": "dotykaj",
+        "signature": "adjkoty",
+        "length": 7
+      },
+      {
+        "token": "kazał",
+        "signature": "akłz",
+        "length": 5
+      },
+      {
+        "token": "świetne",
+        "signature": "einśtw",
+        "length": 7
+      },
+      {
+        "token": "rozumie",
+        "signature": "eimoruz",
+        "length": 7
+      },
+      {
+        "token": "znaleźli",
+        "signature": "aeilnzź",
+        "length": 8
+      },
+      {
+        "token": "stacji",
+        "signature": "acijst",
+        "length": 6
+      },
+      {
+        "token": "misji",
+        "signature": "ijms",
+        "length": 5
+      },
+      {
+        "token": "banku",
+        "signature": "abknu",
+        "length": 5
+      },
+      {
+        "token": "spytać",
+        "signature": "aćpsty",
+        "length": 6
+      },
+      {
+        "token": "sprawą",
+        "signature": "aąprsw",
+        "length": 6
+      },
+      {
+        "token": "dobrych",
+        "signature": "bcdhory",
+        "length": 7
+      },
+      {
+        "token": "własny",
+        "signature": "ałnswy",
+        "length": 6
+      },
+      {
+        "token": "woda",
+        "signature": "adow",
+        "length": 4
+      },
+      {
+        "token": "czasów",
+        "signature": "acóswz",
+        "length": 6
+      },
+      {
+        "token": "kłopotów",
+        "signature": "kłoóptw",
+        "length": 8
+      },
+      {
+        "token": "bycie",
+        "signature": "bceiy",
+        "length": 5
+      },
+      {
+        "token": "pomaga",
+        "signature": "agmop",
+        "length": 6
+      },
+      {
+        "token": "nóż",
+        "signature": "nóż",
+        "length": 3
+      },
+      {
+        "token": "kontrolę",
+        "signature": "ęklnort",
+        "length": 8
+      },
+      {
+        "token": "teren",
+        "signature": "enrt",
+        "length": 5
+      },
+      {
+        "token": "siedem",
+        "signature": "deims",
+        "length": 6
+      },
+      {
+        "token": "udowodnić",
+        "signature": "ćdinouw",
+        "length": 9
+      },
+      {
+        "token": "zabiłem",
+        "signature": "abeiłmz",
+        "length": 7
+      },
+      {
+        "token": "wiedzieli",
+        "signature": "deilwz",
+        "length": 9
+      },
+      {
+        "token": "dziwnego",
+        "signature": "deginowz",
+        "length": 8
+      },
+      {
+        "token": "zasadzie",
+        "signature": "adeisz",
+        "length": 8
+      },
+      {
+        "token": "miliony",
+        "signature": "ilmnoy",
+        "length": 7
+      },
+      {
+        "token": "rząd",
+        "signature": "ądrz",
+        "length": 4
+      },
+      {
+        "token": "mego",
+        "signature": "egmo",
+        "length": 4
+      },
+      {
+        "token": "lubią",
+        "signature": "ąbilu",
+        "length": 5
+      },
+      {
+        "token": "zapomnij",
+        "signature": "aijmnopz",
+        "length": 8
+      },
+      {
+        "token": "zabawa",
+        "signature": "abwz",
+        "length": 6
+      },
+      {
+        "token": "układ",
+        "signature": "adkłu",
+        "length": 5
+      },
+      {
+        "token": "najlepsza",
+        "signature": "aejlnpsz",
+        "length": 9
+      },
+      {
+        "token": "poszła",
+        "signature": "ałopsz",
+        "length": 6
+      },
+      {
+        "token": "waszych",
+        "signature": "achswyz",
+        "length": 7
+      },
+      {
+        "token": "wyglądam",
+        "signature": "aądglmwy",
+        "length": 8
+      },
+      {
+        "token": "ręki",
+        "signature": "ęikr",
+        "length": 4
+      },
+      {
+        "token": "warte",
+        "signature": "aertw",
+        "length": 5
+      },
+      {
+        "token": "usta",
+        "signature": "astu",
+        "length": 4
+      },
+      {
+        "token": "mecz",
+        "signature": "cemz",
+        "length": 4
+      },
+      {
+        "token": "powietrze",
+        "signature": "eioprtwz",
+        "length": 9
+      },
+      {
+        "token": "swoimi",
+        "signature": "imosw",
+        "length": 6
+      },
+      {
+        "token": "akta",
+        "signature": "akt",
+        "length": 4
+      },
+      {
+        "token": "towar",
+        "signature": "aortw",
+        "length": 5
+      },
+      {
+        "token": "brać",
+        "signature": "abćr",
+        "length": 4
+      },
+      {
+        "token": "winy",
+        "signature": "inwy",
+        "length": 4
+      },
+      {
+        "token": "złym",
+        "signature": "łmyz",
+        "length": 4
+      },
+      {
+        "token": "serio",
+        "signature": "eiors",
+        "length": 5
+      },
+      {
+        "token": "planu",
+        "signature": "alnpu",
+        "length": 5
+      },
+      {
+        "token": "cenę",
+        "signature": "ceęn",
+        "length": 4
+      },
+      {
+        "token": "szalony",
+        "signature": "alnosyz",
+        "length": 7
+      },
+      {
+        "token": "przekazać",
+        "signature": "aćekprz",
+        "length": 9
+      },
+      {
+        "token": "zachować",
+        "signature": "acćhowz",
+        "length": 8
+      },
+      {
+        "token": "druga",
+        "signature": "adgru",
+        "length": 5
+      },
+      {
+        "token": "najszybciej",
+        "signature": "abceijnsyz",
+        "length": 11
+      },
+      {
+        "token": "pięciu",
+        "signature": "cęipu",
+        "length": 6
+      },
+      {
+        "token": "siłę",
+        "signature": "ęiłs",
+        "length": 4
+      },
+      {
+        "token": "interesuje",
+        "signature": "eijnrstu",
+        "length": 10
+      },
+      {
+        "token": "posłuchać",
+        "signature": "acćhłopsu",
+        "length": 9
+      },
+      {
+        "token": "pora",
+        "signature": "aopr",
+        "length": 4
+      },
+      {
+        "token": "zabiłeś",
+        "signature": "abeiłśz",
+        "length": 7
+      },
+      {
+        "token": "przejmuj",
+        "signature": "ejmpruz",
+        "length": 8
+      }
+    ],
+    "advanced": [
+      {
+        "token": "mądra",
+        "signature": "aądmr",
+        "length": 5
+      },
+      {
+        "token": "kolejnych",
+        "signature": "cehjklnoy",
+        "length": 9
+      },
+      {
+        "token": "uwaga",
+        "signature": "aguw",
+        "length": 5
+      },
+      {
+        "token": "dżungli",
+        "signature": "dgilnuż",
+        "length": 7
+      },
+      {
+        "token": "pomogą",
+        "signature": "ągmop",
+        "length": 6
+      },
+      {
+        "token": "błędu",
+        "signature": "bdęłu",
+        "length": 5
+      },
+      {
+        "token": "księcia",
+        "signature": "acęiks",
+        "length": 7
+      },
+      {
+        "token": "każę",
+        "signature": "aękż",
+        "length": 4
+      },
+      {
+        "token": "wyjaśnię",
+        "signature": "aęijnśwy",
+        "length": 8
+      },
+      {
+        "token": "agencji",
+        "signature": "acegijn",
+        "length": 7
+      },
+      {
+        "token": "zrozumiał",
+        "signature": "aiłmoruz",
+        "length": 9
+      },
+      {
+        "token": "tożsamości",
+        "signature": "acimosśtż",
+        "length": 10
+      },
+      {
+        "token": "objawy",
+        "signature": "abjowy",
+        "length": 6
+      },
+      {
+        "token": "wspomnień",
+        "signature": "eimnńopsw",
+        "length": 9
+      },
+      {
+        "token": "przejmować",
+        "signature": "aćejmoprwz",
+        "length": 10
+      },
+      {
+        "token": "odległości",
+        "signature": "cdegilłoś",
+        "length": 10
+      },
+      {
+        "token": "wybuch",
+        "signature": "bchuwy",
+        "length": 6
+      },
+      {
+        "token": "magazynu",
+        "signature": "agmnuyz",
+        "length": 8
+      },
+      {
+        "token": "policjantów",
+        "signature": "acijlnoóptw",
+        "length": 11
+      },
+      {
+        "token": "deszczu",
+        "signature": "cdesuz",
+        "length": 7
+      },
+      {
+        "token": "niezłą",
+        "signature": "ąeiłnz",
+        "length": 6
+      },
+      {
+        "token": "morzu",
+        "signature": "moruz",
+        "length": 5
+      },
+      {
+        "token": "odejdź",
+        "signature": "dejoź",
+        "length": 6
+      },
+      {
+        "token": "salę",
+        "signature": "aęls",
+        "length": 4
+      },
+      {
+        "token": "postępy",
+        "signature": "ęopsty",
+        "length": 7
+      },
+      {
+        "token": "powiedzą",
+        "signature": "ądeiopwz",
+        "length": 8
+      },
+      {
+        "token": "kanapie",
+        "signature": "aeiknp",
+        "length": 7
+      },
+      {
+        "token": "terytorium",
+        "signature": "eimortuy",
+        "length": 10
+      },
+      {
+        "token": "musiałaś",
+        "signature": "aiłmsśu",
+        "length": 8
+      },
+      {
+        "token": "gorące",
+        "signature": "ącegor",
+        "length": 6
+      },
+      {
+        "token": "sztukę",
+        "signature": "ękstuz",
+        "length": 6
+      },
+      {
+        "token": "braku",
+        "signature": "abkru",
+        "length": 5
+      },
+      {
+        "token": "nadzieją",
+        "signature": "aądeijnz",
+        "length": 8
+      },
+      {
+        "token": "tkwi",
+        "signature": "iktw",
+        "length": 4
+      },
+      {
+        "token": "mej",
+        "signature": "ejm",
+        "length": 3
+      },
+      {
+        "token": "odwołać",
+        "signature": "aćdłow",
+        "length": 7
+      },
+      {
+        "token": "wzywa",
+        "signature": "awyz",
+        "length": 5
+      },
+      {
+        "token": "osobistego",
+        "signature": "begiost",
+        "length": 10
+      },
+      {
+        "token": "panienko",
+        "signature": "aeiknop",
+        "length": 8
+      },
+      {
+        "token": "robiłam",
+        "signature": "abiłmor",
+        "length": 7
+      },
+      {
+        "token": "autobusu",
+        "signature": "abostu",
+        "length": 8
+      },
+      {
+        "token": "dotrzemy",
+        "signature": "demortyz",
+        "length": 8
+      },
+      {
+        "token": "musieliśmy",
+        "signature": "eilmsśuy",
+        "length": 10
+      },
+      {
+        "token": "kolejce",
+        "signature": "cejklo",
+        "length": 7
+      },
+      {
+        "token": "cios",
+        "signature": "cios",
+        "length": 4
+      },
+      {
+        "token": "rozumiecie",
+        "signature": "ceimoruz",
+        "length": 10
+      },
+      {
+        "token": "urodzin",
+        "signature": "dinoruz",
+        "length": 7
+      },
+      {
+        "token": "wydawać",
+        "signature": "aćdwy",
+        "length": 7
+      },
+      {
+        "token": "rozkazu",
+        "signature": "akoruz",
+        "length": 7
+      },
+      {
+        "token": "stracenia",
+        "signature": "aceinrst",
+        "length": 9
+      },
+      {
+        "token": "dokumentów",
+        "signature": "dekmnoótuw",
+        "length": 10
+      },
+      {
+        "token": "zniszczenia",
+        "signature": "aceinsz",
+        "length": 11
+      },
+      {
+        "token": "wieczora",
+        "signature": "aceiorwz",
+        "length": 8
+      },
+      {
+        "token": "zachowania",
+        "signature": "achinowz",
+        "length": 10
+      },
+      {
+        "token": "kochałem",
+        "signature": "acehkłmo",
+        "length": 8
+      },
+      {
+        "token": "najwięcej",
+        "signature": "aceęijnw",
+        "length": 9
+      }
+    ]
+  }
+}

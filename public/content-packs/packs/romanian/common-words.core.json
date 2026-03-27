@@ -1,0 +1,3626 @@
+{
+  "packId": "romanian:common-words:core",
+  "languageId": "romanian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "să",
+        "signature": "ăs",
+        "length": 2
+      },
+      {
+        "token": "nu",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "în",
+        "signature": "în",
+        "length": 2
+      },
+      {
+        "token": "că",
+        "signature": "ăc",
+        "length": 2
+      },
+      {
+        "token": "la",
+        "signature": "al",
+        "length": 2
+      },
+      {
+        "token": "pe",
+        "signature": "ep",
+        "length": 2
+      },
+      {
+        "token": "cu",
+        "signature": "cu",
+        "length": 2
+      },
+      {
+        "token": "un",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "ce",
+        "signature": "ce",
+        "length": 2
+      },
+      {
+        "token": "mai",
+        "signature": "aim",
+        "length": 3
+      },
+      {
+        "token": "asta",
+        "signature": "ast",
+        "length": 4
+      },
+      {
+        "token": "pentru",
+        "signature": "enprtu",
+        "length": 6
+      },
+      {
+        "token": "am",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "ca",
+        "signature": "ac",
+        "length": 2
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "este",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "din",
+        "signature": "din",
+        "length": 3
+      },
+      {
+        "token": "fost",
+        "signature": "fost",
+        "length": 4
+      },
+      {
+        "token": "fi",
+        "signature": "fi",
+        "length": 2
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "sunt",
+        "signature": "nstu",
+        "length": 4
+      },
+      {
+        "token": "aici",
+        "signature": "aci",
+        "length": 4
+      },
+      {
+        "token": "ai",
+        "signature": "ai",
+        "length": 2
+      },
+      {
+        "token": "bine",
+        "signature": "bein",
+        "length": 4
+      },
+      {
+        "token": "sa",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "și",
+        "signature": "iș",
+        "length": 2
+      },
+      {
+        "token": "va",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "eu",
+        "signature": "eu",
+        "length": 2
+      },
+      {
+        "token": "dar",
+        "signature": "adr",
+        "length": 3
+      },
+      {
+        "token": "ceva",
+        "signature": "acev",
+        "length": 4
+      },
+      {
+        "token": "lui",
+        "signature": "ilu",
+        "length": 3
+      },
+      {
+        "token": "dacă",
+        "signature": "aăcd",
+        "length": 4
+      },
+      {
+        "token": "tine",
+        "signature": "eint",
+        "length": 4
+      },
+      {
+        "token": "când",
+        "signature": "âcdn",
+        "length": 4
+      },
+      {
+        "token": "acum",
+        "signature": "acmu",
+        "length": 4
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "mea",
+        "signature": "aem",
+        "length": 3
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "ar",
+        "signature": "ar",
+        "length": 2
+      },
+      {
+        "token": "trebuie",
+        "signature": "beirtu",
+        "length": 7
+      },
+      {
+        "token": "spus",
+        "signature": "psu",
+        "length": 4
+      },
+      {
+        "token": "el",
+        "signature": "el",
+        "length": 2
+      },
+      {
+        "token": "meu",
+        "signature": "emu",
+        "length": 3
+      },
+      {
+        "token": "doar",
+        "signature": "ador",
+        "length": 4
+      },
+      {
+        "token": "voi",
+        "signature": "iov",
+        "length": 3
+      },
+      {
+        "token": "mult",
+        "signature": "lmtu",
+        "length": 4
+      },
+      {
+        "token": "au",
+        "signature": "au",
+        "length": 2
+      },
+      {
+        "token": "pare",
+        "signature": "aepr",
+        "length": 4
+      },
+      {
+        "token": "acolo",
+        "signature": "aclo",
+        "length": 5
+      },
+      {
+        "token": "ta",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "faci",
+        "signature": "acfi",
+        "length": 4
+      },
+      {
+        "token": "rău",
+        "signature": "ăru",
+        "length": 3
+      },
+      {
+        "token": "despre",
+        "signature": "deprs",
+        "length": 6
+      },
+      {
+        "token": "ei",
+        "signature": "ei",
+        "length": 2
+      },
+      {
+        "token": "tot",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "vă",
+        "signature": "ăv",
+        "length": 2
+      },
+      {
+        "token": "poate",
+        "signature": "aeopt",
+        "length": 5
+      },
+      {
+        "token": "foarte",
+        "signature": "aefort",
+        "length": 6
+      },
+      {
+        "token": "putea",
+        "signature": "aeptu",
+        "length": 5
+      },
+      {
+        "token": "noi",
+        "signature": "ino",
+        "length": 3
+      },
+      {
+        "token": "sau",
+        "signature": "asu",
+        "length": 3
+      },
+      {
+        "token": "nevoie",
+        "signature": "einov",
+        "length": 6
+      },
+      {
+        "token": "fac",
+        "signature": "acf",
+        "length": 3
+      },
+      {
+        "token": "ea",
+        "signature": "ae",
+        "length": 2
+      },
+      {
+        "token": "fie",
+        "signature": "efi",
+        "length": 3
+      },
+      {
+        "token": "trebui",
+        "signature": "beirtu",
+        "length": 6
+      },
+      {
+        "token": "nimic",
+        "signature": "cimn",
+        "length": 5
+      },
+      {
+        "token": "tău",
+        "signature": "ătu",
+        "length": 3
+      },
+      {
+        "token": "rog",
+        "signature": "gor",
+        "length": 3
+      },
+      {
+        "token": "cred",
+        "signature": "cder",
+        "length": 4
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "unde",
+        "signature": "denu",
+        "length": 4
+      },
+      {
+        "token": "timp",
+        "signature": "impt",
+        "length": 4
+      },
+      {
+        "token": "vrei",
+        "signature": "eirv",
+        "length": 4
+      },
+      {
+        "token": "spun",
+        "signature": "npsu",
+        "length": 4
+      },
+      {
+        "token": "îmi",
+        "signature": "iîm",
+        "length": 3
+      },
+      {
+        "token": "vreau",
+        "signature": "aeruv",
+        "length": 5
+      },
+      {
+        "token": "prea",
+        "signature": "aepr",
+        "length": 4
+      },
+      {
+        "token": "chiar",
+        "signature": "achir",
+        "length": 5
+      },
+      {
+        "token": "al",
+        "signature": "al",
+        "length": 2
+      },
+      {
+        "token": "ani",
+        "signature": "ain",
+        "length": 3
+      },
+      {
+        "token": "le",
+        "signature": "el",
+        "length": 2
+      },
+      {
+        "token": "spune",
+        "signature": "enpsu",
+        "length": 5
+      },
+      {
+        "token": "văzut",
+        "signature": "ătuvz",
+        "length": 5
+      },
+      {
+        "token": "până",
+        "signature": "ăânp",
+        "length": 4
+      },
+      {
+        "token": "după",
+        "signature": "ădpu",
+        "length": 4
+      },
+      {
+        "token": "nici",
+        "signature": "cin",
+        "length": 4
+      },
+      {
+        "token": "vor",
+        "signature": "orv",
+        "length": 3
+      },
+      {
+        "token": "mare",
+        "signature": "aemr",
+        "length": 4
+      },
+      {
+        "token": "cineva",
+        "signature": "aceinv",
+        "length": 6
+      },
+      {
+        "token": "venit",
+        "signature": "eintv",
+        "length": 5
+      },
+      {
+        "token": "vrea",
+        "signature": "aerv",
+        "length": 4
+      },
+      {
+        "token": "atât",
+        "signature": "aât",
+        "length": 4
+      },
+      {
+        "token": "îl",
+        "signature": "îl",
+        "length": 2
+      },
+      {
+        "token": "spui",
+        "signature": "ipsu",
+        "length": 4
+      },
+      {
+        "token": "vei",
+        "signature": "eiv",
+        "length": 3
+      },
+      {
+        "token": "toate",
+        "signature": "aeot",
+        "length": 5
+      },
+      {
+        "token": "decât",
+        "signature": "âcdet",
+        "length": 5
+      },
+      {
+        "token": "vom",
+        "signature": "mov",
+        "length": 3
+      },
+      {
+        "token": "ăsta",
+        "signature": "aăst",
+        "length": 4
+      },
+      {
+        "token": "avut",
+        "signature": "atuv",
+        "length": 4
+      },
+      {
+        "token": "cel",
+        "signature": "cel",
+        "length": 3
+      },
+      {
+        "token": "regulă",
+        "signature": "ăeglru",
+        "length": 6
+      },
+      {
+        "token": "acest",
+        "signature": "acest",
+        "length": 5
+      },
+      {
+        "token": "avea",
+        "signature": "aev",
+        "length": 4
+      },
+      {
+        "token": "fel",
+        "signature": "efl",
+        "length": 3
+      },
+      {
+        "token": "bun",
+        "signature": "bnu",
+        "length": 3
+      },
+      {
+        "token": "avem",
+        "signature": "aemv",
+        "length": 4
+      },
+      {
+        "token": "văd",
+        "signature": "ădv",
+        "length": 3
+      },
+      {
+        "token": "naiba",
+        "signature": "abin",
+        "length": 5
+      },
+      {
+        "token": "cine",
+        "signature": "cein",
+        "length": 4
+      },
+      {
+        "token": "încă",
+        "signature": "ăcîn",
+        "length": 4
+      },
+      {
+        "token": "lucru",
+        "signature": "clru",
+        "length": 5
+      },
+      {
+        "token": "niciodată",
+        "signature": "aăcdinot",
+        "length": 9
+      },
+      {
+        "token": "îi",
+        "signature": "iî",
+        "length": 2
+      },
+      {
+        "token": "întâmplat",
+        "signature": "aâîlmnpt",
+        "length": 9
+      },
+      {
+        "token": "fără",
+        "signature": "ăfr",
+        "length": 4
+      },
+      {
+        "token": "cât",
+        "signature": "âct",
+        "length": 3
+      },
+      {
+        "token": "bună",
+        "signature": "ăbnu",
+        "length": 4
+      },
+      {
+        "token": "loc",
+        "signature": "clo",
+        "length": 3
+      },
+      {
+        "token": "mergem",
+        "signature": "egmr",
+        "length": 6
+      },
+      {
+        "token": "acasă",
+        "signature": "aăcs",
+        "length": 5
+      },
+      {
+        "token": "totul",
+        "signature": "lotu",
+        "length": 5
+      },
+      {
+        "token": "atunci",
+        "signature": "acintu",
+        "length": 6
+      },
+      {
+        "token": "prin",
+        "signature": "inpr",
+        "length": 4
+      },
+      {
+        "token": "putem",
+        "signature": "emptu",
+        "length": 5
+      },
+      {
+        "token": "suntem",
+        "signature": "emnstu",
+        "length": 6
+      },
+      {
+        "token": "dat",
+        "signature": "adt",
+        "length": 3
+      },
+      {
+        "token": "crezi",
+        "signature": "ceirz",
+        "length": 5
+      },
+      {
+        "token": "ceea",
+        "signature": "ace",
+        "length": 4
+      },
+      {
+        "token": "oameni",
+        "signature": "aeimno",
+        "length": 6
+      },
+      {
+        "token": "facem",
+        "signature": "acefm",
+        "length": 5
+      },
+      {
+        "token": "sigur",
+        "signature": "girsu",
+        "length": 5
+      },
+      {
+        "token": "nou",
+        "signature": "nou",
+        "length": 3
+      },
+      {
+        "token": "înainte",
+        "signature": "aeiînt",
+        "length": 7
+      },
+      {
+        "token": "unul",
+        "signature": "lnu",
+        "length": 4
+      },
+      {
+        "token": "zi",
+        "signature": "iz",
+        "length": 2
+      },
+      {
+        "token": "jos",
+        "signature": "jos",
+        "length": 3
+      },
+      {
+        "token": "iar",
+        "signature": "air",
+        "length": 3
+      },
+      {
+        "token": "lumea",
+        "signature": "aelmu",
+        "length": 5
+      },
+      {
+        "token": "toată",
+        "signature": "aăot",
+        "length": 5
+      },
+      {
+        "token": "aia",
+        "signature": "ai",
+        "length": 3
+      },
+      {
+        "token": "domnule",
+        "signature": "delmnou",
+        "length": 7
+      },
+      {
+        "token": "multe",
+        "signature": "elmtu",
+        "length": 5
+      },
+      {
+        "token": "auzit",
+        "signature": "aituz",
+        "length": 5
+      },
+      {
+        "token": "găsit",
+        "signature": "ăgist",
+        "length": 5
+      },
+      {
+        "token": "ești",
+        "signature": "eișt",
+        "length": 4
+      },
+      {
+        "token": "înapoi",
+        "signature": "aiînop",
+        "length": 6
+      },
+      {
+        "token": "timpul",
+        "signature": "ilmptu",
+        "length": 6
+      },
+      {
+        "token": "fii",
+        "signature": "fi",
+        "length": 3
+      },
+      {
+        "token": "luat",
+        "signature": "altu",
+        "length": 4
+      },
+      {
+        "token": "fiu",
+        "signature": "fiu",
+        "length": 3
+      },
+      {
+        "token": "astea",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "om",
+        "signature": "mo",
+        "length": 2
+      },
+      {
+        "token": "treabă",
+        "signature": "aăbert",
+        "length": 6
+      },
+      {
+        "token": "două",
+        "signature": "ădou",
+        "length": 4
+      },
+      {
+        "token": "ma",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "lor",
+        "signature": "lor",
+        "length": 3
+      },
+      {
+        "token": "vrut",
+        "signature": "rtuv",
+        "length": 4
+      },
+      {
+        "token": "peste",
+        "signature": "epst",
+        "length": 5
+      },
+      {
+        "token": "doi",
+        "signature": "dio",
+        "length": 3
+      },
+      {
+        "token": "dintre",
+        "signature": "deinrt",
+        "length": 6
+      },
+      {
+        "token": "noastră",
+        "signature": "aănorst",
+        "length": 7
+      },
+      {
+        "token": "întâmplă",
+        "signature": "ăâîlmnpt",
+        "length": 8
+      },
+      {
+        "token": "duc",
+        "signature": "cdu",
+        "length": 3
+      },
+      {
+        "token": "fiecare",
+        "signature": "acefir",
+        "length": 7
+      },
+      {
+        "token": "mele",
+        "signature": "elm",
+        "length": 4
+      },
+      {
+        "token": "nimeni",
+        "signature": "eimn",
+        "length": 6
+      },
+      {
+        "token": "știu",
+        "signature": "iștu",
+        "length": 4
+      },
+      {
+        "token": "parte",
+        "signature": "aeprt",
+        "length": 5
+      },
+      {
+        "token": "merge",
+        "signature": "egmr",
+        "length": 5
+      },
+      {
+        "token": "adevărat",
+        "signature": "aădertv",
+        "length": 8
+      },
+      {
+        "token": "dată",
+        "signature": "aădt",
+        "length": 4
+      },
+      {
+        "token": "câteva",
+        "signature": "aâcetv",
+        "length": 6
+      },
+      {
+        "token": "această",
+        "signature": "aăcest",
+        "length": 7
+      },
+      {
+        "token": "cea",
+        "signature": "ace",
+        "length": 3
+      },
+      {
+        "token": "trei",
+        "signature": "eirt",
+        "length": 4
+      },
+      {
+        "token": "cei",
+        "signature": "cei",
+        "length": 3
+      },
+      {
+        "token": "grijă",
+        "signature": "ăgijr",
+        "length": 5
+      },
+      {
+        "token": "vezi",
+        "signature": "eivz",
+        "length": 4
+      },
+      {
+        "token": "vedem",
+        "signature": "demv",
+        "length": 5
+      },
+      {
+        "token": "dau",
+        "signature": "adu",
+        "length": 3
+      },
+      {
+        "token": "orice",
+        "signature": "ceior",
+        "length": 5
+      },
+      {
+        "token": "oamenii",
+        "signature": "aeimno",
+        "length": 7
+      },
+      {
+        "token": "zis",
+        "signature": "isz",
+        "length": 3
+      },
+      {
+        "token": "facă",
+        "signature": "aăcf",
+        "length": 4
+      },
+      {
+        "token": "bani",
+        "signature": "abin",
+        "length": 4
+      },
+      {
+        "token": "nostru",
+        "signature": "norstu",
+        "length": 6
+      },
+      {
+        "token": "înseamnă",
+        "signature": "aăeîmns",
+        "length": 8
+      },
+      {
+        "token": "afară",
+        "signature": "aăfr",
+        "length": 5
+      },
+      {
+        "token": "târziu",
+        "signature": "âirtuz",
+        "length": 6
+      },
+      {
+        "token": "singur",
+        "signature": "ginrsu",
+        "length": 6
+      },
+      {
+        "token": "numele",
+        "signature": "elmnu",
+        "length": 6
+      },
+      {
+        "token": "ziua",
+        "signature": "aiuz",
+        "length": 4
+      },
+      {
+        "token": "apoi",
+        "signature": "aiop",
+        "length": 4
+      },
+      {
+        "token": "ajuns",
+        "signature": "ajnsu",
+        "length": 5
+      },
+      {
+        "token": "deja",
+        "signature": "adej",
+        "length": 4
+      },
+      {
+        "token": "dreptate",
+        "signature": "adeprt",
+        "length": 8
+      },
+      {
+        "token": "început",
+        "signature": "ceînptu",
+        "length": 7
+      },
+      {
+        "token": "locul",
+        "signature": "clou",
+        "length": 5
+      },
+      {
+        "token": "fapt",
+        "signature": "afpt",
+        "length": 4
+      },
+      {
+        "token": "spre",
+        "signature": "eprs",
+        "length": 4
+      },
+      {
+        "token": "putut",
+        "signature": "ptu",
+        "length": 5
+      },
+      {
+        "token": "împreună",
+        "signature": "ăeîmnpru",
+        "length": 8
+      },
+      {
+        "token": "vorbesc",
+        "signature": "bceorsv",
+        "length": 7
+      },
+      {
+        "token": "trecut",
+        "signature": "certu",
+        "length": 6
+      },
+      {
+        "token": "lucruri",
+        "signature": "cilru",
+        "length": 7
+      },
+      {
+        "token": "destul",
+        "signature": "delstu",
+        "length": 6
+      },
+      {
+        "token": "ori",
+        "signature": "ior",
+        "length": 3
+      },
+      {
+        "token": "zile",
+        "signature": "eilz",
+        "length": 4
+      },
+      {
+        "token": "tatăl",
+        "signature": "aălt",
+        "length": 5
+      },
+      {
+        "token": "repede",
+        "signature": "depr",
+        "length": 6
+      },
+      {
+        "token": "unui",
+        "signature": "inu",
+        "length": 4
+      },
+      {
+        "token": "partea",
+        "signature": "aeprt",
+        "length": 6
+      },
+      {
+        "token": "iau",
+        "signature": "aiu",
+        "length": 3
+      },
+      {
+        "token": "pierdut",
+        "signature": "deiprtu",
+        "length": 7
+      },
+      {
+        "token": "ia",
+        "signature": "ai",
+        "length": 2
+      },
+      {
+        "token": "aproape",
+        "signature": "aeopr",
+        "length": 7
+      },
+      {
+        "token": "terminat",
+        "signature": "aeimnrt",
+        "length": 8
+      },
+      {
+        "token": "seara",
+        "signature": "aers",
+        "length": 5
+      },
+      {
+        "token": "omule",
+        "signature": "elmou",
+        "length": 5
+      },
+      {
+        "token": "ăla",
+        "signature": "aăl",
+        "length": 3
+      },
+      {
+        "token": "măcar",
+        "signature": "aăcmr",
+        "length": 5
+      },
+      {
+        "token": "plecat",
+        "signature": "acelpt",
+        "length": 6
+      },
+      {
+        "token": "vine",
+        "signature": "einv",
+        "length": 4
+      },
+      {
+        "token": "iubesc",
+        "signature": "bceisu",
+        "length": 6
+      },
+      {
+        "token": "crezut",
+        "signature": "certuz",
+        "length": 6
+      },
+      {
+        "token": "drumul",
+        "signature": "dlmru",
+        "length": 6
+      },
+      {
+        "token": "stai",
+        "signature": "aist",
+        "length": 4
+      },
+      {
+        "token": "departe",
+        "signature": "adeprt",
+        "length": 7
+      },
+      {
+        "token": "simt",
+        "signature": "imst",
+        "length": 4
+      },
+      {
+        "token": "sub",
+        "signature": "bsu",
+        "length": 3
+      },
+      {
+        "token": "imediat",
+        "signature": "adeimt",
+        "length": 7
+      },
+      {
+        "token": "gata",
+        "signature": "agt",
+        "length": 4
+      },
+      {
+        "token": "prima",
+        "signature": "aimpr",
+        "length": 5
+      },
+      {
+        "token": "casa",
+        "signature": "acs",
+        "length": 4
+      },
+      {
+        "token": "există",
+        "signature": "ăeistx",
+        "length": 6
+      },
+      {
+        "token": "vorba",
+        "signature": "aborv",
+        "length": 5
+      },
+      {
+        "token": "lucrurile",
+        "signature": "ceilru",
+        "length": 9
+      },
+      {
+        "token": "dai",
+        "signature": "adi",
+        "length": 3
+      },
+      {
+        "token": "numai",
+        "signature": "aimnu",
+        "length": 5
+      },
+      {
+        "token": "între",
+        "signature": "eînrt",
+        "length": 5
+      },
+      {
+        "token": "murit",
+        "signature": "imrtu",
+        "length": 5
+      },
+      {
+        "token": "cele",
+        "signature": "cel",
+        "length": 4
+      },
+      {
+        "token": "banii",
+        "signature": "abin",
+        "length": 5
+      },
+      {
+        "token": "fata",
+        "signature": "aft",
+        "length": 4
+      },
+      {
+        "token": "ajuta",
+        "signature": "ajtu",
+        "length": 5
+      },
+      {
+        "token": "copii",
+        "signature": "ciop",
+        "length": 5
+      },
+      {
+        "token": "sus",
+        "signature": "su",
+        "length": 3
+      },
+      {
+        "token": "vreodată",
+        "signature": "aădeortv",
+        "length": 8
+      },
+      {
+        "token": "azi",
+        "signature": "aiz",
+        "length": 3
+      },
+      {
+        "token": "idee",
+        "signature": "dei",
+        "length": 4
+      },
+      {
+        "token": "plec",
+        "signature": "celp",
+        "length": 4
+      },
+      {
+        "token": "greu",
+        "signature": "egru",
+        "length": 4
+      },
+      {
+        "token": "trebuit",
+        "signature": "beirtu",
+        "length": 7
+      },
+      {
+        "token": "vedea",
+        "signature": "adev",
+        "length": 5
+      },
+      {
+        "token": "tare",
+        "signature": "aert",
+        "length": 4
+      },
+      {
+        "token": "pus",
+        "signature": "psu",
+        "length": 3
+      },
+      {
+        "token": "seama",
+        "signature": "aems",
+        "length": 5
+      },
+      {
+        "token": "noastre",
+        "signature": "aenorst",
+        "length": 7
+      },
+      {
+        "token": "încercat",
+        "signature": "aceînrt",
+        "length": 8
+      },
+      {
+        "token": "mort",
+        "signature": "mort",
+        "length": 4
+      },
+      {
+        "token": "eram",
+        "signature": "aemr",
+        "length": 4
+      },
+      {
+        "token": "duci",
+        "signature": "cdiu",
+        "length": 4
+      },
+      {
+        "token": "gândit",
+        "signature": "âdgint",
+        "length": 6
+      },
+      {
+        "token": "bune",
+        "signature": "benu",
+        "length": 4
+      },
+      {
+        "token": "ale",
+        "signature": "ael",
+        "length": 3
+      },
+      {
+        "token": "dus",
+        "signature": "dsu",
+        "length": 3
+      },
+      {
+        "token": "vreo",
+        "signature": "eorv",
+        "length": 4
+      },
+      {
+        "token": "griji",
+        "signature": "gijr",
+        "length": 5
+      },
+      {
+        "token": "încredere",
+        "signature": "cdeînr",
+        "length": 9
+      },
+      {
+        "token": "frumos",
+        "signature": "fmorsu",
+        "length": 6
+      },
+      {
+        "token": "urmă",
+        "signature": "ămru",
+        "length": 4
+      },
+      {
+        "token": "mereu",
+        "signature": "emru",
+        "length": 5
+      },
+      {
+        "token": "aceea",
+        "signature": "ace",
+        "length": 5
+      },
+      {
+        "token": "femeie",
+        "signature": "efim",
+        "length": 6
+      },
+      {
+        "token": "tăi",
+        "signature": "ăit",
+        "length": 3
+      },
+      {
+        "token": "copil",
+        "signature": "cilop",
+        "length": 5
+      },
+      {
+        "token": "ore",
+        "signature": "eor",
+        "length": 3
+      },
+      {
+        "token": "problemă",
+        "signature": "ăbelmopr",
+        "length": 8
+      },
+      {
+        "token": "mâine",
+        "signature": "âeimn",
+        "length": 5
+      },
+      {
+        "token": "știi",
+        "signature": "ișt",
+        "length": 4
+      },
+      {
+        "token": "lua",
+        "signature": "alu",
+        "length": 3
+      },
+      {
+        "token": "mie",
+        "signature": "eim",
+        "length": 3
+      },
+      {
+        "token": "cauza",
+        "signature": "acuz",
+        "length": 5
+      },
+      {
+        "token": "ucis",
+        "signature": "cisu",
+        "length": 4
+      },
+      {
+        "token": "lăsat",
+        "signature": "aălst",
+        "length": 5
+      },
+      {
+        "token": "poți",
+        "signature": "iopț",
+        "length": 4
+      },
+      {
+        "token": "cale",
+        "signature": "acel",
+        "length": 4
+      },
+      {
+        "token": "adus",
+        "signature": "adsu",
+        "length": 4
+      },
+      {
+        "token": "aceste",
+        "signature": "acest",
+        "length": 6
+      },
+      {
+        "token": "duce",
+        "signature": "cdeu",
+        "length": 4
+      },
+      {
+        "token": "ales",
+        "signature": "aels",
+        "length": 4
+      },
+      {
+        "token": "unei",
+        "signature": "einu",
+        "length": 4
+      },
+      {
+        "token": "pasă",
+        "signature": "aăps",
+        "length": 4
+      },
+      {
+        "token": "pic",
+        "signature": "cip",
+        "length": 3
+      },
+      {
+        "token": "mâna",
+        "signature": "aâmn",
+        "length": 4
+      },
+      {
+        "token": "lângă",
+        "signature": "ăâgln",
+        "length": 5
+      },
+      {
+        "token": "găsi",
+        "signature": "ăgis",
+        "length": 4
+      },
+      {
+        "token": "bucur",
+        "signature": "bcru",
+        "length": 5
+      },
+      {
+        "token": "probleme",
+        "signature": "belmopr",
+        "length": 8
+      },
+      {
+        "token": "cer",
+        "signature": "cer",
+        "length": 3
+      },
+      {
+        "token": "lume",
+        "signature": "elmu",
+        "length": 4
+      },
+      {
+        "token": "problema",
+        "signature": "abelmopr",
+        "length": 8
+      },
+      {
+        "token": "ultima",
+        "signature": "ailmtu",
+        "length": 6
+      },
+      {
+        "token": "merg",
+        "signature": "egmr",
+        "length": 4
+      },
+      {
+        "token": "noapte",
+        "signature": "aenopt",
+        "length": 6
+      },
+      {
+        "token": "vorbit",
+        "signature": "biortv",
+        "length": 6
+      },
+      {
+        "token": "casă",
+        "signature": "aăcs",
+        "length": 4
+      },
+      {
+        "token": "prins",
+        "signature": "inprs",
+        "length": 5
+      },
+      {
+        "token": "altă",
+        "signature": "aălt",
+        "length": 4
+      },
+      {
+        "token": "iei",
+        "signature": "ei",
+        "length": 3
+      },
+      {
+        "token": "luni",
+        "signature": "ilnu",
+        "length": 4
+      },
+      {
+        "token": "primul",
+        "signature": "ilmpru",
+        "length": 6
+      },
+      {
+        "token": "uitat",
+        "signature": "aitu",
+        "length": 5
+      },
+      {
+        "token": "noaptea",
+        "signature": "aenopt",
+        "length": 7
+      },
+      {
+        "token": "aceasta",
+        "signature": "acest",
+        "length": 7
+      },
+      {
+        "token": "ajunge",
+        "signature": "aegjnu",
+        "length": 6
+      },
+      {
+        "token": "singură",
+        "signature": "ăginrsu",
+        "length": 7
+      },
+      {
+        "token": "vorbim",
+        "signature": "bimorv",
+        "length": 6
+      },
+      {
+        "token": "dragă",
+        "signature": "aădgr",
+        "length": 5
+      },
+      {
+        "token": "veni",
+        "signature": "einv",
+        "length": 4
+      },
+      {
+        "token": "cunosc",
+        "signature": "cnosu",
+        "length": 6
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "tipul",
+        "signature": "ilptu",
+        "length": 5
+      },
+      {
+        "token": "legătură",
+        "signature": "ăeglrtu",
+        "length": 8
+      },
+      {
+        "token": "erau",
+        "signature": "aeru",
+        "length": 4
+      },
+      {
+        "token": "ochii",
+        "signature": "chio",
+        "length": 5
+      },
+      {
+        "token": "fată",
+        "signature": "aăft",
+        "length": 4
+      },
+      {
+        "token": "acord",
+        "signature": "acdor",
+        "length": 5
+      },
+      {
+        "token": "întors",
+        "signature": "înorst",
+        "length": 6
+      },
+      {
+        "token": "trebuia",
+        "signature": "abeirtu",
+        "length": 7
+      },
+      {
+        "token": "telefon",
+        "signature": "eflnot",
+        "length": 7
+      },
+      {
+        "token": "ele",
+        "signature": "el",
+        "length": 3
+      },
+      {
+        "token": "către",
+        "signature": "ăcert",
+        "length": 5
+      },
+      {
+        "token": "primit",
+        "signature": "imprt",
+        "length": 6
+      },
+      {
+        "token": "joc",
+        "signature": "cjo",
+        "length": 3
+      },
+      {
+        "token": "crede",
+        "signature": "cder",
+        "length": 5
+      },
+      {
+        "token": "cazul",
+        "signature": "acluz",
+        "length": 5
+      },
+      {
+        "token": "dolari",
+        "signature": "adilor",
+        "length": 6
+      },
+      {
+        "token": "prieten",
+        "signature": "einprt",
+        "length": 7
+      },
+      {
+        "token": "zici",
+        "signature": "ciz",
+        "length": 4
+      },
+      {
+        "token": "caz",
+        "signature": "acz",
+        "length": 3
+      },
+      {
+        "token": "facut",
+        "signature": "acftu",
+        "length": 5
+      },
+      {
+        "token": "serios",
+        "signature": "eiors",
+        "length": 6
+      },
+      {
+        "token": "familia",
+        "signature": "afilm",
+        "length": 7
+      },
+      {
+        "token": "altceva",
+        "signature": "aceltv",
+        "length": 7
+      },
+      {
+        "token": "îți",
+        "signature": "iîț",
+        "length": 3
+      },
+      {
+        "token": "simplu",
+        "signature": "ilmpsu",
+        "length": 6
+      },
+      {
+        "token": "curând",
+        "signature": "âcdnru",
+        "length": 6
+      },
+      {
+        "token": "pune",
+        "signature": "enpu",
+        "length": 4
+      },
+      {
+        "token": "întoarce",
+        "signature": "aceînort",
+        "length": 8
+      },
+      {
+        "token": "fiul",
+        "signature": "filu",
+        "length": 4
+      },
+      {
+        "token": "bărbat",
+        "signature": "aăbrt",
+        "length": 6
+      },
+      {
+        "token": "odată",
+        "signature": "aădot",
+        "length": 5
+      },
+      {
+        "token": "întorc",
+        "signature": "cînort",
+        "length": 6
+      },
+      {
+        "token": "arată",
+        "signature": "aărt",
+        "length": 5
+      },
+      {
+        "token": "asemenea",
+        "signature": "aemns",
+        "length": 8
+      },
+      {
+        "token": "contează",
+        "signature": "aăcenotz",
+        "length": 8
+      },
+      {
+        "token": "vina",
+        "signature": "ainv",
+        "length": 4
+      },
+      {
+        "token": "vorbi",
+        "signature": "biorv",
+        "length": 5
+      },
+      {
+        "token": "împotriva",
+        "signature": "aiîmoprtv",
+        "length": 9
+      },
+      {
+        "token": "naibii",
+        "signature": "abin",
+        "length": 6
+      },
+      {
+        "token": "viața",
+        "signature": "aițv",
+        "length": 5
+      },
+      {
+        "token": "ajutor",
+        "signature": "ajortu",
+        "length": 6
+      },
+      {
+        "token": "spate",
+        "signature": "aepst",
+        "length": 5
+      },
+      {
+        "token": "trimis",
+        "signature": "imrst",
+        "length": 6
+      },
+      {
+        "token": "nicio",
+        "signature": "cino",
+        "length": 5
+      },
+      {
+        "token": "pleci",
+        "signature": "ceilp",
+        "length": 5
+      },
+      {
+        "token": "acesta",
+        "signature": "acest",
+        "length": 6
+      },
+      {
+        "token": "rămas",
+        "signature": "aămrs",
+        "length": 5
+      },
+      {
+        "token": "rămâne",
+        "signature": "ăâemnr",
+        "length": 6
+      },
+      {
+        "token": "puțin",
+        "signature": "inpțu",
+        "length": 5
+      },
+      {
+        "token": "sunat",
+        "signature": "anstu",
+        "length": 5
+      },
+      {
+        "token": "acel",
+        "signature": "acel",
+        "length": 4
+      },
+      {
+        "token": "mic",
+        "signature": "cim",
+        "length": 3
+      },
+      {
+        "token": "lăsa",
+        "signature": "aăls",
+        "length": 4
+      },
+      {
+        "token": "patru",
+        "signature": "aprtu",
+        "length": 5
+      },
+      {
+        "token": "cinci",
+        "signature": "cin",
+        "length": 5
+      },
+      {
+        "token": "mod",
+        "signature": "dmo",
+        "length": 3
+      },
+      {
+        "token": "întotdeauna",
+        "signature": "adeînotu",
+        "length": 11
+      },
+      {
+        "token": "întreb",
+        "signature": "beînrt",
+        "length": 6
+      },
+      {
+        "token": "tocmai",
+        "signature": "acimot",
+        "length": 6
+      },
+      {
+        "token": "tată",
+        "signature": "aăt",
+        "length": 4
+      },
+      {
+        "token": "întâmpla",
+        "signature": "aâîlmnpt",
+        "length": 8
+      },
+      {
+        "token": "prieteni",
+        "signature": "einprt",
+        "length": 8
+      },
+      {
+        "token": "câte",
+        "signature": "âcet",
+        "length": 4
+      },
+      {
+        "token": "nume",
+        "signature": "emnu",
+        "length": 4
+      },
+      {
+        "token": "capul",
+        "signature": "aclpu",
+        "length": 5
+      },
+      {
+        "token": "spatele",
+        "signature": "aelpst",
+        "length": 7
+      },
+      {
+        "token": "nouă",
+        "signature": "ănou",
+        "length": 4
+      },
+      {
+        "token": "tau",
+        "signature": "atu",
+        "length": 3
+      },
+      {
+        "token": "scuze",
+        "signature": "cesuz",
+        "length": 5
+      },
+      {
+        "token": "ora",
+        "signature": "aor",
+        "length": 3
+      },
+      {
+        "token": "mergi",
+        "signature": "egimr",
+        "length": 5
+      },
+      {
+        "token": "ajut",
+        "signature": "ajtu",
+        "length": 4
+      },
+      {
+        "token": "plecăm",
+        "signature": "ăcelmp",
+        "length": 6
+      },
+      {
+        "token": "gândesc",
+        "signature": "âcdegns",
+        "length": 7
+      },
+      {
+        "token": "găsesc",
+        "signature": "ăcegs",
+        "length": 6
+      },
+      {
+        "token": "alte",
+        "signature": "aelt",
+        "length": 4
+      },
+      {
+        "token": "apă",
+        "signature": "aăp",
+        "length": 3
+      },
+      {
+        "token": "stau",
+        "signature": "astu",
+        "length": 4
+      },
+      {
+        "token": "vreme",
+        "signature": "emrv",
+        "length": 5
+      },
+      {
+        "token": "pleca",
+        "signature": "acelp",
+        "length": 5
+      },
+      {
+        "token": "începe",
+        "signature": "ceînp",
+        "length": 6
+      },
+      {
+        "token": "fratele",
+        "signature": "aeflrt",
+        "length": 7
+      },
+      {
+        "token": "minunat",
+        "signature": "aimntu",
+        "length": 7
+      },
+      {
+        "token": "adevărul",
+        "signature": "aădelruv",
+        "length": 8
+      },
+      {
+        "token": "alt",
+        "signature": "alt",
+        "length": 3
+      },
+      {
+        "token": "plac",
+        "signature": "aclp",
+        "length": 4
+      },
+      {
+        "token": "acea",
+        "signature": "ace",
+        "length": 4
+      },
+      {
+        "token": "doua",
+        "signature": "adou",
+        "length": 4
+      },
+      {
+        "token": "pun",
+        "signature": "npu",
+        "length": 3
+      },
+      {
+        "token": "posibil",
+        "signature": "bilops",
+        "length": 7
+      },
+      {
+        "token": "probabil",
+        "signature": "abilopr",
+        "length": 8
+      },
+      {
+        "token": "minte",
+        "signature": "eimnt",
+        "length": 5
+      },
+      {
+        "token": "gând",
+        "signature": "âdgn",
+        "length": 4
+      },
+      {
+        "token": "oră",
+        "signature": "ăor",
+        "length": 3
+      },
+      {
+        "token": "vadă",
+        "signature": "aădv",
+        "length": 4
+      },
+      {
+        "token": "familie",
+        "signature": "aefilm",
+        "length": 7
+      },
+      {
+        "token": "buni",
+        "signature": "binu",
+        "length": 4
+      },
+      {
+        "token": "pui",
+        "signature": "ipu",
+        "length": 3
+      },
+      {
+        "token": "jumătate",
+        "signature": "aăejmtu",
+        "length": 8
+      },
+      {
+        "token": "auzi",
+        "signature": "aiuz",
+        "length": 4
+      },
+      {
+        "token": "frumoasă",
+        "signature": "aăfmorsu",
+        "length": 8
+      },
+      {
+        "token": "înăuntru",
+        "signature": "ăînrtu",
+        "length": 8
+      },
+      {
+        "token": "său",
+        "signature": "ăsu",
+        "length": 3
+      },
+      {
+        "token": "motiv",
+        "signature": "imotv",
+        "length": 5
+      },
+      {
+        "token": "amintesc",
+        "signature": "aceimnst",
+        "length": 8
+      },
+      {
+        "token": "uita",
+        "signature": "aitu",
+        "length": 4
+      },
+      {
+        "token": "intrat",
+        "signature": "ainrt",
+        "length": 6
+      },
+      {
+        "token": "niciun",
+        "signature": "cinu",
+        "length": 6
+      },
+      {
+        "token": "arma",
+        "signature": "amr",
+        "length": 4
+      },
+      {
+        "token": "mică",
+        "signature": "ăcim",
+        "length": 4
+      },
+      {
+        "token": "vină",
+        "signature": "ăinv",
+        "length": 4
+      },
+      {
+        "token": "mamă",
+        "signature": "aăm",
+        "length": 4
+      },
+      {
+        "token": "chestia",
+        "signature": "acehist",
+        "length": 7
+      },
+      {
+        "token": "sta",
+        "signature": "ast",
+        "length": 3
+      },
+      {
+        "token": "mers",
+        "signature": "emrs",
+        "length": 4
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "uite",
+        "signature": "eitu",
+        "length": 4
+      },
+      {
+        "token": "inima",
+        "signature": "aimn",
+        "length": 5
+      },
+      {
+        "token": "sigură",
+        "signature": "ăgirsu",
+        "length": 6
+      },
+      {
+        "token": "cunoscut",
+        "signature": "cnostu",
+        "length": 8
+      },
+      {
+        "token": "zic",
+        "signature": "ciz",
+        "length": 3
+      },
+      {
+        "token": "mâinile",
+        "signature": "âeilmn",
+        "length": 7
+      },
+      {
+        "token": "fim",
+        "signature": "fim",
+        "length": 3
+      },
+      {
+        "token": "deloc",
+        "signature": "cdelo",
+        "length": 5
+      },
+      {
+        "token": "corect",
+        "signature": "ceort",
+        "length": 6
+      },
+      {
+        "token": "astăzi",
+        "signature": "aăistz",
+        "length": 6
+      },
+      {
+        "token": "devreme",
+        "signature": "demrv",
+        "length": 7
+      },
+      {
+        "token": "singura",
+        "signature": "aginrsu",
+        "length": 7
+      },
+      {
+        "token": "război",
+        "signature": "ăbiorz",
+        "length": 6
+      },
+      {
+        "token": "sânge",
+        "signature": "âegns",
+        "length": 5
+      },
+      {
+        "token": "revedere",
+        "signature": "derv",
+        "length": 8
+      },
+      {
+        "token": "moarte",
+        "signature": "aemort",
+        "length": 6
+      },
+      {
+        "token": "aduc",
+        "signature": "acdu",
+        "length": 4
+      },
+      {
+        "token": "asupra",
+        "signature": "aprsu",
+        "length": 6
+      },
+      {
+        "token": "persoană",
+        "signature": "aăenoprs",
+        "length": 8
+      },
+      {
+        "token": "prietenul",
+        "signature": "eilnprtu",
+        "length": 9
+      },
+      {
+        "token": "găsim",
+        "signature": "ăgims",
+        "length": 5
+      },
+      {
+        "token": "aud",
+        "signature": "adu",
+        "length": 3
+      },
+      {
+        "token": "plăcere",
+        "signature": "ăcelpr",
+        "length": 7
+      },
+      {
+        "token": "omul",
+        "signature": "lmou",
+        "length": 4
+      },
+      {
+        "token": "astfel",
+        "signature": "aeflst",
+        "length": 6
+      },
+      {
+        "token": "aibă",
+        "signature": "aăbi",
+        "length": 4
+      },
+      {
+        "token": "niște",
+        "signature": "einșt",
+        "length": 5
+      },
+      {
+        "token": "omorât",
+        "signature": "âmort",
+        "length": 6
+      },
+      {
+        "token": "toți",
+        "signature": "iotț",
+        "length": 4
+      },
+      {
+        "token": "luăm",
+        "signature": "ălmu",
+        "length": 4
+      },
+      {
+        "token": "cumva",
+        "signature": "acmuv",
+        "length": 5
+      },
+      {
+        "token": "urma",
+        "signature": "amru",
+        "length": 4
+      },
+      {
+        "token": "multă",
+        "signature": "ălmtu",
+        "length": 5
+      },
+      {
+        "token": "băiat",
+        "signature": "aăbit",
+        "length": 5
+      },
+      {
+        "token": "singurul",
+        "signature": "gilnrsu",
+        "length": 8
+      }
+    ],
+    "developing": [
+      {
+        "token": "istoria",
+        "signature": "aiorst",
+        "length": 7
+      },
+      {
+        "token": "pielea",
+        "signature": "aeilp",
+        "length": 6
+      },
+      {
+        "token": "semnalul",
+        "signature": "aelmnsu",
+        "length": 8
+      },
+      {
+        "token": "reprezintă",
+        "signature": "ăeinprtz",
+        "length": 10
+      },
+      {
+        "token": "voiai",
+        "signature": "aiov",
+        "length": 5
+      },
+      {
+        "token": "specială",
+        "signature": "aăceilps",
+        "length": 8
+      },
+      {
+        "token": "realitate",
+        "signature": "aeilrt",
+        "length": 9
+      },
+      {
+        "token": "mulțime",
+        "signature": "eilmțu",
+        "length": 7
+      },
+      {
+        "token": "martor",
+        "signature": "amort",
+        "length": 6
+      },
+      {
+        "token": "eliberat",
+        "signature": "abeilrt",
+        "length": 8
+      },
+      {
+        "token": "răni",
+        "signature": "ăinr",
+        "length": 4
+      },
+      {
+        "token": "frumoasa",
+        "signature": "afmorsu",
+        "length": 8
+      },
+      {
+        "token": "tipii",
+        "signature": "ipt",
+        "length": 5
+      },
+      {
+        "token": "spuneam",
+        "signature": "aemnpsu",
+        "length": 7
+      },
+      {
+        "token": "lipsit",
+        "signature": "ilpst",
+        "length": 6
+      },
+      {
+        "token": "slab",
+        "signature": "abls",
+        "length": 4
+      },
+      {
+        "token": "făcute",
+        "signature": "ăceftu",
+        "length": 6
+      },
+      {
+        "token": "căutarea",
+        "signature": "aăcertu",
+        "length": 8
+      },
+      {
+        "token": "cadavrul",
+        "signature": "acdlruv",
+        "length": 8
+      },
+      {
+        "token": "planetă",
+        "signature": "aăelnpt",
+        "length": 7
+      },
+      {
+        "token": "trăiască",
+        "signature": "aăcirst",
+        "length": 8
+      },
+      {
+        "token": "întregi",
+        "signature": "egiînrt",
+        "length": 7
+      },
+      {
+        "token": "arunca",
+        "signature": "acnru",
+        "length": 6
+      },
+      {
+        "token": "accepta",
+        "signature": "acept",
+        "length": 7
+      },
+      {
+        "token": "planuri",
+        "signature": "ailnpru",
+        "length": 7
+      },
+      {
+        "token": "bombă",
+        "signature": "ăbmo",
+        "length": 5
+      },
+      {
+        "token": "nivelul",
+        "signature": "eilnuv",
+        "length": 7
+      },
+      {
+        "token": "gust",
+        "signature": "gstu",
+        "length": 4
+      },
+      {
+        "token": "barca",
+        "signature": "abcr",
+        "length": 5
+      },
+      {
+        "token": "majoritatea",
+        "signature": "aeijmort",
+        "length": 11
+      },
+      {
+        "token": "sune",
+        "signature": "ensu",
+        "length": 4
+      },
+      {
+        "token": "sine",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "terminăm",
+        "signature": "ăeimnrt",
+        "length": 8
+      },
+      {
+        "token": "ieșit",
+        "signature": "eișt",
+        "length": 5
+      },
+      {
+        "token": "începutul",
+        "signature": "ceîlnptu",
+        "length": 9
+      },
+      {
+        "token": "culcat",
+        "signature": "acltu",
+        "length": 6
+      },
+      {
+        "token": "risc",
+        "signature": "cirs",
+        "length": 4
+      },
+      {
+        "token": "valoare",
+        "signature": "aelorv",
+        "length": 7
+      },
+      {
+        "token": "ucizi",
+        "signature": "ciuz",
+        "length": 5
+      },
+      {
+        "token": "ascultat",
+        "signature": "aclstu",
+        "length": 8
+      },
+      {
+        "token": "culoare",
+        "signature": "aceloru",
+        "length": 7
+      },
+      {
+        "token": "curaj",
+        "signature": "acjru",
+        "length": 5
+      },
+      {
+        "token": "oricând",
+        "signature": "âcdinor",
+        "length": 7
+      },
+      {
+        "token": "anumite",
+        "signature": "aeimntu",
+        "length": 7
+      },
+      {
+        "token": "acceptat",
+        "signature": "acept",
+        "length": 8
+      },
+      {
+        "token": "pământul",
+        "signature": "ăâlmnptu",
+        "length": 8
+      },
+      {
+        "token": "închid",
+        "signature": "cdhiîn",
+        "length": 6
+      },
+      {
+        "token": "întrebarea",
+        "signature": "abeînrt",
+        "length": 10
+      },
+      {
+        "token": "monstru",
+        "signature": "mnorstu",
+        "length": 7
+      },
+      {
+        "token": "deschisă",
+        "signature": "ăcdehis",
+        "length": 8
+      },
+      {
+        "token": "ocupi",
+        "signature": "ciopu",
+        "length": 5
+      },
+      {
+        "token": "destule",
+        "signature": "delstu",
+        "length": 7
+      },
+      {
+        "token": "purtat",
+        "signature": "aprtu",
+        "length": 6
+      },
+      {
+        "token": "cutia",
+        "signature": "acitu",
+        "length": 5
+      },
+      {
+        "token": "acoperire",
+        "signature": "aceiopr",
+        "length": 9
+      },
+      {
+        "token": "oricare",
+        "signature": "aceior",
+        "length": 7
+      },
+      {
+        "token": "sărit",
+        "signature": "ăirst",
+        "length": 5
+      },
+      {
+        "token": "est",
+        "signature": "est",
+        "length": 3
+      },
+      {
+        "token": "părăsi",
+        "signature": "ăiprs",
+        "length": 6
+      },
+      {
+        "token": "deoparte",
+        "signature": "adeoprt",
+        "length": 8
+      },
+      {
+        "token": "păstra",
+        "signature": "aăprst",
+        "length": 6
+      },
+      {
+        "token": "soare",
+        "signature": "aeors",
+        "length": 5
+      },
+      {
+        "token": "suferit",
+        "signature": "efirstu",
+        "length": 7
+      },
+      {
+        "token": "pari",
+        "signature": "aipr",
+        "length": 4
+      },
+      {
+        "token": "fotbal",
+        "signature": "abflot",
+        "length": 6
+      },
+      {
+        "token": "înceapă",
+        "signature": "aăceînp",
+        "length": 7
+      },
+      {
+        "token": "pornit",
+        "signature": "inoprt",
+        "length": 6
+      },
+      {
+        "token": "spart",
+        "signature": "aprst",
+        "length": 5
+      },
+      {
+        "token": "săi",
+        "signature": "ăis",
+        "length": 3
+      },
+      {
+        "token": "discuta",
+        "signature": "acdistu",
+        "length": 7
+      },
+      {
+        "token": "râs",
+        "signature": "ârs",
+        "length": 3
+      },
+      {
+        "token": "miezul",
+        "signature": "eilmuz",
+        "length": 6
+      },
+      {
+        "token": "dragul",
+        "signature": "adglru",
+        "length": 6
+      },
+      {
+        "token": "înnebunit",
+        "signature": "beiîntu",
+        "length": 9
+      },
+      {
+        "token": "știți",
+        "signature": "iștț",
+        "length": 5
+      },
+      {
+        "token": "căsătorie",
+        "signature": "ăceiorst",
+        "length": 9
+      },
+      {
+        "token": "ordinele",
+        "signature": "deilnor",
+        "length": 8
+      },
+      {
+        "token": "urme",
+        "signature": "emru",
+        "length": 4
+      },
+      {
+        "token": "amintești",
+        "signature": "aeimnșt",
+        "length": 9
+      },
+      {
+        "token": "starea",
+        "signature": "aerst",
+        "length": 6
+      },
+      {
+        "token": "referi",
+        "signature": "efir",
+        "length": 6
+      },
+      {
+        "token": "oficial",
+        "signature": "acfilo",
+        "length": 7
+      },
+      {
+        "token": "toții",
+        "signature": "iotț",
+        "length": 5
+      },
+      {
+        "token": "urmele",
+        "signature": "elmru",
+        "length": 6
+      },
+      {
+        "token": "scapă",
+        "signature": "aăcps",
+        "length": 5
+      },
+      {
+        "token": "bunica",
+        "signature": "abcinu",
+        "length": 6
+      },
+      {
+        "token": "teme",
+        "signature": "emt",
+        "length": 4
+      },
+      {
+        "token": "cinste",
+        "signature": "ceinst",
+        "length": 6
+      },
+      {
+        "token": "scap",
+        "signature": "acps",
+        "length": 4
+      },
+      {
+        "token": "semnal",
+        "signature": "aelmns",
+        "length": 6
+      },
+      {
+        "token": "ocupă",
+        "signature": "ăcopu",
+        "length": 5
+      },
+      {
+        "token": "pistolul",
+        "signature": "ilopstu",
+        "length": 8
+      },
+      {
+        "token": "sergent",
+        "signature": "egnrst",
+        "length": 7
+      },
+      {
+        "token": "îngrozitor",
+        "signature": "giînortz",
+        "length": 10
+      },
+      {
+        "token": "urmăresc",
+        "signature": "ăcemrsu",
+        "length": 8
+      },
+      {
+        "token": "judecată",
+        "signature": "aăcdejtu",
+        "length": 8
+      },
+      {
+        "token": "vest",
+        "signature": "estv",
+        "length": 4
+      },
+      {
+        "token": "descurca",
+        "signature": "acdersu",
+        "length": 8
+      },
+      {
+        "token": "refuzat",
+        "signature": "aefrtuz",
+        "length": 7
+      },
+      {
+        "token": "nervos",
+        "signature": "enorsv",
+        "length": 6
+      },
+      {
+        "token": "transformat",
+        "signature": "afmnorst",
+        "length": 11
+      },
+      {
+        "token": "poza",
+        "signature": "aopz",
+        "length": 4
+      },
+      {
+        "token": "pricep",
+        "signature": "ceipr",
+        "length": 6
+      },
+      {
+        "token": "schimbare",
+        "signature": "abcehimrs",
+        "length": 9
+      },
+      {
+        "token": "autobuz",
+        "signature": "abotuz",
+        "length": 7
+      },
+      {
+        "token": "filme",
+        "signature": "efilm",
+        "length": 5
+      },
+      {
+        "token": "vremuri",
+        "signature": "eimruv",
+        "length": 7
+      },
+      {
+        "token": "uiți",
+        "signature": "ițu",
+        "length": 4
+      },
+      {
+        "token": "presupun",
+        "signature": "enprsu",
+        "length": 8
+      },
+      {
+        "token": "aeroport",
+        "signature": "aeoprt",
+        "length": 8
+      },
+      {
+        "token": "chem",
+        "signature": "cehm",
+        "length": 4
+      },
+      {
+        "token": "bărbatul",
+        "signature": "aăblrtu",
+        "length": 8
+      },
+      {
+        "token": "mașină",
+        "signature": "aăimnș",
+        "length": 6
+      },
+      {
+        "token": "prefera",
+        "signature": "aefpr",
+        "length": 7
+      },
+      {
+        "token": "agentul",
+        "signature": "aeglntu",
+        "length": 7
+      },
+      {
+        "token": "minciună",
+        "signature": "ăcimnu",
+        "length": 8
+      },
+      {
+        "token": "durează",
+        "signature": "aăderuz",
+        "length": 7
+      },
+      {
+        "token": "hârtie",
+        "signature": "âehirt",
+        "length": 6
+      },
+      {
+        "token": "folosim",
+        "signature": "filmos",
+        "length": 7
+      },
+      {
+        "token": "mersi",
+        "signature": "eimrs",
+        "length": 5
+      },
+      {
+        "token": "trenul",
+        "signature": "elnrtu",
+        "length": 6
+      },
+      {
+        "token": "lași",
+        "signature": "ailș",
+        "length": 4
+      },
+      {
+        "token": "prindem",
+        "signature": "deimnpr",
+        "length": 7
+      },
+      {
+        "token": "îndoiesc",
+        "signature": "cdeiînos",
+        "length": 8
+      },
+      {
+        "token": "încercare",
+        "signature": "aceînr",
+        "length": 9
+      },
+      {
+        "token": "termine",
+        "signature": "eimnrt",
+        "length": 7
+      },
+      {
+        "token": "dovadă",
+        "signature": "aădov",
+        "length": 6
+      },
+      {
+        "token": "salveze",
+        "signature": "aelsvz",
+        "length": 7
+      },
+      {
+        "token": "bolnavă",
+        "signature": "aăblnov",
+        "length": 7
+      },
+      {
+        "token": "aducem",
+        "signature": "acdemu",
+        "length": 6
+      },
+      {
+        "token": "apropiat",
+        "signature": "aioprt",
+        "length": 8
+      },
+      {
+        "token": "apucat",
+        "signature": "acptu",
+        "length": 6
+      },
+      {
+        "token": "partenerul",
+        "signature": "aelnprtu",
+        "length": 10
+      },
+      {
+        "token": "bagi",
+        "signature": "abgi",
+        "length": 4
+      },
+      {
+        "token": "trecutul",
+        "signature": "celrtu",
+        "length": 8
+      },
+      {
+        "token": "binele",
+        "signature": "beiln",
+        "length": 6
+      },
+      {
+        "token": "învățat",
+        "signature": "aăîntțv",
+        "length": 7
+      },
+      {
+        "token": "alegere",
+        "signature": "aeglr",
+        "length": 7
+      },
+      {
+        "token": "impresia",
+        "signature": "aeimprs",
+        "length": 8
+      },
+      {
+        "token": "propriu",
+        "signature": "iopru",
+        "length": 7
+      },
+      {
+        "token": "dosarul",
+        "signature": "adlorsu",
+        "length": 7
+      },
+      {
+        "token": "centru",
+        "signature": "cenrtu",
+        "length": 6
+      },
+      {
+        "token": "mingea",
+        "signature": "aegimn",
+        "length": 6
+      },
+      {
+        "token": "cântec",
+        "signature": "âcent",
+        "length": 6
+      },
+      {
+        "token": "arunc",
+        "signature": "acnru",
+        "length": 5
+      },
+      {
+        "token": "creier",
+        "signature": "ceir",
+        "length": 6
+      },
+      {
+        "token": "razna",
+        "signature": "anrz",
+        "length": 5
+      },
+      {
+        "token": "ții",
+        "signature": "iț",
+        "length": 3
+      },
+      {
+        "token": "părinte",
+        "signature": "ăeinprt",
+        "length": 7
+      },
+      {
+        "token": "sperăm",
+        "signature": "ăemprs",
+        "length": 6
+      },
+      {
+        "token": "sperie",
+        "signature": "eiprs",
+        "length": 6
+      },
+      {
+        "token": "necazuri",
+        "signature": "aceinruz",
+        "length": 8
+      },
+      {
+        "token": "refer",
+        "signature": "efr",
+        "length": 5
+      },
+      {
+        "token": "veste",
+        "signature": "estv",
+        "length": 5
+      },
+      {
+        "token": "bilet",
+        "signature": "beilt",
+        "length": 5
+      },
+      {
+        "token": "suport",
+        "signature": "oprstu",
+        "length": 6
+      },
+      {
+        "token": "curs",
+        "signature": "crsu",
+        "length": 4
+      },
+      {
+        "token": "pereche",
+        "signature": "cehpr",
+        "length": 7
+      },
+      {
+        "token": "avocatul",
+        "signature": "aclotuv",
+        "length": 8
+      },
+      {
+        "token": "ciocolată",
+        "signature": "aăcilot",
+        "length": 9
+      },
+      {
+        "token": "camere",
+        "signature": "acemr",
+        "length": 6
+      },
+      {
+        "token": "străzi",
+        "signature": "ăirstz",
+        "length": 6
+      },
+      {
+        "token": "imagina",
+        "signature": "agimn",
+        "length": 7
+      },
+      {
+        "token": "scaun",
+        "signature": "acnsu",
+        "length": 5
+      },
+      {
+        "token": "îndreaptă",
+        "signature": "aădeînprt",
+        "length": 9
+      },
+      {
+        "token": "prezent",
+        "signature": "enprtz",
+        "length": 7
+      },
+      {
+        "token": "încercând",
+        "signature": "âcdeînr",
+        "length": 9
+      },
+      {
+        "token": "piept",
+        "signature": "eipt",
+        "length": 5
+      },
+      {
+        "token": "facultate",
+        "signature": "acefltu",
+        "length": 9
+      },
+      {
+        "token": "puncte",
+        "signature": "cenptu",
+        "length": 6
+      },
+      {
+        "token": "devină",
+        "signature": "ădeinv",
+        "length": 6
+      },
+      {
+        "token": "răspund",
+        "signature": "ădnprsu",
+        "length": 7
+      },
+      {
+        "token": "alegi",
+        "signature": "aegil",
+        "length": 5
+      },
+      {
+        "token": "serioasă",
+        "signature": "aăeiors",
+        "length": 8
+      },
+      {
+        "token": "nevinovat",
+        "signature": "aeinotv",
+        "length": 9
+      },
+      {
+        "token": "șase",
+        "signature": "aesș",
+        "length": 4
+      },
+      {
+        "token": "concediat",
+        "signature": "acdeinot",
+        "length": 9
+      },
+      {
+        "token": "având",
+        "signature": "aâdnv",
+        "length": 5
+      },
+      {
+        "token": "ajutăm",
+        "signature": "aăjmtu",
+        "length": 6
+      },
+      {
+        "token": "serie",
+        "signature": "eirs",
+        "length": 5
+      },
+      {
+        "token": "raport",
+        "signature": "aoprt",
+        "length": 6
+      },
+      {
+        "token": "siguri",
+        "signature": "girsu",
+        "length": 6
+      },
+      {
+        "token": "camion",
+        "signature": "acimno",
+        "length": 6
+      },
+      {
+        "token": "raportul",
+        "signature": "aloprtu",
+        "length": 8
+      },
+      {
+        "token": "folos",
+        "signature": "flos",
+        "length": 5
+      },
+      {
+        "token": "permisiunea",
+        "signature": "aeimnprsu",
+        "length": 11
+      },
+      {
+        "token": "stabilit",
+        "signature": "abilst",
+        "length": 8
+      },
+      {
+        "token": "rolul",
+        "signature": "loru",
+        "length": 5
+      },
+      {
+        "token": "comandă",
+        "signature": "aăcdmno",
+        "length": 7
+      },
+      {
+        "token": "mijloc",
+        "signature": "cijlmo",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "ghicit",
+        "signature": "cghit",
+        "length": 6
+      },
+      {
+        "token": "magică",
+        "signature": "aăcgim",
+        "length": 6
+      },
+      {
+        "token": "activitatea",
+        "signature": "aceitv",
+        "length": 11
+      },
+      {
+        "token": "femeii",
+        "signature": "efim",
+        "length": 6
+      },
+      {
+        "token": "dobitoc",
+        "signature": "bcdiot",
+        "length": 7
+      },
+      {
+        "token": "nevoile",
+        "signature": "eilnov",
+        "length": 7
+      },
+      {
+        "token": "pregătiți",
+        "signature": "ăegiprtț",
+        "length": 9
+      },
+      {
+        "token": "întinde",
+        "signature": "deiînt",
+        "length": 7
+      },
+      {
+        "token": "supa",
+        "signature": "apsu",
+        "length": 4
+      },
+      {
+        "token": "termenul",
+        "signature": "elmnrtu",
+        "length": 8
+      },
+      {
+        "token": "infectat",
+        "signature": "acefint",
+        "length": 8
+      },
+      {
+        "token": "haină",
+        "signature": "aăhin",
+        "length": 5
+      },
+      {
+        "token": "arestare",
+        "signature": "aerst",
+        "length": 8
+      },
+      {
+        "token": "vitreg",
+        "signature": "egirtv",
+        "length": 6
+      },
+      {
+        "token": "aprilie",
+        "signature": "aeilpr",
+        "length": 7
+      },
+      {
+        "token": "locui",
+        "signature": "cilou",
+        "length": 5
+      },
+      {
+        "token": "demn",
+        "signature": "demn",
+        "length": 4
+      },
+      {
+        "token": "fato",
+        "signature": "afot",
+        "length": 4
+      },
+      {
+        "token": "disperare",
+        "signature": "adeiprs",
+        "length": 9
+      },
+      {
+        "token": "ceruri",
+        "signature": "ceiru",
+        "length": 6
+      },
+      {
+        "token": "ostatici",
+        "signature": "aciost",
+        "length": 8
+      },
+      {
+        "token": "executat",
+        "signature": "acetux",
+        "length": 8
+      },
+      {
+        "token": "respecta",
+        "signature": "aceprst",
+        "length": 8
+      },
+      {
+        "token": "alegem",
+        "signature": "aeglm",
+        "length": 6
+      },
+      {
+        "token": "refuză",
+        "signature": "ăefruz",
+        "length": 6
+      },
+      {
+        "token": "matematică",
+        "signature": "aăceimt",
+        "length": 10
+      },
+      {
+        "token": "lamă",
+        "signature": "aălm",
+        "length": 4
+      },
+      {
+        "token": "misiuni",
+        "signature": "imnsu",
+        "length": 7
+      },
+      {
+        "token": "gard",
+        "signature": "adgr",
+        "length": 4
+      },
+      {
+        "token": "resurse",
+        "signature": "ersu",
+        "length": 7
+      },
+      {
+        "token": "simpatic",
+        "signature": "acimpst",
+        "length": 8
+      },
+      {
+        "token": "oi",
+        "signature": "io",
+        "length": 2
+      },
+      {
+        "token": "puștiule",
+        "signature": "eilpștu",
+        "length": 8
+      },
+      {
+        "token": "accesul",
+        "signature": "acelsu",
+        "length": 7
+      },
+      {
+        "token": "biletele",
+        "signature": "beilt",
+        "length": 8
+      },
+      {
+        "token": "leac",
+        "signature": "acel",
+        "length": 4
+      },
+      {
+        "token": "poziție",
+        "signature": "eiopțz",
+        "length": 7
+      },
+      {
+        "token": "alergat",
+        "signature": "aeglrt",
+        "length": 7
+      },
+      {
+        "token": "bucătar",
+        "signature": "aăbcrtu",
+        "length": 7
+      },
+      {
+        "token": "dedicat",
+        "signature": "acdeit",
+        "length": 7
+      },
+      {
+        "token": "cafenea",
+        "signature": "acefn",
+        "length": 7
+      },
+      {
+        "token": "absolvit",
+        "signature": "abilostv",
+        "length": 8
+      },
+      {
+        "token": "președintele",
+        "signature": "deilnprșt",
+        "length": 12
+      },
+      {
+        "token": "tânărul",
+        "signature": "ăâlnrtu",
+        "length": 7
+      },
+      {
+        "token": "înalte",
+        "signature": "aeîlnt",
+        "length": 6
+      },
+      {
+        "token": "respectă",
+        "signature": "ăceprst",
+        "length": 8
+      },
+      {
+        "token": "geloasă",
+        "signature": "aăeglos",
+        "length": 7
+      },
+      {
+        "token": "liftul",
+        "signature": "filtu",
+        "length": 6
+      },
+      {
+        "token": "custodie",
+        "signature": "cdeiostu",
+        "length": 8
+      },
+      {
+        "token": "cablu",
+        "signature": "abclu",
+        "length": 5
+      },
+      {
+        "token": "semna",
+        "signature": "aemns",
+        "length": 5
+      },
+      {
+        "token": "elegant",
+        "signature": "aeglnt",
+        "length": 7
+      },
+      {
+        "token": "otrăvit",
+        "signature": "ăiortv",
+        "length": 7
+      },
+      {
+        "token": "contacta",
+        "signature": "acnot",
+        "length": 8
+      },
+      {
+        "token": "afurisită",
+        "signature": "aăfirstu",
+        "length": 9
+      },
+      {
+        "token": "gaze",
+        "signature": "aegz",
+        "length": 4
+      }
+    ]
+  }
+}

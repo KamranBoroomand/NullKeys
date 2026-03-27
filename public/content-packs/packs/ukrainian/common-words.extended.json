@@ -1,0 +1,7376 @@
+{
+  "packId": "ukrainian:common-words:extended",
+  "languageId": "ukrainian",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1472,
+  "stages": {
+    "foundational": [
+      {
+        "token": "бачу",
+        "signature": "абуч",
+        "length": 4
+      },
+      {
+        "token": "воду",
+        "signature": "вдоу",
+        "length": 4
+      },
+      {
+        "token": "говорити",
+        "signature": "вгиорт",
+        "length": 8
+      },
+      {
+        "token": "дорозі",
+        "signature": "дзіор",
+        "length": 6
+      },
+      {
+        "token": "жаль",
+        "signature": "ажль",
+        "length": 4
+      },
+      {
+        "token": "живе",
+        "signature": "вежи",
+        "length": 4
+      },
+      {
+        "token": "згодом",
+        "signature": "гдзмо",
+        "length": 6
+      },
+      {
+        "token": "інакше",
+        "signature": "аеікнш",
+        "length": 6
+      },
+      {
+        "token": "кому",
+        "signature": "кмоу",
+        "length": 4
+      },
+      {
+        "token": "крок",
+        "signature": "кор",
+        "length": 4
+      },
+      {
+        "token": "ногами",
+        "signature": "агимно",
+        "length": 6
+      },
+      {
+        "token": "повторив",
+        "signature": "виопрт",
+        "length": 8
+      },
+      {
+        "token": "подався",
+        "signature": "авдопся",
+        "length": 7
+      },
+      {
+        "token": "роки",
+        "signature": "икор",
+        "length": 4
+      },
+      {
+        "token": "таким",
+        "signature": "аикмт",
+        "length": 5
+      },
+      {
+        "token": "тіні",
+        "signature": "інт",
+        "length": 4
+      },
+      {
+        "token": "боку",
+        "signature": "бкоу",
+        "length": 4
+      },
+      {
+        "token": "ватаг",
+        "signature": "авгт",
+        "length": 5
+      },
+      {
+        "token": "вуха",
+        "signature": "авух",
+        "length": 4
+      },
+      {
+        "token": "глянув",
+        "signature": "вглнуя",
+        "length": 6
+      },
+      {
+        "token": "грудей",
+        "signature": "гдейру",
+        "length": 6
+      },
+      {
+        "token": "дав",
+        "signature": "авд",
+        "length": 3
+      },
+      {
+        "token": "думати",
+        "signature": "адимту",
+        "length": 6
+      },
+      {
+        "token": "звернувся",
+        "signature": "везнрсуя",
+        "length": 9
+      },
+      {
+        "token": "інше",
+        "signature": "еінш",
+        "length": 4
+      },
+      {
+        "token": "махнув",
+        "signature": "авмнух",
+        "length": 6
+      },
+      {
+        "token": "могли",
+        "signature": "гилмо",
+        "length": 5
+      },
+      {
+        "token": "ніс",
+        "signature": "інс",
+        "length": 3
+      },
+      {
+        "token": "ньому",
+        "signature": "мноуь",
+        "length": 5
+      },
+      {
+        "token": "одразу",
+        "signature": "адзору",
+        "length": 6
+      },
+      {
+        "token": "подивився",
+        "signature": "вдиопся",
+        "length": 9
+      },
+      {
+        "token": "почали",
+        "signature": "аилопч",
+        "length": 6
+      },
+      {
+        "token": "ранку",
+        "signature": "акнру",
+        "length": 5
+      },
+      {
+        "token": "тінь",
+        "signature": "інть",
+        "length": 4
+      },
+      {
+        "token": "усі",
+        "signature": "ісу",
+        "length": 3
+      },
+      {
+        "token": "хочеться",
+        "signature": "еостхчья",
+        "length": 8
+      },
+      {
+        "token": "бачити",
+        "signature": "абитч",
+        "length": 6
+      },
+      {
+        "token": "весело",
+        "signature": "велос",
+        "length": 6
+      },
+      {
+        "token": "волосся",
+        "signature": "влося",
+        "length": 7
+      },
+      {
+        "token": "когось",
+        "signature": "гкось",
+        "length": 6
+      },
+      {
+        "token": "краще",
+        "signature": "аекрщ",
+        "length": 5
+      },
+      {
+        "token": "легше",
+        "signature": "гелш",
+        "length": 5
+      },
+      {
+        "token": "людям",
+        "signature": "длмюя",
+        "length": 5
+      },
+      {
+        "token": "мають",
+        "signature": "амтью",
+        "length": 5
+      },
+      {
+        "token": "мимо",
+        "signature": "имо",
+        "length": 4
+      },
+      {
+        "token": "неба",
+        "signature": "абен",
+        "length": 4
+      },
+      {
+        "token": "ній",
+        "signature": "ійн",
+        "length": 3
+      },
+      {
+        "token": "своєю",
+        "signature": "вєосю",
+        "length": 5
+      },
+      {
+        "token": "своїм",
+        "signature": "вїмос",
+        "length": 5
+      },
+      {
+        "token": "сніг",
+        "signature": "гінс",
+        "length": 4
+      },
+      {
+        "token": "снігу",
+        "signature": "гінсу",
+        "length": 5
+      },
+      {
+        "token": "сталося",
+        "signature": "алостя",
+        "length": 7
+      },
+      {
+        "token": "стати",
+        "signature": "аист",
+        "length": 5
+      },
+      {
+        "token": "страшно",
+        "signature": "анорстш",
+        "length": 7
+      },
+      {
+        "token": "таку",
+        "signature": "акту",
+        "length": 4
+      },
+      {
+        "token": "усіх",
+        "signature": "ісух",
+        "length": 4
+      },
+      {
+        "token": "усміхнувся",
+        "signature": "вімнсухя",
+        "length": 10
+      },
+      {
+        "token": "ходив",
+        "signature": "вдиох",
+        "length": 5
+      },
+      {
+        "token": "брови",
+        "signature": "бвиор",
+        "length": 5
+      },
+      {
+        "token": "всього",
+        "signature": "вгось",
+        "length": 6
+      },
+      {
+        "token": "геть",
+        "signature": "геть",
+        "length": 4
+      },
+      {
+        "token": "голова",
+        "signature": "авгло",
+        "length": 6
+      },
+      {
+        "token": "далеко",
+        "signature": "адекло",
+        "length": 6
+      },
+      {
+        "token": "дівчину",
+        "signature": "вдиінуч",
+        "length": 7
+      },
+      {
+        "token": "довкола",
+        "signature": "авдкло",
+        "length": 7
+      },
+      {
+        "token": "думку",
+        "signature": "дкму",
+        "length": 5
+      },
+      {
+        "token": "земля",
+        "signature": "езлмя",
+        "length": 5
+      },
+      {
+        "token": "знов",
+        "signature": "взно",
+        "length": 4
+      },
+      {
+        "token": "лісі",
+        "signature": "ілс",
+        "length": 4
+      },
+      {
+        "token": "ніг",
+        "signature": "гін",
+        "length": 3
+      },
+      {
+        "token": "око",
+        "signature": "ко",
+        "length": 3
+      },
+      {
+        "token": "пальцями",
+        "signature": "аилмпцья",
+        "length": 8
+      },
+      {
+        "token": "печі",
+        "signature": "еіпч",
+        "length": 4
+      },
+      {
+        "token": "пляшку",
+        "signature": "клпушя",
+        "length": 6
+      },
+      {
+        "token": "прошу",
+        "signature": "опруш",
+        "length": 5
+      },
+      {
+        "token": "розум",
+        "signature": "змору",
+        "length": 5
+      },
+      {
+        "token": "серця",
+        "signature": "ерсця",
+        "length": 5
+      },
+      {
+        "token": "хвилини",
+        "signature": "вилнх",
+        "length": 7
+      },
+      {
+        "token": "якогось",
+        "signature": "гкосья",
+        "length": 7
+      },
+      {
+        "token": "відчував",
+        "signature": "авдіуч",
+        "length": 8
+      },
+      {
+        "token": "волі",
+        "signature": "віло",
+        "length": 4
+      },
+      {
+        "token": "всю",
+        "signature": "всю",
+        "length": 3
+      },
+      {
+        "token": "вчора",
+        "signature": "аворч",
+        "length": 5
+      },
+      {
+        "token": "дверима",
+        "signature": "авдеимр",
+        "length": 7
+      },
+      {
+        "token": "замість",
+        "signature": "азімсть",
+        "length": 7
+      },
+      {
+        "token": "кажу",
+        "signature": "ажку",
+        "length": 4
+      },
+      {
+        "token": "кожного",
+        "signature": "гжкно",
+        "length": 7
+      },
+      {
+        "token": "любов",
+        "signature": "бвлою",
+        "length": 5
+      },
+      {
+        "token": "мала",
+        "signature": "алм",
+        "length": 4
+      },
+      {
+        "token": "мусить",
+        "signature": "имстуь",
+        "length": 6
+      },
+      {
+        "token": "народ",
+        "signature": "аднор",
+        "length": 5
+      },
+      {
+        "token": "наші",
+        "signature": "аінш",
+        "length": 4
+      },
+      {
+        "token": "ногу",
+        "signature": "гноу",
+        "length": 4
+      },
+      {
+        "token": "пальці",
+        "signature": "аілпць",
+        "length": 6
+      },
+      {
+        "token": "почала",
+        "signature": "алопч",
+        "length": 6
+      },
+      {
+        "token": "промовив",
+        "signature": "вимопр",
+        "length": 8
+      },
+      {
+        "token": "скоро",
+        "signature": "корс",
+        "length": 5
+      },
+      {
+        "token": "стане",
+        "signature": "аенст",
+        "length": 5
+      },
+      {
+        "token": "страху",
+        "signature": "арстух",
+        "length": 6
+      },
+      {
+        "token": "тіла",
+        "signature": "аілт",
+        "length": 4
+      },
+      {
+        "token": "чекав",
+        "signature": "авекч",
+        "length": 5
+      },
+      {
+        "token": "будинку",
+        "signature": "бдикну",
+        "length": 7
+      },
+      {
+        "token": "вечора",
+        "signature": "авеорч",
+        "length": 6
+      },
+      {
+        "token": "вулицю",
+        "signature": "вилуцю",
+        "length": 6
+      },
+      {
+        "token": "двоє",
+        "signature": "вдєо",
+        "length": 4
+      },
+      {
+        "token": "дещо",
+        "signature": "деощ",
+        "length": 4
+      },
+      {
+        "token": "духом",
+        "signature": "дмоух",
+        "length": 5
+      },
+      {
+        "token": "зором",
+        "signature": "змор",
+        "length": 5
+      },
+      {
+        "token": "кожному",
+        "signature": "жкмноу",
+        "length": 7
+      },
+      {
+        "token": "крім",
+        "signature": "ікмр",
+        "length": 4
+      },
+      {
+        "token": "людьми",
+        "signature": "дилмью",
+        "length": 6
+      },
+      {
+        "token": "можуть",
+        "signature": "жмотуь",
+        "length": 6
+      },
+      {
+        "token": "намагався",
+        "signature": "авгмнся",
+        "length": 9
+      },
+      {
+        "token": "повернув",
+        "signature": "венопру",
+        "length": 8
+      },
+      {
+        "token": "праці",
+        "signature": "аіпрц",
+        "length": 5
+      },
+      {
+        "token": "річ",
+        "signature": "ірч",
+        "length": 3
+      },
+      {
+        "token": "скелі",
+        "signature": "еіклс",
+        "length": 5
+      },
+      {
+        "token": "скриню",
+        "signature": "икнрсю",
+        "length": 6
+      },
+      {
+        "token": "слів",
+        "signature": "вілс",
+        "length": 4
+      },
+      {
+        "token": "фронт",
+        "signature": "нортф",
+        "length": 5
+      },
+      {
+        "token": "цій",
+        "signature": "ійц",
+        "length": 3
+      },
+      {
+        "token": "бог",
+        "signature": "бго",
+        "length": 3
+      },
+      {
+        "token": "будемо",
+        "signature": "бдемоу",
+        "length": 6
+      },
+      {
+        "token": "відтак",
+        "signature": "авдікт",
+        "length": 6
+      },
+      {
+        "token": "вода",
+        "signature": "авдо",
+        "length": 4
+      },
+      {
+        "token": "думала",
+        "signature": "адлму",
+        "length": 6
+      },
+      {
+        "token": "жив",
+        "signature": "вжи",
+        "length": 3
+      },
+      {
+        "token": "зиркнув",
+        "signature": "взикнру",
+        "length": 7
+      },
+      {
+        "token": "знали",
+        "signature": "азилн",
+        "length": 5
+      },
+      {
+        "token": "зрозумів",
+        "signature": "взімору",
+        "length": 8
+      },
+      {
+        "token": "кинувся",
+        "signature": "викнсуя",
+        "length": 7
+      },
+      {
+        "token": "кожний",
+        "signature": "жийкно",
+        "length": 6
+      },
+      {
+        "token": "край",
+        "signature": "айкр",
+        "length": 4
+      },
+      {
+        "token": "лакей",
+        "signature": "аейкл",
+        "length": 5
+      },
+      {
+        "token": "лежав",
+        "signature": "авежл",
+        "length": 5
+      },
+      {
+        "token": "листи",
+        "signature": "илст",
+        "length": 5
+      },
+      {
+        "token": "місті",
+        "signature": "імст",
+        "length": 5
+      },
+      {
+        "token": "наших",
+        "signature": "аинхш",
+        "length": 5
+      },
+      {
+        "token": "потому",
+        "signature": "мопту",
+        "length": 6
+      },
+      {
+        "token": "своїй",
+        "signature": "вїйос",
+        "length": 5
+      },
+      {
+        "token": "такої",
+        "signature": "аїкот",
+        "length": 5
+      },
+      {
+        "token": "хоче",
+        "signature": "еохч",
+        "length": 4
+      },
+      {
+        "token": "часто",
+        "signature": "аостч",
+        "length": 5
+      },
+      {
+        "token": "біда",
+        "signature": "абді",
+        "length": 4
+      },
+      {
+        "token": "ближче",
+        "signature": "бежилч",
+        "length": 6
+      },
+      {
+        "token": "близько",
+        "signature": "бзиклоь",
+        "length": 7
+      },
+      {
+        "token": "бункера",
+        "signature": "абекнру",
+        "length": 7
+      },
+      {
+        "token": "вперше",
+        "signature": "вепрш",
+        "length": 6
+      },
+      {
+        "token": "всім",
+        "signature": "вімс",
+        "length": 4
+      },
+      {
+        "token": "глибоко",
+        "signature": "бгикло",
+        "length": 7
+      },
+      {
+        "token": "годину",
+        "signature": "гдиноу",
+        "length": 6
+      },
+      {
+        "token": "добра",
+        "signature": "абдор",
+        "length": 5
+      },
+      {
+        "token": "думаючи",
+        "signature": "адимучю",
+        "length": 7
+      },
+      {
+        "token": "запитала",
+        "signature": "азилпт",
+        "length": 8
+      },
+      {
+        "token": "зняв",
+        "signature": "взня",
+        "length": 4
+      },
+      {
+        "token": "зуби",
+        "signature": "бзиу",
+        "length": 4
+      },
+      {
+        "token": "йшов",
+        "signature": "вйош",
+        "length": 4
+      },
+      {
+        "token": "кінець",
+        "signature": "еікнць",
+        "length": 6
+      },
+      {
+        "token": "коло",
+        "signature": "кло",
+        "length": 4
+      },
+      {
+        "token": "краю",
+        "signature": "акрю",
+        "length": 4
+      },
+      {
+        "token": "назустріч",
+        "signature": "азінрстуч",
+        "length": 9
+      },
+      {
+        "token": "нашої",
+        "signature": "аїнош",
+        "length": 5
+      },
+      {
+        "token": "об",
+        "signature": "бо",
+        "length": 2
+      },
+      {
+        "token": "пізно",
+        "signature": "зіноп",
+        "length": 5
+      },
+      {
+        "token": "піти",
+        "signature": "иіпт",
+        "length": 4
+      },
+      {
+        "token": "помітив",
+        "signature": "виімопт",
+        "length": 7
+      },
+      {
+        "token": "правду",
+        "signature": "авдпру",
+        "length": 6
+      },
+      {
+        "token": "розповідав",
+        "signature": "авдзіопр",
+        "length": 10
+      },
+      {
+        "token": "руці",
+        "signature": "іруц",
+        "length": 4
+      },
+      {
+        "token": "селом",
+        "signature": "елмос",
+        "length": 5
+      },
+      {
+        "token": "словом",
+        "signature": "влмос",
+        "length": 6
+      },
+      {
+        "token": "сонця",
+        "signature": "носця",
+        "length": 5
+      },
+      {
+        "token": "спокійно",
+        "signature": "ійкнопс",
+        "length": 8
+      },
+      {
+        "token": "спробував",
+        "signature": "абвопрсу",
+        "length": 9
+      },
+      {
+        "token": "страх",
+        "signature": "арстх",
+        "length": 5
+      },
+      {
+        "token": "тої",
+        "signature": "їот",
+        "length": 3
+      },
+      {
+        "token": "фронту",
+        "signature": "нортуф",
+        "length": 6
+      },
+      {
+        "token": "школи",
+        "signature": "иклош",
+        "length": 5
+      },
+      {
+        "token": "болю",
+        "signature": "блою",
+        "length": 4
+      },
+      {
+        "token": "видко",
+        "signature": "вдико",
+        "length": 5
+      },
+      {
+        "token": "виходу",
+        "signature": "вдиоух",
+        "length": 6
+      },
+      {
+        "token": "гримнув",
+        "signature": "вгимнру",
+        "length": 7
+      },
+      {
+        "token": "губами",
+        "signature": "абгиму",
+        "length": 6
+      },
+      {
+        "token": "доки",
+        "signature": "дико",
+        "length": 4
+      },
+      {
+        "token": "дорога",
+        "signature": "агдор",
+        "length": 6
+      },
+      {
+        "token": "другого",
+        "signature": "гдору",
+        "length": 7
+      },
+      {
+        "token": "думаю",
+        "signature": "адмую",
+        "length": 5
+      },
+      {
+        "token": "запитання",
+        "signature": "азинптя",
+        "length": 9
+      },
+      {
+        "token": "історії",
+        "signature": "іїорст",
+        "length": 7
+      },
+      {
+        "token": "йшли",
+        "signature": "ийлш",
+        "length": 4
+      },
+      {
+        "token": "лишень",
+        "signature": "еилншь",
+        "length": 6
+      },
+      {
+        "token": "маємо",
+        "signature": "аємо",
+        "length": 5
+      },
+      {
+        "token": "маєш",
+        "signature": "аємш",
+        "length": 4
+      },
+      {
+        "token": "мішок",
+        "signature": "ікмош",
+        "length": 5
+      },
+      {
+        "token": "могла",
+        "signature": "аглмо",
+        "length": 5
+      },
+      {
+        "token": "момент",
+        "signature": "емнот",
+        "length": 6
+      },
+      {
+        "token": "натовп",
+        "signature": "авнопт",
+        "length": 6
+      },
+      {
+        "token": "однаково",
+        "signature": "авдкно",
+        "length": 8
+      },
+      {
+        "token": "одначе",
+        "signature": "аденоч",
+        "length": 6
+      },
+      {
+        "token": "поля",
+        "signature": "лопя",
+        "length": 4
+      },
+      {
+        "token": "рушили",
+        "signature": "илруш",
+        "length": 6
+      },
+      {
+        "token": "самого",
+        "signature": "агмос",
+        "length": 6
+      },
+      {
+        "token": "своїми",
+        "signature": "виїмос",
+        "length": 6
+      },
+      {
+        "token": "сину",
+        "signature": "инсу",
+        "length": 4
+      },
+      {
+        "token": "стіл",
+        "signature": "ілст",
+        "length": 4
+      },
+      {
+        "token": "фронті",
+        "signature": "інортф",
+        "length": 6
+      },
+      {
+        "token": "хай",
+        "signature": "айх",
+        "length": 3
+      },
+      {
+        "token": "хвилин",
+        "signature": "вилнх",
+        "length": 6
+      },
+      {
+        "token": "хліб",
+        "signature": "білх",
+        "length": 4
+      },
+      {
+        "token": "хочеш",
+        "signature": "еохчш",
+        "length": 5
+      },
+      {
+        "token": "цілком",
+        "signature": "іклмоц",
+        "length": 6
+      },
+      {
+        "token": "чекати",
+        "signature": "аеиктч",
+        "length": 6
+      },
+      {
+        "token": "якому",
+        "signature": "кмоуя",
+        "length": 5
+      },
+      {
+        "token": "віку",
+        "signature": "віку",
+        "length": 4
+      },
+      {
+        "token": "волю",
+        "signature": "влою",
+        "length": 4
+      },
+      {
+        "token": "воріт",
+        "signature": "віорт",
+        "length": 5
+      },
+      {
+        "token": "впала",
+        "signature": "авлп",
+        "length": 5
+      },
+      {
+        "token": "гімназії",
+        "signature": "агзіїмн",
+        "length": 8
+      },
+      {
+        "token": "господар",
+        "signature": "агдопрс",
+        "length": 8
+      },
+      {
+        "token": "готовий",
+        "signature": "вгийот",
+        "length": 7
+      },
+      {
+        "token": "двадцять",
+        "signature": "авдтцья",
+        "length": 8
+      },
+      {
+        "token": "долі",
+        "signature": "діло",
+        "length": 4
+      },
+      {
+        "token": "заради",
+        "signature": "адзир",
+        "length": 6
+      },
+      {
+        "token": "здавалось",
+        "signature": "авдзлось",
+        "length": 9
+      },
+      {
+        "token": "кажуть",
+        "signature": "ажктуь",
+        "length": 6
+      },
+      {
+        "token": "камінь",
+        "signature": "аікмнь",
+        "length": 6
+      },
+      {
+        "token": "ким",
+        "signature": "икм",
+        "length": 3
+      },
+      {
+        "token": "кінці",
+        "signature": "ікнц",
+        "length": 5
+      },
+      {
+        "token": "крові",
+        "signature": "вікор",
+        "length": 5
+      },
+      {
+        "token": "лицем",
+        "signature": "еилмц",
+        "length": 5
+      },
+      {
+        "token": "місто",
+        "signature": "імост",
+        "length": 5
+      },
+      {
+        "token": "мовби",
+        "signature": "бвимо",
+        "length": 5
+      },
+      {
+        "token": "можливо",
+        "signature": "вжилмо",
+        "length": 7
+      },
+      {
+        "token": "моїй",
+        "signature": "їймо",
+        "length": 4
+      },
+      {
+        "token": "молодиця",
+        "signature": "дилмоця",
+        "length": 8
+      },
+      {
+        "token": "нехай",
+        "signature": "аейнх",
+        "length": 5
+      },
+      {
+        "token": "нікому",
+        "signature": "ікмноу",
+        "length": 6
+      },
+      {
+        "token": "ніщо",
+        "signature": "інощ",
+        "length": 4
+      },
+      {
+        "token": "обох",
+        "signature": "бох",
+        "length": 4
+      },
+      {
+        "token": "оглянувся",
+        "signature": "вглносуя",
+        "length": 9
+      },
+      {
+        "token": "одно",
+        "signature": "дно",
+        "length": 4
+      },
+      {
+        "token": "оком",
+        "signature": "кмо",
+        "length": 4
+      },
+      {
+        "token": "очевидно",
+        "signature": "вдеиноч",
+        "length": 8
+      },
+      {
+        "token": "писав",
+        "signature": "авипс",
+        "length": 5
+      },
+      {
+        "token": "підійшов",
+        "signature": "вдійопш",
+        "length": 8
+      },
+      {
+        "token": "пішли",
+        "signature": "иілпш",
+        "length": 5
+      },
+      {
+        "token": "поза",
+        "signature": "азоп",
+        "length": 4
+      },
+      {
+        "token": "пробурмотів",
+        "signature": "бвімопрту",
+        "length": 11
+      },
+      {
+        "token": "самому",
+        "signature": "амосу",
+        "length": 6
+      },
+      {
+        "token": "справа",
+        "signature": "авпрс",
+        "length": 6
+      },
+      {
+        "token": "стільки",
+        "signature": "иіклсть",
+        "length": 7
+      },
+      {
+        "token": "сто",
+        "signature": "ост",
+        "length": 3
+      },
+      {
+        "token": "уваги",
+        "signature": "авгиу",
+        "length": 5
+      },
+      {
+        "token": "уздовж",
+        "signature": "вджзоу",
+        "length": 6
+      },
+      {
+        "token": "уста",
+        "signature": "асту",
+        "length": 4
+      },
+      {
+        "token": "швидше",
+        "signature": "вдеиш",
+        "length": 6
+      },
+      {
+        "token": "якесь",
+        "signature": "ексья",
+        "length": 5
+      },
+      {
+        "token": "армії",
+        "signature": "аіїмр",
+        "length": 5
+      },
+      {
+        "token": "будеш",
+        "signature": "бдеуш",
+        "length": 5
+      },
+      {
+        "token": "вийшла",
+        "signature": "авийлш",
+        "length": 6
+      },
+      {
+        "token": "вранці",
+        "signature": "авінрц",
+        "length": 6
+      },
+      {
+        "token": "встиг",
+        "signature": "вгист",
+        "length": 5
+      },
+      {
+        "token": "горах",
+        "signature": "агорх",
+        "length": 5
+      },
+      {
+        "token": "дверях",
+        "signature": "вдерхя",
+        "length": 6
+      },
+      {
+        "token": "долонями",
+        "signature": "дилмноя",
+        "length": 8
+      },
+      {
+        "token": "запах",
+        "signature": "азпх",
+        "length": 5
+      },
+      {
+        "token": "зброю",
+        "signature": "бзорю",
+        "length": 5
+      },
+      {
+        "token": "звівся",
+        "signature": "взіся",
+        "length": 6
+      },
+      {
+        "token": "зупинився",
+        "signature": "взинпсуя",
+        "length": 9
+      },
+      {
+        "token": "їсти",
+        "signature": "иїст",
+        "length": 4
+      },
+      {
+        "token": "кишені",
+        "signature": "еиікнш",
+        "length": 6
+      },
+      {
+        "token": "коліна",
+        "signature": "аіклно",
+        "length": 6
+      },
+      {
+        "token": "коси",
+        "signature": "икос",
+        "length": 4
+      },
+      {
+        "token": "кроків",
+        "signature": "вікор",
+        "length": 6
+      },
+      {
+        "token": "кухні",
+        "signature": "ікнух",
+        "length": 5
+      },
+      {
+        "token": "літ",
+        "signature": "ілт",
+        "length": 3
+      },
+      {
+        "token": "любить",
+        "signature": "билтью",
+        "length": 6
+      },
+      {
+        "token": "менше",
+        "signature": "емнш",
+        "length": 5
+      },
+      {
+        "token": "писати",
+        "signature": "аипст",
+        "length": 6
+      },
+      {
+        "token": "повинні",
+        "signature": "виіноп",
+        "length": 7
+      },
+      {
+        "token": "почув",
+        "signature": "вопуч",
+        "length": 5
+      },
+      {
+        "token": "прокинувся",
+        "signature": "викнопрсуя",
+        "length": 10
+      },
+      {
+        "token": "професор",
+        "signature": "еопрсф",
+        "length": 8
+      },
+      {
+        "token": "розмови",
+        "signature": "взимор",
+        "length": 7
+      },
+      {
+        "token": "розмову",
+        "signature": "взмору",
+        "length": 7
+      },
+      {
+        "token": "розумію",
+        "signature": "зіморую",
+        "length": 7
+      },
+      {
+        "token": "серцем",
+        "signature": "емрсц",
+        "length": 6
+      },
+      {
+        "token": "серці",
+        "signature": "еірсц",
+        "length": 5
+      },
+      {
+        "token": "скрикнула",
+        "signature": "аиклнрсу",
+        "length": 9
+      },
+      {
+        "token": "солдатів",
+        "signature": "авділост",
+        "length": 8
+      },
+      {
+        "token": "твоя",
+        "signature": "вотя",
+        "length": 4
+      },
+      {
+        "token": "хіба",
+        "signature": "абіх",
+        "length": 4
+      },
+      {
+        "token": "чекає",
+        "signature": "аеєкч",
+        "length": 5
+      },
+      {
+        "token": "чотири",
+        "signature": "иортч",
+        "length": 6
+      },
+      {
+        "token": "адже",
+        "signature": "адеж",
+        "length": 4
+      },
+      {
+        "token": "батьків",
+        "signature": "абвікть",
+        "length": 7
+      },
+      {
+        "token": "бачили",
+        "signature": "абилч",
+        "length": 6
+      },
+      {
+        "token": "бога",
+        "signature": "абго",
+        "length": 4
+      },
+      {
+        "token": "великі",
+        "signature": "веиікл",
+        "length": 6
+      },
+      {
+        "token": "відповідь",
+        "signature": "вдіопь",
+        "length": 9
+      },
+      {
+        "token": "години",
+        "signature": "гдино",
+        "length": 6
+      },
+      {
+        "token": "гуцули",
+        "signature": "гилуц",
+        "length": 6
+      },
+      {
+        "token": "дати",
+        "signature": "адит",
+        "length": 4
+      },
+      {
+        "token": "дівчина",
+        "signature": "авдиінч",
+        "length": 7
+      },
+      {
+        "token": "доля",
+        "signature": "длоя",
+        "length": 4
+      },
+      {
+        "token": "дому",
+        "signature": "дмоу",
+        "length": 4
+      },
+      {
+        "token": "дух",
+        "signature": "дух",
+        "length": 3
+      },
+      {
+        "token": "історію",
+        "signature": "іорстю",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "четверо",
+        "signature": "веортч",
+        "length": 7
+      },
+      {
+        "token": "щаслива",
+        "signature": "авилсщ",
+        "length": 7
+      },
+      {
+        "token": "щойно",
+        "signature": "йнощ",
+        "length": 5
+      },
+      {
+        "token": "бажання",
+        "signature": "абжня",
+        "length": 7
+      },
+      {
+        "token": "бесіду",
+        "signature": "бдеісу",
+        "length": 6
+      },
+      {
+        "token": "бити",
+        "signature": "бит",
+        "length": 4
+      },
+      {
+        "token": "боятися",
+        "signature": "биостя",
+        "length": 7
+      },
+      {
+        "token": "вбити",
+        "signature": "бвит",
+        "length": 5
+      },
+      {
+        "token": "вдруге",
+        "signature": "вгдеру",
+        "length": 6
+      },
+      {
+        "token": "взяти",
+        "signature": "взитя",
+        "length": 5
+      },
+      {
+        "token": "вино",
+        "signature": "вино",
+        "length": 4
+      },
+      {
+        "token": "вирвався",
+        "signature": "авирся",
+        "length": 8
+      },
+      {
+        "token": "високо",
+        "signature": "викос",
+        "length": 6
+      },
+      {
+        "token": "витер",
+        "signature": "веирт",
+        "length": 5
+      },
+      {
+        "token": "відкрив",
+        "signature": "вдиікр",
+        "length": 7
+      },
+      {
+        "token": "відпочити",
+        "signature": "вдиіоптч",
+        "length": 9
+      },
+      {
+        "token": "відро",
+        "signature": "вдіор",
+        "length": 5
+      },
+      {
+        "token": "війт",
+        "signature": "війт",
+        "length": 4
+      },
+      {
+        "token": "вірити",
+        "signature": "виірт",
+        "length": 6
+      },
+      {
+        "token": "вітру",
+        "signature": "вірту",
+        "length": 5
+      },
+      {
+        "token": "воді",
+        "signature": "вдіо",
+        "length": 4
+      },
+      {
+        "token": "воювати",
+        "signature": "авиотю",
+        "length": 7
+      },
+      {
+        "token": "втекти",
+        "signature": "веикт",
+        "length": 6
+      },
+      {
+        "token": "вулицях",
+        "signature": "вилухця",
+        "length": 7
+      },
+      {
+        "token": "вуса",
+        "signature": "авсу",
+        "length": 4
+      },
+      {
+        "token": "газету",
+        "signature": "агезту",
+        "length": 6
+      },
+      {
+        "token": "галас",
+        "signature": "аглс",
+        "length": 5
+      },
+      {
+        "token": "гірше",
+        "signature": "геірш",
+        "length": 5
+      },
+      {
+        "token": "гість",
+        "signature": "гість",
+        "length": 5
+      },
+      {
+        "token": "глянути",
+        "signature": "гилнтуя",
+        "length": 7
+      },
+      {
+        "token": "година",
+        "signature": "агдино",
+        "length": 6
+      },
+      {
+        "token": "голосу",
+        "signature": "глосу",
+        "length": 6
+      },
+      {
+        "token": "господарем",
+        "signature": "агдемопрс",
+        "length": 10
+      },
+      {
+        "token": "грім",
+        "signature": "гімр",
+        "length": 4
+      },
+      {
+        "token": "дають",
+        "signature": "адтью",
+        "length": 5
+      },
+      {
+        "token": "дивилася",
+        "signature": "авдился",
+        "length": 8
+      },
+      {
+        "token": "дитина",
+        "signature": "адинт",
+        "length": 6
+      },
+      {
+        "token": "дівка",
+        "signature": "авдік",
+        "length": 5
+      },
+      {
+        "token": "дівчата",
+        "signature": "авдітч",
+        "length": 7
+      },
+      {
+        "token": "дійшов",
+        "signature": "вдійош",
+        "length": 6
+      },
+      {
+        "token": "дім",
+        "signature": "дім",
+        "length": 3
+      },
+      {
+        "token": "довгий",
+        "signature": "вгдийо",
+        "length": 6
+      },
+      {
+        "token": "докором",
+        "signature": "дкмор",
+        "length": 7
+      },
+      {
+        "token": "допомогти",
+        "signature": "гдимопт",
+        "length": 9
+      },
+      {
+        "token": "другій",
+        "signature": "гдійру",
+        "length": 6
+      },
+      {
+        "token": "друзі",
+        "signature": "дзіру",
+        "length": 5
+      },
+      {
+        "token": "друкарні",
+        "signature": "адікнру",
+        "length": 8
+      },
+      {
+        "token": "жила",
+        "signature": "ажил",
+        "length": 4
+      },
+      {
+        "token": "жінкою",
+        "signature": "жікною",
+        "length": 6
+      },
+      {
+        "token": "жінці",
+        "signature": "жінц",
+        "length": 5
+      },
+      {
+        "token": "жодного",
+        "signature": "гджно",
+        "length": 7
+      },
+      {
+        "token": "завгодно",
+        "signature": "авгдзно",
+        "length": 8
+      },
+      {
+        "token": "задумі",
+        "signature": "адзіму",
+        "length": 6
+      },
+      {
+        "token": "закурив",
+        "signature": "авзикру",
+        "length": 7
+      },
+      {
+        "token": "залі",
+        "signature": "азіл",
+        "length": 4
+      },
+      {
+        "token": "заперечливо",
+        "signature": "авезилопрч",
+        "length": 11
+      },
+      {
+        "token": "застиг",
+        "signature": "агзист",
+        "length": 6
+      },
+      {
+        "token": "зауважив",
+        "signature": "авжзиу",
+        "length": 8
+      },
+      {
+        "token": "заховав",
+        "signature": "авзох",
+        "length": 7
+      },
+      {
+        "token": "зблід",
+        "signature": "бдзіл",
+        "length": 5
+      },
+      {
+        "token": "зверху",
+        "signature": "везрух",
+        "length": 6
+      },
+      {
+        "token": "згадувати",
+        "signature": "авгдзиту",
+        "length": 9
+      },
+      {
+        "token": "здавався",
+        "signature": "авдзся",
+        "length": 8
+      },
+      {
+        "token": "здригнувся",
+        "signature": "вгдзинрсуя",
+        "length": 10
+      },
+      {
+        "token": "зміг",
+        "signature": "гзім",
+        "length": 4
+      },
+      {
+        "token": "знайду",
+        "signature": "адзйну",
+        "length": 6
+      },
+      {
+        "token": "знайомий",
+        "signature": "азиймно",
+        "length": 8
+      },
+      {
+        "token": "зненацька",
+        "signature": "аезкнць",
+        "length": 9
+      },
+      {
+        "token": "їхні",
+        "signature": "іїнх",
+        "length": 4
+      },
+      {
+        "token": "йди",
+        "signature": "дий",
+        "length": 3
+      },
+      {
+        "token": "казали",
+        "signature": "азикл",
+        "length": 6
+      },
+      {
+        "token": "камери",
+        "signature": "аеикмр",
+        "length": 6
+      },
+      {
+        "token": "кінь",
+        "signature": "ікнь",
+        "length": 4
+      },
+      {
+        "token": "клуб",
+        "signature": "бклу",
+        "length": 4
+      },
+      {
+        "token": "кобилу",
+        "signature": "биклоу",
+        "length": 6
+      },
+      {
+        "token": "колишній",
+        "signature": "иійклнош",
+        "length": 8
+      },
+      {
+        "token": "комусь",
+        "signature": "кмосуь",
+        "length": 6
+      },
+      {
+        "token": "конверт",
+        "signature": "векнорт",
+        "length": 7
+      },
+      {
+        "token": "кроком",
+        "signature": "кмор",
+        "length": 6
+      },
+      {
+        "token": "кулаками",
+        "signature": "аиклму",
+        "length": 8
+      },
+      {
+        "token": "культури",
+        "signature": "иклртуь",
+        "length": 8
+      },
+      {
+        "token": "куток",
+        "signature": "коту",
+        "length": 5
+      },
+      {
+        "token": "лаві",
+        "signature": "авіл",
+        "length": 4
+      },
+      {
+        "token": "лад",
+        "signature": "адл",
+        "length": 3
+      },
+      {
+        "token": "лакея",
+        "signature": "аекля",
+        "length": 5
+      },
+      {
+        "token": "лежить",
+        "signature": "ежилть",
+        "length": 6
+      },
+      {
+        "token": "любити",
+        "signature": "билтю",
+        "length": 6
+      },
+      {
+        "token": "людська",
+        "signature": "адклсью",
+        "length": 7
+      },
+      {
+        "token": "майбутнє",
+        "signature": "абєймнту",
+        "length": 8
+      },
+      {
+        "token": "мила",
+        "signature": "аилм",
+        "length": 4
+      },
+      {
+        "token": "міркував",
+        "signature": "авікмру",
+        "length": 8
+      },
+      {
+        "token": "молитву",
+        "signature": "вилмоту",
+        "length": 7
+      },
+      {
+        "token": "мріяв",
+        "signature": "вімря",
+        "length": 5
+      },
+      {
+        "token": "мури",
+        "signature": "имру",
+        "length": 4
+      },
+      {
+        "token": "наблизився",
+        "signature": "абвзилнся",
+        "length": 10
+      },
+      {
+        "token": "надовго",
+        "signature": "авгдно",
+        "length": 7
+      },
+      {
+        "token": "назвав",
+        "signature": "авзн",
+        "length": 6
+      },
+      {
+        "token": "наприклад",
+        "signature": "адиклнпр",
+        "length": 9
+      },
+      {
+        "token": "небезпечно",
+        "signature": "безнопч",
+        "length": 10
+      },
+      {
+        "token": "ненавистю",
+        "signature": "авеинстю",
+        "length": 9
+      },
+      {
+        "token": "неспокійно",
+        "signature": "еійкнопс",
+        "length": 10
+      },
+      {
+        "token": "новий",
+        "signature": "вийно",
+        "length": 5
+      },
+      {
+        "token": "ночувати",
+        "signature": "авинотуч",
+        "length": 8
+      },
+      {
+        "token": "ну",
+        "signature": "ну",
+        "length": 2
+      },
+      {
+        "token": "обставин",
+        "signature": "абвиност",
+        "length": 8
+      },
+      {
+        "token": "одної",
+        "signature": "дїно",
+        "length": 5
+      },
+      {
+        "token": "ока",
+        "signature": "ако",
+        "length": 3
+      },
+      {
+        "token": "ослін",
+        "signature": "ілнос",
+        "length": 5
+      },
+      {
+        "token": "останній",
+        "signature": "аійност",
+        "length": 8
+      },
+      {
+        "token": "останню",
+        "signature": "аностю",
+        "length": 7
+      },
+      {
+        "token": "отже",
+        "signature": "ежот",
+        "length": 4
+      },
+      {
+        "token": "ото",
+        "signature": "от",
+        "length": 3
+      },
+      {
+        "token": "пана",
+        "signature": "анп",
+        "length": 4
+      },
+      {
+        "token": "пани",
+        "signature": "аинп",
+        "length": 4
+      },
+      {
+        "token": "паперу",
+        "signature": "аепру",
+        "length": 6
+      },
+      {
+        "token": "партії",
+        "signature": "аіїпрт",
+        "length": 6
+      },
+      {
+        "token": "передав",
+        "signature": "авдепр",
+        "length": 7
+      },
+      {
+        "token": "перепитав",
+        "signature": "авеипрт",
+        "length": 9
+      },
+      {
+        "token": "першої",
+        "signature": "еїопрш",
+        "length": 6
+      },
+      {
+        "token": "пили",
+        "signature": "илп",
+        "length": 4
+      },
+      {
+        "token": "підворіття",
+        "signature": "вдіопртя",
+        "length": 10
+      },
+      {
+        "token": "підняла",
+        "signature": "аділнпя",
+        "length": 7
+      },
+      {
+        "token": "побалакати",
+        "signature": "абиклопт",
+        "length": 10
+      },
+      {
+        "token": "побачили",
+        "signature": "абилопч",
+        "length": 8
+      },
+      {
+        "token": "повела",
+        "signature": "авелоп",
+        "length": 6
+      },
+      {
+        "token": "погляду",
+        "signature": "гдлопуя",
+        "length": 7
+      },
+      {
+        "token": "погрозливо",
+        "signature": "вгзилопр",
+        "length": 10
+      },
+      {
+        "token": "позад",
+        "signature": "адзоп",
+        "length": 5
+      },
+      {
+        "token": "політики",
+        "signature": "иіклопт",
+        "length": 8
+      },
+      {
+        "token": "поліцай",
+        "signature": "аійлопц",
+        "length": 7
+      },
+      {
+        "token": "поміж",
+        "signature": "жімоп",
+        "length": 5
+      },
+      {
+        "token": "попередив",
+        "signature": "вдеиопр",
+        "length": 9
+      },
+      {
+        "token": "попереду",
+        "signature": "деопру",
+        "length": 8
+      },
+      {
+        "token": "поправив",
+        "signature": "авиопр",
+        "length": 8
+      },
+      {
+        "token": "потом",
+        "signature": "мопт",
+        "length": 5
+      },
+      {
+        "token": "почало",
+        "signature": "алопч",
+        "length": 6
+      },
+      {
+        "token": "починав",
+        "signature": "авинопч",
+        "length": 7
+      },
+      {
+        "token": "почулося",
+        "signature": "лопсучя",
+        "length": 8
+      },
+      {
+        "token": "правди",
+        "signature": "авдипр",
+        "length": 6
+      },
+      {
+        "token": "принесла",
+        "signature": "аеилнпрс",
+        "length": 8
+      },
+      {
+        "token": "принесу",
+        "signature": "еинпрсу",
+        "length": 7
+      },
+      {
+        "token": "приходив",
+        "signature": "вдиопрх",
+        "length": 8
+      },
+      {
+        "token": "прошепотіла",
+        "signature": "аеілопртш",
+        "length": 11
+      },
+      {
+        "token": "пустився",
+        "signature": "випстуя",
+        "length": 8
+      },
+      {
+        "token": "пшениці",
+        "signature": "еиінпцш",
+        "length": 7
+      },
+      {
+        "token": "радість",
+        "signature": "адірсть",
+        "length": 7
+      },
+      {
+        "token": "рацію",
+        "signature": "аірцю",
+        "length": 5
+      },
+      {
+        "token": "революція",
+        "signature": "веілорцюя",
+        "length": 9
+      },
+      {
+        "token": "ридання",
+        "signature": "адинря",
+        "length": 7
+      },
+      {
+        "token": "річки",
+        "signature": "иікрч",
+        "length": 5
+      },
+      {
+        "token": "роблять",
+        "signature": "блортья",
+        "length": 7
+      },
+      {
+        "token": "родини",
+        "signature": "динор",
+        "length": 6
+      },
+      {
+        "token": "розсердився",
+        "signature": "вдезиорся",
+        "length": 11
+      },
+      {
+        "token": "роті",
+        "signature": "іорт",
+        "length": 4
+      },
+      {
+        "token": "рушила",
+        "signature": "аилруш",
+        "length": 6
+      },
+      {
+        "token": "сад",
+        "signature": "адс",
+        "length": 3
+      },
+      {
+        "token": "самий",
+        "signature": "аиймс",
+        "length": 5
+      },
+      {
+        "token": "секунду",
+        "signature": "декнсу",
+        "length": 7
+      },
+      {
+        "token": "силою",
+        "signature": "илосю",
+        "length": 5
+      },
+      {
+        "token": "сіна",
+        "signature": "аінс",
+        "length": 4
+      },
+      {
+        "token": "скажеш",
+        "signature": "аежксш",
+        "length": 6
+      },
+      {
+        "token": "склянку",
+        "signature": "клнсуя",
+        "length": 7
+      },
+      {
+        "token": "сміхом",
+        "signature": "імосх",
+        "length": 6
+      },
+      {
+        "token": "совість",
+        "signature": "віость",
+        "length": 7
+      },
+      {
+        "token": "солдата",
+        "signature": "адлост",
+        "length": 7
+      },
+      {
+        "token": "сорочки",
+        "signature": "икорсч",
+        "length": 7
+      },
+      {
+        "token": "спитала",
+        "signature": "аилпст",
+        "length": 7
+      },
+      {
+        "token": "способом",
+        "signature": "бмопс",
+        "length": 8
+      },
+      {
+        "token": "справи",
+        "signature": "авипрс",
+        "length": 6
+      },
+      {
+        "token": "справу",
+        "signature": "авпрсу",
+        "length": 6
+      },
+      {
+        "token": "стані",
+        "signature": "аінст",
+        "length": 5
+      },
+      {
+        "token": "старого",
+        "signature": "агорст",
+        "length": 7
+      },
+      {
+        "token": "такою",
+        "signature": "акотю",
+        "length": 5
+      },
+      {
+        "token": "темні",
+        "signature": "еімнт",
+        "length": 5
+      },
+      {
+        "token": "тікати",
+        "signature": "аиікт",
+        "length": 6
+      },
+      {
+        "token": "толоці",
+        "signature": "ілотц",
+        "length": 6
+      },
+      {
+        "token": "тремтячими",
+        "signature": "еимртчя",
+        "length": 10
+      },
+      {
+        "token": "тридцять",
+        "signature": "диртцья",
+        "length": 8
+      },
+      {
+        "token": "устах",
+        "signature": "астух",
+        "length": 5
+      },
+      {
+        "token": "хвильку",
+        "signature": "виклухь",
+        "length": 7
+      },
+      {
+        "token": "ховаючи",
+        "signature": "авиохчю",
+        "length": 7
+      },
+      {
+        "token": "циган",
+        "signature": "агинц",
+        "length": 5
+      },
+      {
+        "token": "цією",
+        "signature": "єіцю",
+        "length": 4
+      },
+      {
+        "token": "частіше",
+        "signature": "аеістчш",
+        "length": 7
+      },
+      {
+        "token": "чекання",
+        "signature": "аекнчя",
+        "length": 7
+      },
+      {
+        "token": "червоні",
+        "signature": "веінорч",
+        "length": 7
+      },
+      {
+        "token": "чимось",
+        "signature": "имосчь",
+        "length": 6
+      },
+      {
+        "token": "читала",
+        "signature": "аилтч",
+        "length": 6
+      },
+      {
+        "token": "читати",
+        "signature": "аитч",
+        "length": 6
+      },
+      {
+        "token": "чужий",
+        "signature": "жийуч",
+        "length": 5
+      },
+      {
+        "token": "чула",
+        "signature": "алуч",
+        "length": 4
+      },
+      {
+        "token": "школу",
+        "signature": "клоуш",
+        "length": 5
+      },
+      {
+        "token": "штовхнув",
+        "signature": "внотухш",
+        "length": 8
+      },
+      {
+        "token": "били",
+        "signature": "бил",
+        "length": 4
+      },
+      {
+        "token": "бій",
+        "signature": "бій",
+        "length": 3
+      },
+      {
+        "token": "богом",
+        "signature": "бгмо",
+        "length": 5
+      },
+      {
+        "token": "боків",
+        "signature": "бвіко",
+        "length": 5
+      },
+      {
+        "token": "бояться",
+        "signature": "бостья",
+        "length": 7
+      },
+      {
+        "token": "ваше",
+        "signature": "авеш",
+        "length": 4
+      },
+      {
+        "token": "ввечері",
+        "signature": "веірч",
+        "length": 7
+      },
+      {
+        "token": "веде",
+        "signature": "вде",
+        "length": 4
+      },
+      {
+        "token": "вела",
+        "signature": "авел",
+        "length": 4
+      },
+      {
+        "token": "верхи",
+        "signature": "веирх",
+        "length": 5
+      },
+      {
+        "token": "весну",
+        "signature": "венсу",
+        "length": 5
+      },
+      {
+        "token": "вечері",
+        "signature": "веірч",
+        "length": 6
+      },
+      {
+        "token": "вибрався",
+        "signature": "абвирся",
+        "length": 8
+      },
+      {
+        "token": "видів",
+        "signature": "вдиі",
+        "length": 5
+      },
+      {
+        "token": "виїхав",
+        "signature": "авиїх",
+        "length": 6
+      },
+      {
+        "token": "висів",
+        "signature": "виіс",
+        "length": 5
+      },
+      {
+        "token": "відступив",
+        "signature": "вдиіпсту",
+        "length": 9
+      },
+      {
+        "token": "війною",
+        "signature": "війною",
+        "length": 6
+      },
+      {
+        "token": "вікні",
+        "signature": "вікн",
+        "length": 5
+      },
+      {
+        "token": "вірю",
+        "signature": "вірю",
+        "length": 4
+      },
+      {
+        "token": "вовки",
+        "signature": "вико",
+        "length": 5
+      },
+      {
+        "token": "впали",
+        "signature": "авилп",
+        "length": 5
+      },
+      {
+        "token": "впасти",
+        "signature": "авипст",
+        "length": 6
+      },
+      {
+        "token": "впізнав",
+        "signature": "авзінп",
+        "length": 7
+      },
+      {
+        "token": "враження",
+        "signature": "авежнря",
+        "length": 8
+      },
+      {
+        "token": "всяку",
+        "signature": "вксуя",
+        "length": 5
+      },
+      {
+        "token": "втікати",
+        "signature": "авиікт",
+        "length": 7
+      },
+      {
+        "token": "втрачає",
+        "signature": "авєртч",
+        "length": 7
+      },
+      {
+        "token": "вухом",
+        "signature": "вмоух",
+        "length": 5
+      },
+      {
+        "token": "гадку",
+        "signature": "агдку",
+        "length": 5
+      },
+      {
+        "token": "гір",
+        "signature": "гір",
+        "length": 3
+      },
+      {
+        "token": "говорила",
+        "signature": "авгилор",
+        "length": 8
+      },
+      {
+        "token": "годин",
+        "signature": "гдино",
+        "length": 5
+      },
+      {
+        "token": "голоси",
+        "signature": "гилос",
+        "length": 6
+      },
+      {
+        "token": "гра",
+        "signature": "агр",
+        "length": 3
+      },
+      {
+        "token": "громади",
+        "signature": "агдимор",
+        "length": 7
+      },
+      {
+        "token": "двічі",
+        "signature": "вдіч",
+        "length": 5
+      },
+      {
+        "token": "дерев",
+        "signature": "вдер",
+        "length": 5
+      },
+      {
+        "token": "десятки",
+        "signature": "деикстя",
+        "length": 7
+      },
+      {
+        "token": "дитину",
+        "signature": "динту",
+        "length": 6
+      },
+      {
+        "token": "дівчинка",
+        "signature": "авдиікнч",
+        "length": 8
+      },
+      {
+        "token": "діється",
+        "signature": "дєістья",
+        "length": 7
+      },
+      {
+        "token": "доби",
+        "signature": "бдио",
+        "length": 4
+      },
+      {
+        "token": "доброї",
+        "signature": "бдїор",
+        "length": 6
+      },
+      {
+        "token": "довше",
+        "signature": "вдеош",
+        "length": 5
+      },
+      {
+        "token": "долівку",
+        "signature": "вдіклоу",
+        "length": 7
+      },
+      {
+        "token": "долівці",
+        "signature": "вділоц",
+        "length": 7
+      },
+      {
+        "token": "друга",
+        "signature": "агдру",
+        "length": 5
+      },
+      {
+        "token": "другу",
+        "signature": "гдру",
+        "length": 5
+      },
+      {
+        "token": "друзів",
+        "signature": "вдзіру",
+        "length": 6
+      },
+      {
+        "token": "думками",
+        "signature": "адикму",
+        "length": 7
+      },
+      {
+        "token": "душею",
+        "signature": "деушю",
+        "length": 5
+      },
+      {
+        "token": "жарт",
+        "signature": "ажрт",
+        "length": 4
+      },
+      {
+        "token": "жодної",
+        "signature": "джїно",
+        "length": 6
+      },
+      {
+        "token": "забрала",
+        "signature": "абзлр",
+        "length": 7
+      },
+      {
+        "token": "забула",
+        "signature": "абзлу",
+        "length": 6
+      },
+      {
+        "token": "загін",
+        "signature": "агзін",
+        "length": 5
+      },
+      {
+        "token": "задрімав",
+        "signature": "авдзімр",
+        "length": 8
+      },
+      {
+        "token": "заєць",
+        "signature": "аєзць",
+        "length": 5
+      },
+      {
+        "token": "зайця",
+        "signature": "азйця",
+        "length": 5
+      },
+      {
+        "token": "залишиться",
+        "signature": "азилстшья",
+        "length": 10
+      },
+      {
+        "token": "заплющив",
+        "signature": "авзилпщю",
+        "length": 8
+      },
+      {
+        "token": "заридала",
+        "signature": "адзилр",
+        "length": 8
+      },
+      {
+        "token": "зберегти",
+        "signature": "бгезирт",
+        "length": 8
+      },
+      {
+        "token": "звалився",
+        "signature": "авзился",
+        "length": 8
+      },
+      {
+        "token": "звідти",
+        "signature": "вдзиіт",
+        "length": 6
+      },
+      {
+        "token": "здалека",
+        "signature": "адезкл",
+        "length": 7
+      },
+      {
+        "token": "здатна",
+        "signature": "адзнт",
+        "length": 6
+      },
+      {
+        "token": "зразу",
+        "signature": "азру",
+        "length": 5
+      },
+      {
+        "token": "зрештою",
+        "signature": "езортшю",
+        "length": 7
+      },
+      {
+        "token": "зроблю",
+        "signature": "бзлорю",
+        "length": 6
+      },
+      {
+        "token": "зрозуміти",
+        "signature": "зиіморту",
+        "length": 9
+      },
+      {
+        "token": "зупинив",
+        "signature": "взинпу",
+        "length": 7
+      },
+      {
+        "token": "зустрічі",
+        "signature": "зірстуч",
+        "length": 8
+      },
+      {
+        "token": "ідеї",
+        "signature": "деії",
+        "length": 4
+      },
+      {
+        "token": "іншими",
+        "signature": "иімнш",
+        "length": 6
+      },
+      {
+        "token": "іншої",
+        "signature": "іїнош",
+        "length": 5
+      },
+      {
+        "token": "йдуть",
+        "signature": "дйтуь",
+        "length": 5
+      },
+      {
+        "token": "каменю",
+        "signature": "аекмню",
+        "length": 6
+      },
+      {
+        "token": "канцелярії",
+        "signature": "аеіїклнрця",
+        "length": 10
+      },
+      {
+        "token": "кари",
+        "signature": "аикр",
+        "length": 4
+      },
+      {
+        "token": "кількома",
+        "signature": "аіклмоь",
+        "length": 8
+      },
+      {
+        "token": "кобила",
+        "signature": "абикло",
+        "length": 6
+      },
+      {
+        "token": "колін",
+        "signature": "іклно",
+        "length": 5
+      },
+      {
+        "token": "комір",
+        "signature": "ікмор",
+        "length": 5
+      },
+      {
+        "token": "комісар",
+        "signature": "аікморс",
+        "length": 7
+      },
+      {
+        "token": "копитами",
+        "signature": "аикмопт",
+        "length": 8
+      },
+      {
+        "token": "кортить",
+        "signature": "икорть",
+        "length": 7
+      },
+      {
+        "token": "легіон",
+        "signature": "геілно",
+        "length": 6
+      },
+      {
+        "token": "лежала",
+        "signature": "аежл",
+        "length": 6
+      },
+      {
+        "token": "майдані",
+        "signature": "адіймн",
+        "length": 7
+      },
+      {
+        "token": "маму",
+        "signature": "аму",
+        "length": 4
+      },
+      {
+        "token": "міру",
+        "signature": "імру",
+        "length": 4
+      },
+      {
+        "token": "могилу",
+        "signature": "гилмоу",
+        "length": 6
+      },
+      {
+        "token": "можливість",
+        "signature": "вжиілмость",
+        "length": 10
+      },
+      {
+        "token": "молодий",
+        "signature": "дийлмо",
+        "length": 7
+      },
+      {
+        "token": "молодиць",
+        "signature": "дилмоць",
+        "length": 8
+      },
+      {
+        "token": "морозом",
+        "signature": "змор",
+        "length": 7
+      },
+      {
+        "token": "мур",
+        "signature": "мру",
+        "length": 3
+      },
+      {
+        "token": "надвечір",
+        "signature": "авдеінрч",
+        "length": 8
+      },
+      {
+        "token": "назавжди",
+        "signature": "авджзин",
+        "length": 8
+      },
+      {
+        "token": "настрої",
+        "signature": "аїнорст",
+        "length": 7
+      },
+      {
+        "token": "нашим",
+        "signature": "аимнш",
+        "length": 5
+      },
+      {
+        "token": "нашій",
+        "signature": "аійнш",
+        "length": 5
+      },
+      {
+        "token": "ненависть",
+        "signature": "авеинсть",
+        "length": 9
+      },
+      {
+        "token": "несе",
+        "signature": "енс",
+        "length": 4
+      },
+      {
+        "token": "німців",
+        "signature": "вімнц",
+        "length": 6
+      },
+      {
+        "token": "ніяково",
+        "signature": "вікноя",
+        "length": 7
+      },
+      {
+        "token": "обійсті",
+        "signature": "бійост",
+        "length": 7
+      },
+      {
+        "token": "оборі",
+        "signature": "біор",
+        "length": 5
+      },
+      {
+        "token": "одвернувся",
+        "signature": "вденорсуя",
+        "length": 10
+      },
+      {
+        "token": "організації",
+        "signature": "агзіїнорц",
+        "length": 11
+      },
+      {
+        "token": "падає",
+        "signature": "адєп",
+        "length": 5
+      },
+      {
+        "token": "парубок",
+        "signature": "абкопру",
+        "length": 7
+      },
+      {
+        "token": "певний",
+        "signature": "веийнп",
+        "length": 6
+      },
+      {
+        "token": "пекло",
+        "signature": "еклоп",
+        "length": 5
+      },
+      {
+        "token": "перша",
+        "signature": "аепрш",
+        "length": 5
+      },
+      {
+        "token": "пес",
+        "signature": "епс",
+        "length": 3
+      },
+      {
+        "token": "питаючи",
+        "signature": "аиптчю",
+        "length": 7
+      },
+      {
+        "token": "підвівся",
+        "signature": "вдіпся",
+        "length": 8
+      },
+      {
+        "token": "підемо",
+        "signature": "деімоп",
+        "length": 6
+      },
+      {
+        "token": "підеш",
+        "signature": "деіпш",
+        "length": 5
+      },
+      {
+        "token": "повернули",
+        "signature": "веилнопру",
+        "length": 9
+      },
+      {
+        "token": "повіки",
+        "signature": "виікоп",
+        "length": 6
+      },
+      {
+        "token": "повірив",
+        "signature": "виіопр",
+        "length": 7
+      },
+      {
+        "token": "повні",
+        "signature": "віноп",
+        "length": 5
+      },
+      {
+        "token": "подобається",
+        "signature": "абдєопстья",
+        "length": 11
+      },
+      {
+        "token": "позі",
+        "signature": "зіоп",
+        "length": 4
+      },
+      {
+        "token": "покоління",
+        "signature": "іклнопя",
+        "length": 9
+      },
+      {
+        "token": "поліцаї",
+        "signature": "аіїлопц",
+        "length": 7
+      },
+      {
+        "token": "пору",
+        "signature": "опру",
+        "length": 4
+      },
+      {
+        "token": "посмішка",
+        "signature": "аікмопсш",
+        "length": 8
+      },
+      {
+        "token": "поставив",
+        "signature": "авиопст",
+        "length": 8
+      },
+      {
+        "token": "постріл",
+        "signature": "ілопрст",
+        "length": 7
+      },
+      {
+        "token": "потер",
+        "signature": "еопрт",
+        "length": 5
+      },
+      {
+        "token": "потоком",
+        "signature": "кмопт",
+        "length": 7
+      },
+      {
+        "token": "похорони",
+        "signature": "инопрх",
+        "length": 8
+      },
+      {
+        "token": "поцілувати",
+        "signature": "авиілоптуц",
+        "length": 10
+      },
+      {
+        "token": "почати",
+        "signature": "аиоптч",
+        "length": 6
+      },
+      {
+        "token": "появився",
+        "signature": "виопся",
+        "length": 8
+      },
+      {
+        "token": "працює",
+        "signature": "аєпрцю",
+        "length": 6
+      },
+      {
+        "token": "привітався",
+        "signature": "авиіпрстя",
+        "length": 10
+      },
+      {
+        "token": "приїхали",
+        "signature": "аиїлпрх",
+        "length": 8
+      },
+      {
+        "token": "прикро",
+        "signature": "икопр",
+        "length": 6
+      },
+      {
+        "token": "принаймні",
+        "signature": "аиіймнпр",
+        "length": 9
+      },
+      {
+        "token": "причини",
+        "signature": "инпрч",
+        "length": 7
+      },
+      {
+        "token": "пройшла",
+        "signature": "айлопрш",
+        "length": 7
+      },
+      {
+        "token": "просити",
+        "signature": "иопрст",
+        "length": 7
+      },
+      {
+        "token": "пушку",
+        "signature": "кпуш",
+        "length": 5
+      },
+      {
+        "token": "ратуші",
+        "signature": "аіртуш",
+        "length": 6
+      },
+      {
+        "token": "ребро",
+        "signature": "беор",
+        "length": 5
+      },
+      {
+        "token": "революцію",
+        "signature": "веілорцю",
+        "length": 9
+      },
+      {
+        "token": "родичів",
+        "signature": "вдиіорч",
+        "length": 7
+      },
+      {
+        "token": "розповіла",
+        "signature": "авзілопр",
+        "length": 9
+      },
+      {
+        "token": "розуміти",
+        "signature": "зиіморту",
+        "length": 8
+      },
+      {
+        "token": "ролі",
+        "signature": "ілор",
+        "length": 4
+      },
+      {
+        "token": "самої",
+        "signature": "аїмос",
+        "length": 5
+      },
+      {
+        "token": "сіно",
+        "signature": "інос",
+        "length": 4
+      },
+      {
+        "token": "скочив",
+        "signature": "викосч",
+        "length": 6
+      },
+      {
+        "token": "скрикнув",
+        "signature": "викнрсу",
+        "length": 8
+      },
+      {
+        "token": "слухали",
+        "signature": "аилсух",
+        "length": 7
+      },
+      {
+        "token": "сльозами",
+        "signature": "азилмось",
+        "length": 8
+      },
+      {
+        "token": "сміявся",
+        "signature": "вімся",
+        "length": 7
+      },
+      {
+        "token": "солдатами",
+        "signature": "адилмост",
+        "length": 9
+      },
+      {
+        "token": "спалахнула",
+        "signature": "алнпсух",
+        "length": 10
+      },
+      {
+        "token": "спину",
+        "signature": "инпсу",
+        "length": 5
+      },
+      {
+        "token": "старі",
+        "signature": "аірст",
+        "length": 5
+      },
+      {
+        "token": "старості",
+        "signature": "аіорст",
+        "length": 8
+      },
+      {
+        "token": "створіння",
+        "signature": "вінорстя",
+        "length": 9
+      },
+      {
+        "token": "стежкою",
+        "signature": "ежкостю",
+        "length": 7
+      },
+      {
+        "token": "стежці",
+        "signature": "ежістц",
+        "length": 6
+      },
+      {
+        "token": "суду",
+        "signature": "дсу",
+        "length": 4
+      },
+      {
+        "token": "сусіди",
+        "signature": "диісу",
+        "length": 6
+      },
+      {
+        "token": "темний",
+        "signature": "еиймнт",
+        "length": 6
+      },
+      {
+        "token": "трава",
+        "signature": "аврт",
+        "length": 5
+      },
+      {
+        "token": "тремтіли",
+        "signature": "еиілмрт",
+        "length": 8
+      },
+      {
+        "token": "трішки",
+        "signature": "иікртш",
+        "length": 6
+      },
+      {
+        "token": "упала",
+        "signature": "алпу",
+        "length": 5
+      },
+      {
+        "token": "хвилювання",
+        "signature": "авилнхюя",
+        "length": 10
+      },
+      {
+        "token": "хворий",
+        "signature": "вийорх",
+        "length": 6
+      },
+      {
+        "token": "хмар",
+        "signature": "амрх",
+        "length": 4
+      },
+      {
+        "token": "хмара",
+        "signature": "амрх",
+        "length": 5
+      },
+      {
+        "token": "чоловіче",
+        "signature": "веілоч",
+        "length": 8
+      },
+      {
+        "token": "чоловічок",
+        "signature": "віклоч",
+        "length": 9
+      },
+      {
+        "token": "шинелю",
+        "signature": "еилншю",
+        "length": 6
+      },
+      {
+        "token": "штабу",
+        "signature": "абтуш",
+        "length": 5
+      },
+      {
+        "token": "штани",
+        "signature": "аинтш",
+        "length": 5
+      },
+      {
+        "token": "юнак",
+        "signature": "акню",
+        "length": 4
+      },
+      {
+        "token": "якимись",
+        "signature": "икмсья",
+        "length": 7
+      },
+      {
+        "token": "якомусь",
+        "signature": "кмосуья",
+        "length": 7
+      },
+      {
+        "token": "ясно",
+        "signature": "нося",
+        "length": 4
+      },
+      {
+        "token": "аркуш",
+        "signature": "акруш",
+        "length": 5
+      },
+      {
+        "token": "армію",
+        "signature": "аімрю",
+        "length": 5
+      },
+      {
+        "token": "баба",
+        "signature": "аб",
+        "length": 4
+      },
+      {
+        "token": "бесіда",
+        "signature": "абдеіс",
+        "length": 6
+      },
+      {
+        "token": "біду",
+        "signature": "бдіу",
+        "length": 4
+      },
+      {
+        "token": "біла",
+        "signature": "абіл",
+        "length": 4
+      },
+      {
+        "token": "біс",
+        "signature": "біс",
+        "length": 3
+      },
+      {
+        "token": "бої",
+        "signature": "бїо",
+        "length": 3
+      },
+      {
+        "token": "бою",
+        "signature": "бою",
+        "length": 3
+      },
+      {
+        "token": "буковинському",
+        "signature": "бвикмносуь",
+        "length": 13
+      },
+      {
+        "token": "важче",
+        "signature": "авежч",
+        "length": 5
+      },
+      {
+        "token": "вдень",
+        "signature": "вдень",
+        "length": 5
+      },
+      {
+        "token": "вдячний",
+        "signature": "вдийнчя",
+        "length": 7
+      },
+      {
+        "token": "вели",
+        "signature": "веил",
+        "length": 4
+      },
+      {
+        "token": "великими",
+        "signature": "веиклм",
+        "length": 8
+      },
+      {
+        "token": "великих",
+        "signature": "веиклх",
+        "length": 7
+      },
+      {
+        "token": "вечорами",
+        "signature": "авеиморч",
+        "length": 8
+      },
+      {
+        "token": "вийшло",
+        "signature": "вийлош",
+        "length": 6
+      },
+      {
+        "token": "випадково",
+        "signature": "авдикоп",
+        "length": 9
+      },
+      {
+        "token": "випили",
+        "signature": "вилп",
+        "length": 6
+      },
+      {
+        "token": "виразом",
+        "signature": "авзимор",
+        "length": 7
+      },
+      {
+        "token": "високу",
+        "signature": "викосу",
+        "length": 6
+      },
+      {
+        "token": "висоти",
+        "signature": "виост",
+        "length": 6
+      },
+      {
+        "token": "вистачить",
+        "signature": "авистчь",
+        "length": 9
+      },
+      {
+        "token": "виходило",
+        "signature": "вдилох",
+        "length": 8
+      },
+      {
+        "token": "вівці",
+        "signature": "віц",
+        "length": 5
+      },
+      {
+        "token": "відповідав",
+        "signature": "авдіоп",
+        "length": 10
+      },
+      {
+        "token": "відчувати",
+        "signature": "авдиітуч",
+        "length": 9
+      },
+      {
+        "token": "відчути",
+        "signature": "вдиітуч",
+        "length": 7
+      },
+      {
+        "token": "вітрі",
+        "signature": "вірт",
+        "length": 5
+      },
+      {
+        "token": "владу",
+        "signature": "авдлу",
+        "length": 5
+      },
+      {
+        "token": "власної",
+        "signature": "авїлнос",
+        "length": 7
+      },
+      {
+        "token": "вміє",
+        "signature": "вєім",
+        "length": 4
+      },
+      {
+        "token": "вмієш",
+        "signature": "вєімш",
+        "length": 5
+      },
+      {
+        "token": "вмостився",
+        "signature": "вимостя",
+        "length": 9
+      },
+      {
+        "token": "вогні",
+        "signature": "вгіно",
+        "length": 5
+      },
+      {
+        "token": "водночас",
+        "signature": "авдносч",
+        "length": 8
+      },
+      {
+        "token": "вокзалу",
+        "signature": "авзклоу",
+        "length": 7
+      },
+      {
+        "token": "востаннє",
+        "signature": "авєност",
+        "length": 8
+      },
+      {
+        "token": "вражено",
+        "signature": "авежнор",
+        "length": 7
+      },
+      {
+        "token": "втік",
+        "signature": "вікт",
+        "length": 4
+      },
+      {
+        "token": "вулицею",
+        "signature": "веилуцю",
+        "length": 7
+      },
+      {
+        "token": "вусами",
+        "signature": "авимсу",
+        "length": 6
+      },
+      {
+        "token": "вух",
+        "signature": "вух",
+        "length": 3
+      },
+      {
+        "token": "вчителя",
+        "signature": "веилтчя",
+        "length": 7
+      },
+      {
+        "token": "газет",
+        "signature": "агезт",
+        "length": 5
+      },
+      {
+        "token": "глиб",
+        "signature": "бгил",
+        "length": 4
+      },
+      {
+        "token": "глибше",
+        "signature": "бгеилш",
+        "length": 6
+      },
+      {
+        "token": "годиться",
+        "signature": "гдиостья",
+        "length": 8
+      },
+      {
+        "token": "голодний",
+        "signature": "гдийлно",
+        "length": 8
+      },
+      {
+        "token": "голосів",
+        "signature": "вгілос",
+        "length": 7
+      },
+      {
+        "token": "гостей",
+        "signature": "гейост",
+        "length": 6
+      },
+      {
+        "token": "готова",
+        "signature": "авгот",
+        "length": 6
+      },
+      {
+        "token": "грудьми",
+        "signature": "гдимруь",
+        "length": 7
+      },
+      {
+        "token": "групі",
+        "signature": "гіпру",
+        "length": 5
+      },
+      {
+        "token": "губ",
+        "signature": "бгу",
+        "length": 3
+      },
+      {
+        "token": "гурту",
+        "signature": "грту",
+        "length": 5
+      },
+      {
+        "token": "гуцульський",
+        "signature": "гийклсуць",
+        "length": 11
+      },
+      {
+        "token": "гуцульські",
+        "signature": "гіклсуць",
+        "length": 10
+      },
+      {
+        "token": "двома",
+        "signature": "авдмо",
+        "length": 5
+      },
+      {
+        "token": "дворі",
+        "signature": "вдіор",
+        "length": 5
+      },
+      {
+        "token": "дезертирів",
+        "signature": "вдезиірт",
+        "length": 10
+      },
+      {
+        "token": "держава",
+        "signature": "авдежр",
+        "length": 7
+      },
+      {
+        "token": "деталі",
+        "signature": "адеілт",
+        "length": 6
+      },
+      {
+        "token": "діди",
+        "signature": "диі",
+        "length": 4
+      },
+      {
+        "token": "дідька",
+        "signature": "адікь",
+        "length": 6
+      },
+      {
+        "token": "дідько",
+        "signature": "дікоь",
+        "length": 6
+      },
+      {
+        "token": "діток",
+        "signature": "дікот",
+        "length": 5
+      },
+      {
+        "token": "дітьми",
+        "signature": "диімть",
+        "length": 6
+      },
+      {
+        "token": "днем",
+        "signature": "демн",
+        "length": 4
+      },
+      {
+        "token": "дно",
+        "signature": "дно",
+        "length": 3
+      },
+      {
+        "token": "добу",
+        "signature": "бдоу",
+        "length": 4
+      },
+      {
+        "token": "довгу",
+        "signature": "вгдоу",
+        "length": 5
+      },
+      {
+        "token": "доводилося",
+        "signature": "вдилося",
+        "length": 10
+      },
+      {
+        "token": "дозволив",
+        "signature": "вдзило",
+        "length": 8
+      },
+      {
+        "token": "долині",
+        "signature": "диілно",
+        "length": 6
+      },
+      {
+        "token": "долину",
+        "signature": "дилноу",
+        "length": 6
+      },
+      {
+        "token": "допоможе",
+        "signature": "дежмоп",
+        "length": 8
+      },
+      {
+        "token": "другої",
+        "signature": "гдїору",
+        "length": 6
+      },
+      {
+        "token": "дужче",
+        "signature": "дежуч",
+        "length": 5
+      },
+      {
+        "token": "дяка",
+        "signature": "адкя",
+        "length": 4
+      },
+      {
+        "token": "ескадрон",
+        "signature": "адекнорс",
+        "length": 8
+      },
+      {
+        "token": "єдиний",
+        "signature": "дєийн",
+        "length": 6
+      },
+      {
+        "token": "жалібно",
+        "signature": "абжілно",
+        "length": 7
+      },
+      {
+        "token": "жах",
+        "signature": "ажх",
+        "length": 3
+      },
+      {
+        "token": "жива",
+        "signature": "авжи",
+        "length": 4
+      },
+      {
+        "token": "живіт",
+        "signature": "вжиіт",
+        "length": 5
+      },
+      {
+        "token": "живого",
+        "signature": "вгжио",
+        "length": 6
+      },
+      {
+        "token": "забагато",
+        "signature": "абгзот",
+        "length": 8
+      },
+      {
+        "token": "забрати",
+        "signature": "абзирт",
+        "length": 7
+      },
+      {
+        "token": "забути",
+        "signature": "абзиту",
+        "length": 6
+      },
+      {
+        "token": "завше",
+        "signature": "авезш",
+        "length": 5
+      },
+      {
+        "token": "загони",
+        "signature": "агзино",
+        "length": 6
+      },
+      {
+        "token": "зайшли",
+        "signature": "азийлш",
+        "length": 6
+      },
+      {
+        "token": "закинув",
+        "signature": "авзикну",
+        "length": 7
+      },
+      {
+        "token": "закон",
+        "signature": "азкно",
+        "length": 5
+      },
+      {
+        "token": "залізні",
+        "signature": "азілн",
+        "length": 7
+      },
+      {
+        "token": "заплакала",
+        "signature": "азклп",
+        "length": 9
+      },
+      {
+        "token": "заснув",
+        "signature": "авзнсу",
+        "length": 6
+      },
+      {
+        "token": "захоплено",
+        "signature": "аезлнопх",
+        "length": 9
+      },
+      {
+        "token": "збентежено",
+        "signature": "бежзнот",
+        "length": 10
+      },
+      {
+        "token": "збиралися",
+        "signature": "абзилрся",
+        "length": 9
+      },
+      {
+        "token": "збираються",
+        "signature": "абзирстьюя",
+        "length": 10
+      },
+      {
+        "token": "збіг",
+        "signature": "бгзі",
+        "length": 4
+      },
+      {
+        "token": "звернулась",
+        "signature": "авезлнрсуь",
+        "length": 10
+      },
+      {
+        "token": "звички",
+        "signature": "взикч",
+        "length": 6
+      },
+      {
+        "token": "звір",
+        "signature": "взір",
+        "length": 4
+      },
+      {
+        "token": "звісно",
+        "signature": "взінос",
+        "length": 6
+      },
+      {
+        "token": "згадати",
+        "signature": "агдзит",
+        "length": 7
+      },
+      {
+        "token": "здався",
+        "signature": "авдзся",
+        "length": 6
+      },
+      {
+        "token": "здатні",
+        "signature": "адзінт",
+        "length": 6
+      },
+      {
+        "token": "здивувалася",
+        "signature": "авдзилсуя",
+        "length": 11
+      },
+      {
+        "token": "зерно",
+        "signature": "езнор",
+        "length": 5
+      },
+      {
+        "token": "зима",
+        "signature": "азим",
+        "length": 4
+      },
+      {
+        "token": "зиркнула",
+        "signature": "азиклнру",
+        "length": 8
+      },
+      {
+        "token": "зібралися",
+        "signature": "абзиілрся",
+        "length": 9
+      },
+      {
+        "token": "зміни",
+        "signature": "зиімн",
+        "length": 5
+      },
+      {
+        "token": "зміряв",
+        "signature": "взімря",
+        "length": 6
+      },
+      {
+        "token": "зморшки",
+        "signature": "зикморш",
+        "length": 7
+      },
+      {
+        "token": "знаємо",
+        "signature": "аєзмно",
+        "length": 6
+      },
+      {
+        "token": "знайомих",
+        "signature": "азиймнох",
+        "length": 8
+      },
+      {
+        "token": "знак",
+        "signature": "азкн",
+        "length": 4
+      },
+      {
+        "token": "знаходив",
+        "signature": "авдзинох",
+        "length": 8
+      },
+      {
+        "token": "зникла",
+        "signature": "азиклн",
+        "length": 6
+      },
+      {
+        "token": "знищити",
+        "signature": "зинтщ",
+        "length": 7
+      },
+      {
+        "token": "зустріла",
+        "signature": "азілрсту",
+        "length": 8
+      },
+      {
+        "token": "ідеал",
+        "signature": "адеіл",
+        "length": 5
+      },
+      {
+        "token": "імені",
+        "signature": "еімн",
+        "length": 5
+      },
+      {
+        "token": "інколи",
+        "signature": "иіклно",
+        "length": 6
+      },
+      {
+        "token": "йду",
+        "signature": "дйу",
+        "length": 3
+      },
+      {
+        "token": "каганець",
+        "signature": "агекнць",
+        "length": 8
+      },
+      {
+        "token": "калюжі",
+        "signature": "ажіклю",
+        "length": 6
+      },
+      {
+        "token": "карабіна",
+        "signature": "абікнр",
+        "length": 8
+      },
+      {
+        "token": "карти",
+        "signature": "аикрт",
+        "length": 5
+      },
+      {
+        "token": "кілометрів",
+        "signature": "веіклморт",
+        "length": 10
+      },
+      {
+        "token": "кількох",
+        "signature": "іклохь",
+        "length": 7
+      },
+      {
+        "token": "кіньми",
+        "signature": "иікмнь",
+        "length": 6
+      },
+      {
+        "token": "клунок",
+        "signature": "клноу",
+        "length": 6
+      },
+      {
+        "token": "ковтнув",
+        "signature": "вкноту",
+        "length": 7
+      },
+      {
+        "token": "кожен",
+        "signature": "ежкно",
+        "length": 5
+      },
+      {
+        "token": "колеса",
+        "signature": "аеклос",
+        "length": 6
+      },
+      {
+        "token": "колом",
+        "signature": "клмо",
+        "length": 5
+      },
+      {
+        "token": "компанії",
+        "signature": "аіїкмноп",
+        "length": 8
+      },
+      {
+        "token": "красти",
+        "signature": "аикрст",
+        "length": 6
+      },
+      {
+        "token": "крик",
+        "signature": "икр",
+        "length": 4
+      },
+      {
+        "token": "курені",
+        "signature": "еікнру",
+        "length": 6
+      },
+      {
+        "token": "курінь",
+        "signature": "ікнруь",
+        "length": 6
+      },
+      {
+        "token": "лави",
+        "signature": "авил",
+        "length": 4
+      },
+      {
+        "token": "лакеї",
+        "signature": "аеїкл",
+        "length": 5
+      },
+      {
+        "token": "листя",
+        "signature": "илстя",
+        "length": 5
+      },
+      {
+        "token": "лікаря",
+        "signature": "аіклря",
+        "length": 6
+      },
+      {
+        "token": "любиш",
+        "signature": "билшю",
+        "length": 5
+      },
+      {
+        "token": "мимоволі",
+        "signature": "виілмо",
+        "length": 8
+      },
+      {
+        "token": "минуло",
+        "signature": "илмноу",
+        "length": 6
+      },
+      {
+        "token": "мистецтва",
+        "signature": "авеимстц",
+        "length": 9
+      },
+      {
+        "token": "мільйонів",
+        "signature": "війлмноь",
+        "length": 9
+      },
+      {
+        "token": "місцевих",
+        "signature": "веиімсхц",
+        "length": 8
+      },
+      {
+        "token": "мови",
+        "signature": "вимо",
+        "length": 4
+      },
+      {
+        "token": "можете",
+        "signature": "ежмот",
+        "length": 6
+      },
+      {
+        "token": "мокру",
+        "signature": "кмору",
+        "length": 5
+      },
+      {
+        "token": "молодицю",
+        "signature": "дилмоцю",
+        "length": 8
+      },
+      {
+        "token": "молоді",
+        "signature": "ділмо",
+        "length": 6
+      },
+      {
+        "token": "молоком",
+        "signature": "клмо",
+        "length": 7
+      },
+      {
+        "token": "море",
+        "signature": "емор",
+        "length": 4
+      },
+      {
+        "token": "набагато",
+        "signature": "абгнот",
+        "length": 8
+      },
+      {
+        "token": "навмання",
+        "signature": "авмня",
+        "length": 8
+      },
+      {
+        "token": "навмисне",
+        "signature": "авеимнс",
+        "length": 8
+      },
+      {
+        "token": "навпаки",
+        "signature": "авикнп",
+        "length": 7
+      },
+      {
+        "token": "навпочіпки",
+        "signature": "авиікнопч",
+        "length": 10
+      },
+      {
+        "token": "навряд",
+        "signature": "авднря",
+        "length": 6
+      },
+      {
+        "token": "наглядач",
+        "signature": "агдлнчя",
+        "length": 8
+      },
+      {
+        "token": "нагнувся",
+        "signature": "авгнсуя",
+        "length": 8
+      },
+      {
+        "token": "наді",
+        "signature": "адін",
+        "length": 4
+      },
+      {
+        "token": "наздогнав",
+        "signature": "авгдзно",
+        "length": 9
+      },
+      {
+        "token": "напишу",
+        "signature": "аинпуш",
+        "length": 6
+      },
+      {
+        "token": "наприкінці",
+        "signature": "аиікнпрц",
+        "length": 10
+      },
+      {
+        "token": "напруження",
+        "signature": "аежнпруя",
+        "length": 10
+      },
+      {
+        "token": "народився",
+        "signature": "авдинорся",
+        "length": 9
+      },
+      {
+        "token": "насправді",
+        "signature": "авдінпрс",
+        "length": 9
+      },
+      {
+        "token": "натовпу",
+        "signature": "авнопту",
+        "length": 7
+      },
+      {
+        "token": "нахилився",
+        "signature": "авилнсхя",
+        "length": 9
+      },
+      {
+        "token": "небагато",
+        "signature": "абгенот",
+        "length": 8
+      },
+      {
+        "token": "невдоволення",
+        "signature": "вделноя",
+        "length": 12
+      },
+      {
+        "token": "нерви",
+        "signature": "веинр",
+        "length": 5
+      },
+      {
+        "token": "нетерпляче",
+        "signature": "елнпртчя",
+        "length": 10
+      },
+      {
+        "token": "ніздрі",
+        "signature": "дзінр",
+        "length": 6
+      },
+      {
+        "token": "німака",
+        "signature": "аікмн",
+        "length": 6
+      },
+      {
+        "token": "німо",
+        "signature": "імно",
+        "length": 4
+      },
+      {
+        "token": "нова",
+        "signature": "авно",
+        "length": 4
+      },
+      {
+        "token": "новим",
+        "signature": "вимно",
+        "length": 5
+      },
+      {
+        "token": "ножа",
+        "signature": "ажно",
+        "length": 4
+      },
+      {
+        "token": "носив",
+        "signature": "винос",
+        "length": 5
+      },
+      {
+        "token": "обидва",
+        "signature": "абвдио",
+        "length": 6
+      },
+      {
+        "token": "обійстя",
+        "signature": "бійостя",
+        "length": 7
+      },
+      {
+        "token": "обома",
+        "signature": "абмо",
+        "length": 5
+      },
+      {
+        "token": "образ",
+        "signature": "абзор",
+        "length": 5
+      },
+      {
+        "token": "образився",
+        "signature": "абвзиорся",
+        "length": 9
+      },
+      {
+        "token": "одиноко",
+        "signature": "дикно",
+        "length": 7
+      },
+      {
+        "token": "одною",
+        "signature": "дною",
+        "length": 5
+      },
+      {
+        "token": "озираючись",
+        "signature": "азиорсчью",
+        "length": 10
+      },
+      {
+        "token": "окинув",
+        "signature": "викноу",
+        "length": 6
+      },
+      {
+        "token": "опустився",
+        "signature": "виопстуя",
+        "length": 9
+      },
+      {
+        "token": "орієнтуватися",
+        "signature": "авєиінорстуя",
+        "length": 13
+      },
+      {
+        "token": "останнім",
+        "signature": "аімност",
+        "length": 8
+      },
+      {
+        "token": "офіцера",
+        "signature": "аеіорфц",
+        "length": 7
+      },
+      {
+        "token": "офіцери",
+        "signature": "еиіорфц",
+        "length": 7
+      },
+      {
+        "token": "пакунок",
+        "signature": "акнопу",
+        "length": 7
+      },
+      {
+        "token": "парку",
+        "signature": "акпру",
+        "length": 5
+      },
+      {
+        "token": "переважно",
+        "signature": "авежнопр",
+        "length": 9
+      },
+      {
+        "token": "перейти",
+        "signature": "еийпрт",
+        "length": 7
+      },
+      {
+        "token": "перекинув",
+        "signature": "веикнпру",
+        "length": 9
+      },
+      {
+        "token": "переконання",
+        "signature": "аекнопря",
+        "length": 11
+      },
+      {
+        "token": "перечитав",
+        "signature": "авеипртч",
+        "length": 9
+      },
+      {
+        "token": "першим",
+        "signature": "еимпрш",
+        "length": 6
+      },
+      {
+        "token": "підземелля",
+        "signature": "дезілмпя",
+        "length": 10
+      },
+      {
+        "token": "піднімалися",
+        "signature": "адиілмнпся",
+        "length": 11
+      },
+      {
+        "token": "підозріння",
+        "signature": "дзінопря",
+        "length": 10
+      },
+      {
+        "token": "підхопив",
+        "signature": "вдиіопх",
+        "length": 8
+      },
+      {
+        "token": "пісень",
+        "signature": "еінпсь",
+        "length": 6
+      },
+      {
+        "token": "плакати",
+        "signature": "аиклпт",
+        "length": 7
+      },
+      {
+        "token": "плечем",
+        "signature": "елмпч",
+        "length": 6
+      },
+      {
+        "token": "площу",
+        "signature": "лопущ",
+        "length": 5
+      },
+      {
+        "token": "побив",
+        "signature": "бвиоп",
+        "length": 5
+      },
+      {
+        "token": "побіг",
+        "signature": "бгіоп",
+        "length": 5
+      },
+      {
+        "token": "поблизу",
+        "signature": "бзилопу",
+        "length": 7
+      },
+      {
+        "token": "повертається",
+        "signature": "авеєопрстья",
+        "length": 12
+      },
+      {
+        "token": "повинно",
+        "signature": "виноп",
+        "length": 7
+      },
+      {
+        "token": "поглядами",
+        "signature": "агдилмопя",
+        "length": 9
+      },
+      {
+        "token": "погляди",
+        "signature": "гдилопя",
+        "length": 7
+      },
+      {
+        "token": "поговорити",
+        "signature": "вгиопрт",
+        "length": 10
+      },
+      {
+        "token": "подала",
+        "signature": "адлоп",
+        "length": 6
+      },
+      {
+        "token": "показуючи",
+        "signature": "азикопучю",
+        "length": 9
+      },
+      {
+        "token": "покинули",
+        "signature": "иклнопу",
+        "length": 8
+      },
+      {
+        "token": "полон",
+        "signature": "лноп",
+        "length": 5
+      },
+      {
+        "token": "полонених",
+        "signature": "еилнопх",
+        "length": 9
+      },
+      {
+        "token": "полонини",
+        "signature": "илноп",
+        "length": 8
+      },
+      {
+        "token": "полотна",
+        "signature": "алнопт",
+        "length": 7
+      },
+      {
+        "token": "поманив",
+        "signature": "авимноп",
+        "length": 7
+      },
+      {
+        "token": "попередити",
+        "signature": "деиопрт",
+        "length": 10
+      },
+      {
+        "token": "посади",
+        "signature": "адиопс",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "саду",
+        "signature": "адсу",
+        "length": 4
+      },
+      {
+        "token": "самій",
+        "signature": "аіймс",
+        "length": 5
+      },
+      {
+        "token": "свиня",
+        "signature": "винся",
+        "length": 5
+      },
+      {
+        "token": "світилися",
+        "signature": "виілстя",
+        "length": 9
+      },
+      {
+        "token": "свічки",
+        "signature": "виіксч",
+        "length": 6
+      },
+      {
+        "token": "святим",
+        "signature": "вимстя",
+        "length": 6
+      },
+      {
+        "token": "святині",
+        "signature": "виінстя",
+        "length": 7
+      },
+      {
+        "token": "середнього",
+        "signature": "гденорсь",
+        "length": 10
+      },
+      {
+        "token": "силоміць",
+        "signature": "иілмосць",
+        "length": 8
+      },
+      {
+        "token": "силует",
+        "signature": "еилсту",
+        "length": 6
+      },
+      {
+        "token": "систему",
+        "signature": "еимсту",
+        "length": 7
+      },
+      {
+        "token": "сідай",
+        "signature": "адійс",
+        "length": 5
+      },
+      {
+        "token": "сік",
+        "signature": "ікс",
+        "length": 3
+      },
+      {
+        "token": "сіл",
+        "signature": "ілс",
+        "length": 3
+      },
+      {
+        "token": "сіли",
+        "signature": "иілс",
+        "length": 4
+      },
+      {
+        "token": "сіль",
+        "signature": "ілсь",
+        "length": 4
+      },
+      {
+        "token": "сінешні",
+        "signature": "еінсш",
+        "length": 7
+      },
+      {
+        "token": "сіном",
+        "signature": "імнос",
+        "length": 5
+      },
+      {
+        "token": "скажете",
+        "signature": "аежкст",
+        "length": 7
+      },
+      {
+        "token": "скалки",
+        "signature": "аиклс",
+        "length": 6
+      },
+      {
+        "token": "скарб",
+        "signature": "абкрс",
+        "length": 5
+      },
+      {
+        "token": "складав",
+        "signature": "авдклс",
+        "length": 7
+      },
+      {
+        "token": "складені",
+        "signature": "адеіклнс",
+        "length": 8
+      },
+      {
+        "token": "скло",
+        "signature": "клос",
+        "length": 4
+      },
+      {
+        "token": "скоїлося",
+        "signature": "їклося",
+        "length": 8
+      },
+      {
+        "token": "скоромовкою",
+        "signature": "вкморсю",
+        "length": 11
+      },
+      {
+        "token": "скринею",
+        "signature": "еикнрсю",
+        "length": 7
+      },
+      {
+        "token": "скрізь",
+        "signature": "зікрсь",
+        "length": 6
+      },
+      {
+        "token": "скроню",
+        "signature": "кнорсю",
+        "length": 6
+      },
+      {
+        "token": "скронях",
+        "signature": "кнорсхя",
+        "length": 7
+      },
+      {
+        "token": "скрутив",
+        "signature": "викрсту",
+        "length": 7
+      },
+      {
+        "token": "сливами",
+        "signature": "авилмс",
+        "length": 7
+      },
+      {
+        "token": "сліду",
+        "signature": "ділсу",
+        "length": 5
+      },
+      {
+        "token": "словах",
+        "signature": "авлосх",
+        "length": 6
+      },
+      {
+        "token": "служби",
+        "signature": "бжилсу",
+        "length": 6
+      },
+      {
+        "token": "служить",
+        "signature": "жилстуь",
+        "length": 7
+      },
+      {
+        "token": "слухає",
+        "signature": "аєлсух",
+        "length": 6
+      },
+      {
+        "token": "слуху",
+        "signature": "лсух",
+        "length": 5
+      },
+      {
+        "token": "смакоту",
+        "signature": "акмосту",
+        "length": 7
+      },
+      {
+        "token": "смів",
+        "signature": "вімс",
+        "length": 4
+      },
+      {
+        "token": "сміятися",
+        "signature": "иімстя",
+        "length": 8
+      },
+      {
+        "token": "снилося",
+        "signature": "илнося",
+        "length": 7
+      },
+      {
+        "token": "сніжок",
+        "signature": "жікнос",
+        "length": 6
+      },
+      {
+        "token": "собака",
+        "signature": "абкос",
+        "length": 6
+      },
+      {
+        "token": "соки",
+        "signature": "икос",
+        "length": 4
+      },
+      {
+        "token": "солодко",
+        "signature": "дклос",
+        "length": 7
+      },
+      {
+        "token": "сонечко",
+        "signature": "екносч",
+        "length": 7
+      },
+      {
+        "token": "спадали",
+        "signature": "адилпс",
+        "length": 7
+      },
+      {
+        "token": "спалив",
+        "signature": "авилпс",
+        "length": 6
+      },
+      {
+        "token": "спеціально",
+        "signature": "аеілнопсць",
+        "length": 10
+      },
+      {
+        "token": "спи",
+        "signature": "ипс",
+        "length": 3
+      },
+      {
+        "token": "спина",
+        "signature": "аинпс",
+        "length": 5
+      },
+      {
+        "token": "співають",
+        "signature": "авіпстью",
+        "length": 8
+      },
+      {
+        "token": "сплеснула",
+        "signature": "аелнпсу",
+        "length": 9
+      },
+      {
+        "token": "сповістив",
+        "signature": "виіопст",
+        "length": 9
+      },
+      {
+        "token": "сподобався",
+        "signature": "абвдопся",
+        "length": 10
+      },
+      {
+        "token": "сподобалося",
+        "signature": "абдлопся",
+        "length": 11
+      },
+      {
+        "token": "сполохано",
+        "signature": "алнопсх",
+        "length": 9
+      },
+      {
+        "token": "спосіб",
+        "signature": "біопс",
+        "length": 6
+      },
+      {
+        "token": "спохмурнів",
+        "signature": "вімнопрсух",
+        "length": 10
+      },
+      {
+        "token": "справедливий",
+        "signature": "авдеийлпрс",
+        "length": 12
+      },
+      {
+        "token": "справжня",
+        "signature": "авжнпрся",
+        "length": 8
+      },
+      {
+        "token": "справили",
+        "signature": "авилпрс",
+        "length": 8
+      },
+      {
+        "token": "сприймати",
+        "signature": "аиймпрст",
+        "length": 9
+      },
+      {
+        "token": "ста",
+        "signature": "аст",
+        "length": 3
+      },
+      {
+        "token": "ставали",
+        "signature": "авилст",
+        "length": 7
+      },
+      {
+        "token": "станеш",
+        "signature": "аенстш",
+        "length": 6
+      },
+      {
+        "token": "станом",
+        "signature": "амност",
+        "length": 6
+      },
+      {
+        "token": "старих",
+        "signature": "аирстх",
+        "length": 6
+      },
+      {
+        "token": "старовини",
+        "signature": "авинорст",
+        "length": 9
+      },
+      {
+        "token": "стару",
+        "signature": "арсту",
+        "length": 5
+      },
+      {
+        "token": "старший",
+        "signature": "аийрстш",
+        "length": 7
+      },
+      {
+        "token": "стають",
+        "signature": "астью",
+        "length": 6
+      },
+      {
+        "token": "стаючи",
+        "signature": "аистчю",
+        "length": 6
+      },
+      {
+        "token": "стегна",
+        "signature": "агенст",
+        "length": 6
+      },
+      {
+        "token": "стін",
+        "signature": "інст",
+        "length": 4
+      },
+      {
+        "token": "стодоли",
+        "signature": "дилост",
+        "length": 7
+      },
+      {
+        "token": "столи",
+        "signature": "илост",
+        "length": 5
+      },
+      {
+        "token": "сторін",
+        "signature": "інорст",
+        "length": 6
+      },
+      {
+        "token": "сторіччя",
+        "signature": "іорстчя",
+        "length": 8
+      },
+      {
+        "token": "стосується",
+        "signature": "єостуья",
+        "length": 10
+      },
+      {
+        "token": "стосунки",
+        "signature": "икносту",
+        "length": 8
+      },
+      {
+        "token": "стояти",
+        "signature": "иостя",
+        "length": 6
+      },
+      {
+        "token": "стоять",
+        "signature": "остья",
+        "length": 6
+      },
+      {
+        "token": "страхом",
+        "signature": "аморстх",
+        "length": 7
+      },
+      {
+        "token": "стрілянина",
+        "signature": "аиілнрстя",
+        "length": 10
+      },
+      {
+        "token": "стріляти",
+        "signature": "иілрстя",
+        "length": 8
+      },
+      {
+        "token": "стріпнув",
+        "signature": "вінпрсту",
+        "length": 8
+      },
+      {
+        "token": "суглобах",
+        "signature": "абглосух",
+        "length": 8
+      },
+      {
+        "token": "судом",
+        "signature": "дмосу",
+        "length": 5
+      },
+      {
+        "token": "сумніватися",
+        "signature": "авиімнстуя",
+        "length": 11
+      },
+      {
+        "token": "сумом",
+        "signature": "мосу",
+        "length": 5
+      },
+      {
+        "token": "сусідів",
+        "signature": "вдісу",
+        "length": 7
+      },
+      {
+        "token": "суті",
+        "signature": "істу",
+        "length": 4
+      },
+      {
+        "token": "сухарі",
+        "signature": "аірсух",
+        "length": 6
+      },
+      {
+        "token": "сухоти",
+        "signature": "иостух",
+        "length": 6
+      },
+      {
+        "token": "сучий",
+        "signature": "ийсуч",
+        "length": 5
+      },
+      {
+        "token": "схвильовано",
+        "signature": "авилносхь",
+        "length": 11
+      },
+      {
+        "token": "схлипнув",
+        "signature": "вилнпсух",
+        "length": 8
+      },
+      {
+        "token": "схлипувала",
+        "signature": "авилпсух",
+        "length": 10
+      },
+      {
+        "token": "схлипуючи",
+        "signature": "илпсухчю",
+        "length": 9
+      },
+      {
+        "token": "сховався",
+        "signature": "авосхя",
+        "length": 8
+      },
+      {
+        "token": "сходами",
+        "signature": "адимосх",
+        "length": 7
+      },
+      {
+        "token": "схожі",
+        "signature": "жіосх",
+        "length": 5
+      },
+      {
+        "token": "сяйві",
+        "signature": "війся",
+        "length": 5
+      },
+      {
+        "token": "табори",
+        "signature": "абиорт",
+        "length": 6
+      },
+      {
+        "token": "таємниче",
+        "signature": "аеєимнтч",
+        "length": 8
+      },
+      {
+        "token": "такт",
+        "signature": "акт",
+        "length": 4
+      },
+      {
+        "token": "талант",
+        "signature": "алнт",
+        "length": 6
+      },
+      {
+        "token": "татко",
+        "signature": "акот",
+        "length": 5
+      },
+      {
+        "token": "твоїх",
+        "signature": "вїотх",
+        "length": 5
+      },
+      {
+        "token": "теми",
+        "signature": "еимт",
+        "length": 4
+      },
+      {
+        "token": "темна",
+        "signature": "аемнт",
+        "length": 5
+      },
+      {
+        "token": "темних",
+        "signature": "еимнтх",
+        "length": 6
+      },
+      {
+        "token": "темрява",
+        "signature": "авемртя",
+        "length": 7
+      },
+      {
+        "token": "темряви",
+        "signature": "веимртя",
+        "length": 7
+      },
+      {
+        "token": "темряву",
+        "signature": "вемртуя",
+        "length": 7
+      },
+      {
+        "token": "тепле",
+        "signature": "елпт",
+        "length": 5
+      },
+      {
+        "token": "теплий",
+        "signature": "еийлпт",
+        "length": 6
+      },
+      {
+        "token": "теревені",
+        "signature": "веінрт",
+        "length": 8
+      },
+      {
+        "token": "терпляче",
+        "signature": "елпртчя",
+        "length": 8
+      },
+      {
+        "token": "течії",
+        "signature": "еіїтч",
+        "length": 5
+      },
+      {
+        "token": "тисячами",
+        "signature": "аимстчя",
+        "length": 8
+      },
+      {
+        "token": "тихий",
+        "signature": "ийтх",
+        "length": 5
+      },
+      {
+        "token": "тихим",
+        "signature": "имтх",
+        "length": 5
+      },
+      {
+        "token": "тією",
+        "signature": "єітю",
+        "length": 4
+      },
+      {
+        "token": "тіней",
+        "signature": "еійнт",
+        "length": 5
+      },
+      {
+        "token": "товариства",
+        "signature": "авиорст",
+        "length": 10
+      },
+      {
+        "token": "тож",
+        "signature": "жот",
+        "length": 3
+      },
+      {
+        "token": "тонко",
+        "signature": "кнот",
+        "length": 5
+      },
+      {
+        "token": "тополі",
+        "signature": "ілопт",
+        "length": 6
+      },
+      {
+        "token": "торбу",
+        "signature": "борту",
+        "length": 5
+      },
+      {
+        "token": "торкався",
+        "signature": "авкорстя",
+        "length": 8
+      },
+      {
+        "token": "торкнулась",
+        "signature": "аклнорстуь",
+        "length": 10
+      },
+      {
+        "token": "точнісінько",
+        "signature": "ікностчь",
+        "length": 11
+      },
+      {
+        "token": "традиції",
+        "signature": "адиіїртц",
+        "length": 8
+      },
+      {
+        "token": "трапилось",
+        "signature": "аилопрсть",
+        "length": 9
+      },
+      {
+        "token": "треті",
+        "signature": "еірт",
+        "length": 5
+      },
+      {
+        "token": "тривав",
+        "signature": "авирт",
+        "length": 6
+      },
+      {
+        "token": "тривоги",
+        "signature": "вгиорт",
+        "length": 7
+      },
+      {
+        "token": "тримає",
+        "signature": "аєимрт",
+        "length": 6
+      },
+      {
+        "token": "тримали",
+        "signature": "аилмрт",
+        "length": 7
+      },
+      {
+        "token": "трону",
+        "signature": "норту",
+        "length": 5
+      },
+      {
+        "token": "труп",
+        "signature": "прту",
+        "length": 4
+      },
+      {
+        "token": "трупів",
+        "signature": "віпрту",
+        "length": 6
+      },
+      {
+        "token": "тугу",
+        "signature": "гту",
+        "length": 4
+      },
+      {
+        "token": "тужно",
+        "signature": "жноту",
+        "length": 5
+      },
+      {
+        "token": "туманів",
+        "signature": "авімнту",
+        "length": 7
+      },
+      {
+        "token": "туманом",
+        "signature": "амноту",
+        "length": 7
+      },
+      {
+        "token": "тютюн",
+        "signature": "нтю",
+        "length": 5
+      },
+      {
+        "token": "убік",
+        "signature": "біку",
+        "length": 4
+      },
+      {
+        "token": "угаву",
+        "signature": "авгу",
+        "length": 5
+      },
+      {
+        "token": "удар",
+        "signature": "адру",
+        "length": 4
+      },
+      {
+        "token": "узявши",
+        "signature": "взиушя",
+        "length": 6
+      },
+      {
+        "token": "української",
+        "signature": "аїкнорсуь",
+        "length": 11
+      },
+      {
+        "token": "умерти",
+        "signature": "еимрту",
+        "length": 6
+      },
+      {
+        "token": "умів",
+        "signature": "віму",
+        "length": 4
+      },
+      {
+        "token": "умов",
+        "signature": "вмоу",
+        "length": 4
+      },
+      {
+        "token": "упоперек",
+        "signature": "екопру",
+        "length": 8
+      },
+      {
+        "token": "урочисто",
+        "signature": "иорстуч",
+        "length": 8
+      },
+      {
+        "token": "усіма",
+        "signature": "аімсу",
+        "length": 5
+      },
+      {
+        "token": "усміхається",
+        "signature": "аєімстухья",
+        "length": 11
+      },
+      {
+        "token": "усміхнутися",
+        "signature": "иімнстухя",
+        "length": 11
+      },
+      {
+        "token": "устаткування",
+        "signature": "авкнстуя",
+        "length": 12
+      },
+      {
+        "token": "учитись",
+        "signature": "истучь",
+        "length": 7
+      },
+      {
+        "token": "форму",
+        "signature": "моруф",
+        "length": 5
+      },
+      {
+        "token": "хатчини",
+        "signature": "аинтхч",
+        "length": 7
+      },
+      {
+        "token": "хащі",
+        "signature": "аіхщ",
+        "length": 4
+      },
+      {
+        "token": "хвилина",
+        "signature": "авилнх",
+        "length": 7
+      },
+      {
+        "token": "хвоста",
+        "signature": "авостх",
+        "length": 6
+      },
+      {
+        "token": "хлопцями",
+        "signature": "илмопхця",
+        "length": 8
+      },
+      {
+        "token": "хлопчисько",
+        "signature": "иклопсхчь",
+        "length": 10
+      },
+      {
+        "token": "хмарами",
+        "signature": "аимрх",
+        "length": 7
+      },
+      {
+        "token": "ховався",
+        "signature": "авосхя",
+        "length": 7
+      },
+      {
+        "token": "ховати",
+        "signature": "авиотх",
+        "length": 6
+      },
+      {
+        "token": "ходиш",
+        "signature": "диохш",
+        "length": 5
+      },
+      {
+        "token": "ходою",
+        "signature": "дохю",
+        "length": 5
+      },
+      {
+        "token": "холодним",
+        "signature": "дилмнох",
+        "length": 8
+      },
+      {
+        "token": "хороший",
+        "signature": "ийорхш",
+        "length": 7
+      },
+      {
+        "token": "хрестів",
+        "signature": "веірстх",
+        "length": 7
+      },
+      {
+        "token": "хрестом",
+        "signature": "еморстх",
+        "length": 7
+      },
+      {
+        "token": "художник",
+        "signature": "джикноух",
+        "length": 8
+      },
+      {
+        "token": "художника",
+        "signature": "аджикноух",
+        "length": 9
+      },
+      {
+        "token": "цікавістю",
+        "signature": "авікстцю",
+        "length": 9
+      },
+      {
+        "token": "ціле",
+        "signature": "еілц",
+        "length": 4
+      },
+      {
+        "token": "цілим",
+        "signature": "иілмц",
+        "length": 5
+      },
+      {
+        "token": "часи",
+        "signature": "аисч",
+        "length": 4
+      },
+      {
+        "token": "частину",
+        "signature": "аинстуч",
+        "length": 7
+      },
+      {
+        "token": "червоний",
+        "signature": "веийнорч",
+        "length": 8
+      },
+      {
+        "token": "червоних",
+        "signature": "веинорхч",
+        "length": 8
+      },
+      {
+        "token": "черес",
+        "signature": "ерсч",
+        "length": 5
+      },
+      {
+        "token": "черзі",
+        "signature": "езірч",
+        "length": 5
+      },
+      {
+        "token": "черниця",
+        "signature": "еинрцчя",
+        "length": 7
+      },
+      {
+        "token": "чесні",
+        "signature": "еінсч",
+        "length": 5
+      },
+      {
+        "token": "чисто",
+        "signature": "иостч",
+        "length": 5
+      },
+      {
+        "token": "чобіт",
+        "signature": "біотч",
+        "length": 5
+      },
+      {
+        "token": "чобітьми",
+        "signature": "биімотчь",
+        "length": 8
+      },
+      {
+        "token": "чоботях",
+        "signature": "ботхчя",
+        "length": 7
+      },
+      {
+        "token": "чомусь",
+        "signature": "мосучь",
+        "length": 6
+      },
+      {
+        "token": "чорта",
+        "signature": "аортч",
+        "length": 5
+      },
+      {
+        "token": "чотирьох",
+        "signature": "иортхчь",
+        "length": 8
+      },
+      {
+        "token": "чуба",
+        "signature": "абуч",
+        "length": 4
+      },
+      {
+        "token": "чужі",
+        "signature": "жіуч",
+        "length": 4
+      },
+      {
+        "token": "чужого",
+        "signature": "гжоуч",
+        "length": 6
+      },
+      {
+        "token": "чутки",
+        "signature": "иктуч",
+        "length": 5
+      },
+      {
+        "token": "шанувати",
+        "signature": "авинтуш",
+        "length": 8
+      },
+      {
+        "token": "шапки",
+        "signature": "аикпш",
+        "length": 5
+      },
+      {
+        "token": "шарварок",
+        "signature": "авкорш",
+        "length": 8
+      },
+      {
+        "token": "шепнув",
+        "signature": "венпуш",
+        "length": 6
+      },
+      {
+        "token": "шепотів",
+        "signature": "веіоптш",
+        "length": 7
+      },
+      {
+        "token": "шепотом",
+        "signature": "емоптш",
+        "length": 7
+      },
+      {
+        "token": "шинелі",
+        "signature": "еиілнш",
+        "length": 6
+      },
+      {
+        "token": "широкими",
+        "signature": "икморш",
+        "length": 8
+      },
+      {
+        "token": "шкіру",
+        "signature": "ікруш",
+        "length": 5
+      },
+      {
+        "token": "шляхом",
+        "signature": "лмохшя",
+        "length": 6
+      },
+      {
+        "token": "шмат",
+        "signature": "амтш",
+        "length": 4
+      },
+      {
+        "token": "шпигунів",
+        "signature": "вгиінпуш",
+        "length": 8
+      },
+      {
+        "token": "шугнула",
+        "signature": "аглнуш",
+        "length": 7
+      },
+      {
+        "token": "шукає",
+        "signature": "аєкуш",
+        "length": 5
+      },
+      {
+        "token": "щасливе",
+        "signature": "авеилсщ",
+        "length": 7
+      },
+      {
+        "token": "щасливий",
+        "signature": "авийлсщ",
+        "length": 8
+      },
+      {
+        "token": "щелепи",
+        "signature": "еилпщ",
+        "length": 6
+      },
+      {
+        "token": "щирим",
+        "signature": "имрщ",
+        "length": 5
+      },
+      {
+        "token": "щілину",
+        "signature": "иілнущ",
+        "length": 6
+      },
+      {
+        "token": "щосили",
+        "signature": "илосщ",
+        "length": 6
+      },
+      {
+        "token": "юрбі",
+        "signature": "бірю",
+        "length": 4
+      },
+      {
+        "token": "яблуко",
+        "signature": "бклоуя",
+        "length": 6
+      },
+      {
+        "token": "якійсь",
+        "signature": "ійксья",
+        "length": 6
+      },
+      {
+        "token": "якомога",
+        "signature": "агкмоя",
+        "length": 7
+      },
+      {
+        "token": "ялиці",
+        "signature": "иілця",
+        "length": 5
+      },
+      {
+        "token": "ярмарку",
+        "signature": "акмруя",
+        "length": 7
+      },
+      {
+        "token": "ярмарок",
+        "signature": "акморя",
+        "length": 7
+      },
+      {
+        "token": "автомобіль",
+        "signature": "абвілмоть",
+        "length": 10
+      },
+      {
+        "token": "акації",
+        "signature": "аіїкц",
+        "length": 6
+      },
+      {
+        "token": "бабу",
+        "signature": "абу",
+        "length": 4
+      },
+      {
+        "token": "багно",
+        "signature": "абгно",
+        "length": 5
+      },
+      {
+        "token": "байдужість",
+        "signature": "абджійстуь",
+        "length": 10
+      },
+      {
+        "token": "балачок",
+        "signature": "абклоч",
+        "length": 7
+      },
+      {
+        "token": "бандитів",
+        "signature": "абвдиінт",
+        "length": 8
+      },
+      {
+        "token": "безбарвним",
+        "signature": "абвезимнр",
+        "length": 10
+      },
+      {
+        "token": "безперестанку",
+        "signature": "абезкнпрсту",
+        "length": 13
+      },
+      {
+        "token": "безперечно",
+        "signature": "безнопрч",
+        "length": 10
+      },
+      {
+        "token": "берегів",
+        "signature": "бвгеір",
+        "length": 7
+      },
+      {
+        "token": "берегом",
+        "signature": "бгемор",
+        "length": 7
+      },
+      {
+        "token": "берегти",
+        "signature": "бгеирт",
+        "length": 7
+      },
+      {
+        "token": "береться",
+        "signature": "берстья",
+        "length": 8
+      },
+      {
+        "token": "береш",
+        "signature": "берш",
+        "length": 5
+      },
+      {
+        "token": "беру",
+        "signature": "беру",
+        "length": 4
+      },
+      {
+        "token": "беруть",
+        "signature": "бертуь",
+        "length": 6
+      },
+      {
+        "token": "бігає",
+        "signature": "абгєі",
+        "length": 5
+      },
+      {
+        "token": "бігли",
+        "signature": "бгиіл",
+        "length": 5
+      },
+      {
+        "token": "біді",
+        "signature": "бді",
+        "length": 4
+      },
+      {
+        "token": "білими",
+        "signature": "биілм",
+        "length": 6
+      },
+      {
+        "token": "більшого",
+        "signature": "бгілошь",
+        "length": 8
+      },
+      {
+        "token": "більшу",
+        "signature": "білушь",
+        "length": 6
+      },
+      {
+        "token": "благословення",
+        "signature": "абвгелнося",
+        "length": 13
+      },
+      {
+        "token": "ближнього",
+        "signature": "бгжилноь",
+        "length": 9
+      },
+      {
+        "token": "близькі",
+        "signature": "бзиікль",
+        "length": 7
+      },
+      {
+        "token": "блискавка",
+        "signature": "абвиклс",
+        "length": 9
+      },
+      {
+        "token": "блідий",
+        "signature": "бдиійл",
+        "length": 6
+      },
+      {
+        "token": "блукав",
+        "signature": "абвклу",
+        "length": 6
+      },
+      {
+        "token": "боєм",
+        "signature": "бємо",
+        "length": 4
+      },
+      {
+        "token": "божого",
+        "signature": "бгжо",
+        "length": 6
+      },
+      {
+        "token": "болем",
+        "signature": "белмо",
+        "length": 5
+      },
+      {
+        "token": "бороди",
+        "signature": "бдиор",
+        "length": 6
+      },
+      {
+        "token": "боротьбу",
+        "signature": "бортуь",
+        "length": 8
+      },
+      {
+        "token": "босі",
+        "signature": "біос",
+        "length": 4
+      },
+      {
+        "token": "босоніж",
+        "signature": "бжінос",
+        "length": 7
+      },
+      {
+        "token": "боязко",
+        "signature": "бзкоя",
+        "length": 6
+      },
+      {
+        "token": "бракувало",
+        "signature": "абвклору",
+        "length": 9
+      },
+      {
+        "token": "брехати",
+        "signature": "абеиртх",
+        "length": 7
+      },
+      {
+        "token": "бризнули",
+        "signature": "бзилнру",
+        "length": 8
+      },
+      {
+        "token": "брилу",
+        "signature": "билру",
+        "length": 5
+      },
+      {
+        "token": "бричка",
+        "signature": "абикрч",
+        "length": 6
+      },
+      {
+        "token": "брів",
+        "signature": "бвір",
+        "length": 4
+      },
+      {
+        "token": "бровами",
+        "signature": "абвимор",
+        "length": 7
+      },
+      {
+        "token": "будинок",
+        "signature": "бдикноу",
+        "length": 7
+      },
+      {
+        "token": "будки",
+        "signature": "бдику",
+        "length": 5
+      },
+      {
+        "token": "буланий",
+        "signature": "абийлну",
+        "length": 7
+      },
+      {
+        "token": "бунт",
+        "signature": "бнту",
+        "length": 4
+      },
+      {
+        "token": "бутель",
+        "signature": "белтуь",
+        "length": 6
+      },
+      {
+        "token": "вагаючись",
+        "signature": "авгисчью",
+        "length": 9
+      },
+      {
+        "token": "важкий",
+        "signature": "авжийк",
+        "length": 6
+      },
+      {
+        "token": "валізу",
+        "signature": "авзілу",
+        "length": 6
+      },
+      {
+        "token": "варті",
+        "signature": "авірт",
+        "length": 5
+      },
+      {
+        "token": "вашій",
+        "signature": "авійш",
+        "length": 5
+      },
+      {
+        "token": "вважали",
+        "signature": "авжил",
+        "length": 7
+      },
+      {
+        "token": "ввесь",
+        "signature": "весь",
+        "length": 5
+      },
+      {
+        "token": "ввічливо",
+        "signature": "виілоч",
+        "length": 8
+      },
+      {
+        "token": "вдячно",
+        "signature": "вдночя",
+        "length": 6
+      },
+      {
+        "token": "ведеться",
+        "signature": "вдестья",
+        "length": 8
+      },
+      {
+        "token": "ведуть",
+        "signature": "вдетуь",
+        "length": 6
+      },
+      {
+        "token": "вернувшись",
+        "signature": "веинрсушь",
+        "length": 10
+      },
+      {
+        "token": "вернулися",
+        "signature": "веилнрсуя",
+        "length": 9
+      },
+      {
+        "token": "верталися",
+        "signature": "авеилрстя",
+        "length": 9
+      },
+      {
+        "token": "вертепу",
+        "signature": "вепрту",
+        "length": 7
+      },
+      {
+        "token": "вершники",
+        "signature": "веикнрш",
+        "length": 8
+      },
+      {
+        "token": "весела",
+        "signature": "авелс",
+        "length": 6
+      },
+      {
+        "token": "веселу",
+        "signature": "велсу",
+        "length": 6
+      },
+      {
+        "token": "весна",
+        "signature": "авенс",
+        "length": 5
+      },
+      {
+        "token": "вечори",
+        "signature": "веиорч",
+        "length": 6
+      },
+      {
+        "token": "взимку",
+        "signature": "взикму",
+        "length": 6
+      },
+      {
+        "token": "взуття",
+        "signature": "взтуя",
+        "length": 6
+      },
+      {
+        "token": "вибив",
+        "signature": "бви",
+        "length": 5
+      },
+      {
+        "token": "вибирати",
+        "signature": "абвирт",
+        "length": 8
+      },
+      {
+        "token": "вибрати",
+        "signature": "абвирт",
+        "length": 7
+      },
+      {
+        "token": "вибухнув",
+        "signature": "бвинух",
+        "length": 8
+      },
+      {
+        "token": "вигнанці",
+        "signature": "авгиінц",
+        "length": 8
+      },
+      {
+        "token": "виголосив",
+        "signature": "вгилос",
+        "length": 9
+      },
+      {
+        "token": "вигукнула",
+        "signature": "авгиклну",
+        "length": 9
+      },
+      {
+        "token": "видав",
+        "signature": "авди",
+        "length": 5
+      },
+      {
+        "token": "видряпався",
+        "signature": "авдипрся",
+        "length": 10
+      },
+      {
+        "token": "визирав",
+        "signature": "авзир",
+        "length": 7
+      },
+      {
+        "token": "виїхали",
+        "signature": "авиїлх",
+        "length": 7
+      },
+      {
+        "token": "викинути",
+        "signature": "викнту",
+        "length": 8
+      },
+      {
+        "token": "виклав",
+        "signature": "авикл",
+        "length": 6
+      },
+      {
+        "token": "викликало",
+        "signature": "авикло",
+        "length": 9
+      },
+      {
+        "token": "використати",
+        "signature": "авикорст",
+        "length": 11
+      },
+      {
+        "token": "викрикував",
+        "signature": "авикру",
+        "length": 10
+      },
+      {
+        "token": "вилами",
+        "signature": "авилм",
+        "length": 6
+      },
+      {
+        "token": "виліз",
+        "signature": "взиіл",
+        "length": 5
+      },
+      {
+        "token": "вилізти",
+        "signature": "взиілт",
+        "length": 7
+      },
+      {
+        "token": "вилоги",
+        "signature": "вгило",
+        "length": 6
+      },
+      {
+        "token": "вимагає",
+        "signature": "авгєим",
+        "length": 7
+      },
+      {
+        "token": "вимінювали",
+        "signature": "авиілмню",
+        "length": 10
+      },
+      {
+        "token": "виникла",
+        "signature": "авиклн",
+        "length": 7
+      },
+      {
+        "token": "винних",
+        "signature": "винх",
+        "length": 6
+      },
+      {
+        "token": "вином",
+        "signature": "вимно",
+        "length": 5
+      },
+      {
+        "token": "винувато",
+        "signature": "авиноту",
+        "length": 8
+      },
+      {
+        "token": "випадки",
+        "signature": "авдикп",
+        "length": 7
+      },
+      {
+        "token": "випалив",
+        "signature": "авилп",
+        "length": 7
+      },
+      {
+        "token": "випало",
+        "signature": "авилоп",
+        "length": 6
+      },
+      {
+        "token": "випередив",
+        "signature": "вдеипр",
+        "length": 9
+      },
+      {
+        "token": "виправдання",
+        "signature": "авдинпря",
+        "length": 11
+      },
+      {
+        "token": "випросталась",
+        "signature": "авилопрсть",
+        "length": 12
+      },
+      {
+        "token": "випустили",
+        "signature": "вилпсту",
+        "length": 9
+      },
+      {
+        "token": "виразу",
+        "signature": "авзиру",
+        "length": 6
+      },
+      {
+        "token": "вирвати",
+        "signature": "авирт",
+        "length": 7
+      },
+      {
+        "token": "вирішує",
+        "signature": "вєиіруш",
+        "length": 7
+      },
+      {
+        "token": "виросла",
+        "signature": "авилорс",
+        "length": 7
+      },
+      {
+        "token": "виросте",
+        "signature": "веиорст",
+        "length": 7
+      },
+      {
+        "token": "вирячився",
+        "signature": "вирсчя",
+        "length": 9
+      },
+      {
+        "token": "висіла",
+        "signature": "авиілс",
+        "length": 6
+      },
+      {
+        "token": "вискочив",
+        "signature": "викосч",
+        "length": 8
+      },
+      {
+        "token": "виснажений",
+        "signature": "авежийнс",
+        "length": 10
+      },
+      {
+        "token": "висновку",
+        "signature": "викносу",
+        "length": 8
+      },
+      {
+        "token": "високих",
+        "signature": "викосх",
+        "length": 7
+      },
+      {
+        "token": "високої",
+        "signature": "виїкос",
+        "length": 7
+      },
+      {
+        "token": "витерла",
+        "signature": "авеилрт",
+        "length": 7
+      },
+      {
+        "token": "витримав",
+        "signature": "авимрт",
+        "length": 8
+      },
+      {
+        "token": "витримала",
+        "signature": "авилмрт",
+        "length": 9
+      },
+      {
+        "token": "витримали",
+        "signature": "авилмрт",
+        "length": 9
+      },
+      {
+        "token": "витягнувся",
+        "signature": "вгинстуя",
+        "length": 10
+      },
+      {
+        "token": "вихід",
+        "signature": "вдиіх",
+        "length": 5
+      },
+      {
+        "token": "виходячи",
+        "signature": "вдиохчя",
+        "length": 8
+      },
+      {
+        "token": "вихопилося",
+        "signature": "вилопсхя",
+        "length": 10
+      },
+      {
+        "token": "вищої",
+        "signature": "виїощ",
+        "length": 5
+      },
+      {
+        "token": "віддав",
+        "signature": "авді",
+        "length": 6
+      },
+      {
+        "token": "відійшла",
+        "signature": "авдійлш",
+        "length": 8
+      },
+      {
+        "token": "відійшов",
+        "signature": "вдійош",
+        "length": 8
+      },
+      {
+        "token": "відкинувши",
+        "signature": "вдиікнуш",
+        "length": 10
+      },
+      {
+        "token": "відмовився",
+        "signature": "вдиімося",
+        "length": 10
+      },
+      {
+        "token": "відносин",
+        "signature": "вдиінос",
+        "length": 8
+      },
+      {
+        "token": "відомого",
+        "signature": "вгдімо",
+        "length": 8
+      },
+      {
+        "token": "відпустив",
+        "signature": "вдиіпсту",
+        "length": 9
+      },
+      {
+        "token": "відразу",
+        "signature": "авдзіру",
+        "length": 7
+      },
+      {
+        "token": "відрами",
+        "signature": "авдиімр",
+        "length": 7
+      },
+      {
+        "token": "відсотків",
+        "signature": "вдікост",
+        "length": 9
+      },
+      {
+        "token": "відчай",
+        "signature": "авдійч",
+        "length": 6
+      },
+      {
+        "token": "відчаю",
+        "signature": "авдічю",
+        "length": 6
+      },
+      {
+        "token": "відчуває",
+        "signature": "авдєіуч",
+        "length": 8
+      },
+      {
+        "token": "відчуваємо",
+        "signature": "авдєімоуч",
+        "length": 10
+      },
+      {
+        "token": "відчували",
+        "signature": "авдиілуч",
+        "length": 9
+      },
+      {
+        "token": "відштовхнув",
+        "signature": "вдінотухш",
+        "length": 11
+      },
+      {
+        "token": "відштовхнула",
+        "signature": "авділнотухш",
+        "length": 12
+      },
+      {
+        "token": "візник",
+        "signature": "взиікн",
+        "length": 6
+      },
+      {
+        "token": "візьметься",
+        "signature": "везімстья",
+        "length": 10
+      },
+      {
+        "token": "візьміть",
+        "signature": "взімть",
+        "length": 8
+      },
+      {
+        "token": "візьму",
+        "signature": "взімуь",
+        "length": 6
+      },
+      {
+        "token": "візьмуть",
+        "signature": "взімтуь",
+        "length": 8
+      },
+      {
+        "token": "військовий",
+        "signature": "виійкось",
+        "length": 10
+      },
+      {
+        "token": "військових",
+        "signature": "виійкосхь",
+        "length": 10
+      },
+      {
+        "token": "війта",
+        "signature": "авійт",
+        "length": 5
+      },
+      {
+        "token": "війтиха",
+        "signature": "авиійтх",
+        "length": 7
+      },
+      {
+        "token": "віконечка",
+        "signature": "авеікноч",
+        "length": 9
+      },
+      {
+        "token": "віконце",
+        "signature": "веікноц",
+        "length": 7
+      },
+      {
+        "token": "вільного",
+        "signature": "вгілноь",
+        "length": 8
+      },
+      {
+        "token": "вірив",
+        "signature": "виір",
+        "length": 5
+      },
+      {
+        "token": "вірилося",
+        "signature": "виілорся",
+        "length": 8
+      },
+      {
+        "token": "вірить",
+        "signature": "виірть",
+        "length": 6
+      },
+      {
+        "token": "віриться",
+        "signature": "виірстья",
+        "length": 8
+      },
+      {
+        "token": "вірною",
+        "signature": "вінорю",
+        "length": 6
+      },
+      {
+        "token": "вірячи",
+        "signature": "виірчя",
+        "length": 6
+      },
+      {
+        "token": "вічності",
+        "signature": "віностч",
+        "length": 8
+      },
+      {
+        "token": "віями",
+        "signature": "виімя",
+        "length": 5
+      },
+      {
+        "token": "вкрила",
+        "signature": "авиклр",
+        "length": 6
+      },
+      {
+        "token": "вкрита",
+        "signature": "авикрт",
+        "length": 6
+      },
+      {
+        "token": "вкриті",
+        "signature": "виікрт",
+        "length": 6
+      },
+      {
+        "token": "владик",
+        "signature": "авдикл",
+        "length": 6
+      },
+      {
+        "token": "владики",
+        "signature": "авдикл",
+        "length": 7
+      },
+      {
+        "token": "владі",
+        "signature": "авділ",
+        "length": 5
+      },
+      {
+        "token": "владно",
+        "signature": "авдлно",
+        "length": 6
+      },
+      {
+        "token": "власний",
+        "signature": "авийлнс",
+        "length": 7
+      },
+      {
+        "token": "власних",
+        "signature": "авилнсх",
+        "length": 7
+      },
+      {
+        "token": "влаштувати",
+        "signature": "авилтуш",
+        "length": 10
+      },
+      {
+        "token": "вмирати",
+        "signature": "авимрт",
+        "length": 7
+      },
+      {
+        "token": "вмирають",
+        "signature": "авимртью",
+        "length": 8
+      },
+      {
+        "token": "вміла",
+        "signature": "авілм",
+        "length": 5
+      },
+      {
+        "token": "вміють",
+        "signature": "вімтью",
+        "length": 6
+      },
+      {
+        "token": "внутрішньої",
+        "signature": "віїнортушь",
+        "length": 11
+      },
+      {
+        "token": "вовк",
+        "signature": "вко",
+        "length": 4
+      },
+      {
+        "token": "вовка",
+        "signature": "авко",
+        "length": 5
+      },
+      {
+        "token": "вогнища",
+        "signature": "авгинощ",
+        "length": 7
+      },
+      {
+        "token": "вожді",
+        "signature": "вджіо",
+        "length": 5
+      },
+      {
+        "token": "возами",
+        "signature": "авзимо",
+        "length": 6
+      },
+      {
+        "token": "возі",
+        "signature": "взіо",
+        "length": 4
+      },
+      {
+        "token": "возом",
+        "signature": "взмо",
+        "length": 5
+      },
+      {
+        "token": "вокзалі",
+        "signature": "авзікло",
+        "length": 7
+      },
+      {
+        "token": "воли",
+        "signature": "вило",
+        "length": 4
+      },
+      {
+        "token": "володіння",
+        "signature": "вділноя",
+        "length": 9
+      },
+      {
+        "token": "ворога",
+        "signature": "авгор",
+        "length": 6
+      },
+      {
+        "token": "ворогів",
+        "signature": "вгіор",
+        "length": 7
+      },
+      {
+        "token": "вороже",
+        "signature": "вежор",
+        "length": 6
+      },
+      {
+        "token": "ворожих",
+        "signature": "вжиорх",
+        "length": 7
+      },
+      {
+        "token": "впевнено",
+        "signature": "веноп",
+        "length": 8
+      },
+      {
+        "token": "впізнала",
+        "signature": "авзілнп",
+        "length": 8
+      },
+      {
+        "token": "впливом",
+        "signature": "вилмоп",
+        "length": 7
+      },
+      {
+        "token": "вражений",
+        "signature": "авежийнр",
+        "length": 8
+      },
+      {
+        "token": "всередині",
+        "signature": "вдеиінрс",
+        "length": 9
+      },
+      {
+        "token": "всівся",
+        "signature": "віся",
+        "length": 6
+      },
+      {
+        "token": "вставати",
+        "signature": "авист",
+        "length": 8
+      },
+      {
+        "token": "встали",
+        "signature": "авилст",
+        "length": 6
+      },
+      {
+        "token": "всяк",
+        "signature": "вкся",
+        "length": 4
+      },
+      {
+        "token": "всяких",
+        "signature": "виксхя",
+        "length": 6
+      },
+      {
+        "token": "втечеш",
+        "signature": "ветчш",
+        "length": 6
+      },
+      {
+        "token": "втрутився",
+        "signature": "вирстуя",
+        "length": 9
+      },
+      {
+        "token": "вулиць",
+        "signature": "вилуць",
+        "length": 6
+      },
+      {
+        "token": "вулиця",
+        "signature": "вилуця",
+        "length": 6
+      },
+      {
+        "token": "вулички",
+        "signature": "виклуч",
+        "length": 7
+      },
+      {
+        "token": "вусатий",
+        "signature": "авийсту",
+        "length": 7
+      },
+      {
+        "token": "вуси",
+        "signature": "вису",
+        "length": 4
+      },
+      {
+        "token": "вхід",
+        "signature": "вдіх",
+        "length": 4
+      },
+      {
+        "token": "вчився",
+        "signature": "висчя",
+        "length": 6
+      },
+      {
+        "token": "вчинили",
+        "signature": "вилнч",
+        "length": 7
+      },
+      {
+        "token": "вчинити",
+        "signature": "винтч",
+        "length": 7
+      },
+      {
+        "token": "вчинки",
+        "signature": "викнч",
+        "length": 6
+      },
+      {
+        "token": "вчитися",
+        "signature": "вистчя",
+        "length": 7
+      },
+      {
+        "token": "гадати",
+        "signature": "агдит",
+        "length": 6
+      },
+      {
+        "token": "гадкою",
+        "signature": "агдкою",
+        "length": 6
+      },
+      {
+        "token": "гадці",
+        "signature": "агдіц",
+        "length": 5
+      },
+      {
+        "token": "газетою",
+        "signature": "агезотю",
+        "length": 7
+      },
+      {
+        "token": "галицьких",
+        "signature": "агиклхць",
+        "length": 9
+      },
+      {
+        "token": "галицькій",
+        "signature": "агиійклць",
+        "length": 9
+      },
+      {
+        "token": "галицьку",
+        "signature": "агиклуць",
+        "length": 8
+      },
+      {
+        "token": "гаряче",
+        "signature": "агерчя",
+        "length": 6
+      },
+      {
+        "token": "гарячка",
+        "signature": "агкрчя",
+        "length": 7
+      },
+      {
+        "token": "гачі",
+        "signature": "агіч",
+        "length": 4
+      },
+      {
+        "token": "гібридизація",
+        "signature": "абгдзиірця",
+        "length": 12
+      },
+      {
+        "token": "гідності",
+        "signature": "гдіност",
+        "length": 8
+      },
+      {
+        "token": "гіллям",
+        "signature": "гілмя",
+        "length": 6
+      },
+      {
+        "token": "глипнула",
+        "signature": "агилнпу",
+        "length": 8
+      },
+      {
+        "token": "глузду",
+        "signature": "гдзлу",
+        "length": 6
+      },
+      {
+        "token": "глуха",
+        "signature": "аглух",
+        "length": 5
+      },
+      {
+        "token": "глухим",
+        "signature": "гилмух",
+        "length": 6
+      },
+      {
+        "token": "говорить",
+        "signature": "вгиорть",
+        "length": 8
+      },
+      {
+        "token": "голий",
+        "signature": "гийло",
+        "length": 5
+      },
+      {
+        "token": "голі",
+        "signature": "гіло",
+        "length": 4
+      },
+      {
+        "token": "голів",
+        "signature": "вгіло",
+        "length": 5
+      },
+      {
+        "token": "головах",
+        "signature": "авглох",
+        "length": 7
+      },
+      {
+        "token": "горб",
+        "signature": "бгор",
+        "length": 4
+      },
+      {
+        "token": "горба",
+        "signature": "абгор",
+        "length": 5
+      },
+      {
+        "token": "горищі",
+        "signature": "гиіорщ",
+        "length": 6
+      },
+      {
+        "token": "горіла",
+        "signature": "агілор",
+        "length": 6
+      },
+      {
+        "token": "горіло",
+        "signature": "гілор",
+        "length": 6
+      },
+      {
+        "token": "горлі",
+        "signature": "гілор",
+        "length": 5
+      },
+      {
+        "token": "городи",
+        "signature": "гдиор",
+        "length": 6
+      },
+      {
+        "token": "городом",
+        "signature": "гдмор",
+        "length": 7
+      },
+      {
+        "token": "горя",
+        "signature": "горя",
+        "length": 4
+      },
+      {
+        "token": "господареві",
+        "signature": "авгдеіопрс",
+        "length": 11
+      },
+      {
+        "token": "гострим",
+        "signature": "гиморст",
+        "length": 7
+      },
+      {
+        "token": "гострі",
+        "signature": "гіорст",
+        "length": 6
+      },
+      {
+        "token": "гостя",
+        "signature": "гостя",
+        "length": 5
+      },
+      {
+        "token": "гостями",
+        "signature": "гимостя",
+        "length": 7
+      },
+      {
+        "token": "градом",
+        "signature": "агдмор",
+        "length": 6
+      },
+      {
+        "token": "грали",
+        "signature": "агилр",
+        "length": 5
+      },
+      {
+        "token": "гребінь",
+        "signature": "бгеінрь",
+        "length": 7
+      },
+      {
+        "token": "громадян",
+        "signature": "агдмноря",
+        "length": 8
+      },
+      {
+        "token": "група",
+        "signature": "агпру",
+        "length": 5
+      },
+      {
+        "token": "губу",
+        "signature": "бгу",
+        "length": 4
+      },
+      {
+        "token": "гугнявим",
+        "signature": "вгимнуя",
+        "length": 8
+      },
+      {
+        "token": "гукнула",
+        "signature": "агклну",
+        "length": 7
+      },
+      {
+        "token": "гукнули",
+        "signature": "гиклну",
+        "length": 7
+      },
+      {
+        "token": "гурток",
+        "signature": "гкорту",
+        "length": 6
+      },
+      {
+        "token": "ґанку",
+        "signature": "аґкну",
+        "length": 5
+      },
+      {
+        "token": "давали",
+        "signature": "авдил",
+        "length": 6
+      },
+      {
+        "token": "давати",
+        "signature": "авдит",
+        "length": 6
+      },
+      {
+        "token": "дається",
+        "signature": "адєстья",
+        "length": 7
+      },
+      {
+        "token": "далекий",
+        "signature": "адеийкл",
+        "length": 7
+      },
+      {
+        "token": "далину",
+        "signature": "адилну",
+        "length": 6
+      },
+      {
+        "token": "дарма",
+        "signature": "адмр",
+        "length": 5
+      },
+      {
+        "token": "дарунок",
+        "signature": "адкнору",
+        "length": 7
+      },
+      {
+        "token": "дах",
+        "signature": "адх",
+        "length": 3
+      },
+      {
+        "token": "двадцятого",
+        "signature": "авгдотця",
+        "length": 10
+      },
+      {
+        "token": "дверцят",
+        "signature": "вдертця",
+        "length": 7
+      },
+      {
+        "token": "дедалі",
+        "signature": "адеіл",
+        "length": 6
+      },
+      {
+        "token": "державного",
+        "signature": "авгдежнор",
+        "length": 10
+      },
+      {
+        "token": "державному",
+        "signature": "авдежмнору",
+        "length": 10
+      },
+      {
+        "token": "дечого",
+        "signature": "гдеоч",
+        "length": 6
+      },
+      {
+        "token": "диван",
+        "signature": "авдин",
+        "length": 5
+      },
+      {
+        "token": "дивились",
+        "signature": "вдилсь",
+        "length": 8
+      },
+      {
+        "token": "дивися",
+        "signature": "вдися",
+        "length": 6
+      },
+      {
+        "token": "дика",
+        "signature": "адик",
+        "length": 4
+      },
+      {
+        "token": "дикі",
+        "signature": "диік",
+        "length": 4
+      },
+      {
+        "token": "дитиною",
+        "signature": "динотю",
+        "length": 7
+      },
+      {
+        "token": "дихнув",
+        "signature": "вдинух",
+        "length": 6
+      },
+      {
+        "token": "дівочий",
+        "signature": "вдиійоч",
+        "length": 7
+      },
+      {
+        "token": "дівочі",
+        "signature": "вдіоч",
+        "length": 6
+      },
+      {
+        "token": "дівчино",
+        "signature": "вдиіноч",
+        "length": 7
+      },
+      {
+        "token": "дійсності",
+        "signature": "дійност",
+        "length": 9
+      },
+      {
+        "token": "дійти",
+        "signature": "диійт",
+        "length": 5
+      },
+      {
+        "token": "дійшла",
+        "signature": "адійлш",
+        "length": 6
+      },
+      {
+        "token": "дійшло",
+        "signature": "дійлош",
+        "length": 6
+      },
+      {
+        "token": "ділити",
+        "signature": "диілт",
+        "length": 6
+      },
+      {
+        "token": "дістали",
+        "signature": "адиілст",
+        "length": 7
+      },
+      {
+        "token": "дісталися",
+        "signature": "адиілстя",
+        "length": 9
+      },
+      {
+        "token": "дітки",
+        "signature": "диікт",
+        "length": 5
+      },
+      {
+        "token": "добивалися",
+        "signature": "абвдилося",
+        "length": 10
+      },
+      {
+        "token": "добився",
+        "signature": "бвдиося",
+        "length": 7
+      },
+      {
+        "token": "добрався",
+        "signature": "абвдорся",
+        "length": 8
+      },
+      {
+        "token": "добрими",
+        "signature": "бдимор",
+        "length": 7
+      },
+      {
+        "token": "доброму",
+        "signature": "бдмору",
+        "length": 7
+      },
+      {
+        "token": "добув",
+        "signature": "бвдоу",
+        "length": 5
+      },
+      {
+        "token": "довгою",
+        "signature": "вгдою",
+        "length": 6
+      },
+      {
+        "token": "довідався",
+        "signature": "авдіося",
+        "length": 9
+      },
+      {
+        "token": "довірливо",
+        "signature": "вдиілор",
+        "length": 9
+      },
+      {
+        "token": "довіряти",
+        "signature": "вдиіортя",
+        "length": 8
+      },
+      {
+        "token": "дозволю",
+        "signature": "вдзлою",
+        "length": 7
+      },
+      {
+        "token": "докорів",
+        "signature": "вдікор",
+        "length": 7
+      },
+      {
+        "token": "документів",
+        "signature": "вдеікмноту",
+        "length": 10
+      },
+      {
+        "token": "долинув",
+        "signature": "вдилноу",
+        "length": 7
+      }
+    ]
+  }
+}

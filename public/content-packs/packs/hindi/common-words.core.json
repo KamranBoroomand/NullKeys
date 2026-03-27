@@ -1,0 +1,586 @@
+{
+  "packId": "hindi:common-words:core",
+  "languageId": "hindi",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 114,
+  "stages": {
+    "foundational": [
+      {
+        "token": "घर",
+        "signature": "घर",
+        "length": 2
+      },
+      {
+        "token": "लय",
+        "signature": "यल",
+        "length": 2
+      },
+      {
+        "token": "फल",
+        "signature": "फल",
+        "length": 2
+      },
+      {
+        "token": "समय",
+        "signature": "मयस",
+        "length": 3
+      },
+      {
+        "token": "मेज",
+        "signature": "जमे",
+        "length": 3
+      },
+      {
+        "token": "हवा",
+        "signature": "वहा",
+        "length": 3
+      },
+      {
+        "token": "हाथ",
+        "signature": "थहा",
+        "length": 3
+      },
+      {
+        "token": "शाम",
+        "signature": "मशा",
+        "length": 3
+      },
+      {
+        "token": "शहर",
+        "signature": "रशह",
+        "length": 3
+      },
+      {
+        "token": "काम",
+        "signature": "कमा",
+        "length": 3
+      },
+      {
+        "token": "पठन",
+        "signature": "ठनप",
+        "length": 3
+      },
+      {
+        "token": "नजर",
+        "signature": "जनर",
+        "length": 3
+      },
+      {
+        "token": "अंक",
+        "signature": "ंअक",
+        "length": 3
+      },
+      {
+        "token": "पुल",
+        "signature": "पलु",
+        "length": 3
+      },
+      {
+        "token": "चरण",
+        "signature": "चणर",
+        "length": 3
+      },
+      {
+        "token": "गति",
+        "signature": "गति",
+        "length": 3
+      },
+      {
+        "token": "रंग",
+        "signature": "ंगर",
+        "length": 3
+      },
+      {
+        "token": "नदी",
+        "signature": "दनी",
+        "length": 3
+      },
+      {
+        "token": "कदम",
+        "signature": "कदम",
+        "length": 3
+      },
+      {
+        "token": "आशा",
+        "signature": "आशा",
+        "length": 3
+      },
+      {
+        "token": "आदत",
+        "signature": "आतद",
+        "length": 3
+      },
+      {
+        "token": "पाठ",
+        "signature": "ठपा",
+        "length": 3
+      },
+      {
+        "token": "फूल",
+        "signature": "फलू",
+        "length": 3
+      },
+      {
+        "token": "रात",
+        "signature": "तरा",
+        "length": 3
+      },
+      {
+        "token": "सड़क",
+        "signature": "़कडस",
+        "length": 4
+      },
+      {
+        "token": "पानी",
+        "signature": "नपाी",
+        "length": 4
+      },
+      {
+        "token": "कागज",
+        "signature": "कगजा",
+        "length": 4
+      },
+      {
+        "token": "सुबह",
+        "signature": "बसहु",
+        "length": 4
+      },
+      {
+        "token": "शब्द",
+        "signature": "दबश्",
+        "length": 4
+      },
+      {
+        "token": "रेखा",
+        "signature": "खराे",
+        "length": 4
+      },
+      {
+        "token": "क्रम",
+        "signature": "कमर्",
+        "length": 4
+      },
+      {
+        "token": "कमरा",
+        "signature": "कमरा",
+        "length": 4
+      },
+      {
+        "token": "आंगन",
+        "signature": "ंआगन",
+        "length": 4
+      },
+      {
+        "token": "आवाज",
+        "signature": "आजवा",
+        "length": 4
+      },
+      {
+        "token": "मौसम",
+        "signature": "मसौ",
+        "length": 4
+      },
+      {
+        "token": "आकाश",
+        "signature": "आकशा",
+        "length": 4
+      },
+      {
+        "token": "गांव",
+        "signature": "ंगवा",
+        "length": 4
+      },
+      {
+        "token": "कारण",
+        "signature": "कणरा",
+        "length": 4
+      },
+      {
+        "token": "आकार",
+        "signature": "आकरा",
+        "length": 4
+      },
+      {
+        "token": "भाषा",
+        "signature": "भषा",
+        "length": 4
+      },
+      {
+        "token": "लेखन",
+        "signature": "खनले",
+        "length": 4
+      }
+    ],
+    "developing": [
+      {
+        "token": "दरवाजा",
+        "signature": "जदरवा",
+        "length": 6
+      },
+      {
+        "token": "दुनिया",
+        "signature": "दनयािु",
+        "length": 6
+      },
+      {
+        "token": "खिड़की",
+        "signature": "़कखडिी",
+        "length": 6
+      },
+      {
+        "token": "स्कूल",
+        "signature": "कलसू्",
+        "length": 5
+      },
+      {
+        "token": "स्मृति",
+        "signature": "तमसिृ्",
+        "length": 6
+      },
+      {
+        "token": "स्पष्टता",
+        "signature": "टतपषसा्",
+        "length": 8
+      },
+      {
+        "token": "संकेत",
+        "signature": "ंकतसे",
+        "length": 5
+      },
+      {
+        "token": "अभ्यास",
+        "signature": "अभयसा्",
+        "length": 6
+      },
+      {
+        "token": "नियंत्रण",
+        "signature": "ंणतनयरि्",
+        "length": 8
+      },
+      {
+        "token": "प्रवाह",
+        "signature": "परवहा्",
+        "length": 6
+      },
+      {
+        "token": "उत्तर",
+        "signature": "उतर्",
+        "length": 5
+      },
+      {
+        "token": "ध्यान",
+        "signature": "धनया्",
+        "length": 5
+      },
+      {
+        "token": "संतुलन",
+        "signature": "ंतनलसु",
+        "length": 6
+      },
+      {
+        "token": "अनुच्छेद",
+        "signature": "अचछदनुे्",
+        "length": 8
+      },
+      {
+        "token": "धैर्य",
+        "signature": "धयरै्",
+        "length": 5
+      },
+      {
+        "token": "सुधार",
+        "signature": "धरसाु",
+        "length": 5
+      },
+      {
+        "token": "प्रगति",
+        "signature": "गतपरि्",
+        "length": 6
+      },
+      {
+        "token": "परिवार",
+        "signature": "परवाि",
+        "length": 6
+      },
+      {
+        "token": "मित्र",
+        "signature": "तमरि्",
+        "length": 5
+      },
+      {
+        "token": "कहानी",
+        "signature": "कनहाी",
+        "length": 5
+      },
+      {
+        "token": "रास्ता",
+        "signature": "तरसा्",
+        "length": 6
+      },
+      {
+        "token": "बाजार",
+        "signature": "जबरा",
+        "length": 5
+      },
+      {
+        "token": "कार्यालय",
+        "signature": "कयरला्",
+        "length": 8
+      },
+      {
+        "token": "प्रकाश",
+        "signature": "कपरशा्",
+        "length": 6
+      },
+      {
+        "token": "बगीचा",
+        "signature": "गचबाी",
+        "length": 5
+      },
+      {
+        "token": "मुस्कान",
+        "signature": "कनमसाु्",
+        "length": 7
+      },
+      {
+        "token": "चित्र",
+        "signature": "चतरि्",
+        "length": 5
+      },
+      {
+        "token": "पहाड़",
+        "signature": "़डपहा",
+        "length": 5
+      },
+      {
+        "token": "यात्रा",
+        "signature": "तयरा्",
+        "length": 6
+      },
+      {
+        "token": "स्टेशन",
+        "signature": "टनशसे्",
+        "length": 6
+      },
+      {
+        "token": "संदेश",
+        "signature": "ंदशसे",
+        "length": 5
+      },
+      {
+        "token": "ऊर्जा",
+        "signature": "ऊजरा्",
+        "length": 5
+      },
+      {
+        "token": "विकल्प",
+        "signature": "कपलवि्",
+        "length": 6
+      },
+      {
+        "token": "उद्देश्य",
+        "signature": "उदयशे्",
+        "length": 8
+      },
+      {
+        "token": "प्रयास",
+        "signature": "पयरसा्",
+        "length": 6
+      },
+      {
+        "token": "परिणाम",
+        "signature": "णपमराि",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "भावना",
+        "signature": "नभवा",
+        "length": 5
+      },
+      {
+        "token": "पाठक",
+        "signature": "कठपा",
+        "length": 4
+      },
+      {
+        "token": "शिक्षक",
+        "signature": "कशषि्",
+        "length": 6
+      },
+      {
+        "token": "सेवा",
+        "signature": "वसाे",
+        "length": 4
+      },
+      {
+        "token": "इतिहास",
+        "signature": "इतसहाि",
+        "length": 6
+      },
+      {
+        "token": "संस्कृति",
+        "signature": "ंकतसिृ्",
+        "length": 8
+      },
+      {
+        "token": "भोजन",
+        "signature": "जनभो",
+        "length": 4
+      },
+      {
+        "token": "तैयारी",
+        "signature": "तयराीै",
+        "length": 6
+      },
+      {
+        "token": "कौशल",
+        "signature": "कलशौ",
+        "length": 4
+      },
+      {
+        "token": "गुणवत्ता",
+        "signature": "गणतवाु्",
+        "length": 8
+      },
+      {
+        "token": "स्थिरता",
+        "signature": "तथरसाि्",
+        "length": 7
+      },
+      {
+        "token": "परिवर्तन",
+        "signature": "तनपरवि्",
+        "length": 8
+      },
+      {
+        "token": "विराम",
+        "signature": "मरवाि",
+        "length": 5
+      },
+      {
+        "token": "तालमेल",
+        "signature": "तमलाे",
+        "length": 6
+      },
+      {
+        "token": "एकाग्रता",
+        "signature": "एकगतरा्",
+        "length": 8
+      },
+      {
+        "token": "अनुभव",
+        "signature": "अनभवु",
+        "length": 5
+      },
+      {
+        "token": "उदाहरण",
+        "signature": "उणदरहा",
+        "length": 6
+      },
+      {
+        "token": "समाधान",
+        "signature": "धनमसा",
+        "length": 6
+      },
+      {
+        "token": "प्रश्न",
+        "signature": "नपरश्",
+        "length": 6
+      },
+      {
+        "token": "विचार",
+        "signature": "चरवाि",
+        "length": 5
+      },
+      {
+        "token": "जीवन",
+        "signature": "जनवी",
+        "length": 4
+      },
+      {
+        "token": "हृदय",
+        "signature": "दयहृ",
+        "length": 4
+      },
+      {
+        "token": "समाज",
+        "signature": "जमसा",
+        "length": 4
+      },
+      {
+        "token": "भविष्य",
+        "signature": "भयवषि्",
+        "length": 6
+      },
+      {
+        "token": "वर्तमान",
+        "signature": "तनमरवा्",
+        "length": 7
+      },
+      {
+        "token": "अतीत",
+        "signature": "अती",
+        "length": 4
+      },
+      {
+        "token": "दोपहर",
+        "signature": "दपरहो",
+        "length": 5
+      },
+      {
+        "token": "सप्ताह",
+        "signature": "तपसहा्",
+        "length": 6
+      },
+      {
+        "token": "महीना",
+        "signature": "नमहाी",
+        "length": 5
+      },
+      {
+        "token": "वर्ष",
+        "signature": "रवष्",
+        "length": 4
+      },
+      {
+        "token": "अभ्यासक्रम",
+        "signature": "अकभमयरसा्",
+        "length": 10
+      },
+      {
+        "token": "रचना",
+        "signature": "चनरा",
+        "length": 4
+      },
+      {
+        "token": "संकेतक",
+        "signature": "ंकतसे",
+        "length": 6
+      },
+      {
+        "token": "निरीक्षण",
+        "signature": "कणनरषिी्",
+        "length": 8
+      },
+      {
+        "token": "प्रतिक्रिया",
+        "signature": "कतपयराि्",
+        "length": 11
+      },
+      {
+        "token": "पुनरावृत्ति",
+        "signature": "तनपरवािुृ्",
+        "length": 11
+      },
+      {
+        "token": "नियंत्रणशीलता",
+        "signature": "ंणतनयरलशािी्",
+        "length": 13
+      }
+    ]
+  }
+}

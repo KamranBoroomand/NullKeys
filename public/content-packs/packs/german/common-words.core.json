@@ -1,0 +1,3626 @@
+{
+  "packId": "german:common-words:core",
+  "languageId": "german",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "und",
+        "signature": "dnu",
+        "length": 3
+      },
+      {
+        "token": "die",
+        "signature": "dei",
+        "length": 3
+      },
+      {
+        "token": "sie",
+        "signature": "eis",
+        "length": 3
+      },
+      {
+        "token": "der",
+        "signature": "der",
+        "length": 3
+      },
+      {
+        "token": "das",
+        "signature": "ads",
+        "length": 3
+      },
+      {
+        "token": "du",
+        "signature": "du",
+        "length": 2
+      },
+      {
+        "token": "ist",
+        "signature": "ist",
+        "length": 3
+      },
+      {
+        "token": "nicht",
+        "signature": "chint",
+        "length": 5
+      },
+      {
+        "token": "ich",
+        "signature": "chi",
+        "length": 3
+      },
+      {
+        "token": "in",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "zu",
+        "signature": "uz",
+        "length": 2
+      },
+      {
+        "token": "mit",
+        "signature": "imt",
+        "length": 3
+      },
+      {
+        "token": "wir",
+        "signature": "irw",
+        "length": 3
+      },
+      {
+        "token": "was",
+        "signature": "asw",
+        "length": 3
+      },
+      {
+        "token": "den",
+        "signature": "den",
+        "length": 3
+      },
+      {
+        "token": "er",
+        "signature": "er",
+        "length": 2
+      },
+      {
+        "token": "es",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "sich",
+        "signature": "chis",
+        "length": 4
+      },
+      {
+        "token": "ein",
+        "signature": "ein",
+        "length": 3
+      },
+      {
+        "token": "war",
+        "signature": "arw",
+        "length": 3
+      },
+      {
+        "token": "auf",
+        "signature": "afu",
+        "length": 3
+      },
+      {
+        "token": "dem",
+        "signature": "dem",
+        "length": 3
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "mir",
+        "signature": "imr",
+        "length": 3
+      },
+      {
+        "token": "wie",
+        "signature": "eiw",
+        "length": 3
+      },
+      {
+        "token": "mich",
+        "signature": "chim",
+        "length": 4
+      },
+      {
+        "token": "so",
+        "signature": "os",
+        "length": 2
+      },
+      {
+        "token": "dass",
+        "signature": "ads",
+        "length": 4
+      },
+      {
+        "token": "aber",
+        "signature": "aber",
+        "length": 4
+      },
+      {
+        "token": "eine",
+        "signature": "ein",
+        "length": 4
+      },
+      {
+        "token": "hat",
+        "signature": "aht",
+        "length": 3
+      },
+      {
+        "token": "hier",
+        "signature": "ehir",
+        "length": 4
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "haben",
+        "signature": "abehn",
+        "length": 5
+      },
+      {
+        "token": "sind",
+        "signature": "dins",
+        "length": 4
+      },
+      {
+        "token": "für",
+        "signature": "frü",
+        "length": 3
+      },
+      {
+        "token": "dich",
+        "signature": "cdhi",
+        "length": 4
+      },
+      {
+        "token": "wenn",
+        "signature": "enw",
+        "length": 4
+      },
+      {
+        "token": "als",
+        "signature": "als",
+        "length": 3
+      },
+      {
+        "token": "nein",
+        "signature": "ein",
+        "length": 4
+      },
+      {
+        "token": "im",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "habe",
+        "signature": "abeh",
+        "length": 4
+      },
+      {
+        "token": "hatte",
+        "signature": "aeht",
+        "length": 5
+      },
+      {
+        "token": "noch",
+        "signature": "chno",
+        "length": 4
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "nur",
+        "signature": "nru",
+        "length": 3
+      },
+      {
+        "token": "dir",
+        "signature": "dir",
+        "length": 3
+      },
+      {
+        "token": "einen",
+        "signature": "ein",
+        "length": 5
+      },
+      {
+        "token": "uns",
+        "signature": "nsu",
+        "length": 3
+      },
+      {
+        "token": "hast",
+        "signature": "ahst",
+        "length": 4
+      },
+      {
+        "token": "aus",
+        "signature": "asu",
+        "length": 3
+      },
+      {
+        "token": "auch",
+        "signature": "achu",
+        "length": 4
+      },
+      {
+        "token": "kann",
+        "signature": "akn",
+        "length": 4
+      },
+      {
+        "token": "nach",
+        "signature": "achn",
+        "length": 4
+      },
+      {
+        "token": "schon",
+        "signature": "chnos",
+        "length": 5
+      },
+      {
+        "token": "ihn",
+        "signature": "hin",
+        "length": 3
+      },
+      {
+        "token": "jetzt",
+        "signature": "ejtz",
+        "length": 5
+      },
+      {
+        "token": "dann",
+        "signature": "adn",
+        "length": 4
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "seine",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "meine",
+        "signature": "eimn",
+        "length": 5
+      },
+      {
+        "token": "ihr",
+        "signature": "hir",
+        "length": 3
+      },
+      {
+        "token": "um",
+        "signature": "mu",
+        "length": 2
+      },
+      {
+        "token": "wird",
+        "signature": "dirw",
+        "length": 4
+      },
+      {
+        "token": "einem",
+        "signature": "eimn",
+        "length": 5
+      },
+      {
+        "token": "mein",
+        "signature": "eimn",
+        "length": 4
+      },
+      {
+        "token": "bist",
+        "signature": "bist",
+        "length": 4
+      },
+      {
+        "token": "doch",
+        "signature": "cdho",
+        "length": 4
+      },
+      {
+        "token": "ihm",
+        "signature": "him",
+        "length": 3
+      },
+      {
+        "token": "über",
+        "signature": "berü",
+        "length": 4
+      },
+      {
+        "token": "alles",
+        "signature": "aels",
+        "length": 5
+      },
+      {
+        "token": "einer",
+        "signature": "einr",
+        "length": 5
+      },
+      {
+        "token": "sagte",
+        "signature": "aegst",
+        "length": 5
+      },
+      {
+        "token": "keine",
+        "signature": "eikn",
+        "length": 5
+      },
+      {
+        "token": "vor",
+        "signature": "orv",
+        "length": 3
+      },
+      {
+        "token": "oder",
+        "signature": "deor",
+        "length": 4
+      },
+      {
+        "token": "zum",
+        "signature": "muz",
+        "length": 3
+      },
+      {
+        "token": "denn",
+        "signature": "den",
+        "length": 4
+      },
+      {
+        "token": "nichts",
+        "signature": "chinst",
+        "length": 6
+      },
+      {
+        "token": "werden",
+        "signature": "denrw",
+        "length": 6
+      },
+      {
+        "token": "will",
+        "signature": "ilw",
+        "length": 4
+      },
+      {
+        "token": "wo",
+        "signature": "ow",
+        "length": 2
+      },
+      {
+        "token": "ihnen",
+        "signature": "ehin",
+        "length": 5
+      },
+      {
+        "token": "muss",
+        "signature": "msu",
+        "length": 4
+      },
+      {
+        "token": "bei",
+        "signature": "bei",
+        "length": 3
+      },
+      {
+        "token": "etwas",
+        "signature": "aestw",
+        "length": 5
+      },
+      {
+        "token": "mehr",
+        "signature": "ehmr",
+        "length": 4
+      },
+      {
+        "token": "seiner",
+        "signature": "einrs",
+        "length": 6
+      },
+      {
+        "token": "also",
+        "signature": "alos",
+        "length": 4
+      },
+      {
+        "token": "ihre",
+        "signature": "ehir",
+        "length": 4
+      },
+      {
+        "token": "immer",
+        "signature": "eimr",
+        "length": 5
+      },
+      {
+        "token": "warum",
+        "signature": "amruw",
+        "length": 5
+      },
+      {
+        "token": "wieder",
+        "signature": "deirw",
+        "length": 6
+      },
+      {
+        "token": "durch",
+        "signature": "cdhru",
+        "length": 5
+      },
+      {
+        "token": "können",
+        "signature": "eknö",
+        "length": 6
+      },
+      {
+        "token": "waren",
+        "signature": "aenrw",
+        "length": 5
+      },
+      {
+        "token": "sagen",
+        "signature": "aegns",
+        "length": 5
+      },
+      {
+        "token": "augen",
+        "signature": "aegnu",
+        "length": 5
+      },
+      {
+        "token": "ganz",
+        "signature": "agnz",
+        "length": 4
+      },
+      {
+        "token": "alle",
+        "signature": "ael",
+        "length": 4
+      },
+      {
+        "token": "machen",
+        "signature": "acehmn",
+        "length": 6
+      },
+      {
+        "token": "sehr",
+        "signature": "ehrs",
+        "length": 4
+      },
+      {
+        "token": "mann",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "seinen",
+        "signature": "eins",
+        "length": 6
+      },
+      {
+        "token": "geht",
+        "signature": "eght",
+        "length": 4
+      },
+      {
+        "token": "danke",
+        "signature": "adekn",
+        "length": 5
+      },
+      {
+        "token": "zur",
+        "signature": "ruz",
+        "length": 3
+      },
+      {
+        "token": "diese",
+        "signature": "deis",
+        "length": 5
+      },
+      {
+        "token": "euch",
+        "signature": "cehu",
+        "length": 4
+      },
+      {
+        "token": "wer",
+        "signature": "erw",
+        "length": 3
+      },
+      {
+        "token": "vielleicht",
+        "signature": "cehiltv",
+        "length": 10
+      },
+      {
+        "token": "komm",
+        "signature": "kmo",
+        "length": 4
+      },
+      {
+        "token": "ohne",
+        "signature": "ehno",
+        "length": 4
+      },
+      {
+        "token": "dieser",
+        "signature": "deirs",
+        "length": 6
+      },
+      {
+        "token": "deine",
+        "signature": "dein",
+        "length": 5
+      },
+      {
+        "token": "müssen",
+        "signature": "emnsü",
+        "length": 6
+      },
+      {
+        "token": "soll",
+        "signature": "los",
+        "length": 4
+      },
+      {
+        "token": "nie",
+        "signature": "ein",
+        "length": 3
+      },
+      {
+        "token": "werde",
+        "signature": "derw",
+        "length": 5
+      },
+      {
+        "token": "wirklich",
+        "signature": "chiklrw",
+        "length": 8
+      },
+      {
+        "token": "seinem",
+        "signature": "eimns",
+        "length": 6
+      },
+      {
+        "token": "kein",
+        "signature": "eikn",
+        "length": 4
+      },
+      {
+        "token": "viel",
+        "signature": "eilv",
+        "length": 4
+      },
+      {
+        "token": "selbst",
+        "signature": "belst",
+        "length": 6
+      },
+      {
+        "token": "gibt",
+        "signature": "bgit",
+        "length": 4
+      },
+      {
+        "token": "tut",
+        "signature": "tu",
+        "length": 3
+      },
+      {
+        "token": "einfach",
+        "signature": "acefhin",
+        "length": 7
+      },
+      {
+        "token": "unter",
+        "signature": "enrtu",
+        "length": 5
+      },
+      {
+        "token": "frau",
+        "signature": "afru",
+        "length": 4
+      },
+      {
+        "token": "willst",
+        "signature": "ilstw",
+        "length": 6
+      },
+      {
+        "token": "zeit",
+        "signature": "eitz",
+        "length": 4
+      },
+      {
+        "token": "kommen",
+        "signature": "ekmno",
+        "length": 6
+      },
+      {
+        "token": "dein",
+        "signature": "dein",
+        "length": 4
+      },
+      {
+        "token": "weil",
+        "signature": "eilw",
+        "length": 4
+      },
+      {
+        "token": "ihren",
+        "signature": "ehinr",
+        "length": 5
+      },
+      {
+        "token": "wenig",
+        "signature": "eginw",
+        "length": 5
+      },
+      {
+        "token": "kommt",
+        "signature": "kmot",
+        "length": 5
+      },
+      {
+        "token": "ihrer",
+        "signature": "ehir",
+        "length": 5
+      },
+      {
+        "token": "wurde",
+        "signature": "deruw",
+        "length": 5
+      },
+      {
+        "token": "heute",
+        "signature": "ehtu",
+        "length": 5
+      },
+      {
+        "token": "wollen",
+        "signature": "elnow",
+        "length": 6
+      },
+      {
+        "token": "konsul",
+        "signature": "klnosu",
+        "length": 6
+      },
+      {
+        "token": "eines",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "damit",
+        "signature": "adimt",
+        "length": 5
+      },
+      {
+        "token": "wäre",
+        "signature": "äerw",
+        "length": 4
+      },
+      {
+        "token": "weißt",
+        "signature": "eißtw",
+        "length": 5
+      },
+      {
+        "token": "wollte",
+        "signature": "elotw",
+        "length": 6
+      },
+      {
+        "token": "sah",
+        "signature": "ahs",
+        "length": 3
+      },
+      {
+        "token": "gesagt",
+        "signature": "aegst",
+        "length": 6
+      },
+      {
+        "token": "bis",
+        "signature": "bis",
+        "length": 3
+      },
+      {
+        "token": "sicher",
+        "signature": "cehirs",
+        "length": 6
+      },
+      {
+        "token": "sei",
+        "signature": "eis",
+        "length": 3
+      },
+      {
+        "token": "vom",
+        "signature": "mov",
+        "length": 3
+      },
+      {
+        "token": "ließ",
+        "signature": "eilß",
+        "length": 4
+      },
+      {
+        "token": "mutter",
+        "signature": "emrtu",
+        "length": 6
+      },
+      {
+        "token": "kannst",
+        "signature": "aknst",
+        "length": 6
+      },
+      {
+        "token": "während",
+        "signature": "ädehnrw",
+        "length": 7
+      },
+      {
+        "token": "zurück",
+        "signature": "ckruüz",
+        "length": 6
+      },
+      {
+        "token": "leben",
+        "signature": "beln",
+        "length": 5
+      },
+      {
+        "token": "konnte",
+        "signature": "eknot",
+        "length": 6
+      },
+      {
+        "token": "ging",
+        "signature": "gin",
+        "length": 4
+      },
+      {
+        "token": "kam",
+        "signature": "akm",
+        "length": 3
+      },
+      {
+        "token": "hallo",
+        "signature": "ahlo",
+        "length": 5
+      },
+      {
+        "token": "kleinen",
+        "signature": "eikln",
+        "length": 7
+      },
+      {
+        "token": "einmal",
+        "signature": "aeilmn",
+        "length": 6
+      },
+      {
+        "token": "zwei",
+        "signature": "eiwz",
+        "length": 4
+      },
+      {
+        "token": "hätte",
+        "signature": "äeht",
+        "length": 5
+      },
+      {
+        "token": "genau",
+        "signature": "aegnu",
+        "length": 5
+      },
+      {
+        "token": "könnte",
+        "signature": "eknöt",
+        "length": 6
+      },
+      {
+        "token": "lass",
+        "signature": "als",
+        "length": 4
+      },
+      {
+        "token": "klar",
+        "signature": "aklr",
+        "length": 4
+      },
+      {
+        "token": "morgen",
+        "signature": "egmnor",
+        "length": 6
+      },
+      {
+        "token": "dies",
+        "signature": "deis",
+        "length": 4
+      },
+      {
+        "token": "meiner",
+        "signature": "eimnr",
+        "length": 6
+      },
+      {
+        "token": "ins",
+        "signature": "ins",
+        "length": 3
+      },
+      {
+        "token": "leute",
+        "signature": "eltu",
+        "length": 5
+      },
+      {
+        "token": "vater",
+        "signature": "aertv",
+        "length": 5
+      },
+      {
+        "token": "indem",
+        "signature": "deimn",
+        "length": 5
+      },
+      {
+        "token": "bitte",
+        "signature": "beit",
+        "length": 5
+      },
+      {
+        "token": "dort",
+        "signature": "dort",
+        "length": 4
+      },
+      {
+        "token": "ihrem",
+        "signature": "ehimr",
+        "length": 5
+      },
+      {
+        "token": "schön",
+        "signature": "chnös",
+        "length": 5
+      },
+      {
+        "token": "gesehen",
+        "signature": "eghns",
+        "length": 7
+      },
+      {
+        "token": "gewesen",
+        "signature": "egnsw",
+        "length": 7
+      },
+      {
+        "token": "gegen",
+        "signature": "egn",
+        "length": 5
+      },
+      {
+        "token": "ab",
+        "signature": "ab",
+        "length": 2
+      },
+      {
+        "token": "geld",
+        "signature": "degl",
+        "length": 4
+      },
+      {
+        "token": "diesem",
+        "signature": "deims",
+        "length": 6
+      },
+      {
+        "token": "herrn",
+        "signature": "ehnr",
+        "length": 5
+      },
+      {
+        "token": "gesicht",
+        "signature": "ceghist",
+        "length": 7
+      },
+      {
+        "token": "raus",
+        "signature": "arsu",
+        "length": 4
+      },
+      {
+        "token": "gar",
+        "signature": "agr",
+        "length": 3
+      },
+      {
+        "token": "unsere",
+        "signature": "enrsu",
+        "length": 6
+      },
+      {
+        "token": "sollte",
+        "signature": "elost",
+        "length": 6
+      },
+      {
+        "token": "kopf",
+        "signature": "fkop",
+        "length": 4
+      },
+      {
+        "token": "jemand",
+        "signature": "adejmn",
+        "length": 6
+      },
+      {
+        "token": "keinen",
+        "signature": "eikn",
+        "length": 6
+      },
+      {
+        "token": "kleine",
+        "signature": "eikln",
+        "length": 6
+      },
+      {
+        "token": "großen",
+        "signature": "egnorß",
+        "length": 6
+      },
+      {
+        "token": "seines",
+        "signature": "eins",
+        "length": 6
+      },
+      {
+        "token": "konsulin",
+        "signature": "iklnosu",
+        "length": 8
+      },
+      {
+        "token": "ob",
+        "signature": "bo",
+        "length": 2
+      },
+      {
+        "token": "dieses",
+        "signature": "deis",
+        "length": 6
+      },
+      {
+        "token": "hatten",
+        "signature": "aehnt",
+        "length": 6
+      },
+      {
+        "token": "gemacht",
+        "signature": "aceghmt",
+        "length": 7
+      },
+      {
+        "token": "besser",
+        "signature": "bers",
+        "length": 6
+      },
+      {
+        "token": "passiert",
+        "signature": "aeiprst",
+        "length": 8
+      },
+      {
+        "token": "dachte",
+        "signature": "acdeht",
+        "length": 6
+      },
+      {
+        "token": "gehört",
+        "signature": "eghört",
+        "length": 6
+      },
+      {
+        "token": "musst",
+        "signature": "mstu",
+        "length": 5
+      },
+      {
+        "token": "wieso",
+        "signature": "eiosw",
+        "length": 5
+      },
+      {
+        "token": "her",
+        "signature": "ehr",
+        "length": 3
+      },
+      {
+        "token": "diesen",
+        "signature": "deins",
+        "length": 6
+      },
+      {
+        "token": "stadt",
+        "signature": "adst",
+        "length": 5
+      },
+      {
+        "token": "möchte",
+        "signature": "cehmöt",
+        "length": 6
+      },
+      {
+        "token": "hör",
+        "signature": "hör",
+        "length": 3
+      },
+      {
+        "token": "mach",
+        "signature": "achm",
+        "length": 4
+      },
+      {
+        "token": "grünlich",
+        "signature": "cghilnrü",
+        "length": 8
+      },
+      {
+        "token": "anderen",
+        "signature": "adenr",
+        "length": 7
+      },
+      {
+        "token": "zwischen",
+        "signature": "cehinswz",
+        "length": 8
+      },
+      {
+        "token": "nacht",
+        "signature": "achnt",
+        "length": 5
+      },
+      {
+        "token": "wirst",
+        "signature": "irstw",
+        "length": 5
+      },
+      {
+        "token": "helfen",
+        "signature": "efhln",
+        "length": 6
+      },
+      {
+        "token": "gute",
+        "signature": "egtu",
+        "length": 4
+      },
+      {
+        "token": "hause",
+        "signature": "aehsu",
+        "length": 5
+      },
+      {
+        "token": "meinem",
+        "signature": "eimn",
+        "length": 6
+      },
+      {
+        "token": "natürlich",
+        "signature": "achilnrtü",
+        "length": 9
+      },
+      {
+        "token": "beiden",
+        "signature": "bdein",
+        "length": 6
+      },
+      {
+        "token": "allein",
+        "signature": "aeiln",
+        "length": 6
+      },
+      {
+        "token": "los",
+        "signature": "los",
+        "length": 3
+      },
+      {
+        "token": "sag",
+        "signature": "ags",
+        "length": 3
+      },
+      {
+        "token": "gab",
+        "signature": "abg",
+        "length": 3
+      },
+      {
+        "token": "liebe",
+        "signature": "beil",
+        "length": 5
+      },
+      {
+        "token": "weiter",
+        "signature": "eirtw",
+        "length": 6
+      },
+      {
+        "token": "machte",
+        "signature": "acehmt",
+        "length": 6
+      },
+      {
+        "token": "tage",
+        "signature": "aegt",
+        "length": 4
+      },
+      {
+        "token": "ersten",
+        "signature": "enrst",
+        "length": 6
+      },
+      {
+        "token": "ganze",
+        "signature": "aegnz",
+        "length": 5
+      },
+      {
+        "token": "sagt",
+        "signature": "agst",
+        "length": 4
+      },
+      {
+        "token": "alten",
+        "signature": "aelnt",
+        "length": 5
+      },
+      {
+        "token": "weit",
+        "signature": "eitw",
+        "length": 4
+      },
+      {
+        "token": "mal",
+        "signature": "alm",
+        "length": 3
+      },
+      {
+        "token": "ordnung",
+        "signature": "dgnoru",
+        "length": 7
+      },
+      {
+        "token": "gleich",
+        "signature": "ceghil",
+        "length": 6
+      },
+      {
+        "token": "dessen",
+        "signature": "dens",
+        "length": 6
+      },
+      {
+        "token": "seit",
+        "signature": "eist",
+        "length": 4
+      },
+      {
+        "token": "hören",
+        "signature": "ehnör",
+        "length": 5
+      },
+      {
+        "token": "hände",
+        "signature": "ädehn",
+        "length": 5
+      },
+      {
+        "token": "sondern",
+        "signature": "denors",
+        "length": 7
+      },
+      {
+        "token": "rief",
+        "signature": "efir",
+        "length": 4
+      },
+      {
+        "token": "richtig",
+        "signature": "cghirt",
+        "length": 7
+      },
+      {
+        "token": "nahm",
+        "signature": "ahmn",
+        "length": 4
+      },
+      {
+        "token": "davon",
+        "signature": "adnov",
+        "length": 5
+      },
+      {
+        "token": "stimme",
+        "signature": "eimst",
+        "length": 6
+      },
+      {
+        "token": "dafür",
+        "signature": "adfrü",
+        "length": 5
+      },
+      {
+        "token": "geh",
+        "signature": "egh",
+        "length": 3
+      },
+      {
+        "token": "hin",
+        "signature": "hin",
+        "length": 3
+      },
+      {
+        "token": "mädchen",
+        "signature": "äcdehmn",
+        "length": 7
+      },
+      {
+        "token": "begann",
+        "signature": "abegn",
+        "length": 6
+      },
+      {
+        "token": "sprach",
+        "signature": "achprs",
+        "length": 6
+      },
+      {
+        "token": "sieht",
+        "signature": "ehist",
+        "length": 5
+      },
+      {
+        "token": "wegen",
+        "signature": "egnw",
+        "length": 5
+      },
+      {
+        "token": "saß",
+        "signature": "asß",
+        "length": 3
+      },
+      {
+        "token": "sollten",
+        "signature": "elnost",
+        "length": 7
+      },
+      {
+        "token": "viele",
+        "signature": "eilv",
+        "length": 5
+      },
+      {
+        "token": "weg",
+        "signature": "egw",
+        "length": 3
+      },
+      {
+        "token": "sollen",
+        "signature": "elnos",
+        "length": 6
+      },
+      {
+        "token": "alte",
+        "signature": "aelt",
+        "length": 4
+      },
+      {
+        "token": "plötzlich",
+        "signature": "chilöptz",
+        "length": 9
+      },
+      {
+        "token": "freund",
+        "signature": "defnru",
+        "length": 6
+      },
+      {
+        "token": "haus",
+        "signature": "ahsu",
+        "length": 4
+      },
+      {
+        "token": "wort",
+        "signature": "ortw",
+        "length": 4
+      },
+      {
+        "token": "drei",
+        "signature": "deir",
+        "length": 4
+      },
+      {
+        "token": "lag",
+        "signature": "agl",
+        "length": 3
+      },
+      {
+        "token": "deinen",
+        "signature": "dein",
+        "length": 6
+      },
+      {
+        "token": "herz",
+        "signature": "ehrz",
+        "length": 4
+      },
+      {
+        "token": "beim",
+        "signature": "beim",
+        "length": 4
+      },
+      {
+        "token": "denen",
+        "signature": "den",
+        "length": 5
+      },
+      {
+        "token": "welt",
+        "signature": "eltw",
+        "length": 4
+      },
+      {
+        "token": "guten",
+        "signature": "egntu",
+        "length": 5
+      },
+      {
+        "token": "fragte",
+        "signature": "aefgrt",
+        "length": 6
+      },
+      {
+        "token": "denke",
+        "signature": "dekn",
+        "length": 5
+      },
+      {
+        "token": "hielt",
+        "signature": "ehilt",
+        "length": 5
+      },
+      {
+        "token": "menschen",
+        "signature": "cehmns",
+        "length": 8
+      },
+      {
+        "token": "unser",
+        "signature": "enrsu",
+        "length": 5
+      },
+      {
+        "token": "abend",
+        "signature": "abden",
+        "length": 5
+      },
+      {
+        "token": "tot",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "bleiben",
+        "signature": "beiln",
+        "length": 7
+      },
+      {
+        "token": "warte",
+        "signature": "aertw",
+        "length": 5
+      },
+      {
+        "token": "habt",
+        "signature": "abht",
+        "length": 4
+      },
+      {
+        "token": "machst",
+        "signature": "achmst",
+        "length": 6
+      },
+      {
+        "token": "tochter",
+        "signature": "cehort",
+        "length": 7
+      },
+      {
+        "token": "schien",
+        "signature": "cehins",
+        "length": 6
+      },
+      {
+        "token": "schnell",
+        "signature": "cehlns",
+        "length": 7
+      },
+      {
+        "token": "blick",
+        "signature": "bcikl",
+        "length": 5
+      },
+      {
+        "token": "große",
+        "signature": "egorß",
+        "length": 5
+      },
+      {
+        "token": "zusammen",
+        "signature": "aemnsuz",
+        "length": 8
+      },
+      {
+        "token": "rein",
+        "signature": "einr",
+        "length": 4
+      },
+      {
+        "token": "andere",
+        "signature": "adenr",
+        "length": 6
+      },
+      {
+        "token": "ende",
+        "signature": "den",
+        "length": 4
+      },
+      {
+        "token": "getan",
+        "signature": "aegnt",
+        "length": 5
+      },
+      {
+        "token": "familie",
+        "signature": "aefilm",
+        "length": 7
+      },
+      {
+        "token": "darf",
+        "signature": "adfr",
+        "length": 4
+      },
+      {
+        "token": "genug",
+        "signature": "egnu",
+        "length": 5
+      },
+      {
+        "token": "deren",
+        "signature": "denr",
+        "length": 5
+      },
+      {
+        "token": "kinder",
+        "signature": "deiknr",
+        "length": 6
+      },
+      {
+        "token": "darauf",
+        "signature": "adfru",
+        "length": 6
+      },
+      {
+        "token": "hinter",
+        "signature": "ehinrt",
+        "length": 6
+      },
+      {
+        "token": "brauchen",
+        "signature": "abcehnru",
+        "length": 8
+      },
+      {
+        "token": "geworden",
+        "signature": "degnorw",
+        "length": 8
+      },
+      {
+        "token": "seite",
+        "signature": "eist",
+        "length": 5
+      },
+      {
+        "token": "doktor",
+        "signature": "dkort",
+        "length": 6
+      },
+      {
+        "token": "seid",
+        "signature": "deis",
+        "length": 4
+      },
+      {
+        "token": "sonst",
+        "signature": "nost",
+        "length": 5
+      },
+      {
+        "token": "steht",
+        "signature": "ehst",
+        "length": 5
+      },
+      {
+        "token": "musik",
+        "signature": "ikmsu",
+        "length": 5
+      },
+      {
+        "token": "ganzen",
+        "signature": "aegnz",
+        "length": 6
+      },
+      {
+        "token": "sache",
+        "signature": "acehs",
+        "length": 5
+      },
+      {
+        "token": "heißt",
+        "signature": "ehißt",
+        "length": 5
+      },
+      {
+        "token": "fragen",
+        "signature": "aefgnr",
+        "length": 6
+      },
+      {
+        "token": "arbeit",
+        "signature": "abeirt",
+        "length": 6
+      },
+      {
+        "token": "niemand",
+        "signature": "adeimn",
+        "length": 7
+      },
+      {
+        "token": "dabei",
+        "signature": "abdei",
+        "length": 5
+      },
+      {
+        "token": "sofort",
+        "signature": "forst",
+        "length": 6
+      },
+      {
+        "token": "stunde",
+        "signature": "denstu",
+        "length": 6
+      },
+      {
+        "token": "jahre",
+        "signature": "aehjr",
+        "length": 5
+      },
+      {
+        "token": "bevor",
+        "signature": "beorv",
+        "length": 5
+      },
+      {
+        "token": "jeder",
+        "signature": "dejr",
+        "length": 5
+      },
+      {
+        "token": "chor",
+        "signature": "chor",
+        "length": 4
+      },
+      {
+        "token": "lieber",
+        "signature": "beilr",
+        "length": 6
+      },
+      {
+        "token": "worden",
+        "signature": "denorw",
+        "length": 6
+      },
+      {
+        "token": "stimmt",
+        "signature": "imst",
+        "length": 6
+      },
+      {
+        "token": "langsam",
+        "signature": "aglmns",
+        "length": 7
+      },
+      {
+        "token": "sohn",
+        "signature": "hnos",
+        "length": 4
+      },
+      {
+        "token": "niemals",
+        "signature": "aeilmns",
+        "length": 7
+      },
+      {
+        "token": "brauche",
+        "signature": "abcehru",
+        "length": 7
+      },
+      {
+        "token": "dazu",
+        "signature": "aduz",
+        "length": 4
+      },
+      {
+        "token": "namen",
+        "signature": "aemn",
+        "length": 5
+      },
+      {
+        "token": "zimmer",
+        "signature": "eimrz",
+        "length": 6
+      },
+      {
+        "token": "zwar",
+        "signature": "arwz",
+        "length": 4
+      },
+      {
+        "token": "wann",
+        "signature": "anw",
+        "length": 4
+      },
+      {
+        "token": "fertig",
+        "signature": "efgirt",
+        "length": 6
+      },
+      {
+        "token": "kaum",
+        "signature": "akmu",
+        "length": 4
+      },
+      {
+        "token": "wurden",
+        "signature": "denruw",
+        "length": 6
+      },
+      {
+        "token": "junge",
+        "signature": "egjnu",
+        "length": 5
+      },
+      {
+        "token": "andern",
+        "signature": "adenr",
+        "length": 6
+      },
+      {
+        "token": "fast",
+        "signature": "afst",
+        "length": 4
+      },
+      {
+        "token": "jahren",
+        "signature": "aehjnr",
+        "length": 6
+      },
+      {
+        "token": "erst",
+        "signature": "erst",
+        "length": 4
+      },
+      {
+        "token": "blieb",
+        "signature": "beil",
+        "length": 5
+      },
+      {
+        "token": "fuhr",
+        "signature": "fhru",
+        "length": 4
+      },
+      {
+        "token": "hilfe",
+        "signature": "efhil",
+        "length": 5
+      },
+      {
+        "token": "blickte",
+        "signature": "bceiklt",
+        "length": 7
+      },
+      {
+        "token": "zog",
+        "signature": "goz",
+        "length": 3
+      },
+      {
+        "token": "bruder",
+        "signature": "bderu",
+        "length": 6
+      },
+      {
+        "token": "warst",
+        "signature": "arstw",
+        "length": 5
+      },
+      {
+        "token": "gern",
+        "signature": "egnr",
+        "length": 4
+      },
+      {
+        "token": "siehst",
+        "signature": "ehist",
+        "length": 6
+      },
+      {
+        "token": "beinahe",
+        "signature": "abehin",
+        "length": 7
+      },
+      {
+        "token": "darüber",
+        "signature": "abderü",
+        "length": 7
+      },
+      {
+        "token": "gefunden",
+        "signature": "defgnu",
+        "length": 8
+      },
+      {
+        "token": "beide",
+        "signature": "bdei",
+        "length": 5
+      },
+      {
+        "token": "erste",
+        "signature": "erst",
+        "length": 5
+      },
+      {
+        "token": "leise",
+        "signature": "eils",
+        "length": 5
+      },
+      {
+        "token": "wahr",
+        "signature": "ahrw",
+        "length": 4
+      },
+      {
+        "token": "letzten",
+        "signature": "elntz",
+        "length": 7
+      },
+      {
+        "token": "welche",
+        "signature": "cehlw",
+        "length": 6
+      },
+      {
+        "token": "verstehe",
+        "signature": "ehrstv",
+        "length": 8
+      },
+      {
+        "token": "wusste",
+        "signature": "estuw",
+        "length": 6
+      },
+      {
+        "token": "daran",
+        "signature": "adnr",
+        "length": 5
+      },
+      {
+        "token": "schöne",
+        "signature": "cehnös",
+        "length": 6
+      },
+      {
+        "token": "obgleich",
+        "signature": "bceghilo",
+        "length": 8
+      },
+      {
+        "token": "könnten",
+        "signature": "eknöt",
+        "length": 7
+      },
+      {
+        "token": "würden",
+        "signature": "denrüw",
+        "length": 6
+      },
+      {
+        "token": "männer",
+        "signature": "äemnr",
+        "length": 6
+      },
+      {
+        "token": "deiner",
+        "signature": "deinr",
+        "length": 6
+      },
+      {
+        "token": "egal",
+        "signature": "aegl",
+        "length": 4
+      },
+      {
+        "token": "eigentlich",
+        "signature": "ceghilnt",
+        "length": 10
+      },
+      {
+        "token": "trat",
+        "signature": "art",
+        "length": 4
+      },
+      {
+        "token": "sehe",
+        "signature": "ehs",
+        "length": 4
+      },
+      {
+        "token": "deinem",
+        "signature": "deimn",
+        "length": 6
+      },
+      {
+        "token": "weise",
+        "signature": "eisw",
+        "length": 5
+      },
+      {
+        "token": "worte",
+        "signature": "eortw",
+        "length": 5
+      },
+      {
+        "token": "sieh",
+        "signature": "ehis",
+        "length": 4
+      },
+      {
+        "token": "vergessen",
+        "signature": "egnrsv",
+        "length": 9
+      },
+      {
+        "token": "komme",
+        "signature": "ekmo",
+        "length": 5
+      },
+      {
+        "token": "gib",
+        "signature": "bgi",
+        "length": 3
+      },
+      {
+        "token": "mag",
+        "signature": "agm",
+        "length": 3
+      },
+      {
+        "token": "glück",
+        "signature": "cgklü",
+        "length": 5
+      },
+      {
+        "token": "ihres",
+        "signature": "ehirs",
+        "length": 5
+      },
+      {
+        "token": "jeden",
+        "signature": "dejn",
+        "length": 5
+      },
+      {
+        "token": "mache",
+        "signature": "acehm",
+        "length": 5
+      },
+      {
+        "token": "aller",
+        "signature": "aelr",
+        "length": 5
+      },
+      {
+        "token": "meines",
+        "signature": "eimns",
+        "length": 6
+      },
+      {
+        "token": "oft",
+        "signature": "fot",
+        "length": 3
+      },
+      {
+        "token": "voll",
+        "signature": "lov",
+        "length": 4
+      },
+      {
+        "token": "dank",
+        "signature": "adkn",
+        "length": 4
+      },
+      {
+        "token": "tür",
+        "signature": "rtü",
+        "length": 3
+      },
+      {
+        "token": "aufs",
+        "signature": "afsu",
+        "length": 4
+      },
+      {
+        "token": "haar",
+        "signature": "ahr",
+        "length": 4
+      },
+      {
+        "token": "kurz",
+        "signature": "kruz",
+        "length": 4
+      },
+      {
+        "token": "gehe",
+        "signature": "egh",
+        "length": 4
+      },
+      {
+        "token": "fühlte",
+        "signature": "efhltü",
+        "length": 6
+      },
+      {
+        "token": "freunde",
+        "signature": "defnru",
+        "length": 7
+      },
+      {
+        "token": "letzte",
+        "signature": "eltz",
+        "length": 6
+      },
+      {
+        "token": "gekommen",
+        "signature": "egkmno",
+        "length": 8
+      },
+      {
+        "token": "langen",
+        "signature": "aegln",
+        "length": 6
+      },
+      {
+        "token": "trug",
+        "signature": "grtu",
+        "length": 4
+      },
+      {
+        "token": "eins",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "arme",
+        "signature": "aemr",
+        "length": 4
+      },
+      {
+        "token": "fand",
+        "signature": "adfn",
+        "length": 4
+      },
+      {
+        "token": "schwester",
+        "signature": "cehrstw",
+        "length": 9
+      },
+      {
+        "token": "straße",
+        "signature": "aersßt",
+        "length": 6
+      },
+      {
+        "token": "minuten",
+        "signature": "eimntu",
+        "length": 7
+      },
+      {
+        "token": "bekommen",
+        "signature": "bekmno",
+        "length": 8
+      },
+      {
+        "token": "eure",
+        "signature": "eru",
+        "length": 4
+      },
+      {
+        "token": "schönen",
+        "signature": "cehnös",
+        "length": 7
+      },
+      {
+        "token": "später",
+        "signature": "äeprst",
+        "length": 6
+      },
+      {
+        "token": "herzen",
+        "signature": "ehnrz",
+        "length": 6
+      },
+      {
+        "token": "luft",
+        "signature": "fltu",
+        "length": 4
+      },
+      {
+        "token": "händen",
+        "signature": "ädehn",
+        "length": 6
+      },
+      {
+        "token": "setzte",
+        "signature": "estz",
+        "length": 6
+      },
+      {
+        "token": "dinge",
+        "signature": "degin",
+        "length": 5
+      },
+      {
+        "token": "meinst",
+        "signature": "eimnst",
+        "length": 6
+      },
+      {
+        "token": "bereit",
+        "signature": "beirt",
+        "length": 6
+      },
+      {
+        "token": "vielen",
+        "signature": "eilnv",
+        "length": 6
+      },
+      {
+        "token": "leicht",
+        "signature": "cehilt",
+        "length": 6
+      },
+      {
+        "token": "standen",
+        "signature": "adenst",
+        "length": 7
+      },
+      {
+        "token": "runter",
+        "signature": "enrtu",
+        "length": 6
+      },
+      {
+        "token": "lebens",
+        "signature": "belns",
+        "length": 6
+      },
+      {
+        "token": "sogar",
+        "signature": "agors",
+        "length": 5
+      },
+      {
+        "token": "halb",
+        "signature": "abhl",
+        "length": 4
+      },
+      {
+        "token": "weißen",
+        "signature": "einßw",
+        "length": 6
+      },
+      {
+        "token": "toll",
+        "signature": "lot",
+        "length": 4
+      },
+      {
+        "token": "auto",
+        "signature": "aotu",
+        "length": 4
+      },
+      {
+        "token": "brust",
+        "signature": "brstu",
+        "length": 5
+      },
+      {
+        "token": "gedanken",
+        "signature": "adegkn",
+        "length": 8
+      },
+      {
+        "token": "neue",
+        "signature": "enu",
+        "length": 4
+      },
+      {
+        "token": "bisschen",
+        "signature": "bcehins",
+        "length": 8
+      },
+      {
+        "token": "leid",
+        "signature": "deil",
+        "length": 4
+      },
+      {
+        "token": "ahnung",
+        "signature": "aghnu",
+        "length": 6
+      },
+      {
+        "token": "draußen",
+        "signature": "adenrßu",
+        "length": 7
+      },
+      {
+        "token": "dennoch",
+        "signature": "cdehno",
+        "length": 7
+      },
+      {
+        "token": "mensch",
+        "signature": "cehmns",
+        "length": 6
+      },
+      {
+        "token": "polizei",
+        "signature": "eilopz",
+        "length": 7
+      },
+      {
+        "token": "kenne",
+        "signature": "ekn",
+        "length": 5
+      },
+      {
+        "token": "himmel",
+        "signature": "ehilm",
+        "length": 6
+      },
+      {
+        "token": "neben",
+        "signature": "ben",
+        "length": 5
+      },
+      {
+        "token": "endlich",
+        "signature": "cdehiln",
+        "length": 7
+      },
+      {
+        "token": "freude",
+        "signature": "defru",
+        "length": 6
+      },
+      {
+        "token": "oben",
+        "signature": "beno",
+        "length": 4
+      },
+      {
+        "token": "ziemlich",
+        "signature": "cehilmz",
+        "length": 8
+      },
+      {
+        "token": "hätten",
+        "signature": "äehnt",
+        "length": 6
+      },
+      {
+        "token": "übrigens",
+        "signature": "beginrsü",
+        "length": 8
+      },
+      {
+        "token": "jener",
+        "signature": "ejnr",
+        "length": 5
+      },
+      {
+        "token": "rasch",
+        "signature": "achrs",
+        "length": 5
+      },
+      {
+        "token": "sonne",
+        "signature": "enos",
+        "length": 5
+      },
+      {
+        "token": "vorbei",
+        "signature": "beiorv",
+        "length": 6
+      },
+      {
+        "token": "fenster",
+        "signature": "efnrst",
+        "length": 7
+      },
+      {
+        "token": "legte",
+        "signature": "eglt",
+        "length": 5
+      },
+      {
+        "token": "seele",
+        "signature": "els",
+        "length": 5
+      },
+      {
+        "token": "dran",
+        "signature": "adnr",
+        "length": 4
+      },
+      {
+        "token": "herren",
+        "signature": "ehnr",
+        "length": 6
+      },
+      {
+        "token": "einige",
+        "signature": "egin",
+        "length": 6
+      },
+      {
+        "token": "ruhig",
+        "signature": "ghiru",
+        "length": 5
+      },
+      {
+        "token": "einzige",
+        "signature": "eginz",
+        "length": 7
+      },
+      {
+        "token": "hervor",
+        "signature": "ehorv",
+        "length": 6
+      },
+      {
+        "token": "stunden",
+        "signature": "denstu",
+        "length": 7
+      },
+      {
+        "token": "drin",
+        "signature": "dinr",
+        "length": 4
+      },
+      {
+        "token": "arbeiten",
+        "signature": "abeinrt",
+        "length": 8
+      },
+      {
+        "token": "gerne",
+        "signature": "egnr",
+        "length": 5
+      },
+      {
+        "token": "nase",
+        "signature": "aens",
+        "length": 4
+      },
+      {
+        "token": "je",
+        "signature": "ej",
+        "length": 2
+      },
+      {
+        "token": "recht",
+        "signature": "cehrt",
+        "length": 5
+      },
+      {
+        "token": "darum",
+        "signature": "admru",
+        "length": 5
+      },
+      {
+        "token": "sorgen",
+        "signature": "egnors",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "freiheit",
+        "signature": "efhirt",
+        "length": 8
+      },
+      {
+        "token": "gelassen",
+        "signature": "aeglns",
+        "length": 8
+      },
+      {
+        "token": "gelben",
+        "signature": "begln",
+        "length": 6
+      },
+      {
+        "token": "gelegt",
+        "signature": "eglt",
+        "length": 6
+      },
+      {
+        "token": "geschlossen",
+        "signature": "ceghlnos",
+        "length": 11
+      },
+      {
+        "token": "gewalt",
+        "signature": "aegltw",
+        "length": 6
+      },
+      {
+        "token": "gewissen",
+        "signature": "eginsw",
+        "length": 8
+      },
+      {
+        "token": "inmitten",
+        "signature": "eimnt",
+        "length": 8
+      },
+      {
+        "token": "kindern",
+        "signature": "deiknr",
+        "length": 7
+      },
+      {
+        "token": "lächerlich",
+        "signature": "äcehilr",
+        "length": 10
+      },
+      {
+        "token": "lebte",
+        "signature": "belt",
+        "length": 5
+      },
+      {
+        "token": "lieb",
+        "signature": "beil",
+        "length": 4
+      },
+      {
+        "token": "makler",
+        "signature": "aeklmr",
+        "length": 6
+      },
+      {
+        "token": "mannes",
+        "signature": "aemns",
+        "length": 6
+      },
+      {
+        "token": "nimmer",
+        "signature": "eimnr",
+        "length": 6
+      },
+      {
+        "token": "offenen",
+        "signature": "efno",
+        "length": 7
+      },
+      {
+        "token": "sprachen",
+        "signature": "acehnprs",
+        "length": 8
+      },
+      {
+        "token": "verliebt",
+        "signature": "beilrtv",
+        "length": 8
+      },
+      {
+        "token": "nachrichten",
+        "signature": "acehinrt",
+        "length": 11
+      },
+      {
+        "token": "letzter",
+        "signature": "elrtz",
+        "length": 7
+      },
+      {
+        "token": "punkt",
+        "signature": "knptu",
+        "length": 5
+      },
+      {
+        "token": "schwöre",
+        "signature": "cehörsw",
+        "length": 7
+      },
+      {
+        "token": "verraten",
+        "signature": "aenrtv",
+        "length": 8
+      },
+      {
+        "token": "regierung",
+        "signature": "eginru",
+        "length": 9
+      },
+      {
+        "token": "fährt",
+        "signature": "äfhrt",
+        "length": 5
+      },
+      {
+        "token": "toten",
+        "signature": "enot",
+        "length": 5
+      },
+      {
+        "token": "ans",
+        "signature": "ans",
+        "length": 3
+      },
+      {
+        "token": "seltsam",
+        "signature": "aelmst",
+        "length": 7
+      },
+      {
+        "token": "beziehung",
+        "signature": "beghinuz",
+        "length": 9
+      },
+      {
+        "token": "diesmal",
+        "signature": "adeilms",
+        "length": 7
+      },
+      {
+        "token": "persönlich",
+        "signature": "cehilnöprs",
+        "length": 10
+      },
+      {
+        "token": "stirbt",
+        "signature": "birst",
+        "length": 6
+      },
+      {
+        "token": "aussehen",
+        "signature": "aehnsu",
+        "length": 8
+      },
+      {
+        "token": "werd",
+        "signature": "derw",
+        "length": 4
+      },
+      {
+        "token": "tante",
+        "signature": "aent",
+        "length": 5
+      },
+      {
+        "token": "gesucht",
+        "signature": "ceghstu",
+        "length": 7
+      },
+      {
+        "token": "fahre",
+        "signature": "aefhr",
+        "length": 5
+      },
+      {
+        "token": "bleibe",
+        "signature": "beil",
+        "length": 6
+      },
+      {
+        "token": "flugzeug",
+        "signature": "efgluz",
+        "length": 8
+      },
+      {
+        "token": "anruf",
+        "signature": "afnru",
+        "length": 5
+      },
+      {
+        "token": "angelegenheit",
+        "signature": "aeghilnt",
+        "length": 13
+      },
+      {
+        "token": "beine",
+        "signature": "bein",
+        "length": 5
+      },
+      {
+        "token": "bot",
+        "signature": "bot",
+        "length": 3
+      },
+      {
+        "token": "erhielt",
+        "signature": "ehilrt",
+        "length": 7
+      },
+      {
+        "token": "feierlich",
+        "signature": "cefhilr",
+        "length": 9
+      },
+      {
+        "token": "heran",
+        "signature": "aehnr",
+        "length": 5
+      },
+      {
+        "token": "kroatischen",
+        "signature": "acehiknorst",
+        "length": 11
+      },
+      {
+        "token": "küche",
+        "signature": "cehkü",
+        "length": 5
+      },
+      {
+        "token": "langer",
+        "signature": "aeglnr",
+        "length": 6
+      },
+      {
+        "token": "magen",
+        "signature": "aegmn",
+        "length": 5
+      },
+      {
+        "token": "meistens",
+        "signature": "eimnst",
+        "length": 8
+      },
+      {
+        "token": "mittel",
+        "signature": "eilmt",
+        "length": 6
+      },
+      {
+        "token": "nahmen",
+        "signature": "aehmn",
+        "length": 6
+      },
+      {
+        "token": "seitwärts",
+        "signature": "äeirstw",
+        "length": 9
+      },
+      {
+        "token": "solcher",
+        "signature": "cehlors",
+        "length": 7
+      },
+      {
+        "token": "spitze",
+        "signature": "eipstz",
+        "length": 6
+      },
+      {
+        "token": "stufen",
+        "signature": "efnstu",
+        "length": 6
+      },
+      {
+        "token": "umständen",
+        "signature": "ädemnstu",
+        "length": 9
+      },
+      {
+        "token": "zunächst",
+        "signature": "ächnstuz",
+        "length": 8
+      },
+      {
+        "token": "zustand",
+        "signature": "adnstuz",
+        "length": 7
+      },
+      {
+        "token": "vermutlich",
+        "signature": "cehilmrtuv",
+        "length": 10
+      },
+      {
+        "token": "sekunde",
+        "signature": "deknsu",
+        "length": 7
+      },
+      {
+        "token": "schade",
+        "signature": "acdehs",
+        "length": 6
+      },
+      {
+        "token": "rechts",
+        "signature": "cehrst",
+        "length": 6
+      },
+      {
+        "token": "kriegst",
+        "signature": "egikrst",
+        "length": 7
+      },
+      {
+        "token": "verändert",
+        "signature": "ädenrtv",
+        "length": 9
+      },
+      {
+        "token": "geredet",
+        "signature": "degrt",
+        "length": 7
+      },
+      {
+        "token": "achtung",
+        "signature": "acghntu",
+        "length": 7
+      },
+      {
+        "token": "betraf",
+        "signature": "abefrt",
+        "length": 6
+      },
+      {
+        "token": "bewegt",
+        "signature": "begtw",
+        "length": 6
+      },
+      {
+        "token": "blume",
+        "signature": "belmu",
+        "length": 5
+      },
+      {
+        "token": "dritten",
+        "signature": "deinrt",
+        "length": 7
+      },
+      {
+        "token": "eilig",
+        "signature": "egil",
+        "length": 5
+      },
+      {
+        "token": "fahrt",
+        "signature": "afhrt",
+        "length": 5
+      },
+      {
+        "token": "familien",
+        "signature": "aefilmn",
+        "length": 8
+      },
+      {
+        "token": "flügel",
+        "signature": "efglü",
+        "length": 6
+      },
+      {
+        "token": "fröhlich",
+        "signature": "cfhilör",
+        "length": 8
+      },
+      {
+        "token": "fügte",
+        "signature": "efgtü",
+        "length": 5
+      },
+      {
+        "token": "gaben",
+        "signature": "abegn",
+        "length": 5
+      },
+      {
+        "token": "helle",
+        "signature": "ehl",
+        "length": 5
+      },
+      {
+        "token": "hof",
+        "signature": "fho",
+        "length": 3
+      },
+      {
+        "token": "immerhin",
+        "signature": "ehimnr",
+        "length": 8
+      },
+      {
+        "token": "krone",
+        "signature": "eknor",
+        "length": 5
+      },
+      {
+        "token": "lachend",
+        "signature": "acdehln",
+        "length": 7
+      },
+      {
+        "token": "leer",
+        "signature": "elr",
+        "length": 4
+      },
+      {
+        "token": "manche",
+        "signature": "acehmn",
+        "length": 6
+      },
+      {
+        "token": "nachmittags",
+        "signature": "acghimnst",
+        "length": 11
+      },
+      {
+        "token": "schrecken",
+        "signature": "cehknrs",
+        "length": 9
+      },
+      {
+        "token": "sterne",
+        "signature": "enrst",
+        "length": 6
+      },
+      {
+        "token": "strand",
+        "signature": "adnrst",
+        "length": 6
+      },
+      {
+        "token": "süßen",
+        "signature": "ensßü",
+        "length": 5
+      },
+      {
+        "token": "tafel",
+        "signature": "aeflt",
+        "length": 5
+      },
+      {
+        "token": "tropfen",
+        "signature": "efnoprt",
+        "length": 7
+      },
+      {
+        "token": "verbunden",
+        "signature": "bdenruv",
+        "length": 9
+      },
+      {
+        "token": "verschwand",
+        "signature": "acdehnrsvw",
+        "length": 10
+      },
+      {
+        "token": "ziege",
+        "signature": "egiz",
+        "length": 5
+      },
+      {
+        "token": "geheimnis",
+        "signature": "eghimns",
+        "length": 9
+      },
+      {
+        "token": "kontakt",
+        "signature": "aknot",
+        "length": 7
+      },
+      {
+        "token": "ruft",
+        "signature": "frtu",
+        "length": 4
+      },
+      {
+        "token": "letztes",
+        "signature": "elstz",
+        "length": 7
+      },
+      {
+        "token": "wunderschön",
+        "signature": "cdehnörsuw",
+        "length": 11
+      },
+      {
+        "token": "drogen",
+        "signature": "degnor",
+        "length": 6
+      },
+      {
+        "token": "vermisst",
+        "signature": "eimrstv",
+        "length": 8
+      },
+      {
+        "token": "gehören",
+        "signature": "eghnör",
+        "length": 7
+      },
+      {
+        "token": "gericht",
+        "signature": "ceghirt",
+        "length": 7
+      },
+      {
+        "token": "richtigen",
+        "signature": "ceghinrt",
+        "length": 9
+      },
+      {
+        "token": "lacht",
+        "signature": "achlt",
+        "length": 5
+      },
+      {
+        "token": "königin",
+        "signature": "giknö",
+        "length": 7
+      },
+      {
+        "token": "lebe",
+        "signature": "bel",
+        "length": 4
+      },
+      {
+        "token": "zerstört",
+        "signature": "eörstz",
+        "length": 8
+      },
+      {
+        "token": "offensichtlich",
+        "signature": "cefhilnost",
+        "length": 14
+      },
+      {
+        "token": "zeigt",
+        "signature": "egitz",
+        "length": 5
+      },
+      {
+        "token": "namens",
+        "signature": "aemns",
+        "length": 6
+      },
+      {
+        "token": "antworten",
+        "signature": "aenortw",
+        "length": 9
+      },
+      {
+        "token": "tee",
+        "signature": "et",
+        "length": 3
+      },
+      {
+        "token": "geschlafen",
+        "signature": "acefghlns",
+        "length": 10
+      },
+      {
+        "token": "ankunft",
+        "signature": "afkntu",
+        "length": 7
+      },
+      {
+        "token": "begleitet",
+        "signature": "begilt",
+        "length": 9
+      },
+      {
+        "token": "dicke",
+        "signature": "cdeik",
+        "length": 5
+      },
+      {
+        "token": "erfolg",
+        "signature": "efglor",
+        "length": 6
+      },
+      {
+        "token": "erinnerte",
+        "signature": "einrt",
+        "length": 9
+      },
+      {
+        "token": "geneigt",
+        "signature": "egint",
+        "length": 7
+      },
+      {
+        "token": "genugtuung",
+        "signature": "egntu",
+        "length": 10
+      },
+      {
+        "token": "gesetzt",
+        "signature": "egstz",
+        "length": 7
+      },
+      {
+        "token": "gewöhnlich",
+        "signature": "ceghilnöw",
+        "length": 10
+      },
+      {
+        "token": "goldenen",
+        "signature": "deglno",
+        "length": 8
+      },
+      {
+        "token": "hielten",
+        "signature": "ehilnt",
+        "length": 7
+      },
+      {
+        "token": "jenen",
+        "signature": "ejn",
+        "length": 5
+      },
+      {
+        "token": "kalten",
+        "signature": "aeklnt",
+        "length": 6
+      },
+      {
+        "token": "möge",
+        "signature": "egmö",
+        "length": 4
+      },
+      {
+        "token": "qual",
+        "signature": "alqu",
+        "length": 4
+      },
+      {
+        "token": "sanften",
+        "signature": "aefnst",
+        "length": 7
+      },
+      {
+        "token": "sicherlich",
+        "signature": "cehilrs",
+        "length": 10
+      },
+      {
+        "token": "streckte",
+        "signature": "cekrst",
+        "length": 8
+      },
+      {
+        "token": "streng",
+        "signature": "egnrst",
+        "length": 6
+      },
+      {
+        "token": "traf",
+        "signature": "afrt",
+        "length": 4
+      },
+      {
+        "token": "traten",
+        "signature": "aenrt",
+        "length": 6
+      },
+      {
+        "token": "unendlich",
+        "signature": "cdehilnu",
+        "length": 9
+      },
+      {
+        "token": "ungefähr",
+        "signature": "äefghnru",
+        "length": 8
+      },
+      {
+        "token": "unschuld",
+        "signature": "cdhlnsu",
+        "length": 8
+      },
+      {
+        "token": "verhältnisse",
+        "signature": "äehilnrstv",
+        "length": 12
+      },
+      {
+        "token": "verlegenheit",
+        "signature": "eghilnrtv",
+        "length": 12
+      },
+      {
+        "token": "verwandten",
+        "signature": "adenrtvw",
+        "length": 10
+      },
+      {
+        "token": "vollständig",
+        "signature": "ädgilnostv",
+        "length": 11
+      },
+      {
+        "token": "vornehm",
+        "signature": "ehmnorv",
+        "length": 7
+      },
+      {
+        "token": "weinte",
+        "signature": "eintw",
+        "length": 6
+      },
+      {
+        "token": "wenigen",
+        "signature": "eginw",
+        "length": 7
+      },
+      {
+        "token": "werk",
+        "signature": "ekrw",
+        "length": 4
+      },
+      {
+        "token": "wilden",
+        "signature": "deilnw",
+        "length": 6
+      },
+      {
+        "token": "zunge",
+        "signature": "egnuz",
+        "length": 5
+      },
+      {
+        "token": "stecken",
+        "signature": "ceknst",
+        "length": 7
+      },
+      {
+        "token": "hau",
+        "signature": "ahu",
+        "length": 3
+      },
+      {
+        "token": "sagtest",
+        "signature": "aegst",
+        "length": 7
+      },
+      {
+        "token": "schreit",
+        "signature": "cehirst",
+        "length": 7
+      },
+      {
+        "token": "bleibst",
+        "signature": "beilst",
+        "length": 7
+      },
+      {
+        "token": "gefühle",
+        "signature": "efghlü",
+        "length": 7
+      },
+      {
+        "token": "überraschung",
+        "signature": "abceghnrsuü",
+        "length": 12
+      },
+      {
+        "token": "witzig",
+        "signature": "gitwz",
+        "length": 6
+      },
+      {
+        "token": "setzt",
+        "signature": "estz",
+        "length": 5
+      },
+      {
+        "token": "interessant",
+        "signature": "aeinrst",
+        "length": 11
+      },
+      {
+        "token": "meint",
+        "signature": "eimnt",
+        "length": 5
+      },
+      {
+        "token": "treffen",
+        "signature": "efnrt",
+        "length": 7
+      },
+      {
+        "token": "halten",
+        "signature": "aehlnt",
+        "length": 6
+      },
+      {
+        "token": "aufhalten",
+        "signature": "aefhlntu",
+        "length": 9
+      },
+      {
+        "token": "fotos",
+        "signature": "fost",
+        "length": 5
+      },
+      {
+        "token": "kaputt",
+        "signature": "akptu",
+        "length": 6
+      },
+      {
+        "token": "liebst",
+        "signature": "beilst",
+        "length": 6
+      },
+      {
+        "token": "schlechte",
+        "signature": "cehlst",
+        "length": 9
+      },
+      {
+        "token": "geliebt",
+        "signature": "begilt",
+        "length": 7
+      },
+      {
+        "token": "überleben",
+        "signature": "belnrü",
+        "length": 9
+      },
+      {
+        "token": "haare",
+        "signature": "aehr",
+        "length": 5
+      },
+      {
+        "token": "sauber",
+        "signature": "abersu",
+        "length": 6
+      },
+      {
+        "token": "entweder",
+        "signature": "denrtw",
+        "length": 8
+      },
+      {
+        "token": "stellt",
+        "signature": "elst",
+        "length": 6
+      },
+      {
+        "token": "kümmere",
+        "signature": "ekmrü",
+        "length": 7
+      },
+      {
+        "token": "gebäude",
+        "signature": "äbdegu",
+        "length": 7
+      },
+      {
+        "token": "absicht",
+        "signature": "abchist",
+        "length": 7
+      },
+      {
+        "token": "ähnlich",
+        "signature": "ächiln",
+        "length": 7
+      },
+      {
+        "token": "ängstlich",
+        "signature": "äcghilnst",
+        "length": 9
+      },
+      {
+        "token": "aufenthalt",
+        "signature": "aefhlntu",
+        "length": 10
+      },
+      {
+        "token": "äußerst",
+        "signature": "äersßtu",
+        "length": 7
+      },
+      {
+        "token": "beugte",
+        "signature": "begtu",
+        "length": 6
+      },
+      {
+        "token": "brüder",
+        "signature": "bderü",
+        "length": 6
+      },
+      {
+        "token": "ehemals",
+        "signature": "aehlms",
+        "length": 7
+      },
+      {
+        "token": "erfuhr",
+        "signature": "efhru",
+        "length": 6
+      },
+      {
+        "token": "fanden",
+        "signature": "adefn",
+        "length": 6
+      },
+      {
+        "token": "fehlte",
+        "signature": "efhlt",
+        "length": 6
+      },
+      {
+        "token": "freundschaft",
+        "signature": "acdefhnrstu",
+        "length": 12
+      },
+      {
+        "token": "gans",
+        "signature": "agns",
+        "length": 4
+      },
+      {
+        "token": "geruch",
+        "signature": "ceghru",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "flatterte",
+        "signature": "aeflrt",
+        "length": 9
+      },
+      {
+        "token": "flecken",
+        "signature": "cefkln",
+        "length": 7
+      },
+      {
+        "token": "fragend",
+        "signature": "adefgnr",
+        "length": 7
+      },
+      {
+        "token": "frischer",
+        "signature": "cefhirs",
+        "length": 8
+      },
+      {
+        "token": "frisur",
+        "signature": "firsu",
+        "length": 6
+      },
+      {
+        "token": "frohen",
+        "signature": "efhnor",
+        "length": 6
+      },
+      {
+        "token": "frucht",
+        "signature": "cfhrtu",
+        "length": 6
+      },
+      {
+        "token": "gastes",
+        "signature": "aegst",
+        "length": 6
+      },
+      {
+        "token": "gefehlt",
+        "signature": "efghlt",
+        "length": 7
+      },
+      {
+        "token": "gefühlen",
+        "signature": "efghlnü",
+        "length": 8
+      },
+      {
+        "token": "geistige",
+        "signature": "egist",
+        "length": 8
+      },
+      {
+        "token": "gemüt",
+        "signature": "egmtü",
+        "length": 5
+      },
+      {
+        "token": "geringen",
+        "signature": "eginr",
+        "length": 8
+      },
+      {
+        "token": "geschenke",
+        "signature": "ceghkns",
+        "length": 9
+      },
+      {
+        "token": "gesenkt",
+        "signature": "egknst",
+        "length": 7
+      },
+      {
+        "token": "gesichtern",
+        "signature": "ceghinrst",
+        "length": 10
+      },
+      {
+        "token": "gespannt",
+        "signature": "aegnpst",
+        "length": 8
+      },
+      {
+        "token": "getreide",
+        "signature": "degirt",
+        "length": 8
+      },
+      {
+        "token": "gewahr",
+        "signature": "aeghrw",
+        "length": 6
+      },
+      {
+        "token": "gewaltigen",
+        "signature": "aegilntw",
+        "length": 10
+      },
+      {
+        "token": "gewicht",
+        "signature": "ceghitw",
+        "length": 7
+      },
+      {
+        "token": "gewisser",
+        "signature": "egirsw",
+        "length": 8
+      },
+      {
+        "token": "glänzenden",
+        "signature": "ädeglnz",
+        "length": 10
+      },
+      {
+        "token": "gläsern",
+        "signature": "äeglnrs",
+        "length": 7
+      },
+      {
+        "token": "glühend",
+        "signature": "deghlnü",
+        "length": 7
+      },
+      {
+        "token": "glut",
+        "signature": "gltu",
+        "length": 4
+      },
+      {
+        "token": "goldbraunen",
+        "signature": "abdeglnoru",
+        "length": 11
+      },
+      {
+        "token": "goldne",
+        "signature": "deglno",
+        "length": 6
+      },
+      {
+        "token": "gondel",
+        "signature": "deglno",
+        "length": 6
+      },
+      {
+        "token": "gotischen",
+        "signature": "ceghinost",
+        "length": 9
+      },
+      {
+        "token": "grafen",
+        "signature": "aefgnr",
+        "length": 6
+      },
+      {
+        "token": "grase",
+        "signature": "aegrs",
+        "length": 5
+      },
+      {
+        "token": "grauem",
+        "signature": "aegmru",
+        "length": 6
+      },
+      {
+        "token": "graues",
+        "signature": "aegrsu",
+        "length": 6
+      },
+      {
+        "token": "greise",
+        "signature": "egirs",
+        "length": 6
+      },
+      {
+        "token": "gründlich",
+        "signature": "cdghilnrü",
+        "length": 9
+      },
+      {
+        "token": "günstig",
+        "signature": "ginstü",
+        "length": 7
+      },
+      {
+        "token": "händler",
+        "signature": "ädehlnr",
+        "length": 7
+      },
+      {
+        "token": "herrisch",
+        "signature": "cehirs",
+        "length": 8
+      },
+      {
+        "token": "herüber",
+        "signature": "behrü",
+        "length": 7
+      },
+      {
+        "token": "hinderte",
+        "signature": "dehinrt",
+        "length": 8
+      },
+      {
+        "token": "hochmütig",
+        "signature": "cghimotü",
+        "length": 9
+      },
+      {
+        "token": "hoffte",
+        "signature": "efhot",
+        "length": 6
+      },
+      {
+        "token": "hohem",
+        "signature": "ehmo",
+        "length": 5
+      },
+      {
+        "token": "husten",
+        "signature": "ehnstu",
+        "length": 6
+      },
+      {
+        "token": "ineinander",
+        "signature": "adeinr",
+        "length": 10
+      },
+      {
+        "token": "inhaber",
+        "signature": "abehinr",
+        "length": 7
+      },
+      {
+        "token": "interessen",
+        "signature": "einrst",
+        "length": 10
+      },
+      {
+        "token": "irgendeines",
+        "signature": "deginrs",
+        "length": 11
+      },
+      {
+        "token": "jawort",
+        "signature": "ajortw",
+        "length": 6
+      },
+      {
+        "token": "kläglich",
+        "signature": "äcghikl",
+        "length": 8
+      },
+      {
+        "token": "kleide",
+        "signature": "deikl",
+        "length": 6
+      },
+      {
+        "token": "kleidern",
+        "signature": "deiklnr",
+        "length": 8
+      },
+      {
+        "token": "köchin",
+        "signature": "chiknö",
+        "length": 6
+      },
+      {
+        "token": "kontors",
+        "signature": "knorst",
+        "length": 7
+      },
+      {
+        "token": "köpfen",
+        "signature": "efknöp",
+        "length": 6
+      }
+    ]
+  }
+}

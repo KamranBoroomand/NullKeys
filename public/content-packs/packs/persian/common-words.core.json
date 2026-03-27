@@ -1,0 +1,3661 @@
+{
+  "packId": "persian:common-words:core",
+  "languageId": "persian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 729,
+  "stages": {
+    "foundational": [
+      {
+        "token": "ریتم",
+        "signature": "ترمی",
+        "length": 4
+      },
+      {
+        "token": "متن",
+        "signature": "تمن",
+        "length": 3
+      },
+      {
+        "token": "جمله",
+        "signature": "جلمه",
+        "length": 4
+      },
+      {
+        "token": "واژه",
+        "signature": "اژهو",
+        "length": 4
+      },
+      {
+        "token": "نگاه",
+        "signature": "اگنه",
+        "length": 4
+      },
+      {
+        "token": "دست",
+        "signature": "تدس",
+        "length": 3
+      },
+      {
+        "token": "درس",
+        "signature": "درس",
+        "length": 3
+      },
+      {
+        "token": "مکث",
+        "signature": "ثکم",
+        "length": 3
+      },
+      {
+        "token": "مسیر",
+        "signature": "رسمی",
+        "length": 4
+      },
+      {
+        "token": "سطر",
+        "signature": "رسط",
+        "length": 3
+      },
+      {
+        "token": "تمرین",
+        "signature": "ترمنی",
+        "length": 5
+      },
+      {
+        "token": "مرحله",
+        "signature": "حرلمه",
+        "length": 5
+      },
+      {
+        "token": "دقت",
+        "signature": "تدق",
+        "length": 3
+      },
+      {
+        "token": "پل",
+        "signature": "پل",
+        "length": 2
+      },
+      {
+        "token": "نشانه",
+        "signature": "اشنه",
+        "length": 5
+      },
+      {
+        "token": "خط",
+        "signature": "خط",
+        "length": 2
+      },
+      {
+        "token": "راه",
+        "signature": "اره",
+        "length": 3
+      },
+      {
+        "token": "آرام",
+        "signature": "آارم",
+        "length": 4
+      },
+      {
+        "token": "امروز",
+        "signature": "ارزمو",
+        "length": 5
+      },
+      {
+        "token": "فردا",
+        "signature": "ادرف",
+        "length": 4
+      },
+      {
+        "token": "خانه",
+        "signature": "اخنه",
+        "length": 4
+      },
+      {
+        "token": "کوچه",
+        "signature": "چکهو",
+        "length": 4
+      },
+      {
+        "token": "پنجره",
+        "signature": "پجرنه",
+        "length": 5
+      },
+      {
+        "token": "کتاب",
+        "signature": "ابتک",
+        "length": 4
+      },
+      {
+        "token": "دفتر",
+        "signature": "تدرف",
+        "length": 4
+      },
+      {
+        "token": "اتاق",
+        "signature": "اتق",
+        "length": 4
+      },
+      {
+        "token": "صدا",
+        "signature": "ادص",
+        "length": 3
+      },
+      {
+        "token": "چراغ",
+        "signature": "اچرغ",
+        "length": 4
+      },
+      {
+        "token": "باران",
+        "signature": "ابرن",
+        "length": 5
+      },
+      {
+        "token": "بهار",
+        "signature": "ابره",
+        "length": 4
+      },
+      {
+        "token": "پاییز",
+        "signature": "اپزی",
+        "length": 5
+      },
+      {
+        "token": "دوست",
+        "signature": "تدسو",
+        "length": 4
+      },
+      {
+        "token": "خانواده",
+        "signature": "اخدنهو",
+        "length": 7
+      },
+      {
+        "token": "باغچه",
+        "signature": "ابچغه",
+        "length": 5
+      },
+      {
+        "token": "فنجان",
+        "signature": "اجفن",
+        "length": 5
+      },
+      {
+        "token": "نامه",
+        "signature": "امنه",
+        "length": 4
+      },
+      {
+        "token": "ساحل",
+        "signature": "احسل",
+        "length": 4
+      },
+      {
+        "token": "شاخه",
+        "signature": "اخشه",
+        "length": 4
+      },
+      {
+        "token": "بام",
+        "signature": "ابم",
+        "length": 3
+      },
+      {
+        "token": "پرده",
+        "signature": "پدره",
+        "length": 4
+      },
+      {
+        "token": "حیاط",
+        "signature": "احطی",
+        "length": 4
+      },
+      {
+        "token": "دیوار",
+        "signature": "ادروی",
+        "length": 5
+      },
+      {
+        "token": "فرش",
+        "signature": "رشف",
+        "length": 3
+      },
+      {
+        "token": "نسیم",
+        "signature": "سمنی",
+        "length": 4
+      },
+      {
+        "token": "که",
+        "signature": "که",
+        "length": 2
+      },
+      {
+        "token": "رو",
+        "signature": "رو",
+        "length": 2
+      },
+      {
+        "token": "من",
+        "signature": "من",
+        "length": 2
+      },
+      {
+        "token": "به",
+        "signature": "به",
+        "length": 2
+      },
+      {
+        "token": "از",
+        "signature": "از",
+        "length": 2
+      },
+      {
+        "token": "تو",
+        "signature": "تو",
+        "length": 2
+      },
+      {
+        "token": "اون",
+        "signature": "انو",
+        "length": 3
+      },
+      {
+        "token": "با",
+        "signature": "اب",
+        "length": 2
+      },
+      {
+        "token": "در",
+        "signature": "در",
+        "length": 2
+      },
+      {
+        "token": "ما",
+        "signature": "ام",
+        "length": 2
+      },
+      {
+        "token": "هم",
+        "signature": "مه",
+        "length": 2
+      },
+      {
+        "token": "نه",
+        "signature": "نه",
+        "length": 2
+      },
+      {
+        "token": "تا",
+        "signature": "ات",
+        "length": 2
+      },
+      {
+        "token": "بود",
+        "signature": "بدو",
+        "length": 3
+      },
+      {
+        "token": "کنم",
+        "signature": "کمن",
+        "length": 3
+      },
+      {
+        "token": "فکر",
+        "signature": "رفک",
+        "length": 3
+      },
+      {
+        "token": "شما",
+        "signature": "اشم",
+        "length": 3
+      },
+      {
+        "token": "فقط",
+        "signature": "طفق",
+        "length": 3
+      },
+      {
+        "token": "کن",
+        "signature": "کن",
+        "length": 2
+      },
+      {
+        "token": "این",
+        "signature": "انی",
+        "length": 3
+      },
+      {
+        "token": "اگه",
+        "signature": "اگه",
+        "length": 3
+      },
+      {
+        "token": "همه",
+        "signature": "مه",
+        "length": 3
+      },
+      {
+        "token": "کار",
+        "signature": "ارک",
+        "length": 3
+      },
+      {
+        "token": "دارم",
+        "signature": "ادرم",
+        "length": 4
+      },
+      {
+        "token": "چه",
+        "signature": "چه",
+        "length": 2
+      },
+      {
+        "token": "شده",
+        "signature": "دشه",
+        "length": 3
+      },
+      {
+        "token": "اما",
+        "signature": "ام",
+        "length": 3
+      },
+      {
+        "token": "پس",
+        "signature": "پس",
+        "length": 2
+      },
+      {
+        "token": "هر",
+        "signature": "ره",
+        "length": 2
+      },
+      {
+        "token": "الان",
+        "signature": "الن",
+        "length": 4
+      },
+      {
+        "token": "حالا",
+        "signature": "احل",
+        "length": 4
+      },
+      {
+        "token": "خوب",
+        "signature": "بخو",
+        "length": 3
+      },
+      {
+        "token": "چرا",
+        "signature": "اچر",
+        "length": 3
+      },
+      {
+        "token": "کردم",
+        "signature": "درکم",
+        "length": 4
+      },
+      {
+        "token": "کنه",
+        "signature": "کنه",
+        "length": 3
+      },
+      {
+        "token": "منو",
+        "signature": "منو",
+        "length": 3
+      },
+      {
+        "token": "خب",
+        "signature": "بخ",
+        "length": 2
+      },
+      {
+        "token": "بهت",
+        "signature": "بته",
+        "length": 3
+      },
+      {
+        "token": "مثل",
+        "signature": "ثلم",
+        "length": 3
+      },
+      {
+        "token": "شد",
+        "signature": "دش",
+        "length": 2
+      },
+      {
+        "token": "می",
+        "signature": "می",
+        "length": 2
+      },
+      {
+        "token": "هست",
+        "signature": "تسه",
+        "length": 3
+      },
+      {
+        "token": "حرف",
+        "signature": "حرف",
+        "length": 3
+      },
+      {
+        "token": "بده",
+        "signature": "بده",
+        "length": 3
+      },
+      {
+        "token": "بچه",
+        "signature": "بچه",
+        "length": 3
+      },
+      {
+        "token": "باید",
+        "signature": "ابدی",
+        "length": 4
+      },
+      {
+        "token": "کرد",
+        "signature": "درک",
+        "length": 3
+      },
+      {
+        "token": "برو",
+        "signature": "برو",
+        "length": 3
+      },
+      {
+        "token": "را",
+        "signature": "ار",
+        "length": 2
+      },
+      {
+        "token": "کردن",
+        "signature": "درکن",
+        "length": 4
+      },
+      {
+        "token": "خیلی",
+        "signature": "خلی",
+        "length": 4
+      },
+      {
+        "token": "چون",
+        "signature": "چنو",
+        "length": 3
+      },
+      {
+        "token": "انجام",
+        "signature": "اجمن",
+        "length": 5
+      },
+      {
+        "token": "کرده",
+        "signature": "درکه",
+        "length": 4
+      },
+      {
+        "token": "بعد",
+        "signature": "بدع",
+        "length": 3
+      },
+      {
+        "token": "درست",
+        "signature": "تدرس",
+        "length": 4
+      },
+      {
+        "token": "برای",
+        "signature": "ابری",
+        "length": 4
+      },
+      {
+        "token": "بودم",
+        "signature": "بدمو",
+        "length": 4
+      },
+      {
+        "token": "هستم",
+        "signature": "تسمه",
+        "length": 4
+      },
+      {
+        "token": "دو",
+        "signature": "دو",
+        "length": 2
+      },
+      {
+        "token": "داشته",
+        "signature": "اتدشه",
+        "length": 5
+      },
+      {
+        "token": "وقت",
+        "signature": "تقو",
+        "length": 3
+      },
+      {
+        "token": "سلام",
+        "signature": "اسلم",
+        "length": 4
+      },
+      {
+        "token": "سر",
+        "signature": "رس",
+        "length": 2
+      },
+      {
+        "token": "خودت",
+        "signature": "تخدو",
+        "length": 4
+      },
+      {
+        "token": "هنوز",
+        "signature": "زنهو",
+        "length": 4
+      },
+      {
+        "token": "تمام",
+        "signature": "اتم",
+        "length": 4
+      },
+      {
+        "token": "بله",
+        "signature": "بله",
+        "length": 3
+      },
+      {
+        "token": "روز",
+        "signature": "رزو",
+        "length": 3
+      },
+      {
+        "token": "مورد",
+        "signature": "درمو",
+        "length": 4
+      },
+      {
+        "token": "است",
+        "signature": "اتس",
+        "length": 3
+      },
+      {
+        "token": "چی",
+        "signature": "چی",
+        "length": 2
+      },
+      {
+        "token": "بشه",
+        "signature": "بشه",
+        "length": 3
+      },
+      {
+        "token": "کجا",
+        "signature": "اجک",
+        "length": 3
+      },
+      {
+        "token": "تنها",
+        "signature": "اتنه",
+        "length": 4
+      },
+      {
+        "token": "دیگه",
+        "signature": "دگهی",
+        "length": 4
+      },
+      {
+        "token": "چند",
+        "signature": "چدن",
+        "length": 3
+      },
+      {
+        "token": "اینجا",
+        "signature": "اجنی",
+        "length": 5
+      },
+      {
+        "token": "مرد",
+        "signature": "درم",
+        "length": 3
+      },
+      {
+        "token": "باش",
+        "signature": "ابش",
+        "length": 3
+      },
+      {
+        "token": "خودم",
+        "signature": "خدمو",
+        "length": 4
+      },
+      {
+        "token": "ممنون",
+        "signature": "منو",
+        "length": 5
+      },
+      {
+        "token": "نیست",
+        "signature": "تسنی",
+        "length": 4
+      },
+      {
+        "token": "نظر",
+        "signature": "رظن",
+        "length": 3
+      },
+      {
+        "token": "سال",
+        "signature": "اسل",
+        "length": 3
+      },
+      {
+        "token": "دوباره",
+        "signature": "ابدرهو",
+        "length": 6
+      },
+      {
+        "token": "کمک",
+        "signature": "کم",
+        "length": 3
+      },
+      {
+        "token": "ولی",
+        "signature": "لوی",
+        "length": 3
+      },
+      {
+        "token": "واقعا",
+        "signature": "اعقو",
+        "length": 5
+      },
+      {
+        "token": "بگو",
+        "signature": "بگو",
+        "length": 3
+      },
+      {
+        "token": "گوش",
+        "signature": "شگو",
+        "length": 3
+      },
+      {
+        "token": "صحبت",
+        "signature": "بتحص",
+        "length": 4
+      },
+      {
+        "token": "بدم",
+        "signature": "بدم",
+        "length": 3
+      },
+      {
+        "token": "شروع",
+        "signature": "رشعو",
+        "length": 4
+      },
+      {
+        "token": "بوده",
+        "signature": "بدهو",
+        "length": 4
+      },
+      {
+        "token": "قبل",
+        "signature": "بقل",
+        "length": 3
+      },
+      {
+        "token": "چیزی",
+        "signature": "چزی",
+        "length": 4
+      },
+      {
+        "token": "دارن",
+        "signature": "ادرن",
+        "length": 4
+      },
+      {
+        "token": "بر",
+        "signature": "بر",
+        "length": 2
+      },
+      {
+        "token": "پسر",
+        "signature": "پرس",
+        "length": 3
+      },
+      {
+        "token": "نفر",
+        "signature": "رفن",
+        "length": 3
+      },
+      {
+        "token": "چطور",
+        "signature": "چرطو",
+        "length": 4
+      },
+      {
+        "token": "صبر",
+        "signature": "برص",
+        "length": 3
+      },
+      {
+        "token": "قرار",
+        "signature": "ارق",
+        "length": 4
+      },
+      {
+        "token": "گفتم",
+        "signature": "تفگم",
+        "length": 4
+      },
+      {
+        "token": "توی",
+        "signature": "توی",
+        "length": 3
+      },
+      {
+        "token": "بار",
+        "signature": "ابر",
+        "length": 3
+      },
+      {
+        "token": "برم",
+        "signature": "برم",
+        "length": 3
+      },
+      {
+        "token": "پول",
+        "signature": "پلو",
+        "length": 3
+      },
+      {
+        "token": "وجود",
+        "signature": "جدو",
+        "length": 4
+      },
+      {
+        "token": "همون",
+        "signature": "منهو",
+        "length": 4
+      },
+      {
+        "token": "داشتم",
+        "signature": "اتدشم",
+        "length": 5
+      },
+      {
+        "token": "حال",
+        "signature": "احل",
+        "length": 3
+      },
+      {
+        "token": "گفت",
+        "signature": "تفگ",
+        "length": 3
+      },
+      {
+        "token": "اگر",
+        "signature": "ارگ",
+        "length": 3
+      },
+      {
+        "token": "خاطر",
+        "signature": "اخرط",
+        "length": 4
+      },
+      {
+        "token": "خودش",
+        "signature": "خدشو",
+        "length": 4
+      },
+      {
+        "token": "استفاده",
+        "signature": "اتدسفه",
+        "length": 7
+      },
+      {
+        "token": "مردم",
+        "signature": "درم",
+        "length": 4
+      },
+      {
+        "token": "شدن",
+        "signature": "دشن",
+        "length": 3
+      },
+      {
+        "token": "شدم",
+        "signature": "دشم",
+        "length": 3
+      },
+      {
+        "token": "شب",
+        "signature": "بش",
+        "length": 2
+      },
+      {
+        "token": "خانم",
+        "signature": "اخمن",
+        "length": 4
+      },
+      {
+        "token": "بدون",
+        "signature": "بدنو",
+        "length": 4
+      },
+      {
+        "token": "دختر",
+        "signature": "تخدر",
+        "length": 4
+      },
+      {
+        "token": "باز",
+        "signature": "ابز",
+        "length": 3
+      },
+      {
+        "token": "خواهش",
+        "signature": "اخشهو",
+        "length": 5
+      },
+      {
+        "token": "یک",
+        "signature": "کی",
+        "length": 2
+      },
+      {
+        "token": "داشت",
+        "signature": "اتدش",
+        "length": 4
+      },
+      {
+        "token": "ساعت",
+        "signature": "اتسع",
+        "length": 4
+      },
+      {
+        "token": "اسم",
+        "signature": "اسم",
+        "length": 3
+      },
+      {
+        "token": "چقدر",
+        "signature": "چدرق",
+        "length": 4
+      },
+      {
+        "token": "برات",
+        "signature": "ابتر",
+        "length": 4
+      },
+      {
+        "token": "دنبال",
+        "signature": "ابدلن",
+        "length": 5
+      },
+      {
+        "token": "ممکنه",
+        "signature": "کمنه",
+        "length": 5
+      },
+      {
+        "token": "مگه",
+        "signature": "گمه",
+        "length": 3
+      },
+      {
+        "token": "بزرگ",
+        "signature": "برزگ",
+        "length": 4
+      },
+      {
+        "token": "باشم",
+        "signature": "ابشم",
+        "length": 4
+      },
+      {
+        "token": "سه",
+        "signature": "سه",
+        "length": 2
+      },
+      {
+        "token": "درسته",
+        "signature": "تدرسه",
+        "length": 5
+      },
+      {
+        "token": "خوش",
+        "signature": "خشو",
+        "length": 3
+      },
+      {
+        "token": "البته",
+        "signature": "ابتله",
+        "length": 5
+      },
+      {
+        "token": "قربان",
+        "signature": "ابرقن",
+        "length": 5
+      },
+      {
+        "token": "بخاطر",
+        "signature": "ابخرط",
+        "length": 5
+      },
+      {
+        "token": "درباره",
+        "signature": "ابدره",
+        "length": 6
+      },
+      {
+        "token": "ندارم",
+        "signature": "ادرمن",
+        "length": 5
+      },
+      {
+        "token": "بودن",
+        "signature": "بدنو",
+        "length": 4
+      },
+      {
+        "token": "زنده",
+        "signature": "دزنه",
+        "length": 4
+      },
+      {
+        "token": "ازت",
+        "signature": "اتز",
+        "length": 3
+      },
+      {
+        "token": "بالا",
+        "signature": "ابل",
+        "length": 4
+      },
+      {
+        "token": "کم",
+        "signature": "کم",
+        "length": 2
+      },
+      {
+        "token": "شو",
+        "signature": "شو",
+        "length": 2
+      },
+      {
+        "token": "نکن",
+        "signature": "کن",
+        "length": 3
+      },
+      {
+        "token": "پدر",
+        "signature": "پدر",
+        "length": 3
+      },
+      {
+        "token": "وقتی",
+        "signature": "تقوی",
+        "length": 4
+      },
+      {
+        "token": "اول",
+        "signature": "الو",
+        "length": 3
+      },
+      {
+        "token": "زنگ",
+        "signature": "زگن",
+        "length": 3
+      },
+      {
+        "token": "نبود",
+        "signature": "بدنو",
+        "length": 4
+      },
+      {
+        "token": "کنی",
+        "signature": "کنی",
+        "length": 3
+      },
+      {
+        "token": "دور",
+        "signature": "درو",
+        "length": 3
+      },
+      {
+        "token": "داری",
+        "signature": "ادری",
+        "length": 4
+      },
+      {
+        "token": "کنار",
+        "signature": "ارکن",
+        "length": 4
+      },
+      {
+        "token": "متاسفم",
+        "signature": "اتسفم",
+        "length": 6
+      },
+      {
+        "token": "جا",
+        "signature": "اج",
+        "length": 2
+      },
+      {
+        "token": "شهر",
+        "signature": "رشه",
+        "length": 3
+      },
+      {
+        "token": "او",
+        "signature": "او",
+        "length": 2
+      },
+      {
+        "token": "داد",
+        "signature": "اد",
+        "length": 3
+      },
+      {
+        "token": "برام",
+        "signature": "ابرم",
+        "length": 4
+      },
+      {
+        "token": "زود",
+        "signature": "دزو",
+        "length": 3
+      },
+      {
+        "token": "بهتر",
+        "signature": "بتره",
+        "length": 4
+      },
+      {
+        "token": "زن",
+        "signature": "زن",
+        "length": 2
+      },
+      {
+        "token": "تونم",
+        "signature": "تمنو",
+        "length": 4
+      },
+      {
+        "token": "یا",
+        "signature": "ای",
+        "length": 2
+      },
+      {
+        "token": "بعدش",
+        "signature": "بدشع",
+        "length": 4
+      },
+      {
+        "token": "زمان",
+        "signature": "ازمن",
+        "length": 4
+      },
+      {
+        "token": "باعث",
+        "signature": "ابثع",
+        "length": 4
+      },
+      {
+        "token": "طرف",
+        "signature": "رطف",
+        "length": 3
+      },
+      {
+        "token": "اجازه",
+        "signature": "اجزه",
+        "length": 5
+      },
+      {
+        "token": "داده",
+        "signature": "اده",
+        "length": 4
+      },
+      {
+        "token": "دونم",
+        "signature": "دمنو",
+        "length": 4
+      },
+      {
+        "token": "اتفاق",
+        "signature": "اتفق",
+        "length": 5
+      },
+      {
+        "token": "اینکه",
+        "signature": "اکنهی",
+        "length": 5
+      },
+      {
+        "token": "فرار",
+        "signature": "ارف",
+        "length": 4
+      },
+      {
+        "token": "نگه",
+        "signature": "گنه",
+        "length": 3
+      },
+      {
+        "token": "منه",
+        "signature": "منه",
+        "length": 3
+      },
+      {
+        "token": "بزن",
+        "signature": "بزن",
+        "length": 3
+      },
+      {
+        "token": "نجات",
+        "signature": "اتجن",
+        "length": 4
+      },
+      {
+        "token": "کنیم",
+        "signature": "کمنی",
+        "length": 4
+      },
+      {
+        "token": "خبر",
+        "signature": "بخر",
+        "length": 3
+      },
+      {
+        "token": "بابا",
+        "signature": "اب",
+        "length": 4
+      },
+      {
+        "token": "مال",
+        "signature": "الم",
+        "length": 3
+      },
+      {
+        "token": "حالت",
+        "signature": "اتحل",
+        "length": 4
+      },
+      {
+        "token": "سمت",
+        "signature": "تسم",
+        "length": 3
+      },
+      {
+        "token": "پشت",
+        "signature": "پتش",
+        "length": 3
+      },
+      {
+        "token": "منظورم",
+        "signature": "رظمنو",
+        "length": 6
+      },
+      {
+        "token": "مهم",
+        "signature": "مه",
+        "length": 3
+      },
+      {
+        "token": "اصلا",
+        "signature": "اصل",
+        "length": 4
+      },
+      {
+        "token": "باور",
+        "signature": "ابرو",
+        "length": 4
+      },
+      {
+        "token": "های",
+        "signature": "اهی",
+        "length": 3
+      },
+      {
+        "token": "دکتر",
+        "signature": "تدرک",
+        "length": 4
+      },
+      {
+        "token": "مامان",
+        "signature": "امن",
+        "length": 5
+      },
+      {
+        "token": "لطفا",
+        "signature": "اطفل",
+        "length": 4
+      },
+      {
+        "token": "پیدا",
+        "signature": "اپدی",
+        "length": 4
+      },
+      {
+        "token": "لازم",
+        "signature": "ازلم",
+        "length": 4
+      },
+      {
+        "token": "جواب",
+        "signature": "ابجو",
+        "length": 4
+      },
+      {
+        "token": "لحظه",
+        "signature": "حظله",
+        "length": 4
+      },
+      {
+        "token": "ای",
+        "signature": "ای",
+        "length": 2
+      },
+      {
+        "token": "ادامه",
+        "signature": "ادمه",
+        "length": 5
+      },
+      {
+        "token": "صبح",
+        "signature": "بحص",
+        "length": 3
+      },
+      {
+        "token": "خون",
+        "signature": "خنو",
+        "length": 3
+      },
+      {
+        "token": "احساس",
+        "signature": "احس",
+        "length": 5
+      },
+      {
+        "token": "دادم",
+        "signature": "ادم",
+        "length": 4
+      },
+      {
+        "token": "همین",
+        "signature": "منهی",
+        "length": 4
+      },
+      {
+        "token": "وارد",
+        "signature": "ادرو",
+        "length": 4
+      },
+      {
+        "token": "داخل",
+        "signature": "اخدل",
+        "length": 4
+      },
+      {
+        "token": "انتخاب",
+        "signature": "ابتخن",
+        "length": 6
+      },
+      {
+        "token": "نگران",
+        "signature": "ارگن",
+        "length": 5
+      },
+      {
+        "token": "اشتباه",
+        "signature": "ابتشه",
+        "length": 6
+      },
+      {
+        "token": "یکی",
+        "signature": "کی",
+        "length": 3
+      },
+      {
+        "token": "بد",
+        "signature": "بد",
+        "length": 2
+      },
+      {
+        "token": "تر",
+        "signature": "تر",
+        "length": 2
+      },
+      {
+        "token": "جنگ",
+        "signature": "جگن",
+        "length": 3
+      },
+      {
+        "token": "نمی",
+        "signature": "منی",
+        "length": 3
+      },
+      {
+        "token": "رفته",
+        "signature": "ترفه",
+        "length": 4
+      },
+      {
+        "token": "هفته",
+        "signature": "تفه",
+        "length": 4
+      },
+      {
+        "token": "حمله",
+        "signature": "حلمه",
+        "length": 4
+      },
+      {
+        "token": "امشب",
+        "signature": "ابشم",
+        "length": 4
+      },
+      {
+        "token": "هیچ",
+        "signature": "چهی",
+        "length": 3
+      },
+      {
+        "token": "مشکل",
+        "signature": "شکلم",
+        "length": 4
+      },
+      {
+        "token": "ازدواج",
+        "signature": "اجدزو",
+        "length": 6
+      },
+      {
+        "token": "اعتماد",
+        "signature": "اتدعم",
+        "length": 6
+      },
+      {
+        "token": "کسی",
+        "signature": "سکی",
+        "length": 3
+      },
+      {
+        "token": "بره",
+        "signature": "بره",
+        "length": 3
+      },
+      {
+        "token": "مرگ",
+        "signature": "رگم",
+        "length": 3
+      },
+      {
+        "token": "حرکت",
+        "signature": "تحرک",
+        "length": 4
+      },
+      {
+        "token": "بزنم",
+        "signature": "بزمن",
+        "length": 4
+      },
+      {
+        "token": "حق",
+        "signature": "حق",
+        "length": 2
+      },
+      {
+        "token": "دادن",
+        "signature": "ادن",
+        "length": 4
+      },
+      {
+        "token": "کدوم",
+        "signature": "دکمو",
+        "length": 4
+      },
+      {
+        "token": "قول",
+        "signature": "قلو",
+        "length": 3
+      },
+      {
+        "token": "متوجه",
+        "signature": "تجمهو",
+        "length": 5
+      },
+      {
+        "token": "خواهد",
+        "signature": "اخدهو",
+        "length": 5
+      },
+      {
+        "token": "ماه",
+        "signature": "امه",
+        "length": 3
+      },
+      {
+        "token": "گفته",
+        "signature": "تفگه",
+        "length": 4
+      },
+      {
+        "token": "عوض",
+        "signature": "ضعو",
+        "length": 3
+      },
+      {
+        "token": "گرفته",
+        "signature": "ترفگه",
+        "length": 5
+      },
+      {
+        "token": "انگار",
+        "signature": "ارگن",
+        "length": 5
+      },
+      {
+        "token": "بیرون",
+        "signature": "برنوی",
+        "length": 5
+      },
+      {
+        "token": "حس",
+        "signature": "حس",
+        "length": 2
+      },
+      {
+        "token": "کاری",
+        "signature": "ارکی",
+        "length": 4
+      },
+      {
+        "token": "داریم",
+        "signature": "ادرمی",
+        "length": 5
+      },
+      {
+        "token": "دار",
+        "signature": "ادر",
+        "length": 3
+      },
+      {
+        "token": "تماس",
+        "signature": "اتسم",
+        "length": 4
+      },
+      {
+        "token": "هستند",
+        "signature": "تدسنه",
+        "length": 5
+      },
+      {
+        "token": "بیا",
+        "signature": "ابی",
+        "length": 3
+      },
+      {
+        "token": "جور",
+        "signature": "جرو",
+        "length": 3
+      },
+      {
+        "token": "پیش",
+        "signature": "پشی",
+        "length": 3
+      },
+      {
+        "token": "کی",
+        "signature": "کی",
+        "length": 2
+      },
+      {
+        "token": "هرگز",
+        "signature": "رزگه",
+        "length": 4
+      },
+      {
+        "token": "اندازه",
+        "signature": "ادزنه",
+        "length": 6
+      },
+      {
+        "token": "تازه",
+        "signature": "اتزه",
+        "length": 4
+      },
+      {
+        "token": "بشم",
+        "signature": "بشم",
+        "length": 3
+      },
+      {
+        "token": "کارت",
+        "signature": "اترک",
+        "length": 4
+      },
+      {
+        "token": "لباس",
+        "signature": "ابسل",
+        "length": 4
+      },
+      {
+        "token": "قبول",
+        "signature": "بقلو",
+        "length": 4
+      },
+      {
+        "token": "دروغ",
+        "signature": "درغو",
+        "length": 4
+      },
+      {
+        "token": "موقع",
+        "signature": "عقمو",
+        "length": 4
+      },
+      {
+        "token": "جان",
+        "signature": "اجن",
+        "length": 3
+      },
+      {
+        "token": "شاید",
+        "signature": "ادشی",
+        "length": 4
+      },
+      {
+        "token": "منتظر",
+        "signature": "ترظمن",
+        "length": 5
+      },
+      {
+        "token": "مادر",
+        "signature": "ادرم",
+        "length": 4
+      },
+      {
+        "token": "ممنونم",
+        "signature": "منو",
+        "length": 6
+      },
+      {
+        "token": "برنامه",
+        "signature": "ابرمنه",
+        "length": 6
+      },
+      {
+        "token": "موضوع",
+        "signature": "ضعمو",
+        "length": 5
+      },
+      {
+        "token": "عشق",
+        "signature": "شعق",
+        "length": 3
+      },
+      {
+        "token": "نقشه",
+        "signature": "شقنه",
+        "length": 4
+      },
+      {
+        "token": "گرفتم",
+        "signature": "ترفگم",
+        "length": 5
+      },
+      {
+        "token": "گم",
+        "signature": "گم",
+        "length": 2
+      },
+      {
+        "token": "روی",
+        "signature": "روی",
+        "length": 3
+      },
+      {
+        "token": "عنوان",
+        "signature": "اعنو",
+        "length": 5
+      },
+      {
+        "token": "مرده",
+        "signature": "درمه",
+        "length": 4
+      },
+      {
+        "token": "رفت",
+        "signature": "ترف",
+        "length": 3
+      },
+      {
+        "token": "مجبور",
+        "signature": "بجرمو",
+        "length": 5
+      },
+      {
+        "token": "جمع",
+        "signature": "جعم",
+        "length": 3
+      },
+      {
+        "token": "بکنم",
+        "signature": "بکمن",
+        "length": 4
+      },
+      {
+        "token": "بریم",
+        "signature": "برمی",
+        "length": 4
+      },
+      {
+        "token": "کردی",
+        "signature": "درکی",
+        "length": 4
+      },
+      {
+        "token": "گروه",
+        "signature": "رگهو",
+        "length": 4
+      },
+      {
+        "token": "منظورت",
+        "signature": "ترظمنو",
+        "length": 6
+      },
+      {
+        "token": "خود",
+        "signature": "خدو",
+        "length": 3
+      },
+      {
+        "token": "رد",
+        "signature": "در",
+        "length": 2
+      },
+      {
+        "token": "حتما",
+        "signature": "اتحم",
+        "length": 4
+      },
+      {
+        "token": "پر",
+        "signature": "پر",
+        "length": 2
+      },
+      {
+        "token": "عاشق",
+        "signature": "اشعق",
+        "length": 4
+      },
+      {
+        "token": "بلند",
+        "signature": "بدلن",
+        "length": 4
+      },
+      {
+        "token": "شماره",
+        "signature": "ارشمه",
+        "length": 5
+      },
+      {
+        "token": "اره",
+        "signature": "اره",
+        "length": 3
+      },
+      {
+        "token": "روش",
+        "signature": "رشو",
+        "length": 3
+      },
+      {
+        "token": "عقب",
+        "signature": "بعق",
+        "length": 3
+      },
+      {
+        "token": "احمق",
+        "signature": "احقم",
+        "length": 4
+      },
+      {
+        "token": "کل",
+        "signature": "کل",
+        "length": 2
+      },
+      {
+        "token": "چیز",
+        "signature": "چزی",
+        "length": 3
+      },
+      {
+        "token": "کاملا",
+        "signature": "اکلم",
+        "length": 5
+      },
+      {
+        "token": "خوشحالم",
+        "signature": "احخشلمو",
+        "length": 7
+      },
+      {
+        "token": "زندگی",
+        "signature": "دزگنی",
+        "length": 5
+      },
+      {
+        "token": "نشده",
+        "signature": "دشنه",
+        "length": 4
+      },
+      {
+        "token": "خارج",
+        "signature": "اجخر",
+        "length": 4
+      },
+      {
+        "token": "افتاده",
+        "signature": "اتدفه",
+        "length": 6
+      },
+      {
+        "token": "فراموش",
+        "signature": "ارشفمو",
+        "length": 6
+      },
+      {
+        "token": "شه",
+        "signature": "شه",
+        "length": 2
+      },
+      {
+        "token": "انجامش",
+        "signature": "اجشمن",
+        "length": 6
+      },
+      {
+        "token": "راست",
+        "signature": "اترس",
+        "length": 4
+      },
+      {
+        "token": "اسلحه",
+        "signature": "احسله",
+        "length": 5
+      },
+      {
+        "token": "گذشته",
+        "signature": "تذشگه",
+        "length": 5
+      },
+      {
+        "token": "داستان",
+        "signature": "اتدسن",
+        "length": 6
+      },
+      {
+        "token": "قدرت",
+        "signature": "تدرق",
+        "length": 4
+      },
+      {
+        "token": "زده",
+        "signature": "دزه",
+        "length": 3
+      },
+      {
+        "token": "درد",
+        "signature": "در",
+        "length": 3
+      },
+      {
+        "token": "سخت",
+        "signature": "تخس",
+        "length": 3
+      },
+      {
+        "token": "خوشم",
+        "signature": "خشمو",
+        "length": 4
+      },
+      {
+        "token": "افراد",
+        "signature": "ادرف",
+        "length": 5
+      },
+      {
+        "token": "طول",
+        "signature": "طلو",
+        "length": 3
+      },
+      {
+        "token": "سوال",
+        "signature": "اسلو",
+        "length": 4
+      },
+      {
+        "token": "قبلا",
+        "signature": "ابقل",
+        "length": 4
+      },
+      {
+        "token": "مراقب",
+        "signature": "ابرقم",
+        "length": 5
+      },
+      {
+        "token": "مدت",
+        "signature": "تدم",
+        "length": 3
+      },
+      {
+        "token": "مبارزه",
+        "signature": "ابرزمه",
+        "length": 6
+      },
+      {
+        "token": "همیشه",
+        "signature": "شمهی",
+        "length": 5
+      },
+      {
+        "token": "دلار",
+        "signature": "ادرل",
+        "length": 4
+      },
+      {
+        "token": "ده",
+        "signature": "ده",
+        "length": 2
+      },
+      {
+        "token": "بیشتر",
+        "signature": "بترشی",
+        "length": 5
+      },
+      {
+        "token": "پدرم",
+        "signature": "پدرم",
+        "length": 4
+      },
+      {
+        "token": "راجع",
+        "signature": "اجرع",
+        "length": 4
+      },
+      {
+        "token": "غذا",
+        "signature": "اذغ",
+        "length": 3
+      },
+      {
+        "token": "خوشحال",
+        "signature": "احخشلو",
+        "length": 6
+      },
+      {
+        "token": "خواب",
+        "signature": "ابخو",
+        "length": 4
+      },
+      {
+        "token": "کشته",
+        "signature": "تشکه",
+        "length": 4
+      },
+      {
+        "token": "کننده",
+        "signature": "دکنه",
+        "length": 5
+      },
+      {
+        "token": "چشم",
+        "signature": "چشم",
+        "length": 3
+      },
+      {
+        "token": "خفه",
+        "signature": "خفه",
+        "length": 3
+      },
+      {
+        "token": "کنترل",
+        "signature": "ترکلن",
+        "length": 5
+      },
+      {
+        "token": "رفتن",
+        "signature": "ترفن",
+        "length": 4
+      },
+      {
+        "token": "ترک",
+        "signature": "ترک",
+        "length": 3
+      },
+      {
+        "token": "مدرسه",
+        "signature": "درسمه",
+        "length": 5
+      },
+      {
+        "token": "بخش",
+        "signature": "بخش",
+        "length": 3
+      },
+      {
+        "token": "کنید",
+        "signature": "دکنی",
+        "length": 4
+      },
+      {
+        "token": "تحت",
+        "signature": "تح",
+        "length": 3
+      },
+      {
+        "token": "جون",
+        "signature": "جنو",
+        "length": 3
+      },
+      {
+        "token": "توسط",
+        "signature": "تسطو",
+        "length": 4
+      },
+      {
+        "token": "موفق",
+        "signature": "فقمو",
+        "length": 4
+      },
+      {
+        "token": "بدن",
+        "signature": "بدن",
+        "length": 3
+      },
+      {
+        "token": "پادشاه",
+        "signature": "اپدشه",
+        "length": 6
+      },
+      {
+        "token": "بزار",
+        "signature": "ابرز",
+        "length": 4
+      },
+      {
+        "token": "پنج",
+        "signature": "پجن",
+        "length": 3
+      },
+      {
+        "token": "بس",
+        "signature": "بس",
+        "length": 2
+      },
+      {
+        "token": "دلم",
+        "signature": "دلم",
+        "length": 3
+      },
+      {
+        "token": "افتاد",
+        "signature": "اتدف",
+        "length": 5
+      },
+      {
+        "token": "دفعه",
+        "signature": "دعفه",
+        "length": 4
+      },
+      {
+        "token": "نباش",
+        "signature": "ابشن",
+        "length": 4
+      },
+      {
+        "token": "صورت",
+        "signature": "ترصو",
+        "length": 4
+      },
+      {
+        "token": "بتونم",
+        "signature": "بتمنو",
+        "length": 5
+      },
+      {
+        "token": "محافظت",
+        "signature": "اتحظفم",
+        "length": 6
+      },
+      {
+        "token": "شانس",
+        "signature": "اسشن",
+        "length": 4
+      },
+      {
+        "token": "اسمش",
+        "signature": "اسشم",
+        "length": 4
+      },
+      {
+        "token": "زدن",
+        "signature": "دزن",
+        "length": 3
+      },
+      {
+        "token": "برادر",
+        "signature": "ابدر",
+        "length": 5
+      },
+      {
+        "token": "کنند",
+        "signature": "دکن",
+        "length": 4
+      },
+      {
+        "token": "شرکت",
+        "signature": "ترشک",
+        "length": 4
+      },
+      {
+        "token": "نابود",
+        "signature": "ابدنو",
+        "length": 5
+      },
+      {
+        "token": "حساب",
+        "signature": "ابحس",
+        "length": 4
+      },
+      {
+        "token": "باشی",
+        "signature": "ابشی",
+        "length": 4
+      },
+      {
+        "token": "پرونده",
+        "signature": "پدرنهو",
+        "length": 6
+      },
+      {
+        "token": "داشتن",
+        "signature": "اتدشن",
+        "length": 5
+      },
+      {
+        "token": "انسان",
+        "signature": "اسن",
+        "length": 5
+      },
+      {
+        "token": "شکست",
+        "signature": "تسشک",
+        "length": 4
+      },
+      {
+        "token": "باهم",
+        "signature": "ابمه",
+        "length": 4
+      },
+      {
+        "token": "خورده",
+        "signature": "خدرهو",
+        "length": 5
+      },
+      {
+        "token": "دوستت",
+        "signature": "تدسو",
+        "length": 5
+      },
+      {
+        "token": "راحت",
+        "signature": "اتحر",
+        "length": 4
+      },
+      {
+        "token": "گفتن",
+        "signature": "تفگن",
+        "length": 4
+      },
+      {
+        "token": "اطلاعات",
+        "signature": "اتطعل",
+        "length": 7
+      },
+      {
+        "token": "شماها",
+        "signature": "اشمه",
+        "length": 5
+      },
+      {
+        "token": "بنظر",
+        "signature": "برظن",
+        "length": 4
+      },
+      {
+        "token": "توجه",
+        "signature": "تجهو",
+        "length": 4
+      },
+      {
+        "token": "بازم",
+        "signature": "ابزم",
+        "length": 4
+      },
+      {
+        "token": "هدف",
+        "signature": "دفه",
+        "length": 3
+      },
+      {
+        "token": "لعنت",
+        "signature": "تعلن",
+        "length": 4
+      },
+      {
+        "token": "درک",
+        "signature": "درک",
+        "length": 3
+      },
+      {
+        "token": "معذرت",
+        "signature": "تذرعم",
+        "length": 5
+      },
+      {
+        "token": "حداقل",
+        "signature": "احدقل",
+        "length": 5
+      },
+      {
+        "token": "افتخار",
+        "signature": "اتخرف",
+        "length": 6
+      },
+      {
+        "token": "چهار",
+        "signature": "اچره",
+        "length": 4
+      },
+      {
+        "token": "گرفتن",
+        "signature": "ترفگن",
+        "length": 5
+      },
+      {
+        "token": "حتی",
+        "signature": "تحی",
+        "length": 3
+      },
+      {
+        "token": "ملاقات",
+        "signature": "اتقلم",
+        "length": 6
+      },
+      {
+        "token": "طور",
+        "signature": "رطو",
+        "length": 3
+      },
+      {
+        "token": "نکنم",
+        "signature": "کمن",
+        "length": 4
+      },
+      {
+        "token": "هزار",
+        "signature": "ارزه",
+        "length": 4
+      },
+      {
+        "token": "پدرت",
+        "signature": "پتدر",
+        "length": 4
+      },
+      {
+        "token": "عکس",
+        "signature": "سعک",
+        "length": 3
+      },
+      {
+        "token": "نکردم",
+        "signature": "درکمن",
+        "length": 5
+      },
+      {
+        "token": "هستی",
+        "signature": "تسهی",
+        "length": 4
+      },
+      {
+        "token": "کوچولو",
+        "signature": "چکلو",
+        "length": 6
+      },
+      {
+        "token": "پسرم",
+        "signature": "پرسم",
+        "length": 4
+      },
+      {
+        "token": "خواستم",
+        "signature": "اتخسمو",
+        "length": 6
+      },
+      {
+        "token": "بسته",
+        "signature": "بتسه",
+        "length": 4
+      },
+      {
+        "token": "خوبم",
+        "signature": "بخمو",
+        "length": 4
+      },
+      {
+        "token": "بالاخره",
+        "signature": "ابخرله",
+        "length": 7
+      },
+      {
+        "token": "پرواز",
+        "signature": "اپرزو",
+        "length": 5
+      },
+      {
+        "token": "رفتار",
+        "signature": "اترف",
+        "length": 5
+      },
+      {
+        "token": "قتل",
+        "signature": "تقل",
+        "length": 3
+      },
+      {
+        "token": "قسمت",
+        "signature": "تسقم",
+        "length": 4
+      },
+      {
+        "token": "تلفن",
+        "signature": "تفلن",
+        "length": 4
+      },
+      {
+        "token": "زندان",
+        "signature": "ادزن",
+        "length": 5
+      },
+      {
+        "token": "عجله",
+        "signature": "جعله",
+        "length": 4
+      },
+      {
+        "token": "زد",
+        "signature": "دز",
+        "length": 2
+      },
+      {
+        "token": "جدا",
+        "signature": "اجد",
+        "length": 3
+      },
+      {
+        "token": "جلو",
+        "signature": "جلو",
+        "length": 3
+      },
+      {
+        "token": "خوبی",
+        "signature": "بخوی",
+        "length": 4
+      },
+      {
+        "token": "توش",
+        "signature": "تشو",
+        "length": 3
+      },
+      {
+        "token": "زدم",
+        "signature": "دزم",
+        "length": 3
+      },
+      {
+        "token": "دستور",
+        "signature": "تدرسو",
+        "length": 5
+      },
+      {
+        "token": "سگ",
+        "signature": "سگ",
+        "length": 2
+      },
+      {
+        "token": "خراب",
+        "signature": "ابخر",
+        "length": 4
+      },
+      {
+        "token": "گرفت",
+        "signature": "ترفگ",
+        "length": 4
+      },
+      {
+        "token": "پا",
+        "signature": "اپ",
+        "length": 2
+      },
+      {
+        "token": "سوار",
+        "signature": "ارسو",
+        "length": 4
+      },
+      {
+        "token": "بی",
+        "signature": "بی",
+        "length": 2
+      },
+      {
+        "token": "اوضاع",
+        "signature": "اضعو",
+        "length": 5
+      },
+      {
+        "token": "قابل",
+        "signature": "ابقل",
+        "length": 4
+      },
+      {
+        "token": "نیاز",
+        "signature": "ازنی",
+        "length": 4
+      },
+      {
+        "token": "امتحان",
+        "signature": "اتحمن",
+        "length": 6
+      },
+      {
+        "token": "مواد",
+        "signature": "ادمو",
+        "length": 4
+      },
+      {
+        "token": "بازی",
+        "signature": "ابزی",
+        "length": 4
+      },
+      {
+        "token": "راستش",
+        "signature": "اترسش",
+        "length": 5
+      },
+      {
+        "token": "بدی",
+        "signature": "بدی",
+        "length": 3
+      },
+      {
+        "token": "فوق",
+        "signature": "فقو",
+        "length": 3
+      },
+      {
+        "token": "کامل",
+        "signature": "اکلم",
+        "length": 4
+      },
+      {
+        "token": "نظرت",
+        "signature": "ترظن",
+        "length": 4
+      }
+    ],
+    "developing": [
+      {
+        "token": "بازبینی",
+        "signature": "ابزنی",
+        "length": 7
+      },
+      {
+        "token": "ترکیب",
+        "signature": "بترکی",
+        "length": 5
+      },
+      {
+        "token": "گذر",
+        "signature": "ذرگ",
+        "length": 3
+      },
+      {
+        "token": "پیوند",
+        "signature": "پدنوی",
+        "length": 5
+      },
+      {
+        "token": "پاراگراف",
+        "signature": "اپرفگ",
+        "length": 8
+      },
+      {
+        "token": "خوانایی",
+        "signature": "اخنوی",
+        "length": 7
+      },
+      {
+        "token": "تعادل",
+        "signature": "اتدعل",
+        "length": 5
+      },
+      {
+        "token": "جریان",
+        "signature": "اجرنی",
+        "length": 5
+      },
+      {
+        "token": "الگو",
+        "signature": "اگلو",
+        "length": 4
+      },
+      {
+        "token": "مرور",
+        "signature": "رمو",
+        "length": 4
+      },
+      {
+        "token": "بازگشت",
+        "signature": "ابتزشگ",
+        "length": 6
+      },
+      {
+        "token": "واژگان",
+        "signature": "اژگنو",
+        "length": 6
+      },
+      {
+        "token": "همراهی",
+        "signature": "ارمهی",
+        "length": 6
+      },
+      {
+        "token": "روایت",
+        "signature": "اتروی",
+        "length": 5
+      },
+      {
+        "token": "پیوستگی",
+        "signature": "پتسگوی",
+        "length": 7
+      },
+      {
+        "token": "خوش‌ریتم",
+        "signature": "‌تخرشموی",
+        "length": 8
+      },
+      {
+        "token": "معناپذیری",
+        "signature": "اپذرعمنی",
+        "length": 9
+      },
+      {
+        "token": "مکث‌گذاری",
+        "signature": "‌اثذرکگمی",
+        "length": 9
+      },
+      {
+        "token": "هماهنگی",
+        "signature": "اگمنهی",
+        "length": 7
+      },
+      {
+        "token": "جریان‌خوانی",
+        "signature": "‌اجخرنوی",
+        "length": 11
+      },
+      {
+        "token": "سطرخوانی",
+        "signature": "اخرسطنوی",
+        "length": 8
+      },
+      {
+        "token": "جمله‌سازی",
+        "signature": "‌اجزسلمهی",
+        "length": 9
+      },
+      {
+        "token": "بندبندی",
+        "signature": "بدنی",
+        "length": 7
+      },
+      {
+        "token": "آراستگی",
+        "signature": "آاترسگی",
+        "length": 7
+      },
+      {
+        "token": "پیگیری",
+        "signature": "پرگی",
+        "length": 6
+      },
+      {
+        "token": "سنجیدگی",
+        "signature": "جدسگنی",
+        "length": 7
+      },
+      {
+        "token": "انسجام",
+        "signature": "اجسمن",
+        "length": 6
+      },
+      {
+        "token": "هم‌نشینی",
+        "signature": "‌شمنهی",
+        "length": 8
+      },
+      {
+        "token": "رحم",
+        "signature": "حرم",
+        "length": 3
+      },
+      {
+        "token": "معجزه",
+        "signature": "جزعمه",
+        "length": 5
+      },
+      {
+        "token": "افتادم",
+        "signature": "اتدفم",
+        "length": 6
+      },
+      {
+        "token": "شجاع",
+        "signature": "اجشع",
+        "length": 4
+      },
+      {
+        "token": "بتونی",
+        "signature": "بتنوی",
+        "length": 5
+      },
+      {
+        "token": "ببینیم",
+        "signature": "بمنی",
+        "length": 6
+      },
+      {
+        "token": "توقف",
+        "signature": "تفقو",
+        "length": 4
+      },
+      {
+        "token": "چاک",
+        "signature": "اچک",
+        "length": 3
+      },
+      {
+        "token": "قوی",
+        "signature": "قوی",
+        "length": 3
+      },
+      {
+        "token": "دستورات",
+        "signature": "اتدرسو",
+        "length": 7
+      },
+      {
+        "token": "جبران",
+        "signature": "ابجرن",
+        "length": 5
+      },
+      {
+        "token": "خر",
+        "signature": "خر",
+        "length": 2
+      },
+      {
+        "token": "شکنجه",
+        "signature": "جشکنه",
+        "length": 5
+      },
+      {
+        "token": "طلاق",
+        "signature": "اطقل",
+        "length": 4
+      },
+      {
+        "token": "نجاتش",
+        "signature": "اتجشن",
+        "length": 5
+      },
+      {
+        "token": "موجودات",
+        "signature": "اتجدمو",
+        "length": 7
+      },
+      {
+        "token": "محکوم",
+        "signature": "حکمو",
+        "length": 5
+      },
+      {
+        "token": "روزی",
+        "signature": "رزوی",
+        "length": 4
+      },
+      {
+        "token": "متحد",
+        "signature": "تحدم",
+        "length": 4
+      },
+      {
+        "token": "مرسی",
+        "signature": "رسمی",
+        "length": 4
+      },
+      {
+        "token": "گور",
+        "signature": "رگو",
+        "length": 3
+      },
+      {
+        "token": "مرتب",
+        "signature": "بترم",
+        "length": 4
+      },
+      {
+        "token": "کانال",
+        "signature": "اکلن",
+        "length": 5
+      },
+      {
+        "token": "نره",
+        "signature": "رنه",
+        "length": 3
+      },
+      {
+        "token": "انداخت",
+        "signature": "اتخدن",
+        "length": 6
+      },
+      {
+        "token": "مقصر",
+        "signature": "رصقم",
+        "length": 4
+      },
+      {
+        "token": "شعر",
+        "signature": "رشع",
+        "length": 3
+      },
+      {
+        "token": "جاسوس",
+        "signature": "اجسو",
+        "length": 5
+      },
+      {
+        "token": "قبلش",
+        "signature": "بشقل",
+        "length": 4
+      },
+      {
+        "token": "مظنون",
+        "signature": "ظمنو",
+        "length": 5
+      },
+      {
+        "token": "سو",
+        "signature": "سو",
+        "length": 2
+      },
+      {
+        "token": "نکردن",
+        "signature": "درکن",
+        "length": 5
+      },
+      {
+        "token": "تقصیر",
+        "signature": "ترصقی",
+        "length": 5
+      },
+      {
+        "token": "سوخت",
+        "signature": "تخسو",
+        "length": 4
+      },
+      {
+        "token": "ببینی",
+        "signature": "بنی",
+        "length": 5
+      },
+      {
+        "token": "خشونت",
+        "signature": "تخشنو",
+        "length": 5
+      },
+      {
+        "token": "بازداشت",
+        "signature": "ابتدزش",
+        "length": 7
+      },
+      {
+        "token": "ذهنت",
+        "signature": "تذنه",
+        "length": 4
+      },
+      {
+        "token": "تنهایی",
+        "signature": "اتنهی",
+        "length": 6
+      },
+      {
+        "token": "کاغذ",
+        "signature": "اذغک",
+        "length": 4
+      },
+      {
+        "token": "قلبش",
+        "signature": "بشقل",
+        "length": 4
+      },
+      {
+        "token": "اصرار",
+        "signature": "ارص",
+        "length": 5
+      },
+      {
+        "token": "التماس",
+        "signature": "اتسلم",
+        "length": 6
+      },
+      {
+        "token": "گول",
+        "signature": "گلو",
+        "length": 3
+      },
+      {
+        "token": "شهردار",
+        "signature": "ادرشه",
+        "length": 6
+      },
+      {
+        "token": "گشت",
+        "signature": "تشگ",
+        "length": 3
+      },
+      {
+        "token": "نون",
+        "signature": "نو",
+        "length": 3
+      },
+      {
+        "token": "اجاره",
+        "signature": "اجره",
+        "length": 5
+      },
+      {
+        "token": "بهرحال",
+        "signature": "ابحرله",
+        "length": 6
+      },
+      {
+        "token": "ترسناک",
+        "signature": "اترسکن",
+        "length": 6
+      },
+      {
+        "token": "بدنت",
+        "signature": "بتدن",
+        "length": 4
+      },
+      {
+        "token": "خرس",
+        "signature": "خرس",
+        "length": 3
+      },
+      {
+        "token": "تولدت",
+        "signature": "تدلو",
+        "length": 5
+      },
+      {
+        "token": "لب",
+        "signature": "بل",
+        "length": 2
+      },
+      {
+        "token": "جام",
+        "signature": "اجم",
+        "length": 3
+      },
+      {
+        "token": "بال",
+        "signature": "ابل",
+        "length": 3
+      },
+      {
+        "token": "باورت",
+        "signature": "ابترو",
+        "length": 5
+      },
+      {
+        "token": "جنس",
+        "signature": "جسن",
+        "length": 3
+      },
+      {
+        "token": "روزها",
+        "signature": "ارزهو",
+        "length": 5
+      },
+      {
+        "token": "طرح",
+        "signature": "حرط",
+        "length": 3
+      },
+      {
+        "token": "اعدام",
+        "signature": "ادعم",
+        "length": 5
+      },
+      {
+        "token": "اصلی",
+        "signature": "اصلی",
+        "length": 4
+      },
+      {
+        "token": "سناتور",
+        "signature": "اترسنو",
+        "length": 6
+      },
+      {
+        "token": "دووم",
+        "signature": "دمو",
+        "length": 4
+      },
+      {
+        "token": "دیشب",
+        "signature": "بدشی",
+        "length": 4
+      },
+      {
+        "token": "ساختن",
+        "signature": "اتخسن",
+        "length": 5
+      },
+      {
+        "token": "درواقع",
+        "signature": "ادرعقو",
+        "length": 6
+      },
+      {
+        "token": "نسخه",
+        "signature": "خسنه",
+        "length": 4
+      },
+      {
+        "token": "کلمات",
+        "signature": "اتکلم",
+        "length": 5
+      },
+      {
+        "token": "تقریبا",
+        "signature": "ابترقی",
+        "length": 6
+      },
+      {
+        "token": "دنیای",
+        "signature": "ادنی",
+        "length": 5
+      },
+      {
+        "token": "نبودن",
+        "signature": "بدنو",
+        "length": 5
+      },
+      {
+        "token": "همان",
+        "signature": "امنه",
+        "length": 4
+      },
+      {
+        "token": "امنیت",
+        "signature": "اتمنی",
+        "length": 5
+      },
+      {
+        "token": "معبد",
+        "signature": "بدعم",
+        "length": 4
+      },
+      {
+        "token": "نداده",
+        "signature": "ادنه",
+        "length": 5
+      },
+      {
+        "token": "صاف",
+        "signature": "اصف",
+        "length": 3
+      },
+      {
+        "token": "قادر",
+        "signature": "ادرق",
+        "length": 4
+      },
+      {
+        "token": "متخصص",
+        "signature": "تخصم",
+        "length": 5
+      },
+      {
+        "token": "پاسخ",
+        "signature": "اپخس",
+        "length": 4
+      },
+      {
+        "token": "خالی",
+        "signature": "اخلی",
+        "length": 4
+      },
+      {
+        "token": "خوشمزه",
+        "signature": "خزشمهو",
+        "length": 6
+      },
+      {
+        "token": "ندادم",
+        "signature": "ادمن",
+        "length": 5
+      },
+      {
+        "token": "قصر",
+        "signature": "رصق",
+        "length": 3
+      },
+      {
+        "token": "هدر",
+        "signature": "دره",
+        "length": 3
+      },
+      {
+        "token": "بررسی",
+        "signature": "برسی",
+        "length": 5
+      },
+      {
+        "token": "نگفت",
+        "signature": "تفگن",
+        "length": 4
+      },
+      {
+        "token": "کشتم",
+        "signature": "تشکم",
+        "length": 4
+      },
+      {
+        "token": "فرمان",
+        "signature": "ارفمن",
+        "length": 5
+      },
+      {
+        "token": "مجلس",
+        "signature": "جسلم",
+        "length": 4
+      },
+      {
+        "token": "بزرگی",
+        "signature": "برزگی",
+        "length": 5
+      },
+      {
+        "token": "نقل",
+        "signature": "قلن",
+        "length": 3
+      },
+      {
+        "token": "تند",
+        "signature": "تدن",
+        "length": 3
+      },
+      {
+        "token": "سبک",
+        "signature": "بسک",
+        "length": 3
+      },
+      {
+        "token": "مترجم",
+        "signature": "تجرم",
+        "length": 5
+      },
+      {
+        "token": "منظورش",
+        "signature": "رشظمنو",
+        "length": 6
+      },
+      {
+        "token": "اسباب",
+        "signature": "ابس",
+        "length": 5
+      },
+      {
+        "token": "مار",
+        "signature": "ارم",
+        "length": 3
+      },
+      {
+        "token": "همکار",
+        "signature": "ارکمه",
+        "length": 5
+      },
+      {
+        "token": "حافظه",
+        "signature": "احظفه",
+        "length": 5
+      },
+      {
+        "token": "انداختن",
+        "signature": "اتخدن",
+        "length": 7
+      },
+      {
+        "token": "گرفتی",
+        "signature": "ترفگی",
+        "length": 5
+      },
+      {
+        "token": "سی",
+        "signature": "سی",
+        "length": 2
+      },
+      {
+        "token": "میلیون",
+        "signature": "لمنوی",
+        "length": 6
+      },
+      {
+        "token": "بفرست",
+        "signature": "بترسف",
+        "length": 5
+      },
+      {
+        "token": "باشگاه",
+        "signature": "ابشگه",
+        "length": 6
+      },
+      {
+        "token": "موج",
+        "signature": "جمو",
+        "length": 3
+      },
+      {
+        "token": "خاله",
+        "signature": "اخله",
+        "length": 4
+      },
+      {
+        "token": "نیروی",
+        "signature": "رنوی",
+        "length": 5
+      },
+      {
+        "token": "چنین",
+        "signature": "چنی",
+        "length": 4
+      },
+      {
+        "token": "صف",
+        "signature": "صف",
+        "length": 2
+      },
+      {
+        "token": "ادوارد",
+        "signature": "ادرو",
+        "length": 6
+      },
+      {
+        "token": "دود",
+        "signature": "دو",
+        "length": 3
+      },
+      {
+        "token": "کلاوس",
+        "signature": "اسکلو",
+        "length": 5
+      },
+      {
+        "token": "دخترش",
+        "signature": "تخدرش",
+        "length": 5
+      },
+      {
+        "token": "حلش",
+        "signature": "حشل",
+        "length": 3
+      },
+      {
+        "token": "ببرش",
+        "signature": "برش",
+        "length": 4
+      },
+      {
+        "token": "پناه",
+        "signature": "اپنه",
+        "length": 4
+      },
+      {
+        "token": "توهم",
+        "signature": "تمهو",
+        "length": 4
+      },
+      {
+        "token": "هنر",
+        "signature": "رنه",
+        "length": 3
+      },
+      {
+        "token": "کتک",
+        "signature": "تک",
+        "length": 3
+      },
+      {
+        "token": "خورم",
+        "signature": "خرمو",
+        "length": 4
+      },
+      {
+        "token": "خوره",
+        "signature": "خرهو",
+        "length": 4
+      },
+      {
+        "token": "زنان",
+        "signature": "ازن",
+        "length": 4
+      },
+      {
+        "token": "زنش",
+        "signature": "زشن",
+        "length": 3
+      },
+      {
+        "token": "سان",
+        "signature": "اسن",
+        "length": 3
+      },
+      {
+        "token": "درحال",
+        "signature": "احدرل",
+        "length": 5
+      },
+      {
+        "token": "چاق",
+        "signature": "اچق",
+        "length": 3
+      },
+      {
+        "token": "دخالت",
+        "signature": "اتخدل",
+        "length": 5
+      },
+      {
+        "token": "صورتش",
+        "signature": "ترشصو",
+        "length": 5
+      },
+      {
+        "token": "تپه",
+        "signature": "پته",
+        "length": 3
+      },
+      {
+        "token": "سقف",
+        "signature": "سفق",
+        "length": 3
+      },
+      {
+        "token": "بدید",
+        "signature": "بدی",
+        "length": 4
+      },
+      {
+        "token": "نیازی",
+        "signature": "ازنی",
+        "length": 5
+      },
+      {
+        "token": "فرستادن",
+        "signature": "اتدرسفن",
+        "length": 7
+      },
+      {
+        "token": "افتادن",
+        "signature": "اتدفن",
+        "length": 6
+      },
+      {
+        "token": "کمپ",
+        "signature": "پکم",
+        "length": 3
+      },
+      {
+        "token": "خاندان",
+        "signature": "اخدن",
+        "length": 6
+      },
+      {
+        "token": "مشاور",
+        "signature": "ارشمو",
+        "length": 5
+      },
+      {
+        "token": "برگزار",
+        "signature": "ابرزگ",
+        "length": 6
+      },
+      {
+        "token": "شاد",
+        "signature": "ادش",
+        "length": 3
+      },
+      {
+        "token": "کسب",
+        "signature": "بسک",
+        "length": 3
+      },
+      {
+        "token": "بدبخت",
+        "signature": "بتخد",
+        "length": 5
+      },
+      {
+        "token": "لمس",
+        "signature": "سلم",
+        "length": 3
+      },
+      {
+        "token": "طناب",
+        "signature": "ابطن",
+        "length": 4
+      },
+      {
+        "token": "پولدار",
+        "signature": "اپدرلو",
+        "length": 6
+      },
+      {
+        "token": "بوم",
+        "signature": "بمو",
+        "length": 3
+      },
+      {
+        "token": "کش",
+        "signature": "شک",
+        "length": 2
+      },
+      {
+        "token": "سرزنش",
+        "signature": "رزسشن",
+        "length": 5
+      },
+      {
+        "token": "غول",
+        "signature": "غلو",
+        "length": 3
+      },
+      {
+        "token": "خلاف",
+        "signature": "اخفل",
+        "length": 4
+      },
+      {
+        "token": "دید",
+        "signature": "دی",
+        "length": 3
+      },
+      {
+        "token": "نترس",
+        "signature": "ترسن",
+        "length": 4
+      },
+      {
+        "token": "هسته",
+        "signature": "تسه",
+        "length": 4
+      },
+      {
+        "token": "عصبانی",
+        "signature": "ابصعنی",
+        "length": 6
+      },
+      {
+        "token": "میشیم",
+        "signature": "شمی",
+        "length": 5
+      },
+      {
+        "token": "متقاعد",
+        "signature": "اتدعقم",
+        "length": 6
+      },
+      {
+        "token": "تور",
+        "signature": "ترو",
+        "length": 3
+      },
+      {
+        "token": "دکمه",
+        "signature": "دکمه",
+        "length": 4
+      },
+      {
+        "token": "زشت",
+        "signature": "تزش",
+        "length": 3
+      },
+      {
+        "token": "باغ",
+        "signature": "ابغ",
+        "length": 3
+      },
+      {
+        "token": "زودی",
+        "signature": "دزوی",
+        "length": 4
+      }
+    ],
+    "advanced": [
+      {
+        "token": "یادسپاری",
+        "signature": "اپدرسی",
+        "length": 8
+      },
+      {
+        "token": "سازگاری",
+        "signature": "ارزسگی",
+        "length": 7
+      },
+      {
+        "token": "پیچیدگی",
+        "signature": "پچدگی",
+        "length": 7
+      },
+      {
+        "token": "تنوع",
+        "signature": "تعنو",
+        "length": 4
+      },
+      {
+        "token": "پایداری",
+        "signature": "اپدری",
+        "length": 7
+      },
+      {
+        "token": "جمله‌پردازی",
+        "signature": "‌اپجدرزلمهی",
+        "length": 11
+      },
+      {
+        "token": "نشانه‌خوانی",
+        "signature": "‌اخشنهوی",
+        "length": 11
+      },
+      {
+        "token": "ساختارمندی",
+        "signature": "اتخدرسمنی",
+        "length": 10
+      },
+      {
+        "token": "بازآرایی",
+        "signature": "آابرزی",
+        "length": 8
+      },
+      {
+        "token": "روان‌خوانی",
+        "signature": "‌اخرنوی",
+        "length": 10
+      },
+      {
+        "token": "خوش‌آهنگی",
+        "signature": "‌آخشگنهوی",
+        "length": 9
+      },
+      {
+        "token": "معناپردازی",
+        "signature": "اپدرزعمنی",
+        "length": 10
+      },
+      {
+        "token": "ساختاردهی",
+        "signature": "اتخدرسهی",
+        "length": 9
+      },
+      {
+        "token": "جهت‌خوانی",
+        "signature": "‌اتجخنهوی",
+        "length": 9
+      },
+      {
+        "token": "ظرافت‌پردازی",
+        "signature": "‌اپتدرزظفی",
+        "length": 12
+      },
+      {
+        "token": "پیوسته‌خوانی",
+        "signature": "‌اپتخسنهوی",
+        "length": 12
+      },
+      {
+        "token": "واژه‌آرایی",
+        "signature": "‌آارژهوی",
+        "length": 10
+      },
+      {
+        "token": "انسجام‌بخشی",
+        "signature": "‌ابجخسشمنی",
+        "length": 11
+      },
+      {
+        "token": "ضرب‌آهنگ",
+        "signature": "‌آبرضگنه",
+        "length": 8
+      },
+      {
+        "token": "توازن‌بخشی",
+        "signature": "‌ابتخزشنوی",
+        "length": 10
+      },
+      {
+        "token": "نعمت",
+        "signature": "تعمن",
+        "length": 4
+      },
+      {
+        "token": "وضعش",
+        "signature": "شضعو",
+        "length": 4
+      },
+      {
+        "token": "هلیکوپتر",
+        "signature": "پترکلهوی",
+        "length": 8
+      },
+      {
+        "token": "جوردن",
+        "signature": "جدرنو",
+        "length": 5
+      },
+      {
+        "token": "خو",
+        "signature": "خو",
+        "length": 2
+      },
+      {
+        "token": "درونم",
+        "signature": "درمنو",
+        "length": 5
+      },
+      {
+        "token": "رخت",
+        "signature": "تخر",
+        "length": 3
+      },
+      {
+        "token": "سپاسگزارم",
+        "signature": "اپرزسگم",
+        "length": 9
+      },
+      {
+        "token": "ظالم",
+        "signature": "اظلم",
+        "length": 4
+      },
+      {
+        "token": "مشروط",
+        "signature": "رشطمو",
+        "length": 5
+      },
+      {
+        "token": "دفترت",
+        "signature": "تدرف",
+        "length": 5
+      },
+      {
+        "token": "روسی",
+        "signature": "رسوی",
+        "length": 4
+      },
+      {
+        "token": "معنای",
+        "signature": "اعمنی",
+        "length": 5
+      },
+      {
+        "token": "پادزهر",
+        "signature": "اپدرزه",
+        "length": 6
+      },
+      {
+        "token": "برنت",
+        "signature": "بترن",
+        "length": 4
+      },
+      {
+        "token": "خیره",
+        "signature": "خرهی",
+        "length": 4
+      },
+      {
+        "token": "ردیف",
+        "signature": "درفی",
+        "length": 4
+      },
+      {
+        "token": "نبودند",
+        "signature": "بدنو",
+        "length": 6
+      },
+      {
+        "token": "دعوتت",
+        "signature": "تدعو",
+        "length": 5
+      },
+      {
+        "token": "گوگل",
+        "signature": "گلو",
+        "length": 4
+      },
+      {
+        "token": "مراجعه",
+        "signature": "اجرعمه",
+        "length": 6
+      },
+      {
+        "token": "بردند",
+        "signature": "بدرن",
+        "length": 5
+      },
+      {
+        "token": "پراکنده",
+        "signature": "اپدرکنه",
+        "length": 7
+      },
+      {
+        "token": "رویا",
+        "signature": "اروی",
+        "length": 4
+      },
+      {
+        "token": "همانند",
+        "signature": "ادمنه",
+        "length": 6
+      },
+      {
+        "token": "زننده",
+        "signature": "دزنه",
+        "length": 5
+      },
+      {
+        "token": "شهامت",
+        "signature": "اتشمه",
+        "length": 5
+      },
+      {
+        "token": "گرا",
+        "signature": "ارگ",
+        "length": 3
+      },
+      {
+        "token": "اوضاعت",
+        "signature": "اتضعو",
+        "length": 6
+      },
+      {
+        "token": "بابی",
+        "signature": "ابی",
+        "length": 4
+      },
+      {
+        "token": "خاصه",
+        "signature": "اخصه",
+        "length": 4
+      },
+      {
+        "token": "خودشان",
+        "signature": "اخدشنو",
+        "length": 6
+      },
+      {
+        "token": "سرشار",
+        "signature": "ارسش",
+        "length": 5
+      },
+      {
+        "token": "شنیدن",
+        "signature": "دشنی",
+        "length": 5
+      },
+      {
+        "token": "واقعه",
+        "signature": "اعقهو",
+        "length": 5
+      },
+      {
+        "token": "برادرزاده",
+        "signature": "ابدرزه",
+        "length": 9
+      }
+    ]
+  }
+}

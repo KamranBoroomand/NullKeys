@@ -1,0 +1,7376 @@
+{
+  "packId": "french:common-words:extended",
+  "languageId": "french",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1472,
+  "stages": {
+    "foundational": [
+      {
+        "token": "soirée",
+        "signature": "eéiors",
+        "length": 6
+      },
+      {
+        "token": "boire",
+        "signature": "beior",
+        "length": 5
+      },
+      {
+        "token": "écrit",
+        "signature": "céirt",
+        "length": 5
+      },
+      {
+        "token": "revenir",
+        "signature": "einrv",
+        "length": 7
+      },
+      {
+        "token": "croyez",
+        "signature": "ceoryz",
+        "length": 6
+      },
+      {
+        "token": "pouvait",
+        "signature": "aioptuv",
+        "length": 7
+      },
+      {
+        "token": "tirer",
+        "signature": "eirt",
+        "length": 5
+      },
+      {
+        "token": "pièce",
+        "signature": "ceèip",
+        "length": 5
+      },
+      {
+        "token": "génial",
+        "signature": "aégiln",
+        "length": 6
+      },
+      {
+        "token": "manque",
+        "signature": "aemnqu",
+        "length": 6
+      },
+      {
+        "token": "devenir",
+        "signature": "deinrv",
+        "length": 7
+      },
+      {
+        "token": "carte",
+        "signature": "acert",
+        "length": 5
+      },
+      {
+        "token": "reviens",
+        "signature": "einrsv",
+        "length": 7
+      },
+      {
+        "token": "dormir",
+        "signature": "dimor",
+        "length": 6
+      },
+      {
+        "token": "joue",
+        "signature": "ejou",
+        "length": 4
+      },
+      {
+        "token": "rencontrer",
+        "signature": "cenort",
+        "length": 10
+      },
+      {
+        "token": "souvent",
+        "signature": "enostuv",
+        "length": 7
+      },
+      {
+        "token": "commencer",
+        "signature": "cemnor",
+        "length": 9
+      },
+      {
+        "token": "envoyé",
+        "signature": "eénovy",
+        "length": 6
+      },
+      {
+        "token": "connaissez",
+        "signature": "aceinosz",
+        "length": 10
+      },
+      {
+        "token": "début",
+        "signature": "bdétu",
+        "length": 5
+      },
+      {
+        "token": "reçu",
+        "signature": "çeru",
+        "length": 4
+      },
+      {
+        "token": "sac",
+        "signature": "acs",
+        "length": 3
+      },
+      {
+        "token": "faux",
+        "signature": "afux",
+        "length": 4
+      },
+      {
+        "token": "cru",
+        "signature": "cru",
+        "length": 3
+      },
+      {
+        "token": "prix",
+        "signature": "iprx",
+        "length": 4
+      },
+      {
+        "token": "enfin",
+        "signature": "efin",
+        "length": 5
+      },
+      {
+        "token": "sérieux",
+        "signature": "eéirsux",
+        "length": 7
+      },
+      {
+        "token": "venue",
+        "signature": "enuv",
+        "length": 5
+      },
+      {
+        "token": "puisse",
+        "signature": "eipsu",
+        "length": 6
+      },
+      {
+        "token": "petits",
+        "signature": "eipst",
+        "length": 6
+      },
+      {
+        "token": "capitaine",
+        "signature": "aceinpt",
+        "length": 9
+      },
+      {
+        "token": "appeler",
+        "signature": "aelpr",
+        "length": 7
+      },
+      {
+        "token": "voix",
+        "signature": "iovx",
+        "length": 4
+      },
+      {
+        "token": "groupe",
+        "signature": "egopru",
+        "length": 6
+      },
+      {
+        "token": "protéger",
+        "signature": "eégoprt",
+        "length": 8
+      },
+      {
+        "token": "argent",
+        "signature": "aegnrt",
+        "length": 6
+      },
+      {
+        "token": "erreur",
+        "signature": "eru",
+        "length": 6
+      },
+      {
+        "token": "retrouver",
+        "signature": "eortuv",
+        "length": 9
+      },
+      {
+        "token": "roi",
+        "signature": "ior",
+        "length": 3
+      },
+      {
+        "token": "gagner",
+        "signature": "aegnr",
+        "length": 6
+      },
+      {
+        "token": "déteste",
+        "signature": "deést",
+        "length": 7
+      },
+      {
+        "token": "cheveux",
+        "signature": "cehuvx",
+        "length": 7
+      },
+      {
+        "token": "rappelle",
+        "signature": "aelpr",
+        "length": 8
+      },
+      {
+        "token": "bois",
+        "signature": "bios",
+        "length": 4
+      },
+      {
+        "token": "ceci",
+        "signature": "cei",
+        "length": 4
+      },
+      {
+        "token": "musique",
+        "signature": "eimqsu",
+        "length": 7
+      },
+      {
+        "token": "amour",
+        "signature": "amoru",
+        "length": 5
+      },
+      {
+        "token": "devriez",
+        "signature": "deirvz",
+        "length": 7
+      },
+      {
+        "token": "équipe",
+        "signature": "eéipqu",
+        "length": 6
+      },
+      {
+        "token": "battre",
+        "signature": "abert",
+        "length": 6
+      },
+      {
+        "token": "venez",
+        "signature": "envz",
+        "length": 5
+      },
+      {
+        "token": "rue",
+        "signature": "eru",
+        "length": 3
+      },
+      {
+        "token": "voyage",
+        "signature": "aegovy",
+        "length": 6
+      },
+      {
+        "token": "réussi",
+        "signature": "éirsu",
+        "length": 6
+      },
+      {
+        "token": "seras",
+        "signature": "aers",
+        "length": 5
+      },
+      {
+        "token": "paix",
+        "signature": "aipx",
+        "length": 4
+      },
+      {
+        "token": "ressemble",
+        "signature": "belmrs",
+        "length": 9
+      },
+      {
+        "token": "bateau",
+        "signature": "abetu",
+        "length": 6
+      },
+      {
+        "token": "disparu",
+        "signature": "adiprsu",
+        "length": 7
+      },
+      {
+        "token": "dos",
+        "signature": "dos",
+        "length": 3
+      },
+      {
+        "token": "seront",
+        "signature": "enorst",
+        "length": 6
+      },
+      {
+        "token": "liste",
+        "signature": "eilst",
+        "length": 5
+      },
+      {
+        "token": "parfait",
+        "signature": "afiprt",
+        "length": 7
+      },
+      {
+        "token": "mots",
+        "signature": "most",
+        "length": 4
+      },
+      {
+        "token": "risque",
+        "signature": "eiqrsu",
+        "length": 6
+      },
+      {
+        "token": "libre",
+        "signature": "beilr",
+        "length": 5
+      },
+      {
+        "token": "finir",
+        "signature": "finr",
+        "length": 5
+      },
+      {
+        "token": "scène",
+        "signature": "ceèns",
+        "length": 5
+      },
+      {
+        "token": "système",
+        "signature": "eèmsty",
+        "length": 7
+      },
+      {
+        "token": "retourner",
+        "signature": "enortu",
+        "length": 9
+      },
+      {
+        "token": "faim",
+        "signature": "afim",
+        "length": 4
+      },
+      {
+        "token": "fasse",
+        "signature": "aefs",
+        "length": 5
+      },
+      {
+        "token": "parlez",
+        "signature": "aelprz",
+        "length": 6
+      },
+      {
+        "token": "effet",
+        "signature": "eft",
+        "length": 5
+      },
+      {
+        "token": "ferait",
+        "signature": "aefirt",
+        "length": 6
+      },
+      {
+        "token": "noir",
+        "signature": "inor",
+        "length": 4
+      },
+      {
+        "token": "voici",
+        "signature": "ciov",
+        "length": 5
+      },
+      {
+        "token": "mauvaise",
+        "signature": "aeimsuv",
+        "length": 8
+      },
+      {
+        "token": "médecin",
+        "signature": "cdeéimn",
+        "length": 7
+      },
+      {
+        "token": "devais",
+        "signature": "adeisv",
+        "length": 6
+      },
+      {
+        "token": "mets",
+        "signature": "emst",
+        "length": 4
+      },
+      {
+        "token": "rentre",
+        "signature": "enrt",
+        "length": 6
+      },
+      {
+        "token": "gauche",
+        "signature": "aceghu",
+        "length": 6
+      },
+      {
+        "token": "savait",
+        "signature": "aistv",
+        "length": 6
+      },
+      {
+        "token": "dès",
+        "signature": "dès",
+        "length": 3
+      },
+      {
+        "token": "ligne",
+        "signature": "egiln",
+        "length": 5
+      },
+      {
+        "token": "décidé",
+        "signature": "cdéi",
+        "length": 6
+      },
+      {
+        "token": "pouvons",
+        "signature": "nopsuv",
+        "length": 7
+      },
+      {
+        "token": "dix",
+        "signature": "dix",
+        "length": 3
+      },
+      {
+        "token": "rencontré",
+        "signature": "ceénort",
+        "length": 9
+      },
+      {
+        "token": "écoute",
+        "signature": "ceéotu",
+        "length": 6
+      },
+      {
+        "token": "simplement",
+        "signature": "eilmnpst",
+        "length": 10
+      },
+      {
+        "token": "patron",
+        "signature": "anoprt",
+        "length": 6
+      },
+      {
+        "token": "armes",
+        "signature": "aemrs",
+        "length": 5
+      },
+      {
+        "token": "clair",
+        "signature": "acilr",
+        "length": 5
+      },
+      {
+        "token": "disais",
+        "signature": "adis",
+        "length": 6
+      },
+      {
+        "token": "ensuite",
+        "signature": "einstu",
+        "length": 7
+      },
+      {
+        "token": "balle",
+        "signature": "abel",
+        "length": 5
+      },
+      {
+        "token": "parfois",
+        "signature": "afioprs",
+        "length": 7
+      },
+      {
+        "token": "pied",
+        "signature": "deip",
+        "length": 4
+      },
+      {
+        "token": "su",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "pote",
+        "signature": "eopt",
+        "length": 4
+      },
+      {
+        "token": "disent",
+        "signature": "deinst",
+        "length": 6
+      },
+      {
+        "token": "pieds",
+        "signature": "deips",
+        "length": 5
+      },
+      {
+        "token": "sors",
+        "signature": "ors",
+        "length": 4
+      },
+      {
+        "token": "gagné",
+        "signature": "aégn",
+        "length": 5
+      },
+      {
+        "token": "présent",
+        "signature": "eénprst",
+        "length": 7
+      },
+      {
+        "token": "laissez",
+        "signature": "aeilsz",
+        "length": 7
+      },
+      {
+        "token": "doivent",
+        "signature": "deinotv",
+        "length": 7
+      },
+      {
+        "token": "cadeau",
+        "signature": "acdeu",
+        "length": 6
+      },
+      {
+        "token": "pourra",
+        "signature": "aopru",
+        "length": 6
+      },
+      {
+        "token": "volé",
+        "signature": "élov",
+        "length": 4
+      },
+      {
+        "token": "moitié",
+        "signature": "éimot",
+        "length": 6
+      },
+      {
+        "token": "aurais",
+        "signature": "airsu",
+        "length": 6
+      },
+      {
+        "token": "vraie",
+        "signature": "aeirv",
+        "length": 5
+      },
+      {
+        "token": "complètement",
+        "signature": "ceèlmnopt",
+        "length": 12
+      },
+      {
+        "token": "sorti",
+        "signature": "iorst",
+        "length": 5
+      },
+      {
+        "token": "autour",
+        "signature": "aortu",
+        "length": 6
+      },
+      {
+        "token": "réponse",
+        "signature": "eénoprs",
+        "length": 7
+      },
+      {
+        "token": "lumière",
+        "signature": "eèilmru",
+        "length": 7
+      },
+      {
+        "token": "colère",
+        "signature": "ceèlor",
+        "length": 6
+      },
+      {
+        "token": "promis",
+        "signature": "imoprs",
+        "length": 6
+      },
+      {
+        "token": "avis",
+        "signature": "aisv",
+        "length": 4
+      },
+      {
+        "token": "appelle",
+        "signature": "aelp",
+        "length": 7
+      },
+      {
+        "token": "marcher",
+        "signature": "acehmr",
+        "length": 7
+      },
+      {
+        "token": "déjeuner",
+        "signature": "deéjnru",
+        "length": 8
+      },
+      {
+        "token": "flics",
+        "signature": "cfils",
+        "length": 5
+      },
+      {
+        "token": "attends",
+        "signature": "adenst",
+        "length": 7
+      },
+      {
+        "token": "suivre",
+        "signature": "eirsuv",
+        "length": 6
+      },
+      {
+        "token": "entendre",
+        "signature": "denrt",
+        "length": 8
+      },
+      {
+        "token": "gueule",
+        "signature": "eglu",
+        "length": 6
+      },
+      {
+        "token": "forme",
+        "signature": "efmor",
+        "length": 5
+      },
+      {
+        "token": "tenir",
+        "signature": "einrt",
+        "length": 5
+      },
+      {
+        "token": "loi",
+        "signature": "ilo",
+        "length": 3
+      },
+      {
+        "token": "disait",
+        "signature": "adist",
+        "length": 6
+      },
+      {
+        "token": "aimé",
+        "signature": "aéim",
+        "length": 4
+      },
+      {
+        "token": "euh",
+        "signature": "ehu",
+        "length": 3
+      },
+      {
+        "token": "froid",
+        "signature": "dfior",
+        "length": 5
+      },
+      {
+        "token": "neuf",
+        "signature": "efnu",
+        "length": 4
+      },
+      {
+        "token": "hors",
+        "signature": "hors",
+        "length": 4
+      },
+      {
+        "token": "chéri",
+        "signature": "céhir",
+        "length": 5
+      },
+      {
+        "token": "rend",
+        "signature": "denr",
+        "length": 4
+      },
+      {
+        "token": "état",
+        "signature": "aét",
+        "length": 4
+      },
+      {
+        "token": "devenu",
+        "signature": "denuv",
+        "length": 6
+      },
+      {
+        "token": "aviez",
+        "signature": "aeivz",
+        "length": 5
+      },
+      {
+        "token": "dangereux",
+        "signature": "adegnrux",
+        "length": 9
+      },
+      {
+        "token": "avaient",
+        "signature": "aeintv",
+        "length": 7
+      },
+      {
+        "token": "montre",
+        "signature": "emnort",
+        "length": 6
+      },
+      {
+        "token": "poser",
+        "signature": "eoprs",
+        "length": 5
+      },
+      {
+        "token": "pars",
+        "signature": "aprs",
+        "length": 4
+      },
+      {
+        "token": "lire",
+        "signature": "eilr",
+        "length": 4
+      },
+      {
+        "token": "année",
+        "signature": "aeén",
+        "length": 5
+      },
+      {
+        "token": "an",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "victime",
+        "signature": "ceimtv",
+        "length": 7
+      },
+      {
+        "token": "bord",
+        "signature": "bdor",
+        "length": 4
+      },
+      {
+        "token": "soleil",
+        "signature": "eilos",
+        "length": 6
+      },
+      {
+        "token": "tiré",
+        "signature": "éirt",
+        "length": 4
+      },
+      {
+        "token": "pauvre",
+        "signature": "aepruv",
+        "length": 6
+      },
+      {
+        "token": "général",
+        "signature": "aéglnr",
+        "length": 7
+      },
+      {
+        "token": "vivant",
+        "signature": "aintv",
+        "length": 6
+      },
+      {
+        "token": "serez",
+        "signature": "ersz",
+        "length": 5
+      },
+      {
+        "token": "jure",
+        "signature": "ejru",
+        "length": 4
+      },
+      {
+        "token": "sortie",
+        "signature": "eiorst",
+        "length": 6
+      },
+      {
+        "token": "continuer",
+        "signature": "ceinortu",
+        "length": 9
+      },
+      {
+        "token": "vouloir",
+        "signature": "iloruv",
+        "length": 7
+      },
+      {
+        "token": "télé",
+        "signature": "élt",
+        "length": 4
+      },
+      {
+        "token": "quitter",
+        "signature": "eiqrtu",
+        "length": 7
+      },
+      {
+        "token": "vaisseau",
+        "signature": "aeisuv",
+        "length": 8
+      },
+      {
+        "token": "heureuse",
+        "signature": "ehrsu",
+        "length": 8
+      },
+      {
+        "token": "avocat",
+        "signature": "acotv",
+        "length": 6
+      },
+      {
+        "token": "vieille",
+        "signature": "eilv",
+        "length": 7
+      },
+      {
+        "token": "fallait",
+        "signature": "afilt",
+        "length": 7
+      },
+      {
+        "token": "joué",
+        "signature": "éjou",
+        "length": 4
+      },
+      {
+        "token": "flic",
+        "signature": "cfil",
+        "length": 4
+      },
+      {
+        "token": "tombe",
+        "signature": "bemot",
+        "length": 5
+      },
+      {
+        "token": "droite",
+        "signature": "deiort",
+        "length": 6
+      },
+      {
+        "token": "secondes",
+        "signature": "cdenos",
+        "length": 8
+      },
+      {
+        "token": "appel",
+        "signature": "aelp",
+        "length": 5
+      },
+      {
+        "token": "sympa",
+        "signature": "ampsy",
+        "length": 5
+      },
+      {
+        "token": "chaud",
+        "signature": "acdhu",
+        "length": 5
+      },
+      {
+        "token": "poste",
+        "signature": "eopst",
+        "length": 5
+      },
+      {
+        "token": "ouais",
+        "signature": "aiosu",
+        "length": 5
+      },
+      {
+        "token": "lettre",
+        "signature": "elrt",
+        "length": 6
+      },
+      {
+        "token": "grosse",
+        "signature": "egors",
+        "length": 6
+      },
+      {
+        "token": "pareil",
+        "signature": "aeilpr",
+        "length": 6
+      },
+      {
+        "token": "vol",
+        "signature": "lov",
+        "length": 3
+      },
+      {
+        "token": "clé",
+        "signature": "cél",
+        "length": 3
+      },
+      {
+        "token": "bouge",
+        "signature": "begou",
+        "length": 5
+      },
+      {
+        "token": "ciel",
+        "signature": "ceil",
+        "length": 4
+      },
+      {
+        "token": "recherche",
+        "signature": "cehr",
+        "length": 9
+      },
+      {
+        "token": "midi",
+        "signature": "dim",
+        "length": 4
+      },
+      {
+        "token": "terminé",
+        "signature": "eéimnrt",
+        "length": 7
+      },
+      {
+        "token": "plusieurs",
+        "signature": "eilprsu",
+        "length": 9
+      },
+      {
+        "token": "probablement",
+        "signature": "abelmnoprt",
+        "length": 12
+      },
+      {
+        "token": "visite",
+        "signature": "eistv",
+        "length": 6
+      },
+      {
+        "token": "gamin",
+        "signature": "agimn",
+        "length": 5
+      },
+      {
+        "token": "lu",
+        "signature": "lu",
+        "length": 2
+      },
+      {
+        "token": "touche",
+        "signature": "cehotu",
+        "length": 6
+      },
+      {
+        "token": "bons",
+        "signature": "bnos",
+        "length": 4
+      },
+      {
+        "token": "folle",
+        "signature": "eflo",
+        "length": 5
+      },
+      {
+        "token": "ordres",
+        "signature": "deors",
+        "length": 6
+      },
+      {
+        "token": "tranquille",
+        "signature": "aeilnqrtu",
+        "length": 10
+      },
+      {
+        "token": "faisais",
+        "signature": "afis",
+        "length": 7
+      },
+      {
+        "token": "surtout",
+        "signature": "orstu",
+        "length": 7
+      },
+      {
+        "token": "dossier",
+        "signature": "deiors",
+        "length": 7
+      },
+      {
+        "token": "président",
+        "signature": "deéinprst",
+        "length": 9
+      },
+      {
+        "token": "vit",
+        "signature": "itv",
+        "length": 3
+      },
+      {
+        "token": "travers",
+        "signature": "aerstv",
+        "length": 7
+      },
+      {
+        "token": "soyez",
+        "signature": "eosyz",
+        "length": 5
+      },
+      {
+        "token": "preuve",
+        "signature": "epruv",
+        "length": 6
+      },
+      {
+        "token": "cerveau",
+        "signature": "aceruv",
+        "length": 7
+      },
+      {
+        "token": "sol",
+        "signature": "los",
+        "length": 3
+      },
+      {
+        "token": "bonnes",
+        "signature": "benos",
+        "length": 6
+      },
+      {
+        "token": "viennent",
+        "signature": "eintv",
+        "length": 8
+      },
+      {
+        "token": "classe",
+        "signature": "acels",
+        "length": 6
+      },
+      {
+        "token": "coucher",
+        "signature": "cehoru",
+        "length": 7
+      },
+      {
+        "token": "décision",
+        "signature": "cdéinos",
+        "length": 8
+      },
+      {
+        "token": "mecs",
+        "signature": "cems",
+        "length": 4
+      },
+      {
+        "token": "signifie",
+        "signature": "efgins",
+        "length": 8
+      },
+      {
+        "token": "magnifique",
+        "signature": "aefgimnqu",
+        "length": 10
+      },
+      {
+        "token": "bouche",
+        "signature": "bcehou",
+        "length": 6
+      },
+      {
+        "token": "cuisine",
+        "signature": "ceinsu",
+        "length": 7
+      },
+      {
+        "token": "sentir",
+        "signature": "einrst",
+        "length": 6
+      },
+      {
+        "token": "fric",
+        "signature": "cfir",
+        "length": 4
+      },
+      {
+        "token": "choisi",
+        "signature": "chios",
+        "length": 6
+      },
+      {
+        "token": "pourriez",
+        "signature": "eiopruz",
+        "length": 8
+      },
+      {
+        "token": "préfère",
+        "signature": "eéèfpr",
+        "length": 7
+      },
+      {
+        "token": "blague",
+        "signature": "abeglu",
+        "length": 6
+      },
+      {
+        "token": "tient",
+        "signature": "eint",
+        "length": 5
+      },
+      {
+        "token": "voie",
+        "signature": "eiov",
+        "length": 4
+      },
+      {
+        "token": "voler",
+        "signature": "elorv",
+        "length": 5
+      },
+      {
+        "token": "connu",
+        "signature": "cnou",
+        "length": 5
+      },
+      {
+        "token": "triste",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "monter",
+        "signature": "emnort",
+        "length": 6
+      },
+      {
+        "token": "messieurs",
+        "signature": "eimrsu",
+        "length": 9
+      },
+      {
+        "token": "prenez",
+        "signature": "enprz",
+        "length": 6
+      },
+      {
+        "token": "héros",
+        "signature": "éhors",
+        "length": 5
+      },
+      {
+        "token": "différent",
+        "signature": "deéfinrt",
+        "length": 9
+      },
+      {
+        "token": "trou",
+        "signature": "ortu",
+        "length": 4
+      },
+      {
+        "token": "payé",
+        "signature": "aépy",
+        "length": 4
+      },
+      {
+        "token": "jeunes",
+        "signature": "ejnsu",
+        "length": 6
+      },
+      {
+        "token": "dirai",
+        "signature": "adir",
+        "length": 5
+      },
+      {
+        "token": "acheter",
+        "signature": "acehrt",
+        "length": 7
+      },
+      {
+        "token": "manière",
+        "signature": "aeèimnr",
+        "length": 7
+      },
+      {
+        "token": "responsable",
+        "signature": "abelnoprs",
+        "length": 11
+      },
+      {
+        "token": "fut",
+        "signature": "ftu",
+        "length": 3
+      },
+      {
+        "token": "savent",
+        "signature": "aenstv",
+        "length": 6
+      },
+      {
+        "token": "dirais",
+        "signature": "adirs",
+        "length": 6
+      },
+      {
+        "token": "servir",
+        "signature": "eirsv",
+        "length": 6
+      },
+      {
+        "token": "incroyable",
+        "signature": "abceilnory",
+        "length": 10
+      },
+      {
+        "token": "peau",
+        "signature": "aepu",
+        "length": 4
+      },
+      {
+        "token": "anniversaire",
+        "signature": "aeinrsv",
+        "length": 12
+      },
+      {
+        "token": "relation",
+        "signature": "aeilnort",
+        "length": 8
+      },
+      {
+        "token": "signe",
+        "signature": "egins",
+        "length": 5
+      },
+      {
+        "token": "tort",
+        "signature": "ort",
+        "length": 4
+      },
+      {
+        "token": "vendre",
+        "signature": "denrv",
+        "length": 6
+      },
+      {
+        "token": "compagnie",
+        "signature": "acegimnop",
+        "length": 9
+      },
+      {
+        "token": "cacher",
+        "signature": "acehr",
+        "length": 6
+      },
+      {
+        "token": "promets",
+        "signature": "emoprst",
+        "length": 7
+      },
+      {
+        "token": "sauvé",
+        "signature": "aésuv",
+        "length": 5
+      },
+      {
+        "token": "chanson",
+        "signature": "achnos",
+        "length": 7
+      },
+      {
+        "token": "sauf",
+        "signature": "afsu",
+        "length": 4
+      },
+      {
+        "token": "soin",
+        "signature": "inos",
+        "length": 4
+      },
+      {
+        "token": "milieu",
+        "signature": "eilmu",
+        "length": 6
+      },
+      {
+        "token": "présente",
+        "signature": "eénprst",
+        "length": 8
+      },
+      {
+        "token": "peuple",
+        "signature": "elpu",
+        "length": 6
+      },
+      {
+        "token": "dingue",
+        "signature": "deginu",
+        "length": 6
+      },
+      {
+        "token": "acheté",
+        "signature": "aceéht",
+        "length": 6
+      },
+      {
+        "token": "gouvernement",
+        "signature": "egmnortuv",
+        "length": 12
+      },
+      {
+        "token": "pleine",
+        "signature": "eilnp",
+        "length": 6
+      },
+      {
+        "token": "nulle",
+        "signature": "elnu",
+        "length": 5
+      },
+      {
+        "token": "cheval",
+        "signature": "acehlv",
+        "length": 6
+      },
+      {
+        "token": "honte",
+        "signature": "ehnot",
+        "length": 5
+      },
+      {
+        "token": "prévu",
+        "signature": "épruv",
+        "length": 5
+      },
+      {
+        "token": "blessé",
+        "signature": "beéls",
+        "length": 6
+      },
+      {
+        "token": "nez",
+        "signature": "enz",
+        "length": 3
+      },
+      {
+        "token": "devient",
+        "signature": "deintv",
+        "length": 7
+      },
+      {
+        "token": "secours",
+        "signature": "ceorsu",
+        "length": 7
+      },
+      {
+        "token": "coups",
+        "signature": "copsu",
+        "length": 5
+      },
+      {
+        "token": "prochain",
+        "signature": "achinopr",
+        "length": 8
+      },
+      {
+        "token": "conseil",
+        "signature": "ceilnos",
+        "length": 7
+      },
+      {
+        "token": "robe",
+        "signature": "beor",
+        "length": 4
+      },
+      {
+        "token": "rire",
+        "signature": "eir",
+        "length": 4
+      },
+      {
+        "token": "quitté",
+        "signature": "éiqtu",
+        "length": 6
+      },
+      {
+        "token": "prise",
+        "signature": "eiprs",
+        "length": 5
+      },
+      {
+        "token": "utiliser",
+        "signature": "eilrstu",
+        "length": 8
+      },
+      {
+        "token": "ramener",
+        "signature": "aemnr",
+        "length": 7
+      },
+      {
+        "token": "livres",
+        "signature": "eilrsv",
+        "length": 6
+      },
+      {
+        "token": "coupable",
+        "signature": "abcelopu",
+        "length": 8
+      },
+      {
+        "token": "baiser",
+        "signature": "abeirs",
+        "length": 6
+      },
+      {
+        "token": "ouvert",
+        "signature": "eortuv",
+        "length": 6
+      },
+      {
+        "token": "tel",
+        "signature": "elt",
+        "length": 3
+      },
+      {
+        "token": "règles",
+        "signature": "eèglrs",
+        "length": 6
+      },
+      {
+        "token": "bière",
+        "signature": "beèir",
+        "length": 5
+      },
+      {
+        "token": "récupérer",
+        "signature": "ceépru",
+        "length": 9
+      },
+      {
+        "token": "juge",
+        "signature": "egju",
+        "length": 4
+      },
+      {
+        "token": "garçons",
+        "signature": "açgnors",
+        "length": 7
+      },
+      {
+        "token": "tas",
+        "signature": "ast",
+        "length": 3
+      },
+      {
+        "token": "croit",
+        "signature": "ciort",
+        "length": 5
+      },
+      {
+        "token": "menti",
+        "signature": "eimnt",
+        "length": 5
+      },
+      {
+        "token": "réunion",
+        "signature": "éinoru",
+        "length": 7
+      },
+      {
+        "token": "portes",
+        "signature": "eoprst",
+        "length": 6
+      },
+      {
+        "token": "laquelle",
+        "signature": "aelqu",
+        "length": 8
+      },
+      {
+        "token": "fiche",
+        "signature": "cefhi",
+        "length": 5
+      },
+      {
+        "token": "répondre",
+        "signature": "deénopr",
+        "length": 8
+      },
+      {
+        "token": "départ",
+        "signature": "adéprt",
+        "length": 6
+      },
+      {
+        "token": "grands",
+        "signature": "adgnrs",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "pourrions",
+        "signature": "inoprsu",
+        "length": 9
+      },
+      {
+        "token": "donnes",
+        "signature": "denos",
+        "length": 6
+      },
+      {
+        "token": "crier",
+        "signature": "ceir",
+        "length": 5
+      },
+      {
+        "token": "caméras",
+        "signature": "acémrs",
+        "length": 7
+      },
+      {
+        "token": "traité",
+        "signature": "aéirt",
+        "length": 6
+      },
+      {
+        "token": "fière",
+        "signature": "eèfir",
+        "length": 5
+      },
+      {
+        "token": "minuit",
+        "signature": "imntu",
+        "length": 6
+      },
+      {
+        "token": "trompe",
+        "signature": "emoprt",
+        "length": 6
+      },
+      {
+        "token": "gamins",
+        "signature": "agimns",
+        "length": 6
+      },
+      {
+        "token": "chante",
+        "signature": "acehnt",
+        "length": 6
+      },
+      {
+        "token": "réseau",
+        "signature": "aeérsu",
+        "length": 6
+      },
+      {
+        "token": "racontes",
+        "signature": "acenorst",
+        "length": 8
+      },
+      {
+        "token": "souffrir",
+        "signature": "fiorsu",
+        "length": 8
+      },
+      {
+        "token": "utilise",
+        "signature": "eilstu",
+        "length": 7
+      },
+      {
+        "token": "fumer",
+        "signature": "efmru",
+        "length": 5
+      },
+      {
+        "token": "titres",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "vivante",
+        "signature": "aeintv",
+        "length": 7
+      },
+      {
+        "token": "attaqué",
+        "signature": "aéqtu",
+        "length": 7
+      },
+      {
+        "token": "devra",
+        "signature": "aderv",
+        "length": 5
+      },
+      {
+        "token": "mener",
+        "signature": "emnr",
+        "length": 5
+      },
+      {
+        "token": "ferez",
+        "signature": "efrz",
+        "length": 5
+      },
+      {
+        "token": "lendemain",
+        "signature": "adeilmn",
+        "length": 9
+      },
+      {
+        "token": "trouverai",
+        "signature": "aeiortuv",
+        "length": 9
+      },
+      {
+        "token": "ment",
+        "signature": "emnt",
+        "length": 4
+      },
+      {
+        "token": "préparé",
+        "signature": "aépr",
+        "length": 7
+      },
+      {
+        "token": "tien",
+        "signature": "eint",
+        "length": 4
+      },
+      {
+        "token": "particulier",
+        "signature": "aceilprtu",
+        "length": 11
+      },
+      {
+        "token": "prendrai",
+        "signature": "adeinpr",
+        "length": 8
+      },
+      {
+        "token": "rentrée",
+        "signature": "eénrt",
+        "length": 7
+      },
+      {
+        "token": "réputation",
+        "signature": "aéinoprtu",
+        "length": 10
+      },
+      {
+        "token": "réglé",
+        "signature": "églr",
+        "length": 5
+      },
+      {
+        "token": "riches",
+        "signature": "cehirs",
+        "length": 6
+      },
+      {
+        "token": "passait",
+        "signature": "aipst",
+        "length": 7
+      },
+      {
+        "token": "or",
+        "signature": "or",
+        "length": 2
+      },
+      {
+        "token": "rapports",
+        "signature": "aoprst",
+        "length": 8
+      },
+      {
+        "token": "sombre",
+        "signature": "bemors",
+        "length": 6
+      },
+      {
+        "token": "canon",
+        "signature": "acno",
+        "length": 5
+      },
+      {
+        "token": "ordinateur",
+        "signature": "adeinortu",
+        "length": 10
+      },
+      {
+        "token": "construire",
+        "signature": "ceinorstu",
+        "length": 10
+      },
+      {
+        "token": "paroles",
+        "signature": "aeloprs",
+        "length": 7
+      },
+      {
+        "token": "soucis",
+        "signature": "ciosu",
+        "length": 6
+      },
+      {
+        "token": "déranger",
+        "signature": "adeégnr",
+        "length": 8
+      },
+      {
+        "token": "chauffeur",
+        "signature": "acefhru",
+        "length": 9
+      },
+      {
+        "token": "romantique",
+        "signature": "aeimnoqrtu",
+        "length": 10
+      },
+      {
+        "token": "pousse",
+        "signature": "eopsu",
+        "length": 6
+      },
+      {
+        "token": "comportement",
+        "signature": "cemnoprt",
+        "length": 12
+      },
+      {
+        "token": "voient",
+        "signature": "einotv",
+        "length": 6
+      },
+      {
+        "token": "élevé",
+        "signature": "eélv",
+        "length": 5
+      },
+      {
+        "token": "navire",
+        "signature": "aeinrv",
+        "length": 6
+      },
+      {
+        "token": "billet",
+        "signature": "beilt",
+        "length": 6
+      },
+      {
+        "token": "sérieusement",
+        "signature": "eéimnrstu",
+        "length": 12
+      },
+      {
+        "token": "inspecteur",
+        "signature": "ceinprstu",
+        "length": 10
+      },
+      {
+        "token": "justement",
+        "signature": "ejmnstu",
+        "length": 9
+      },
+      {
+        "token": "promesse",
+        "signature": "emoprs",
+        "length": 8
+      },
+      {
+        "token": "combattre",
+        "signature": "abcemort",
+        "length": 9
+      },
+      {
+        "token": "crédit",
+        "signature": "cdéirt",
+        "length": 6
+      },
+      {
+        "token": "filer",
+        "signature": "efilr",
+        "length": 5
+      },
+      {
+        "token": "repos",
+        "signature": "eoprs",
+        "length": 5
+      },
+      {
+        "token": "lac",
+        "signature": "acl",
+        "length": 3
+      },
+      {
+        "token": "prof",
+        "signature": "fopr",
+        "length": 4
+      },
+      {
+        "token": "survécu",
+        "signature": "cérsuv",
+        "length": 7
+      },
+      {
+        "token": "cadeaux",
+        "signature": "acdeux",
+        "length": 7
+      },
+      {
+        "token": "cherchais",
+        "signature": "acehirs",
+        "length": 9
+      },
+      {
+        "token": "souffle",
+        "signature": "eflosu",
+        "length": 7
+      },
+      {
+        "token": "parlons",
+        "signature": "alnoprs",
+        "length": 7
+      },
+      {
+        "token": "moteur",
+        "signature": "emortu",
+        "length": 6
+      },
+      {
+        "token": "fromage",
+        "signature": "aefgmor",
+        "length": 7
+      },
+      {
+        "token": "cauchemar",
+        "signature": "acehmru",
+        "length": 9
+      },
+      {
+        "token": "période",
+        "signature": "deéiopr",
+        "length": 7
+      },
+      {
+        "token": "résoudre",
+        "signature": "deéorsu",
+        "length": 8
+      },
+      {
+        "token": "différente",
+        "signature": "deéfinrt",
+        "length": 10
+      },
+      {
+        "token": "mensonges",
+        "signature": "egmnos",
+        "length": 9
+      },
+      {
+        "token": "barre",
+        "signature": "aber",
+        "length": 5
+      },
+      {
+        "token": "croient",
+        "signature": "ceinort",
+        "length": 7
+      },
+      {
+        "token": "verrez",
+        "signature": "ervz",
+        "length": 6
+      },
+      {
+        "token": "saison",
+        "signature": "ainos",
+        "length": 6
+      },
+      {
+        "token": "médecins",
+        "signature": "cdeéimns",
+        "length": 8
+      },
+      {
+        "token": "malgré",
+        "signature": "aéglmr",
+        "length": 6
+      },
+      {
+        "token": "tirez",
+        "signature": "eirtz",
+        "length": 5
+      },
+      {
+        "token": "clairement",
+        "signature": "aceilmnrt",
+        "length": 10
+      },
+      {
+        "token": "centaines",
+        "signature": "aceinst",
+        "length": 9
+      },
+      {
+        "token": "poitrine",
+        "signature": "einoprt",
+        "length": 8
+      },
+      {
+        "token": "revenue",
+        "signature": "enruv",
+        "length": 7
+      },
+      {
+        "token": "réellement",
+        "signature": "eélmnrt",
+        "length": 10
+      },
+      {
+        "token": "gare",
+        "signature": "aegr",
+        "length": 4
+      },
+      {
+        "token": "forcément",
+        "signature": "ceéfmnort",
+        "length": 9
+      },
+      {
+        "token": "puisque",
+        "signature": "eipqsu",
+        "length": 7
+      },
+      {
+        "token": "fantastique",
+        "signature": "aefinqstu",
+        "length": 11
+      },
+      {
+        "token": "entrée",
+        "signature": "eénrt",
+        "length": 6
+      },
+      {
+        "token": "restera",
+        "signature": "aerst",
+        "length": 7
+      },
+      {
+        "token": "tenue",
+        "signature": "entu",
+        "length": 5
+      },
+      {
+        "token": "désert",
+        "signature": "deérst",
+        "length": 6
+      },
+      {
+        "token": "réaction",
+        "signature": "acéinort",
+        "length": 8
+      },
+      {
+        "token": "somme",
+        "signature": "emos",
+        "length": 5
+      },
+      {
+        "token": "couloir",
+        "signature": "ciloru",
+        "length": 7
+      },
+      {
+        "token": "erreurs",
+        "signature": "ersu",
+        "length": 7
+      },
+      {
+        "token": "nuits",
+        "signature": "instu",
+        "length": 5
+      },
+      {
+        "token": "hais",
+        "signature": "ahis",
+        "length": 4
+      },
+      {
+        "token": "scientifique",
+        "signature": "cefinqstu",
+        "length": 12
+      },
+      {
+        "token": "blessure",
+        "signature": "belrsu",
+        "length": 8
+      },
+      {
+        "token": "jette",
+        "signature": "ejt",
+        "length": 5
+      },
+      {
+        "token": "fonds",
+        "signature": "dfnos",
+        "length": 5
+      },
+      {
+        "token": "reviendrai",
+        "signature": "adeinrv",
+        "length": 10
+      },
+      {
+        "token": "sers",
+        "signature": "ers",
+        "length": 4
+      },
+      {
+        "token": "matériel",
+        "signature": "aeéilmrt",
+        "length": 8
+      },
+      {
+        "token": "arbre",
+        "signature": "aber",
+        "length": 5
+      },
+      {
+        "token": "aimait",
+        "signature": "aimt",
+        "length": 6
+      },
+      {
+        "token": "chute",
+        "signature": "cehtu",
+        "length": 5
+      },
+      {
+        "token": "construit",
+        "signature": "cinorstu",
+        "length": 9
+      },
+      {
+        "token": "corde",
+        "signature": "cdeor",
+        "length": 5
+      },
+      {
+        "token": "trompé",
+        "signature": "émoprt",
+        "length": 6
+      },
+      {
+        "token": "magique",
+        "signature": "aegimqu",
+        "length": 7
+      },
+      {
+        "token": "complet",
+        "signature": "celmopt",
+        "length": 7
+      },
+      {
+        "token": "piscine",
+        "signature": "ceinps",
+        "length": 7
+      },
+      {
+        "token": "tournée",
+        "signature": "eénortu",
+        "length": 7
+      },
+      {
+        "token": "refaire",
+        "signature": "aefir",
+        "length": 7
+      },
+      {
+        "token": "sauve",
+        "signature": "aesuv",
+        "length": 5
+      },
+      {
+        "token": "résultat",
+        "signature": "aélrstu",
+        "length": 8
+      },
+      {
+        "token": "occupée",
+        "signature": "ceéopu",
+        "length": 7
+      },
+      {
+        "token": "manteau",
+        "signature": "aemntu",
+        "length": 7
+      },
+      {
+        "token": "imaginer",
+        "signature": "aegimnr",
+        "length": 8
+      },
+      {
+        "token": "laver",
+        "signature": "aelrv",
+        "length": 5
+      },
+      {
+        "token": "calmer",
+        "signature": "acelmr",
+        "length": 6
+      },
+      {
+        "token": "donnerai",
+        "signature": "adeinor",
+        "length": 8
+      },
+      {
+        "token": "profiter",
+        "signature": "efioprt",
+        "length": 8
+      },
+      {
+        "token": "entreprise",
+        "signature": "einprst",
+        "length": 10
+      },
+      {
+        "token": "feront",
+        "signature": "efnort",
+        "length": 6
+      },
+      {
+        "token": "lourd",
+        "signature": "dloru",
+        "length": 5
+      },
+      {
+        "token": "foule",
+        "signature": "eflou",
+        "length": 5
+      },
+      {
+        "token": "projets",
+        "signature": "ejoprst",
+        "length": 7
+      },
+      {
+        "token": "arbres",
+        "signature": "abers",
+        "length": 6
+      },
+      {
+        "token": "autrement",
+        "signature": "aemnrtu",
+        "length": 9
+      },
+      {
+        "token": "oublie",
+        "signature": "beilou",
+        "length": 6
+      },
+      {
+        "token": "remonter",
+        "signature": "emnort",
+        "length": 8
+      },
+      {
+        "token": "voyais",
+        "signature": "aiosvy",
+        "length": 6
+      },
+      {
+        "token": "inquiet",
+        "signature": "einqtu",
+        "length": 7
+      },
+      {
+        "token": "décide",
+        "signature": "cdeéi",
+        "length": 6
+      },
+      {
+        "token": "doué",
+        "signature": "déou",
+        "length": 4
+      },
+      {
+        "token": "prisonnier",
+        "signature": "einoprs",
+        "length": 10
+      },
+      {
+        "token": "uns",
+        "signature": "nsu",
+        "length": 3
+      },
+      {
+        "token": "boutique",
+        "signature": "beioqtu",
+        "length": 8
+      },
+      {
+        "token": "foyer",
+        "signature": "efory",
+        "length": 5
+      },
+      {
+        "token": "fatiguée",
+        "signature": "aeéfgitu",
+        "length": 8
+      },
+      {
+        "token": "cloche",
+        "signature": "cehlo",
+        "length": 6
+      },
+      {
+        "token": "blessures",
+        "signature": "belrsu",
+        "length": 9
+      },
+      {
+        "token": "charmant",
+        "signature": "achmnrt",
+        "length": 8
+      },
+      {
+        "token": "soupe",
+        "signature": "eopsu",
+        "length": 5
+      },
+      {
+        "token": "chargé",
+        "signature": "acéghr",
+        "length": 6
+      },
+      {
+        "token": "traite",
+        "signature": "aeirt",
+        "length": 6
+      },
+      {
+        "token": "travaillez",
+        "signature": "aeilrtvz",
+        "length": 10
+      },
+      {
+        "token": "protège",
+        "signature": "eègoprt",
+        "length": 7
+      },
+      {
+        "token": "souffre",
+        "signature": "eforsu",
+        "length": 7
+      },
+      {
+        "token": "volant",
+        "signature": "alnotv",
+        "length": 6
+      },
+      {
+        "token": "atteint",
+        "signature": "aeint",
+        "length": 7
+      },
+      {
+        "token": "disiez",
+        "signature": "deisz",
+        "length": 6
+      },
+      {
+        "token": "plaisantes",
+        "signature": "aeilnpst",
+        "length": 10
+      },
+      {
+        "token": "sorcière",
+        "signature": "ceèiors",
+        "length": 8
+      },
+      {
+        "token": "permet",
+        "signature": "emprt",
+        "length": 6
+      },
+      {
+        "token": "explique",
+        "signature": "eilpqux",
+        "length": 8
+      },
+      {
+        "token": "recommencer",
+        "signature": "cemnor",
+        "length": 11
+      },
+      {
+        "token": "attraper",
+        "signature": "aeprt",
+        "length": 8
+      },
+      {
+        "token": "travailles",
+        "signature": "aeilrstv",
+        "length": 10
+      },
+      {
+        "token": "saches",
+        "signature": "acehs",
+        "length": 6
+      },
+      {
+        "token": "laissée",
+        "signature": "aeéils",
+        "length": 7
+      },
+      {
+        "token": "deviner",
+        "signature": "deinrv",
+        "length": 7
+      },
+      {
+        "token": "journaliste",
+        "signature": "aeijlnorstu",
+        "length": 11
+      },
+      {
+        "token": "prévenu",
+        "signature": "eénpruv",
+        "length": 7
+      },
+      {
+        "token": "chou",
+        "signature": "chou",
+        "length": 4
+      },
+      {
+        "token": "connaissait",
+        "signature": "acinost",
+        "length": 11
+      },
+      {
+        "token": "tenez",
+        "signature": "entz",
+        "length": 5
+      },
+      {
+        "token": "fausse",
+        "signature": "aefsu",
+        "length": 6
+      },
+      {
+        "token": "ramené",
+        "signature": "aeémnr",
+        "length": 6
+      },
+      {
+        "token": "morceaux",
+        "signature": "acemorux",
+        "length": 8
+      },
+      {
+        "token": "tenter",
+        "signature": "enrt",
+        "length": 6
+      },
+      {
+        "token": "ménage",
+        "signature": "aeégmn",
+        "length": 6
+      },
+      {
+        "token": "vivent",
+        "signature": "eintv",
+        "length": 6
+      },
+      {
+        "token": "jus",
+        "signature": "jsu",
+        "length": 3
+      },
+      {
+        "token": "fasses",
+        "signature": "aefs",
+        "length": 6
+      },
+      {
+        "token": "amène",
+        "signature": "aeèmn",
+        "length": 5
+      },
+      {
+        "token": "saurais",
+        "signature": "airsu",
+        "length": 7
+      },
+      {
+        "token": "terminée",
+        "signature": "eéimnrt",
+        "length": 8
+      },
+      {
+        "token": "répéter",
+        "signature": "eéprt",
+        "length": 7
+      },
+      {
+        "token": "vivants",
+        "signature": "ainstv",
+        "length": 7
+      },
+      {
+        "token": "rappelez",
+        "signature": "aelprz",
+        "length": 8
+      },
+      {
+        "token": "monnaie",
+        "signature": "aeimno",
+        "length": 7
+      },
+      {
+        "token": "concernant",
+        "signature": "acenort",
+        "length": 10
+      },
+      {
+        "token": "supposé",
+        "signature": "éopsu",
+        "length": 7
+      },
+      {
+        "token": "lundi",
+        "signature": "dilnu",
+        "length": 5
+      },
+      {
+        "token": "rater",
+        "signature": "aert",
+        "length": 5
+      },
+      {
+        "token": "jaloux",
+        "signature": "ajloux",
+        "length": 6
+      },
+      {
+        "token": "bienvenue",
+        "signature": "beinuv",
+        "length": 9
+      },
+      {
+        "token": "traversé",
+        "signature": "aeérstv",
+        "length": 8
+      },
+      {
+        "token": "oiseaux",
+        "signature": "aeiosux",
+        "length": 7
+      },
+      {
+        "token": "véhicule",
+        "signature": "ceéhiluv",
+        "length": 8
+      },
+      {
+        "token": "plainte",
+        "signature": "aeilnpt",
+        "length": 7
+      },
+      {
+        "token": "bloc",
+        "signature": "bclo",
+        "length": 4
+      },
+      {
+        "token": "apporter",
+        "signature": "aeoprt",
+        "length": 8
+      },
+      {
+        "token": "habite",
+        "signature": "abehit",
+        "length": 6
+      },
+      {
+        "token": "crème",
+        "signature": "ceèmr",
+        "length": 5
+      },
+      {
+        "token": "panique",
+        "signature": "aeinpqu",
+        "length": 7
+      },
+      {
+        "token": "remplacer",
+        "signature": "acelmpr",
+        "length": 9
+      },
+      {
+        "token": "esprits",
+        "signature": "eiprst",
+        "length": 7
+      },
+      {
+        "token": "fiancée",
+        "signature": "aceéfin",
+        "length": 7
+      },
+      {
+        "token": "acte",
+        "signature": "acet",
+        "length": 4
+      },
+      {
+        "token": "remonte",
+        "signature": "emnort",
+        "length": 7
+      },
+      {
+        "token": "lapin",
+        "signature": "ailnp",
+        "length": 5
+      },
+      {
+        "token": "sacrée",
+        "signature": "aceérs",
+        "length": 6
+      },
+      {
+        "token": "poupée",
+        "signature": "eéopu",
+        "length": 6
+      },
+      {
+        "token": "cesse",
+        "signature": "ces",
+        "length": 5
+      },
+      {
+        "token": "abandonner",
+        "signature": "abdenor",
+        "length": 10
+      },
+      {
+        "token": "études",
+        "signature": "deéstu",
+        "length": 6
+      },
+      {
+        "token": "conférence",
+        "signature": "ceéfnor",
+        "length": 10
+      },
+      {
+        "token": "frontière",
+        "signature": "eèfinort",
+        "length": 9
+      },
+      {
+        "token": "pardonner",
+        "signature": "adenopr",
+        "length": 9
+      },
+      {
+        "token": "réussir",
+        "signature": "éirsu",
+        "length": 7
+      },
+      {
+        "token": "conseils",
+        "signature": "ceilnos",
+        "length": 8
+      },
+      {
+        "token": "prénom",
+        "signature": "émnopr",
+        "length": 6
+      },
+      {
+        "token": "secrétaire",
+        "signature": "aceéirst",
+        "length": 10
+      },
+      {
+        "token": "parlera",
+        "signature": "aelpr",
+        "length": 7
+      },
+      {
+        "token": "portait",
+        "signature": "aioprt",
+        "length": 7
+      },
+      {
+        "token": "intelligente",
+        "signature": "egilnt",
+        "length": 12
+      },
+      {
+        "token": "bouton",
+        "signature": "bnotu",
+        "length": 6
+      },
+      {
+        "token": "prisonniers",
+        "signature": "einoprs",
+        "length": 11
+      },
+      {
+        "token": "inventé",
+        "signature": "eéintv",
+        "length": 7
+      },
+      {
+        "token": "propriété",
+        "signature": "éioprt",
+        "length": 9
+      },
+      {
+        "token": "nommé",
+        "signature": "émno",
+        "length": 5
+      },
+      {
+        "token": "potes",
+        "signature": "eopst",
+        "length": 5
+      },
+      {
+        "token": "larmes",
+        "signature": "aelmrs",
+        "length": 6
+      },
+      {
+        "token": "porté",
+        "signature": "éoprt",
+        "length": 5
+      },
+      {
+        "token": "détective",
+        "signature": "cdeéitv",
+        "length": 9
+      },
+      {
+        "token": "attendent",
+        "signature": "adent",
+        "length": 9
+      },
+      {
+        "token": "idiote",
+        "signature": "deiot",
+        "length": 6
+      },
+      {
+        "token": "liaison",
+        "signature": "ailnos",
+        "length": 7
+      },
+      {
+        "token": "peinture",
+        "signature": "einprtu",
+        "length": 8
+      },
+      {
+        "token": "portée",
+        "signature": "eéoprt",
+        "length": 6
+      },
+      {
+        "token": "géniale",
+        "signature": "aeégiln",
+        "length": 7
+      },
+      {
+        "token": "endroits",
+        "signature": "deinorst",
+        "length": 8
+      },
+      {
+        "token": "couvrir",
+        "signature": "cioruv",
+        "length": 7
+      },
+      {
+        "token": "technologie",
+        "signature": "ceghilnot",
+        "length": 11
+      },
+      {
+        "token": "trouvent",
+        "signature": "enortuv",
+        "length": 8
+      },
+      {
+        "token": "forcé",
+        "signature": "céfor",
+        "length": 5
+      },
+      {
+        "token": "délicieux",
+        "signature": "cdeéilux",
+        "length": 9
+      },
+      {
+        "token": "pouviez",
+        "signature": "eiopuvz",
+        "length": 7
+      },
+      {
+        "token": "micro",
+        "signature": "cimor",
+        "length": 5
+      },
+      {
+        "token": "rencontrés",
+        "signature": "ceénorst",
+        "length": 10
+      },
+      {
+        "token": "concours",
+        "signature": "cnorsu",
+        "length": 8
+      },
+      {
+        "token": "tapis",
+        "signature": "aipst",
+        "length": 5
+      },
+      {
+        "token": "venger",
+        "signature": "egnrv",
+        "length": 6
+      },
+      {
+        "token": "venant",
+        "signature": "aentv",
+        "length": 6
+      },
+      {
+        "token": "oiseau",
+        "signature": "aeiosu",
+        "length": 6
+      },
+      {
+        "token": "attrapé",
+        "signature": "aéprt",
+        "length": 7
+      },
+      {
+        "token": "personnage",
+        "signature": "aegnoprs",
+        "length": 10
+      },
+      {
+        "token": "vélo",
+        "signature": "élov",
+        "length": 4
+      },
+      {
+        "token": "touchez",
+        "signature": "cehotuz",
+        "length": 7
+      },
+      {
+        "token": "impliqué",
+        "signature": "éilmpqu",
+        "length": 8
+      },
+      {
+        "token": "couvert",
+        "signature": "ceortuv",
+        "length": 7
+      },
+      {
+        "token": "cérémonie",
+        "signature": "ceéimnor",
+        "length": 9
+      },
+      {
+        "token": "passent",
+        "signature": "aenpst",
+        "length": 7
+      },
+      {
+        "token": "réserve",
+        "signature": "eérsv",
+        "length": 7
+      },
+      {
+        "token": "échoué",
+        "signature": "céhou",
+        "length": 6
+      },
+      {
+        "token": "curieux",
+        "signature": "ceirux",
+        "length": 7
+      },
+      {
+        "token": "quiconque",
+        "signature": "ceinoqu",
+        "length": 9
+      },
+      {
+        "token": "vingt",
+        "signature": "gintv",
+        "length": 5
+      },
+      {
+        "token": "auront",
+        "signature": "anortu",
+        "length": 6
+      },
+      {
+        "token": "nourrir",
+        "signature": "inoru",
+        "length": 7
+      },
+      {
+        "token": "singe",
+        "signature": "egins",
+        "length": 5
+      },
+      {
+        "token": "gardien",
+        "signature": "adeginr",
+        "length": 7
+      },
+      {
+        "token": "juré",
+        "signature": "éjru",
+        "length": 4
+      },
+      {
+        "token": "haine",
+        "signature": "aehin",
+        "length": 5
+      },
+      {
+        "token": "ballon",
+        "signature": "ablno",
+        "length": 6
+      },
+      {
+        "token": "descends",
+        "signature": "cdens",
+        "length": 8
+      },
+      {
+        "token": "essayez",
+        "signature": "aesyz",
+        "length": 7
+      },
+      {
+        "token": "rompu",
+        "signature": "mopru",
+        "length": 5
+      },
+      {
+        "token": "profond",
+        "signature": "dfnopr",
+        "length": 7
+      },
+      {
+        "token": "joueur",
+        "signature": "ejoru",
+        "length": 6
+      },
+      {
+        "token": "masque",
+        "signature": "aemqsu",
+        "length": 6
+      },
+      {
+        "token": "adulte",
+        "signature": "adeltu",
+        "length": 6
+      },
+      {
+        "token": "sauté",
+        "signature": "aéstu",
+        "length": 5
+      },
+      {
+        "token": "meilleures",
+        "signature": "eilmrsu",
+        "length": 10
+      },
+      {
+        "token": "russe",
+        "signature": "ersu",
+        "length": 5
+      },
+      {
+        "token": "médecine",
+        "signature": "cdeéimn",
+        "length": 8
+      },
+      {
+        "token": "colle",
+        "signature": "celo",
+        "length": 5
+      },
+      {
+        "token": "possède",
+        "signature": "deèops",
+        "length": 7
+      },
+      {
+        "token": "reconnu",
+        "signature": "cenoru",
+        "length": 7
+      },
+      {
+        "token": "réaliser",
+        "signature": "aeéilrs",
+        "length": 8
+      },
+      {
+        "token": "porc",
+        "signature": "copr",
+        "length": 4
+      },
+      {
+        "token": "échappé",
+        "signature": "acéhp",
+        "length": 7
+      },
+      {
+        "token": "ceinture",
+        "signature": "ceinrtu",
+        "length": 8
+      },
+      {
+        "token": "emploi",
+        "signature": "eilmop",
+        "length": 6
+      },
+      {
+        "token": "remis",
+        "signature": "eimrs",
+        "length": 5
+      },
+      {
+        "token": "couvre",
+        "signature": "ceoruv",
+        "length": 6
+      },
+      {
+        "token": "vengeance",
+        "signature": "acegnv",
+        "length": 9
+      },
+      {
+        "token": "hé",
+        "signature": "éh",
+        "length": 2
+      },
+      {
+        "token": "tromper",
+        "signature": "emoprt",
+        "length": 7
+      },
+      {
+        "token": "venais",
+        "signature": "aeinsv",
+        "length": 6
+      },
+      {
+        "token": "déclaration",
+        "signature": "acdéilnort",
+        "length": 11
+      },
+      {
+        "token": "davantage",
+        "signature": "adegntv",
+        "length": 9
+      },
+      {
+        "token": "fallu",
+        "signature": "aflu",
+        "length": 5
+      },
+      {
+        "token": "parte",
+        "signature": "aeprt",
+        "length": 5
+      },
+      {
+        "token": "communauté",
+        "signature": "acémnotu",
+        "length": 10
+      },
+      {
+        "token": "limite",
+        "signature": "eilmt",
+        "length": 6
+      },
+      {
+        "token": "apparemment",
+        "signature": "aemnprt",
+        "length": 11
+      },
+      {
+        "token": "risqué",
+        "signature": "éiqrsu",
+        "length": 6
+      },
+      {
+        "token": "créature",
+        "signature": "aceértu",
+        "length": 8
+      },
+      {
+        "token": "choisis",
+        "signature": "chios",
+        "length": 7
+      },
+      {
+        "token": "poursuivre",
+        "signature": "eioprsuv",
+        "length": 10
+      },
+      {
+        "token": "soif",
+        "signature": "fios",
+        "length": 4
+      },
+      {
+        "token": "convaincu",
+        "signature": "acinouv",
+        "length": 9
+      },
+      {
+        "token": "nana",
+        "signature": "an",
+        "length": 4
+      },
+      {
+        "token": "passés",
+        "signature": "aéps",
+        "length": 6
+      },
+      {
+        "token": "blancs",
+        "signature": "abclns",
+        "length": 6
+      },
+      {
+        "token": "récompense",
+        "signature": "ceémnoprs",
+        "length": 10
+      },
+      {
+        "token": "fumée",
+        "signature": "eéfmu",
+        "length": 5
+      },
+      {
+        "token": "circonstances",
+        "signature": "aceinorst",
+        "length": 13
+      },
+      {
+        "token": "disque",
+        "signature": "deiqsu",
+        "length": 6
+      },
+      {
+        "token": "secrète",
+        "signature": "ceèrst",
+        "length": 7
+      },
+      {
+        "token": "bouffe",
+        "signature": "befou",
+        "length": 6
+      },
+      {
+        "token": "prenne",
+        "signature": "enpr",
+        "length": 6
+      },
+      {
+        "token": "rempli",
+        "signature": "eilmpr",
+        "length": 6
+      },
+      {
+        "token": "ayant",
+        "signature": "anty",
+        "length": 5
+      },
+      {
+        "token": "professionnel",
+        "signature": "efilnoprs",
+        "length": 13
+      },
+      {
+        "token": "croyait",
+        "signature": "aciorty",
+        "length": 7
+      },
+      {
+        "token": "donnera",
+        "signature": "adenor",
+        "length": 7
+      },
+      {
+        "token": "contacter",
+        "signature": "acenort",
+        "length": 9
+      },
+      {
+        "token": "chinois",
+        "signature": "chinos",
+        "length": 7
+      },
+      {
+        "token": "surveille",
+        "signature": "eilrsuv",
+        "length": 9
+      },
+      {
+        "token": "avocats",
+        "signature": "acostv",
+        "length": 7
+      },
+      {
+        "token": "pattes",
+        "signature": "aepst",
+        "length": 6
+      },
+      {
+        "token": "moque",
+        "signature": "emoqu",
+        "length": 5
+      },
+      {
+        "token": "flotte",
+        "signature": "eflot",
+        "length": 6
+      },
+      {
+        "token": "canapé",
+        "signature": "acénp",
+        "length": 6
+      },
+      {
+        "token": "écouté",
+        "signature": "céotu",
+        "length": 6
+      },
+      {
+        "token": "précis",
+        "signature": "céiprs",
+        "length": 6
+      },
+      {
+        "token": "secteur",
+        "signature": "cerstu",
+        "length": 7
+      },
+      {
+        "token": "copains",
+        "signature": "acinops",
+        "length": 7
+      },
+      {
+        "token": "rythme",
+        "signature": "ehmrty",
+        "length": 6
+      },
+      {
+        "token": "salaire",
+        "signature": "aeilrs",
+        "length": 7
+      },
+      {
+        "token": "étranger",
+        "signature": "aeégnrt",
+        "length": 8
+      },
+      {
+        "token": "signes",
+        "signature": "egins",
+        "length": 6
+      },
+      {
+        "token": "chiffres",
+        "signature": "cefhirs",
+        "length": 8
+      },
+      {
+        "token": "pratique",
+        "signature": "aeipqrtu",
+        "length": 8
+      },
+      {
+        "token": "gloire",
+        "signature": "egilor",
+        "length": 6
+      },
+      {
+        "token": "manques",
+        "signature": "aemnqsu",
+        "length": 7
+      },
+      {
+        "token": "aimerait",
+        "signature": "aeimrt",
+        "length": 8
+      },
+      {
+        "token": "sentais",
+        "signature": "aeinst",
+        "length": 7
+      },
+      {
+        "token": "naturel",
+        "signature": "aelnrtu",
+        "length": 7
+      },
+      {
+        "token": "employés",
+        "signature": "eélmopsy",
+        "length": 8
+      },
+      {
+        "token": "affreux",
+        "signature": "aefrux",
+        "length": 7
+      },
+      {
+        "token": "amener",
+        "signature": "aemnr",
+        "length": 6
+      },
+      {
+        "token": "bel",
+        "signature": "bel",
+        "length": 3
+      },
+      {
+        "token": "lancé",
+        "signature": "acéln",
+        "length": 5
+      },
+      {
+        "token": "conduis",
+        "signature": "cdinosu",
+        "length": 7
+      },
+      {
+        "token": "malheur",
+        "signature": "aehlmru",
+        "length": 7
+      },
+      {
+        "token": "soigner",
+        "signature": "eginors",
+        "length": 7
+      },
+      {
+        "token": "menteur",
+        "signature": "emnrtu",
+        "length": 7
+      },
+      {
+        "token": "censée",
+        "signature": "ceéns",
+        "length": 6
+      },
+      {
+        "token": "prouve",
+        "signature": "eopruv",
+        "length": 6
+      },
+      {
+        "token": "roule",
+        "signature": "eloru",
+        "length": 5
+      },
+      {
+        "token": "atteindre",
+        "signature": "adeinrt",
+        "length": 9
+      },
+      {
+        "token": "recommence",
+        "signature": "cemnor",
+        "length": 10
+      },
+      {
+        "token": "lutte",
+        "signature": "eltu",
+        "length": 5
+      },
+      {
+        "token": "copie",
+        "signature": "ceiop",
+        "length": 5
+      },
+      {
+        "token": "bagages",
+        "signature": "abegs",
+        "length": 7
+      },
+      {
+        "token": "collègues",
+        "signature": "ceèglosu",
+        "length": 9
+      },
+      {
+        "token": "rayon",
+        "signature": "anory",
+        "length": 5
+      },
+      {
+        "token": "région",
+        "signature": "éginor",
+        "length": 6
+      },
+      {
+        "token": "courageux",
+        "signature": "acegorux",
+        "length": 9
+      },
+      {
+        "token": "respecte",
+        "signature": "ceprst",
+        "length": 8
+      },
+      {
+        "token": "placard",
+        "signature": "acdlpr",
+        "length": 7
+      },
+      {
+        "token": "respire",
+        "signature": "eiprs",
+        "length": 7
+      },
+      {
+        "token": "veille",
+        "signature": "eilv",
+        "length": 6
+      },
+      {
+        "token": "désir",
+        "signature": "déirs",
+        "length": 5
+      },
+      {
+        "token": "gouverneur",
+        "signature": "egnoruv",
+        "length": 10
+      },
+      {
+        "token": "eau",
+        "signature": "aeu",
+        "length": 3
+      },
+      {
+        "token": "restent",
+        "signature": "enrst",
+        "length": 7
+      },
+      {
+        "token": "taule",
+        "signature": "aeltu",
+        "length": 5
+      },
+      {
+        "token": "qualité",
+        "signature": "aéilqtu",
+        "length": 7
+      },
+      {
+        "token": "tasse",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "chouette",
+        "signature": "cehotu",
+        "length": 8
+      },
+      {
+        "token": "jouez",
+        "signature": "ejouz",
+        "length": 5
+      },
+      {
+        "token": "odeur",
+        "signature": "deoru",
+        "length": 5
+      },
+      {
+        "token": "américaine",
+        "signature": "aceéimnr",
+        "length": 10
+      },
+      {
+        "token": "limites",
+        "signature": "eilmst",
+        "length": 7
+      },
+      {
+        "token": "emmène",
+        "signature": "eèmn",
+        "length": 6
+      },
+      {
+        "token": "uniquement",
+        "signature": "eimnqtu",
+        "length": 10
+      },
+      {
+        "token": "meurent",
+        "signature": "emnrtu",
+        "length": 7
+      },
+      {
+        "token": "royaume",
+        "signature": "aemoruy",
+        "length": 7
+      },
+      {
+        "token": "suivez",
+        "signature": "eisuvz",
+        "length": 6
+      },
+      {
+        "token": "aurons",
+        "signature": "anorsu",
+        "length": 6
+      },
+      {
+        "token": "ancienne",
+        "signature": "acein",
+        "length": 8
+      },
+      {
+        "token": "dames",
+        "signature": "adems",
+        "length": 5
+      },
+      {
+        "token": "psy",
+        "signature": "psy",
+        "length": 3
+      },
+      {
+        "token": "apporte",
+        "signature": "aeoprt",
+        "length": 7
+      },
+      {
+        "token": "chansons",
+        "signature": "achnos",
+        "length": 8
+      },
+      {
+        "token": "voyait",
+        "signature": "aiotvy",
+        "length": 6
+      },
+      {
+        "token": "faisaient",
+        "signature": "aefinst",
+        "length": 9
+      },
+      {
+        "token": "remplir",
+        "signature": "eilmpr",
+        "length": 7
+      },
+      {
+        "token": "sacs",
+        "signature": "acs",
+        "length": 4
+      },
+      {
+        "token": "valise",
+        "signature": "aeilsv",
+        "length": 6
+      },
+      {
+        "token": "baise",
+        "signature": "abeis",
+        "length": 5
+      },
+      {
+        "token": "marin",
+        "signature": "aimnr",
+        "length": 5
+      },
+      {
+        "token": "pareille",
+        "signature": "aeilpr",
+        "length": 8
+      },
+      {
+        "token": "urgence",
+        "signature": "cegnru",
+        "length": 7
+      },
+      {
+        "token": "devoirs",
+        "signature": "deiorsv",
+        "length": 7
+      },
+      {
+        "token": "conseiller",
+        "signature": "ceilnors",
+        "length": 10
+      },
+      {
+        "token": "retenir",
+        "signature": "einrt",
+        "length": 7
+      },
+      {
+        "token": "voisin",
+        "signature": "inosv",
+        "length": 6
+      },
+      {
+        "token": "brillant",
+        "signature": "abilnrt",
+        "length": 8
+      },
+      {
+        "token": "concentrer",
+        "signature": "cenort",
+        "length": 10
+      },
+      {
+        "token": "sortira",
+        "signature": "aiorst",
+        "length": 7
+      },
+      {
+        "token": "sénateur",
+        "signature": "aeénrstu",
+        "length": 8
+      },
+      {
+        "token": "assurer",
+        "signature": "aersu",
+        "length": 7
+      },
+      {
+        "token": "procédure",
+        "signature": "cdeéopru",
+        "length": 9
+      },
+      {
+        "token": "miel",
+        "signature": "eilm",
+        "length": 4
+      },
+      {
+        "token": "troupes",
+        "signature": "eoprstu",
+        "length": 7
+      },
+      {
+        "token": "attaquer",
+        "signature": "aeqrtu",
+        "length": 8
+      },
+      {
+        "token": "casier",
+        "signature": "aceirs",
+        "length": 6
+      },
+      {
+        "token": "connaissent",
+        "signature": "aceinost",
+        "length": 11
+      },
+      {
+        "token": "verres",
+        "signature": "ersv",
+        "length": 6
+      },
+      {
+        "token": "pointe",
+        "signature": "einopt",
+        "length": 6
+      },
+      {
+        "token": "bibliothèque",
+        "signature": "beèhiloqtu",
+        "length": 12
+      },
+      {
+        "token": "cinglé",
+        "signature": "cégiln",
+        "length": 6
+      },
+      {
+        "token": "hum",
+        "signature": "hmu",
+        "length": 3
+      },
+      {
+        "token": "associé",
+        "signature": "acéios",
+        "length": 7
+      },
+      {
+        "token": "noirs",
+        "signature": "inors",
+        "length": 5
+      },
+      {
+        "token": "pique",
+        "signature": "eipqu",
+        "length": 5
+      },
+      {
+        "token": "terres",
+        "signature": "erst",
+        "length": 6
+      },
+      {
+        "token": "merveilleuse",
+        "signature": "eilmrsuv",
+        "length": 12
+      },
+      {
+        "token": "pensée",
+        "signature": "eénps",
+        "length": 6
+      },
+      {
+        "token": "policiers",
+        "signature": "ceiloprs",
+        "length": 9
+      },
+      {
+        "token": "repose",
+        "signature": "eoprs",
+        "length": 6
+      },
+      {
+        "token": "blessés",
+        "signature": "beéls",
+        "length": 7
+      },
+      {
+        "token": "saute",
+        "signature": "aestu",
+        "length": 5
+      },
+      {
+        "token": "parlerai",
+        "signature": "aeilpr",
+        "length": 8
+      },
+      {
+        "token": "partage",
+        "signature": "aegprt",
+        "length": 7
+      },
+      {
+        "token": "nu",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "vend",
+        "signature": "denv",
+        "length": 4
+      },
+      {
+        "token": "chaude",
+        "signature": "acdehu",
+        "length": 6
+      },
+      {
+        "token": "proposition",
+        "signature": "inoprst",
+        "length": 11
+      },
+      {
+        "token": "poissons",
+        "signature": "inops",
+        "length": 8
+      },
+      {
+        "token": "épée",
+        "signature": "eép",
+        "length": 4
+      },
+      {
+        "token": "permettez",
+        "signature": "emprtz",
+        "length": 9
+      },
+      {
+        "token": "produits",
+        "signature": "dioprstu",
+        "length": 8
+      },
+      {
+        "token": "miroir",
+        "signature": "imor",
+        "length": 6
+      },
+      {
+        "token": "alliez",
+        "signature": "aeilz",
+        "length": 6
+      },
+      {
+        "token": "inquiète",
+        "signature": "eèinqtu",
+        "length": 8
+      },
+      {
+        "token": "conduite",
+        "signature": "cdeinotu",
+        "length": 8
+      },
+      {
+        "token": "fruits",
+        "signature": "firstu",
+        "length": 6
+      },
+      {
+        "token": "célibataire",
+        "signature": "abceéilrt",
+        "length": 11
+      },
+      {
+        "token": "étonnant",
+        "signature": "aénot",
+        "length": 8
+      },
+      {
+        "token": "blessée",
+        "signature": "beéls",
+        "length": 7
+      },
+      {
+        "token": "criminels",
+        "signature": "ceilmnrs",
+        "length": 9
+      },
+      {
+        "token": "armé",
+        "signature": "aémr",
+        "length": 4
+      },
+      {
+        "token": "voudra",
+        "signature": "adoruv",
+        "length": 6
+      },
+      {
+        "token": "soins",
+        "signature": "inos",
+        "length": 5
+      },
+      {
+        "token": "poussé",
+        "signature": "éopsu",
+        "length": 6
+      },
+      {
+        "token": "malades",
+        "signature": "adelms",
+        "length": 7
+      },
+      {
+        "token": "proposé",
+        "signature": "éoprs",
+        "length": 7
+      },
+      {
+        "token": "égal",
+        "signature": "aégl",
+        "length": 4
+      },
+      {
+        "token": "poil",
+        "signature": "ilop",
+        "length": 4
+      },
+      {
+        "token": "mystère",
+        "signature": "eèmrsty",
+        "length": 7
+      },
+      {
+        "token": "trahi",
+        "signature": "ahirt",
+        "length": 5
+      },
+      {
+        "token": "évidemment",
+        "signature": "deéimntv",
+        "length": 10
+      },
+      {
+        "token": "émission",
+        "signature": "éimnos",
+        "length": 8
+      },
+      {
+        "token": "diriger",
+        "signature": "degir",
+        "length": 7
+      },
+      {
+        "token": "poussière",
+        "signature": "eèioprsu",
+        "length": 9
+      },
+      {
+        "token": "courrier",
+        "signature": "ceioru",
+        "length": 8
+      },
+      {
+        "token": "rencard",
+        "signature": "acdenr",
+        "length": 7
+      },
+      {
+        "token": "montagnes",
+        "signature": "aegmnost",
+        "length": 9
+      },
+      {
+        "token": "collègue",
+        "signature": "ceèglou",
+        "length": 8
+      },
+      {
+        "token": "juger",
+        "signature": "egjru",
+        "length": 5
+      },
+      {
+        "token": "entièrement",
+        "signature": "eèimnrt",
+        "length": 11
+      },
+      {
+        "token": "fiancé",
+        "signature": "acéfin",
+        "length": 6
+      },
+      {
+        "token": "domaine",
+        "signature": "adeimno",
+        "length": 7
+      },
+      {
+        "token": "vivait",
+        "signature": "aitv",
+        "length": 6
+      },
+      {
+        "token": "rentres",
+        "signature": "enrst",
+        "length": 7
+      },
+      {
+        "token": "briser",
+        "signature": "beirs",
+        "length": 6
+      },
+      {
+        "token": "bombes",
+        "signature": "bemos",
+        "length": 6
+      },
+      {
+        "token": "légende",
+        "signature": "deégln",
+        "length": 7
+      },
+      {
+        "token": "avancer",
+        "signature": "acenrv",
+        "length": 7
+      },
+      {
+        "token": "aient",
+        "signature": "aeint",
+        "length": 5
+      },
+      {
+        "token": "trouverez",
+        "signature": "eortuvz",
+        "length": 9
+      },
+      {
+        "token": "plu",
+        "signature": "lpu",
+        "length": 3
+      },
+      {
+        "token": "anciens",
+        "signature": "aceins",
+        "length": 7
+      },
+      {
+        "token": "conséquences",
+        "signature": "ceénoqsu",
+        "length": 12
+      },
+      {
+        "token": "élèves",
+        "signature": "eéèlsv",
+        "length": 6
+      },
+      {
+        "token": "livrer",
+        "signature": "eilrv",
+        "length": 6
+      },
+      {
+        "token": "essayait",
+        "signature": "aeisty",
+        "length": 8
+      },
+      {
+        "token": "bijoux",
+        "signature": "bijoux",
+        "length": 6
+      },
+      {
+        "token": "médical",
+        "signature": "acdéilm",
+        "length": 7
+      },
+      {
+        "token": "lumières",
+        "signature": "eèilmrsu",
+        "length": 8
+      },
+      {
+        "token": "semblez",
+        "signature": "belmsz",
+        "length": 7
+      },
+      {
+        "token": "sable",
+        "signature": "abels",
+        "length": 5
+      },
+      {
+        "token": "jusque",
+        "signature": "ejqsu",
+        "length": 6
+      },
+      {
+        "token": "artiste",
+        "signature": "aeirst",
+        "length": 7
+      },
+      {
+        "token": "fièvre",
+        "signature": "eèfirv",
+        "length": 6
+      },
+      {
+        "token": "poule",
+        "signature": "elopu",
+        "length": 5
+      },
+      {
+        "token": "visiter",
+        "signature": "eirstv",
+        "length": 7
+      },
+      {
+        "token": "pardonne",
+        "signature": "adenopr",
+        "length": 8
+      },
+      {
+        "token": "terminer",
+        "signature": "eimnrt",
+        "length": 8
+      },
+      {
+        "token": "possibilité",
+        "signature": "béilopst",
+        "length": 11
+      },
+      {
+        "token": "marchera",
+        "signature": "acehmr",
+        "length": 8
+      },
+      {
+        "token": "séparer",
+        "signature": "aeéprs",
+        "length": 7
+      },
+      {
+        "token": "chasser",
+        "signature": "acehrs",
+        "length": 7
+      },
+      {
+        "token": "jugement",
+        "signature": "egjmntu",
+        "length": 8
+      },
+      {
+        "token": "décisions",
+        "signature": "cdéinos",
+        "length": 9
+      },
+      {
+        "token": "lentement",
+        "signature": "elmnt",
+        "length": 9
+      },
+      {
+        "token": "digne",
+        "signature": "degin",
+        "length": 5
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "forcer",
+        "signature": "cefor",
+        "length": 6
+      },
+      {
+        "token": "unité",
+        "signature": "éintu",
+        "length": 5
+      },
+      {
+        "token": "monstres",
+        "signature": "emnorst",
+        "length": 8
+      },
+      {
+        "token": "découvre",
+        "signature": "cdeéoruv",
+        "length": 8
+      },
+      {
+        "token": "appareil",
+        "signature": "aeilpr",
+        "length": 8
+      },
+      {
+        "token": "lignes",
+        "signature": "egilns",
+        "length": 6
+      },
+      {
+        "token": "clinique",
+        "signature": "ceilnqu",
+        "length": 8
+      },
+      {
+        "token": "soudain",
+        "signature": "adinosu",
+        "length": 7
+      },
+      {
+        "token": "pensiez",
+        "signature": "einpsz",
+        "length": 7
+      },
+      {
+        "token": "plaque",
+        "signature": "aelpqu",
+        "length": 6
+      },
+      {
+        "token": "télévision",
+        "signature": "éilnostv",
+        "length": 10
+      },
+      {
+        "token": "lié",
+        "signature": "éil",
+        "length": 3
+      },
+      {
+        "token": "effets",
+        "signature": "efst",
+        "length": 6
+      },
+      {
+        "token": "jaune",
+        "signature": "aejnu",
+        "length": 5
+      },
+      {
+        "token": "moto",
+        "signature": "mot",
+        "length": 4
+      },
+      {
+        "token": "détail",
+        "signature": "adéilt",
+        "length": 6
+      },
+      {
+        "token": "paire",
+        "signature": "aeipr",
+        "length": 5
+      },
+      {
+        "token": "bains",
+        "signature": "abins",
+        "length": 5
+      },
+      {
+        "token": "étudier",
+        "signature": "deéirtu",
+        "length": 7
+      },
+      {
+        "token": "ferons",
+        "signature": "efnors",
+        "length": 6
+      },
+      {
+        "token": "ravie",
+        "signature": "aeirv",
+        "length": 5
+      },
+      {
+        "token": "suggère",
+        "signature": "eègrsu",
+        "length": 7
+      },
+      {
+        "token": "reçois",
+        "signature": "çeiors",
+        "length": 6
+      },
+      {
+        "token": "supporte",
+        "signature": "eoprstu",
+        "length": 8
+      },
+      {
+        "token": "serpent",
+        "signature": "enprst",
+        "length": 7
+      },
+      {
+        "token": "libéré",
+        "signature": "béilr",
+        "length": 6
+      },
+      {
+        "token": "objets",
+        "signature": "bejost",
+        "length": 6
+      },
+      {
+        "token": "exprès",
+        "signature": "eèprsx",
+        "length": 6
+      },
+      {
+        "token": "guérir",
+        "signature": "égiru",
+        "length": 6
+      },
+      {
+        "token": "séance",
+        "signature": "aceéns",
+        "length": 6
+      },
+      {
+        "token": "critique",
+        "signature": "ceiqrtu",
+        "length": 8
+      },
+      {
+        "token": "voyant",
+        "signature": "anotvy",
+        "length": 6
+      },
+      {
+        "token": "matière",
+        "signature": "aeèimrt",
+        "length": 7
+      },
+      {
+        "token": "chambres",
+        "signature": "abcehmrs",
+        "length": 8
+      },
+      {
+        "token": "étrangers",
+        "signature": "aeégnrst",
+        "length": 9
+      },
+      {
+        "token": "jouait",
+        "signature": "aijotu",
+        "length": 6
+      },
+      {
+        "token": "classique",
+        "signature": "aceilqsu",
+        "length": 9
+      },
+      {
+        "token": "raisonnable",
+        "signature": "abeilnors",
+        "length": 11
+      },
+      {
+        "token": "refuser",
+        "signature": "efrsu",
+        "length": 7
+      },
+      {
+        "token": "cassette",
+        "signature": "acest",
+        "length": 8
+      },
+      {
+        "token": "patiente",
+        "signature": "aeinpt",
+        "length": 8
+      },
+      {
+        "token": "sortes",
+        "signature": "eorst",
+        "length": 6
+      },
+      {
+        "token": "forts",
+        "signature": "forst",
+        "length": 5
+      },
+      {
+        "token": "cochon",
+        "signature": "chno",
+        "length": 6
+      },
+      {
+        "token": "tuera",
+        "signature": "aertu",
+        "length": 5
+      },
+      {
+        "token": "bleue",
+        "signature": "belu",
+        "length": 5
+      },
+      {
+        "token": "prenait",
+        "signature": "aeinprt",
+        "length": 7
+      },
+      {
+        "token": "épouser",
+        "signature": "eéoprsu",
+        "length": 7
+      },
+      {
+        "token": "eue",
+        "signature": "eu",
+        "length": 3
+      },
+      {
+        "token": "cherchent",
+        "signature": "cehnrt",
+        "length": 9
+      },
+      {
+        "token": "allaient",
+        "signature": "aeilnt",
+        "length": 8
+      },
+      {
+        "token": "préviens",
+        "signature": "eéinprsv",
+        "length": 8
+      },
+      {
+        "token": "sortis",
+        "signature": "iorst",
+        "length": 6
+      },
+      {
+        "token": "palais",
+        "signature": "ailps",
+        "length": 6
+      },
+      {
+        "token": "précieux",
+        "signature": "ceéiprux",
+        "length": 8
+      },
+      {
+        "token": "descend",
+        "signature": "cdens",
+        "length": 7
+      },
+      {
+        "token": "restée",
+        "signature": "eérst",
+        "length": 6
+      },
+      {
+        "token": "boit",
+        "signature": "biot",
+        "length": 4
+      },
+      {
+        "token": "personnelle",
+        "signature": "elnoprs",
+        "length": 11
+      },
+      {
+        "token": "taper",
+        "signature": "aeprt",
+        "length": 5
+      },
+      {
+        "token": "boule",
+        "signature": "belou",
+        "length": 5
+      },
+      {
+        "token": "condamné",
+        "signature": "acdémno",
+        "length": 8
+      },
+      {
+        "token": "correspond",
+        "signature": "cdenoprs",
+        "length": 10
+      },
+      {
+        "token": "identité",
+        "signature": "deéint",
+        "length": 8
+      },
+      {
+        "token": "mesdames",
+        "signature": "adems",
+        "length": 8
+      },
+      {
+        "token": "disons",
+        "signature": "dinos",
+        "length": 6
+      },
+      {
+        "token": "uniforme",
+        "signature": "efimnoru",
+        "length": 8
+      },
+      {
+        "token": "franchement",
+        "signature": "acefhmnrt",
+        "length": 11
+      },
+      {
+        "token": "profondément",
+        "signature": "deéfmnoprt",
+        "length": 12
+      },
+      {
+        "token": "territoire",
+        "signature": "eiort",
+        "length": 10
+      },
+      {
+        "token": "étudiants",
+        "signature": "adéinstu",
+        "length": 9
+      },
+      {
+        "token": "rouges",
+        "signature": "egorsu",
+        "length": 6
+      },
+      {
+        "token": "née",
+        "signature": "eén",
+        "length": 3
+      },
+      {
+        "token": "bol",
+        "signature": "blo",
+        "length": 3
+      },
+      {
+        "token": "sensible",
+        "signature": "beilns",
+        "length": 8
+      },
+      {
+        "token": "profil",
+        "signature": "filopr",
+        "length": 6
+      },
+      {
+        "token": "préférée",
+        "signature": "eéfpr",
+        "length": 8
+      },
+      {
+        "token": "printemps",
+        "signature": "eimnprst",
+        "length": 9
+      },
+      {
+        "token": "entendez",
+        "signature": "dentz",
+        "length": 8
+      },
+      {
+        "token": "respecter",
+        "signature": "ceprst",
+        "length": 9
+      },
+      {
+        "token": "tenait",
+        "signature": "aeint",
+        "length": 6
+      },
+      {
+        "token": "déposer",
+        "signature": "deéoprs",
+        "length": 7
+      },
+      {
+        "token": "irait",
+        "signature": "airt",
+        "length": 5
+      },
+      {
+        "token": "donnent",
+        "signature": "denot",
+        "length": 7
+      },
+      {
+        "token": "causé",
+        "signature": "acésu",
+        "length": 5
+      },
+      {
+        "token": "furieux",
+        "signature": "efirux",
+        "length": 7
+      },
+      {
+        "token": "tours",
+        "signature": "orstu",
+        "length": 5
+      },
+      {
+        "token": "finira",
+        "signature": "afinr",
+        "length": 6
+      },
+      {
+        "token": "géant",
+        "signature": "aégnt",
+        "length": 5
+      },
+      {
+        "token": "chanceux",
+        "signature": "acehnux",
+        "length": 8
+      },
+      {
+        "token": "pur",
+        "signature": "pru",
+        "length": 3
+      },
+      {
+        "token": "bonbons",
+        "signature": "bnos",
+        "length": 7
+      },
+      {
+        "token": "suivante",
+        "signature": "aeinstuv",
+        "length": 8
+      },
+      {
+        "token": "supérieur",
+        "signature": "eéiprsu",
+        "length": 9
+      },
+      {
+        "token": "donnée",
+        "signature": "deéno",
+        "length": 6
+      },
+      {
+        "token": "retourné",
+        "signature": "eénortu",
+        "length": 8
+      },
+      {
+        "token": "apprend",
+        "signature": "adenpr",
+        "length": 7
+      },
+      {
+        "token": "inconnu",
+        "signature": "cinou",
+        "length": 7
+      },
+      {
+        "token": "vieilles",
+        "signature": "eilsv",
+        "length": 8
+      },
+      {
+        "token": "changera",
+        "signature": "aceghnr",
+        "length": 8
+      },
+      {
+        "token": "acteur",
+        "signature": "acertu",
+        "length": 6
+      },
+      {
+        "token": "stade",
+        "signature": "adest",
+        "length": 5
+      },
+      {
+        "token": "vérifie",
+        "signature": "eéfirv",
+        "length": 7
+      },
+      {
+        "token": "portefeuille",
+        "signature": "efiloprtu",
+        "length": 12
+      },
+      {
+        "token": "parfum",
+        "signature": "afmpru",
+        "length": 6
+      },
+      {
+        "token": "enterré",
+        "signature": "eénrt",
+        "length": 7
+      },
+      {
+        "token": "cherchait",
+        "signature": "acehirt",
+        "length": 9
+      },
+      {
+        "token": "cabine",
+        "signature": "abcein",
+        "length": 6
+      },
+      {
+        "token": "explication",
+        "signature": "aceilnoptx",
+        "length": 11
+      },
+      {
+        "token": "sommet",
+        "signature": "emost",
+        "length": 6
+      },
+      {
+        "token": "milliards",
+        "signature": "adilmrs",
+        "length": 9
+      },
+      {
+        "token": "congé",
+        "signature": "cégno",
+        "length": 5
+      },
+      {
+        "token": "pierres",
+        "signature": "eiprs",
+        "length": 7
+      },
+      {
+        "token": "intéressé",
+        "signature": "eéinrst",
+        "length": 9
+      },
+      {
+        "token": "actes",
+        "signature": "acest",
+        "length": 5
+      }
+    ],
+    "advanced": [
+      {
+        "token": "échelle",
+        "signature": "ceéhl",
+        "length": 7
+      },
+      {
+        "token": "intervenir",
+        "signature": "einrtv",
+        "length": 10
+      },
+      {
+        "token": "mafia",
+        "signature": "afim",
+        "length": 5
+      },
+      {
+        "token": "revois",
+        "signature": "eiorsv",
+        "length": 6
+      },
+      {
+        "token": "balai",
+        "signature": "abil",
+        "length": 5
+      },
+      {
+        "token": "chanteur",
+        "signature": "acehnrtu",
+        "length": 8
+      },
+      {
+        "token": "pardonné",
+        "signature": "adénopr",
+        "length": 8
+      },
+      {
+        "token": "ventes",
+        "signature": "enstv",
+        "length": 6
+      },
+      {
+        "token": "franchir",
+        "signature": "acfhinr",
+        "length": 8
+      },
+      {
+        "token": "sueur",
+        "signature": "ersu",
+        "length": 5
+      },
+      {
+        "token": "voulions",
+        "signature": "ilnosuv",
+        "length": 8
+      },
+      {
+        "token": "accompagner",
+        "signature": "acegmnopr",
+        "length": 11
+      },
+      {
+        "token": "baraque",
+        "signature": "abeqru",
+        "length": 7
+      },
+      {
+        "token": "roulé",
+        "signature": "éloru",
+        "length": 5
+      },
+      {
+        "token": "renvoie",
+        "signature": "einorv",
+        "length": 7
+      },
+      {
+        "token": "désespoir",
+        "signature": "deéioprs",
+        "length": 9
+      },
+      {
+        "token": "marquer",
+        "signature": "aemqru",
+        "length": 7
+      },
+      {
+        "token": "abattre",
+        "signature": "abert",
+        "length": 7
+      },
+      {
+        "token": "appartenait",
+        "signature": "aeinprt",
+        "length": 11
+      },
+      {
+        "token": "effraction",
+        "signature": "acefinort",
+        "length": 10
+      },
+      {
+        "token": "calibre",
+        "signature": "abceilr",
+        "length": 7
+      },
+      {
+        "token": "tranquillement",
+        "signature": "aeilmnqrtu",
+        "length": 14
+      },
+      {
+        "token": "soie",
+        "signature": "eios",
+        "length": 4
+      },
+      {
+        "token": "trouverons",
+        "signature": "enorstuv",
+        "length": 10
+      },
+      {
+        "token": "méritait",
+        "signature": "aéimrt",
+        "length": 8
+      },
+      {
+        "token": "promet",
+        "signature": "emoprt",
+        "length": 6
+      },
+      {
+        "token": "lesquels",
+        "signature": "elqsu",
+        "length": 8
+      },
+      {
+        "token": "sociaux",
+        "signature": "aciosux",
+        "length": 7
+      },
+      {
+        "token": "médicaux",
+        "signature": "acdéimux",
+        "length": 8
+      },
+      {
+        "token": "bornes",
+        "signature": "benors",
+        "length": 6
+      },
+      {
+        "token": "cachets",
+        "signature": "acehst",
+        "length": 7
+      },
+      {
+        "token": "voté",
+        "signature": "éotv",
+        "length": 4
+      },
+      {
+        "token": "cambriolage",
+        "signature": "abcegilmor",
+        "length": 11
+      },
+      {
+        "token": "portais",
+        "signature": "aioprst",
+        "length": 7
+      },
+      {
+        "token": "rende",
+        "signature": "denr",
+        "length": 5
+      },
+      {
+        "token": "thème",
+        "signature": "eèhmt",
+        "length": 5
+      },
+      {
+        "token": "énervée",
+        "signature": "eénrv",
+        "length": 7
+      },
+      {
+        "token": "décrit",
+        "signature": "cdéirt",
+        "length": 6
+      },
+      {
+        "token": "papillon",
+        "signature": "ailnop",
+        "length": 8
+      },
+      {
+        "token": "approprié",
+        "signature": "aéiopr",
+        "length": 9
+      },
+      {
+        "token": "raser",
+        "signature": "aers",
+        "length": 5
+      },
+      {
+        "token": "barrage",
+        "signature": "abegr",
+        "length": 7
+      },
+      {
+        "token": "magazines",
+        "signature": "aegimnsz",
+        "length": 9
+      },
+      {
+        "token": "rideaux",
+        "signature": "adeirux",
+        "length": 7
+      },
+      {
+        "token": "payez",
+        "signature": "aepyz",
+        "length": 5
+      },
+      {
+        "token": "perdant",
+        "signature": "adenprt",
+        "length": 7
+      },
+      {
+        "token": "enfermée",
+        "signature": "eéfmnr",
+        "length": 8
+      },
+      {
+        "token": "corruption",
+        "signature": "cinoprtu",
+        "length": 10
+      },
+      {
+        "token": "démissionné",
+        "signature": "déimnos",
+        "length": 11
+      },
+      {
+        "token": "talons",
+        "signature": "alnost",
+        "length": 6
+      },
+      {
+        "token": "dons",
+        "signature": "dnos",
+        "length": 4
+      },
+      {
+        "token": "mises",
+        "signature": "eims",
+        "length": 5
+      },
+      {
+        "token": "sentie",
+        "signature": "einst",
+        "length": 6
+      },
+      {
+        "token": "laissons",
+        "signature": "ailnos",
+        "length": 8
+      },
+      {
+        "token": "poulets",
+        "signature": "elopstu",
+        "length": 7
+      },
+      {
+        "token": "entouré",
+        "signature": "eénortu",
+        "length": 7
+      },
+      {
+        "token": "inconnus",
+        "signature": "cinosu",
+        "length": 8
+      },
+      {
+        "token": "zones",
+        "signature": "enosz",
+        "length": 5
+      },
+      {
+        "token": "sortirai",
+        "signature": "aiorst",
+        "length": 8
+      },
+      {
+        "token": "établir",
+        "signature": "abéilrt",
+        "length": 7
+      },
+      {
+        "token": "hommage",
+        "signature": "aeghmo",
+        "length": 7
+      },
+      {
+        "token": "nés",
+        "signature": "éns",
+        "length": 3
+      },
+      {
+        "token": "cheminée",
+        "signature": "ceéhimn",
+        "length": 8
+      },
+      {
+        "token": "verront",
+        "signature": "enortv",
+        "length": 7
+      },
+      {
+        "token": "haricots",
+        "signature": "achiorst",
+        "length": 8
+      },
+      {
+        "token": "tableaux",
+        "signature": "abeltux",
+        "length": 8
+      },
+      {
+        "token": "traites",
+        "signature": "aeirst",
+        "length": 7
+      },
+      {
+        "token": "ver",
+        "signature": "erv",
+        "length": 3
+      },
+      {
+        "token": "verts",
+        "signature": "erstv",
+        "length": 5
+      },
+      {
+        "token": "facteur",
+        "signature": "acefrtu",
+        "length": 7
+      },
+      {
+        "token": "détestent",
+        "signature": "deénst",
+        "length": 9
+      },
+      {
+        "token": "apprécie",
+        "signature": "aceéipr",
+        "length": 8
+      },
+      {
+        "token": "pharmacie",
+        "signature": "acehimpr",
+        "length": 9
+      },
+      {
+        "token": "tournoi",
+        "signature": "inortu",
+        "length": 7
+      },
+      {
+        "token": "douleurs",
+        "signature": "delorsu",
+        "length": 8
+      },
+      {
+        "token": "saoul",
+        "signature": "alosu",
+        "length": 5
+      },
+      {
+        "token": "spéciaux",
+        "signature": "acéipsux",
+        "length": 8
+      },
+      {
+        "token": "personnelles",
+        "signature": "elnoprs",
+        "length": 12
+      },
+      {
+        "token": "précédent",
+        "signature": "cdeénprt",
+        "length": 9
+      },
+      {
+        "token": "écraser",
+        "signature": "aceérs",
+        "length": 7
+      },
+      {
+        "token": "pognon",
+        "signature": "gnop",
+        "length": 6
+      },
+      {
+        "token": "croira",
+        "signature": "acior",
+        "length": 6
+      },
+      {
+        "token": "réalises",
+        "signature": "aeéilrs",
+        "length": 8
+      },
+      {
+        "token": "toilette",
+        "signature": "eilot",
+        "length": 8
+      },
+      {
+        "token": "prévoir",
+        "signature": "éioprv",
+        "length": 7
+      },
+      {
+        "token": "réussit",
+        "signature": "éirstu",
+        "length": 7
+      },
+      {
+        "token": "avantages",
+        "signature": "aegnstv",
+        "length": 9
+      },
+      {
+        "token": "navires",
+        "signature": "aeinrsv",
+        "length": 7
+      },
+      {
+        "token": "appelait",
+        "signature": "aeilpt",
+        "length": 8
+      },
+      {
+        "token": "fiction",
+        "signature": "cfinot",
+        "length": 7
+      },
+      {
+        "token": "prétexte",
+        "signature": "eéprtx",
+        "length": 8
+      },
+      {
+        "token": "quoique",
+        "signature": "eioqu",
+        "length": 7
+      },
+      {
+        "token": "voyou",
+        "signature": "ouvy",
+        "length": 5
+      },
+      {
+        "token": "vulgaire",
+        "signature": "aegilruv",
+        "length": 8
+      },
+      {
+        "token": "cachez",
+        "signature": "acehz",
+        "length": 6
+      },
+      {
+        "token": "infiniment",
+        "signature": "efimnt",
+        "length": 10
+      },
+      {
+        "token": "rocher",
+        "signature": "cehor",
+        "length": 6
+      },
+      {
+        "token": "journées",
+        "signature": "eéjnorsu",
+        "length": 8
+      },
+      {
+        "token": "insectes",
+        "signature": "ceinst",
+        "length": 8
+      },
+      {
+        "token": "rejeté",
+        "signature": "eéjrt",
+        "length": 6
+      },
+      {
+        "token": "royale",
+        "signature": "aelory",
+        "length": 6
+      },
+      {
+        "token": "alliés",
+        "signature": "aéils",
+        "length": 6
+      },
+      {
+        "token": "céréales",
+        "signature": "aceélrs",
+        "length": 8
+      },
+      {
+        "token": "loupé",
+        "signature": "élopu",
+        "length": 5
+      },
+      {
+        "token": "retenue",
+        "signature": "enrtu",
+        "length": 7
+      },
+      {
+        "token": "détenus",
+        "signature": "deénstu",
+        "length": 7
+      },
+      {
+        "token": "grain",
+        "signature": "aginr",
+        "length": 5
+      },
+      {
+        "token": "rapides",
+        "signature": "adeiprs",
+        "length": 7
+      },
+      {
+        "token": "défendu",
+        "signature": "deéfnu",
+        "length": 7
+      },
+      {
+        "token": "menteuse",
+        "signature": "emnstu",
+        "length": 8
+      },
+      {
+        "token": "fortes",
+        "signature": "eforst",
+        "length": 6
+      },
+      {
+        "token": "proie",
+        "signature": "eiopr",
+        "length": 5
+      },
+      {
+        "token": "états",
+        "signature": "aést",
+        "length": 5
+      },
+      {
+        "token": "chargée",
+        "signature": "aceéghr",
+        "length": 7
+      },
+      {
+        "token": "chèvre",
+        "signature": "ceèhrv",
+        "length": 6
+      },
+      {
+        "token": "coopérer",
+        "signature": "ceéopr",
+        "length": 8
+      },
+      {
+        "token": "délai",
+        "signature": "adéil",
+        "length": 5
+      },
+      {
+        "token": "ronde",
+        "signature": "denor",
+        "length": 5
+      },
+      {
+        "token": "poursuivi",
+        "signature": "ioprsuv",
+        "length": 9
+      },
+      {
+        "token": "diagnostic",
+        "signature": "acdginost",
+        "length": 10
+      },
+      {
+        "token": "camps",
+        "signature": "acmps",
+        "length": 5
+      },
+      {
+        "token": "délicate",
+        "signature": "acdeéilt",
+        "length": 8
+      },
+      {
+        "token": "impliquée",
+        "signature": "eéilmpqu",
+        "length": 9
+      },
+      {
+        "token": "plancher",
+        "signature": "acehlnpr",
+        "length": 8
+      },
+      {
+        "token": "chèques",
+        "signature": "ceèhqsu",
+        "length": 7
+      },
+      {
+        "token": "alcoolique",
+        "signature": "aceiloqu",
+        "length": 10
+      },
+      {
+        "token": "concentré",
+        "signature": "ceénort",
+        "length": 9
+      },
+      {
+        "token": "éducation",
+        "signature": "acdéinotu",
+        "length": 9
+      },
+      {
+        "token": "blesse",
+        "signature": "bels",
+        "length": 6
+      },
+      {
+        "token": "modeste",
+        "signature": "demost",
+        "length": 7
+      },
+      {
+        "token": "col",
+        "signature": "clo",
+        "length": 3
+      },
+      {
+        "token": "repousser",
+        "signature": "eoprsu",
+        "length": 9
+      },
+      {
+        "token": "tirent",
+        "signature": "einrt",
+        "length": 6
+      },
+      {
+        "token": "tuyaux",
+        "signature": "atuxy",
+        "length": 6
+      },
+      {
+        "token": "boucher",
+        "signature": "bcehoru",
+        "length": 7
+      },
+      {
+        "token": "inconscient",
+        "signature": "ceinost",
+        "length": 11
+      },
+      {
+        "token": "traitée",
+        "signature": "aeéirt",
+        "length": 7
+      },
+      {
+        "token": "éliminé",
+        "signature": "éilmn",
+        "length": 7
+      },
+      {
+        "token": "farce",
+        "signature": "acefr",
+        "length": 5
+      },
+      {
+        "token": "vainqueur",
+        "signature": "aeinqruv",
+        "length": 9
+      },
+      {
+        "token": "réplique",
+        "signature": "eéilpqru",
+        "length": 8
+      },
+      {
+        "token": "reverrai",
+        "signature": "aeirv",
+        "length": 8
+      },
+      {
+        "token": "levez",
+        "signature": "elvz",
+        "length": 5
+      },
+      {
+        "token": "manipuler",
+        "signature": "aeilmnpru",
+        "length": 9
+      },
+      {
+        "token": "améliorer",
+        "signature": "aeéilmor",
+        "length": 9
+      },
+      {
+        "token": "éternellement",
+        "signature": "eélmnrt",
+        "length": 13
+      },
+      {
+        "token": "séquence",
+        "signature": "ceénqsu",
+        "length": 8
+      },
+      {
+        "token": "cérébrale",
+        "signature": "abceélr",
+        "length": 9
+      },
+      {
+        "token": "reconnaissante",
+        "signature": "aceinorst",
+        "length": 14
+      },
+      {
+        "token": "forcée",
+        "signature": "ceéfor",
+        "length": 6
+      },
+      {
+        "token": "grenier",
+        "signature": "eginr",
+        "length": 7
+      },
+      {
+        "token": "arriverai",
+        "signature": "aeirv",
+        "length": 9
+      },
+      {
+        "token": "paiera",
+        "signature": "aeipr",
+        "length": 6
+      },
+      {
+        "token": "bouquin",
+        "signature": "binoqu",
+        "length": 7
+      },
+      {
+        "token": "remplacé",
+        "signature": "aceélmpr",
+        "length": 8
+      },
+      {
+        "token": "enchères",
+        "signature": "ceèhnrs",
+        "length": 8
+      },
+      {
+        "token": "tronche",
+        "signature": "cehnort",
+        "length": 7
+      },
+      {
+        "token": "conte",
+        "signature": "cenot",
+        "length": 5
+      },
+      {
+        "token": "parcours",
+        "signature": "acoprsu",
+        "length": 8
+      },
+      {
+        "token": "fondre",
+        "signature": "defnor",
+        "length": 6
+      },
+      {
+        "token": "infirmières",
+        "signature": "eèfimnrs",
+        "length": 11
+      },
+      {
+        "token": "mineurs",
+        "signature": "eimnrsu",
+        "length": 7
+      },
+      {
+        "token": "explosifs",
+        "signature": "efilopsx",
+        "length": 9
+      },
+      {
+        "token": "prit",
+        "signature": "iprt",
+        "length": 4
+      },
+      {
+        "token": "barman",
+        "signature": "abmnr",
+        "length": 6
+      },
+      {
+        "token": "danseuse",
+        "signature": "adensu",
+        "length": 8
+      },
+      {
+        "token": "avertir",
+        "signature": "aeirtv",
+        "length": 7
+      },
+      {
+        "token": "révérend",
+        "signature": "deénrv",
+        "length": 8
+      },
+      {
+        "token": "grossier",
+        "signature": "egiors",
+        "length": 8
+      },
+      {
+        "token": "camping",
+        "signature": "acgimnp",
+        "length": 7
+      },
+      {
+        "token": "conviction",
+        "signature": "cinotv",
+        "length": 10
+      },
+      {
+        "token": "fée",
+        "signature": "eéf",
+        "length": 3
+      },
+      {
+        "token": "générations",
+        "signature": "aéginorst",
+        "length": 11
+      },
+      {
+        "token": "chienne",
+        "signature": "cehin",
+        "length": 7
+      },
+      {
+        "token": "niveaux",
+        "signature": "aeinuvx",
+        "length": 7
+      },
+      {
+        "token": "saisis",
+        "signature": "ais",
+        "length": 6
+      },
+      {
+        "token": "dramatique",
+        "signature": "adeimqrtu",
+        "length": 10
+      },
+      {
+        "token": "sortais",
+        "signature": "aiorst",
+        "length": 7
+      },
+      {
+        "token": "concentre",
+        "signature": "cenort",
+        "length": 9
+      },
+      {
+        "token": "faciles",
+        "signature": "acefils",
+        "length": 7
+      },
+      {
+        "token": "grimper",
+        "signature": "egimpr",
+        "length": 7
+      },
+      {
+        "token": "réclame",
+        "signature": "aceélmr",
+        "length": 7
+      },
+      {
+        "token": "attaqués",
+        "signature": "aéqstu",
+        "length": 8
+      },
+      {
+        "token": "raccroche",
+        "signature": "acehor",
+        "length": 9
+      },
+      {
+        "token": "ressentez",
+        "signature": "enrstz",
+        "length": 9
+      },
+      {
+        "token": "patronne",
+        "signature": "aenoprt",
+        "length": 8
+      },
+      {
+        "token": "distraire",
+        "signature": "adeirst",
+        "length": 9
+      },
+      {
+        "token": "claque",
+        "signature": "acelqu",
+        "length": 6
+      },
+      {
+        "token": "embarrassant",
+        "signature": "abemnrst",
+        "length": 12
+      },
+      {
+        "token": "chiottes",
+        "signature": "cehiost",
+        "length": 8
+      },
+      {
+        "token": "radiations",
+        "signature": "adinorst",
+        "length": 10
+      },
+      {
+        "token": "boucles",
+        "signature": "bcelosu",
+        "length": 7
+      },
+      {
+        "token": "sécurisé",
+        "signature": "céirsu",
+        "length": 8
+      },
+      {
+        "token": "augmente",
+        "signature": "aegmntu",
+        "length": 8
+      },
+      {
+        "token": "déclenché",
+        "signature": "cdeéhln",
+        "length": 9
+      },
+      {
+        "token": "comparé",
+        "signature": "acémopr",
+        "length": 7
+      },
+      {
+        "token": "pensaient",
+        "signature": "aeinpst",
+        "length": 9
+      },
+      {
+        "token": "gentillesse",
+        "signature": "egilnst",
+        "length": 11
+      },
+      {
+        "token": "lisez",
+        "signature": "eilsz",
+        "length": 5
+      },
+      {
+        "token": "déchets",
+        "signature": "cdeéhst",
+        "length": 7
+      },
+      {
+        "token": "dispositif",
+        "signature": "dfiopst",
+        "length": 10
+      },
+      {
+        "token": "langues",
+        "signature": "aeglnsu",
+        "length": 7
+      },
+      {
+        "token": "valable",
+        "signature": "abelv",
+        "length": 7
+      },
+      {
+        "token": "roues",
+        "signature": "eorsu",
+        "length": 5
+      },
+      {
+        "token": "souhaiter",
+        "signature": "aehiorstu",
+        "length": 9
+      },
+      {
+        "token": "supermarché",
+        "signature": "aceéhmprsu",
+        "length": 11
+      },
+      {
+        "token": "vise",
+        "signature": "eisv",
+        "length": 4
+      },
+      {
+        "token": "rein",
+        "signature": "einr",
+        "length": 4
+      },
+      {
+        "token": "troupe",
+        "signature": "eoprtu",
+        "length": 6
+      },
+      {
+        "token": "patrie",
+        "signature": "aeiprt",
+        "length": 6
+      },
+      {
+        "token": "préoccupe",
+        "signature": "ceéopru",
+        "length": 9
+      },
+      {
+        "token": "surprenant",
+        "signature": "aenprstu",
+        "length": 10
+      },
+      {
+        "token": "profondeur",
+        "signature": "defnopru",
+        "length": 10
+      },
+      {
+        "token": "sembler",
+        "signature": "belmrs",
+        "length": 7
+      },
+      {
+        "token": "exige",
+        "signature": "egix",
+        "length": 5
+      },
+      {
+        "token": "battue",
+        "signature": "abetu",
+        "length": 6
+      },
+      {
+        "token": "détente",
+        "signature": "deént",
+        "length": 7
+      },
+      {
+        "token": "vivais",
+        "signature": "aisv",
+        "length": 6
+      },
+      {
+        "token": "lits",
+        "signature": "ilst",
+        "length": 4
+      },
+      {
+        "token": "moques",
+        "signature": "emoqsu",
+        "length": 6
+      },
+      {
+        "token": "réagi",
+        "signature": "aégir",
+        "length": 5
+      },
+      {
+        "token": "espions",
+        "signature": "einops",
+        "length": 7
+      },
+      {
+        "token": "engin",
+        "signature": "egin",
+        "length": 5
+      },
+      {
+        "token": "domestique",
+        "signature": "deimoqstu",
+        "length": 10
+      },
+      {
+        "token": "nounou",
+        "signature": "nou",
+        "length": 6
+      },
+      {
+        "token": "déclarer",
+        "signature": "acdeélr",
+        "length": 8
+      },
+      {
+        "token": "demandant",
+        "signature": "ademnt",
+        "length": 9
+      },
+      {
+        "token": "intéressée",
+        "signature": "eéinrst",
+        "length": 10
+      },
+      {
+        "token": "loge",
+        "signature": "eglo",
+        "length": 4
+      },
+      {
+        "token": "sexuelles",
+        "signature": "elsux",
+        "length": 9
+      },
+      {
+        "token": "brute",
+        "signature": "bertu",
+        "length": 5
+      },
+      {
+        "token": "gangs",
+        "signature": "agns",
+        "length": 5
+      },
+      {
+        "token": "participé",
+        "signature": "acéiprt",
+        "length": 9
+      },
+      {
+        "token": "transporter",
+        "signature": "aenoprst",
+        "length": 11
+      },
+      {
+        "token": "restons",
+        "signature": "enorst",
+        "length": 7
+      },
+      {
+        "token": "pressentiment",
+        "signature": "eimnprst",
+        "length": 13
+      },
+      {
+        "token": "guerres",
+        "signature": "egrsu",
+        "length": 7
+      },
+      {
+        "token": "présents",
+        "signature": "eénprst",
+        "length": 8
+      },
+      {
+        "token": "béton",
+        "signature": "bénot",
+        "length": 5
+      },
+      {
+        "token": "furieuse",
+        "signature": "efirsu",
+        "length": 8
+      },
+      {
+        "token": "augmenter",
+        "signature": "aegmnrtu",
+        "length": 9
+      },
+      {
+        "token": "commençait",
+        "signature": "acçeimnot",
+        "length": 10
+      },
+      {
+        "token": "matelas",
+        "signature": "aelmst",
+        "length": 7
+      },
+      {
+        "token": "enterrer",
+        "signature": "enrt",
+        "length": 8
+      },
+      {
+        "token": "désagréable",
+        "signature": "abdeéglrs",
+        "length": 11
+      },
+      {
+        "token": "accompagne",
+        "signature": "acegmnop",
+        "length": 10
+      },
+      {
+        "token": "comprendra",
+        "signature": "acdemnopr",
+        "length": 10
+      },
+      {
+        "token": "locaux",
+        "signature": "acloux",
+        "length": 6
+      },
+      {
+        "token": "hiver",
+        "signature": "ehirv",
+        "length": 5
+      },
+      {
+        "token": "informatique",
+        "signature": "aefimnoqrtu",
+        "length": 12
+      },
+      {
+        "token": "voyous",
+        "signature": "osuvy",
+        "length": 6
+      },
+      {
+        "token": "commençons",
+        "signature": "cçemnos",
+        "length": 10
+      },
+      {
+        "token": "déçue",
+        "signature": "çdeéu",
+        "length": 5
+      },
+      {
+        "token": "attire",
+        "signature": "aeirt",
+        "length": 6
+      },
+      {
+        "token": "finissent",
+        "signature": "efinst",
+        "length": 9
+      },
+      {
+        "token": "générateur",
+        "signature": "aeégnrtu",
+        "length": 10
+      },
+      {
+        "token": "provoque",
+        "signature": "eopqruv",
+        "length": 8
+      },
+      {
+        "token": "stopper",
+        "signature": "eoprst",
+        "length": 7
+      },
+      {
+        "token": "occupez",
+        "signature": "ceopuz",
+        "length": 7
+      },
+      {
+        "token": "radios",
+        "signature": "adiors",
+        "length": 6
+      },
+      {
+        "token": "déclencher",
+        "signature": "cdeéhlnr",
+        "length": 10
+      },
+      {
+        "token": "donnerait",
+        "signature": "adeinort",
+        "length": 9
+      },
+      {
+        "token": "démonstration",
+        "signature": "adéimnorst",
+        "length": 13
+      },
+      {
+        "token": "instable",
+        "signature": "abeilnst",
+        "length": 8
+      },
+      {
+        "token": "laissait",
+        "signature": "ailst",
+        "length": 8
+      },
+      {
+        "token": "sourit",
+        "signature": "iorstu",
+        "length": 6
+      },
+      {
+        "token": "éternel",
+        "signature": "eélnrt",
+        "length": 7
+      },
+      {
+        "token": "cargaison",
+        "signature": "acginors",
+        "length": 9
+      },
+      {
+        "token": "rasoir",
+        "signature": "aiors",
+        "length": 6
+      },
+      {
+        "token": "collé",
+        "signature": "célo",
+        "length": 5
+      },
+      {
+        "token": "sociétés",
+        "signature": "céiost",
+        "length": 8
+      },
+      {
+        "token": "vertu",
+        "signature": "ertuv",
+        "length": 5
+      },
+      {
+        "token": "formulaire",
+        "signature": "aefilmoru",
+        "length": 10
+      },
+      {
+        "token": "jouant",
+        "signature": "ajnotu",
+        "length": 6
+      },
+      {
+        "token": "publié",
+        "signature": "béilpu",
+        "length": 6
+      },
+      {
+        "token": "lourde",
+        "signature": "deloru",
+        "length": 6
+      },
+      {
+        "token": "tissus",
+        "signature": "istu",
+        "length": 6
+      },
+      {
+        "token": "branché",
+        "signature": "abcéhnr",
+        "length": 7
+      },
+      {
+        "token": "justifier",
+        "signature": "efijrstu",
+        "length": 9
+      },
+      {
+        "token": "spécialement",
+        "signature": "aceéilmnpst",
+        "length": 12
+      },
+      {
+        "token": "candidats",
+        "signature": "acdinst",
+        "length": 9
+      },
+      {
+        "token": "vidé",
+        "signature": "déiv",
+        "length": 4
+      },
+      {
+        "token": "jupe",
+        "signature": "ejpu",
+        "length": 4
+      },
+      {
+        "token": "saine",
+        "signature": "aeins",
+        "length": 5
+      },
+      {
+        "token": "fonctionnent",
+        "signature": "cefinot",
+        "length": 12
+      },
+      {
+        "token": "observer",
+        "signature": "beorsv",
+        "length": 8
+      },
+      {
+        "token": "tonnerre",
+        "signature": "enort",
+        "length": 8
+      },
+      {
+        "token": "vachement",
+        "signature": "acehmntv",
+        "length": 9
+      },
+      {
+        "token": "refuses",
+        "signature": "efrsu",
+        "length": 7
+      },
+      {
+        "token": "serrure",
+        "signature": "ersu",
+        "length": 7
+      },
+      {
+        "token": "honoré",
+        "signature": "éhnor",
+        "length": 6
+      },
+      {
+        "token": "obéir",
+        "signature": "béior",
+        "length": 5
+      },
+      {
+        "token": "cigare",
+        "signature": "acegir",
+        "length": 6
+      },
+      {
+        "token": "bec",
+        "signature": "bce",
+        "length": 3
+      },
+      {
+        "token": "moutons",
+        "signature": "mnostu",
+        "length": 7
+      },
+      {
+        "token": "selle",
+        "signature": "els",
+        "length": 5
+      },
+      {
+        "token": "mouillé",
+        "signature": "éilmou",
+        "length": 7
+      },
+      {
+        "token": "réservoir",
+        "signature": "eéiorsv",
+        "length": 9
+      },
+      {
+        "token": "renverser",
+        "signature": "enrsv",
+        "length": 9
+      },
+      {
+        "token": "souffrances",
+        "signature": "acefnorsu",
+        "length": 11
+      },
+      {
+        "token": "religieux",
+        "signature": "egilrux",
+        "length": 9
+      },
+      {
+        "token": "prudents",
+        "signature": "denprstu",
+        "length": 8
+      },
+      {
+        "token": "jolis",
+        "signature": "ijlos",
+        "length": 5
+      },
+      {
+        "token": "préserver",
+        "signature": "eéprsv",
+        "length": 9
+      },
+      {
+        "token": "recule",
+        "signature": "celru",
+        "length": 6
+      },
+      {
+        "token": "confirmation",
+        "signature": "acfimnort",
+        "length": 12
+      },
+      {
+        "token": "gratitude",
+        "signature": "adegirtu",
+        "length": 9
+      },
+      {
+        "token": "communications",
+        "signature": "acimnostu",
+        "length": 14
+      },
+      {
+        "token": "téléphonique",
+        "signature": "eéhilnopqtu",
+        "length": 12
+      },
+      {
+        "token": "plaisantais",
+        "signature": "ailnpst",
+        "length": 11
+      },
+      {
+        "token": "intervention",
+        "signature": "einortv",
+        "length": 12
+      },
+      {
+        "token": "mourrai",
+        "signature": "aimoru",
+        "length": 7
+      },
+      {
+        "token": "indien",
+        "signature": "dein",
+        "length": 6
+      },
+      {
+        "token": "détecteur",
+        "signature": "cdeértu",
+        "length": 9
+      },
+      {
+        "token": "caisses",
+        "signature": "aceis",
+        "length": 7
+      },
+      {
+        "token": "confidentiel",
+        "signature": "cdefilnot",
+        "length": 12
+      },
+      {
+        "token": "enseigner",
+        "signature": "eginrs",
+        "length": 9
+      },
+      {
+        "token": "débarrasse",
+        "signature": "abdeérs",
+        "length": 10
+      },
+      {
+        "token": "hélicoptère",
+        "signature": "ceéèhiloprt",
+        "length": 11
+      },
+      {
+        "token": "colonie",
+        "signature": "ceilno",
+        "length": 7
+      },
+      {
+        "token": "surmonter",
+        "signature": "emnorstu",
+        "length": 9
+      },
+      {
+        "token": "mairie",
+        "signature": "aeimr",
+        "length": 6
+      },
+      {
+        "token": "pige",
+        "signature": "egip",
+        "length": 4
+      },
+      {
+        "token": "inutiles",
+        "signature": "eilnstu",
+        "length": 8
+      },
+      {
+        "token": "cachés",
+        "signature": "acéhs",
+        "length": 6
+      },
+      {
+        "token": "examiné",
+        "signature": "aeéimnx",
+        "length": 7
+      },
+      {
+        "token": "fraude",
+        "signature": "adefru",
+        "length": 6
+      },
+      {
+        "token": "quant",
+        "signature": "anqtu",
+        "length": 5
+      },
+      {
+        "token": "tiendrai",
+        "signature": "adeinrt",
+        "length": 8
+      },
+      {
+        "token": "demandons",
+        "signature": "ademnos",
+        "length": 9
+      },
+      {
+        "token": "partait",
+        "signature": "aiprt",
+        "length": 7
+      },
+      {
+        "token": "ère",
+        "signature": "eèr",
+        "length": 3
+      },
+      {
+        "token": "rangs",
+        "signature": "agnrs",
+        "length": 5
+      },
+      {
+        "token": "respecté",
+        "signature": "ceéprst",
+        "length": 8
+      },
+      {
+        "token": "avalé",
+        "signature": "aélv",
+        "length": 5
+      },
+      {
+        "token": "séparation",
+        "signature": "aéinoprst",
+        "length": 10
+      },
+      {
+        "token": "achetée",
+        "signature": "aceéht",
+        "length": 7
+      },
+      {
+        "token": "inquiéter",
+        "signature": "eéinqrtu",
+        "length": 9
+      },
+      {
+        "token": "allumer",
+        "signature": "aelmru",
+        "length": 7
+      },
+      {
+        "token": "chimique",
+        "signature": "cehimqu",
+        "length": 8
+      },
+      {
+        "token": "disparus",
+        "signature": "adiprsu",
+        "length": 8
+      },
+      {
+        "token": "adorait",
+        "signature": "adiort",
+        "length": 7
+      },
+      {
+        "token": "endormie",
+        "signature": "deimnor",
+        "length": 8
+      },
+      {
+        "token": "isolé",
+        "signature": "éilos",
+        "length": 5
+      },
+      {
+        "token": "refusez",
+        "signature": "efrsuz",
+        "length": 7
+      },
+      {
+        "token": "mortelle",
+        "signature": "elmort",
+        "length": 8
+      },
+      {
+        "token": "amateur",
+        "signature": "aemrtu",
+        "length": 7
+      },
+      {
+        "token": "cavalier",
+        "signature": "aceilrv",
+        "length": 8
+      },
+      {
+        "token": "paille",
+        "signature": "aeilp",
+        "length": 6
+      },
+      {
+        "token": "draguer",
+        "signature": "adegru",
+        "length": 7
+      },
+      {
+        "token": "durée",
+        "signature": "deéru",
+        "length": 5
+      },
+      {
+        "token": "gardent",
+        "signature": "adegnrt",
+        "length": 7
+      },
+      {
+        "token": "représenter",
+        "signature": "eénprst",
+        "length": 11
+      },
+      {
+        "token": "saigner",
+        "signature": "aeginrs",
+        "length": 7
+      },
+      {
+        "token": "soupçons",
+        "signature": "çnopsu",
+        "length": 8
+      },
+      {
+        "token": "troupeau",
+        "signature": "aeoprtu",
+        "length": 8
+      },
+      {
+        "token": "coiffeur",
+        "signature": "cefioru",
+        "length": 8
+      },
+      {
+        "token": "enfoirés",
+        "signature": "eéfinors",
+        "length": 8
+      },
+      {
+        "token": "décédé",
+        "signature": "cdé",
+        "length": 6
+      },
+      {
+        "token": "rechercher",
+        "signature": "cehr",
+        "length": 10
+      },
+      {
+        "token": "commune",
+        "signature": "cemnou",
+        "length": 7
+      },
+      {
+        "token": "retiens",
+        "signature": "einrst",
+        "length": 7
+      },
+      {
+        "token": "apparu",
+        "signature": "apru",
+        "length": 6
+      },
+      {
+        "token": "étudiante",
+        "signature": "adeéintu",
+        "length": 9
+      },
+      {
+        "token": "favori",
+        "signature": "afiorv",
+        "length": 6
+      },
+      {
+        "token": "réserves",
+        "signature": "eérsv",
+        "length": 8
+      },
+      {
+        "token": "extérieur",
+        "signature": "eéirtux",
+        "length": 9
+      },
+      {
+        "token": "pré",
+        "signature": "épr",
+        "length": 3
+      },
+      {
+        "token": "éloigné",
+        "signature": "égilno",
+        "length": 7
+      },
+      {
+        "token": "intérieure",
+        "signature": "eéinrtu",
+        "length": 10
+      },
+      {
+        "token": "scolaire",
+        "signature": "aceilors",
+        "length": 8
+      },
+      {
+        "token": "mentale",
+        "signature": "aelmnt",
+        "length": 7
+      },
+      {
+        "token": "ruine",
+        "signature": "einru",
+        "length": 5
+      },
+      {
+        "token": "marchand",
+        "signature": "acdhmnr",
+        "length": 8
+      },
+      {
+        "token": "nage",
+        "signature": "aegn",
+        "length": 4
+      },
+      {
+        "token": "député",
+        "signature": "déptu",
+        "length": 6
+      },
+      {
+        "token": "jumelles",
+        "signature": "ejlmsu",
+        "length": 8
+      },
+      {
+        "token": "pointer",
+        "signature": "einoprt",
+        "length": 7
+      },
+      {
+        "token": "retournée",
+        "signature": "eénortu",
+        "length": 9
+      },
+      {
+        "token": "détestais",
+        "signature": "adeéist",
+        "length": 9
+      },
+      {
+        "token": "foirer",
+        "signature": "efior",
+        "length": 6
+      },
+      {
+        "token": "généralement",
+        "signature": "aeéglmnrt",
+        "length": 12
+      },
+      {
+        "token": "cerf",
+        "signature": "cefr",
+        "length": 4
+      },
+      {
+        "token": "aérienne",
+        "signature": "aeéinr",
+        "length": 8
+      },
+      {
+        "token": "raclée",
+        "signature": "aceélr",
+        "length": 6
+      },
+      {
+        "token": "curieuse",
+        "signature": "ceirsu",
+        "length": 8
+      },
+      {
+        "token": "signaux",
+        "signature": "aginsux",
+        "length": 7
+      },
+      {
+        "token": "dépasser",
+        "signature": "adeéprs",
+        "length": 8
+      },
+      {
+        "token": "récolte",
+        "signature": "ceélort",
+        "length": 7
+      },
+      {
+        "token": "nuls",
+        "signature": "lnsu",
+        "length": 4
+      },
+      {
+        "token": "interrogatoire",
+        "signature": "aeginort",
+        "length": 14
+      },
+      {
+        "token": "décides",
+        "signature": "cdeéis",
+        "length": 7
+      },
+      {
+        "token": "alimentaire",
+        "signature": "aeilmnrt",
+        "length": 11
+      },
+      {
+        "token": "légèrement",
+        "signature": "eéèglmnrt",
+        "length": 10
+      },
+      {
+        "token": "graisse",
+        "signature": "aegirs",
+        "length": 7
+      },
+      {
+        "token": "arracher",
+        "signature": "acehr",
+        "length": 8
+      },
+      {
+        "token": "physiquement",
+        "signature": "ehimnpqstuy",
+        "length": 12
+      },
+      {
+        "token": "ingénieur",
+        "signature": "eéginru",
+        "length": 9
+      },
+      {
+        "token": "rebelle",
+        "signature": "belr",
+        "length": 7
+      },
+      {
+        "token": "paient",
+        "signature": "aeinpt",
+        "length": 6
+      },
+      {
+        "token": "développé",
+        "signature": "deélopv",
+        "length": 9
+      },
+      {
+        "token": "risquez",
+        "signature": "eiqrsuz",
+        "length": 7
+      },
+      {
+        "token": "éveillé",
+        "signature": "eéilv",
+        "length": 7
+      },
+      {
+        "token": "apprends",
+        "signature": "adenprs",
+        "length": 8
+      },
+      {
+        "token": "coopération",
+        "signature": "acéinoprt",
+        "length": 11
+      },
+      {
+        "token": "maudite",
+        "signature": "adeimtu",
+        "length": 7
+      },
+      {
+        "token": "remplis",
+        "signature": "eilmprs",
+        "length": 7
+      },
+      {
+        "token": "chimiques",
+        "signature": "cehimqsu",
+        "length": 9
+      },
+      {
+        "token": "réacteur",
+        "signature": "aceértu",
+        "length": 8
+      },
+      {
+        "token": "casquette",
+        "signature": "aceqstu",
+        "length": 9
+      },
+      {
+        "token": "éternité",
+        "signature": "eéinrt",
+        "length": 8
+      },
+      {
+        "token": "calculs",
+        "signature": "aclsu",
+        "length": 7
+      },
+      {
+        "token": "pacte",
+        "signature": "acept",
+        "length": 5
+      },
+      {
+        "token": "publier",
+        "signature": "beilpru",
+        "length": 7
+      },
+      {
+        "token": "démissionne",
+        "signature": "deéimnos",
+        "length": 11
+      },
+      {
+        "token": "touristes",
+        "signature": "eiorstu",
+        "length": 9
+      },
+      {
+        "token": "croisés",
+        "signature": "céiors",
+        "length": 7
+      },
+      {
+        "token": "montrerai",
+        "signature": "aeimnort",
+        "length": 9
+      },
+      {
+        "token": "neuve",
+        "signature": "enuv",
+        "length": 5
+      },
+      {
+        "token": "rhume",
+        "signature": "ehmru",
+        "length": 5
+      },
+      {
+        "token": "morphine",
+        "signature": "ehimnopr",
+        "length": 8
+      },
+      {
+        "token": "gilet",
+        "signature": "egilt",
+        "length": 5
+      },
+      {
+        "token": "renseigner",
+        "signature": "eginrs",
+        "length": 10
+      },
+      {
+        "token": "étude",
+        "signature": "deétu",
+        "length": 5
+      },
+      {
+        "token": "transférer",
+        "signature": "aeéfnrst",
+        "length": 10
+      },
+      {
+        "token": "confusion",
+        "signature": "cfinosu",
+        "length": 9
+      },
+      {
+        "token": "folles",
+        "signature": "eflos",
+        "length": 6
+      },
+      {
+        "token": "dépenses",
+        "signature": "deénps",
+        "length": 8
+      },
+      {
+        "token": "psychiatrique",
+        "signature": "acehipqrstuy",
+        "length": 13
+      },
+      {
+        "token": "antécédents",
+        "signature": "acdeénst",
+        "length": 11
+      },
+      {
+        "token": "soulagement",
+        "signature": "aeglmnostu",
+        "length": 11
+      },
+      {
+        "token": "janvier",
+        "signature": "aeijnrv",
+        "length": 7
+      },
+      {
+        "token": "viendras",
+        "signature": "adeinrsv",
+        "length": 8
+      },
+      {
+        "token": "perdent",
+        "signature": "denprt",
+        "length": 7
+      },
+      {
+        "token": "correspondance",
+        "signature": "acdenoprs",
+        "length": 14
+      },
+      {
+        "token": "sacrifices",
+        "signature": "acefirs",
+        "length": 10
+      },
+      {
+        "token": "espoirs",
+        "signature": "eioprs",
+        "length": 7
+      },
+      {
+        "token": "volontaires",
+        "signature": "aeilnorstv",
+        "length": 11
+      },
+      {
+        "token": "litres",
+        "signature": "eilrst",
+        "length": 6
+      },
+      {
+        "token": "zombies",
+        "signature": "beimosz",
+        "length": 7
+      },
+      {
+        "token": "formé",
+        "signature": "éfmor",
+        "length": 5
+      },
+      {
+        "token": "missions",
+        "signature": "imnos",
+        "length": 8
+      },
+      {
+        "token": "conditionnelle",
+        "signature": "cdeilnot",
+        "length": 14
+      },
+      {
+        "token": "faillite",
+        "signature": "aefilt",
+        "length": 8
+      },
+      {
+        "token": "pensions",
+        "signature": "einops",
+        "length": 8
+      },
+      {
+        "token": "agressé",
+        "signature": "aeégrs",
+        "length": 7
+      },
+      {
+        "token": "championnat",
+        "signature": "achimnopt",
+        "length": 11
+      },
+      {
+        "token": "privilège",
+        "signature": "eègilprv",
+        "length": 9
+      },
+      {
+        "token": "tuant",
+        "signature": "antu",
+        "length": 5
+      },
+      {
+        "token": "comique",
+        "signature": "ceimoqu",
+        "length": 7
+      },
+      {
+        "token": "existent",
+        "signature": "einstx",
+        "length": 8
+      },
+      {
+        "token": "intelligents",
+        "signature": "egilnst",
+        "length": 12
+      },
+      {
+        "token": "pourboire",
+        "signature": "beiopru",
+        "length": 9
+      },
+      {
+        "token": "stand",
+        "signature": "adnst",
+        "length": 5
+      },
+      {
+        "token": "cachent",
+        "signature": "acehnt",
+        "length": 7
+      },
+      {
+        "token": "compliquée",
+        "signature": "ceéilmopqu",
+        "length": 10
+      },
+      {
+        "token": "chauffer",
+        "signature": "acefhru",
+        "length": 8
+      },
+      {
+        "token": "comparer",
+        "signature": "acemopr",
+        "length": 8
+      },
+      {
+        "token": "distributeur",
+        "signature": "bdeirstu",
+        "length": 12
+      },
+      {
+        "token": "commençais",
+        "signature": "acçeimnos",
+        "length": 10
+      },
+      {
+        "token": "dessiner",
+        "signature": "deinrs",
+        "length": 8
+      },
+      {
+        "token": "fracture",
+        "signature": "acefrtu",
+        "length": 8
+      },
+      {
+        "token": "raccrocher",
+        "signature": "acehor",
+        "length": 10
+      },
+      {
+        "token": "assassins",
+        "signature": "ains",
+        "length": 9
+      },
+      {
+        "token": "balcon",
+        "signature": "abclno",
+        "length": 6
+      },
+      {
+        "token": "devront",
+        "signature": "denortv",
+        "length": 7
+      },
+      {
+        "token": "équipement",
+        "signature": "eéimnpqtu",
+        "length": 10
+      },
+      {
+        "token": "dorment",
+        "signature": "demnort",
+        "length": 7
+      },
+      {
+        "token": "rideau",
+        "signature": "adeiru",
+        "length": 6
+      },
+      {
+        "token": "abandonne",
+        "signature": "abdeno",
+        "length": 9
+      },
+      {
+        "token": "vivra",
+        "signature": "airv",
+        "length": 5
+      },
+      {
+        "token": "trajectoire",
+        "signature": "aceijort",
+        "length": 11
+      },
+      {
+        "token": "fauché",
+        "signature": "acéfhu",
+        "length": 6
+      },
+      {
+        "token": "regrets",
+        "signature": "egrst",
+        "length": 7
+      },
+      {
+        "token": "lessive",
+        "signature": "eilsv",
+        "length": 7
+      },
+      {
+        "token": "réaliste",
+        "signature": "aeéilrst",
+        "length": 8
+      },
+      {
+        "token": "économies",
+        "signature": "ceéimnos",
+        "length": 9
+      },
+      {
+        "token": "sombres",
+        "signature": "bemors",
+        "length": 7
+      },
+      {
+        "token": "mouches",
+        "signature": "cehmosu",
+        "length": 7
+      },
+      {
+        "token": "évite",
+        "signature": "eéitv",
+        "length": 5
+      },
+      {
+        "token": "vapeur",
+        "signature": "aepruv",
+        "length": 6
+      },
+      {
+        "token": "exécuté",
+        "signature": "ceétux",
+        "length": 7
+      },
+      {
+        "token": "planètes",
+        "signature": "aeèlnpst",
+        "length": 8
+      },
+      {
+        "token": "débarquer",
+        "signature": "abdeéqru",
+        "length": 9
+      },
+      {
+        "token": "remords",
+        "signature": "demors",
+        "length": 7
+      },
+      {
+        "token": "tuerais",
+        "signature": "aeirstu",
+        "length": 7
+      },
+      {
+        "token": "destiné",
+        "signature": "deéinst",
+        "length": 7
+      },
+      {
+        "token": "gratte",
+        "signature": "aegrt",
+        "length": 6
+      },
+      {
+        "token": "mineur",
+        "signature": "eimnru",
+        "length": 6
+      },
+      {
+        "token": "banane",
+        "signature": "aben",
+        "length": 6
+      },
+      {
+        "token": "bisou",
+        "signature": "biosu",
+        "length": 5
+      },
+      {
+        "token": "glaces",
+        "signature": "acegls",
+        "length": 6
+      },
+      {
+        "token": "inscrit",
+        "signature": "cinrst",
+        "length": 7
+      },
+      {
+        "token": "séduire",
+        "signature": "deéirsu",
+        "length": 7
+      },
+      {
+        "token": "messe",
+        "signature": "ems",
+        "length": 5
+      },
+      {
+        "token": "unes",
+        "signature": "ensu",
+        "length": 4
+      },
+      {
+        "token": "directe",
+        "signature": "cdeirt",
+        "length": 7
+      },
+      {
+        "token": "traquer",
+        "signature": "aeqrtu",
+        "length": 7
+      },
+      {
+        "token": "coulé",
+        "signature": "célou",
+        "length": 5
+      },
+      {
+        "token": "recours",
+        "signature": "ceorsu",
+        "length": 7
+      },
+      {
+        "token": "artistique",
+        "signature": "aeiqrstu",
+        "length": 10
+      },
+      {
+        "token": "financier",
+        "signature": "acefinr",
+        "length": 9
+      },
+      {
+        "token": "surprend",
+        "signature": "denprsu",
+        "length": 8
+      },
+      {
+        "token": "utilisez",
+        "signature": "eilstuz",
+        "length": 8
+      },
+      {
+        "token": "courageuse",
+        "signature": "acegorsu",
+        "length": 10
+      },
+      {
+        "token": "suggéré",
+        "signature": "égrsu",
+        "length": 7
+      },
+      {
+        "token": "diversion",
+        "signature": "deinorsv",
+        "length": 9
+      },
+      {
+        "token": "anglaise",
+        "signature": "aegilns",
+        "length": 8
+      },
+      {
+        "token": "aveux",
+        "signature": "aeuvx",
+        "length": 5
+      },
+      {
+        "token": "fonctionné",
+        "signature": "céfinot",
+        "length": 10
+      },
+      {
+        "token": "pouvions",
+        "signature": "inopsuv",
+        "length": 8
+      },
+      {
+        "token": "patates",
+        "signature": "aepst",
+        "length": 7
+      },
+      {
+        "token": "entendus",
+        "signature": "denstu",
+        "length": 8
+      },
+      {
+        "token": "culot",
+        "signature": "clotu",
+        "length": 5
+      },
+      {
+        "token": "entreprises",
+        "signature": "einprst",
+        "length": 11
+      },
+      {
+        "token": "pète",
+        "signature": "eèpt",
+        "length": 4
+      },
+      {
+        "token": "grandit",
+        "signature": "adginrt",
+        "length": 7
+      },
+      {
+        "token": "raide",
+        "signature": "adeir",
+        "length": 5
+      },
+      {
+        "token": "assassinée",
+        "signature": "aeéins",
+        "length": 10
+      },
+      {
+        "token": "échanger",
+        "signature": "aceéghnr",
+        "length": 8
+      },
+      {
+        "token": "certificat",
+        "signature": "acefirt",
+        "length": 10
+      },
+      {
+        "token": "volent",
+        "signature": "elnotv",
+        "length": 6
+      },
+      {
+        "token": "véhicules",
+        "signature": "ceéhilsuv",
+        "length": 9
+      },
+      {
+        "token": "lapins",
+        "signature": "ailnps",
+        "length": 6
+      },
+      {
+        "token": "sciences",
+        "signature": "ceins",
+        "length": 8
+      },
+      {
+        "token": "traumatisme",
+        "signature": "aeimrstu",
+        "length": 11
+      },
+      {
+        "token": "modèles",
+        "signature": "deèlmos",
+        "length": 7
+      },
+      {
+        "token": "claires",
+        "signature": "aceilrs",
+        "length": 7
+      },
+      {
+        "token": "piloter",
+        "signature": "eiloprt",
+        "length": 7
+      },
+      {
+        "token": "exprimer",
+        "signature": "eimprx",
+        "length": 8
+      },
+      {
+        "token": "donneur",
+        "signature": "denoru",
+        "length": 7
+      },
+      {
+        "token": "répondeur",
+        "signature": "deénopru",
+        "length": 9
+      },
+      {
+        "token": "envoient",
+        "signature": "einotv",
+        "length": 8
+      },
+      {
+        "token": "travaillant",
+        "signature": "ailnrtv",
+        "length": 11
+      },
+      {
+        "token": "costaud",
+        "signature": "acdostu",
+        "length": 7
+      },
+      {
+        "token": "matins",
+        "signature": "aimnst",
+        "length": 6
+      },
+      {
+        "token": "protégée",
+        "signature": "eégoprt",
+        "length": 8
+      },
+      {
+        "token": "psychologique",
+        "signature": "ceghilopqsuy",
+        "length": 13
+      },
+      {
+        "token": "utiles",
+        "signature": "eilstu",
+        "length": 6
+      },
+      {
+        "token": "décrocher",
+        "signature": "cdeéhor",
+        "length": 9
+      }
+    ]
+  }
+}

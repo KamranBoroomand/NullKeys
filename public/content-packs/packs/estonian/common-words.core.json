@@ -1,0 +1,3626 @@
+{
+  "packId": "estonian:common-words:core",
+  "languageId": "estonian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "olema",
+        "signature": "aelmo",
+        "length": 5
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "tema",
+        "signature": "aemt",
+        "length": 4
+      },
+      {
+        "token": "see",
+        "signature": "es",
+        "length": 3
+      },
+      {
+        "token": "mina",
+        "signature": "aimn",
+        "length": 4
+      },
+      {
+        "token": "ei",
+        "signature": "ei",
+        "length": 2
+      },
+      {
+        "token": "et",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "kui",
+        "signature": "iku",
+        "length": 3
+      },
+      {
+        "token": "mis",
+        "signature": "ims",
+        "length": 3
+      },
+      {
+        "token": "ka",
+        "signature": "ak",
+        "length": 2
+      },
+      {
+        "token": "saama",
+        "signature": "ams",
+        "length": 5
+      },
+      {
+        "token": "oma",
+        "signature": "amo",
+        "length": 3
+      },
+      {
+        "token": "aga",
+        "signature": "ag",
+        "length": 3
+      },
+      {
+        "token": "sina",
+        "signature": "ains",
+        "length": 4
+      },
+      {
+        "token": "ise",
+        "signature": "eis",
+        "length": 3
+      },
+      {
+        "token": "siis",
+        "signature": "is",
+        "length": 4
+      },
+      {
+        "token": "ning",
+        "signature": "gin",
+        "length": 4
+      },
+      {
+        "token": "kes",
+        "signature": "eks",
+        "length": 3
+      },
+      {
+        "token": "tulema",
+        "signature": "aelmtu",
+        "length": 6
+      },
+      {
+        "token": "pidama",
+        "signature": "adimp",
+        "length": 6
+      },
+      {
+        "token": "ütlema",
+        "signature": "aelmtü",
+        "length": 6
+      },
+      {
+        "token": "üks",
+        "signature": "ksü",
+        "length": 3
+      },
+      {
+        "token": "nii",
+        "signature": "in",
+        "length": 3
+      },
+      {
+        "token": "tegema",
+        "signature": "aegmt",
+        "length": 6
+      },
+      {
+        "token": "või",
+        "signature": "iõv",
+        "length": 3
+      },
+      {
+        "token": "aasta",
+        "signature": "ast",
+        "length": 5
+      },
+      {
+        "token": "kõik",
+        "signature": "ikõ",
+        "length": 4
+      },
+      {
+        "token": "minema",
+        "signature": "aeimn",
+        "length": 6
+      },
+      {
+        "token": "võima",
+        "signature": "aimõv",
+        "length": 5
+      },
+      {
+        "token": "nagu",
+        "signature": "agnu",
+        "length": 4
+      },
+      {
+        "token": "veel",
+        "signature": "elv",
+        "length": 4
+      },
+      {
+        "token": "teine",
+        "signature": "eint",
+        "length": 5
+      },
+      {
+        "token": "jääma",
+        "signature": "aäjm",
+        "length": 5
+      },
+      {
+        "token": "mees",
+        "signature": "ems",
+        "length": 4
+      },
+      {
+        "token": "aeg",
+        "signature": "aeg",
+        "length": 3
+      },
+      {
+        "token": "kuid",
+        "signature": "diku",
+        "length": 4
+      },
+      {
+        "token": "teadma",
+        "signature": "ademt",
+        "length": 6
+      },
+      {
+        "token": "võtma",
+        "signature": "amõtv",
+        "length": 5
+      },
+      {
+        "token": "kas",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "miski",
+        "signature": "ikms",
+        "length": 5
+      },
+      {
+        "token": "inimene",
+        "signature": "eimn",
+        "length": 7
+      },
+      {
+        "token": "juba",
+        "signature": "abju",
+        "length": 4
+      },
+      {
+        "token": "hakkama",
+        "signature": "ahkm",
+        "length": 7
+      },
+      {
+        "token": "andma",
+        "signature": "admn",
+        "length": 5
+      },
+      {
+        "token": "välja",
+        "signature": "aäjlv",
+        "length": 5
+      },
+      {
+        "token": "ära",
+        "signature": "aär",
+        "length": 3
+      },
+      {
+        "token": "nägema",
+        "signature": "aäegmn",
+        "length": 6
+      },
+      {
+        "token": "tahtma",
+        "signature": "ahmt",
+        "length": 6
+      },
+      {
+        "token": "nüüd",
+        "signature": "dnü",
+        "length": 4
+      },
+      {
+        "token": "suur",
+        "signature": "rsu",
+        "length": 4
+      },
+      {
+        "token": "üle",
+        "signature": "elü",
+        "length": 3
+      },
+      {
+        "token": "sest",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "mitte",
+        "signature": "eimt",
+        "length": 5
+      },
+      {
+        "token": "sõna",
+        "signature": "anõs",
+        "length": 4
+      },
+      {
+        "token": "vaid",
+        "signature": "adiv",
+        "length": 4
+      },
+      {
+        "token": "kaks",
+        "signature": "aks",
+        "length": 4
+      },
+      {
+        "token": "kord",
+        "signature": "dkor",
+        "length": 4
+      },
+      {
+        "token": "naine",
+        "signature": "aein",
+        "length": 5
+      },
+      {
+        "token": "küll",
+        "signature": "klü",
+        "length": 4
+      },
+      {
+        "token": "mõni",
+        "signature": "imnõ",
+        "length": 4
+      },
+      {
+        "token": "palju",
+        "signature": "ajlpu",
+        "length": 5
+      },
+      {
+        "token": "pärast",
+        "signature": "aäprst",
+        "length": 6
+      },
+      {
+        "token": "vaatama",
+        "signature": "amtv",
+        "length": 7
+      },
+      {
+        "token": "vastu",
+        "signature": "astuv",
+        "length": 5
+      },
+      {
+        "token": "uus",
+        "signature": "su",
+        "length": 3
+      },
+      {
+        "token": "rääkima",
+        "signature": "aäikmr",
+        "length": 7
+      },
+      {
+        "token": "kus",
+        "signature": "ksu",
+        "length": 3
+      },
+      {
+        "token": "pool",
+        "signature": "lop",
+        "length": 4
+      },
+      {
+        "token": "enam",
+        "signature": "aemn",
+        "length": 4
+      },
+      {
+        "token": "käsi",
+        "signature": "äiks",
+        "length": 4
+      },
+      {
+        "token": "ainult",
+        "signature": "ailntu",
+        "length": 6
+      },
+      {
+        "token": "päev",
+        "signature": "äepv",
+        "length": 4
+      },
+      {
+        "token": "keegi",
+        "signature": "egik",
+        "length": 5
+      },
+      {
+        "token": "panema",
+        "signature": "aemnp",
+        "length": 6
+      },
+      {
+        "token": "jõudma",
+        "signature": "adjmõu",
+        "length": 6
+      },
+      {
+        "token": "eest",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "kroon",
+        "signature": "knor",
+        "length": 5
+      },
+      {
+        "token": "laps",
+        "signature": "alps",
+        "length": 4
+      },
+      {
+        "token": "iga",
+        "signature": "agi",
+        "length": 3
+      },
+      {
+        "token": "ju",
+        "signature": "ju",
+        "length": 2
+      },
+      {
+        "token": "asi",
+        "signature": "ais",
+        "length": 3
+      },
+      {
+        "token": "pea",
+        "signature": "aep",
+        "length": 3
+      },
+      {
+        "token": "käima",
+        "signature": "aäikm",
+        "length": 5
+      },
+      {
+        "token": "tagasi",
+        "signature": "agist",
+        "length": 6
+      },
+      {
+        "token": "esimene",
+        "signature": "eimns",
+        "length": 7
+      },
+      {
+        "token": "mõtlema",
+        "signature": "aelmõt",
+        "length": 7
+      },
+      {
+        "token": "riik",
+        "signature": "ikr",
+        "length": 4
+      },
+      {
+        "token": "tundma",
+        "signature": "admntu",
+        "length": 6
+      },
+      {
+        "token": "ega",
+        "signature": "aeg",
+        "length": 3
+      },
+      {
+        "token": "kuidas",
+        "signature": "adiksu",
+        "length": 6
+      },
+      {
+        "token": "peale",
+        "signature": "aelp",
+        "length": 5
+      },
+      {
+        "token": "väga",
+        "signature": "aägv",
+        "length": 4
+      },
+      {
+        "token": "silm",
+        "signature": "ilms",
+        "length": 4
+      },
+      {
+        "token": "siin",
+        "signature": "ins",
+        "length": 4
+      },
+      {
+        "token": "töö",
+        "signature": "öt",
+        "length": 3
+      },
+      {
+        "token": "leidma",
+        "signature": "adeilm",
+        "length": 6
+      },
+      {
+        "token": "mingi",
+        "signature": "gimn",
+        "length": 5
+      },
+      {
+        "token": "elu",
+        "signature": "elu",
+        "length": 3
+      },
+      {
+        "token": "arvama",
+        "signature": "amrv",
+        "length": 6
+      },
+      {
+        "token": "viimane",
+        "signature": "aeimnv",
+        "length": 7
+      },
+      {
+        "token": "selline",
+        "signature": "eilns",
+        "length": 7
+      },
+      {
+        "token": "hea",
+        "signature": "aeh",
+        "length": 3
+      },
+      {
+        "token": "läbi",
+        "signature": "äbil",
+        "length": 4
+      },
+      {
+        "token": "seal",
+        "signature": "aels",
+        "length": 4
+      },
+      {
+        "token": "küsima",
+        "signature": "aikmsü",
+        "length": 6
+      },
+      {
+        "token": "ikka",
+        "signature": "aik",
+        "length": 4
+      },
+      {
+        "token": "praegu",
+        "signature": "aegpru",
+        "length": 6
+      },
+      {
+        "token": "raha",
+        "signature": "ahr",
+        "length": 4
+      },
+      {
+        "token": "ette",
+        "signature": "et",
+        "length": 4
+      },
+      {
+        "token": "alla",
+        "signature": "al",
+        "length": 4
+      },
+      {
+        "token": "kolm",
+        "signature": "klmo",
+        "length": 4
+      },
+      {
+        "token": "kõige",
+        "signature": "egikõ",
+        "length": 5
+      },
+      {
+        "token": "enne",
+        "signature": "en",
+        "length": 4
+      },
+      {
+        "token": "just",
+        "signature": "jstu",
+        "length": 4
+      },
+      {
+        "token": "linn",
+        "signature": "iln",
+        "length": 4
+      },
+      {
+        "token": "kogu",
+        "signature": "gkou",
+        "length": 4
+      },
+      {
+        "token": "seisma",
+        "signature": "aeims",
+        "length": 6
+      },
+      {
+        "token": "tee",
+        "signature": "et",
+        "length": 3
+      },
+      {
+        "token": "rohkem",
+        "signature": "ehkmor",
+        "length": 6
+      },
+      {
+        "token": "sama",
+        "signature": "ams",
+        "length": 4
+      },
+      {
+        "token": "miljon",
+        "signature": "ijlmno",
+        "length": 6
+      },
+      {
+        "token": "jätma",
+        "signature": "aäjmt",
+        "length": 5
+      },
+      {
+        "token": "tooma",
+        "signature": "amot",
+        "length": 5
+      },
+      {
+        "token": "mõte",
+        "signature": "emõt",
+        "length": 4
+      },
+      {
+        "token": "elama",
+        "signature": "aelm",
+        "length": 5
+      },
+      {
+        "token": "viima",
+        "signature": "aimv",
+        "length": 5
+      },
+      {
+        "token": "ema",
+        "signature": "aem",
+        "length": 3
+      },
+      {
+        "token": "maja",
+        "signature": "ajm",
+        "length": 4
+      },
+      {
+        "token": "mitu",
+        "signature": "imtu",
+        "length": 4
+      },
+      {
+        "token": "miks",
+        "signature": "ikms",
+        "length": 4
+      },
+      {
+        "token": "ootama",
+        "signature": "amot",
+        "length": 6
+      },
+      {
+        "token": "kodu",
+        "signature": "dkou",
+        "length": 4
+      },
+      {
+        "token": "koht",
+        "signature": "hkot",
+        "length": 4
+      },
+      {
+        "token": "kokku",
+        "signature": "kou",
+        "length": 5
+      },
+      {
+        "token": "vana",
+        "signature": "anv",
+        "length": 4
+      },
+      {
+        "token": "väike",
+        "signature": "äeikv",
+        "length": 5
+      },
+      {
+        "token": "ees",
+        "signature": "es",
+        "length": 3
+      },
+      {
+        "token": "sõitma",
+        "signature": "aimõst",
+        "length": 6
+      },
+      {
+        "token": "istuma",
+        "signature": "aimstu",
+        "length": 6
+      },
+      {
+        "token": "juht",
+        "signature": "hjtu",
+        "length": 4
+      },
+      {
+        "token": "laskma",
+        "signature": "aklms",
+        "length": 6
+      },
+      {
+        "token": "maa",
+        "signature": "am",
+        "length": 3
+      },
+      {
+        "token": "osa",
+        "signature": "aos",
+        "length": 3
+      },
+      {
+        "token": "suutma",
+        "signature": "amstu",
+        "length": 6
+      },
+      {
+        "token": "all",
+        "signature": "al",
+        "length": 3
+      },
+      {
+        "token": "valitsus",
+        "signature": "ailstuv",
+        "length": 8
+      },
+      {
+        "token": "kuni",
+        "signature": "iknu",
+        "length": 4
+      },
+      {
+        "token": "koos",
+        "signature": "kos",
+        "length": 4
+      },
+      {
+        "token": "muu",
+        "signature": "mu",
+        "length": 3
+      },
+      {
+        "token": "juurde",
+        "signature": "dejru",
+        "length": 6
+      },
+      {
+        "token": "ehk",
+        "signature": "ehk",
+        "length": 3
+      },
+      {
+        "token": "nägu",
+        "signature": "ägnu",
+        "length": 4
+      },
+      {
+        "token": "poiss",
+        "signature": "iops",
+        "length": 5
+      },
+      {
+        "token": "kuulma",
+        "signature": "aklmu",
+        "length": 6
+      },
+      {
+        "token": "maksma",
+        "signature": "akms",
+        "length": 6
+      },
+      {
+        "token": "vahel",
+        "signature": "aehlv",
+        "length": 5
+      },
+      {
+        "token": "maailm",
+        "signature": "ailm",
+        "length": 6
+      },
+      {
+        "token": "keel",
+        "signature": "ekl",
+        "length": 4
+      },
+      {
+        "token": "eile",
+        "signature": "eil",
+        "length": 4
+      },
+      {
+        "token": "auto",
+        "signature": "aotu",
+        "length": 4
+      },
+      {
+        "token": "maha",
+        "signature": "ahm",
+        "length": 4
+      },
+      {
+        "token": "kohta",
+        "signature": "ahkot",
+        "length": 5
+      },
+      {
+        "token": "tõusma",
+        "signature": "amõstu",
+        "length": 6
+      },
+      {
+        "token": "muutuma",
+        "signature": "amtu",
+        "length": 7
+      },
+      {
+        "token": "kohe",
+        "signature": "ehko",
+        "length": 4
+      },
+      {
+        "token": "vastama",
+        "signature": "amstv",
+        "length": 7
+      },
+      {
+        "token": "võimalus",
+        "signature": "ailmõsuv",
+        "length": 8
+      },
+      {
+        "token": "uks",
+        "signature": "ksu",
+        "length": 3
+      },
+      {
+        "token": "vene",
+        "signature": "env",
+        "length": 4
+      },
+      {
+        "token": "võimalik",
+        "signature": "aiklmõv",
+        "length": 8
+      },
+      {
+        "token": "kirjutama",
+        "signature": "aijkmrtu",
+        "length": 9
+      },
+      {
+        "token": "edasi",
+        "signature": "adeis",
+        "length": 5
+      },
+      {
+        "token": "kinnitama",
+        "signature": "aikmnt",
+        "length": 9
+      },
+      {
+        "token": "kuu",
+        "signature": "ku",
+        "length": 3
+      },
+      {
+        "token": "püüdma",
+        "signature": "admpü",
+        "length": 6
+      },
+      {
+        "token": "astuma",
+        "signature": "amstu",
+        "length": 6
+      },
+      {
+        "token": "üles",
+        "signature": "elsü",
+        "length": 4
+      },
+      {
+        "token": "alles",
+        "signature": "aels",
+        "length": 5
+      },
+      {
+        "token": "kuigi",
+        "signature": "giku",
+        "length": 5
+      },
+      {
+        "token": "isa",
+        "signature": "ais",
+        "length": 3
+      },
+      {
+        "token": "noor",
+        "signature": "nor",
+        "length": 4
+      },
+      {
+        "token": "hoidma",
+        "signature": "adhimo",
+        "length": 6
+      },
+      {
+        "token": "näiteks",
+        "signature": "äeiknst",
+        "length": 7
+      },
+      {
+        "token": "sisse",
+        "signature": "eis",
+        "length": 5
+      },
+      {
+        "token": "pikk",
+        "signature": "ikp",
+        "length": 4
+      },
+      {
+        "token": "küsimus",
+        "signature": "ikmsuü",
+        "length": 7
+      },
+      {
+        "token": "hääl",
+        "signature": "ähl",
+        "length": 4
+      },
+      {
+        "token": "oskama",
+        "signature": "akmos",
+        "length": 6
+      },
+      {
+        "token": "suurem",
+        "signature": "emrsu",
+        "length": 6
+      },
+      {
+        "token": "aru",
+        "signature": "aru",
+        "length": 3
+      },
+      {
+        "token": "näitama",
+        "signature": "aäimnt",
+        "length": 7
+      },
+      {
+        "token": "tüdruk",
+        "signature": "dkrtuü",
+        "length": 6
+      },
+      {
+        "token": "nädal",
+        "signature": "aädln",
+        "length": 5
+      },
+      {
+        "token": "vesi",
+        "signature": "eisv",
+        "length": 4
+      },
+      {
+        "token": "jälle",
+        "signature": "äejl",
+        "length": 5
+      },
+      {
+        "token": "kasutama",
+        "signature": "akmstu",
+        "length": 8
+      },
+      {
+        "token": "lubama",
+        "signature": "ablmu",
+        "length": 6
+      },
+      {
+        "token": "parem",
+        "signature": "aempr",
+        "length": 5
+      },
+      {
+        "token": "ümber",
+        "signature": "bemrü",
+        "length": 5
+      },
+      {
+        "token": "muidugi",
+        "signature": "dgimu",
+        "length": 7
+      },
+      {
+        "token": "saatma",
+        "signature": "amst",
+        "length": 6
+      },
+      {
+        "token": "viis",
+        "signature": "isv",
+        "length": 4
+      },
+      {
+        "token": "lõpp",
+        "signature": "lõp",
+        "length": 4
+      },
+      {
+        "token": "lugema",
+        "signature": "aeglmu",
+        "length": 6
+      },
+      {
+        "token": "rahvas",
+        "signature": "ahrsv",
+        "length": 6
+      },
+      {
+        "token": "kunagi",
+        "signature": "agiknu",
+        "length": 6
+      },
+      {
+        "token": "lööma",
+        "signature": "almö",
+        "length": 5
+      },
+      {
+        "token": "ent",
+        "signature": "ent",
+        "length": 3
+      },
+      {
+        "token": "nimi",
+        "signature": "imn",
+        "length": 4
+      },
+      {
+        "token": "kinni",
+        "signature": "ikn",
+        "length": 5
+      },
+      {
+        "token": "kool",
+        "signature": "klo",
+        "length": 4
+      },
+      {
+        "token": "lisama",
+        "signature": "ailms",
+        "length": 6
+      },
+      {
+        "token": "hetk",
+        "signature": "ehkt",
+        "length": 4
+      },
+      {
+        "token": "jutt",
+        "signature": "jtu",
+        "length": 4
+      },
+      {
+        "token": "algama",
+        "signature": "aglm",
+        "length": 6
+      },
+      {
+        "token": "isegi",
+        "signature": "egis",
+        "length": 5
+      },
+      {
+        "token": "järgmine",
+        "signature": "äegijmnr",
+        "length": 8
+      },
+      {
+        "token": "paar",
+        "signature": "apr",
+        "length": 4
+      },
+      {
+        "token": "kell",
+        "signature": "ekl",
+        "length": 4
+      },
+      {
+        "token": "alati",
+        "signature": "ailt",
+        "length": 5
+      },
+      {
+        "token": "vaja",
+        "signature": "ajv",
+        "length": 4
+      },
+      {
+        "token": "meel",
+        "signature": "elm",
+        "length": 4
+      },
+      {
+        "token": "taga",
+        "signature": "agt",
+        "length": 4
+      },
+      {
+        "token": "tunduma",
+        "signature": "admntu",
+        "length": 7
+      },
+      {
+        "token": "too",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "juures",
+        "signature": "ejrsu",
+        "length": 6
+      },
+      {
+        "token": "ajama",
+        "signature": "ajm",
+        "length": 5
+      },
+      {
+        "token": "jalg",
+        "signature": "agjl",
+        "length": 4
+      },
+      {
+        "token": "pilk",
+        "signature": "iklp",
+        "length": 4
+      },
+      {
+        "token": "poole",
+        "signature": "elop",
+        "length": 5
+      },
+      {
+        "token": "hästi",
+        "signature": "ähist",
+        "length": 5
+      },
+      {
+        "token": "raske",
+        "signature": "aekrs",
+        "length": 5
+      },
+      {
+        "token": "kaasa",
+        "signature": "aks",
+        "length": 5
+      },
+      {
+        "token": "seadus",
+        "signature": "adesu",
+        "length": 6
+      },
+      {
+        "token": "tänav",
+        "signature": "aäntv",
+        "length": 5
+      },
+      {
+        "token": "õhtu",
+        "signature": "hõtu",
+        "length": 4
+      },
+      {
+        "token": "üldse",
+        "signature": "delsü",
+        "length": 5
+      },
+      {
+        "token": "täna",
+        "signature": "aänt",
+        "length": 4
+      },
+      {
+        "token": "liiga",
+        "signature": "agil",
+        "length": 5
+      },
+      {
+        "token": "president",
+        "signature": "deinprst",
+        "length": 9
+      },
+      {
+        "token": "eriti",
+        "signature": "eirt",
+        "length": 5
+      },
+      {
+        "token": "tähendama",
+        "signature": "aädehmnt",
+        "length": 9
+      },
+      {
+        "token": "ostma",
+        "signature": "amost",
+        "length": 5
+      },
+      {
+        "token": "kutsuma",
+        "signature": "akmstu",
+        "length": 7
+      },
+      {
+        "token": "firma",
+        "signature": "afimr",
+        "length": 5
+      },
+      {
+        "token": "otsustama",
+        "signature": "amostu",
+        "length": 9
+      },
+      {
+        "token": "tekkima",
+        "signature": "aeikmt",
+        "length": 7
+      },
+      {
+        "token": "ometi",
+        "signature": "eimot",
+        "length": 5
+      },
+      {
+        "token": "otsima",
+        "signature": "aimost",
+        "length": 6
+      },
+      {
+        "token": "samuti",
+        "signature": "aimstu",
+        "length": 6
+      },
+      {
+        "token": "hiljem",
+        "signature": "ehijlm",
+        "length": 6
+      },
+      {
+        "token": "avama",
+        "signature": "amv",
+        "length": 5
+      },
+      {
+        "token": "ilma",
+        "signature": "ailm",
+        "length": 4
+      },
+      {
+        "token": "peaaegu",
+        "signature": "aegpu",
+        "length": 7
+      },
+      {
+        "token": "õige",
+        "signature": "egiõ",
+        "length": 4
+      },
+      {
+        "token": "hoopis",
+        "signature": "hiops",
+        "length": 6
+      },
+      {
+        "token": "mööda",
+        "signature": "admö",
+        "length": 5
+      },
+      {
+        "token": "jah",
+        "signature": "ahj",
+        "length": 3
+      },
+      {
+        "token": "protsent",
+        "signature": "enoprst",
+        "length": 8
+      },
+      {
+        "token": "laud",
+        "signature": "adlu",
+        "length": 4
+      },
+      {
+        "token": "lihtsalt",
+        "signature": "ahilst",
+        "length": 8
+      },
+      {
+        "token": "tuba",
+        "signature": "abtu",
+        "length": 4
+      },
+      {
+        "token": "valge",
+        "signature": "aeglv",
+        "length": 5
+      },
+      {
+        "token": "täis",
+        "signature": "äist",
+        "length": 4
+      },
+      {
+        "token": "niisugune",
+        "signature": "eginsu",
+        "length": 9
+      },
+      {
+        "token": "pank",
+        "signature": "aknp",
+        "length": 4
+      },
+      {
+        "token": "järgi",
+        "signature": "ägijr",
+        "length": 5
+      },
+      {
+        "token": "järele",
+        "signature": "äejlr",
+        "length": 6
+      },
+      {
+        "token": "mängima",
+        "signature": "aägimn",
+        "length": 7
+      },
+      {
+        "token": "uskuma",
+        "signature": "akmsu",
+        "length": 6
+      },
+      {
+        "token": "riigikogu",
+        "signature": "gikoru",
+        "length": 9
+      },
+      {
+        "token": "nõudma",
+        "signature": "admnõu",
+        "length": 6
+      },
+      {
+        "token": "pakkuma",
+        "signature": "akmpu",
+        "length": 7
+      },
+      {
+        "token": "õigus",
+        "signature": "giõsu",
+        "length": 5
+      },
+      {
+        "token": "mõistma",
+        "signature": "aimõst",
+        "length": 7
+      },
+      {
+        "token": "liit",
+        "signature": "ilt",
+        "length": 4
+      },
+      {
+        "token": "tõstma",
+        "signature": "amõst",
+        "length": 6
+      },
+      {
+        "token": "esimees",
+        "signature": "eims",
+        "length": 7
+      },
+      {
+        "token": "sinna",
+        "signature": "ains",
+        "length": 5
+      },
+      {
+        "token": "tund",
+        "signature": "dntu",
+        "length": 4
+      },
+      {
+        "token": "selg",
+        "signature": "egls",
+        "length": 4
+      },
+      {
+        "token": "aitama",
+        "signature": "aimt",
+        "length": 6
+      },
+      {
+        "token": "liige",
+        "signature": "egil",
+        "length": 5
+      },
+      {
+        "token": "otsus",
+        "signature": "ostu",
+        "length": 5
+      },
+      {
+        "token": "varem",
+        "signature": "aemrv",
+        "length": 5
+      },
+      {
+        "token": "kuuluma",
+        "signature": "aklmu",
+        "length": 7
+      },
+      {
+        "token": "hommik",
+        "signature": "hikmo",
+        "length": 6
+      },
+      {
+        "token": "eesti",
+        "signature": "eist",
+        "length": 5
+      },
+      {
+        "token": "toimuma",
+        "signature": "aimotu",
+        "length": 7
+      },
+      {
+        "token": "paistma",
+        "signature": "aimpst",
+        "length": 7
+      },
+      {
+        "token": "raamat",
+        "signature": "amrt",
+        "length": 6
+      },
+      {
+        "token": "neli",
+        "signature": "eiln",
+        "length": 4
+      },
+      {
+        "token": "lugu",
+        "signature": "glu",
+        "length": 4
+      },
+      {
+        "token": "algus",
+        "signature": "aglsu",
+        "length": 5
+      },
+      {
+        "token": "siiski",
+        "signature": "iks",
+        "length": 6
+      },
+      {
+        "token": "tegelikult",
+        "signature": "egikltu",
+        "length": 10
+      },
+      {
+        "token": "hind",
+        "signature": "dhin",
+        "length": 4
+      },
+      {
+        "token": "soovima",
+        "signature": "aimosv",
+        "length": 7
+      },
+      {
+        "token": "lahti",
+        "signature": "ahilt",
+        "length": 5
+      },
+      {
+        "token": "olukord",
+        "signature": "dkloru",
+        "length": 7
+      },
+      {
+        "token": "jaoks",
+        "signature": "ajkos",
+        "length": 5
+      },
+      {
+        "token": "asuma",
+        "signature": "amsu",
+        "length": 5
+      },
+      {
+        "token": "lootma",
+        "signature": "almot",
+        "length": 6
+      },
+      {
+        "token": "endine",
+        "signature": "dein",
+        "length": 6
+      },
+      {
+        "token": "jooksul",
+        "signature": "jklosu",
+        "length": 7
+      },
+      {
+        "token": "kindel",
+        "signature": "deikln",
+        "length": 6
+      },
+      {
+        "token": "juhtuma",
+        "signature": "ahjmtu",
+        "length": 7
+      },
+      {
+        "token": "kaduma",
+        "signature": "adkmu",
+        "length": 6
+      },
+      {
+        "token": "põhjus",
+        "signature": "hjõpsu",
+        "length": 6
+      },
+      {
+        "token": "vähemalt",
+        "signature": "aäehlmtv",
+        "length": 8
+      },
+      {
+        "token": "aken",
+        "signature": "aekn",
+        "length": 4
+      },
+      {
+        "token": "ilmselt",
+        "signature": "eilmst",
+        "length": 7
+      },
+      {
+        "token": "kuhu",
+        "signature": "hku",
+        "length": 4
+      },
+      {
+        "token": "lõpuks",
+        "signature": "klõpsu",
+        "length": 6
+      },
+      {
+        "token": "tohtima",
+        "signature": "ahimot",
+        "length": 7
+      },
+      {
+        "token": "märkama",
+        "signature": "aäkmr",
+        "length": 7
+      },
+      {
+        "token": "terve",
+        "signature": "ertv",
+        "length": 5
+      },
+      {
+        "token": "võõras",
+        "signature": "aõrsv",
+        "length": 6
+      },
+      {
+        "token": "eestlane",
+        "signature": "aelnst",
+        "length": 8
+      },
+      {
+        "token": "töötama",
+        "signature": "amöt",
+        "length": 7
+      },
+      {
+        "token": "esitama",
+        "signature": "aeimst",
+        "length": 7
+      },
+      {
+        "token": "kandma",
+        "signature": "adkmn",
+        "length": 6
+      },
+      {
+        "token": "nõukogu",
+        "signature": "gknoõu",
+        "length": 7
+      },
+      {
+        "token": "samas",
+        "signature": "ams",
+        "length": 5
+      },
+      {
+        "token": "kuna",
+        "signature": "aknu",
+        "length": 4
+      },
+      {
+        "token": "mõlema",
+        "signature": "aelmõ",
+        "length": 6
+      },
+      {
+        "token": "umbes",
+        "signature": "bemsu",
+        "length": 5
+      },
+      {
+        "token": "vanem",
+        "signature": "aemnv",
+        "length": 5
+      },
+      {
+        "token": "tõmbama",
+        "signature": "abmõt",
+        "length": 7
+      },
+      {
+        "token": "must",
+        "signature": "mstu",
+        "length": 4
+      },
+      {
+        "token": "tegemine",
+        "signature": "egimnt",
+        "length": 8
+      },
+      {
+        "token": "tuli",
+        "signature": "iltu",
+        "length": 4
+      },
+      {
+        "token": "teatama",
+        "signature": "aemt",
+        "length": 7
+      },
+      {
+        "token": "huvi",
+        "signature": "hiuv",
+        "length": 4
+      },
+      {
+        "token": "probleem",
+        "signature": "belmopr",
+        "length": 8
+      },
+      {
+        "token": "eelmine",
+        "signature": "eilmn",
+        "length": 7
+      },
+      {
+        "token": "politsei",
+        "signature": "eilopst",
+        "length": 8
+      },
+      {
+        "token": "ülikool",
+        "signature": "ikloü",
+        "length": 7
+      },
+      {
+        "token": "suu",
+        "signature": "su",
+        "length": 3
+      },
+      {
+        "token": "valima",
+        "signature": "ailmv",
+        "length": 6
+      },
+      {
+        "token": "täiesti",
+        "signature": "äeist",
+        "length": 7
+      },
+      {
+        "token": "vist",
+        "signature": "istv",
+        "length": 4
+      },
+      {
+        "token": "tõesti",
+        "signature": "eiõst",
+        "length": 6
+      },
+      {
+        "token": "kümme",
+        "signature": "ekmü",
+        "length": 5
+      },
+      {
+        "token": "selge",
+        "signature": "egls",
+        "length": 5
+      },
+      {
+        "token": "milline",
+        "signature": "eilmn",
+        "length": 7
+      },
+      {
+        "token": "kolmas",
+        "signature": "aklmos",
+        "length": 6
+      },
+      {
+        "token": "alustama",
+        "signature": "almstu",
+        "length": 8
+      },
+      {
+        "token": "paluma",
+        "signature": "almpu",
+        "length": 6
+      },
+      {
+        "token": "kiri",
+        "signature": "ikr",
+        "length": 4
+      },
+      {
+        "token": "nimetama",
+        "signature": "aeimnt",
+        "length": 8
+      },
+      {
+        "token": "mäng",
+        "signature": "ägmn",
+        "length": 4
+      },
+      {
+        "token": "praegune",
+        "signature": "aegnpru",
+        "length": 8
+      },
+      {
+        "token": "tunnistama",
+        "signature": "aimnstu",
+        "length": 10
+      },
+      {
+        "token": "kindlasti",
+        "signature": "adiklnst",
+        "length": 9
+      },
+      {
+        "token": "kuulama",
+        "signature": "aklmu",
+        "length": 7
+      },
+      {
+        "token": "ilmuma",
+        "signature": "ailmu",
+        "length": 6
+      },
+      {
+        "token": "kartma",
+        "signature": "akmrt",
+        "length": 6
+      },
+      {
+        "token": "abi",
+        "signature": "abi",
+        "length": 3
+      },
+      {
+        "token": "pilt",
+        "signature": "ilpt",
+        "length": 4
+      },
+      {
+        "token": "jõud",
+        "signature": "djõu",
+        "length": 4
+      },
+      {
+        "token": "kohalik",
+        "signature": "ahiklo",
+        "length": 7
+      },
+      {
+        "token": "liikuma",
+        "signature": "aiklmu",
+        "length": 7
+      },
+      {
+        "token": "kust",
+        "signature": "kstu",
+        "length": 4
+      },
+      {
+        "token": "muutma",
+        "signature": "amtu",
+        "length": 6
+      },
+      {
+        "token": "punane",
+        "signature": "aenpu",
+        "length": 6
+      },
+      {
+        "token": "taas",
+        "signature": "ast",
+        "length": 4
+      },
+      {
+        "token": "äkki",
+        "signature": "äik",
+        "length": 4
+      },
+      {
+        "token": "selgitama",
+        "signature": "aegilmst",
+        "length": 9
+      },
+      {
+        "token": "tühi",
+        "signature": "hitü",
+        "length": 4
+      },
+      {
+        "token": "uuesti",
+        "signature": "eistu",
+        "length": 6
+      },
+      {
+        "token": "kõrval",
+        "signature": "aklõrv",
+        "length": 6
+      },
+      {
+        "token": "leping",
+        "signature": "egilnp",
+        "length": 6
+      },
+      {
+        "token": "veidi",
+        "signature": "deiv",
+        "length": 5
+      },
+      {
+        "token": "päris",
+        "signature": "äiprs",
+        "length": 5
+      },
+      {
+        "token": "õppima",
+        "signature": "aimõp",
+        "length": 6
+      },
+      {
+        "token": "kasvama",
+        "signature": "akmsv",
+        "length": 7
+      },
+      {
+        "token": "müüma",
+        "signature": "amü",
+        "length": 5
+      },
+      {
+        "token": "suvi",
+        "signature": "isuv",
+        "length": 4
+      },
+      {
+        "token": "lõpetama",
+        "signature": "aelmõpt",
+        "length": 8
+      },
+      {
+        "token": "hing",
+        "signature": "ghin",
+        "length": 4
+      },
+      {
+        "token": "tõttu",
+        "signature": "õtu",
+        "length": 5
+      },
+      {
+        "token": "vähem",
+        "signature": "äehmv",
+        "length": 5
+      },
+      {
+        "token": "sööma",
+        "signature": "amös",
+        "length": 5
+      },
+      {
+        "token": "aktsia",
+        "signature": "aikst",
+        "length": 6
+      },
+      {
+        "token": "olev",
+        "signature": "elov",
+        "length": 4
+      },
+      {
+        "token": "ajal",
+        "signature": "ajl",
+        "length": 4
+      },
+      {
+        "token": "pisut",
+        "signature": "ipstu",
+        "length": 5
+      },
+      {
+        "token": "suhe",
+        "signature": "ehsu",
+        "length": 4
+      },
+      {
+        "token": "üsna",
+        "signature": "ansü",
+        "length": 4
+      },
+      {
+        "token": "ilus",
+        "signature": "ilsu",
+        "length": 4
+      },
+      {
+        "token": "samm",
+        "signature": "ams",
+        "length": 4
+      },
+      {
+        "token": "sõber",
+        "signature": "beõrs",
+        "length": 5
+      },
+      {
+        "token": "jumal",
+        "signature": "ajlmu",
+        "length": 5
+      },
+      {
+        "token": "poeg",
+        "signature": "egop",
+        "length": 4
+      },
+      {
+        "token": "ikkagi",
+        "signature": "agik",
+        "length": 6
+      },
+      {
+        "token": "ligi",
+        "signature": "gil",
+        "length": 4
+      },
+      {
+        "token": "märkima",
+        "signature": "aäikmr",
+        "length": 7
+      },
+      {
+        "token": "tunne",
+        "signature": "entu",
+        "length": 5
+      },
+      {
+        "token": "valimine",
+        "signature": "aeilmnv",
+        "length": 8
+      },
+      {
+        "token": "kaotama",
+        "signature": "akmot",
+        "length": 7
+      },
+      {
+        "token": "siduma",
+        "signature": "adimsu",
+        "length": 6
+      },
+      {
+        "token": "tulemus",
+        "signature": "elmstu",
+        "length": 7
+      },
+      {
+        "token": "meeldima",
+        "signature": "adeilm",
+        "length": 8
+      },
+      {
+        "token": "siia",
+        "signature": "ais",
+        "length": 4
+      },
+      {
+        "token": "näima",
+        "signature": "aäimn",
+        "length": 5
+      },
+      {
+        "token": "surm",
+        "signature": "mrsu",
+        "length": 4
+      },
+      {
+        "token": "sattuma",
+        "signature": "amstu",
+        "length": 7
+      },
+      {
+        "token": "seni",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "pääsema",
+        "signature": "aäemps",
+        "length": 7
+      },
+      {
+        "token": "tegevus",
+        "signature": "egstuv",
+        "length": 7
+      },
+      {
+        "token": "tuhat",
+        "signature": "ahtu",
+        "length": 5
+      },
+      {
+        "token": "otsa",
+        "signature": "aost",
+        "length": 4
+      },
+      {
+        "token": "jooksma",
+        "signature": "ajkmos",
+        "length": 7
+      },
+      {
+        "token": "valmis",
+        "signature": "ailmsv",
+        "length": 6
+      },
+      {
+        "token": "erakond",
+        "signature": "adeknor",
+        "length": 7
+      },
+      {
+        "token": "langema",
+        "signature": "aeglmn",
+        "length": 7
+      },
+      {
+        "token": "süda",
+        "signature": "adsü",
+        "length": 4
+      },
+      {
+        "token": "erinev",
+        "signature": "einrv",
+        "length": 6
+      },
+      {
+        "token": "mäletama",
+        "signature": "aäelmt",
+        "length": 8
+      },
+      {
+        "token": "tuul",
+        "signature": "ltu",
+        "length": 4
+      },
+      {
+        "token": "kohus",
+        "signature": "hkosu",
+        "length": 5
+      },
+      {
+        "token": "puu",
+        "signature": "pu",
+        "length": 3
+      },
+      {
+        "token": "hinnang",
+        "signature": "aghin",
+        "length": 7
+      },
+      {
+        "token": "meri",
+        "signature": "eimr",
+        "length": 4
+      },
+      {
+        "token": "ringi",
+        "signature": "ginr",
+        "length": 5
+      },
+      {
+        "token": "sealt",
+        "signature": "aelst",
+        "length": 5
+      },
+      {
+        "token": "kuidagi",
+        "signature": "adgiku",
+        "length": 7
+      },
+      {
+        "token": "lahkuma",
+        "signature": "ahklmu",
+        "length": 7
+      },
+      {
+        "token": "piir",
+        "signature": "ipr",
+        "length": 4
+      },
+      {
+        "token": "täitma",
+        "signature": "aäimt",
+        "length": 6
+      },
+      {
+        "token": "andmed",
+        "signature": "ademn",
+        "length": 6
+      },
+      {
+        "token": "meenutama",
+        "signature": "aemntu",
+        "length": 9
+      },
+      {
+        "token": "mets",
+        "signature": "emst",
+        "length": 4
+      },
+      {
+        "token": "märts",
+        "signature": "ämrst",
+        "length": 5
+      },
+      {
+        "token": "sein",
+        "signature": "eins",
+        "length": 4
+      },
+      {
+        "token": "puhul",
+        "signature": "hlpu",
+        "length": 5
+      },
+      {
+        "token": "eks",
+        "signature": "eks",
+        "length": 3
+      },
+      {
+        "token": "lausuma",
+        "signature": "almsu",
+        "length": 7
+      },
+      {
+        "token": "looma",
+        "signature": "almo",
+        "length": 5
+      },
+      {
+        "token": "võitma",
+        "signature": "aimõtv",
+        "length": 6
+      },
+      {
+        "token": "magama",
+        "signature": "agm",
+        "length": 6
+      },
+      {
+        "token": "film",
+        "signature": "film",
+        "length": 4
+      },
+      {
+        "token": "töötaja",
+        "signature": "ajöt",
+        "length": 7
+      },
+      {
+        "token": "korraldama",
+        "signature": "adklmor",
+        "length": 10
+      },
+      {
+        "token": "heitma",
+        "signature": "aehimt",
+        "length": 6
+      },
+      {
+        "token": "peaminister",
+        "signature": "aeimnprst",
+        "length": 11
+      },
+      {
+        "token": "lõppema",
+        "signature": "aelmõp",
+        "length": 7
+      },
+      {
+        "token": "ehitama",
+        "signature": "aehimt",
+        "length": 7
+      },
+      {
+        "token": "jätkama",
+        "signature": "aäjkmt",
+        "length": 7
+      },
+      {
+        "token": "külm",
+        "signature": "klmü",
+        "length": 4
+      },
+      {
+        "token": "toetama",
+        "signature": "aemot",
+        "length": 7
+      },
+      {
+        "token": "järel",
+        "signature": "äejlr",
+        "length": 5
+      },
+      {
+        "token": "oluline",
+        "signature": "eilnou",
+        "length": 7
+      },
+      {
+        "token": "vastus",
+        "signature": "astuv",
+        "length": 6
+      },
+      {
+        "token": "öö",
+        "signature": "ö",
+        "length": 2
+      },
+      {
+        "token": "laev",
+        "signature": "aelv",
+        "length": 4
+      },
+      {
+        "token": "alus",
+        "signature": "alsu",
+        "length": 4
+      },
+      {
+        "token": "keha",
+        "signature": "aehk",
+        "length": 4
+      },
+      {
+        "token": "muidu",
+        "signature": "dimu",
+        "length": 5
+      },
+      {
+        "token": "uurima",
+        "signature": "aimru",
+        "length": 6
+      },
+      {
+        "token": "õnn",
+        "signature": "nõ",
+        "length": 3
+      },
+      {
+        "token": "juhataja",
+        "signature": "ahjtu",
+        "length": 8
+      },
+      {
+        "token": "kiiresti",
+        "signature": "eikrst",
+        "length": 8
+      },
+      {
+        "token": "vajama",
+        "signature": "ajmv",
+        "length": 6
+      },
+      {
+        "token": "amet",
+        "signature": "aemt",
+        "length": 4
+      },
+      {
+        "token": "ruum",
+        "signature": "mru",
+        "length": 4
+      },
+      {
+        "token": "nõnda",
+        "signature": "adnõ",
+        "length": 5
+      },
+      {
+        "token": "vaba",
+        "signature": "abv",
+        "length": 4
+      },
+      {
+        "token": "ainus",
+        "signature": "ainsu",
+        "length": 5
+      },
+      {
+        "token": "koer",
+        "signature": "ekor",
+        "length": 4
+      },
+      {
+        "token": "õhk",
+        "signature": "hkõ",
+        "length": 3
+      },
+      {
+        "token": "õpetaja",
+        "signature": "aejõpt",
+        "length": 7
+      },
+      {
+        "token": "kõrvale",
+        "signature": "aeklõrv",
+        "length": 7
+      },
+      {
+        "token": "vajalik",
+        "signature": "aijklv",
+        "length": 7
+      },
+      {
+        "token": "väitma",
+        "signature": "aäimtv",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "unenägu",
+        "signature": "äegnu",
+        "length": 7
+      },
+      {
+        "token": "üllatus",
+        "signature": "alstuü",
+        "length": 7
+      },
+      {
+        "token": "eksima",
+        "signature": "aeikms",
+        "length": 6
+      },
+      {
+        "token": "elus",
+        "signature": "elsu",
+        "length": 4
+      },
+      {
+        "token": "erinema",
+        "signature": "aeimnr",
+        "length": 7
+      },
+      {
+        "token": "etapp",
+        "signature": "aept",
+        "length": 5
+      },
+      {
+        "token": "järjekord",
+        "signature": "ädejkor",
+        "length": 9
+      },
+      {
+        "token": "kasulik",
+        "signature": "aiklsu",
+        "length": 7
+      },
+      {
+        "token": "kasvõi",
+        "signature": "aikõsv",
+        "length": 6
+      },
+      {
+        "token": "kontroll",
+        "signature": "klnort",
+        "length": 8
+      },
+      {
+        "token": "kuiv",
+        "signature": "ikuv",
+        "length": 4
+      },
+      {
+        "token": "loomulik",
+        "signature": "iklmou",
+        "length": 8
+      },
+      {
+        "token": "sosistama",
+        "signature": "aimost",
+        "length": 9
+      },
+      {
+        "token": "toimuv",
+        "signature": "imotuv",
+        "length": 6
+      },
+      {
+        "token": "tookord",
+        "signature": "dkort",
+        "length": 7
+      },
+      {
+        "token": "uurimine",
+        "signature": "eimnru",
+        "length": 8
+      },
+      {
+        "token": "vaev",
+        "signature": "aev",
+        "length": 4
+      },
+      {
+        "token": "ühinemine",
+        "signature": "ehimnü",
+        "length": 9
+      },
+      {
+        "token": "abielu",
+        "signature": "abeilu",
+        "length": 6
+      },
+      {
+        "token": "festival",
+        "signature": "aefilstv",
+        "length": 8
+      },
+      {
+        "token": "kallas",
+        "signature": "akls",
+        "length": 6
+      },
+      {
+        "token": "korralikult",
+        "signature": "aiklortu",
+        "length": 11
+      },
+      {
+        "token": "kurjategija",
+        "signature": "aegijkrtu",
+        "length": 11
+      },
+      {
+        "token": "kuskil",
+        "signature": "iklsu",
+        "length": 6
+      },
+      {
+        "token": "langetama",
+        "signature": "aeglmnt",
+        "length": 9
+      },
+      {
+        "token": "maal",
+        "signature": "alm",
+        "length": 4
+      },
+      {
+        "token": "muigama",
+        "signature": "agimu",
+        "length": 7
+      },
+      {
+        "token": "nuga",
+        "signature": "agnu",
+        "length": 4
+      },
+      {
+        "token": "omandama",
+        "signature": "admno",
+        "length": 8
+      },
+      {
+        "token": "peo",
+        "signature": "eop",
+        "length": 3
+      },
+      {
+        "token": "puhuma",
+        "signature": "ahmpu",
+        "length": 6
+      },
+      {
+        "token": "tajuma",
+        "signature": "ajmtu",
+        "length": 6
+      },
+      {
+        "token": "töökoht",
+        "signature": "hkoöt",
+        "length": 7
+      },
+      {
+        "token": "häirima",
+        "signature": "aähimr",
+        "length": 7
+      },
+      {
+        "token": "king",
+        "signature": "gikn",
+        "length": 4
+      },
+      {
+        "token": "kogema",
+        "signature": "aegkmo",
+        "length": 6
+      },
+      {
+        "token": "laut",
+        "signature": "altu",
+        "length": 4
+      },
+      {
+        "token": "lugeja",
+        "signature": "aegjlu",
+        "length": 6
+      },
+      {
+        "token": "lähemale",
+        "signature": "aäehlm",
+        "length": 8
+      },
+      {
+        "token": "peegel",
+        "signature": "eglp",
+        "length": 6
+      },
+      {
+        "token": "peitma",
+        "signature": "aeimpt",
+        "length": 6
+      },
+      {
+        "token": "pilet",
+        "signature": "eilpt",
+        "length": 5
+      },
+      {
+        "token": "pisar",
+        "signature": "aiprs",
+        "length": 5
+      },
+      {
+        "token": "rajama",
+        "signature": "ajmr",
+        "length": 6
+      },
+      {
+        "token": "teistsugune",
+        "signature": "eginstu",
+        "length": 11
+      },
+      {
+        "token": "tollal",
+        "signature": "alot",
+        "length": 6
+      },
+      {
+        "token": "viitama",
+        "signature": "aimtv",
+        "length": 7
+      },
+      {
+        "token": "võitlus",
+        "signature": "ilõstuv",
+        "length": 7
+      },
+      {
+        "token": "haridus",
+        "signature": "adhirsu",
+        "length": 7
+      },
+      {
+        "token": "joon",
+        "signature": "jno",
+        "length": 4
+      },
+      {
+        "token": "kaart",
+        "signature": "akrt",
+        "length": 5
+      },
+      {
+        "token": "kaaslane",
+        "signature": "aeklns",
+        "length": 8
+      },
+      {
+        "token": "kapten",
+        "signature": "aeknpt",
+        "length": 6
+      },
+      {
+        "token": "kergem",
+        "signature": "egkmr",
+        "length": 6
+      },
+      {
+        "token": "lahtine",
+        "signature": "aehilnt",
+        "length": 7
+      },
+      {
+        "token": "looming",
+        "signature": "gilmno",
+        "length": 7
+      },
+      {
+        "token": "osas",
+        "signature": "aos",
+        "length": 4
+      },
+      {
+        "token": "paras",
+        "signature": "aprs",
+        "length": 5
+      },
+      {
+        "token": "protsess",
+        "signature": "eoprst",
+        "length": 8
+      },
+      {
+        "token": "süüdi",
+        "signature": "disü",
+        "length": 5
+      },
+      {
+        "token": "edukas",
+        "signature": "adeksu",
+        "length": 6
+      },
+      {
+        "token": "juhtum",
+        "signature": "hjmtu",
+        "length": 6
+      },
+      {
+        "token": "käigus",
+        "signature": "ägiksu",
+        "length": 6
+      },
+      {
+        "token": "külastama",
+        "signature": "aklmstü",
+        "length": 9
+      },
+      {
+        "token": "levima",
+        "signature": "aeilmv",
+        "length": 6
+      },
+      {
+        "token": "majanduslik",
+        "signature": "adijklmnsu",
+        "length": 11
+      },
+      {
+        "token": "ohver",
+        "signature": "ehorv",
+        "length": 5
+      },
+      {
+        "token": "peatama",
+        "signature": "aempt",
+        "length": 7
+      },
+      {
+        "token": "professor",
+        "signature": "efoprs",
+        "length": 9
+      },
+      {
+        "token": "restoran",
+        "signature": "aenorst",
+        "length": 8
+      },
+      {
+        "token": "takistama",
+        "signature": "aikmst",
+        "length": 9
+      },
+      {
+        "token": "äär",
+        "signature": "är",
+        "length": 3
+      },
+      {
+        "token": "baar",
+        "signature": "abr",
+        "length": 4
+      },
+      {
+        "token": "demokraatlik",
+        "signature": "adeiklmort",
+        "length": 12
+      },
+      {
+        "token": "karistus",
+        "signature": "aikrstu",
+        "length": 8
+      },
+      {
+        "token": "kaugele",
+        "signature": "aegklu",
+        "length": 7
+      },
+      {
+        "token": "keeruline",
+        "signature": "eiklnru",
+        "length": 9
+      },
+      {
+        "token": "kohtama",
+        "signature": "ahkmot",
+        "length": 7
+      },
+      {
+        "token": "kuritegu",
+        "signature": "egikrtu",
+        "length": 8
+      },
+      {
+        "token": "kuub",
+        "signature": "bku",
+        "length": 4
+      },
+      {
+        "token": "lava",
+        "signature": "alv",
+        "length": 4
+      },
+      {
+        "token": "lavastaja",
+        "signature": "ajlstv",
+        "length": 9
+      },
+      {
+        "token": "linnaosa",
+        "signature": "ailnos",
+        "length": 8
+      },
+      {
+        "token": "mõis",
+        "signature": "imõs",
+        "length": 4
+      },
+      {
+        "token": "objekt",
+        "signature": "bejkot",
+        "length": 6
+      },
+      {
+        "token": "olemasolu",
+        "signature": "aelmosu",
+        "length": 9
+      },
+      {
+        "token": "purjus",
+        "signature": "jprsu",
+        "length": 6
+      },
+      {
+        "token": "pühkima",
+        "signature": "ahikmpü",
+        "length": 7
+      },
+      {
+        "token": "sealne",
+        "signature": "aelns",
+        "length": 6
+      },
+      {
+        "token": "soojus",
+        "signature": "josu",
+        "length": 6
+      },
+      {
+        "token": "vangla",
+        "signature": "aglnv",
+        "length": 6
+      },
+      {
+        "token": "viies",
+        "signature": "eisv",
+        "length": 5
+      },
+      {
+        "token": "aadress",
+        "signature": "aders",
+        "length": 7
+      },
+      {
+        "token": "kallim",
+        "signature": "aiklm",
+        "length": 6
+      },
+      {
+        "token": "kohati",
+        "signature": "ahikot",
+        "length": 6
+      },
+      {
+        "token": "liigutus",
+        "signature": "gilstu",
+        "length": 8
+      },
+      {
+        "token": "lipp",
+        "signature": "ilp",
+        "length": 4
+      },
+      {
+        "token": "meeldiv",
+        "signature": "deilmv",
+        "length": 7
+      },
+      {
+        "token": "oluliselt",
+        "signature": "eilostu",
+        "length": 9
+      },
+      {
+        "token": "omakorda",
+        "signature": "adkmor",
+        "length": 8
+      },
+      {
+        "token": "plika",
+        "signature": "aiklp",
+        "length": 5
+      },
+      {
+        "token": "poisike",
+        "signature": "eikops",
+        "length": 7
+      },
+      {
+        "token": "remont",
+        "signature": "emnort",
+        "length": 6
+      },
+      {
+        "token": "serv",
+        "signature": "ersv",
+        "length": 4
+      },
+      {
+        "token": "sisu",
+        "signature": "isu",
+        "length": 4
+      },
+      {
+        "token": "valama",
+        "signature": "almv",
+        "length": 6
+      },
+      {
+        "token": "väljak",
+        "signature": "aäjklv",
+        "length": 6
+      },
+      {
+        "token": "üritus",
+        "signature": "irstuü",
+        "length": 6
+      },
+      {
+        "token": "ennustama",
+        "signature": "aemnstu",
+        "length": 9
+      },
+      {
+        "token": "jäänud",
+        "signature": "ädjnu",
+        "length": 6
+      },
+      {
+        "token": "keelduma",
+        "signature": "adeklmu",
+        "length": 8
+      },
+      {
+        "token": "kraad",
+        "signature": "adkr",
+        "length": 5
+      },
+      {
+        "token": "lapsepõlv",
+        "signature": "aelõpsv",
+        "length": 9
+      },
+      {
+        "token": "liiv",
+        "signature": "ilv",
+        "length": 4
+      },
+      {
+        "token": "lõplikult",
+        "signature": "iklõptu",
+        "length": 9
+      },
+      {
+        "token": "piisama",
+        "signature": "aimps",
+        "length": 7
+      },
+      {
+        "token": "suurune",
+        "signature": "enrsu",
+        "length": 7
+      },
+      {
+        "token": "sõnum",
+        "signature": "mnõsu",
+        "length": 5
+      },
+      {
+        "token": "tehniline",
+        "signature": "ehilnt",
+        "length": 9
+      },
+      {
+        "token": "tihe",
+        "signature": "ehit",
+        "length": 4
+      },
+      {
+        "token": "tunnistus",
+        "signature": "instu",
+        "length": 9
+      },
+      {
+        "token": "vastutus",
+        "signature": "astuv",
+        "length": 8
+      },
+      {
+        "token": "võitja",
+        "signature": "aijõtv",
+        "length": 6
+      },
+      {
+        "token": "võrk",
+        "signature": "kõrv",
+        "length": 4
+      },
+      {
+        "token": "väljendama",
+        "signature": "aädejlmnv",
+        "length": 10
+      },
+      {
+        "token": "ühtlasi",
+        "signature": "ahilstü",
+        "length": 7
+      },
+      {
+        "token": "harva",
+        "signature": "ahrv",
+        "length": 5
+      },
+      {
+        "token": "lisanduma",
+        "signature": "adilmnsu",
+        "length": 9
+      },
+      {
+        "token": "millegipärast",
+        "signature": "aäegilmprst",
+        "length": 13
+      },
+      {
+        "token": "mootor",
+        "signature": "mort",
+        "length": 6
+      },
+      {
+        "token": "muutmine",
+        "signature": "eimntu",
+        "length": 8
+      },
+      {
+        "token": "naer",
+        "signature": "aenr",
+        "length": 4
+      },
+      {
+        "token": "nähtavasti",
+        "signature": "aähinstv",
+        "length": 10
+      },
+      {
+        "token": "otsene",
+        "signature": "enost",
+        "length": 6
+      },
+      {
+        "token": "sekund",
+        "signature": "deknsu",
+        "length": 6
+      },
+      {
+        "token": "tubli",
+        "signature": "biltu",
+        "length": 5
+      },
+      {
+        "token": "tähtsus",
+        "signature": "ähstu",
+        "length": 7
+      },
+      {
+        "token": "äärde",
+        "signature": "äder",
+        "length": 5
+      },
+      {
+        "token": "iseenesest",
+        "signature": "einst",
+        "length": 10
+      },
+      {
+        "token": "jalgratas",
+        "signature": "agjlrst",
+        "length": 9
+      },
+      {
+        "token": "juhtimine",
+        "signature": "ehijmntu",
+        "length": 9
+      },
+      {
+        "token": "kalju",
+        "signature": "ajklu",
+        "length": 5
+      },
+      {
+        "token": "kelder",
+        "signature": "deklr",
+        "length": 6
+      },
+      {
+        "token": "kodune",
+        "signature": "deknou",
+        "length": 6
+      },
+      {
+        "token": "kuld",
+        "signature": "dklu",
+        "length": 4
+      },
+      {
+        "token": "kümmekond",
+        "signature": "dekmnoü",
+        "length": 9
+      },
+      {
+        "token": "luuletus",
+        "signature": "elstu",
+        "length": 8
+      },
+      {
+        "token": "lähedus",
+        "signature": "ädehlsu",
+        "length": 7
+      },
+      {
+        "token": "ootamatu",
+        "signature": "amotu",
+        "length": 8
+      },
+      {
+        "token": "pakkumine",
+        "signature": "aeikmnpu",
+        "length": 9
+      },
+      {
+        "token": "puhkema",
+        "signature": "aehkmpu",
+        "length": 7
+      },
+      {
+        "token": "püha",
+        "signature": "ahpü",
+        "length": 4
+      },
+      {
+        "token": "tonn",
+        "signature": "not",
+        "length": 4
+      },
+      {
+        "token": "tootmine",
+        "signature": "eimnot",
+        "length": 8
+      },
+      {
+        "token": "tõlkima",
+        "signature": "aiklmõt",
+        "length": 7
+      },
+      {
+        "token": "vaataja",
+        "signature": "ajtv",
+        "length": 7
+      },
+      {
+        "token": "valetama",
+        "signature": "aelmtv",
+        "length": 8
+      },
+      {
+        "token": "voolama",
+        "signature": "almov",
+        "length": 7
+      },
+      {
+        "token": "võimalikult",
+        "signature": "aiklmõtuv",
+        "length": 11
+      },
+      {
+        "token": "välistama",
+        "signature": "aäilmstv",
+        "length": 9
+      },
+      {
+        "token": "õu",
+        "signature": "õu",
+        "length": 2
+      },
+      {
+        "token": "algatama",
+        "signature": "aglmt",
+        "length": 8
+      },
+      {
+        "token": "autojuht",
+        "signature": "ahjotu",
+        "length": 8
+      },
+      {
+        "token": "kartul",
+        "signature": "aklrtu",
+        "length": 6
+      },
+      {
+        "token": "kiirabi",
+        "signature": "abikr",
+        "length": 7
+      },
+      {
+        "token": "kindlalt",
+        "signature": "adiklnt",
+        "length": 8
+      },
+      {
+        "token": "kingitus",
+        "signature": "giknstu",
+        "length": 8
+      },
+      {
+        "token": "kriminaalasi",
+        "signature": "aiklmnrs",
+        "length": 12
+      },
+      {
+        "token": "mälu",
+        "signature": "älmu",
+        "length": 4
+      },
+      {
+        "token": "nüüdne",
+        "signature": "denü",
+        "length": 6
+      },
+      {
+        "token": "ostja",
+        "signature": "ajost",
+        "length": 5
+      },
+      {
+        "token": "puudus",
+        "signature": "dpsu",
+        "length": 6
+      },
+      {
+        "token": "rikas",
+        "signature": "aikrs",
+        "length": 5
+      },
+      {
+        "token": "tahes",
+        "signature": "aehst",
+        "length": 5
+      },
+      {
+        "token": "tehas",
+        "signature": "aehst",
+        "length": 5
+      },
+      {
+        "token": "toetuma",
+        "signature": "aemotu",
+        "length": 7
+      },
+      {
+        "token": "täielikult",
+        "signature": "äeikltu",
+        "length": 10
+      },
+      {
+        "token": "vastuolu",
+        "signature": "alostuv",
+        "length": 8
+      },
+      {
+        "token": "vältima",
+        "signature": "aäilmtv",
+        "length": 7
+      },
+      {
+        "token": "ülemus",
+        "signature": "elmsuü",
+        "length": 6
+      },
+      {
+        "token": "armas",
+        "signature": "amrs",
+        "length": 5
+      },
+      {
+        "token": "arvatavasti",
+        "signature": "airstv",
+        "length": 11
+      },
+      {
+        "token": "ime",
+        "signature": "eim",
+        "length": 3
+      },
+      {
+        "token": "instituut",
+        "signature": "instu",
+        "length": 9
+      },
+      {
+        "token": "istung",
+        "signature": "ginstu",
+        "length": 6
+      },
+      {
+        "token": "kavandama",
+        "signature": "adkmnv",
+        "length": 9
+      },
+      {
+        "token": "kuusk",
+        "signature": "ksu",
+        "length": 5
+      },
+      {
+        "token": "lõhnama",
+        "signature": "ahlmnõ",
+        "length": 7
+      },
+      {
+        "token": "muudkui",
+        "signature": "dikmu",
+        "length": 7
+      },
+      {
+        "token": "nõrk",
+        "signature": "knõr",
+        "length": 4
+      }
+    ],
+    "advanced": [
+      {
+        "token": "kasvatamine",
+        "signature": "aeikmnstv",
+        "length": 11
+      },
+      {
+        "token": "kaugemal",
+        "signature": "aegklmu",
+        "length": 8
+      },
+      {
+        "token": "kaupmees",
+        "signature": "aekmpsu",
+        "length": 8
+      },
+      {
+        "token": "keerulisem",
+        "signature": "eiklmrsu",
+        "length": 10
+      },
+      {
+        "token": "kesk",
+        "signature": "eks",
+        "length": 4
+      },
+      {
+        "token": "kiht",
+        "signature": "hikt",
+        "length": 4
+      },
+      {
+        "token": "kinnisvara",
+        "signature": "aiknrsv",
+        "length": 10
+      },
+      {
+        "token": "kirjeldus",
+        "signature": "deijklrsu",
+        "length": 9
+      },
+      {
+        "token": "kleepima",
+        "signature": "aeiklmp",
+        "length": 8
+      },
+      {
+        "token": "kodunt",
+        "signature": "dknotu",
+        "length": 6
+      },
+      {
+        "token": "kohutavalt",
+        "signature": "ahklotuv",
+        "length": 10
+      },
+      {
+        "token": "kokkuhoid",
+        "signature": "dhikou",
+        "length": 9
+      },
+      {
+        "token": "kolmekordne",
+        "signature": "deklmnor",
+        "length": 11
+      },
+      {
+        "token": "kolmsada",
+        "signature": "adklmos",
+        "length": 8
+      },
+      {
+        "token": "konkreetselt",
+        "signature": "eklnorst",
+        "length": 12
+      },
+      {
+        "token": "kontrollimine",
+        "signature": "eiklmnort",
+        "length": 13
+      },
+      {
+        "token": "koolipoiss",
+        "signature": "iklops",
+        "length": 10
+      },
+      {
+        "token": "koormama",
+        "signature": "akmor",
+        "length": 8
+      },
+      {
+        "token": "korrektne",
+        "signature": "eknort",
+        "length": 9
+      },
+      {
+        "token": "kraav",
+        "signature": "akrv",
+        "length": 5
+      },
+      {
+        "token": "kumm",
+        "signature": "kmu",
+        "length": 4
+      },
+      {
+        "token": "kuninganna",
+        "signature": "agiknu",
+        "length": 10
+      },
+      {
+        "token": "kuninglik",
+        "signature": "giklnu",
+        "length": 9
+      },
+      {
+        "token": "kurd",
+        "signature": "dkru",
+        "length": 4
+      },
+      {
+        "token": "kõrgemal",
+        "signature": "aegklmõr",
+        "length": 8
+      },
+      {
+        "token": "kõver",
+        "signature": "ekõrv",
+        "length": 5
+      },
+      {
+        "token": "känd",
+        "signature": "ädkn",
+        "length": 4
+      },
+      {
+        "token": "kübar",
+        "signature": "abkrü",
+        "length": 5
+      },
+      {
+        "token": "külmuma",
+        "signature": "aklmuü",
+        "length": 7
+      },
+      {
+        "token": "lahkunu",
+        "signature": "ahklnu",
+        "length": 7
+      },
+      {
+        "token": "lammutama",
+        "signature": "almtu",
+        "length": 9
+      },
+      {
+        "token": "laug",
+        "signature": "aglu",
+        "length": 4
+      },
+      {
+        "token": "lehvima",
+        "signature": "aehilmv",
+        "length": 7
+      },
+      {
+        "token": "leiutama",
+        "signature": "aeilmtu",
+        "length": 8
+      },
+      {
+        "token": "liitlane",
+        "signature": "aeilnt",
+        "length": 8
+      },
+      {
+        "token": "likvideerima",
+        "signature": "adeiklmrv",
+        "length": 12
+      },
+      {
+        "token": "lips",
+        "signature": "ilps",
+        "length": 4
+      },
+      {
+        "token": "loovutama",
+        "signature": "almotuv",
+        "length": 9
+      },
+      {
+        "token": "lugupeetud",
+        "signature": "deglptu",
+        "length": 10
+      },
+      {
+        "token": "majanduslikult",
+        "signature": "adijklmnstu",
+        "length": 14
+      },
+      {
+        "token": "mehhanism",
+        "signature": "aehimns",
+        "length": 9
+      },
+      {
+        "token": "mistahes",
+        "signature": "aehimst",
+        "length": 8
+      },
+      {
+        "token": "muutuv",
+        "signature": "mtuv",
+        "length": 6
+      },
+      {
+        "token": "mõeldav",
+        "signature": "adelmõv",
+        "length": 7
+      },
+      {
+        "token": "märgatav",
+        "signature": "aägmrtv",
+        "length": 8
+      },
+      {
+        "token": "mürk",
+        "signature": "kmrü",
+        "length": 4
+      },
+      {
+        "token": "napilt",
+        "signature": "ailnpt",
+        "length": 6
+      },
+      {
+        "token": "nappima",
+        "signature": "aimnp",
+        "length": 7
+      },
+      {
+        "token": "narr",
+        "signature": "anr",
+        "length": 4
+      },
+      {
+        "token": "natukene",
+        "signature": "aekntu",
+        "length": 8
+      },
+      {
+        "token": "noppima",
+        "signature": "aimnop",
+        "length": 7
+      },
+      {
+        "token": "novell",
+        "signature": "elnov",
+        "length": 6
+      },
+      {
+        "token": "nurm",
+        "signature": "mnru",
+        "length": 4
+      },
+      {
+        "token": "nutt",
+        "signature": "ntu",
+        "length": 4
+      },
+      {
+        "token": "nõudev",
+        "signature": "denõuv",
+        "length": 6
+      },
+      {
+        "token": "nööp",
+        "signature": "nöp",
+        "length": 4
+      }
+    ]
+  }
+}

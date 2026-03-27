@@ -1,0 +1,682 @@
+{
+  "packId": "spanish:quote-drills:core",
+  "languageId": "spanish",
+  "contentFamilyId": "quote-drills",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 96,
+  "entries": [
+    {
+      "text": "Cada día era más médico.",
+      "signature": ".aácdeéiímors",
+      "openingToken": "cada",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "La Nela subió otro poco.",
+      "signature": ".abceilnoóprstu",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "La Nela volvió a llorar.",
+      "signature": ".aeilnoórv",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "Ya nos acercamos al fin.",
+      "signature": ".acefilmnorsy",
+      "openingToken": "ya",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "La Nela no contestó nada.",
+      "signature": ".acdelnoóst",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "No me puede suceder nada.",
+      "signature": ".acdemnoprsu",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "Sonaron pasos en la casa.",
+      "signature": ".acelnoprs",
+      "openingToken": "sonaron",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "–Es tu prima Florentina.",
+      "signature": "–.aefilmnoprstu",
+      "openingToken": "es",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Vaya un fin lamentable!",
+      "signature": "!¡abefilmntuvy",
+      "openingToken": "vaya",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Qué tiene María Canela?",
+      "signature": "?¿aceéiílmnqrtu",
+      "openingToken": "qué",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ahora vuelve la piedra….",
+      "signature": ".…adehilopruv",
+      "openingToken": "ahora",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Me estoy mirando… ahora.",
+      "signature": ".…adehimnorsty",
+      "openingToken": "me",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Parecía una gran lengua.",
+      "signature": ".acegílnpru",
+      "openingToken": "parecía",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Retirose el buen hombre.",
+      "signature": ".behilmnorstu",
+      "openingToken": "retirose",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Todo estaba en silencio.",
+      "signature": ".abcdeilnost",
+      "openingToken": "todo",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Vamos, fuera ese bigote.",
+      "signature": ",.abefgimorstuv",
+      "openingToken": "vamos",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Tú no necesitas mirarte.",
+      "signature": "–.aceimnorstú",
+      "openingToken": "tú",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Qué lástima de fantasía!",
+      "signature": "!¡aádeéfiílmnqstu",
+      "openingToken": "qué",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Francisco lleno de gozo–.",
+      "signature": "–.acdefgilnorsz",
+      "openingToken": "francisco",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Marianela trató de andar.",
+      "signature": ".adeilmnórt",
+      "openingToken": "marianela",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Nela, pareces una almeja.",
+      "signature": ",.acejlmnprsu",
+      "openingToken": "nela",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Nosotros no sabemos nada.",
+      "signature": "–.abdemnorst",
+      "openingToken": "nosotros",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Anda delante de nosotros….",
+      "signature": ".…adelnorst",
+      "openingToken": "anda",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Aplícate a eso, Celipillo.",
+      "signature": ",.aceiílopst",
+      "openingToken": "aplícate",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Poco después Pablo dormía.",
+      "signature": ".abcdeéílmoprsu",
+      "openingToken": "poco",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–No me disgusta Aldeacorba.",
+      "signature": "–.abcdegilmnorstu",
+      "openingToken": "no",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Si pudiéramos darle vista!",
+      "signature": "!¡adeéilmoprstuv",
+      "openingToken": "si",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Señor doctor, ríñale usted.",
+      "signature": ",.acdeílñorstu",
+      "openingToken": "señor",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Eso sí que es gracioso.",
+      "signature": "–.acegiíoqrsu",
+      "openingToken": "eso",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–No quiero que se enoje.",
+      "signature": "–.eijnoqrsu",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": ", al fin salió esa loca.",
+      "signature": ",.acefilnoós",
+      "openingToken": "al",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿No sientes tú lo mismo?",
+      "signature": "?¿eilmnostú",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Quieres que te la diga?",
+      "signature": "?¿adegilqrstu",
+      "openingToken": "quieres",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "… eso no se puede decir.",
+      "signature": ".…cdeinoprsu",
+      "openingToken": "eso",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "… Este sí que es regalo.",
+      "signature": ".…aegíloqrstu",
+      "openingToken": "este",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Esto, si te parece bien.",
+      "signature": ",.abceinoprst",
+      "openingToken": "esto",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Golfín le tomó una mano.",
+      "signature": ".aefgílmnoótu",
+      "openingToken": "golfín",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ha dicho usted, señor D.",
+      "signature": ",.acdehiñorstu",
+      "openingToken": "ha",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "No vayas a hacerle daño.",
+      "signature": ".acdehlnñorsvy",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ven acá: dame un abrazo.",
+      "signature": ":.aábcdemnoruvz",
+      "openingToken": "ven",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–No os alejéis hoy mucho.",
+      "signature": "–.aceéhijlmnosuy",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Por allí se ha escapado.",
+      "signature": "–.acdehíloprs",
+      "openingToken": "por",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Usted dice que no basta.",
+      "signature": "–.abcdeinoqstu",
+      "openingToken": "usted",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": ", la verdad de las cosas.",
+      "signature": ",.acdelorsv",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Que no sirves para nada!",
+      "signature": "!¡adeinopqrsuv",
+      "openingToken": "que",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Quién lo había de decir!",
+      "signature": "!¡abcdeéhiílnoqru",
+      "openingToken": "quién",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Y quieres tú que duerma!",
+      "signature": "!¡adeimqrstuúy",
+      "openingToken": "y",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Irá a temblar la tierra?",
+      "signature": "?¿aábeilmrt",
+      "openingToken": "irá",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Qué conducta es la tuya?",
+      "signature": "?¿acdeélnoqstuy",
+      "openingToken": "qué",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Qué te he pedido anoche?",
+      "signature": "?¿acdeéhinopqtu",
+      "openingToken": "qué",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Esta noche será lo mismo.",
+      "signature": ".aácehilmnorst",
+      "openingToken": "esta",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Golfín le tiró del brazo.",
+      "signature": ".abdefgiílnoórtz",
+      "openingToken": "golfín",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "No quiere verte sin duda.",
+      "signature": ".adeinoqrstuv",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Sólo su padre le asistía.",
+      "signature": ".adeiíloóprstu",
+      "openingToken": "sólo",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Dicen que hace tres años.",
+      "signature": "–.acdehinñoqrstu",
+      "openingToken": "dicen",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Puedes pasar a la cocina.",
+      "signature": "–.acdeilnoprsu",
+      "openingToken": "puedes",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¡Y ahora tiene más dinero!",
+      "signature": "!¡aádehimnorsty",
+      "openingToken": "y",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Es algún arroyo que pasa?",
+      "signature": "?¿aeglnopqrsuúy",
+      "openingToken": "es",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Qué te parece mi sobrina?",
+      "signature": "?¿abceéimnopqrstu",
+      "openingToken": "qué",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Dios reñía y ella sonreía.",
+      "signature": ".adeiílnñorsy",
+      "openingToken": "dios",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Esto me ha hecho cavilar….",
+      "signature": ".…acehilmorstv",
+      "openingToken": "esto",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La Nela no respondió nada.",
+      "signature": ".adeilnoóprs",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "No consentiré que me vea….",
+      "signature": ".…aceéimnoqrstuv",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Pronto será hora de comer.",
+      "signature": ".aácdehmnoprst",
+      "openingToken": "pronto",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Yo no debía haber nacido….",
+      "signature": ".…abcdehiínory",
+      "openingToken": "yo",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "–Pues debe de haber muchas.",
+      "signature": "–.abcdehmprsu",
+      "openingToken": "pues",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Aquí de los hombres guapos.",
+      "signature": ".abdeghílmopqrsu",
+      "openingToken": "aquí",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La graciosa cantora se va….",
+      "signature": ".…acegilnorstv",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Nela, tu soledad es grande.",
+      "signature": ",.adeglnorstu",
+      "openingToken": "nela",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Parece que me tienes miedo.",
+      "signature": ".acdeimnopqrstu",
+      "openingToken": "parece",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Pronto será hora de dormir.",
+      "signature": ".aádehimnoprst",
+      "openingToken": "pronto",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Sí, ya conozco este camino.",
+      "signature": ",.aceiímnostyz",
+      "openingToken": "sí",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Tú dices que son tonterías.",
+      "signature": ".acdeiínoqrstuú",
+      "openingToken": "tú",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ya estamos en la realidad….",
+      "signature": ".…adeilmnorsty",
+      "openingToken": "ya",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿Pero hacia dónde vamos hoy?",
+      "signature": "?¿acdehimnoóprsvy",
+      "openingToken": "pero",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Este pasadizo es un esófago.",
+      "signature": ".adefginoópstuz",
+      "openingToken": "este",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Florentina se echó a llorar.",
+      "signature": ".acefhilnoórst",
+      "openingToken": "florentina",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La familia de piedra dormía.",
+      "signature": ".adefiílmopr",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La Nela miraba hacia abajo….",
+      "signature": ".…abcehijlmnor",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La Nela sonrió con tristeza.",
+      "signature": ".aceilnoórstz",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Ninguna cosa fea debe vivir.",
+      "signature": ".abcdefginorsuv",
+      "openingToken": "ninguna",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Tú la querrás mucho también.",
+      "signature": ".aábceéhilmnoqrstuú",
+      "openingToken": "tú",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Tú trabajarás en las minas….",
+      "signature": ".…aábeijlmnrstú",
+      "openingToken": "tú",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "¿En dónde están las oficinas?",
+      "signature": "?¿aácdefilnoóst",
+      "openingToken": "en",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "… Es verdad que eres modesta.",
+      "signature": ".…ademoqrstuv",
+      "openingToken": "es",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Adiós, caballero y amigo mío.",
+      "signature": ",.abcdegiílmoórsy",
+      "openingToken": "adiós",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Entonces ¿para qué es médico?",
+      "signature": "?¿acdeéimnopqrstu",
+      "openingToken": "entonces",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Florentina, yo era un idiota.",
+      "signature": ",.adefilnortuy",
+      "openingToken": "florentina",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Había llovido toda la mañana.",
+      "signature": ".abdhiílmnñotv",
+      "openingToken": "había",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La muchacha alzó los hombros.",
+      "signature": ".abchlmoórsuz",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "La muchacha no contestó nada.",
+      "signature": ".acdehlmnoóstu",
+      "openingToken": "la",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "No tardaremos mucho en salir.",
+      "signature": ".acdehilmnorstu",
+      "openingToken": "no",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Pero me das miedo… levántate.",
+      "signature": ".…aádeilmnoprstv",
+      "openingToken": "pero",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Sentí afición a la medicina….",
+      "signature": ".…acdefiílmnóst",
+      "openingToken": "sentí",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Teodoro le levante la venda….",
+      "signature": ".…adelnortv",
+      "openingToken": "teodoro",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "Yo te enseñaré ideas mejores.",
+      "signature": ".adeéijmnñorsty",
+      "openingToken": "yo",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    }
+  ]
+}

@@ -1,0 +1,3626 @@
+{
+  "packId": "lithuanian:common-words:core",
+  "languageId": "lithuanian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "ir",
+        "signature": "ir",
+        "length": 2
+      },
+      {
+        "token": "aš",
+        "signature": "aš",
+        "length": 2
+      },
+      {
+        "token": "tai",
+        "signature": "ait",
+        "length": 3
+      },
+      {
+        "token": "kad",
+        "signature": "adk",
+        "length": 3
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "taip",
+        "signature": "aipt",
+        "length": 4
+      },
+      {
+        "token": "jis",
+        "signature": "ijs",
+        "length": 3
+      },
+      {
+        "token": "ką",
+        "signature": "ąk",
+        "length": 2
+      },
+      {
+        "token": "čia",
+        "signature": "ači",
+        "length": 3
+      },
+      {
+        "token": "kaip",
+        "signature": "aikp",
+        "length": 4
+      },
+      {
+        "token": "ar",
+        "signature": "ar",
+        "length": 2
+      },
+      {
+        "token": "su",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "kas",
+        "signature": "aks",
+        "length": 3
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "gerai",
+        "signature": "aegir",
+        "length": 5
+      },
+      {
+        "token": "mano",
+        "signature": "amno",
+        "length": 4
+      },
+      {
+        "token": "bet",
+        "signature": "bet",
+        "length": 3
+      },
+      {
+        "token": "iš",
+        "signature": "iš",
+        "length": 2
+      },
+      {
+        "token": "mes",
+        "signature": "ems",
+        "length": 3
+      },
+      {
+        "token": "tik",
+        "signature": "ikt",
+        "length": 3
+      },
+      {
+        "token": "tau",
+        "signature": "atu",
+        "length": 3
+      },
+      {
+        "token": "ji",
+        "signature": "ij",
+        "length": 2
+      },
+      {
+        "token": "yra",
+        "signature": "ary",
+        "length": 3
+      },
+      {
+        "token": "jie",
+        "signature": "eij",
+        "length": 3
+      },
+      {
+        "token": "jei",
+        "signature": "eij",
+        "length": 3
+      },
+      {
+        "token": "tavo",
+        "signature": "aotv",
+        "length": 4
+      },
+      {
+        "token": "buvo",
+        "signature": "bouv",
+        "length": 4
+      },
+      {
+        "token": "savo",
+        "signature": "aosv",
+        "length": 4
+      },
+      {
+        "token": "kur",
+        "signature": "kru",
+        "length": 3
+      },
+      {
+        "token": "kai",
+        "signature": "aik",
+        "length": 3
+      },
+      {
+        "token": "dar",
+        "signature": "adr",
+        "length": 3
+      },
+      {
+        "token": "mane",
+        "signature": "aemn",
+        "length": 4
+      },
+      {
+        "token": "jūs",
+        "signature": "jsū",
+        "length": 3
+      },
+      {
+        "token": "dabar",
+        "signature": "abdr",
+        "length": 5
+      },
+      {
+        "token": "apie",
+        "signature": "aeip",
+        "length": 4
+      },
+      {
+        "token": "viskas",
+        "signature": "aiksv",
+        "length": 6
+      },
+      {
+        "token": "jį",
+        "signature": "įj",
+        "length": 2
+      },
+      {
+        "token": "tave",
+        "signature": "aetv",
+        "length": 4
+      },
+      {
+        "token": "jo",
+        "signature": "jo",
+        "length": 2
+      },
+      {
+        "token": "jau",
+        "signature": "aju",
+        "length": 3
+      },
+      {
+        "token": "to",
+        "signature": "ot",
+        "length": 2
+      },
+      {
+        "token": "labai",
+        "signature": "abil",
+        "length": 5
+      },
+      {
+        "token": "ten",
+        "signature": "ent",
+        "length": 3
+      },
+      {
+        "token": "reikia",
+        "signature": "aeikr",
+        "length": 6
+      },
+      {
+        "token": "už",
+        "signature": "už",
+        "length": 2
+      },
+      {
+        "token": "turi",
+        "signature": "irtu",
+        "length": 4
+      },
+      {
+        "token": "po",
+        "signature": "op",
+        "length": 2
+      },
+      {
+        "token": "kodėl",
+        "signature": "dėklo",
+        "length": 5
+      },
+      {
+        "token": "nieko",
+        "signature": "eikno",
+        "length": 5
+      },
+      {
+        "token": "mūsų",
+        "signature": "msųū",
+        "length": 4
+      },
+      {
+        "token": "dėl",
+        "signature": "dėl",
+        "length": 3
+      },
+      {
+        "token": "per",
+        "signature": "epr",
+        "length": 3
+      },
+      {
+        "token": "nors",
+        "signature": "nors",
+        "length": 4
+      },
+      {
+        "token": "gali",
+        "signature": "agil",
+        "length": 4
+      },
+      {
+        "token": "jūsų",
+        "signature": "jsųū",
+        "length": 4
+      },
+      {
+        "token": "gal",
+        "signature": "agl",
+        "length": 3
+      },
+      {
+        "token": "tikrai",
+        "signature": "aikrt",
+        "length": 6
+      },
+      {
+        "token": "na",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "ačiū",
+        "signature": "ačiū",
+        "length": 4
+      },
+      {
+        "token": "nuo",
+        "signature": "nou",
+        "length": 3
+      },
+      {
+        "token": "nori",
+        "signature": "inor",
+        "length": 4
+      },
+      {
+        "token": "ko",
+        "signature": "ko",
+        "length": 2
+      },
+      {
+        "token": "turiu",
+        "signature": "irtu",
+        "length": 5
+      },
+      {
+        "token": "bus",
+        "signature": "bsu",
+        "length": 3
+      },
+      {
+        "token": "jos",
+        "signature": "jos",
+        "length": 3
+      },
+      {
+        "token": "štai",
+        "signature": "aišt",
+        "length": 4
+      },
+      {
+        "token": "ją",
+        "signature": "ąj",
+        "length": 2
+      },
+      {
+        "token": "manęs",
+        "signature": "aęmns",
+        "length": 5
+      },
+      {
+        "token": "mums",
+        "signature": "msu",
+        "length": 4
+      },
+      {
+        "token": "būti",
+        "signature": "bitū",
+        "length": 4
+      },
+      {
+        "token": "jam",
+        "signature": "ajm",
+        "length": 3
+      },
+      {
+        "token": "jums",
+        "signature": "jmsu",
+        "length": 4
+      },
+      {
+        "token": "visi",
+        "signature": "isv",
+        "length": 4
+      },
+      {
+        "token": "nes",
+        "signature": "ens",
+        "length": 3
+      },
+      {
+        "token": "noriu",
+        "signature": "inoru",
+        "length": 5
+      },
+      {
+        "token": "pone",
+        "signature": "enop",
+        "length": 4
+      },
+      {
+        "token": "žinai",
+        "signature": "ainž",
+        "length": 5
+      },
+      {
+        "token": "juk",
+        "signature": "jku",
+        "length": 3
+      },
+      {
+        "token": "ei",
+        "signature": "ei",
+        "length": 2
+      },
+      {
+        "token": "tavęs",
+        "signature": "aęstv",
+        "length": 5
+      },
+      {
+        "token": "tiesiog",
+        "signature": "egiost",
+        "length": 7
+      },
+      {
+        "token": "tą",
+        "signature": "ąt",
+        "length": 2
+      },
+      {
+        "token": "žinau",
+        "signature": "ainuž",
+        "length": 5
+      },
+      {
+        "token": "nagi",
+        "signature": "agin",
+        "length": 4
+      },
+      {
+        "token": "nėra",
+        "signature": "aėnr",
+        "length": 4
+      },
+      {
+        "token": "daug",
+        "signature": "adgu",
+        "length": 4
+      },
+      {
+        "token": "tas",
+        "signature": "ast",
+        "length": 3
+      },
+      {
+        "token": "ant",
+        "signature": "ant",
+        "length": 3
+      },
+      {
+        "token": "tada",
+        "signature": "adt",
+        "length": 4
+      },
+      {
+        "token": "viską",
+        "signature": "ąiksv",
+        "length": 5
+      },
+      {
+        "token": "prie",
+        "signature": "eipr",
+        "length": 4
+      },
+      {
+        "token": "jų",
+        "signature": "jų",
+        "length": 2
+      },
+      {
+        "token": "iki",
+        "signature": "ik",
+        "length": 3
+      },
+      {
+        "token": "juos",
+        "signature": "josu",
+        "length": 4
+      },
+      {
+        "token": "prašau",
+        "signature": "apršu",
+        "length": 6
+      },
+      {
+        "token": "labas",
+        "signature": "abls",
+        "length": 5
+      },
+      {
+        "token": "nežinau",
+        "signature": "aeinuž",
+        "length": 7
+      },
+      {
+        "token": "vienas",
+        "signature": "aeinsv",
+        "length": 6
+      },
+      {
+        "token": "prieš",
+        "signature": "eiprš",
+        "length": 5
+      },
+      {
+        "token": "daugiau",
+        "signature": "adgiu",
+        "length": 7
+      },
+      {
+        "token": "mus",
+        "signature": "msu",
+        "length": 3
+      },
+      {
+        "token": "galiu",
+        "signature": "agilu",
+        "length": 5
+      },
+      {
+        "token": "manau",
+        "signature": "amnu",
+        "length": 5
+      },
+      {
+        "token": "jus",
+        "signature": "jsu",
+        "length": 3
+      },
+      {
+        "token": "vis",
+        "signature": "isv",
+        "length": 3
+      },
+      {
+        "token": "negaliu",
+        "signature": "aegilnu",
+        "length": 7
+      },
+      {
+        "token": "pas",
+        "signature": "aps",
+        "length": 3
+      },
+      {
+        "token": "tiek",
+        "signature": "eikt",
+        "length": 4
+      },
+      {
+        "token": "pat",
+        "signature": "apt",
+        "length": 3
+      },
+      {
+        "token": "taigi",
+        "signature": "agit",
+        "length": 5
+      },
+      {
+        "token": "toks",
+        "signature": "kost",
+        "length": 4
+      },
+      {
+        "token": "kol",
+        "signature": "klo",
+        "length": 3
+      },
+      {
+        "token": "net",
+        "signature": "ent",
+        "length": 3
+      },
+      {
+        "token": "be",
+        "signature": "be",
+        "length": 2
+      },
+      {
+        "token": "dieve",
+        "signature": "deiv",
+        "length": 5
+      },
+      {
+        "token": "kiek",
+        "signature": "eik",
+        "length": 4
+      },
+      {
+        "token": "nei",
+        "signature": "ein",
+        "length": 3
+      },
+      {
+        "token": "koks",
+        "signature": "kos",
+        "length": 4
+      },
+      {
+        "token": "esu",
+        "signature": "esu",
+        "length": 3
+      },
+      {
+        "token": "žinoma",
+        "signature": "aimnož",
+        "length": 6
+      },
+      {
+        "token": "mama",
+        "signature": "am",
+        "length": 4
+      },
+      {
+        "token": "pats",
+        "signature": "apst",
+        "length": 4
+      },
+      {
+        "token": "būtų",
+        "signature": "btųū",
+        "length": 4
+      },
+      {
+        "token": "esi",
+        "signature": "eis",
+        "length": 3
+      },
+      {
+        "token": "niekada",
+        "signature": "adeikn",
+        "length": 7
+      },
+      {
+        "token": "kartą",
+        "signature": "aąkrt",
+        "length": 5
+      },
+      {
+        "token": "tiesa",
+        "signature": "aeist",
+        "length": 5
+      },
+      {
+        "token": "pasakyti",
+        "signature": "aikpsty",
+        "length": 8
+      },
+      {
+        "token": "visą",
+        "signature": "ąisv",
+        "length": 4
+      },
+      {
+        "token": "geriau",
+        "signature": "aegiru",
+        "length": 6
+      },
+      {
+        "token": "niekas",
+        "signature": "aeikns",
+        "length": 6
+      },
+      {
+        "token": "vieną",
+        "signature": "ąeinv",
+        "length": 5
+      },
+      {
+        "token": "atsiprašau",
+        "signature": "aiprsštu",
+        "length": 10
+      },
+      {
+        "token": "jog",
+        "signature": "gjo",
+        "length": 3
+      },
+      {
+        "token": "turime",
+        "signature": "eimrtu",
+        "length": 6
+      },
+      {
+        "token": "kada",
+        "signature": "adk",
+        "length": 4
+      },
+      {
+        "token": "kuris",
+        "signature": "ikrsu",
+        "length": 5
+      },
+      {
+        "token": "eime",
+        "signature": "eim",
+        "length": 4
+      },
+      {
+        "token": "negali",
+        "signature": "aegiln",
+        "length": 6
+      },
+      {
+        "token": "jai",
+        "signature": "aij",
+        "length": 3
+      },
+      {
+        "token": "kuo",
+        "signature": "kou",
+        "length": 3
+      },
+      {
+        "token": "atrodo",
+        "signature": "adort",
+        "length": 6
+      },
+      {
+        "token": "greičiau",
+        "signature": "ačegiru",
+        "length": 8
+      },
+      {
+        "token": "šiandien",
+        "signature": "adeinš",
+        "length": 8
+      },
+      {
+        "token": "žmonės",
+        "signature": "ėmnosž",
+        "length": 6
+      },
+      {
+        "token": "todėl",
+        "signature": "dėlot",
+        "length": 5
+      },
+      {
+        "token": "eik",
+        "signature": "eik",
+        "length": 3
+      },
+      {
+        "token": "aišku",
+        "signature": "aikšu",
+        "length": 5
+      },
+      {
+        "token": "metų",
+        "signature": "emtų",
+        "length": 4
+      },
+      {
+        "token": "palauk",
+        "signature": "aklpu",
+        "length": 6
+      },
+      {
+        "token": "arba",
+        "signature": "abr",
+        "length": 4
+      },
+      {
+        "token": "tuo",
+        "signature": "otu",
+        "length": 3
+      },
+      {
+        "token": "laiko",
+        "signature": "aiklo",
+        "length": 5
+      },
+      {
+        "token": "atleisk",
+        "signature": "aeiklst",
+        "length": 7
+      },
+      {
+        "token": "vėl",
+        "signature": "ėlv",
+        "length": 3
+      },
+      {
+        "token": "manai",
+        "signature": "aimn",
+        "length": 5
+      },
+      {
+        "token": "patinka",
+        "signature": "aiknpt",
+        "length": 7
+      },
+      {
+        "token": "jeigu",
+        "signature": "egiju",
+        "length": 5
+      },
+      {
+        "token": "šį",
+        "signature": "įš",
+        "length": 2
+      },
+      {
+        "token": "visai",
+        "signature": "aisv",
+        "length": 5
+      },
+      {
+        "token": "kartu",
+        "signature": "akrtu",
+        "length": 5
+      },
+      {
+        "token": "tėti",
+        "signature": "ėit",
+        "length": 4
+      },
+      {
+        "token": "nereikia",
+        "signature": "aeiknr",
+        "length": 8
+      },
+      {
+        "token": "sveiki",
+        "signature": "eiksv",
+        "length": 6
+      },
+      {
+        "token": "du",
+        "signature": "du",
+        "length": 2
+      },
+      {
+        "token": "buvau",
+        "signature": "abuv",
+        "length": 5
+      },
+      {
+        "token": "kam",
+        "signature": "akm",
+        "length": 3
+      },
+      {
+        "token": "visada",
+        "signature": "adisv",
+        "length": 6
+      },
+      {
+        "token": "puiku",
+        "signature": "ikpu",
+        "length": 5
+      },
+      {
+        "token": "ta",
+        "signature": "at",
+        "length": 2
+      },
+      {
+        "token": "tuoj",
+        "signature": "jotu",
+        "length": 4
+      },
+      {
+        "token": "namo",
+        "signature": "amno",
+        "length": 4
+      },
+      {
+        "token": "žmogus",
+        "signature": "gmosuž",
+        "length": 6
+      },
+      {
+        "token": "tačiau",
+        "signature": "ačitu",
+        "length": 6
+      },
+      {
+        "token": "kažkas",
+        "signature": "aksž",
+        "length": 6
+      },
+      {
+        "token": "klausyk",
+        "signature": "aklsuy",
+        "length": 7
+      },
+      {
+        "token": "jiems",
+        "signature": "eijms",
+        "length": 5
+      },
+      {
+        "token": "darai",
+        "signature": "adir",
+        "length": 5
+      },
+      {
+        "token": "juo",
+        "signature": "jou",
+        "length": 3
+      },
+      {
+        "token": "visus",
+        "signature": "isuv",
+        "length": 5
+      },
+      {
+        "token": "sakė",
+        "signature": "aėks",
+        "length": 4
+      },
+      {
+        "token": "padaryti",
+        "signature": "adiprty",
+        "length": 8
+      },
+      {
+        "token": "irgi",
+        "signature": "gir",
+        "length": 4
+      },
+      {
+        "token": "eiti",
+        "signature": "eit",
+        "length": 4
+      },
+      {
+        "token": "šūdas",
+        "signature": "adsšū",
+        "length": 5
+      },
+      {
+        "token": "geras",
+        "signature": "aegrs",
+        "length": 5
+      },
+      {
+        "token": "nenoriu",
+        "signature": "einoru",
+        "length": 7
+      },
+      {
+        "token": "sveikas",
+        "signature": "aeiksv",
+        "length": 7
+      },
+      {
+        "token": "daryti",
+        "signature": "adirty",
+        "length": 6
+      },
+      {
+        "token": "kokia",
+        "signature": "aiko",
+        "length": 5
+      },
+      {
+        "token": "tokia",
+        "signature": "aikot",
+        "length": 5
+      },
+      {
+        "token": "nutiko",
+        "signature": "iknotu",
+        "length": 6
+      },
+      {
+        "token": "viena",
+        "signature": "aeinv",
+        "length": 5
+      },
+      {
+        "token": "visa",
+        "signature": "aisv",
+        "length": 4
+      },
+      {
+        "token": "gi",
+        "signature": "gi",
+        "length": 2
+      },
+      {
+        "token": "galbūt",
+        "signature": "abgltū",
+        "length": 6
+      },
+      {
+        "token": "kurie",
+        "signature": "eikru",
+        "length": 5
+      },
+      {
+        "token": "kitą",
+        "signature": "ąikt",
+        "length": 4
+      },
+      {
+        "token": "tam",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "padėti",
+        "signature": "adėipt",
+        "length": 6
+      },
+      {
+        "token": "dieną",
+        "signature": "ądein",
+        "length": 5
+      },
+      {
+        "token": "šis",
+        "signature": "isš",
+        "length": 3
+      },
+      {
+        "token": "nė",
+        "signature": "ėn",
+        "length": 2
+      },
+      {
+        "token": "žmogau",
+        "signature": "agmouž",
+        "length": 6
+      },
+      {
+        "token": "reiškia",
+        "signature": "aeikrš",
+        "length": 7
+      },
+      {
+        "token": "sako",
+        "signature": "akos",
+        "length": 4
+      },
+      {
+        "token": "maniau",
+        "signature": "aimnu",
+        "length": 6
+      },
+      {
+        "token": "pasakyk",
+        "signature": "akpsy",
+        "length": 7
+      },
+      {
+        "token": "myliu",
+        "signature": "ilmuy",
+        "length": 5
+      },
+      {
+        "token": "velnias",
+        "signature": "aeilnsv",
+        "length": 7
+      },
+      {
+        "token": "sakiau",
+        "signature": "aiksu",
+        "length": 6
+      },
+      {
+        "token": "žmonių",
+        "signature": "imnoųž",
+        "length": 6
+      },
+      {
+        "token": "sau",
+        "signature": "asu",
+        "length": 3
+      },
+      {
+        "token": "galima",
+        "signature": "agilm",
+        "length": 6
+      },
+      {
+        "token": "pinigų",
+        "signature": "ginpų",
+        "length": 6
+      },
+      {
+        "token": "tavimi",
+        "signature": "aimtv",
+        "length": 6
+      },
+      {
+        "token": "manimi",
+        "signature": "aimn",
+        "length": 6
+      },
+      {
+        "token": "bent",
+        "signature": "bent",
+        "length": 4
+      },
+      {
+        "token": "turbūt",
+        "signature": "brtuū",
+        "length": 6
+      },
+      {
+        "token": "tikras",
+        "signature": "aikrst",
+        "length": 6
+      },
+      {
+        "token": "supratau",
+        "signature": "aprstu",
+        "length": 8
+      },
+      {
+        "token": "velnių",
+        "signature": "eilnųv",
+        "length": 6
+      },
+      {
+        "token": "nebuvo",
+        "signature": "benouv",
+        "length": 6
+      },
+      {
+        "token": "norėjau",
+        "signature": "aėjnoru",
+        "length": 7
+      },
+      {
+        "token": "laikas",
+        "signature": "aikls",
+        "length": 6
+      },
+      {
+        "token": "buvai",
+        "signature": "abiuv",
+        "length": 5
+      },
+      {
+        "token": "kurį",
+        "signature": "įkru",
+        "length": 4
+      },
+      {
+        "token": "norėčiau",
+        "signature": "ačėinoru",
+        "length": 8
+      },
+      {
+        "token": "tėvas",
+        "signature": "aėstv",
+        "length": 5
+      },
+      {
+        "token": "paskui",
+        "signature": "aikpsu",
+        "length": 6
+      },
+      {
+        "token": "matai",
+        "signature": "aimt",
+        "length": 5
+      },
+      {
+        "token": "supranti",
+        "signature": "ainprstu",
+        "length": 8
+      },
+      {
+        "token": "vyras",
+        "signature": "arsvy",
+        "length": 5
+      },
+      {
+        "token": "toliau",
+        "signature": "ailotu",
+        "length": 6
+      },
+      {
+        "token": "vyksta",
+        "signature": "akstvy",
+        "length": 6
+      },
+      {
+        "token": "pirmyn",
+        "signature": "imnpry",
+        "length": 6
+      },
+      {
+        "token": "turim",
+        "signature": "imrtu",
+        "length": 5
+      },
+      {
+        "token": "suprantu",
+        "signature": "anprstu",
+        "length": 8
+      },
+      {
+        "token": "diena",
+        "signature": "adein",
+        "length": 5
+      },
+      {
+        "token": "vardas",
+        "signature": "adrsv",
+        "length": 6
+      },
+      {
+        "token": "pažiūrėk",
+        "signature": "aėikprūž",
+        "length": 8
+      },
+      {
+        "token": "tie",
+        "signature": "eit",
+        "length": 3
+      },
+      {
+        "token": "atgal",
+        "signature": "aglt",
+        "length": 5
+      },
+      {
+        "token": "metus",
+        "signature": "emstu",
+        "length": 5
+      },
+      {
+        "token": "neturi",
+        "signature": "einrtu",
+        "length": 6
+      },
+      {
+        "token": "metu",
+        "signature": "emtu",
+        "length": 4
+      },
+      {
+        "token": "duok",
+        "signature": "dkou",
+        "length": 4
+      },
+      {
+        "token": "puikiai",
+        "signature": "aikpu",
+        "length": 7
+      },
+      {
+        "token": "žiūrėk",
+        "signature": "ėikrūž",
+        "length": 6
+      },
+      {
+        "token": "darbo",
+        "signature": "abdor",
+        "length": 5
+      },
+      {
+        "token": "lyg",
+        "signature": "gly",
+        "length": 3
+      },
+      {
+        "token": "jokių",
+        "signature": "ijkoų",
+        "length": 5
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "malonu",
+        "signature": "almnou",
+        "length": 6
+      },
+      {
+        "token": "kažką",
+        "signature": "aąkž",
+        "length": 5
+      },
+      {
+        "token": "liaukis",
+        "signature": "aiklsu",
+        "length": 7
+      },
+      {
+        "token": "sere",
+        "signature": "ers",
+        "length": 4
+      },
+      {
+        "token": "šią",
+        "signature": "ąiš",
+        "length": 3
+      },
+      {
+        "token": "saša",
+        "signature": "asš",
+        "length": 4
+      },
+      {
+        "token": "žino",
+        "signature": "inož",
+        "length": 4
+      },
+      {
+        "token": "rimtai",
+        "signature": "aimrt",
+        "length": 6
+      },
+      {
+        "token": "greitai",
+        "signature": "aegirt",
+        "length": 7
+      },
+      {
+        "token": "ponia",
+        "signature": "ainop",
+        "length": 5
+      },
+      {
+        "token": "darbą",
+        "signature": "aąbdr",
+        "length": 5
+      },
+      {
+        "token": "tikiuosi",
+        "signature": "ikostu",
+        "length": 8
+      },
+      {
+        "token": "manim",
+        "signature": "aimn",
+        "length": 5
+      },
+      {
+        "token": "kuri",
+        "signature": "ikru",
+        "length": 4
+      },
+      {
+        "token": "laiką",
+        "signature": "aąikl",
+        "length": 5
+      },
+      {
+        "token": "matau",
+        "signature": "amtu",
+        "length": 5
+      },
+      {
+        "token": "ateik",
+        "signature": "aeikt",
+        "length": 5
+      },
+      {
+        "token": "tuomet",
+        "signature": "emotu",
+        "length": 6
+      },
+      {
+        "token": "ši",
+        "signature": "iš",
+        "length": 2
+      },
+      {
+        "token": "pati",
+        "signature": "aipt",
+        "length": 4
+      },
+      {
+        "token": "tavim",
+        "signature": "aimtv",
+        "length": 5
+      },
+      {
+        "token": "gera",
+        "signature": "aegr",
+        "length": 4
+      },
+      {
+        "token": "galime",
+        "signature": "aegilm",
+        "length": 6
+      },
+      {
+        "token": "mačiau",
+        "signature": "ačimu",
+        "length": 6
+      },
+      {
+        "token": "gyvenimą",
+        "signature": "ąegimnvy",
+        "length": 8
+      },
+      {
+        "token": "visas",
+        "signature": "aisv",
+        "length": 5
+      },
+      {
+        "token": "visų",
+        "signature": "isųv",
+        "length": 4
+      },
+      {
+        "token": "nuostabu",
+        "signature": "abnostu",
+        "length": 8
+      },
+      {
+        "token": "galėčiau",
+        "signature": "ačėgilu",
+        "length": 8
+      },
+      {
+        "token": "teisingai",
+        "signature": "aeginst",
+        "length": 9
+      },
+      {
+        "token": "visiškai",
+        "signature": "aiksšv",
+        "length": 8
+      },
+      {
+        "token": "rytoj",
+        "signature": "jorty",
+        "length": 5
+      },
+      {
+        "token": "naktį",
+        "signature": "aįknt",
+        "length": 5
+      },
+      {
+        "token": "pinigus",
+        "signature": "ginpsu",
+        "length": 7
+      },
+      {
+        "token": "turėjo",
+        "signature": "ėjortu",
+        "length": 6
+      },
+      {
+        "token": "tokio",
+        "signature": "ikot",
+        "length": 5
+      },
+      {
+        "token": "šito",
+        "signature": "iošt",
+        "length": 4
+      },
+      {
+        "token": "tėtis",
+        "signature": "ėist",
+        "length": 5
+      },
+      {
+        "token": "tania",
+        "signature": "aint",
+        "length": 5
+      },
+      {
+        "token": "viso",
+        "signature": "iosv",
+        "length": 4
+      },
+      {
+        "token": "beveik",
+        "signature": "beikv",
+        "length": 6
+      },
+      {
+        "token": "tarp",
+        "signature": "aprt",
+        "length": 4
+      },
+      {
+        "token": "pasakė",
+        "signature": "aėkps",
+        "length": 6
+      },
+      {
+        "token": "tikriausiai",
+        "signature": "aikrstu",
+        "length": 11
+      },
+      {
+        "token": "sakau",
+        "signature": "aksu",
+        "length": 5
+      },
+      {
+        "token": "turite",
+        "signature": "eirtu",
+        "length": 6
+      },
+      {
+        "token": "as",
+        "signature": "as",
+        "length": 2
+      },
+      {
+        "token": "šiek",
+        "signature": "eikš",
+        "length": 4
+      },
+      {
+        "token": "kartais",
+        "signature": "aikrst",
+        "length": 7
+      },
+      {
+        "token": "leisk",
+        "signature": "eikls",
+        "length": 5
+      },
+      {
+        "token": "atleiskit",
+        "signature": "aeiklst",
+        "length": 9
+      },
+      {
+        "token": "lr",
+        "signature": "lr",
+        "length": 2
+      },
+      {
+        "token": "žinoti",
+        "signature": "inotž",
+        "length": 6
+      },
+      {
+        "token": "sunku",
+        "signature": "knsu",
+        "length": 5
+      },
+      {
+        "token": "nebus",
+        "signature": "bensu",
+        "length": 5
+      },
+      {
+        "token": "anksčiau",
+        "signature": "ačiknsu",
+        "length": 8
+      },
+      {
+        "token": "nesu",
+        "signature": "ensu",
+        "length": 4
+      },
+      {
+        "token": "save",
+        "signature": "aesv",
+        "length": 4
+      },
+      {
+        "token": "atsitiko",
+        "signature": "aikost",
+        "length": 8
+      },
+      {
+        "token": "draugas",
+        "signature": "adgrsu",
+        "length": 7
+      },
+      {
+        "token": "tos",
+        "signature": "ost",
+        "length": 3
+      },
+      {
+        "token": "ilgai",
+        "signature": "agil",
+        "length": 5
+      },
+      {
+        "token": "neturiu",
+        "signature": "einrtu",
+        "length": 7
+      },
+      {
+        "token": "vieta",
+        "signature": "aeitv",
+        "length": 5
+      },
+      {
+        "token": "trys",
+        "signature": "rsty",
+        "length": 4
+      },
+      {
+        "token": "truputį",
+        "signature": "įprtu",
+        "length": 7
+      },
+      {
+        "token": "gana",
+        "signature": "agn",
+        "length": 4
+      },
+      {
+        "token": "labiau",
+        "signature": "abilu",
+        "length": 6
+      },
+      {
+        "token": "darbas",
+        "signature": "abdrs",
+        "length": 6
+      },
+      {
+        "token": "duris",
+        "signature": "dirsu",
+        "length": 5
+      },
+      {
+        "token": "turėjau",
+        "signature": "aėjrtu",
+        "length": 7
+      },
+      {
+        "token": "vėliau",
+        "signature": "aėiluv",
+        "length": 6
+      },
+      {
+        "token": "tuos",
+        "signature": "ostu",
+        "length": 4
+      },
+      {
+        "token": "dvi",
+        "signature": "div",
+        "length": 3
+      },
+      {
+        "token": "vadinasi",
+        "signature": "adinsv",
+        "length": 8
+      },
+      {
+        "token": "visiems",
+        "signature": "eimsv",
+        "length": 7
+      },
+      {
+        "token": "turėtų",
+        "signature": "ėrtuų",
+        "length": 6
+      },
+      {
+        "token": "pamatyti",
+        "signature": "aimpty",
+        "length": 8
+      },
+      {
+        "token": "sakei",
+        "signature": "aeiks",
+        "length": 5
+      },
+      {
+        "token": "kalba",
+        "signature": "abkl",
+        "length": 5
+      },
+      {
+        "token": "vaikai",
+        "signature": "aikv",
+        "length": 6
+      },
+      {
+        "token": "šitą",
+        "signature": "ąišt",
+        "length": 4
+      },
+      {
+        "token": "žmona",
+        "signature": "amnož",
+        "length": 5
+      },
+      {
+        "token": "nesuprantu",
+        "signature": "aenprstu",
+        "length": 10
+      },
+      {
+        "token": "kitas",
+        "signature": "aikst",
+        "length": 5
+      },
+      {
+        "token": "tiesą",
+        "signature": "ąeist",
+        "length": 5
+      },
+      {
+        "token": "ka",
+        "signature": "ak",
+        "length": 2
+      },
+      {
+        "token": "tikra",
+        "signature": "aikrt",
+        "length": 5
+      },
+      {
+        "token": "daro",
+        "signature": "ador",
+        "length": 4
+      },
+      {
+        "token": "nesvarbu",
+        "signature": "abenrsuv",
+        "length": 8
+      },
+      {
+        "token": "kuzia",
+        "signature": "aikuz",
+        "length": 5
+      },
+      {
+        "token": "vakar",
+        "signature": "akrv",
+        "length": 5
+      },
+      {
+        "token": "matyti",
+        "signature": "aimty",
+        "length": 6
+      },
+      {
+        "token": "mergina",
+        "signature": "aegimnr",
+        "length": 7
+      },
+      {
+        "token": "šio",
+        "signature": "ioš",
+        "length": 3
+      },
+      {
+        "token": "šios",
+        "signature": "iosš",
+        "length": 4
+      },
+      {
+        "token": "einam",
+        "signature": "aeimn",
+        "length": 5
+      },
+      {
+        "token": "vietą",
+        "signature": "ąeitv",
+        "length": 5
+      },
+      {
+        "token": "einu",
+        "signature": "einu",
+        "length": 4
+      },
+      {
+        "token": "būsiu",
+        "signature": "bisuū",
+        "length": 5
+      },
+      {
+        "token": "pagalbos",
+        "signature": "abglops",
+        "length": 8
+      },
+      {
+        "token": "vaikas",
+        "signature": "aiksv",
+        "length": 6
+      },
+      {
+        "token": "paklausyk",
+        "signature": "aklpsuy",
+        "length": 9
+      },
+      {
+        "token": "nemanau",
+        "signature": "aemnu",
+        "length": 7
+      },
+      {
+        "token": "pasakysiu",
+        "signature": "aikpsuy",
+        "length": 9
+      },
+      {
+        "token": "sūnus",
+        "signature": "nsuū",
+        "length": 5
+      },
+      {
+        "token": "pasakiau",
+        "signature": "aikpsu",
+        "length": 8
+      },
+      {
+        "token": "žmones",
+        "signature": "emnosž",
+        "length": 6
+      },
+      {
+        "token": "kalbi",
+        "signature": "abikl",
+        "length": 5
+      },
+      {
+        "token": "jas",
+        "signature": "ajs",
+        "length": 3
+      },
+      {
+        "token": "sekasi",
+        "signature": "aeiks",
+        "length": 6
+      },
+      {
+        "token": "abu",
+        "signature": "abu",
+        "length": 3
+      },
+      {
+        "token": "nenori",
+        "signature": "einor",
+        "length": 6
+      },
+      {
+        "token": "tokie",
+        "signature": "eikot",
+        "length": 5
+      },
+      {
+        "token": "niekad",
+        "signature": "adeikn",
+        "length": 6
+      },
+      {
+        "token": "būtent",
+        "signature": "bentū",
+        "length": 6
+      },
+      {
+        "token": "galite",
+        "signature": "aegilt",
+        "length": 6
+      },
+      {
+        "token": "draugai",
+        "signature": "adgiru",
+        "length": 7
+      },
+      {
+        "token": "padėk",
+        "signature": "adėkp",
+        "length": 5
+      },
+      {
+        "token": "moteris",
+        "signature": "eimorst",
+        "length": 7
+      },
+      {
+        "token": "būčiau",
+        "signature": "abčiuū",
+        "length": 6
+      },
+      {
+        "token": "jumis",
+        "signature": "ijmsu",
+        "length": 5
+      },
+      {
+        "token": "būk",
+        "signature": "bkū",
+        "length": 3
+      },
+      {
+        "token": "būt",
+        "signature": "btū",
+        "length": 3
+      },
+      {
+        "token": "tų",
+        "signature": "tų",
+        "length": 2
+      },
+      {
+        "token": "liko",
+        "signature": "iklo",
+        "length": 4
+      },
+      {
+        "token": "girdėjau",
+        "signature": "adėgijru",
+        "length": 8
+      },
+      {
+        "token": "mašiną",
+        "signature": "aąimnš",
+        "length": 6
+      },
+      {
+        "token": "vos",
+        "signature": "osv",
+        "length": 3
+      },
+      {
+        "token": "kokį",
+        "signature": "įko",
+        "length": 4
+      },
+      {
+        "token": "sveika",
+        "signature": "aeiksv",
+        "length": 6
+      },
+      {
+        "token": "teisus",
+        "signature": "eistu",
+        "length": 6
+      },
+      {
+        "token": "vyrai",
+        "signature": "airvy",
+        "length": 5
+      },
+      {
+        "token": "laukia",
+        "signature": "aiklu",
+        "length": 6
+      },
+      {
+        "token": "pasikalbėti",
+        "signature": "abėiklpst",
+        "length": 11
+      },
+      {
+        "token": "blogai",
+        "signature": "abgilo",
+        "length": 6
+      },
+      {
+        "token": "galvą",
+        "signature": "aąglv",
+        "length": 5
+      },
+      {
+        "token": "pirma",
+        "signature": "aimpr",
+        "length": 5
+      },
+      {
+        "token": "vardu",
+        "signature": "adruv",
+        "length": 5
+      },
+      {
+        "token": "grįžti",
+        "signature": "giįrtž",
+        "length": 6
+      },
+      {
+        "token": "pro",
+        "signature": "opr",
+        "length": 3
+      },
+      {
+        "token": "gyvenimas",
+        "signature": "aegimnsvy",
+        "length": 9
+      },
+      {
+        "token": "rankas",
+        "signature": "aknrs",
+        "length": 6
+      },
+      {
+        "token": "gaila",
+        "signature": "agil",
+        "length": 5
+      },
+      {
+        "token": "padarė",
+        "signature": "adėpr",
+        "length": 6
+      },
+      {
+        "token": "kelias",
+        "signature": "aeikls",
+        "length": 6
+      },
+      {
+        "token": "kita",
+        "signature": "aikt",
+        "length": 4
+      },
+      {
+        "token": "kurią",
+        "signature": "ąikru",
+        "length": 5
+      },
+      {
+        "token": "padarei",
+        "signature": "adeipr",
+        "length": 7
+      },
+      {
+        "token": "mieloji",
+        "signature": "eijlmo",
+        "length": 7
+      },
+      {
+        "token": "minučių",
+        "signature": "čimnuų",
+        "length": 7
+      },
+      {
+        "token": "gero",
+        "signature": "egor",
+        "length": 4
+      },
+      {
+        "token": "negalima",
+        "signature": "aegilmn",
+        "length": 8
+      },
+      {
+        "token": "vienintelis",
+        "signature": "eilnstv",
+        "length": 11
+      },
+      {
+        "token": "dienos",
+        "signature": "deinos",
+        "length": 6
+      },
+      {
+        "token": "žinote",
+        "signature": "einotž",
+        "length": 6
+      },
+      {
+        "token": "žinot",
+        "signature": "inotž",
+        "length": 5
+      },
+      {
+        "token": "tiesiai",
+        "signature": "aeist",
+        "length": 7
+      },
+      {
+        "token": "ponas",
+        "signature": "anops",
+        "length": 5
+      },
+      {
+        "token": "ramiai",
+        "signature": "aimr",
+        "length": 6
+      },
+      {
+        "token": "vieno",
+        "signature": "einov",
+        "length": 5
+      },
+      {
+        "token": "kapitone",
+        "signature": "aeiknopt",
+        "length": 8
+      },
+      {
+        "token": "norite",
+        "signature": "einort",
+        "length": 6
+      },
+      {
+        "token": "reikėjo",
+        "signature": "eėijkor",
+        "length": 7
+      },
+      {
+        "token": "daktare",
+        "signature": "adekrt",
+        "length": 7
+      },
+      {
+        "token": "gyvenimo",
+        "signature": "egimnovy",
+        "length": 8
+      },
+      {
+        "token": "atleiskite",
+        "signature": "aeiklst",
+        "length": 10
+      },
+      {
+        "token": "nesijaudink",
+        "signature": "adeijknsu",
+        "length": 11
+      },
+      {
+        "token": "visos",
+        "signature": "iosv",
+        "length": 5
+      },
+      {
+        "token": "žemės",
+        "signature": "eėmsž",
+        "length": 5
+      },
+      {
+        "token": "kiekvieną",
+        "signature": "ąeiknv",
+        "length": 9
+      },
+      {
+        "token": "mirė",
+        "signature": "ėimr",
+        "length": 4
+      },
+      {
+        "token": "šalia",
+        "signature": "ailš",
+        "length": 5
+      },
+      {
+        "token": "rytas",
+        "signature": "arsty",
+        "length": 5
+      },
+      {
+        "token": "atrodai",
+        "signature": "adiort",
+        "length": 7
+      },
+      {
+        "token": "eina",
+        "signature": "aein",
+        "length": 4
+      },
+      {
+        "token": "akis",
+        "signature": "aiks",
+        "length": 4
+      },
+      {
+        "token": "galėtų",
+        "signature": "aėgltų",
+        "length": 6
+      },
+      {
+        "token": "kurios",
+        "signature": "ikorsu",
+        "length": 6
+      },
+      {
+        "token": "aha",
+        "signature": "ah",
+        "length": 3
+      },
+      {
+        "token": "kito",
+        "signature": "ikot",
+        "length": 4
+      },
+      {
+        "token": "pagal",
+        "signature": "aglp",
+        "length": 5
+      },
+      {
+        "token": "kuriuos",
+        "signature": "ikorsu",
+        "length": 7
+      },
+      {
+        "token": "pirmas",
+        "signature": "aimprs",
+        "length": 6
+      },
+      {
+        "token": "girdi",
+        "signature": "dgir",
+        "length": 5
+      },
+      {
+        "token": "panele",
+        "signature": "aelnp",
+        "length": 6
+      },
+      {
+        "token": "turėčiau",
+        "signature": "ačėirtu",
+        "length": 8
+      },
+      {
+        "token": "matei",
+        "signature": "aeimt",
+        "length": 5
+      },
+      {
+        "token": "pasaulio",
+        "signature": "ailopsu",
+        "length": 8
+      },
+      {
+        "token": "dalykas",
+        "signature": "adklsy",
+        "length": 7
+      },
+      {
+        "token": "kitaip",
+        "signature": "aikpt",
+        "length": 6
+      },
+      {
+        "token": "vaikų",
+        "signature": "aikųv",
+        "length": 5
+      },
+      {
+        "token": "kiti",
+        "signature": "ikt",
+        "length": 4
+      },
+      {
+        "token": "esame",
+        "signature": "aems",
+        "length": 5
+      },
+      {
+        "token": "namuose",
+        "signature": "aemnosu",
+        "length": 7
+      },
+      {
+        "token": "tris",
+        "signature": "irst",
+        "length": 4
+      },
+      {
+        "token": "klausau",
+        "signature": "aklsu",
+        "length": 7
+      },
+      {
+        "token": "būsi",
+        "signature": "bisū",
+        "length": 4
+      },
+      {
+        "token": "dievo",
+        "signature": "deiov",
+        "length": 5
+      },
+      {
+        "token": "reikės",
+        "signature": "eėikrs",
+        "length": 6
+      },
+      {
+        "token": "tad",
+        "signature": "adt",
+        "length": 3
+      },
+      {
+        "token": "niekam",
+        "signature": "aeikmn",
+        "length": 6
+      },
+      {
+        "token": "mirties",
+        "signature": "eimrst",
+        "length": 7
+      },
+      {
+        "token": "galėtum",
+        "signature": "aėglmtu",
+        "length": 7
+      },
+      {
+        "token": "šiuo",
+        "signature": "iošu",
+        "length": 4
+      },
+      {
+        "token": "seniai",
+        "signature": "aeins",
+        "length": 6
+      },
+      {
+        "token": "vaikinai",
+        "signature": "aiknv",
+        "length": 8
+      },
+      {
+        "token": "visko",
+        "signature": "ikosv",
+        "length": 5
+      },
+      {
+        "token": "gyvas",
+        "signature": "agsvy",
+        "length": 5
+      },
+      {
+        "token": "šeima",
+        "signature": "aeimš",
+        "length": 5
+      },
+      {
+        "token": "turėtum",
+        "signature": "ėmrtu",
+        "length": 7
+      },
+      {
+        "token": "jėzau",
+        "signature": "aėjuz",
+        "length": 5
+      },
+      {
+        "token": "pavyko",
+        "signature": "akopvy",
+        "length": 6
+      },
+      {
+        "token": "metas",
+        "signature": "aemst",
+        "length": 5
+      },
+      {
+        "token": "kalbėti",
+        "signature": "abėiklt",
+        "length": 7
+      },
+      {
+        "token": "namų",
+        "signature": "amnų",
+        "length": 4
+      },
+      {
+        "token": "džekai",
+        "signature": "adeikž",
+        "length": 6
+      },
+      {
+        "token": "radau",
+        "signature": "adru",
+        "length": 5
+      },
+      {
+        "token": "maiklai",
+        "signature": "aiklm",
+        "length": 7
+      },
+      {
+        "token": "mumis",
+        "signature": "imsu",
+        "length": 5
+      },
+      {
+        "token": "vandens",
+        "signature": "adensv",
+        "length": 7
+      },
+      {
+        "token": "jokio",
+        "signature": "ijko",
+        "length": 5
+      }
+    ],
+    "developing": [
+      {
+        "token": "žemėje",
+        "signature": "eėjmž",
+        "length": 6
+      },
+      {
+        "token": "dėdė",
+        "signature": "dė",
+        "length": 4
+      },
+      {
+        "token": "kartas",
+        "signature": "akrst",
+        "length": 6
+      },
+      {
+        "token": "stengiuosi",
+        "signature": "eginostu",
+        "length": 10
+      },
+      {
+        "token": "nebijok",
+        "signature": "beijkno",
+        "length": 7
+      },
+      {
+        "token": "žiedas",
+        "signature": "adeisž",
+        "length": 6
+      },
+      {
+        "token": "milijonų",
+        "signature": "ijlmnoų",
+        "length": 8
+      },
+      {
+        "token": "šeši",
+        "signature": "eiš",
+        "length": 4
+      },
+      {
+        "token": "darysim",
+        "signature": "adimrsy",
+        "length": 7
+      },
+      {
+        "token": "draugą",
+        "signature": "aądgru",
+        "length": 6
+      },
+      {
+        "token": "nepavyks",
+        "signature": "aeknpsvy",
+        "length": 8
+      },
+      {
+        "token": "keli",
+        "signature": "eikl",
+        "length": 4
+      },
+      {
+        "token": "moku",
+        "signature": "kmou",
+        "length": 4
+      },
+      {
+        "token": "pabėgti",
+        "signature": "abėgipt",
+        "length": 7
+      },
+      {
+        "token": "siūlau",
+        "signature": "ailsuū",
+        "length": 6
+      },
+      {
+        "token": "skambina",
+        "signature": "abikmns",
+        "length": 8
+      },
+      {
+        "token": "vaikiną",
+        "signature": "aąiknv",
+        "length": 7
+      },
+      {
+        "token": "kūnas",
+        "signature": "aknsū",
+        "length": 5
+      },
+      {
+        "token": "galvoja",
+        "signature": "agjlov",
+        "length": 7
+      },
+      {
+        "token": "negalite",
+        "signature": "aegilnt",
+        "length": 8
+      },
+      {
+        "token": "netiesa",
+        "signature": "aeinst",
+        "length": 7
+      },
+      {
+        "token": "buvęs",
+        "signature": "bęsuv",
+        "length": 5
+      },
+      {
+        "token": "kairę",
+        "signature": "aęikr",
+        "length": 5
+      },
+      {
+        "token": "kažkokia",
+        "signature": "aikož",
+        "length": 8
+      },
+      {
+        "token": "nusprendžiau",
+        "signature": "adeinprsuž",
+        "length": 12
+      },
+      {
+        "token": "nužudys",
+        "signature": "dnsuyž",
+        "length": 7
+      },
+      {
+        "token": "smegenų",
+        "signature": "egmnsų",
+        "length": 7
+      },
+      {
+        "token": "teismo",
+        "signature": "eimost",
+        "length": 6
+      },
+      {
+        "token": "linksma",
+        "signature": "aiklmns",
+        "length": 7
+      },
+      {
+        "token": "palaukti",
+        "signature": "aiklptu",
+        "length": 8
+      },
+      {
+        "token": "žodžius",
+        "signature": "diosuž",
+        "length": 7
+      },
+      {
+        "token": "neseniai",
+        "signature": "aeins",
+        "length": 8
+      },
+      {
+        "token": "pagalba",
+        "signature": "abglp",
+        "length": 7
+      },
+      {
+        "token": "apačioje",
+        "signature": "ačeijop",
+        "length": 8
+      },
+      {
+        "token": "duokit",
+        "signature": "dikotu",
+        "length": 6
+      },
+      {
+        "token": "išvykti",
+        "signature": "ikštvy",
+        "length": 7
+      },
+      {
+        "token": "nepamiršk",
+        "signature": "aeikmnprš",
+        "length": 9
+      },
+      {
+        "token": "paėmė",
+        "signature": "aėmp",
+        "length": 5
+      },
+      {
+        "token": "pasirengęs",
+        "signature": "aeęginprs",
+        "length": 10
+      },
+      {
+        "token": "atnešk",
+        "signature": "aeknšt",
+        "length": 6
+      },
+      {
+        "token": "šiam",
+        "signature": "aimš",
+        "length": 4
+      },
+      {
+        "token": "kojų",
+        "signature": "jkoų",
+        "length": 4
+      },
+      {
+        "token": "mėnesių",
+        "signature": "eėimnsų",
+        "length": 7
+      },
+      {
+        "token": "prezidentas",
+        "signature": "adeinprstz",
+        "length": 11
+      },
+      {
+        "token": "baigtas",
+        "signature": "abgist",
+        "length": 7
+      },
+      {
+        "token": "nemaniau",
+        "signature": "aeimnu",
+        "length": 8
+      },
+      {
+        "token": "sakoma",
+        "signature": "akmos",
+        "length": 6
+      },
+      {
+        "token": "stop",
+        "signature": "opst",
+        "length": 4
+      },
+      {
+        "token": "antras",
+        "signature": "anrst",
+        "length": 6
+      },
+      {
+        "token": "miega",
+        "signature": "aegim",
+        "length": 5
+      },
+      {
+        "token": "moters",
+        "signature": "emorst",
+        "length": 6
+      },
+      {
+        "token": "sunkiai",
+        "signature": "aiknsu",
+        "length": 7
+      },
+      {
+        "token": "tikrą",
+        "signature": "ąikrt",
+        "length": 5
+      },
+      {
+        "token": "ėmė",
+        "signature": "ėm",
+        "length": 3
+      },
+      {
+        "token": "esmė",
+        "signature": "eėms",
+        "length": 4
+      },
+      {
+        "token": "pavojus",
+        "signature": "ajopsuv",
+        "length": 7
+      },
+      {
+        "token": "liepė",
+        "signature": "eėilp",
+        "length": 5
+      },
+      {
+        "token": "netyčia",
+        "signature": "ačeinty",
+        "length": 7
+      },
+      {
+        "token": "aiškiai",
+        "signature": "aikš",
+        "length": 7
+      },
+      {
+        "token": "bobi",
+        "signature": "bio",
+        "length": 4
+      },
+      {
+        "token": "pamenu",
+        "signature": "aemnpu",
+        "length": 6
+      },
+      {
+        "token": "telefonu",
+        "signature": "eflnotu",
+        "length": 8
+      },
+      {
+        "token": "pietus",
+        "signature": "eipstu",
+        "length": 6
+      },
+      {
+        "token": "atsiuntė",
+        "signature": "aėinstu",
+        "length": 8
+      },
+      {
+        "token": "bėda",
+        "signature": "abdė",
+        "length": 4
+      },
+      {
+        "token": "greičiausiai",
+        "signature": "ačegirsu",
+        "length": 12
+      },
+      {
+        "token": "neturim",
+        "signature": "eimnrtu",
+        "length": 7
+      },
+      {
+        "token": "pasikeitė",
+        "signature": "aeėikpst",
+        "length": 9
+      },
+      {
+        "token": "atvykau",
+        "signature": "aktuvy",
+        "length": 7
+      },
+      {
+        "token": "aukso",
+        "signature": "akosu",
+        "length": 5
+      },
+      {
+        "token": "darysi",
+        "signature": "adirsy",
+        "length": 6
+      },
+      {
+        "token": "draugais",
+        "signature": "adgirsu",
+        "length": 8
+      },
+      {
+        "token": "verčiau",
+        "signature": "ačeiruv",
+        "length": 7
+      },
+      {
+        "token": "išprotėjai",
+        "signature": "aėijopršt",
+        "length": 10
+      },
+      {
+        "token": "praeitą",
+        "signature": "aąeiprt",
+        "length": 7
+      },
+      {
+        "token": "saugumo",
+        "signature": "agmosu",
+        "length": 7
+      },
+      {
+        "token": "didysis",
+        "signature": "disy",
+        "length": 7
+      },
+      {
+        "token": "itin",
+        "signature": "int",
+        "length": 4
+      },
+      {
+        "token": "penkis",
+        "signature": "eiknps",
+        "length": 6
+      },
+      {
+        "token": "atsakymas",
+        "signature": "akmsty",
+        "length": 9
+      },
+      {
+        "token": "dalyką",
+        "signature": "aądkly",
+        "length": 6
+      },
+      {
+        "token": "kamerą",
+        "signature": "aąekmr",
+        "length": 6
+      },
+      {
+        "token": "kojos",
+        "signature": "jkos",
+        "length": 5
+      },
+      {
+        "token": "garbė",
+        "signature": "abėgr",
+        "length": 5
+      },
+      {
+        "token": "neveikia",
+        "signature": "aeiknv",
+        "length": 8
+      },
+      {
+        "token": "nina",
+        "signature": "ain",
+        "length": 4
+      },
+      {
+        "token": "žmonėmis",
+        "signature": "ėimnosž",
+        "length": 8
+      },
+      {
+        "token": "agentas",
+        "signature": "aegnst",
+        "length": 7
+      },
+      {
+        "token": "sergejevai",
+        "signature": "aegijrsv",
+        "length": 10
+      },
+      {
+        "token": "tikėjausi",
+        "signature": "aėijkstu",
+        "length": 9
+      },
+      {
+        "token": "vakarėlis",
+        "signature": "aėiklrsv",
+        "length": 9
+      },
+      {
+        "token": "jaunas",
+        "signature": "ajnsu",
+        "length": 6
+      },
+      {
+        "token": "vyrukai",
+        "signature": "aikruvy",
+        "length": 7
+      },
+      {
+        "token": "min",
+        "signature": "imn",
+        "length": 3
+      },
+      {
+        "token": "nešdinkis",
+        "signature": "deiknsš",
+        "length": 9
+      },
+      {
+        "token": "padarys",
+        "signature": "adprsy",
+        "length": 7
+      },
+      {
+        "token": "šia",
+        "signature": "aiš",
+        "length": 3
+      },
+      {
+        "token": "kiekviena",
+        "signature": "aeiknv",
+        "length": 9
+      },
+      {
+        "token": "nugaros",
+        "signature": "agnorsu",
+        "length": 7
+      },
+      {
+        "token": "šįkart",
+        "signature": "aįkršt",
+        "length": 6
+      },
+      {
+        "token": "tučtuojau",
+        "signature": "ačjotu",
+        "length": 9
+      },
+      {
+        "token": "vakarėlį",
+        "signature": "aėįklrv",
+        "length": 8
+      },
+      {
+        "token": "dovaną",
+        "signature": "aądnov",
+        "length": 6
+      },
+      {
+        "token": "išeik",
+        "signature": "eikš",
+        "length": 5
+      },
+      {
+        "token": "kojas",
+        "signature": "ajkos",
+        "length": 5
+      },
+      {
+        "token": "šalin",
+        "signature": "ailnš",
+        "length": 5
+      },
+      {
+        "token": "šitai",
+        "signature": "aišt",
+        "length": 5
+      },
+      {
+        "token": "vietas",
+        "signature": "aeistv",
+        "length": 6
+      },
+      {
+        "token": "laimėti",
+        "signature": "aėilmt",
+        "length": 7
+      },
+      {
+        "token": "nueiti",
+        "signature": "eintu",
+        "length": 6
+      },
+      {
+        "token": "žudikas",
+        "signature": "adiksuž",
+        "length": 7
+      },
+      {
+        "token": "gyvi",
+        "signature": "givy",
+        "length": 4
+      },
+      {
+        "token": "mėgsta",
+        "signature": "aėgmst",
+        "length": 6
+      },
+      {
+        "token": "žaidimą",
+        "signature": "aądimž",
+        "length": 7
+      },
+      {
+        "token": "and",
+        "signature": "adn",
+        "length": 3
+      },
+      {
+        "token": "dirbo",
+        "signature": "bdior",
+        "length": 5
+      },
+      {
+        "token": "nejudėk",
+        "signature": "deėjknu",
+        "length": 7
+      },
+      {
+        "token": "brolį",
+        "signature": "bįlor",
+        "length": 5
+      },
+      {
+        "token": "daugybę",
+        "signature": "abdęguy",
+        "length": 7
+      },
+      {
+        "token": "minutę",
+        "signature": "ęimntu",
+        "length": 6
+      },
+      {
+        "token": "niekaip",
+        "signature": "aeiknp",
+        "length": 7
+      },
+      {
+        "token": "vertas",
+        "signature": "aerstv",
+        "length": 6
+      },
+      {
+        "token": "kristau",
+        "signature": "aikrstu",
+        "length": 7
+      },
+      {
+        "token": "pasiilgau",
+        "signature": "agilpsu",
+        "length": 9
+      },
+      {
+        "token": "reikalingas",
+        "signature": "aegiklnrs",
+        "length": 11
+      },
+      {
+        "token": "siaubinga",
+        "signature": "abginsu",
+        "length": 9
+      },
+      {
+        "token": "pasilik",
+        "signature": "aiklps",
+        "length": 7
+      },
+      {
+        "token": "valanda",
+        "signature": "adlnv",
+        "length": 7
+      },
+      {
+        "token": "vykti",
+        "signature": "iktvy",
+        "length": 5
+      },
+      {
+        "token": "bi",
+        "signature": "bi",
+        "length": 2
+      },
+      {
+        "token": "palikau",
+        "signature": "aiklpu",
+        "length": 7
+      },
+      {
+        "token": "sekso",
+        "signature": "ekos",
+        "length": 5
+      },
+      {
+        "token": "suprantat",
+        "signature": "anprstu",
+        "length": 9
+      },
+      {
+        "token": "darysime",
+        "signature": "adeimrsy",
+        "length": 8
+      },
+      {
+        "token": "vertė",
+        "signature": "eėrtv",
+        "length": 5
+      },
+      {
+        "token": "kelnes",
+        "signature": "eklns",
+        "length": 6
+      },
+      {
+        "token": "kietas",
+        "signature": "aeikst",
+        "length": 6
+      },
+      {
+        "token": "kompanijos",
+        "signature": "aijkmnops",
+        "length": 10
+      },
+      {
+        "token": "langą",
+        "signature": "aągln",
+        "length": 5
+      },
+      {
+        "token": "prašyčiau",
+        "signature": "ačipršuy",
+        "length": 9
+      },
+      {
+        "token": "automobilį",
+        "signature": "abiįlmotu",
+        "length": 10
+      },
+      {
+        "token": "džimai",
+        "signature": "adimž",
+        "length": 6
+      },
+      {
+        "token": "kale",
+        "signature": "aekl",
+        "length": 4
+      },
+      {
+        "token": "veidas",
+        "signature": "adeisv",
+        "length": 6
+      },
+      {
+        "token": "galimybę",
+        "signature": "abęgilmy",
+        "length": 8
+      },
+      {
+        "token": "lieka",
+        "signature": "aeikl",
+        "length": 5
+      },
+      {
+        "token": "prisiminti",
+        "signature": "imnprst",
+        "length": 10
+      },
+      {
+        "token": "kambario",
+        "signature": "abikmor",
+        "length": 8
+      },
+      {
+        "token": "kitais",
+        "signature": "aikst",
+        "length": 6
+      },
+      {
+        "token": "knygos",
+        "signature": "gknosy",
+        "length": 6
+      },
+      {
+        "token": "vaikams",
+        "signature": "aikmsv",
+        "length": 7
+      },
+      {
+        "token": "dviem",
+        "signature": "deimv",
+        "length": 5
+      },
+      {
+        "token": "energijos",
+        "signature": "egijnors",
+        "length": 9
+      },
+      {
+        "token": "gyveno",
+        "signature": "egnovy",
+        "length": 6
+      },
+      {
+        "token": "nuotrauką",
+        "signature": "aąknortu",
+        "length": 9
+      },
+      {
+        "token": "tualetą",
+        "signature": "aąeltu",
+        "length": 7
+      },
+      {
+        "token": "pasirūpinsiu",
+        "signature": "ainprsuū",
+        "length": 12
+      },
+      {
+        "token": "keistas",
+        "signature": "aeikst",
+        "length": 7
+      },
+      {
+        "token": "matot",
+        "signature": "amot",
+        "length": 5
+      },
+      {
+        "token": "žemė",
+        "signature": "eėmž",
+        "length": 4
+      },
+      {
+        "token": "saulė",
+        "signature": "aėlsu",
+        "length": 5
+      },
+      {
+        "token": "laikais",
+        "signature": "aikls",
+        "length": 7
+      },
+      {
+        "token": "kalėjimą",
+        "signature": "aąėijklm",
+        "length": 8
+      },
+      {
+        "token": "kitur",
+        "signature": "ikrtu",
+        "length": 5
+      },
+      {
+        "token": "laišką",
+        "signature": "aąiklš",
+        "length": 6
+      },
+      {
+        "token": "manes",
+        "signature": "aemns",
+        "length": 5
+      },
+      {
+        "token": "panelė",
+        "signature": "aeėlnp",
+        "length": 6
+      },
+      {
+        "token": "padarysi",
+        "signature": "adiprsy",
+        "length": 8
+      },
+      {
+        "token": "pranešti",
+        "signature": "aeinpršt",
+        "length": 8
+      },
+      {
+        "token": "vardo",
+        "signature": "adorv",
+        "length": 5
+      },
+      {
+        "token": "suprantate",
+        "signature": "aenprstu",
+        "length": 10
+      },
+      {
+        "token": "verslo",
+        "signature": "elorsv",
+        "length": 6
+      },
+      {
+        "token": "penkių",
+        "signature": "eiknpų",
+        "length": 6
+      },
+      {
+        "token": "manot",
+        "signature": "amnot",
+        "length": 5
+      },
+      {
+        "token": "patrauk",
+        "signature": "akprtu",
+        "length": 7
+      },
+      {
+        "token": "gausiu",
+        "signature": "agisu",
+        "length": 6
+      },
+      {
+        "token": "kalbos",
+        "signature": "abklos",
+        "length": 6
+      },
+      {
+        "token": "susitiksime",
+        "signature": "eikmstu",
+        "length": 11
+      },
+      {
+        "token": "atsargiau",
+        "signature": "agirstu",
+        "length": 9
+      },
+      {
+        "token": "gyvybės",
+        "signature": "bėgsvy",
+        "length": 7
+      },
+      {
+        "token": "kitoje",
+        "signature": "eijkot",
+        "length": 6
+      },
+      {
+        "token": "neturėjo",
+        "signature": "eėjnortu",
+        "length": 8
+      },
+      {
+        "token": "pačios",
+        "signature": "ačiops",
+        "length": 6
+      },
+      {
+        "token": "tv",
+        "signature": "tv",
+        "length": 2
+      },
+      {
+        "token": "dauguma",
+        "signature": "adgmu",
+        "length": 7
+      },
+      {
+        "token": "nutinka",
+        "signature": "aikntu",
+        "length": 7
+      },
+      {
+        "token": "žodžiu",
+        "signature": "diouž",
+        "length": 6
+      },
+      {
+        "token": "meilę",
+        "signature": "eęilm",
+        "length": 5
+      },
+      {
+        "token": "narkotikų",
+        "signature": "aiknortų",
+        "length": 9
+      },
+      {
+        "token": "vyruti",
+        "signature": "irtuvy",
+        "length": 6
+      }
+    ],
+    "advanced": [
+      {
+        "token": "greito",
+        "signature": "egiort",
+        "length": 6
+      },
+      {
+        "token": "įprasta",
+        "signature": "aįprst",
+        "length": 7
+      },
+      {
+        "token": "išeisi",
+        "signature": "eisš",
+        "length": 6
+      },
+      {
+        "token": "išleisti",
+        "signature": "eilsšt",
+        "length": 8
+      },
+      {
+        "token": "kvapą",
+        "signature": "aąkpv",
+        "length": 5
+      },
+      {
+        "token": "linksmų",
+        "signature": "iklmnsų",
+        "length": 7
+      },
+      {
+        "token": "mažos",
+        "signature": "amosž",
+        "length": 5
+      },
+      {
+        "token": "nesąmones",
+        "signature": "ąemnos",
+        "length": 9
+      },
+      {
+        "token": "niujorkas",
+        "signature": "aijknorsu",
+        "length": 9
+      },
+      {
+        "token": "paaiškint",
+        "signature": "aiknpšt",
+        "length": 9
+      },
+      {
+        "token": "pagavau",
+        "signature": "agpuv",
+        "length": 7
+      },
+      {
+        "token": "paprašiau",
+        "signature": "aipršu",
+        "length": 9
+      },
+      {
+        "token": "perskaičiau",
+        "signature": "ačeikprsu",
+        "length": 11
+      },
+      {
+        "token": "praėjusią",
+        "signature": "aąėijprsu",
+        "length": 9
+      },
+      {
+        "token": "svajojau",
+        "signature": "ajosuv",
+        "length": 8
+      },
+      {
+        "token": "tuom",
+        "signature": "motu",
+        "length": 4
+      },
+      {
+        "token": "viršun",
+        "signature": "inršuv",
+        "length": 6
+      },
+      {
+        "token": "bombos",
+        "signature": "bmos",
+        "length": 6
+      },
+      {
+        "token": "energiją",
+        "signature": "ąegijnr",
+        "length": 8
+      },
+      {
+        "token": "galingas",
+        "signature": "agilns",
+        "length": 8
+      },
+      {
+        "token": "įstatymas",
+        "signature": "aįmsty",
+        "length": 9
+      },
+      {
+        "token": "išlikti",
+        "signature": "iklšt",
+        "length": 7
+      },
+      {
+        "token": "kaltės",
+        "signature": "aėklst",
+        "length": 6
+      },
+      {
+        "token": "karlas",
+        "signature": "aklrs",
+        "length": 6
+      },
+      {
+        "token": "kompiuteris",
+        "signature": "eikmoprstu",
+        "length": 11
+      },
+      {
+        "token": "lu",
+        "signature": "lu",
+        "length": 2
+      },
+      {
+        "token": "negalės",
+        "signature": "aeėglns",
+        "length": 7
+      },
+      {
+        "token": "padarytų",
+        "signature": "adprtųy",
+        "length": 8
+      },
+      {
+        "token": "pašto",
+        "signature": "aopšt",
+        "length": 5
+      },
+      {
+        "token": "pirštą",
+        "signature": "ąipršt",
+        "length": 6
+      },
+      {
+        "token": "pragaro",
+        "signature": "agopr",
+        "length": 7
+      },
+      {
+        "token": "priklausė",
+        "signature": "aėiklprsu",
+        "length": 9
+      },
+      {
+        "token": "ričardas",
+        "signature": "ačdirs",
+        "length": 8
+      },
+      {
+        "token": "sukūriau",
+        "signature": "aikrsuū",
+        "length": 8
+      },
+      {
+        "token": "vardus",
+        "signature": "adrsuv",
+        "length": 6
+      },
+      {
+        "token": "viduj",
+        "signature": "dijuv",
+        "length": 5
+      },
+      {
+        "token": "atėjome",
+        "signature": "aeėjmot",
+        "length": 7
+      },
+      {
+        "token": "atvejis",
+        "signature": "aeijstv",
+        "length": 7
+      },
+      {
+        "token": "baigiu",
+        "signature": "abgiu",
+        "length": 6
+      },
+      {
+        "token": "gandai",
+        "signature": "adgin",
+        "length": 6
+      },
+      {
+        "token": "gyvenimu",
+        "signature": "egimnuvy",
+        "length": 8
+      },
+      {
+        "token": "jausmą",
+        "signature": "aąjmsu",
+        "length": 6
+      },
+      {
+        "token": "jėgas",
+        "signature": "aėgjs",
+        "length": 5
+      },
+      {
+        "token": "kairėje",
+        "signature": "aeėijkr",
+        "length": 7
+      },
+      {
+        "token": "kieta",
+        "signature": "aeikt",
+        "length": 5
+      },
+      {
+        "token": "kišenėje",
+        "signature": "eėijknš",
+        "length": 8
+      },
+      {
+        "token": "knygoje",
+        "signature": "egjknoy",
+        "length": 7
+      },
+      {
+        "token": "komandoje",
+        "signature": "adejkmno",
+        "length": 9
+      },
+      {
+        "token": "ledų",
+        "signature": "delų",
+        "length": 4
+      },
+      {
+        "token": "likę",
+        "signature": "ęikl",
+        "length": 4
+      },
+      {
+        "token": "maksas",
+        "signature": "akms",
+        "length": 6
+      },
+      {
+        "token": "maloni",
+        "signature": "ailmno",
+        "length": 6
+      },
+      {
+        "token": "neisi",
+        "signature": "eins",
+        "length": 5
+      },
+      {
+        "token": "nustatyti",
+        "signature": "ainstuy",
+        "length": 9
+      },
+      {
+        "token": "palieku",
+        "signature": "aeiklpu",
+        "length": 7
+      },
+      {
+        "token": "paša",
+        "signature": "apš",
+        "length": 4
+      }
+    ]
+  }
+}

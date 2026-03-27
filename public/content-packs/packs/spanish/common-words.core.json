@@ -1,0 +1,3626 @@
+{
+  "packId": "spanish:common-words:core",
+  "languageId": "spanish",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "que",
+        "signature": "equ",
+        "length": 3
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "la",
+        "signature": "al",
+        "length": 2
+      },
+      {
+        "token": "el",
+        "signature": "el",
+        "length": 2
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "en",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "es",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "un",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "lo",
+        "signature": "lo",
+        "length": 2
+      },
+      {
+        "token": "por",
+        "signature": "opr",
+        "length": 3
+      },
+      {
+        "token": "me",
+        "signature": "em",
+        "length": 2
+      },
+      {
+        "token": "los",
+        "signature": "los",
+        "length": 3
+      },
+      {
+        "token": "para",
+        "signature": "apr",
+        "length": 4
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "está",
+        "signature": "áest",
+        "length": 4
+      },
+      {
+        "token": "qué",
+        "signature": "équ",
+        "length": 3
+      },
+      {
+        "token": "su",
+        "signature": "su",
+        "length": 2
+      },
+      {
+        "token": "bien",
+        "signature": "bein",
+        "length": 4
+      },
+      {
+        "token": "tu",
+        "signature": "tu",
+        "length": 2
+      },
+      {
+        "token": "eso",
+        "signature": "eos",
+        "length": 3
+      },
+      {
+        "token": "más",
+        "signature": "áms",
+        "length": 3
+      },
+      {
+        "token": "aquí",
+        "signature": "aíqu",
+        "length": 4
+      },
+      {
+        "token": "al",
+        "signature": "al",
+        "length": 2
+      },
+      {
+        "token": "como",
+        "signature": "cmo",
+        "length": 4
+      },
+      {
+        "token": "si",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "pero",
+        "signature": "eopr",
+        "length": 4
+      },
+      {
+        "token": "yo",
+        "signature": "oy",
+        "length": 2
+      },
+      {
+        "token": "le",
+        "signature": "el",
+        "length": 2
+      },
+      {
+        "token": "todo",
+        "signature": "dot",
+        "length": 4
+      },
+      {
+        "token": "esto",
+        "signature": "eost",
+        "length": 4
+      },
+      {
+        "token": "algo",
+        "signature": "aglo",
+        "length": 4
+      },
+      {
+        "token": "esta",
+        "signature": "aest",
+        "length": 4
+      },
+      {
+        "token": "muy",
+        "signature": "muy",
+        "length": 3
+      },
+      {
+        "token": "ser",
+        "signature": "ers",
+        "length": 3
+      },
+      {
+        "token": "hacer",
+        "signature": "acehr",
+        "length": 5
+      },
+      {
+        "token": "vez",
+        "signature": "evz",
+        "length": 3
+      },
+      {
+        "token": "sé",
+        "signature": "és",
+        "length": 2
+      },
+      {
+        "token": "nada",
+        "signature": "adn",
+        "length": 4
+      },
+      {
+        "token": "hay",
+        "signature": "ahy",
+        "length": 3
+      },
+      {
+        "token": "él",
+        "signature": "él",
+        "length": 2
+      },
+      {
+        "token": "ahora",
+        "signature": "ahor",
+        "length": 5
+      },
+      {
+        "token": "este",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "cuando",
+        "signature": "acdnou",
+        "length": 6
+      },
+      {
+        "token": "nos",
+        "signature": "nos",
+        "length": 3
+      },
+      {
+        "token": "estoy",
+        "signature": "eosty",
+        "length": 5
+      },
+      {
+        "token": "tiene",
+        "signature": "eint",
+        "length": 5
+      },
+      {
+        "token": "puedo",
+        "signature": "deopu",
+        "length": 5
+      },
+      {
+        "token": "fue",
+        "signature": "efu",
+        "length": 3
+      },
+      {
+        "token": "tú",
+        "signature": "tú",
+        "length": 2
+      },
+      {
+        "token": "así",
+        "signature": "aís",
+        "length": 3
+      },
+      {
+        "token": "tengo",
+        "signature": "egnot",
+        "length": 5
+      },
+      {
+        "token": "estás",
+        "signature": "áest",
+        "length": 5
+      },
+      {
+        "token": "casa",
+        "signature": "acs",
+        "length": 4
+      },
+      {
+        "token": "tiempo",
+        "signature": "eimopt",
+        "length": 6
+      },
+      {
+        "token": "todos",
+        "signature": "dost",
+        "length": 5
+      },
+      {
+        "token": "ya",
+        "signature": "ay",
+        "length": 2
+      },
+      {
+        "token": "sus",
+        "signature": "su",
+        "length": 3
+      },
+      {
+        "token": "tan",
+        "signature": "ant",
+        "length": 3
+      },
+      {
+        "token": "mí",
+        "signature": "ím",
+        "length": 2
+      },
+      {
+        "token": "quiero",
+        "signature": "eioqru",
+        "length": 6
+      },
+      {
+        "token": "puede",
+        "signature": "depu",
+        "length": 5
+      },
+      {
+        "token": "mucho",
+        "signature": "chmou",
+        "length": 5
+      },
+      {
+        "token": "ti",
+        "signature": "it",
+        "length": 2
+      },
+      {
+        "token": "dos",
+        "signature": "dos",
+        "length": 3
+      },
+      {
+        "token": "ese",
+        "signature": "es",
+        "length": 3
+      },
+      {
+        "token": "decir",
+        "signature": "cdeir",
+        "length": 5
+      },
+      {
+        "token": "soy",
+        "signature": "osy",
+        "length": 3
+      },
+      {
+        "token": "va",
+        "signature": "av",
+        "length": 2
+      },
+      {
+        "token": "estaba",
+        "signature": "abest",
+        "length": 6
+      },
+      {
+        "token": "siento",
+        "signature": "einost",
+        "length": 6
+      },
+      {
+        "token": "vida",
+        "signature": "adiv",
+        "length": 4
+      },
+      {
+        "token": "mejor",
+        "signature": "ejmor",
+        "length": 5
+      },
+      {
+        "token": "hombre",
+        "signature": "behmor",
+        "length": 6
+      },
+      {
+        "token": "ver",
+        "signature": "erv",
+        "length": 3
+      },
+      {
+        "token": "sobre",
+        "signature": "beors",
+        "length": 5
+      },
+      {
+        "token": "voy",
+        "signature": "ovy",
+        "length": 3
+      },
+      {
+        "token": "sí",
+        "signature": "ís",
+        "length": 2
+      },
+      {
+        "token": "cosas",
+        "signature": "acos",
+        "length": 5
+      },
+      {
+        "token": "tienes",
+        "signature": "einst",
+        "length": 6
+      },
+      {
+        "token": "hace",
+        "signature": "aceh",
+        "length": 4
+      },
+      {
+        "token": "eres",
+        "signature": "ers",
+        "length": 4
+      },
+      {
+        "token": "usted",
+        "signature": "destu",
+        "length": 5
+      },
+      {
+        "token": "años",
+        "signature": "años",
+        "length": 4
+      },
+      {
+        "token": "porque",
+        "signature": "eopqru",
+        "length": 6
+      },
+      {
+        "token": "están",
+        "signature": "áenst",
+        "length": 5
+      },
+      {
+        "token": "sólo",
+        "signature": "loós",
+        "length": 4
+      },
+      {
+        "token": "ir",
+        "signature": "ir",
+        "length": 2
+      },
+      {
+        "token": "estar",
+        "signature": "aerst",
+        "length": 5
+      },
+      {
+        "token": "también",
+        "signature": "abéimnt",
+        "length": 7
+      },
+      {
+        "token": "verdad",
+        "signature": "aderv",
+        "length": 6
+      },
+      {
+        "token": "día",
+        "signature": "adí",
+        "length": 3
+      },
+      {
+        "token": "poco",
+        "signature": "cop",
+        "length": 4
+      },
+      {
+        "token": "noche",
+        "signature": "cehno",
+        "length": 5
+      },
+      {
+        "token": "hecho",
+        "signature": "ceho",
+        "length": 5
+      },
+      {
+        "token": "señor",
+        "signature": "eñors",
+        "length": 5
+      },
+      {
+        "token": "vamos",
+        "signature": "amosv",
+        "length": 5
+      },
+      {
+        "token": "acuerdo",
+        "signature": "acdeoru",
+        "length": 7
+      },
+      {
+        "token": "antes",
+        "signature": "aenst",
+        "length": 5
+      },
+      {
+        "token": "ahí",
+        "signature": "ahí",
+        "length": 3
+      },
+      {
+        "token": "alguien",
+        "signature": "aegilnu",
+        "length": 7
+      },
+      {
+        "token": "gente",
+        "signature": "egnt",
+        "length": 5
+      },
+      {
+        "token": "mismo",
+        "signature": "imos",
+        "length": 5
+      },
+      {
+        "token": "trabajo",
+        "signature": "abjort",
+        "length": 7
+      },
+      {
+        "token": "otra",
+        "signature": "aort",
+        "length": 4
+      },
+      {
+        "token": "hasta",
+        "signature": "ahst",
+        "length": 5
+      },
+      {
+        "token": "mis",
+        "signature": "ims",
+        "length": 3
+      },
+      {
+        "token": "creo",
+        "signature": "ceor",
+        "length": 4
+      },
+      {
+        "token": "nunca",
+        "signature": "acnu",
+        "length": 5
+      },
+      {
+        "token": "uno",
+        "signature": "nou",
+        "length": 3
+      },
+      {
+        "token": "hablar",
+        "signature": "abhlr",
+        "length": 6
+      },
+      {
+        "token": "puedes",
+        "signature": "depsu",
+        "length": 6
+      },
+      {
+        "token": "sabes",
+        "signature": "abes",
+        "length": 5
+      },
+      {
+        "token": "nosotros",
+        "signature": "norst",
+        "length": 8
+      },
+      {
+        "token": "padre",
+        "signature": "adepr",
+        "length": 5
+      },
+      {
+        "token": "quieres",
+        "signature": "eiqrsu",
+        "length": 7
+      },
+      {
+        "token": "mundo",
+        "signature": "dmnou",
+        "length": 5
+      },
+      {
+        "token": "pasa",
+        "signature": "aps",
+        "length": 4
+      },
+      {
+        "token": "dijo",
+        "signature": "dijo",
+        "length": 4
+      },
+      {
+        "token": "momento",
+        "signature": "emnot",
+        "length": 7
+      },
+      {
+        "token": "dinero",
+        "signature": "deinor",
+        "length": 6
+      },
+      {
+        "token": "tenemos",
+        "signature": "emnost",
+        "length": 7
+      },
+      {
+        "token": "lugar",
+        "signature": "aglru",
+        "length": 5
+      },
+      {
+        "token": "siempre",
+        "signature": "eimprs",
+        "length": 7
+      },
+      {
+        "token": "otro",
+        "signature": "ort",
+        "length": 4
+      },
+      {
+        "token": "estado",
+        "signature": "adeost",
+        "length": 6
+      },
+      {
+        "token": "tener",
+        "signature": "enrt",
+        "length": 5
+      },
+      {
+        "token": "haciendo",
+        "signature": "acdehino",
+        "length": 8
+      },
+      {
+        "token": "ni",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "bueno",
+        "signature": "benou",
+        "length": 5
+      },
+      {
+        "token": "cosa",
+        "signature": "acos",
+        "length": 4
+      },
+      {
+        "token": "tipo",
+        "signature": "iopt",
+        "length": 4
+      },
+      {
+        "token": "quiere",
+        "signature": "eiqru",
+        "length": 6
+      },
+      {
+        "token": "fuera",
+        "signature": "aefru",
+        "length": 5
+      },
+      {
+        "token": "sido",
+        "signature": "dios",
+        "length": 4
+      },
+      {
+        "token": "ellos",
+        "signature": "elos",
+        "length": 5
+      },
+      {
+        "token": "amigo",
+        "signature": "agimo",
+        "length": 5
+      },
+      {
+        "token": "tus",
+        "signature": "stu",
+        "length": 3
+      },
+      {
+        "token": "vas",
+        "signature": "asv",
+        "length": 3
+      },
+      {
+        "token": "cómo",
+        "signature": "cmoó",
+        "length": 4
+      },
+      {
+        "token": "nuevo",
+        "signature": "enouv",
+        "length": 5
+      },
+      {
+        "token": "menos",
+        "signature": "emnos",
+        "length": 5
+      },
+      {
+        "token": "hijo",
+        "signature": "hijo",
+        "length": 4
+      },
+      {
+        "token": "nadie",
+        "signature": "adein",
+        "length": 5
+      },
+      {
+        "token": "estamos",
+        "signature": "aemost",
+        "length": 7
+      },
+      {
+        "token": "donde",
+        "signature": "deno",
+        "length": 5
+      },
+      {
+        "token": "madre",
+        "signature": "ademr",
+        "length": 5
+      },
+      {
+        "token": "quién",
+        "signature": "éinqu",
+        "length": 5
+      },
+      {
+        "token": "mañana",
+        "signature": "amnñ",
+        "length": 6
+      },
+      {
+        "token": "días",
+        "signature": "adís",
+        "length": 4
+      },
+      {
+        "token": "había",
+        "signature": "abhí",
+        "length": 5
+      },
+      {
+        "token": "parece",
+        "signature": "acepr",
+        "length": 6
+      },
+      {
+        "token": "gusta",
+        "signature": "agstu",
+        "length": 5
+      },
+      {
+        "token": "mujer",
+        "signature": "ejmru",
+        "length": 5
+      },
+      {
+        "token": "les",
+        "signature": "els",
+        "length": 3
+      },
+      {
+        "token": "desde",
+        "signature": "des",
+        "length": 5
+      },
+      {
+        "token": "nombre",
+        "signature": "bemnor",
+        "length": 6
+      },
+      {
+        "token": "allí",
+        "signature": "aíl",
+        "length": 4
+      },
+      {
+        "token": "haber",
+        "signature": "abehr",
+        "length": 5
+      },
+      {
+        "token": "podría",
+        "signature": "adíopr",
+        "length": 6
+      },
+      {
+        "token": "nuestro",
+        "signature": "enorstu",
+        "length": 7
+      },
+      {
+        "token": "mío",
+        "signature": "ímo",
+        "length": 3
+      },
+      {
+        "token": "conmigo",
+        "signature": "cgimno",
+        "length": 7
+      },
+      {
+        "token": "gran",
+        "signature": "agnr",
+        "length": 4
+      },
+      {
+        "token": "dónde",
+        "signature": "denó",
+        "length": 5
+      },
+      {
+        "token": "parte",
+        "signature": "aeprt",
+        "length": 5
+      },
+      {
+        "token": "después",
+        "signature": "deépsu",
+        "length": 7
+      },
+      {
+        "token": "entonces",
+        "signature": "cenost",
+        "length": 8
+      },
+      {
+        "token": "sabe",
+        "signature": "abes",
+        "length": 4
+      },
+      {
+        "token": "mal",
+        "signature": "alm",
+        "length": 3
+      },
+      {
+        "token": "hacerlo",
+        "signature": "acehlor",
+        "length": 7
+      },
+      {
+        "token": "dije",
+        "signature": "deij",
+        "length": 4
+      },
+      {
+        "token": "tenía",
+        "signature": "aeínt",
+        "length": 5
+      },
+      {
+        "token": "dice",
+        "signature": "cdei",
+        "length": 4
+      },
+      {
+        "token": "importa",
+        "signature": "aimoprt",
+        "length": 7
+      },
+      {
+        "token": "visto",
+        "signature": "iostv",
+        "length": 5
+      },
+      {
+        "token": "seguro",
+        "signature": "egorsu",
+        "length": 6
+      },
+      {
+        "token": "gracias",
+        "signature": "acgirs",
+        "length": 7
+      },
+      {
+        "token": "tal",
+        "signature": "alt",
+        "length": 3
+      },
+      {
+        "token": "contigo",
+        "signature": "cginot",
+        "length": 7
+      },
+      {
+        "token": "razón",
+        "signature": "anórz",
+        "length": 5
+      },
+      {
+        "token": "tres",
+        "signature": "erst",
+        "length": 4
+      },
+      {
+        "token": "saber",
+        "signature": "abers",
+        "length": 5
+      },
+      {
+        "token": "nuestra",
+        "signature": "aenrstu",
+        "length": 7
+      },
+      {
+        "token": "serio",
+        "signature": "eiors",
+        "length": 5
+      },
+      {
+        "token": "veces",
+        "signature": "cesv",
+        "length": 5
+      },
+      {
+        "token": "todas",
+        "signature": "adost",
+        "length": 5
+      },
+      {
+        "token": "problema",
+        "signature": "abelmopr",
+        "length": 8
+      },
+      {
+        "token": "podemos",
+        "signature": "demops",
+        "length": 7
+      },
+      {
+        "token": "buena",
+        "signature": "abenu",
+        "length": 5
+      },
+      {
+        "token": "toda",
+        "signature": "adot",
+        "length": 4
+      },
+      {
+        "token": "luego",
+        "signature": "eglou",
+        "length": 5
+      },
+      {
+        "token": "hizo",
+        "signature": "hioz",
+        "length": 4
+      },
+      {
+        "token": "tanto",
+        "signature": "anot",
+        "length": 5
+      },
+      {
+        "token": "hora",
+        "signature": "ahor",
+        "length": 4
+      },
+      {
+        "token": "tarde",
+        "signature": "adert",
+        "length": 5
+      },
+      {
+        "token": "hoy",
+        "signature": "hoy",
+        "length": 3
+      },
+      {
+        "token": "quería",
+        "signature": "aeíqru",
+        "length": 6
+      },
+      {
+        "token": "familia",
+        "signature": "afilm",
+        "length": 7
+      },
+      {
+        "token": "dicho",
+        "signature": "cdhio",
+        "length": 5
+      },
+      {
+        "token": "buen",
+        "signature": "benu",
+        "length": 4
+      },
+      {
+        "token": "será",
+        "signature": "áers",
+        "length": 4
+      },
+      {
+        "token": "pasado",
+        "signature": "adops",
+        "length": 6
+      },
+      {
+        "token": "haces",
+        "signature": "acehs",
+        "length": 5
+      },
+      {
+        "token": "estas",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "salir",
+        "signature": "ailrs",
+        "length": 5
+      },
+      {
+        "token": "demasiado",
+        "signature": "adeimos",
+        "length": 9
+      },
+      {
+        "token": "tienen",
+        "signature": "eint",
+        "length": 6
+      },
+      {
+        "token": "hombres",
+        "signature": "behmors",
+        "length": 7
+      },
+      {
+        "token": "chica",
+        "signature": "achi",
+        "length": 5
+      },
+      {
+        "token": "cada",
+        "signature": "acd",
+        "length": 4
+      },
+      {
+        "token": "cuenta",
+        "signature": "acentu",
+        "length": 6
+      },
+      {
+        "token": "amor",
+        "signature": "amor",
+        "length": 4
+      },
+      {
+        "token": "entre",
+        "signature": "enrt",
+        "length": 5
+      },
+      {
+        "token": "cabeza",
+        "signature": "abcez",
+        "length": 6
+      },
+      {
+        "token": "debe",
+        "signature": "bde",
+        "length": 4
+      },
+      {
+        "token": "quien",
+        "signature": "einqu",
+        "length": 5
+      },
+      {
+        "token": "amigos",
+        "signature": "agimos",
+        "length": 6
+      },
+      {
+        "token": "lado",
+        "signature": "adlo",
+        "length": 4
+      },
+      {
+        "token": "papá",
+        "signature": "aáp",
+        "length": 4
+      },
+      {
+        "token": "unos",
+        "signature": "nosu",
+        "length": 4
+      },
+      {
+        "token": "policía",
+        "signature": "aciílop",
+        "length": 7
+      },
+      {
+        "token": "mamá",
+        "signature": "aám",
+        "length": 4
+      },
+      {
+        "token": "alguna",
+        "signature": "aglnu",
+        "length": 6
+      },
+      {
+        "token": "forma",
+        "signature": "afmor",
+        "length": 5
+      },
+      {
+        "token": "hermano",
+        "signature": "aehmnor",
+        "length": 7
+      },
+      {
+        "token": "pasó",
+        "signature": "aóps",
+        "length": 4
+      },
+      {
+        "token": "muerto",
+        "signature": "emortu",
+        "length": 6
+      },
+      {
+        "token": "esos",
+        "signature": "eos",
+        "length": 4
+      },
+      {
+        "token": "realmente",
+        "signature": "aelmnrt",
+        "length": 9
+      },
+      {
+        "token": "algún",
+        "signature": "aglnú",
+        "length": 5
+      },
+      {
+        "token": "camino",
+        "signature": "acimno",
+        "length": 6
+      },
+      {
+        "token": "caso",
+        "signature": "acos",
+        "length": 4
+      },
+      {
+        "token": "veo",
+        "signature": "eov",
+        "length": 3
+      },
+      {
+        "token": "ustedes",
+        "signature": "destu",
+        "length": 7
+      },
+      {
+        "token": "estos",
+        "signature": "eost",
+        "length": 5
+      },
+      {
+        "token": "necesito",
+        "signature": "ceinost",
+        "length": 8
+      },
+      {
+        "token": "crees",
+        "signature": "cers",
+        "length": 5
+      },
+      {
+        "token": "supuesto",
+        "signature": "eopstu",
+        "length": 8
+      },
+      {
+        "token": "puerta",
+        "signature": "aeprtu",
+        "length": 6
+      },
+      {
+        "token": "volver",
+        "signature": "elorv",
+        "length": 6
+      },
+      {
+        "token": "contra",
+        "signature": "acnort",
+        "length": 6
+      },
+      {
+        "token": "hemos",
+        "signature": "ehmos",
+        "length": 5
+      },
+      {
+        "token": "chico",
+        "signature": "chio",
+        "length": 5
+      },
+      {
+        "token": "personas",
+        "signature": "aenoprs",
+        "length": 8
+      },
+      {
+        "token": "minutos",
+        "signature": "imnostu",
+        "length": 7
+      },
+      {
+        "token": "manera",
+        "signature": "aemnr",
+        "length": 6
+      },
+      {
+        "token": "cierto",
+        "signature": "ceiort",
+        "length": 6
+      },
+      {
+        "token": "primera",
+        "signature": "aeimpr",
+        "length": 7
+      },
+      {
+        "token": "aún",
+        "signature": "anú",
+        "length": 3
+      },
+      {
+        "token": "historia",
+        "signature": "ahiorst",
+        "length": 8
+      },
+      {
+        "token": "persona",
+        "signature": "aenoprs",
+        "length": 7
+      },
+      {
+        "token": "pasar",
+        "signature": "aprs",
+        "length": 5
+      },
+      {
+        "token": "chicos",
+        "signature": "chios",
+        "length": 6
+      },
+      {
+        "token": "hablando",
+        "signature": "abdhlno",
+        "length": 8
+      },
+      {
+        "token": "cualquier",
+        "signature": "aceilqru",
+        "length": 9
+      },
+      {
+        "token": "pueden",
+        "signature": "denpu",
+        "length": 6
+      },
+      {
+        "token": "dentro",
+        "signature": "denort",
+        "length": 6
+      },
+      {
+        "token": "van",
+        "signature": "anv",
+        "length": 3
+      },
+      {
+        "token": "hacia",
+        "signature": "achi",
+        "length": 5
+      },
+      {
+        "token": "semana",
+        "signature": "aemns",
+        "length": 6
+      },
+      {
+        "token": "suerte",
+        "signature": "erstu",
+        "length": 6
+      },
+      {
+        "token": "siquiera",
+        "signature": "aeiqrsu",
+        "length": 8
+      },
+      {
+        "token": "ayuda",
+        "signature": "aduy",
+        "length": 5
+      },
+      {
+        "token": "hice",
+        "signature": "cehi",
+        "length": 4
+      },
+      {
+        "token": "digo",
+        "signature": "dgio",
+        "length": 4
+      },
+      {
+        "token": "debería",
+        "signature": "abdeír",
+        "length": 7
+      },
+      {
+        "token": "ciudad",
+        "signature": "acdiu",
+        "length": 6
+      },
+      {
+        "token": "niños",
+        "signature": "inños",
+        "length": 5
+      },
+      {
+        "token": "esas",
+        "signature": "aes",
+        "length": 4
+      },
+      {
+        "token": "juntos",
+        "signature": "jnostu",
+        "length": 6
+      },
+      {
+        "token": "esposa",
+        "signature": "aeops",
+        "length": 6
+      },
+      {
+        "token": "sabía",
+        "signature": "abís",
+        "length": 5
+      },
+      {
+        "token": "venir",
+        "signature": "einrv",
+        "length": 5
+      },
+      {
+        "token": "horas",
+        "signature": "ahors",
+        "length": 5
+      },
+      {
+        "token": "año",
+        "signature": "año",
+        "length": 3
+      },
+      {
+        "token": "poder",
+        "signature": "deopr",
+        "length": 5
+      },
+      {
+        "token": "importante",
+        "signature": "aeimnoprt",
+        "length": 10
+      },
+      {
+        "token": "gustaría",
+        "signature": "agírstu",
+        "length": 8
+      },
+      {
+        "token": "dejar",
+        "signature": "adejr",
+        "length": 5
+      },
+      {
+        "token": "hija",
+        "signature": "ahij",
+        "length": 4
+      },
+      {
+        "token": "miedo",
+        "signature": "deimo",
+        "length": 5
+      },
+      {
+        "token": "muerte",
+        "signature": "emrtu",
+        "length": 6
+      },
+      {
+        "token": "significa",
+        "signature": "acfgins",
+        "length": 9
+      },
+      {
+        "token": "problemas",
+        "signature": "abelmoprs",
+        "length": 9
+      },
+      {
+        "token": "corazón",
+        "signature": "acnoórz",
+        "length": 7
+      },
+      {
+        "token": "sería",
+        "signature": "aeírs",
+        "length": 5
+      },
+      {
+        "token": "mano",
+        "signature": "amno",
+        "length": 4
+      },
+      {
+        "token": "claro",
+        "signature": "aclor",
+        "length": 5
+      },
+      {
+        "token": "ojos",
+        "signature": "jos",
+        "length": 4
+      },
+      {
+        "token": "manos",
+        "signature": "amnos",
+        "length": 5
+      },
+      {
+        "token": "único",
+        "signature": "cinoú",
+        "length": 5
+      },
+      {
+        "token": "realidad",
+        "signature": "adeilr",
+        "length": 8
+      },
+      {
+        "token": "iba",
+        "signature": "abi",
+        "length": 3
+      },
+      {
+        "token": "rápido",
+        "signature": "ádiopr",
+        "length": 6
+      },
+      {
+        "token": "niño",
+        "signature": "inño",
+        "length": 4
+      },
+      {
+        "token": "auto",
+        "signature": "aotu",
+        "length": 4
+      },
+      {
+        "token": "pronto",
+        "signature": "noprt",
+        "length": 6
+      },
+      {
+        "token": "encontrar",
+        "signature": "acenort",
+        "length": 9
+      },
+      {
+        "token": "agua",
+        "signature": "agu",
+        "length": 4
+      },
+      {
+        "token": "cerca",
+        "signature": "acer",
+        "length": 5
+      },
+      {
+        "token": "viejo",
+        "signature": "eijov",
+        "length": 5
+      },
+      {
+        "token": "noches",
+        "signature": "cehnos",
+        "length": 6
+      },
+      {
+        "token": "bajo",
+        "signature": "abjo",
+        "length": 4
+      },
+      {
+        "token": "otros",
+        "signature": "orst",
+        "length": 5
+      },
+      {
+        "token": "ve",
+        "signature": "ev",
+        "length": 2
+      },
+      {
+        "token": "llegar",
+        "signature": "aeglr",
+        "length": 6
+      },
+      {
+        "token": "mientras",
+        "signature": "aeimnrst",
+        "length": 8
+      },
+      {
+        "token": "cariño",
+        "signature": "aciñor",
+        "length": 6
+      },
+      {
+        "token": "mas",
+        "signature": "ams",
+        "length": 3
+      },
+      {
+        "token": "nuestros",
+        "signature": "enorstu",
+        "length": 8
+      },
+      {
+        "token": "tomar",
+        "signature": "amort",
+        "length": 5
+      },
+      {
+        "token": "sangre",
+        "signature": "aegnrs",
+        "length": 6
+      },
+      {
+        "token": "entiendo",
+        "signature": "deinot",
+        "length": 8
+      },
+      {
+        "token": "pueda",
+        "signature": "adepu",
+        "length": 5
+      },
+      {
+        "token": "allá",
+        "signature": "aál",
+        "length": 4
+      },
+      {
+        "token": "espera",
+        "signature": "aeprs",
+        "length": 6
+      },
+      {
+        "token": "misma",
+        "signature": "aims",
+        "length": 5
+      },
+      {
+        "token": "da",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "fin",
+        "signature": "fin",
+        "length": 3
+      },
+      {
+        "token": "punto",
+        "signature": "noptu",
+        "length": 5
+      },
+      {
+        "token": "clase",
+        "signature": "acels",
+        "length": 5
+      },
+      {
+        "token": "haré",
+        "signature": "aéhr",
+        "length": 4
+      },
+      {
+        "token": "difícil",
+        "signature": "cdfiíl",
+        "length": 7
+      },
+      {
+        "token": "guerra",
+        "signature": "aegru",
+        "length": 6
+      },
+      {
+        "token": "somos",
+        "signature": "mos",
+        "length": 5
+      },
+      {
+        "token": "loco",
+        "signature": "clo",
+        "length": 4
+      },
+      {
+        "token": "vuelta",
+        "signature": "aeltuv",
+        "length": 6
+      },
+      {
+        "token": "entrar",
+        "signature": "aenrt",
+        "length": 6
+      },
+      {
+        "token": "última",
+        "signature": "ailmtú",
+        "length": 6
+      },
+      {
+        "token": "suficiente",
+        "signature": "cefinstu",
+        "length": 10
+      },
+      {
+        "token": "hiciste",
+        "signature": "cehist",
+        "length": 7
+      },
+      {
+        "token": "equipo",
+        "signature": "eiopqu",
+        "length": 6
+      },
+      {
+        "token": "hubiera",
+        "signature": "abehiru",
+        "length": 7
+      },
+      {
+        "token": "viene",
+        "signature": "einv",
+        "length": 5
+      },
+      {
+        "token": "primero",
+        "signature": "eimopr",
+        "length": 7
+      },
+      {
+        "token": "ninguna",
+        "signature": "aginu",
+        "length": 7
+      },
+      {
+        "token": "pensar",
+        "signature": "aenprs",
+        "length": 6
+      },
+      {
+        "token": "dijiste",
+        "signature": "deijst",
+        "length": 7
+      },
+      {
+        "token": "bastante",
+        "signature": "abenst",
+        "length": 8
+      },
+      {
+        "token": "pequeño",
+        "signature": "eñopqu",
+        "length": 7
+      },
+      {
+        "token": "ningún",
+        "signature": "ginú",
+        "length": 6
+      },
+      {
+        "token": "morir",
+        "signature": "imor",
+        "length": 5
+      },
+      {
+        "token": "tío",
+        "signature": "íot",
+        "length": 3
+      },
+      {
+        "token": "dices",
+        "signature": "cdeis",
+        "length": 5
+      },
+      {
+        "token": "oportunidad",
+        "signature": "adinoprtu",
+        "length": 11
+      },
+      {
+        "token": "casi",
+        "signature": "acis",
+        "length": 4
+      },
+      {
+        "token": "hago",
+        "signature": "agho",
+        "length": 4
+      },
+      {
+        "token": "cuerpo",
+        "signature": "ceopru",
+        "length": 6
+      },
+      {
+        "token": "trabajar",
+        "signature": "abjrt",
+        "length": 8
+      },
+      {
+        "token": "teléfono",
+        "signature": "eéflnot",
+        "length": 8
+      },
+      {
+        "token": "tenido",
+        "signature": "deinot",
+        "length": 6
+      },
+      {
+        "token": "todavía",
+        "signature": "adíotv",
+        "length": 7
+      },
+      {
+        "token": "posible",
+        "signature": "beilops",
+        "length": 7
+      },
+      {
+        "token": "arriba",
+        "signature": "abir",
+        "length": 6
+      },
+      {
+        "token": "señora",
+        "signature": "aeñors",
+        "length": 6
+      },
+      {
+        "token": "feliz",
+        "signature": "efilz",
+        "length": 5
+      },
+      {
+        "token": "muchas",
+        "signature": "achmsu",
+        "length": 6
+      },
+      {
+        "token": "coche",
+        "signature": "ceho",
+        "length": 5
+      },
+      {
+        "token": "esté",
+        "signature": "eést",
+        "length": 4
+      },
+      {
+        "token": "juego",
+        "signature": "egjou",
+        "length": 5
+      },
+      {
+        "token": "meses",
+        "signature": "ems",
+        "length": 5
+      },
+      {
+        "token": "necesita",
+        "signature": "aceinst",
+        "length": 8
+      },
+      {
+        "token": "cinco",
+        "signature": "cino",
+        "length": 5
+      },
+      {
+        "token": "mujeres",
+        "signature": "ejmrsu",
+        "length": 7
+      },
+      {
+        "token": "primer",
+        "signature": "eimpr",
+        "length": 6
+      },
+      {
+        "token": "llama",
+        "signature": "alm",
+        "length": 5
+      },
+      {
+        "token": "justo",
+        "signature": "jostu",
+        "length": 5
+      },
+      {
+        "token": "dar",
+        "signature": "adr",
+        "length": 3
+      },
+      {
+        "token": "debo",
+        "signature": "bdeo",
+        "length": 4
+      },
+      {
+        "token": "fuerte",
+        "signature": "efrtu",
+        "length": 6
+      },
+      {
+        "token": "culpa",
+        "signature": "aclpu",
+        "length": 5
+      },
+      {
+        "token": "pregunta",
+        "signature": "aegnprtu",
+        "length": 8
+      },
+      {
+        "token": "pasando",
+        "signature": "adnops",
+        "length": 7
+      },
+      {
+        "token": "vivir",
+        "signature": "irv",
+        "length": 5
+      },
+      {
+        "token": "ves",
+        "signature": "esv",
+        "length": 3
+      },
+      {
+        "token": "podía",
+        "signature": "adíop",
+        "length": 5
+      },
+      {
+        "token": "malo",
+        "signature": "almo",
+        "length": 4
+      },
+      {
+        "token": "arma",
+        "signature": "amr",
+        "length": 4
+      },
+      {
+        "token": "abajo",
+        "signature": "abjo",
+        "length": 5
+      },
+      {
+        "token": "diciendo",
+        "signature": "cdeino",
+        "length": 8
+      },
+      {
+        "token": "fiesta",
+        "signature": "aefist",
+        "length": 6
+      },
+      {
+        "token": "creer",
+        "signature": "cer",
+        "length": 5
+      },
+      {
+        "token": "genial",
+        "signature": "aegiln",
+        "length": 6
+      },
+      {
+        "token": "jefe",
+        "signature": "efj",
+        "length": 4
+      },
+      {
+        "token": "hagas",
+        "signature": "aghs",
+        "length": 5
+      },
+      {
+        "token": "segundo",
+        "signature": "degnosu",
+        "length": 7
+      },
+      {
+        "token": "número",
+        "signature": "emnorú",
+        "length": 6
+      },
+      {
+        "token": "atrás",
+        "signature": "aárst",
+        "length": 5
+      },
+      {
+        "token": "cuatro",
+        "signature": "acortu",
+        "length": 6
+      },
+      {
+        "token": "ido",
+        "signature": "dio",
+        "length": 3
+      },
+      {
+        "token": "unas",
+        "signature": "ansu",
+        "length": 4
+      },
+      {
+        "token": "hijos",
+        "signature": "hijos",
+        "length": 5
+      },
+      {
+        "token": "fácil",
+        "signature": "ácfil",
+        "length": 5
+      },
+      {
+        "token": "única",
+        "signature": "acinú",
+        "length": 5
+      },
+      {
+        "token": "hermana",
+        "signature": "aehmnr",
+        "length": 7
+      },
+      {
+        "token": "comer",
+        "signature": "cemor",
+        "length": 5
+      },
+      {
+        "token": "igual",
+        "signature": "agilu",
+        "length": 5
+      },
+      {
+        "token": "ello",
+        "signature": "elo",
+        "length": 4
+      },
+      {
+        "token": "pensando",
+        "signature": "adenops",
+        "length": 8
+      },
+      {
+        "token": "bebé",
+        "signature": "beé",
+        "length": 4
+      },
+      {
+        "token": "comida",
+        "signature": "acdimo",
+        "length": 6
+      },
+      {
+        "token": "buscando",
+        "signature": "abcdnosu",
+        "length": 8
+      },
+      {
+        "token": "lista",
+        "signature": "ailst",
+        "length": 5
+      },
+      {
+        "token": "muchos",
+        "signature": "chmosu",
+        "length": 6
+      },
+      {
+        "token": "haga",
+        "signature": "agh",
+        "length": 4
+      },
+      {
+        "token": "par",
+        "signature": "apr",
+        "length": 3
+      },
+      {
+        "token": "listo",
+        "signature": "ilost",
+        "length": 5
+      },
+      {
+        "token": "escuela",
+        "signature": "acelsu",
+        "length": 7
+      },
+      {
+        "token": "sentido",
+        "signature": "deinost",
+        "length": 7
+      },
+      {
+        "token": "seguir",
+        "signature": "egirsu",
+        "length": 6
+      },
+      {
+        "token": "dólares",
+        "signature": "adelórs",
+        "length": 7
+      },
+      {
+        "token": "padres",
+        "signature": "adeprs",
+        "length": 6
+      },
+      {
+        "token": "sola",
+        "signature": "alos",
+        "length": 4
+      },
+      {
+        "token": "hacen",
+        "signature": "acehn",
+        "length": 5
+      },
+      {
+        "token": "algunos",
+        "signature": "aglnosu",
+        "length": 7
+      },
+      {
+        "token": "estabas",
+        "signature": "abest",
+        "length": 7
+      },
+      {
+        "token": "nueva",
+        "signature": "aenuv",
+        "length": 5
+      },
+      {
+        "token": "habitación",
+        "signature": "abchinót",
+        "length": 10
+      },
+      {
+        "token": "algunas",
+        "signature": "aglnsu",
+        "length": 7
+      },
+      {
+        "token": "lejos",
+        "signature": "ejlos",
+        "length": 5
+      },
+      {
+        "token": "joven",
+        "signature": "ejnov",
+        "length": 5
+      },
+      {
+        "token": "vaya",
+        "signature": "avy",
+        "length": 4
+      },
+      {
+        "token": "palabra",
+        "signature": "ablpr",
+        "length": 7
+      },
+      {
+        "token": "medio",
+        "signature": "deimo",
+        "length": 5
+      },
+      {
+        "token": "preocupes",
+        "signature": "ceoprsu",
+        "length": 9
+      },
+      {
+        "token": "os",
+        "signature": "os",
+        "length": 2
+      },
+      {
+        "token": "quieren",
+        "signature": "einqru",
+        "length": 7
+      },
+      {
+        "token": "verte",
+        "signature": "ertv",
+        "length": 5
+      },
+      {
+        "token": "trata",
+        "signature": "art",
+        "length": 5
+      },
+      {
+        "token": "esperar",
+        "signature": "aeprs",
+        "length": 7
+      },
+      {
+        "token": "pensé",
+        "signature": "eénps",
+        "length": 5
+      },
+      {
+        "token": "último",
+        "signature": "ilmotú",
+        "length": 6
+      },
+      {
+        "token": "fueron",
+        "signature": "efnoru",
+        "length": 6
+      },
+      {
+        "token": "luz",
+        "signature": "luz",
+        "length": 3
+      },
+      {
+        "token": "chicas",
+        "signature": "achis",
+        "length": 6
+      },
+      {
+        "token": "amo",
+        "signature": "amo",
+        "length": 3
+      },
+      {
+        "token": "dio",
+        "signature": "dio",
+        "length": 3
+      },
+      {
+        "token": "exactamente",
+        "signature": "acemntx",
+        "length": 11
+      },
+      {
+        "token": "sabemos",
+        "signature": "abemos",
+        "length": 7
+      },
+      {
+        "token": "segura",
+        "signature": "aegrsu",
+        "length": 6
+      },
+      {
+        "token": "ayudar",
+        "signature": "adruy",
+        "length": 6
+      },
+      {
+        "token": "debes",
+        "signature": "bdes",
+        "length": 5
+      },
+      {
+        "token": "cuidado",
+        "signature": "acdiou",
+        "length": 7
+      },
+      {
+        "token": "esperando",
+        "signature": "adenoprs",
+        "length": 9
+      },
+      {
+        "token": "oído",
+        "signature": "dío",
+        "length": 4
+      },
+      {
+        "token": "vino",
+        "signature": "inov",
+        "length": 4
+      },
+      {
+        "token": "cree",
+        "signature": "cer",
+        "length": 4
+      },
+      {
+        "token": "cama",
+        "signature": "acm",
+        "length": 4
+      },
+      {
+        "token": "queda",
+        "signature": "adequ",
+        "length": 5
+      },
+      {
+        "token": "eran",
+        "signature": "aenr",
+        "length": 4
+      },
+      {
+        "token": "pequeña",
+        "signature": "aeñpqu",
+        "length": 7
+      },
+      {
+        "token": "seguridad",
+        "signature": "adegirsu",
+        "length": 9
+      },
+      {
+        "token": "sigue",
+        "signature": "egisu",
+        "length": 5
+      },
+      {
+        "token": "dormir",
+        "signature": "dimor",
+        "length": 6
+      },
+      {
+        "token": "paz",
+        "signature": "apz",
+        "length": 3
+      },
+      {
+        "token": "vivo",
+        "signature": "iov",
+        "length": 4
+      },
+      {
+        "token": "digas",
+        "signature": "adgis",
+        "length": 5
+      },
+      {
+        "token": "minuto",
+        "signature": "imnotu",
+        "length": 6
+      },
+      {
+        "token": "ven",
+        "signature": "env",
+        "length": 3
+      },
+      {
+        "token": "oficina",
+        "signature": "acfino",
+        "length": 7
+      },
+      {
+        "token": "nuestras",
+        "signature": "aenrstu",
+        "length": 8
+      },
+      {
+        "token": "pueblo",
+        "signature": "belopu",
+        "length": 6
+      },
+      {
+        "token": "siendo",
+        "signature": "deinos",
+        "length": 6
+      },
+      {
+        "token": "sitio",
+        "signature": "iost",
+        "length": 5
+      },
+      {
+        "token": "acerca",
+        "signature": "acer",
+        "length": 6
+      },
+      {
+        "token": "conozco",
+        "signature": "cnoz",
+        "length": 7
+      },
+      {
+        "token": "afuera",
+        "signature": "aefru",
+        "length": 6
+      },
+      {
+        "token": "peor",
+        "signature": "eopr",
+        "length": 4
+      },
+      {
+        "token": "país",
+        "signature": "aíps",
+        "length": 4
+      },
+      {
+        "token": "tierra",
+        "signature": "aeirt",
+        "length": 6
+      },
+      {
+        "token": "fui",
+        "signature": "fiu",
+        "length": 3
+      },
+      {
+        "token": "llamar",
+        "signature": "almr",
+        "length": 6
+      },
+      {
+        "token": "armas",
+        "signature": "amrs",
+        "length": 5
+      },
+      {
+        "token": "tampoco",
+        "signature": "acmopt",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "herida",
+        "signature": "adehir",
+        "length": 6
+      },
+      {
+        "token": "vendrá",
+        "signature": "ádenrv",
+        "length": 6
+      },
+      {
+        "token": "hechos",
+        "signature": "cehos",
+        "length": 6
+      },
+      {
+        "token": "abierto",
+        "signature": "abeiort",
+        "length": 7
+      },
+      {
+        "token": "calles",
+        "signature": "acels",
+        "length": 6
+      },
+      {
+        "token": "coger",
+        "signature": "cegor",
+        "length": 5
+      },
+      {
+        "token": "robo",
+        "signature": "bor",
+        "length": 4
+      },
+      {
+        "token": "descanso",
+        "signature": "acdenos",
+        "length": 8
+      },
+      {
+        "token": "llame",
+        "signature": "aelm",
+        "length": 5
+      },
+      {
+        "token": "estúpida",
+        "signature": "adeipstú",
+        "length": 8
+      },
+      {
+        "token": "contrato",
+        "signature": "acnort",
+        "length": 8
+      },
+      {
+        "token": "recibir",
+        "signature": "bceir",
+        "length": 7
+      },
+      {
+        "token": "vuestra",
+        "signature": "aerstuv",
+        "length": 7
+      },
+      {
+        "token": "intención",
+        "signature": "ceinót",
+        "length": 9
+      },
+      {
+        "token": "clases",
+        "signature": "acels",
+        "length": 6
+      },
+      {
+        "token": "hubieras",
+        "signature": "abehirsu",
+        "length": 8
+      },
+      {
+        "token": "borracho",
+        "signature": "abchor",
+        "length": 8
+      },
+      {
+        "token": "obtener",
+        "signature": "benort",
+        "length": 7
+      },
+      {
+        "token": "colegio",
+        "signature": "cegilo",
+        "length": 7
+      },
+      {
+        "token": "acceso",
+        "signature": "aceos",
+        "length": 6
+      },
+      {
+        "token": "peso",
+        "signature": "eops",
+        "length": 4
+      },
+      {
+        "token": "escuchado",
+        "signature": "acdehosu",
+        "length": 9
+      },
+      {
+        "token": "belleza",
+        "signature": "abelz",
+        "length": 7
+      },
+      {
+        "token": "lleve",
+        "signature": "elv",
+        "length": 5
+      },
+      {
+        "token": "víctimas",
+        "signature": "aciímstv",
+        "length": 8
+      },
+      {
+        "token": "mintiendo",
+        "signature": "deimnot",
+        "length": 9
+      },
+      {
+        "token": "paseo",
+        "signature": "aeops",
+        "length": 5
+      },
+      {
+        "token": "gana",
+        "signature": "agn",
+        "length": 4
+      },
+      {
+        "token": "echar",
+        "signature": "acehr",
+        "length": 5
+      },
+      {
+        "token": "dama",
+        "signature": "adm",
+        "length": 4
+      },
+      {
+        "token": "excepto",
+        "signature": "ceoptx",
+        "length": 7
+      },
+      {
+        "token": "cantar",
+        "signature": "acnrt",
+        "length": 6
+      },
+      {
+        "token": "robar",
+        "signature": "abor",
+        "length": 5
+      },
+      {
+        "token": "espectáculo",
+        "signature": "ácelopstu",
+        "length": 11
+      },
+      {
+        "token": "cuidar",
+        "signature": "acdiru",
+        "length": 6
+      },
+      {
+        "token": "profesional",
+        "signature": "aefilnoprs",
+        "length": 11
+      },
+      {
+        "token": "salud",
+        "signature": "adlsu",
+        "length": 5
+      },
+      {
+        "token": "ése",
+        "signature": "eés",
+        "length": 3
+      },
+      {
+        "token": "cerrar",
+        "signature": "acer",
+        "length": 6
+      },
+      {
+        "token": "viviendo",
+        "signature": "deinov",
+        "length": 8
+      },
+      {
+        "token": "dejaste",
+        "signature": "adejst",
+        "length": 7
+      },
+      {
+        "token": "disparar",
+        "signature": "adiprs",
+        "length": 8
+      },
+      {
+        "token": "lados",
+        "signature": "adlos",
+        "length": 5
+      },
+      {
+        "token": "huevos",
+        "signature": "ehosuv",
+        "length": 6
+      },
+      {
+        "token": "casos",
+        "signature": "acos",
+        "length": 5
+      },
+      {
+        "token": "directo",
+        "signature": "cdeiort",
+        "length": 7
+      },
+      {
+        "token": "líder",
+        "signature": "deílr",
+        "length": 5
+      },
+      {
+        "token": "serie",
+        "signature": "eirs",
+        "length": 5
+      },
+      {
+        "token": "menudo",
+        "signature": "demnou",
+        "length": 6
+      },
+      {
+        "token": "mirada",
+        "signature": "adimr",
+        "length": 6
+      },
+      {
+        "token": "escuchando",
+        "signature": "acdehnosu",
+        "length": 10
+      },
+      {
+        "token": "mercado",
+        "signature": "acdemor",
+        "length": 7
+      },
+      {
+        "token": "directamente",
+        "signature": "acdeimnrt",
+        "length": 12
+      },
+      {
+        "token": "abierta",
+        "signature": "abeirt",
+        "length": 7
+      },
+      {
+        "token": "hayan",
+        "signature": "ahny",
+        "length": 5
+      },
+      {
+        "token": "dueño",
+        "signature": "deñou",
+        "length": 5
+      },
+      {
+        "token": "dé",
+        "signature": "dé",
+        "length": 2
+      },
+      {
+        "token": "privado",
+        "signature": "adioprv",
+        "length": 7
+      },
+      {
+        "token": "llegamos",
+        "signature": "aeglmos",
+        "length": 8
+      },
+      {
+        "token": "tuvimos",
+        "signature": "imostuv",
+        "length": 7
+      },
+      {
+        "token": "comenzar",
+        "signature": "acemnorz",
+        "length": 8
+      },
+      {
+        "token": "excelente",
+        "signature": "celntx",
+        "length": 9
+      },
+      {
+        "token": "uso",
+        "signature": "osu",
+        "length": 3
+      },
+      {
+        "token": "harán",
+        "signature": "aáhnr",
+        "length": 5
+      },
+      {
+        "token": "conducir",
+        "signature": "cdinoru",
+        "length": 8
+      },
+      {
+        "token": "dormido",
+        "signature": "dimor",
+        "length": 7
+      },
+      {
+        "token": "actuar",
+        "signature": "acrtu",
+        "length": 6
+      },
+      {
+        "token": "cinta",
+        "signature": "acint",
+        "length": 5
+      },
+      {
+        "token": "quienes",
+        "signature": "einqsu",
+        "length": 7
+      },
+      {
+        "token": "habéis",
+        "signature": "abéhis",
+        "length": 6
+      },
+      {
+        "token": "desea",
+        "signature": "ades",
+        "length": 5
+      },
+      {
+        "token": "tardes",
+        "signature": "aderst",
+        "length": 6
+      },
+      {
+        "token": "agradezco",
+        "signature": "acdegorz",
+        "length": 9
+      },
+      {
+        "token": "estaremos",
+        "signature": "aemorst",
+        "length": 9
+      },
+      {
+        "token": "habido",
+        "signature": "abdhio",
+        "length": 6
+      },
+      {
+        "token": "deberían",
+        "signature": "abdeínr",
+        "length": 8
+      },
+      {
+        "token": "anda",
+        "signature": "adn",
+        "length": 4
+      },
+      {
+        "token": "desaparecido",
+        "signature": "acdeioprs",
+        "length": 12
+      },
+      {
+        "token": "preciosa",
+        "signature": "aceioprs",
+        "length": 8
+      },
+      {
+        "token": "encontraron",
+        "signature": "acenort",
+        "length": 11
+      },
+      {
+        "token": "alguno",
+        "signature": "aglnou",
+        "length": 6
+      },
+      {
+        "token": "responsabilidad",
+        "signature": "abdeilnoprs",
+        "length": 15
+      },
+      {
+        "token": "voluntad",
+        "signature": "adlnotuv",
+        "length": 8
+      },
+      {
+        "token": "enamorado",
+        "signature": "ademnor",
+        "length": 9
+      },
+      {
+        "token": "dedo",
+        "signature": "deo",
+        "length": 4
+      },
+      {
+        "token": "sombrero",
+        "signature": "bemors",
+        "length": 8
+      },
+      {
+        "token": "presente",
+        "signature": "enprst",
+        "length": 8
+      },
+      {
+        "token": "malos",
+        "signature": "almos",
+        "length": 5
+      },
+      {
+        "token": "efecto",
+        "signature": "cefot",
+        "length": 6
+      },
+      {
+        "token": "dura",
+        "signature": "adru",
+        "length": 4
+      },
+      {
+        "token": "tengan",
+        "signature": "aegnt",
+        "length": 6
+      },
+      {
+        "token": "llevado",
+        "signature": "adelov",
+        "length": 7
+      },
+      {
+        "token": "fuente",
+        "signature": "efntu",
+        "length": 6
+      },
+      {
+        "token": "perdiendo",
+        "signature": "deinopr",
+        "length": 9
+      },
+      {
+        "token": "limpio",
+        "signature": "ilmop",
+        "length": 6
+      },
+      {
+        "token": "hable",
+        "signature": "abehl",
+        "length": 5
+      },
+      {
+        "token": "fueras",
+        "signature": "aefrsu",
+        "length": 6
+      },
+      {
+        "token": "necesidad",
+        "signature": "acdeins",
+        "length": 9
+      },
+      {
+        "token": "usa",
+        "signature": "asu",
+        "length": 3
+      },
+      {
+        "token": "fuimos",
+        "signature": "fimosu",
+        "length": 6
+      },
+      {
+        "token": "gustó",
+        "signature": "góstu",
+        "length": 5
+      },
+      {
+        "token": "recuerdos",
+        "signature": "cdeorsu",
+        "length": 9
+      },
+      {
+        "token": "vos",
+        "signature": "osv",
+        "length": 3
+      },
+      {
+        "token": "resultado",
+        "signature": "adelorstu",
+        "length": 9
+      },
+      {
+        "token": "números",
+        "signature": "emnorsú",
+        "length": 7
+      },
+      {
+        "token": "débil",
+        "signature": "bdéil",
+        "length": 5
+      },
+      {
+        "token": "puedan",
+        "signature": "adenpu",
+        "length": 6
+      },
+      {
+        "token": "razones",
+        "signature": "aenorsz",
+        "length": 7
+      },
+      {
+        "token": "menor",
+        "signature": "emnor",
+        "length": 5
+      },
+      {
+        "token": "sentí",
+        "signature": "eínst",
+        "length": 5
+      },
+      {
+        "token": "piedra",
+        "signature": "adeipr",
+        "length": 6
+      },
+      {
+        "token": "techo",
+        "signature": "cehot",
+        "length": 5
+      },
+      {
+        "token": "paga",
+        "signature": "agp",
+        "length": 4
+      },
+      {
+        "token": "puse",
+        "signature": "epsu",
+        "length": 4
+      },
+      {
+        "token": "funcionar",
+        "signature": "acfinoru",
+        "length": 9
+      },
+      {
+        "token": "teoría",
+        "signature": "aeíort",
+        "length": 6
+      },
+      {
+        "token": "sigo",
+        "signature": "gios",
+        "length": 4
+      },
+      {
+        "token": "cabo",
+        "signature": "abco",
+        "length": 4
+      },
+      {
+        "token": "colega",
+        "signature": "aceglo",
+        "length": 6
+      },
+      {
+        "token": "romper",
+        "signature": "emopr",
+        "length": 6
+      },
+      {
+        "token": "llevan",
+        "signature": "aelnv",
+        "length": 6
+      },
+      {
+        "token": "sobrevivir",
+        "signature": "beiorsv",
+        "length": 10
+      },
+      {
+        "token": "fantástico",
+        "signature": "aácfinost",
+        "length": 10
+      },
+      {
+        "token": "militar",
+        "signature": "ailmrt",
+        "length": 7
+      },
+      {
+        "token": "descansar",
+        "signature": "acdenrs",
+        "length": 9
+      },
+      {
+        "token": "estarán",
+        "signature": "aáenrst",
+        "length": 7
+      },
+      {
+        "token": "hables",
+        "signature": "abehls",
+        "length": 6
+      },
+      {
+        "token": "marca",
+        "signature": "acmr",
+        "length": 5
+      },
+      {
+        "token": "agujero",
+        "signature": "aegjoru",
+        "length": 7
+      },
+      {
+        "token": "varios",
+        "signature": "aiorsv",
+        "length": 6
+      },
+      {
+        "token": "universo",
+        "signature": "einorsuv",
+        "length": 8
+      },
+      {
+        "token": "muevas",
+        "signature": "aemsuv",
+        "length": 6
+      },
+      {
+        "token": "búsqueda",
+        "signature": "abdeqsuú",
+        "length": 8
+      },
+      {
+        "token": "lengua",
+        "signature": "aeglnu",
+        "length": 6
+      },
+      {
+        "token": "enemigos",
+        "signature": "egimnos",
+        "length": 8
+      },
+      {
+        "token": "sabido",
+        "signature": "abdios",
+        "length": 6
+      },
+      {
+        "token": "parque",
+        "signature": "aepqru",
+        "length": 6
+      },
+      {
+        "token": "interés",
+        "signature": "eéinrst",
+        "length": 7
+      },
+      {
+        "token": "elegir",
+        "signature": "egilr",
+        "length": 6
+      },
+      {
+        "token": "vuelvas",
+        "signature": "aelsuv",
+        "length": 7
+      },
+      {
+        "token": "amas",
+        "signature": "ams",
+        "length": 4
+      },
+      {
+        "token": "cuerpos",
+        "signature": "ceoprsu",
+        "length": 7
+      },
+      {
+        "token": "quedo",
+        "signature": "deoqu",
+        "length": 5
+      },
+      {
+        "token": "gratis",
+        "signature": "agirst",
+        "length": 6
+      },
+      {
+        "token": "podremos",
+        "signature": "demoprs",
+        "length": 8
+      },
+      {
+        "token": "aquellos",
+        "signature": "aeloqsu",
+        "length": 8
+      },
+      {
+        "token": "detener",
+        "signature": "denrt",
+        "length": 7
+      },
+      {
+        "token": "manejar",
+        "signature": "aejmnr",
+        "length": 7
+      },
+      {
+        "token": "valiente",
+        "signature": "aeilntv",
+        "length": 8
+      },
+      {
+        "token": "conocía",
+        "signature": "acíno",
+        "length": 7
+      },
+      {
+        "token": "deber",
+        "signature": "bder",
+        "length": 5
+      },
+      {
+        "token": "recuperar",
+        "signature": "acepru",
+        "length": 9
+      },
+      {
+        "token": "bote",
+        "signature": "beot",
+        "length": 4
+      },
+      {
+        "token": "merece",
+        "signature": "cemr",
+        "length": 6
+      },
+      {
+        "token": "unidad",
+        "signature": "adinu",
+        "length": 6
+      },
+      {
+        "token": "ocurrido",
+        "signature": "cdioru",
+        "length": 8
+      },
+      {
+        "token": "toques",
+        "signature": "eoqstu",
+        "length": 6
+      },
+      {
+        "token": "dile",
+        "signature": "deil",
+        "length": 4
+      },
+      {
+        "token": "diario",
+        "signature": "adior",
+        "length": 6
+      },
+      {
+        "token": "propiedad",
+        "signature": "adeiopr",
+        "length": 9
+      },
+      {
+        "token": "entero",
+        "signature": "enort",
+        "length": 6
+      },
+      {
+        "token": "sentía",
+        "signature": "aeínst",
+        "length": 6
+      },
+      {
+        "token": "cerdo",
+        "signature": "cdeor",
+        "length": 5
+      },
+      {
+        "token": "intentarlo",
+        "signature": "aeilnort",
+        "length": 10
+      },
+      {
+        "token": "contento",
+        "signature": "cenot",
+        "length": 8
+      },
+      {
+        "token": "mapa",
+        "signature": "amp",
+        "length": 4
+      },
+      {
+        "token": "jardín",
+        "signature": "adíjnr",
+        "length": 6
+      },
+      {
+        "token": "bordo",
+        "signature": "bdor",
+        "length": 5
+      },
+      {
+        "token": "pecho",
+        "signature": "cehop",
+        "length": 5
+      },
+      {
+        "token": "agentes",
+        "signature": "aegnst",
+        "length": 7
+      },
+      {
+        "token": "conseguido",
+        "signature": "cdeginosu",
+        "length": 10
+      },
+      {
+        "token": "explicar",
+        "signature": "aceilprx",
+        "length": 8
+      },
+      {
+        "token": "podrás",
+        "signature": "ádoprs",
+        "length": 6
+      },
+      {
+        "token": "metido",
+        "signature": "deimot",
+        "length": 6
+      },
+      {
+        "token": "disculpas",
+        "signature": "acdilpsu",
+        "length": 9
+      },
+      {
+        "token": "juegos",
+        "signature": "egjosu",
+        "length": 6
+      },
+      {
+        "token": "llevará",
+        "signature": "aáelrv",
+        "length": 7
+      },
+      {
+        "token": "pastel",
+        "signature": "aelpst",
+        "length": 6
+      },
+      {
+        "token": "llamaba",
+        "signature": "ablm",
+        "length": 7
+      },
+      {
+        "token": "pago",
+        "signature": "agop",
+        "length": 4
+      },
+      {
+        "token": "resolver",
+        "signature": "elorsv",
+        "length": 8
+      },
+      {
+        "token": "aquella",
+        "signature": "aelqu",
+        "length": 7
+      },
+      {
+        "token": "aspecto",
+        "signature": "aceopst",
+        "length": 7
+      },
+      {
+        "token": "dispuesto",
+        "signature": "deiopstu",
+        "length": 9
+      },
+      {
+        "token": "tantos",
+        "signature": "anost",
+        "length": 6
+      },
+      {
+        "token": "sal",
+        "signature": "als",
+        "length": 3
+      },
+      {
+        "token": "podré",
+        "signature": "déopr",
+        "length": 5
+      },
+      {
+        "token": "genio",
+        "signature": "egino",
+        "length": 5
+      },
+      {
+        "token": "tantas",
+        "signature": "anst",
+        "length": 6
+      },
+      {
+        "token": "supe",
+        "signature": "epsu",
+        "length": 4
+      }
+    ],
+    "advanced": [
+      {
+        "token": "ocuparé",
+        "signature": "acéopru",
+        "length": 7
+      },
+      {
+        "token": "tigre",
+        "signature": "egirt",
+        "length": 5
+      },
+      {
+        "token": "cuente",
+        "signature": "centu",
+        "length": 6
+      },
+      {
+        "token": "cambiará",
+        "signature": "aábcimr",
+        "length": 8
+      },
+      {
+        "token": "metí",
+        "signature": "eímt",
+        "length": 4
+      },
+      {
+        "token": "traerme",
+        "signature": "aemrt",
+        "length": 7
+      },
+      {
+        "token": "harta",
+        "signature": "ahrt",
+        "length": 5
+      },
+      {
+        "token": "vidrio",
+        "signature": "diorv",
+        "length": 6
+      },
+      {
+        "token": "graciosa",
+        "signature": "acgiors",
+        "length": 8
+      },
+      {
+        "token": "pedimos",
+        "signature": "deimops",
+        "length": 7
+      },
+      {
+        "token": "creído",
+        "signature": "cdeíor",
+        "length": 6
+      },
+      {
+        "token": "pasear",
+        "signature": "aeprs",
+        "length": 6
+      },
+      {
+        "token": "verdes",
+        "signature": "dersv",
+        "length": 6
+      },
+      {
+        "token": "afecta",
+        "signature": "aceft",
+        "length": 6
+      },
+      {
+        "token": "queridos",
+        "signature": "deioqrsu",
+        "length": 8
+      },
+      {
+        "token": "dígame",
+        "signature": "adegím",
+        "length": 6
+      },
+      {
+        "token": "fallado",
+        "signature": "adflo",
+        "length": 7
+      },
+      {
+        "token": "química",
+        "signature": "aciímqu",
+        "length": 7
+      },
+      {
+        "token": "deberes",
+        "signature": "bders",
+        "length": 7
+      },
+      {
+        "token": "mostró",
+        "signature": "moórst",
+        "length": 6
+      },
+      {
+        "token": "bienvenidos",
+        "signature": "bdeinosv",
+        "length": 11
+      },
+      {
+        "token": "quince",
+        "signature": "ceinqu",
+        "length": 6
+      },
+      {
+        "token": "creciendo",
+        "signature": "cdeinor",
+        "length": 9
+      },
+      {
+        "token": "temor",
+        "signature": "emort",
+        "length": 5
+      },
+      {
+        "token": "ejecución",
+        "signature": "ceijnóu",
+        "length": 9
+      },
+      {
+        "token": "perímetro",
+        "signature": "eímoprt",
+        "length": 9
+      },
+      {
+        "token": "pluma",
+        "signature": "almpu",
+        "length": 5
+      },
+      {
+        "token": "fruta",
+        "signature": "afrtu",
+        "length": 5
+      },
+      {
+        "token": "armados",
+        "signature": "admors",
+        "length": 7
+      },
+      {
+        "token": "echa",
+        "signature": "aceh",
+        "length": 4
+      },
+      {
+        "token": "nene",
+        "signature": "en",
+        "length": 4
+      },
+      {
+        "token": "boleto",
+        "signature": "belot",
+        "length": 6
+      },
+      {
+        "token": "arco",
+        "signature": "acor",
+        "length": 4
+      },
+      {
+        "token": "be",
+        "signature": "be",
+        "length": 2
+      },
+      {
+        "token": "fortaleza",
+        "signature": "aeflortz",
+        "length": 9
+      },
+      {
+        "token": "equivoca",
+        "signature": "aceioquv",
+        "length": 8
+      },
+      {
+        "token": "llevarse",
+        "signature": "aelrsv",
+        "length": 8
+      },
+      {
+        "token": "amenazas",
+        "signature": "aemnsz",
+        "length": 8
+      },
+      {
+        "token": "lleves",
+        "signature": "elsv",
+        "length": 6
+      },
+      {
+        "token": "comenzado",
+        "signature": "acdemnoz",
+        "length": 9
+      },
+      {
+        "token": "conflicto",
+        "signature": "cfilnot",
+        "length": 9
+      },
+      {
+        "token": "enseñado",
+        "signature": "adenños",
+        "length": 8
+      },
+      {
+        "token": "vencer",
+        "signature": "cenrv",
+        "length": 6
+      },
+      {
+        "token": "manual",
+        "signature": "almnu",
+        "length": 6
+      },
+      {
+        "token": "ponemos",
+        "signature": "emnops",
+        "length": 7
+      },
+      {
+        "token": "estuviese",
+        "signature": "eistuv",
+        "length": 9
+      },
+      {
+        "token": "planos",
+        "signature": "alnops",
+        "length": 6
+      },
+      {
+        "token": "líderes",
+        "signature": "deílrs",
+        "length": 7
+      },
+      {
+        "token": "pesada",
+        "signature": "adeps",
+        "length": 6
+      },
+      {
+        "token": "quemado",
+        "signature": "ademoqu",
+        "length": 7
+      },
+      {
+        "token": "pegado",
+        "signature": "adegop",
+        "length": 6
+      },
+      {
+        "token": "acusación",
+        "signature": "acinósu",
+        "length": 9
+      },
+      {
+        "token": "modales",
+        "signature": "adelmos",
+        "length": 7
+      },
+      {
+        "token": "mundos",
+        "signature": "dmnosu",
+        "length": 6
+      },
+      {
+        "token": "unirse",
+        "signature": "einrsu",
+        "length": 6
+      },
+      {
+        "token": "abogada",
+        "signature": "abdgo",
+        "length": 7
+      }
+    ]
+  }
+}

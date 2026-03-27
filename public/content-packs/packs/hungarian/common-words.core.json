@@ -1,0 +1,3601 @@
+{
+  "packId": "hungarian:common-words:core",
+  "languageId": "hungarian",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 717,
+  "stages": {
+    "foundational": [
+      {
+        "token": "az",
+        "signature": "az",
+        "length": 2
+      },
+      {
+        "token": "és",
+        "signature": "és",
+        "length": 2
+      },
+      {
+        "token": "hogy",
+        "signature": "ghoy",
+        "length": 4
+      },
+      {
+        "token": "is",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "nem",
+        "signature": "emn",
+        "length": 3
+      },
+      {
+        "token": "egy",
+        "signature": "egy",
+        "length": 3
+      },
+      {
+        "token": "csak",
+        "signature": "acks",
+        "length": 4
+      },
+      {
+        "token": "vagy",
+        "signature": "agvy",
+        "length": 4
+      },
+      {
+        "token": "van",
+        "signature": "anv",
+        "length": 3
+      },
+      {
+        "token": "volt",
+        "signature": "lotv",
+        "length": 4
+      },
+      {
+        "token": "már",
+        "signature": "ámr",
+        "length": 3
+      },
+      {
+        "token": "ha",
+        "signature": "ah",
+        "length": 2
+      },
+      {
+        "token": "még",
+        "signature": "égm",
+        "length": 3
+      },
+      {
+        "token": "kell",
+        "signature": "ekl",
+        "length": 4
+      },
+      {
+        "token": "ez",
+        "signature": "ez",
+        "length": 2
+      },
+      {
+        "token": "mint",
+        "signature": "imnt",
+        "length": 4
+      },
+      {
+        "token": "azt",
+        "signature": "atz",
+        "length": 3
+      },
+      {
+        "token": "ki",
+        "signature": "ik",
+        "length": 2
+      },
+      {
+        "token": "akkor",
+        "signature": "akor",
+        "length": 5
+      },
+      {
+        "token": "sem",
+        "signature": "ems",
+        "length": 3
+      },
+      {
+        "token": "lehet",
+        "signature": "ehlt",
+        "length": 5
+      },
+      {
+        "token": "be",
+        "signature": "be",
+        "length": 2
+      },
+      {
+        "token": "mert",
+        "signature": "emrt",
+        "length": 4
+      },
+      {
+        "token": "minden",
+        "signature": "deimn",
+        "length": 6
+      },
+      {
+        "token": "olyan",
+        "signature": "alnoy",
+        "length": 5
+      },
+      {
+        "token": "szerint",
+        "signature": "einrstz",
+        "length": 7
+      },
+      {
+        "token": "magyar",
+        "signature": "agmry",
+        "length": 6
+      },
+      {
+        "token": "új",
+        "signature": "jú",
+        "length": 2
+      },
+      {
+        "token": "nagy",
+        "signature": "agny",
+        "length": 4
+      },
+      {
+        "token": "pedig",
+        "signature": "degip",
+        "length": 5
+      },
+      {
+        "token": "ezt",
+        "signature": "etz",
+        "length": 3
+      },
+      {
+        "token": "így",
+        "signature": "gíy",
+        "length": 3
+      },
+      {
+        "token": "úgy",
+        "signature": "gúy",
+        "length": 3
+      },
+      {
+        "token": "után",
+        "signature": "ántu",
+        "length": 4
+      },
+      {
+        "token": "jó",
+        "signature": "jó",
+        "length": 2
+      },
+      {
+        "token": "fel",
+        "signature": "efl",
+        "length": 3
+      },
+      {
+        "token": "két",
+        "signature": "ékt",
+        "length": 3
+      },
+      {
+        "token": "majd",
+        "signature": "adjm",
+        "length": 4
+      },
+      {
+        "token": "nagyon",
+        "signature": "agnoy",
+        "length": 6
+      },
+      {
+        "token": "aki",
+        "signature": "aik",
+        "length": 3
+      },
+      {
+        "token": "most",
+        "signature": "most",
+        "length": 4
+      },
+      {
+        "token": "én",
+        "signature": "én",
+        "length": 2
+      },
+      {
+        "token": "több",
+        "signature": "böt",
+        "length": 4
+      },
+      {
+        "token": "itt",
+        "signature": "it",
+        "length": 3
+      },
+      {
+        "token": "lesz",
+        "signature": "elsz",
+        "length": 4
+      },
+      {
+        "token": "ami",
+        "signature": "aim",
+        "length": 3
+      },
+      {
+        "token": "első",
+        "signature": "elős",
+        "length": 4
+      },
+      {
+        "token": "között",
+        "signature": "kötz",
+        "length": 6
+      },
+      {
+        "token": "amely",
+        "signature": "aelmy",
+        "length": 5
+      },
+      {
+        "token": "mi",
+        "signature": "im",
+        "length": 2
+      },
+      {
+        "token": "hanem",
+        "signature": "aehmn",
+        "length": 5
+      },
+      {
+        "token": "nincs",
+        "signature": "cins",
+        "length": 5
+      },
+      {
+        "token": "más",
+        "signature": "áms",
+        "length": 3
+      },
+      {
+        "token": "illetve",
+        "signature": "eiltv",
+        "length": 7
+      },
+      {
+        "token": "alatt",
+        "signature": "alt",
+        "length": 5
+      },
+      {
+        "token": "egyik",
+        "signature": "egiky",
+        "length": 5
+      },
+      {
+        "token": "volna",
+        "signature": "alnov",
+        "length": 5
+      },
+      {
+        "token": "amit",
+        "signature": "aimt",
+        "length": 4
+      },
+      {
+        "token": "arra",
+        "signature": "ar",
+        "length": 4
+      },
+      {
+        "token": "ilyen",
+        "signature": "eilny",
+        "length": 5
+      },
+      {
+        "token": "le",
+        "signature": "el",
+        "length": 2
+      },
+      {
+        "token": "azonban",
+        "signature": "abnoz",
+        "length": 7
+      },
+      {
+        "token": "ne",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "sok",
+        "signature": "kos",
+        "length": 3
+      },
+      {
+        "token": "amikor",
+        "signature": "aikmor",
+        "length": 6
+      },
+      {
+        "token": "való",
+        "signature": "alóv",
+        "length": 4
+      },
+      {
+        "token": "által",
+        "signature": "aált",
+        "length": 5
+      },
+      {
+        "token": "számára",
+        "signature": "aámrsz",
+        "length": 7
+      },
+      {
+        "token": "valamint",
+        "signature": "ailmntv",
+        "length": 8
+      },
+      {
+        "token": "azért",
+        "signature": "aértz",
+        "length": 5
+      },
+      {
+        "token": "akik",
+        "signature": "aik",
+        "length": 4
+      },
+      {
+        "token": "saját",
+        "signature": "aájst",
+        "length": 5
+      },
+      {
+        "token": "jól",
+        "signature": "jló",
+        "length": 3
+      },
+      {
+        "token": "ahol",
+        "signature": "ahlo",
+        "length": 4
+      },
+      {
+        "token": "ott",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "annak",
+        "signature": "akn",
+        "length": 5
+      },
+      {
+        "token": "vagyok",
+        "signature": "agkovy",
+        "length": 6
+      },
+      {
+        "token": "kis",
+        "signature": "iks",
+        "length": 3
+      },
+      {
+        "token": "mindig",
+        "signature": "dgimn",
+        "length": 6
+      },
+      {
+        "token": "miatt",
+        "signature": "aimt",
+        "length": 5
+      },
+      {
+        "token": "on",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "mellett",
+        "signature": "elmt",
+        "length": 7
+      },
+      {
+        "token": "alapján",
+        "signature": "aájlnp",
+        "length": 7
+      },
+      {
+        "token": "mit",
+        "signature": "imt",
+        "length": 3
+      },
+      {
+        "token": "lenne",
+        "signature": "eln",
+        "length": 5
+      },
+      {
+        "token": "vannak",
+        "signature": "aknv",
+        "length": 6
+      },
+      {
+        "token": "előtt",
+        "signature": "előt",
+        "length": 5
+      },
+      {
+        "token": "egész",
+        "signature": "eégsz",
+        "length": 5
+      },
+      {
+        "token": "át",
+        "signature": "át",
+        "length": 2
+      },
+      {
+        "token": "nélkül",
+        "signature": "éklnü",
+        "length": 6
+      },
+      {
+        "token": "lett",
+        "signature": "elt",
+        "length": 4
+      },
+      {
+        "token": "igen",
+        "signature": "egin",
+        "length": 4
+      },
+      {
+        "token": "ezért",
+        "signature": "eértz",
+        "length": 5
+      },
+      {
+        "token": "év",
+        "signature": "év",
+        "length": 2
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "másik",
+        "signature": "áikms",
+        "length": 5
+      },
+      {
+        "token": "teljes",
+        "signature": "ejlst",
+        "length": 6
+      },
+      {
+        "token": "néhány",
+        "signature": "áéhny",
+        "length": 6
+      },
+      {
+        "token": "ma",
+        "signature": "am",
+        "length": 2
+      },
+      {
+        "token": "során",
+        "signature": "ánors",
+        "length": 5
+      },
+      {
+        "token": "milyen",
+        "signature": "eilmny",
+        "length": 6
+      },
+      {
+        "token": "rá",
+        "signature": "ár",
+        "length": 2
+      },
+      {
+        "token": "hiszen",
+        "signature": "ehinsz",
+        "length": 6
+      },
+      {
+        "token": "mely",
+        "signature": "elmy",
+        "length": 4
+      },
+      {
+        "token": "mind",
+        "signature": "dimn",
+        "length": 4
+      },
+      {
+        "token": "valami",
+        "signature": "ailmv",
+        "length": 6
+      },
+      {
+        "token": "viszont",
+        "signature": "inostvz",
+        "length": 7
+      },
+      {
+        "token": "áll",
+        "signature": "ál",
+        "length": 3
+      },
+      {
+        "token": "tehát",
+        "signature": "áeht",
+        "length": 5
+      },
+      {
+        "token": "inkább",
+        "signature": "ábikn",
+        "length": 6
+      },
+      {
+        "token": "legyen",
+        "signature": "eglny",
+        "length": 6
+      },
+      {
+        "token": "három",
+        "signature": "áhmor",
+        "length": 5
+      },
+      {
+        "token": "tudom",
+        "signature": "dmotu",
+        "length": 5
+      },
+      {
+        "token": "amelyek",
+        "signature": "aeklmy",
+        "length": 7
+      },
+      {
+        "token": "európai",
+        "signature": "aeiópru",
+        "length": 7
+      },
+      {
+        "token": "éves",
+        "signature": "eésv",
+        "length": 4
+      },
+      {
+        "token": "adott",
+        "signature": "adot",
+        "length": 5
+      },
+      {
+        "token": "ezek",
+        "signature": "ekz",
+        "length": 4
+      },
+      {
+        "token": "tovább",
+        "signature": "ábotv",
+        "length": 6
+      },
+      {
+        "token": "nagyobb",
+        "signature": "abgnoy",
+        "length": 7
+      },
+      {
+        "token": "például",
+        "signature": "ádélpu",
+        "length": 7
+      },
+      {
+        "token": "nekem",
+        "signature": "ekmn",
+        "length": 5
+      },
+      {
+        "token": "könyv",
+        "signature": "knövy",
+        "length": 5
+      },
+      {
+        "token": "se",
+        "signature": "es",
+        "length": 2
+      },
+      {
+        "token": "szükséges",
+        "signature": "eégksüz",
+        "length": 9
+      },
+      {
+        "token": "együtt",
+        "signature": "egtüy",
+        "length": 6
+      },
+      {
+        "token": "azok",
+        "signature": "akoz",
+        "length": 4
+      },
+      {
+        "token": "akár",
+        "signature": "aákr",
+        "length": 4
+      },
+      {
+        "token": "ennek",
+        "signature": "ekn",
+        "length": 5
+      },
+      {
+        "token": "megfelelő",
+        "signature": "efglmő",
+        "length": 9
+      },
+      {
+        "token": "őket",
+        "signature": "ekőt",
+        "length": 4
+      },
+      {
+        "token": "szó",
+        "signature": "ósz",
+        "length": 3
+      },
+      {
+        "token": "elég",
+        "signature": "eégl",
+        "length": 4
+      },
+      {
+        "token": "hozzá",
+        "signature": "ához",
+        "length": 5
+      },
+      {
+        "token": "erre",
+        "signature": "er",
+        "length": 4
+      },
+      {
+        "token": "neki",
+        "signature": "eikn",
+        "length": 4
+      },
+      {
+        "token": "nap",
+        "signature": "anp",
+        "length": 3
+      },
+      {
+        "token": "ezzel",
+        "signature": "elz",
+        "length": 5
+      },
+      {
+        "token": "következő",
+        "signature": "eköőtvz",
+        "length": 9
+      },
+      {
+        "token": "esetén",
+        "signature": "eénst",
+        "length": 6
+      },
+      {
+        "token": "mivel",
+        "signature": "eilmv",
+        "length": 5
+      },
+      {
+        "token": "belül",
+        "signature": "belü",
+        "length": 5
+      },
+      {
+        "token": "ezen",
+        "signature": "enz",
+        "length": 4
+      },
+      {
+        "token": "éppen",
+        "signature": "eénp",
+        "length": 5
+      },
+      {
+        "token": "közül",
+        "signature": "klöüz",
+        "length": 5
+      },
+      {
+        "token": "fontos",
+        "signature": "fnost",
+        "length": 6
+      },
+      {
+        "token": "benne",
+        "signature": "ben",
+        "length": 5
+      },
+      {
+        "token": "jobb",
+        "signature": "bjo",
+        "length": 4
+      },
+      {
+        "token": "magát",
+        "signature": "aágmt",
+        "length": 5
+      },
+      {
+        "token": "esetben",
+        "signature": "benst",
+        "length": 7
+      },
+      {
+        "token": "különböző",
+        "signature": "bklnöőüz",
+        "length": 9
+      },
+      {
+        "token": "talán",
+        "signature": "aálnt",
+        "length": 5
+      },
+      {
+        "token": "voltak",
+        "signature": "aklotv",
+        "length": 6
+      },
+      {
+        "token": "fog",
+        "signature": "fgo",
+        "length": 3
+      },
+      {
+        "token": "teljesen",
+        "signature": "ejlnst",
+        "length": 8
+      },
+      {
+        "token": "maga",
+        "signature": "agm",
+        "length": 4
+      },
+      {
+        "token": "rendszer",
+        "signature": "denrsz",
+        "length": 8
+      },
+      {
+        "token": "egyes",
+        "signature": "egsy",
+        "length": 5
+      },
+      {
+        "token": "található",
+        "signature": "aáhlót",
+        "length": 9
+      },
+      {
+        "token": "vele",
+        "signature": "elv",
+        "length": 4
+      },
+      {
+        "token": "ebben",
+        "signature": "ben",
+        "length": 5
+      },
+      {
+        "token": "kellett",
+        "signature": "eklt",
+        "length": 7
+      },
+      {
+        "token": "második",
+        "signature": "ádikmos",
+        "length": 7
+      },
+      {
+        "token": "túl",
+        "signature": "ltú",
+        "length": 3
+      },
+      {
+        "token": "egyre",
+        "signature": "egry",
+        "length": 5
+      },
+      {
+        "token": "egyéb",
+        "signature": "beégy",
+        "length": 5
+      },
+      {
+        "token": "arról",
+        "signature": "alór",
+        "length": 5
+      },
+      {
+        "token": "valaki",
+        "signature": "aiklv",
+        "length": 6
+      },
+      {
+        "token": "miért",
+        "signature": "éimrt",
+        "length": 5
+      },
+      {
+        "token": "óta",
+        "signature": "aót",
+        "length": 3
+      },
+      {
+        "token": "ahogy",
+        "signature": "aghoy",
+        "length": 5
+      },
+      {
+        "token": "emberek",
+        "signature": "bekmr",
+        "length": 7
+      },
+      {
+        "token": "semmi",
+        "signature": "eims",
+        "length": 5
+      },
+      {
+        "token": "világ",
+        "signature": "ágilv",
+        "length": 5
+      },
+      {
+        "token": "tudja",
+        "signature": "adjtu",
+        "length": 5
+      },
+      {
+        "token": "bár",
+        "signature": "ábr",
+        "length": 3
+      },
+      {
+        "token": "azzal",
+        "signature": "alz",
+        "length": 5
+      },
+      {
+        "token": "nemzetközi",
+        "signature": "eikmnötz",
+        "length": 10
+      },
+      {
+        "token": "került",
+        "signature": "eklrtü",
+        "length": 6
+      },
+      {
+        "token": "ugyanis",
+        "signature": "aginsuy",
+        "length": 7
+      },
+      {
+        "token": "mondta",
+        "signature": "admnot",
+        "length": 6
+      },
+      {
+        "token": "aztán",
+        "signature": "aántz",
+        "length": 5
+      },
+      {
+        "token": "című",
+        "signature": "című",
+        "length": 4
+      },
+      {
+        "token": "isten",
+        "signature": "einst",
+        "length": 5
+      },
+      {
+        "token": "kicsit",
+        "signature": "cikst",
+        "length": 6
+      },
+      {
+        "token": "módon",
+        "signature": "dmnoó",
+        "length": 5
+      },
+      {
+        "token": "vissza",
+        "signature": "aisvz",
+        "length": 6
+      },
+      {
+        "token": "abban",
+        "signature": "abn",
+        "length": 5
+      },
+      {
+        "token": "legnagyobb",
+        "signature": "abeglnoy",
+        "length": 10
+      },
+      {
+        "token": "legalább",
+        "signature": "aábegl",
+        "length": 8
+      },
+      {
+        "token": "mindenki",
+        "signature": "deikmn",
+        "length": 8
+      },
+      {
+        "token": "gazdasági",
+        "signature": "aádgisz",
+        "length": 9
+      },
+      {
+        "token": "jelent",
+        "signature": "ejlnt",
+        "length": 6
+      },
+      {
+        "token": "persze",
+        "signature": "eprsz",
+        "length": 6
+      },
+      {
+        "token": "részt",
+        "signature": "érstz",
+        "length": 5
+      },
+      {
+        "token": "újra",
+        "signature": "ajrú",
+        "length": 4
+      },
+      {
+        "token": "tud",
+        "signature": "dtu",
+        "length": 3
+      },
+      {
+        "token": "kívül",
+        "signature": "íklüv",
+        "length": 5
+      },
+      {
+        "token": "eddig",
+        "signature": "degi",
+        "length": 5
+      },
+      {
+        "token": "össze",
+        "signature": "eösz",
+        "length": 5
+      },
+      {
+        "token": "keresztül",
+        "signature": "eklrstüz",
+        "length": 9
+      },
+      {
+        "token": "hogyan",
+        "signature": "aghnoy",
+        "length": 6
+      },
+      {
+        "token": "biztos",
+        "signature": "biostz",
+        "length": 6
+      },
+      {
+        "token": "idő",
+        "signature": "diő",
+        "length": 3
+      },
+      {
+        "token": "utolsó",
+        "signature": "loóstu",
+        "length": 6
+      },
+      {
+        "token": "azon",
+        "signature": "anoz",
+        "length": 4
+      },
+      {
+        "token": "kerül",
+        "signature": "eklrü",
+        "length": 5
+      },
+      {
+        "token": "szinte",
+        "signature": "einstz",
+        "length": 6
+      },
+      {
+        "token": "dolog",
+        "signature": "dglo",
+        "length": 5
+      },
+      {
+        "token": "egyetlen",
+        "signature": "eglnty",
+        "length": 8
+      },
+      {
+        "token": "ide",
+        "signature": "dei",
+        "length": 3
+      },
+      {
+        "token": "mikor",
+        "signature": "ikmor",
+        "length": 5
+      },
+      {
+        "token": "szép",
+        "signature": "épsz",
+        "length": 4
+      },
+      {
+        "token": "mégis",
+        "signature": "égims",
+        "length": 5
+      },
+      {
+        "token": "érdekében",
+        "signature": "bdeéknr",
+        "length": 9
+      },
+      {
+        "token": "felé",
+        "signature": "eéfl",
+        "length": 4
+      },
+      {
+        "token": "have",
+        "signature": "aehv",
+        "length": 4
+      },
+      {
+        "token": "szerintem",
+        "signature": "eimnrstz",
+        "length": 9
+      },
+      {
+        "token": "mai",
+        "signature": "aim",
+        "length": 3
+      },
+      {
+        "token": "nemzeti",
+        "signature": "eimntz",
+        "length": 7
+      },
+      {
+        "token": "szemben",
+        "signature": "bemnsz",
+        "length": 7
+      },
+      {
+        "token": "sokkal",
+        "signature": "aklos",
+        "length": 6
+      },
+      {
+        "token": "jog",
+        "signature": "gjo",
+        "length": 3
+      },
+      {
+        "token": "összes",
+        "signature": "eösz",
+        "length": 6
+      },
+      {
+        "token": "míg",
+        "signature": "gím",
+        "length": 3
+      },
+      {
+        "token": "képes",
+        "signature": "eékps",
+        "length": 5
+      },
+      {
+        "token": "további",
+        "signature": "ábiotv",
+        "length": 7
+      },
+      {
+        "token": "szakmai",
+        "signature": "aikmsz",
+        "length": 7
+      },
+      {
+        "token": "legjobb",
+        "signature": "begjlo",
+        "length": 7
+      },
+      {
+        "token": "amelyet",
+        "signature": "aelmty",
+        "length": 7
+      },
+      {
+        "token": "lászló",
+        "signature": "álósz",
+        "length": 6
+      },
+      {
+        "token": "szabad",
+        "signature": "abdsz",
+        "length": 6
+      },
+      {
+        "token": "általában",
+        "signature": "aáblnt",
+        "length": 9
+      },
+      {
+        "token": "élet",
+        "signature": "eélt",
+        "length": 4
+      },
+      {
+        "token": "évi",
+        "signature": "éiv",
+        "length": 3
+      },
+      {
+        "token": "szóló",
+        "signature": "lósz",
+        "length": 5
+      },
+      {
+        "token": "újabb",
+        "signature": "abjú",
+        "length": 5
+      },
+      {
+        "token": "kellene",
+        "signature": "ekln",
+        "length": 7
+      },
+      {
+        "token": "helyi",
+        "signature": "ehily",
+        "length": 5
+      },
+      {
+        "token": "hosszú",
+        "signature": "hosúz",
+        "length": 6
+      },
+      {
+        "token": "jobban",
+        "signature": "abjno",
+        "length": 6
+      },
+      {
+        "token": "kapcsolatban",
+        "signature": "abcklnopst",
+        "length": 12
+      },
+      {
+        "token": "kapcsolatos",
+        "signature": "acklopst",
+        "length": 11
+      },
+      {
+        "token": "politikai",
+        "signature": "aiklopt",
+        "length": 9
+      },
+      {
+        "token": "régi",
+        "signature": "égir",
+        "length": 4
+      },
+      {
+        "token": "amerikai",
+        "signature": "aeikmr",
+        "length": 8
+      },
+      {
+        "token": "cég",
+        "signature": "cég",
+        "length": 3
+      },
+      {
+        "token": "egyszer",
+        "signature": "egrsyz",
+        "length": 7
+      },
+      {
+        "token": "azokat",
+        "signature": "akotz",
+        "length": 6
+      },
+      {
+        "token": "része",
+        "signature": "eérsz",
+        "length": 5
+      },
+      {
+        "token": "emberi",
+        "signature": "beimr",
+        "length": 6
+      },
+      {
+        "token": "készült",
+        "signature": "éklstüz",
+        "length": 7
+      },
+      {
+        "token": "számos",
+        "signature": "ámosz",
+        "length": 6
+      },
+      {
+        "token": "teszi",
+        "signature": "eistz",
+        "length": 5
+      },
+      {
+        "token": "közös",
+        "signature": "kösz",
+        "length": 5
+      },
+      {
+        "token": "sikerült",
+        "signature": "eiklrstü",
+        "length": 8
+      },
+      {
+        "token": "hasonló",
+        "signature": "ahlnoós",
+        "length": 7
+      },
+      {
+        "token": "közben",
+        "signature": "beknöz",
+        "length": 6
+      },
+      {
+        "token": "rossz",
+        "signature": "orsz",
+        "length": 5
+      },
+      {
+        "token": "úr",
+        "signature": "rú",
+        "length": 2
+      },
+      {
+        "token": "lévő",
+        "signature": "élőv",
+        "length": 4
+      },
+      {
+        "token": "hazai",
+        "signature": "ahiz",
+        "length": 5
+      },
+      {
+        "token": "általános",
+        "signature": "aálnost",
+        "length": 9
+      },
+      {
+        "token": "segítségével",
+        "signature": "eégílstv",
+        "length": 12
+      },
+      {
+        "token": "történt",
+        "signature": "énört",
+        "length": 7
+      },
+      {
+        "token": "törvény",
+        "signature": "énörtvy",
+        "length": 7
+      },
+      {
+        "token": "száma",
+        "signature": "aámsz",
+        "length": 5
+      },
+      {
+        "token": "angol",
+        "signature": "aglno",
+        "length": 5
+      },
+      {
+        "token": "istván",
+        "signature": "áinstv",
+        "length": 6
+      },
+      {
+        "token": "országos",
+        "signature": "ágorsz",
+        "length": 8
+      },
+      {
+        "token": "kapott",
+        "signature": "akopt",
+        "length": 6
+      },
+      {
+        "token": "igaz",
+        "signature": "agiz",
+        "length": 4
+      },
+      {
+        "token": "mindent",
+        "signature": "deimnt",
+        "length": 7
+      },
+      {
+        "token": "esetleg",
+        "signature": "eglst",
+        "length": 7
+      },
+      {
+        "token": "külön",
+        "signature": "klnöü",
+        "length": 5
+      },
+      {
+        "token": "hát",
+        "signature": "áht",
+        "length": 3
+      },
+      {
+        "token": "oldal",
+        "signature": "adlo",
+        "length": 5
+      },
+      {
+        "token": "bizonyos",
+        "signature": "binosyz",
+        "length": 8
+      },
+      {
+        "token": "végén",
+        "signature": "égnv",
+        "length": 5
+      },
+      {
+        "token": "elő",
+        "signature": "elő",
+        "length": 3
+      },
+      {
+        "token": "történő",
+        "signature": "énöőrt",
+        "length": 7
+      },
+      {
+        "token": "jelentős",
+        "signature": "ejlnőst",
+        "length": 8
+      },
+      {
+        "token": "évben",
+        "signature": "beénv",
+        "length": 5
+      },
+      {
+        "token": "német",
+        "signature": "eémnt",
+        "length": 5
+      },
+      {
+        "token": "vonatkozó",
+        "signature": "aknoótvz",
+        "length": 9
+      },
+      {
+        "token": "álló",
+        "signature": "áló",
+        "length": 4
+      },
+      {
+        "token": "elsősorban",
+        "signature": "abelnoőrs",
+        "length": 10
+      },
+      {
+        "token": "film",
+        "signature": "film",
+        "length": 4
+      },
+      {
+        "token": "jelenleg",
+        "signature": "egjln",
+        "length": 8
+      },
+      {
+        "token": "ország",
+        "signature": "ágorsz",
+        "length": 6
+      },
+      {
+        "token": "többi",
+        "signature": "biöt",
+        "length": 5
+      },
+      {
+        "token": "város",
+        "signature": "áorsv",
+        "length": 5
+      },
+      {
+        "token": "alá",
+        "signature": "aál",
+        "length": 3
+      },
+      {
+        "token": "vagyunk",
+        "signature": "agknuvy",
+        "length": 7
+      },
+      {
+        "token": "jános",
+        "signature": "ájnos",
+        "length": 5
+      },
+      {
+        "token": "négy",
+        "signature": "égny",
+        "length": 4
+      },
+      {
+        "token": "szent",
+        "signature": "enstz",
+        "length": 5
+      },
+      {
+        "token": "szükség",
+        "signature": "égksüz",
+        "length": 7
+      },
+      {
+        "token": "természetesen",
+        "signature": "eémnrstz",
+        "length": 13
+      },
+      {
+        "token": "éve",
+        "signature": "eév",
+        "length": 3
+      },
+      {
+        "token": "évek",
+        "signature": "eékv",
+        "length": 4
+      },
+      {
+        "token": "ám",
+        "signature": "ám",
+        "length": 2
+      },
+      {
+        "token": "azaz",
+        "signature": "az",
+        "length": 4
+      },
+      {
+        "token": "melyek",
+        "signature": "eklmy",
+        "length": 6
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "kormány",
+        "signature": "ákmnory",
+        "length": 7
+      },
+      {
+        "token": "magas",
+        "signature": "agms",
+        "length": 5
+      },
+      {
+        "token": "megy",
+        "signature": "egmy",
+        "length": 4
+      },
+      {
+        "token": "bizottság",
+        "signature": "ábgiostz",
+        "length": 9
+      },
+      {
+        "token": "elmúlt",
+        "signature": "elmtú",
+        "length": 6
+      },
+      {
+        "token": "lehetséges",
+        "signature": "eéghlst",
+        "length": 10
+      },
+      {
+        "token": "pár",
+        "signature": "ápr",
+        "length": 3
+      },
+      {
+        "token": "amelynek",
+        "signature": "aeklmny",
+        "length": 8
+      },
+      {
+        "token": "sőt",
+        "signature": "őst",
+        "length": 3
+      },
+      {
+        "token": "ad",
+        "signature": "ad",
+        "length": 2
+      },
+      {
+        "token": "csupán",
+        "signature": "ácnpsu",
+        "length": 6
+      },
+      {
+        "token": "igazán",
+        "signature": "aáginz",
+        "length": 6
+      },
+      {
+        "token": "szintén",
+        "signature": "éinstz",
+        "length": 7
+      },
+      {
+        "token": "esetében",
+        "signature": "beénst",
+        "length": 8
+      },
+      {
+        "token": "később",
+        "signature": "békős",
+        "length": 6
+      },
+      {
+        "token": "mintha",
+        "signature": "ahimnt",
+        "length": 6
+      },
+      {
+        "token": "először",
+        "signature": "elöőrsz",
+        "length": 7
+      },
+      {
+        "token": "igazi",
+        "signature": "agiz",
+        "length": 5
+      },
+      {
+        "token": "nemcsak",
+        "signature": "acekmns",
+        "length": 7
+      },
+      {
+        "token": "ahhoz",
+        "signature": "ahoz",
+        "length": 5
+      },
+      {
+        "token": "ellenére",
+        "signature": "eélnr",
+        "length": 8
+      },
+      {
+        "token": "fél",
+        "signature": "éfl",
+        "length": 3
+      },
+      {
+        "token": "has",
+        "signature": "ahs",
+        "length": 3
+      },
+      {
+        "token": "korábban",
+        "signature": "aábknor",
+        "length": 8
+      },
+      {
+        "token": "közötti",
+        "signature": "ikötz",
+        "length": 7
+      },
+      {
+        "token": "október",
+        "signature": "bekoórt",
+        "length": 7
+      },
+      {
+        "token": "jelenti",
+        "signature": "eijlnt",
+        "length": 7
+      },
+      {
+        "token": "sokat",
+        "signature": "akost",
+        "length": 5
+      },
+      {
+        "token": "belső",
+        "signature": "belős",
+        "length": 5
+      },
+      {
+        "token": "fő",
+        "signature": "fő",
+        "length": 2
+      },
+      {
+        "token": "regisztrált",
+        "signature": "áegilrstz",
+        "length": 11
+      },
+      {
+        "token": "ismét",
+        "signature": "éimst",
+        "length": 5
+      },
+      {
+        "token": "harmadik",
+        "signature": "adhikmr",
+        "length": 8
+      },
+      {
+        "token": "társadalmi",
+        "signature": "aádilmrst",
+        "length": 10
+      },
+      {
+        "token": "egyébként",
+        "signature": "beégknty",
+        "length": 9
+      },
+      {
+        "token": "megyei",
+        "signature": "egimy",
+        "length": 6
+      },
+      {
+        "token": "pont",
+        "signature": "nopt",
+        "length": 4
+      },
+      {
+        "token": "fenntartva",
+        "signature": "aefnrtv",
+        "length": 10
+      },
+      {
+        "token": "kérdés",
+        "signature": "dékrs",
+        "length": 6
+      },
+      {
+        "token": "kisebb",
+        "signature": "beiks",
+        "length": 6
+      },
+      {
+        "token": "péter",
+        "signature": "eéprt",
+        "length": 5
+      },
+      {
+        "token": "eredeti",
+        "signature": "deirt",
+        "length": 7
+      },
+      {
+        "token": "tényleg",
+        "signature": "eéglnty",
+        "length": 7
+      },
+      {
+        "token": "addig",
+        "signature": "adgi",
+        "length": 5
+      },
+      {
+        "token": "helyen",
+        "signature": "ehlny",
+        "length": 6
+      },
+      {
+        "token": "annyira",
+        "signature": "ainry",
+        "length": 7
+      },
+      {
+        "token": "lehetőség",
+        "signature": "eéghlőst",
+        "length": 9
+      },
+      {
+        "token": "oldalon",
+        "signature": "adlno",
+        "length": 7
+      },
+      {
+        "token": "munka",
+        "signature": "akmnu",
+        "length": 5
+      },
+      {
+        "token": "voltam",
+        "signature": "almotv",
+        "length": 6
+      },
+      {
+        "token": "hol",
+        "signature": "hlo",
+        "length": 3
+      },
+      {
+        "token": "óra",
+        "signature": "aór",
+        "length": 3
+      },
+      {
+        "token": "érdemes",
+        "signature": "deémrs",
+        "length": 7
+      },
+      {
+        "token": "hat",
+        "signature": "aht",
+        "length": 3
+      },
+      {
+        "token": "helyett",
+        "signature": "ehlty",
+        "length": 7
+      },
+      {
+        "token": "soha",
+        "signature": "ahos",
+        "length": 4
+      },
+      {
+        "token": "valóban",
+        "signature": "ablnóv",
+        "length": 7
+      },
+      {
+        "token": "vált",
+        "signature": "áltv",
+        "length": 4
+      },
+      {
+        "token": "állami",
+        "signature": "aáilm",
+        "length": 6
+      },
+      {
+        "token": "senki",
+        "signature": "eikns",
+        "length": 5
+      },
+      {
+        "token": "melyet",
+        "signature": "elmty",
+        "length": 6
+      },
+      {
+        "token": "rövid",
+        "signature": "diörv",
+        "length": 5
+      },
+      {
+        "token": "tenni",
+        "signature": "eint",
+        "length": 5
+      },
+      {
+        "token": "hiszem",
+        "signature": "ehimsz",
+        "length": 6
+      },
+      {
+        "token": "lehetett",
+        "signature": "ehlt",
+        "length": 8
+      },
+      {
+        "token": "megfelelően",
+        "signature": "efglmnő",
+        "length": 11
+      },
+      {
+        "token": "mondja",
+        "signature": "adjmno",
+        "length": 6
+      },
+      {
+        "token": "fórum",
+        "signature": "fmóru",
+        "length": 5
+      },
+      {
+        "token": "jött",
+        "signature": "jöt",
+        "length": 4
+      },
+      {
+        "token": "lehetőséget",
+        "signature": "eéghlőst",
+        "length": 11
+      },
+      {
+        "token": "lenni",
+        "signature": "eiln",
+        "length": 5
+      },
+      {
+        "token": "létre",
+        "signature": "eélrt",
+        "length": 5
+      },
+      {
+        "token": "valamit",
+        "signature": "ailmtv",
+        "length": 7
+      },
+      {
+        "token": "férfi",
+        "signature": "éfir",
+        "length": 5
+      },
+      {
+        "token": "mintegy",
+        "signature": "egimnty",
+        "length": 7
+      },
+      {
+        "token": "ezeket",
+        "signature": "ektz",
+        "length": 6
+      },
+      {
+        "token": "egyszerű",
+        "signature": "egrsűyz",
+        "length": 8
+      },
+      {
+        "token": "közel",
+        "signature": "eklöz",
+        "length": 5
+      },
+      {
+        "token": "tett",
+        "signature": "et",
+        "length": 4
+      },
+      {
+        "token": "egészen",
+        "signature": "eégnsz",
+        "length": 7
+      },
+      {
+        "token": "hét",
+        "signature": "éht",
+        "length": 3
+      },
+      {
+        "token": "magyarországon",
+        "signature": "aágmnorsyz",
+        "length": 14
+      },
+      {
+        "token": "sor",
+        "signature": "ors",
+        "length": 3
+      },
+      {
+        "token": "magyarország",
+        "signature": "aágmorsyz",
+        "length": 12
+      },
+      {
+        "token": "ők",
+        "signature": "kő",
+        "length": 2
+      },
+      {
+        "token": "korábbi",
+        "signature": "ábikor",
+        "length": 7
+      },
+      {
+        "token": "adatok",
+        "signature": "adkot",
+        "length": 6
+      },
+      {
+        "token": "gyakran",
+        "signature": "agknry",
+        "length": 7
+      },
+      {
+        "token": "nő",
+        "signature": "nő",
+        "length": 2
+      },
+      {
+        "token": "út",
+        "signature": "tú",
+        "length": 2
+      },
+      {
+        "token": "utóbbi",
+        "signature": "biótu",
+        "length": 6
+      },
+      {
+        "token": "kép",
+        "signature": "ékp",
+        "length": 3
+      },
+      {
+        "token": "követően",
+        "signature": "eknöőtv",
+        "length": 8
+      },
+      {
+        "token": "nehéz",
+        "signature": "eéhnz",
+        "length": 5
+      },
+      {
+        "token": "rajta",
+        "signature": "ajrt",
+        "length": 5
+      },
+      {
+        "token": "ugyan",
+        "signature": "agnuy",
+        "length": 5
+      },
+      {
+        "token": "venni",
+        "signature": "einv",
+        "length": 5
+      },
+      {
+        "token": "neked",
+        "signature": "dekn",
+        "length": 5
+      },
+      {
+        "token": "akar",
+        "signature": "akr",
+        "length": 4
+      },
+      {
+        "token": "józsef",
+        "signature": "efjósz",
+        "length": 6
+      },
+      {
+        "token": "meghatározott",
+        "signature": "aáeghmortz",
+        "length": 13
+      },
+      {
+        "token": "lehetővé",
+        "signature": "eéhlőtv",
+        "length": 8
+      },
+      {
+        "token": "tagja",
+        "signature": "agjt",
+        "length": 5
+      },
+      {
+        "token": "melynek",
+        "signature": "eklmny",
+        "length": 7
+      },
+      {
+        "token": "tudok",
+        "signature": "dkotu",
+        "length": 5
+      },
+      {
+        "token": "este",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "felhasználó",
+        "signature": "aáefhlnósz",
+        "length": 11
+      },
+      {
+        "token": "bele",
+        "signature": "bel",
+        "length": 4
+      },
+      {
+        "token": "működik",
+        "signature": "dikmöű",
+        "length": 7
+      },
+      {
+        "token": "tudományos",
+        "signature": "ádmnostuy",
+        "length": 10
+      },
+      {
+        "token": "von",
+        "signature": "nov",
+        "length": 3
+      },
+      {
+        "token": "élő",
+        "signature": "élő",
+        "length": 3
+      },
+      {
+        "token": "jön",
+        "signature": "jnö",
+        "length": 3
+      },
+      {
+        "token": "lehetne",
+        "signature": "ehlnt",
+        "length": 7
+      },
+      {
+        "token": "róla",
+        "signature": "alór",
+        "length": 4
+      },
+      {
+        "token": "jelen",
+        "signature": "ejln",
+        "length": 5
+      },
+      {
+        "token": "különösen",
+        "signature": "eklnösü",
+        "length": 9
+      },
+      {
+        "token": "magam",
+        "signature": "agm",
+        "length": 5
+      },
+      {
+        "token": "végre",
+        "signature": "eégrv",
+        "length": 5
+      },
+      {
+        "token": "felhasználók",
+        "signature": "aáefhklnósz",
+        "length": 12
+      },
+      {
+        "token": "képest",
+        "signature": "eékpst",
+        "length": 6
+      },
+      {
+        "token": "közé",
+        "signature": "éköz",
+        "length": 4
+      },
+      {
+        "token": "sajnos",
+        "signature": "ajnos",
+        "length": 6
+      },
+      {
+        "token": "körül",
+        "signature": "klörü",
+        "length": 5
+      },
+      {
+        "token": "megjelent",
+        "signature": "egjlmnt",
+        "length": 9
+      },
+      {
+        "token": "többet",
+        "signature": "beöt",
+        "length": 6
+      },
+      {
+        "token": "fiatal",
+        "signature": "afilt",
+        "length": 6
+      },
+      {
+        "token": "akinek",
+        "signature": "aeikn",
+        "length": 6
+      },
+      {
+        "token": "also",
+        "signature": "alos",
+        "length": 4
+      },
+      {
+        "token": "ismert",
+        "signature": "eimrst",
+        "length": 6
+      },
+      {
+        "token": "napon",
+        "signature": "anop",
+        "length": 5
+      },
+      {
+        "token": "vezető",
+        "signature": "eőtvz",
+        "length": 6
+      },
+      {
+        "token": "jár",
+        "signature": "ájr",
+        "length": 3
+      },
+      {
+        "token": "őt",
+        "signature": "őt",
+        "length": 2
+      },
+      {
+        "token": "szól",
+        "signature": "lósz",
+        "length": 4
+      },
+      {
+        "token": "tartozik",
+        "signature": "aikortz",
+        "length": 8
+      },
+      {
+        "token": "forint",
+        "signature": "finort",
+        "length": 6
+      },
+      {
+        "token": "ön",
+        "signature": "nö",
+        "length": 2
+      },
+      {
+        "token": "vagyis",
+        "signature": "agisvy",
+        "length": 6
+      },
+      {
+        "token": "előző",
+        "signature": "előz",
+        "length": 5
+      },
+      {
+        "token": "érdekes",
+        "signature": "deékrs",
+        "length": 7
+      },
+      {
+        "token": "iskola",
+        "signature": "aiklos",
+        "length": 6
+      },
+      {
+        "token": "történik",
+        "signature": "éiknört",
+        "length": 8
+      },
+      {
+        "token": "célja",
+        "signature": "acéjl",
+        "length": 5
+      },
+      {
+        "token": "elején",
+        "signature": "eéjln",
+        "length": 6
+      },
+      {
+        "token": "ferenc",
+        "signature": "cefnr",
+        "length": 6
+      },
+      {
+        "token": "megint",
+        "signature": "egimnt",
+        "length": 6
+      },
+      {
+        "token": "oda",
+        "signature": "ado",
+        "length": 3
+      },
+      {
+        "token": "személyes",
+        "signature": "eélmsyz",
+        "length": 9
+      },
+      {
+        "token": "előre",
+        "signature": "előr",
+        "length": 5
+      },
+      {
+        "token": "továbbá",
+        "signature": "ábotv",
+        "length": 7
+      },
+      {
+        "token": "tudjuk",
+        "signature": "djktu",
+        "length": 6
+      },
+      {
+        "token": "alkalommal",
+        "signature": "aklmo",
+        "length": 10
+      },
+      {
+        "token": "játék",
+        "signature": "áéjkt",
+        "length": 5
+      },
+      {
+        "token": "szervezet",
+        "signature": "erstvz",
+        "length": 9
+      },
+      {
+        "token": "végül",
+        "signature": "églüv",
+        "length": 5
+      },
+      {
+        "token": "műszaki",
+        "signature": "aikmsűz",
+        "length": 7
+      },
+      {
+        "token": "évvel",
+        "signature": "eélv",
+        "length": 5
+      },
+      {
+        "token": "kulturális",
+        "signature": "áiklrstu",
+        "length": 10
+      },
+      {
+        "token": "amíg",
+        "signature": "agím",
+        "length": 4
+      },
+      {
+        "token": "írd",
+        "signature": "dír",
+        "length": 3
+      },
+      {
+        "token": "kereskedelmi",
+        "signature": "deiklmrs",
+        "length": 12
+      },
+      {
+        "token": "komoly",
+        "signature": "klmoy",
+        "length": 6
+      },
+      {
+        "token": "természetes",
+        "signature": "eémrstz",
+        "length": 11
+      },
+      {
+        "token": "fogja",
+        "signature": "afgjo",
+        "length": 5
+      },
+      {
+        "token": "hatalmas",
+        "signature": "ahlmst",
+        "length": 8
+      }
+    ],
+    "developing": [
+      {
+        "token": "magyarok",
+        "signature": "agkmory",
+        "length": 8
+      },
+      {
+        "token": "orvos",
+        "signature": "orsv",
+        "length": 5
+      },
+      {
+        "token": "projekt",
+        "signature": "ejkoprt",
+        "length": 7
+      },
+      {
+        "token": "régen",
+        "signature": "eégnr",
+        "length": 5
+      },
+      {
+        "token": "számítógép",
+        "signature": "áégímópstz",
+        "length": 10
+      },
+      {
+        "token": "szavazás",
+        "signature": "aásvz",
+        "length": 8
+      },
+      {
+        "token": "szokásos",
+        "signature": "ákosz",
+        "length": 8
+      },
+      {
+        "token": "téged",
+        "signature": "deégt",
+        "length": 5
+      },
+      {
+        "token": "tibor",
+        "signature": "biort",
+        "length": 5
+      },
+      {
+        "token": "története",
+        "signature": "eénört",
+        "length": 9
+      },
+      {
+        "token": "utat",
+        "signature": "atu",
+        "length": 4
+      },
+      {
+        "token": "véletlenül",
+        "signature": "eélntüv",
+        "length": 10
+      },
+      {
+        "token": "velünk",
+        "signature": "eklnüv",
+        "length": 6
+      },
+      {
+        "token": "zenekar",
+        "signature": "aeknrz",
+        "length": 7
+      },
+      {
+        "token": "adnak",
+        "signature": "adkn",
+        "length": 5
+      },
+      {
+        "token": "ár",
+        "signature": "ár",
+        "length": 2
+      },
+      {
+        "token": "eredménye",
+        "signature": "deémnry",
+        "length": 9
+      },
+      {
+        "token": "formájában",
+        "signature": "aábfjmnor",
+        "length": 10
+      },
+      {
+        "token": "grafikus",
+        "signature": "afgikrsu",
+        "length": 8
+      },
+      {
+        "token": "gyenge",
+        "signature": "egny",
+        "length": 6
+      },
+      {
+        "token": "igény",
+        "signature": "éginy",
+        "length": 5
+      },
+      {
+        "token": "játszik",
+        "signature": "áijkstz",
+        "length": 7
+      },
+      {
+        "token": "kapni",
+        "signature": "aiknp",
+        "length": 5
+      },
+      {
+        "token": "legjobban",
+        "signature": "abegjlno",
+        "length": 9
+      },
+      {
+        "token": "leszek",
+        "signature": "eklsz",
+        "length": 6
+      },
+      {
+        "token": "miként",
+        "signature": "éikmnt",
+        "length": 6
+      },
+      {
+        "token": "nőtt",
+        "signature": "nőt",
+        "length": 4
+      },
+      {
+        "token": "személyek",
+        "signature": "eéklmsyz",
+        "length": 9
+      },
+      {
+        "token": "tekintettel",
+        "signature": "eiklnt",
+        "length": 11
+      },
+      {
+        "token": "ugyancsak",
+        "signature": "acgknsuy",
+        "length": 9
+      },
+      {
+        "token": "útján",
+        "signature": "ájntú",
+        "length": 5
+      },
+      {
+        "token": "végére",
+        "signature": "eégrv",
+        "length": 6
+      },
+      {
+        "token": "akart",
+        "signature": "akrt",
+        "length": 5
+      },
+      {
+        "token": "alkalmazni",
+        "signature": "aiklmnz",
+        "length": 10
+      },
+      {
+        "token": "csodálatos",
+        "signature": "aácdlost",
+        "length": 10
+      },
+      {
+        "token": "csökkent",
+        "signature": "ceknöst",
+        "length": 8
+      },
+      {
+        "token": "dolgozni",
+        "signature": "dgilnoz",
+        "length": 8
+      },
+      {
+        "token": "életében",
+        "signature": "beélnt",
+        "length": 8
+      },
+      {
+        "token": "február",
+        "signature": "ábefru",
+        "length": 7
+      },
+      {
+        "token": "halál",
+        "signature": "aáhl",
+        "length": 5
+      },
+      {
+        "token": "hatékony",
+        "signature": "aéhknoty",
+        "length": 8
+      },
+      {
+        "token": "kérem",
+        "signature": "eékmr",
+        "length": 5
+      },
+      {
+        "token": "köztük",
+        "signature": "kötüz",
+        "length": 6
+      },
+      {
+        "token": "levél",
+        "signature": "eélv",
+        "length": 5
+      },
+      {
+        "token": "méretű",
+        "signature": "eémrtű",
+        "length": 6
+      },
+      {
+        "token": "mondott",
+        "signature": "dmnot",
+        "length": 7
+      },
+      {
+        "token": "nyolc",
+        "signature": "clnoy",
+        "length": 5
+      },
+      {
+        "token": "nyújtott",
+        "signature": "jnotúy",
+        "length": 8
+      },
+      {
+        "token": "onnan",
+        "signature": "ano",
+        "length": 5
+      },
+      {
+        "token": "sajátos",
+        "signature": "aájost",
+        "length": 7
+      },
+      {
+        "token": "tekintve",
+        "signature": "eikntv",
+        "length": 8
+      },
+      {
+        "token": "tetszett",
+        "signature": "estz",
+        "length": 8
+      },
+      {
+        "token": "többsége",
+        "signature": "beégöst",
+        "length": 8
+      },
+      {
+        "token": "vezetői",
+        "signature": "eiőtvz",
+        "length": 7
+      },
+      {
+        "token": "forintos",
+        "signature": "finorst",
+        "length": 8
+      },
+      {
+        "token": "hideg",
+        "signature": "deghi",
+        "length": 5
+      },
+      {
+        "token": "illetőleg",
+        "signature": "egilőt",
+        "length": 9
+      },
+      {
+        "token": "joga",
+        "signature": "agjo",
+        "length": 4
+      },
+      {
+        "token": "kedvező",
+        "signature": "dekővz",
+        "length": 7
+      },
+      {
+        "token": "kiemelt",
+        "signature": "eiklmt",
+        "length": 7
+      },
+      {
+        "token": "lásd",
+        "signature": "ádls",
+        "length": 4
+      },
+      {
+        "token": "másodperc",
+        "signature": "ácdemoprs",
+        "length": 9
+      },
+      {
+        "token": "megyek",
+        "signature": "egkmy",
+        "length": 6
+      },
+      {
+        "token": "méltó",
+        "signature": "élmót",
+        "length": 5
+      },
+      {
+        "token": "mennyi",
+        "signature": "eimny",
+        "length": 6
+      },
+      {
+        "token": "múzeum",
+        "signature": "emuúz",
+        "length": 6
+      },
+      {
+        "token": "nemzet",
+        "signature": "emntz",
+        "length": 6
+      },
+      {
+        "token": "okoz",
+        "signature": "koz",
+        "length": 4
+      },
+      {
+        "token": "olvastam",
+        "signature": "almostv",
+        "length": 8
+      },
+      {
+        "token": "román",
+        "signature": "ámnor",
+        "length": 5
+      },
+      {
+        "token": "üres",
+        "signature": "ersü",
+        "length": 4
+      },
+      {
+        "token": "választási",
+        "signature": "aáilstvz",
+        "length": 10
+      },
+      {
+        "token": "városban",
+        "signature": "aábnorsv",
+        "length": 8
+      },
+      {
+        "token": "végső",
+        "signature": "égősv",
+        "length": 5
+      },
+      {
+        "token": "alsó",
+        "signature": "alós",
+        "length": 4
+      },
+      {
+        "token": "átlagos",
+        "signature": "aáglost",
+        "length": 7
+      },
+      {
+        "token": "élt",
+        "signature": "élt",
+        "length": 3
+      },
+      {
+        "token": "fórumon",
+        "signature": "fmnoóru",
+        "length": 7
+      },
+      {
+        "token": "hány",
+        "signature": "áhny",
+        "length": 4
+      },
+      {
+        "token": "író",
+        "signature": "íór",
+        "length": 3
+      },
+      {
+        "token": "kapsz",
+        "signature": "akpsz",
+        "length": 5
+      },
+      {
+        "token": "kívánja",
+        "signature": "aáíjknv",
+        "length": 7
+      },
+      {
+        "token": "megjelenik",
+        "signature": "egijklmn",
+        "length": 10
+      },
+      {
+        "token": "minőségű",
+        "signature": "égimnősű",
+        "length": 8
+      },
+      {
+        "token": "naponta",
+        "signature": "anopt",
+        "length": 7
+      },
+      {
+        "token": "nappal",
+        "signature": "alnp",
+        "length": 6
+      },
+      {
+        "token": "örök",
+        "signature": "kör",
+        "length": 4
+      },
+      {
+        "token": "rendszeres",
+        "signature": "denrsz",
+        "length": 10
+      },
+      {
+        "token": "szervezett",
+        "signature": "erstvz",
+        "length": 10
+      },
+      {
+        "token": "talált",
+        "signature": "aált",
+        "length": 6
+      },
+      {
+        "token": "tanfolyam",
+        "signature": "aflmnoty",
+        "length": 9
+      },
+      {
+        "token": "település",
+        "signature": "eélpstü",
+        "length": 9
+      },
+      {
+        "token": "vezetett",
+        "signature": "etvz",
+        "length": 8
+      },
+      {
+        "token": "vörös",
+        "signature": "örsv",
+        "length": 5
+      },
+      {
+        "token": "biztosító",
+        "signature": "biíoóstz",
+        "length": 9
+      },
+      {
+        "token": "dolgozott",
+        "signature": "dglotz",
+        "length": 9
+      },
+      {
+        "token": "döntött",
+        "signature": "dnöt",
+        "length": 7
+      },
+      {
+        "token": "előtte",
+        "signature": "előt",
+        "length": 6
+      },
+      {
+        "token": "erkölcsi",
+        "signature": "ceiklörs",
+        "length": 8
+      },
+      {
+        "token": "eső",
+        "signature": "eős",
+        "length": 3
+      },
+      {
+        "token": "földön",
+        "signature": "dflnö",
+        "length": 6
+      },
+      {
+        "token": "hozta",
+        "signature": "ahotz",
+        "length": 5
+      },
+      {
+        "token": "igazgatója",
+        "signature": "agijótz",
+        "length": 10
+      },
+      {
+        "token": "igazság",
+        "signature": "aágisz",
+        "length": 7
+      },
+      {
+        "token": "kezdte",
+        "signature": "dektz",
+        "length": 6
+      },
+      {
+        "token": "kommunikációs",
+        "signature": "ácikmnoósu",
+        "length": 13
+      },
+      {
+        "token": "kutya",
+        "signature": "aktuy",
+        "length": 5
+      },
+      {
+        "token": "magazin",
+        "signature": "agimnz",
+        "length": 7
+      },
+      {
+        "token": "mária",
+        "signature": "aáimr",
+        "length": 5
+      },
+      {
+        "token": "média",
+        "signature": "adéim",
+        "length": 5
+      },
+      {
+        "token": "meglévő",
+        "signature": "eéglmőv",
+        "length": 7
+      },
+      {
+        "token": "melyeket",
+        "signature": "eklmty",
+        "length": 8
+      },
+      {
+        "token": "módszer",
+        "signature": "demórsz",
+        "length": 7
+      },
+      {
+        "token": "negatív",
+        "signature": "aegíntv",
+        "length": 7
+      },
+      {
+        "token": "normális",
+        "signature": "áilmnors",
+        "length": 8
+      },
+      {
+        "token": "önkormányzatok",
+        "signature": "aákmnoörtyz",
+        "length": 14
+      },
+      {
+        "token": "szeretet",
+        "signature": "erstz",
+        "length": 8
+      },
+      {
+        "token": "templom",
+        "signature": "elmopt",
+        "length": 7
+      },
+      {
+        "token": "ugyanaz",
+        "signature": "agnuyz",
+        "length": 7
+      },
+      {
+        "token": "ugyanúgy",
+        "signature": "agnuúy",
+        "length": 8
+      },
+      {
+        "token": "usa",
+        "signature": "asu",
+        "length": 3
+      },
+      {
+        "token": "vita",
+        "signature": "aitv",
+        "length": 4
+      },
+      {
+        "token": "állandóan",
+        "signature": "aádlnó",
+        "length": 9
+      },
+      {
+        "token": "bejelentette",
+        "signature": "bejlnt",
+        "length": 12
+      },
+      {
+        "token": "boldog",
+        "signature": "bdglo",
+        "length": 6
+      },
+      {
+        "token": "egymástól",
+        "signature": "áeglmósty",
+        "length": 9
+      },
+      {
+        "token": "élnek",
+        "signature": "eékln",
+        "length": 5
+      },
+      {
+        "token": "eset",
+        "signature": "est",
+        "length": 4
+      },
+      {
+        "token": "est",
+        "signature": "est",
+        "length": 3
+      },
+      {
+        "token": "iroda",
+        "signature": "adior",
+        "length": 5
+      },
+      {
+        "token": "kérdése",
+        "signature": "deékrs",
+        "length": 7
+      },
+      {
+        "token": "kiderül",
+        "signature": "deiklrü",
+        "length": 7
+      },
+      {
+        "token": "közölte",
+        "signature": "eklötz",
+        "length": 7
+      },
+      {
+        "token": "magára",
+        "signature": "aágmr",
+        "length": 6
+      },
+      {
+        "token": "meglehetősen",
+        "signature": "eghlmnőst",
+        "length": 12
+      },
+      {
+        "token": "nálam",
+        "signature": "aálmn",
+        "length": 5
+      },
+      {
+        "token": "nyelvi",
+        "signature": "eilnvy",
+        "length": 6
+      },
+      {
+        "token": "piacon",
+        "signature": "acinop",
+        "length": 6
+      },
+      {
+        "token": "rendszerben",
+        "signature": "bdenrsz",
+        "length": 11
+      },
+      {
+        "token": "szabályok",
+        "signature": "aábklosyz",
+        "length": 9
+      },
+      {
+        "token": "százalék",
+        "signature": "aáéklsz",
+        "length": 8
+      },
+      {
+        "token": "szerver",
+        "signature": "ersvz",
+        "length": 7
+      },
+      {
+        "token": "szerződést",
+        "signature": "deéőrstz",
+        "length": 10
+      },
+      {
+        "token": "tulajdonképpen",
+        "signature": "adeéjklnoptu",
+        "length": 14
+      },
+      {
+        "token": "voltunk",
+        "signature": "klnotuv",
+        "length": 7
+      },
+      {
+        "token": "vonatkozik",
+        "signature": "aiknotvz",
+        "length": 10
+      },
+      {
+        "token": "alkalmazása",
+        "signature": "aáklmsz",
+        "length": 11
+      },
+      {
+        "token": "államok",
+        "signature": "aáklmo",
+        "length": 7
+      },
+      {
+        "token": "csaknem",
+        "signature": "acekmns",
+        "length": 7
+      },
+      {
+        "token": "egyrészt",
+        "signature": "eégrstyz",
+        "length": 8
+      },
+      {
+        "token": "elegendő",
+        "signature": "deglnő",
+        "length": 8
+      },
+      {
+        "token": "engedélyével",
+        "signature": "deéglnvy",
+        "length": 12
+      },
+      {
+        "token": "foglalja",
+        "signature": "afgjlo",
+        "length": 8
+      },
+      {
+        "token": "gazdaság",
+        "signature": "aádgsz",
+        "length": 8
+      },
+      {
+        "token": "használják",
+        "signature": "aáhjklnsz",
+        "length": 10
+      },
+      {
+        "token": "holnap",
+        "signature": "ahlnop",
+        "length": 6
+      },
+      {
+        "token": "jövőre",
+        "signature": "ejöőrv",
+        "length": 6
+      },
+      {
+        "token": "kor",
+        "signature": "kor",
+        "length": 3
+      },
+      {
+        "token": "megtalálható",
+        "signature": "aáeghlmót",
+        "length": 12
+      },
+      {
+        "token": "modell",
+        "signature": "delmo",
+        "length": 6
+      },
+      {
+        "token": "mond",
+        "signature": "dmno",
+        "length": 4
+      },
+      {
+        "token": "napos",
+        "signature": "anops",
+        "length": 5
+      },
+      {
+        "token": "nyilván",
+        "signature": "áilnvy",
+        "length": 7
+      },
+      {
+        "token": "szerelem",
+        "signature": "elmrsz",
+        "length": 8
+      },
+      {
+        "token": "szolgáltatást",
+        "signature": "aáglostz",
+        "length": 13
+      },
+      {
+        "token": "történelem",
+        "signature": "eélmnört",
+        "length": 10
+      },
+      {
+        "token": "utcai",
+        "signature": "acitu",
+        "length": 5
+      },
+      {
+        "token": "valakinek",
+        "signature": "aeiklnv",
+        "length": 9
+      },
+      {
+        "token": "választott",
+        "signature": "aálostvz",
+        "length": 10
+      },
+      {
+        "token": "vállal",
+        "signature": "aálv",
+        "length": 6
+      },
+      {
+        "token": "verzió",
+        "signature": "eiórvz",
+        "length": 6
+      },
+      {
+        "token": "akiket",
+        "signature": "aeikt",
+        "length": 6
+      },
+      {
+        "token": "alapvetően",
+        "signature": "aelnőptv",
+        "length": 10
+      },
+      {
+        "token": "amelyen",
+        "signature": "aelmny",
+        "length": 7
+      },
+      {
+        "token": "amelyik",
+        "signature": "aeiklmy",
+        "length": 7
+      },
+      {
+        "token": "anyagot",
+        "signature": "agnoty",
+        "length": 7
+      },
+      {
+        "token": "dolgozó",
+        "signature": "dgloóz",
+        "length": 7
+      },
+      {
+        "token": "életpontot",
+        "signature": "eélnopt",
+        "length": 10
+      },
+      {
+        "token": "eredmények",
+        "signature": "deékmnry",
+        "length": 10
+      },
+      {
+        "token": "értéke",
+        "signature": "eékrt",
+        "length": 6
+      },
+      {
+        "token": "érzi",
+        "signature": "éirz",
+        "length": 4
+      },
+      {
+        "token": "függően",
+        "signature": "efgnőü",
+        "length": 7
+      },
+      {
+        "token": "görög",
+        "signature": "gör",
+        "length": 5
+      },
+      {
+        "token": "határozza",
+        "signature": "aáhortz",
+        "length": 9
+      },
+      {
+        "token": "kapcsolatba",
+        "signature": "abcklopst",
+        "length": 11
+      },
+      {
+        "token": "karakter",
+        "signature": "aekrt",
+        "length": 8
+      },
+      {
+        "token": "kattints",
+        "signature": "aiknst",
+        "length": 8
+      },
+      {
+        "token": "kezdődött",
+        "signature": "deköőtz",
+        "length": 9
+      },
+      {
+        "token": "kínál",
+        "signature": "áíkln",
+        "length": 5
+      },
+      {
+        "token": "kisebbségi",
+        "signature": "beégiks",
+        "length": 10
+      }
+    ],
+    "advanced": [
+      {
+        "token": "szülő",
+        "signature": "lősüz",
+        "length": 5
+      },
+      {
+        "token": "tagállamok",
+        "signature": "aágklmot",
+        "length": 10
+      },
+      {
+        "token": "tájékoztató",
+        "signature": "aáéjkoótz",
+        "length": 11
+      },
+      {
+        "token": "találkoztam",
+        "signature": "aáklmotz",
+        "length": 11
+      },
+      {
+        "token": "tanfolyamot",
+        "signature": "aflmnoty",
+        "length": 11
+      },
+      {
+        "token": "tanulmányok",
+        "signature": "aáklmnotuy",
+        "length": 11
+      },
+      {
+        "token": "társkereső",
+        "signature": "áekőrst",
+        "length": 10
+      },
+      {
+        "token": "tartalmazzák",
+        "signature": "aáklmrtz",
+        "length": 12
+      },
+      {
+        "token": "teljesítményt",
+        "signature": "eéíjlmnsty",
+        "length": 13
+      },
+      {
+        "token": "termelés",
+        "signature": "eélmrst",
+        "length": 8
+      },
+      {
+        "token": "tervezés",
+        "signature": "eérstvz",
+        "length": 8
+      },
+      {
+        "token": "töltötte",
+        "signature": "elöt",
+        "length": 8
+      },
+      {
+        "token": "tőlünk",
+        "signature": "klnőtü",
+        "length": 6
+      },
+      {
+        "token": "tűnő",
+        "signature": "nőtű",
+        "length": 4
+      },
+      {
+        "token": "utak",
+        "signature": "aktu",
+        "length": 4
+      },
+      {
+        "token": "útját",
+        "signature": "ájtú",
+        "length": 5
+      },
+      {
+        "token": "ülésen",
+        "signature": "eélnsü",
+        "length": 6
+      },
+      {
+        "token": "üveg",
+        "signature": "egüv",
+        "length": 4
+      },
+      {
+        "token": "választható",
+        "signature": "aáhlóstvz",
+        "length": 11
+      },
+      {
+        "token": "varázspont",
+        "signature": "aánoprstvz",
+        "length": 10
+      },
+      {
+        "token": "városok",
+        "signature": "ákorsv",
+        "length": 7
+      },
+      {
+        "token": "vasúti",
+        "signature": "aistúv",
+        "length": 6
+      },
+      {
+        "token": "világa",
+        "signature": "aágilv",
+        "length": 6
+      },
+      {
+        "token": "vízben",
+        "signature": "beínvz",
+        "length": 6
+      },
+      {
+        "token": "vonatkozásában",
+        "signature": "aábknostvz",
+        "length": 14
+      },
+      {
+        "token": "zajlott",
+        "signature": "ajlotz",
+        "length": 7
+      },
+      {
+        "token": "ajtót",
+        "signature": "ajót",
+        "length": 5
+      },
+      {
+        "token": "akkoriban",
+        "signature": "abiknor",
+        "length": 9
+      },
+      {
+        "token": "alkotás",
+        "signature": "aáklost",
+        "length": 7
+      },
+      {
+        "token": "amelyekben",
+        "signature": "abeklmny",
+        "length": 10
+      },
+      {
+        "token": "amiből",
+        "signature": "abilmő",
+        "length": 6
+      },
+      {
+        "token": "azonosító",
+        "signature": "aínoóstz",
+        "length": 9
+      },
+      {
+        "token": "bennünk",
+        "signature": "beknü",
+        "length": 7
+      },
+      {
+        "token": "büszke",
+        "signature": "beksüz",
+        "length": 6
+      },
+      {
+        "token": "császár",
+        "signature": "ácrsz",
+        "length": 7
+      },
+      {
+        "token": "csatlakozó",
+        "signature": "ackloóstz",
+        "length": 10
+      },
+      {
+        "token": "csillagok",
+        "signature": "acgiklos",
+        "length": 9
+      },
+      {
+        "token": "derült",
+        "signature": "delrtü",
+        "length": 6
+      },
+      {
+        "token": "digital",
+        "signature": "adgilt",
+        "length": 7
+      },
+      {
+        "token": "doktori",
+        "signature": "dikort",
+        "length": 7
+      },
+      {
+        "token": "egyszemélyes",
+        "signature": "eéglmsyz",
+        "length": 12
+      },
+      {
+        "token": "egyszeri",
+        "signature": "egirsyz",
+        "length": 8
+      },
+      {
+        "token": "élek",
+        "signature": "eékl",
+        "length": 4
+      },
+      {
+        "token": "életbe",
+        "signature": "beélt",
+        "length": 6
+      },
+      {
+        "token": "ellenfél",
+        "signature": "eéfln",
+        "length": 8
+      },
+      {
+        "token": "elolvasni",
+        "signature": "aeilnosv",
+        "length": 9
+      },
+      {
+        "token": "előfordul",
+        "signature": "defloőru",
+        "length": 9
+      },
+      {
+        "token": "emelkedik",
+        "signature": "deiklm",
+        "length": 9
+      },
+      {
+        "token": "ép",
+        "signature": "ép",
+        "length": 2
+      },
+      {
+        "token": "érdekli",
+        "signature": "deéiklr",
+        "length": 7
+      },
+      {
+        "token": "erejét",
+        "signature": "eéjrt",
+        "length": 6
+      },
+      {
+        "token": "érettségi",
+        "signature": "eégirst",
+        "length": 9
+      },
+      {
+        "token": "értékeket",
+        "signature": "eékrt",
+        "length": 9
+      },
+      {
+        "token": "értékelő",
+        "signature": "eéklőrt",
+        "length": 8
+      },
+      {
+        "token": "érzik",
+        "signature": "éikrz",
+        "length": 5
+      },
+      {
+        "token": "ezeken",
+        "signature": "eknz",
+        "length": 6
+      }
+    ]
+  }
+}

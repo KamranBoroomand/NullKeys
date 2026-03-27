@@ -1,0 +1,7376 @@
+{
+  "packId": "czech:common-words:extended",
+  "languageId": "czech",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 1472,
+  "stages": {
+    "foundational": [
+      {
+        "token": "chtěla",
+        "signature": "acěhlt",
+        "length": 6
+      },
+      {
+        "token": "jejích",
+        "signature": "cehíj",
+        "length": 6
+      },
+      {
+        "token": "každé",
+        "signature": "adékž",
+        "length": 5
+      },
+      {
+        "token": "kolik",
+        "signature": "iklo",
+        "length": 5
+      },
+      {
+        "token": "nohy",
+        "signature": "hnoy",
+        "length": 4
+      },
+      {
+        "token": "starý",
+        "signature": "arstý",
+        "length": 5
+      },
+      {
+        "token": "strach",
+        "signature": "achrst",
+        "length": 6
+      },
+      {
+        "token": "šla",
+        "signature": "alš",
+        "length": 3
+      },
+      {
+        "token": "začala",
+        "signature": "ačlz",
+        "length": 6
+      },
+      {
+        "token": "celém",
+        "signature": "ceélm",
+        "length": 5
+      },
+      {
+        "token": "ku",
+        "signature": "ku",
+        "length": 2
+      },
+      {
+        "token": "lesa",
+        "signature": "aels",
+        "length": 4
+      },
+      {
+        "token": "několika",
+        "signature": "aěiklno",
+        "length": 8
+      },
+      {
+        "token": "nemá",
+        "signature": "áemn",
+        "length": 4
+      },
+      {
+        "token": "níž",
+        "signature": "ínž",
+        "length": 3
+      },
+      {
+        "token": "obyčejně",
+        "signature": "bčeějnoy",
+        "length": 8
+      },
+      {
+        "token": "ode",
+        "signature": "deo",
+        "length": 3
+      },
+      {
+        "token": "oni",
+        "signature": "ino",
+        "length": 3
+      },
+      {
+        "token": "prosím",
+        "signature": "ímoprs",
+        "length": 6
+      },
+      {
+        "token": "psy",
+        "signature": "psy",
+        "length": 3
+      },
+      {
+        "token": "slov",
+        "signature": "losv",
+        "length": 4
+      },
+      {
+        "token": "slovem",
+        "signature": "elmosv",
+        "length": 6
+      },
+      {
+        "token": "taková",
+        "signature": "aákotv",
+        "length": 6
+      },
+      {
+        "token": "věci",
+        "signature": "cěiv",
+        "length": 4
+      },
+      {
+        "token": "vyšel",
+        "signature": "elšvy",
+        "length": 5
+      },
+      {
+        "token": "budeš",
+        "signature": "bdešu",
+        "length": 5
+      },
+      {
+        "token": "dál",
+        "signature": "ádl",
+        "length": 3
+      },
+      {
+        "token": "dělat",
+        "signature": "adělt",
+        "length": 5
+      },
+      {
+        "token": "domě",
+        "signature": "děmo",
+        "length": 4
+      },
+      {
+        "token": "chvíle",
+        "signature": "cehílv",
+        "length": 6
+      },
+      {
+        "token": "nahoru",
+        "signature": "ahnoru",
+        "length": 6
+      },
+      {
+        "token": "neobyčejně",
+        "signature": "bčeějnoy",
+        "length": 10
+      },
+      {
+        "token": "okolo",
+        "signature": "klo",
+        "length": 5
+      },
+      {
+        "token": "počala",
+        "signature": "ačlop",
+        "length": 6
+      },
+      {
+        "token": "též",
+        "signature": "étž",
+        "length": 3
+      },
+      {
+        "token": "ven",
+        "signature": "env",
+        "length": 3
+      },
+      {
+        "token": "všechna",
+        "signature": "acehnšv",
+        "length": 7
+      },
+      {
+        "token": "zas",
+        "signature": "asz",
+        "length": 3
+      },
+      {
+        "token": "znovu",
+        "signature": "nouvz",
+        "length": 5
+      },
+      {
+        "token": "dostal",
+        "signature": "adlost",
+        "length": 6
+      },
+      {
+        "token": "jiný",
+        "signature": "ijný",
+        "length": 4
+      },
+      {
+        "token": "lese",
+        "signature": "els",
+        "length": 4
+      },
+      {
+        "token": "někdy",
+        "signature": "děkny",
+        "length": 5
+      },
+      {
+        "token": "neměl",
+        "signature": "eělmn",
+        "length": 5
+      },
+      {
+        "token": "odpověděla",
+        "signature": "adělopv",
+        "length": 10
+      },
+      {
+        "token": "podívat",
+        "signature": "adíoptv",
+        "length": 7
+      },
+      {
+        "token": "pravda",
+        "signature": "adprv",
+        "length": 6
+      },
+      {
+        "token": "rázem",
+        "signature": "áemrz",
+        "length": 5
+      },
+      {
+        "token": "víš",
+        "signature": "íšv",
+        "length": 3
+      },
+      {
+        "token": "všecky",
+        "signature": "cekšvy",
+        "length": 6
+      },
+      {
+        "token": "či",
+        "signature": "či",
+        "length": 2
+      },
+      {
+        "token": "hotov",
+        "signature": "hotv",
+        "length": 5
+      },
+      {
+        "token": "jinak",
+        "signature": "aijkn",
+        "length": 5
+      },
+      {
+        "token": "jiné",
+        "signature": "éijn",
+        "length": 4
+      },
+      {
+        "token": "koho",
+        "signature": "hko",
+        "length": 4
+      },
+      {
+        "token": "mít",
+        "signature": "ímt",
+        "length": 3
+      },
+      {
+        "token": "našeho",
+        "signature": "aehnoš",
+        "length": 6
+      },
+      {
+        "token": "ničeho",
+        "signature": "čehino",
+        "length": 6
+      },
+      {
+        "token": "okamžitě",
+        "signature": "aěikmotž",
+        "length": 8
+      },
+      {
+        "token": "pokoji",
+        "signature": "ijkop",
+        "length": 6
+      },
+      {
+        "token": "spatřil",
+        "signature": "ailpřst",
+        "length": 7
+      },
+      {
+        "token": "takovou",
+        "signature": "akotuv",
+        "length": 7
+      },
+      {
+        "token": "tato",
+        "signature": "aot",
+        "length": 4
+      },
+      {
+        "token": "země",
+        "signature": "eěmz",
+        "length": 4
+      },
+      {
+        "token": "budeme",
+        "signature": "bdemu",
+        "length": 6
+      },
+      {
+        "token": "bys",
+        "signature": "bsy",
+        "length": 3
+      },
+      {
+        "token": "dvěma",
+        "signature": "aděmv",
+        "length": 5
+      },
+      {
+        "token": "klobouk",
+        "signature": "bklou",
+        "length": 7
+      },
+      {
+        "token": "koně",
+        "signature": "ěkno",
+        "length": 4
+      },
+      {
+        "token": "máte",
+        "signature": "áemt",
+        "length": 4
+      },
+      {
+        "token": "mluvit",
+        "signature": "ilmtuv",
+        "length": 6
+      },
+      {
+        "token": "mohlo",
+        "signature": "hlmo",
+        "length": 5
+      },
+      {
+        "token": "mohu",
+        "signature": "hmou",
+        "length": 4
+      },
+      {
+        "token": "nim",
+        "signature": "imn",
+        "length": 3
+      },
+      {
+        "token": "nový",
+        "signature": "nový",
+        "length": 4
+      },
+      {
+        "token": "pán",
+        "signature": "ánp",
+        "length": 3
+      },
+      {
+        "token": "plášť",
+        "signature": "álpšť",
+        "length": 5
+      },
+      {
+        "token": "poznal",
+        "signature": "alnopz",
+        "length": 6
+      },
+      {
+        "token": "přijde",
+        "signature": "deijpř",
+        "length": 6
+      },
+      {
+        "token": "smrti",
+        "signature": "imrst",
+        "length": 5
+      },
+      {
+        "token": "ticho",
+        "signature": "chiot",
+        "length": 5
+      },
+      {
+        "token": "večera",
+        "signature": "ačerv",
+        "length": 6
+      },
+      {
+        "token": "hodinu",
+        "signature": "dhinou",
+        "length": 6
+      },
+      {
+        "token": "housle",
+        "signature": "ehlosu",
+        "length": 6
+      },
+      {
+        "token": "chce",
+        "signature": "ceh",
+        "length": 4
+      },
+      {
+        "token": "jejího",
+        "signature": "ehíjo",
+        "length": 6
+      },
+      {
+        "token": "jejím",
+        "signature": "eíjm",
+        "length": 5
+      },
+      {
+        "token": "města",
+        "signature": "aěmst",
+        "length": 5
+      },
+      {
+        "token": "míru",
+        "signature": "ímru",
+        "length": 4
+      },
+      {
+        "token": "osud",
+        "signature": "dosu",
+        "length": 4
+      },
+      {
+        "token": "postele",
+        "signature": "elopst",
+        "length": 7
+      },
+      {
+        "token": "stal",
+        "signature": "alst",
+        "length": 4
+      },
+      {
+        "token": "viděla",
+        "signature": "aděilv",
+        "length": 6
+      },
+      {
+        "token": "byste",
+        "signature": "besty",
+        "length": 5
+      },
+      {
+        "token": "čem",
+        "signature": "čem",
+        "length": 3
+      },
+      {
+        "token": "další",
+        "signature": "adílš",
+        "length": 5
+      },
+      {
+        "token": "duchu",
+        "signature": "cdhu",
+        "length": 5
+      },
+      {
+        "token": "dům",
+        "signature": "dmů",
+        "length": 3
+      },
+      {
+        "token": "jedné",
+        "signature": "deéjn",
+        "length": 5
+      },
+      {
+        "token": "nikterak",
+        "signature": "aeiknrt",
+        "length": 8
+      },
+      {
+        "token": "posteli",
+        "signature": "eilopst",
+        "length": 7
+      },
+      {
+        "token": "pravdu",
+        "signature": "adpruv",
+        "length": 6
+      },
+      {
+        "token": "pravila",
+        "signature": "ailprv",
+        "length": 7
+      },
+      {
+        "token": "přede",
+        "signature": "depř",
+        "length": 5
+      },
+      {
+        "token": "rozhodně",
+        "signature": "děhnorz",
+        "length": 8
+      },
+      {
+        "token": "sotva",
+        "signature": "aostv",
+        "length": 5
+      },
+      {
+        "token": "srdci",
+        "signature": "cdirs",
+        "length": 5
+      },
+      {
+        "token": "voják",
+        "signature": "ájkov",
+        "length": 5
+      },
+      {
+        "token": "abyste",
+        "signature": "abesty",
+        "length": 6
+      },
+      {
+        "token": "balíček",
+        "signature": "abčeíkl",
+        "length": 7
+      },
+      {
+        "token": "cestou",
+        "signature": "ceostu",
+        "length": 6
+      },
+      {
+        "token": "deset",
+        "signature": "dest",
+        "length": 5
+      },
+      {
+        "token": "dobré",
+        "signature": "bdéor",
+        "length": 5
+      },
+      {
+        "token": "dvou",
+        "signature": "douv",
+        "length": 4
+      },
+      {
+        "token": "jakási",
+        "signature": "aáijks",
+        "length": 6
+      },
+      {
+        "token": "jméno",
+        "signature": "éjmno",
+        "length": 5
+      },
+      {
+        "token": "moc",
+        "signature": "cmo",
+        "length": 3
+      },
+      {
+        "token": "mohli",
+        "signature": "hilmo",
+        "length": 5
+      },
+      {
+        "token": "nazpět",
+        "signature": "aěnptz",
+        "length": 6
+      },
+      {
+        "token": "nejsem",
+        "signature": "ejmns",
+        "length": 6
+      },
+      {
+        "token": "němž",
+        "signature": "ěmnž",
+        "length": 4
+      },
+      {
+        "token": "nevěděl",
+        "signature": "deělnv",
+        "length": 7
+      },
+      {
+        "token": "okna",
+        "signature": "akno",
+        "length": 4
+      },
+      {
+        "token": "ostatní",
+        "signature": "aínost",
+        "length": 7
+      },
+      {
+        "token": "otevřel",
+        "signature": "elořtv",
+        "length": 7
+      },
+      {
+        "token": "pláče",
+        "signature": "áčelp",
+        "length": 5
+      },
+      {
+        "token": "pozdě",
+        "signature": "děopz",
+        "length": 5
+      },
+      {
+        "token": "pranic",
+        "signature": "acinpr",
+        "length": 6
+      },
+      {
+        "token": "rozumí",
+        "signature": "ímoruz",
+        "length": 6
+      },
+      {
+        "token": "starší",
+        "signature": "aírsšt",
+        "length": 6
+      },
+      {
+        "token": "stojí",
+        "signature": "íjost",
+        "length": 5
+      },
+      {
+        "token": "světnici",
+        "signature": "cěinstv",
+        "length": 8
+      },
+      {
+        "token": "věděl",
+        "signature": "dělv",
+        "length": 5
+      },
+      {
+        "token": "vidět",
+        "signature": "děitv",
+        "length": 5
+      },
+      {
+        "token": "zaslechl",
+        "signature": "acehlsz",
+        "length": 8
+      },
+      {
+        "token": "zmizel",
+        "signature": "eilmz",
+        "length": 6
+      },
+      {
+        "token": "boj",
+        "signature": "bjo",
+        "length": 3
+      },
+      {
+        "token": "cesty",
+        "signature": "cesty",
+        "length": 5
+      },
+      {
+        "token": "cit",
+        "signature": "cit",
+        "length": 3
+      },
+      {
+        "token": "hlavy",
+        "signature": "ahlvy",
+        "length": 5
+      },
+      {
+        "token": "honem",
+        "signature": "ehmno",
+        "length": 5
+      },
+      {
+        "token": "jedna",
+        "signature": "adejn",
+        "length": 5
+      },
+      {
+        "token": "jehož",
+        "signature": "ehjož",
+        "length": 5
+      },
+      {
+        "token": "kníže",
+        "signature": "eíknž",
+        "length": 5
+      },
+      {
+        "token": "láska",
+        "signature": "aákls",
+        "length": 5
+      },
+      {
+        "token": "nechtěl",
+        "signature": "ceěhlnt",
+        "length": 7
+      },
+      {
+        "token": "nikoho",
+        "signature": "hikno",
+        "length": 6
+      },
+      {
+        "token": "nohou",
+        "signature": "hnou",
+        "length": 5
+      },
+      {
+        "token": "nového",
+        "signature": "éhnov",
+        "length": 6
+      },
+      {
+        "token": "ostatně",
+        "signature": "aěnost",
+        "length": 7
+      },
+      {
+        "token": "postavení",
+        "signature": "aeínopstv",
+        "length": 9
+      },
+      {
+        "token": "prsou",
+        "signature": "oprsu",
+        "length": 5
+      },
+      {
+        "token": "rozkaz",
+        "signature": "akorz",
+        "length": 6
+      },
+      {
+        "token": "řeknu",
+        "signature": "eknřu",
+        "length": 5
+      },
+      {
+        "token": "stát",
+        "signature": "ást",
+        "length": 4
+      },
+      {
+        "token": "stolu",
+        "signature": "lostu",
+        "length": 5
+      },
+      {
+        "token": "tatínka",
+        "signature": "aíknt",
+        "length": 7
+      },
+      {
+        "token": "tebou",
+        "signature": "beotu",
+        "length": 5
+      },
+      {
+        "token": "vzpamatoval",
+        "signature": "almoptvz",
+        "length": 11
+      },
+      {
+        "token": "ženy",
+        "signature": "enyž",
+        "length": 4
+      },
+      {
+        "token": "bála",
+        "signature": "aábl",
+        "length": 4
+      },
+      {
+        "token": "brachu",
+        "signature": "abchru",
+        "length": 6
+      },
+      {
+        "token": "cestě",
+        "signature": "ceěst",
+        "length": 5
+      },
+      {
+        "token": "čekal",
+        "signature": "ačekl",
+        "length": 5
+      },
+      {
+        "token": "jaký",
+        "signature": "ajký",
+        "length": 4
+      },
+      {
+        "token": "kočáru",
+        "signature": "áčkoru",
+        "length": 6
+      },
+      {
+        "token": "krok",
+        "signature": "kor",
+        "length": 4
+      },
+      {
+        "token": "kroků",
+        "signature": "korů",
+        "length": 5
+      },
+      {
+        "token": "kuchyně",
+        "signature": "cěhknuy",
+        "length": 7
+      },
+      {
+        "token": "myslil",
+        "signature": "ilmsy",
+        "length": 6
+      },
+      {
+        "token": "neustále",
+        "signature": "áelnstu",
+        "length": 8
+      },
+      {
+        "token": "nichž",
+        "signature": "chinž",
+        "length": 5
+      },
+      {
+        "token": "obličej",
+        "signature": "bčeijlo",
+        "length": 7
+      },
+      {
+        "token": "otázky",
+        "signature": "ákotyz",
+        "length": 6
+      },
+      {
+        "token": "pět",
+        "signature": "ěpt",
+        "length": 3
+      },
+      {
+        "token": "podařilo",
+        "signature": "adilopř",
+        "length": 8
+      },
+      {
+        "token": "pochopil",
+        "signature": "chilop",
+        "length": 8
+      },
+      {
+        "token": "překvapení",
+        "signature": "aeíknpřv",
+        "length": 10
+      },
+      {
+        "token": "silně",
+        "signature": "ěilns",
+        "length": 5
+      },
+      {
+        "token": "slečno",
+        "signature": "čelnos",
+        "length": 6
+      },
+      {
+        "token": "strachem",
+        "signature": "acehmrst",
+        "length": 8
+      },
+      {
+        "token": "stranou",
+        "signature": "anorstu",
+        "length": 7
+      },
+      {
+        "token": "světa",
+        "signature": "aěstv",
+        "length": 5
+      },
+      {
+        "token": "takových",
+        "signature": "achkotvý",
+        "length": 8
+      },
+      {
+        "token": "těžko",
+        "signature": "ěkotž",
+        "length": 5
+      },
+      {
+        "token": "úřadu",
+        "signature": "adřuú",
+        "length": 5
+      },
+      {
+        "token": "usmál",
+        "signature": "álmsu",
+        "length": 5
+      },
+      {
+        "token": "výše",
+        "signature": "ešvý",
+        "length": 4
+      },
+      {
+        "token": "znamení",
+        "signature": "aeímnz",
+        "length": 7
+      },
+      {
+        "token": "zvláštního",
+        "signature": "áhílnoštvz",
+        "length": 10
+      },
+      {
+        "token": "abychom",
+        "signature": "abchmoy",
+        "length": 7
+      },
+      {
+        "token": "ač",
+        "signature": "ač",
+        "length": 2
+      },
+      {
+        "token": "bychom",
+        "signature": "bchmoy",
+        "length": 6
+      },
+      {
+        "token": "celého",
+        "signature": "ceéhlo",
+        "length": 6
+      },
+      {
+        "token": "cizí",
+        "signature": "ciíz",
+        "length": 4
+      },
+      {
+        "token": "čtyři",
+        "signature": "čiřty",
+        "length": 5
+      },
+      {
+        "token": "dveře",
+        "signature": "deřv",
+        "length": 5
+      },
+      {
+        "token": "host",
+        "signature": "host",
+        "length": 4
+      },
+      {
+        "token": "jedním",
+        "signature": "deíjmn",
+        "length": 6
+      },
+      {
+        "token": "každého",
+        "signature": "adéhkož",
+        "length": 7
+      },
+      {
+        "token": "každém",
+        "signature": "adékmž",
+        "length": 6
+      },
+      {
+        "token": "každou",
+        "signature": "adkouž",
+        "length": 6
+      },
+      {
+        "token": "klidně",
+        "signature": "děikln",
+        "length": 6
+      },
+      {
+        "token": "mlčel",
+        "signature": "čelm",
+        "length": 5
+      },
+      {
+        "token": "mlčky",
+        "signature": "čklmy",
+        "length": 5
+      },
+      {
+        "token": "naděje",
+        "signature": "adeějn",
+        "length": 6
+      },
+      {
+        "token": "někam",
+        "signature": "aěkmn",
+        "length": 5
+      },
+      {
+        "token": "někoho",
+        "signature": "ěhkno",
+        "length": 6
+      },
+      {
+        "token": "pozornost",
+        "signature": "noprstz",
+        "length": 9
+      },
+      {
+        "token": "skupiny",
+        "signature": "iknpsuy",
+        "length": 7
+      },
+      {
+        "token": "smích",
+        "signature": "chíms",
+        "length": 5
+      },
+      {
+        "token": "tady",
+        "signature": "adty",
+        "length": 4
+      },
+      {
+        "token": "tehdy",
+        "signature": "dehty",
+        "length": 5
+      },
+      {
+        "token": "úsměv",
+        "signature": "ěmsúv",
+        "length": 5
+      },
+      {
+        "token": "usmíval",
+        "signature": "aílmsuv",
+        "length": 7
+      },
+      {
+        "token": "uviděl",
+        "signature": "děiluv",
+        "length": 6
+      },
+      {
+        "token": "vědomí",
+        "signature": "děímov",
+        "length": 6
+      },
+      {
+        "token": "všemu",
+        "signature": "emšuv",
+        "length": 5
+      },
+      {
+        "token": "vším",
+        "signature": "ímšv",
+        "length": 4
+      },
+      {
+        "token": "záležitost",
+        "signature": "áeilostzž",
+        "length": 10
+      },
+      {
+        "token": "zprávy",
+        "signature": "áprvyz",
+        "length": 6
+      },
+      {
+        "token": "člověkem",
+        "signature": "čeěklmov",
+        "length": 8
+      },
+      {
+        "token": "dám",
+        "signature": "ádm",
+        "length": 3
+      },
+      {
+        "token": "dobrého",
+        "signature": "bdéhor",
+        "length": 7
+      },
+      {
+        "token": "hlavně",
+        "signature": "aěhlnv",
+        "length": 6
+      },
+      {
+        "token": "chvilku",
+        "signature": "chikluv",
+        "length": 7
+      },
+      {
+        "token": "jestliže",
+        "signature": "eijlstž",
+        "length": 8
+      },
+      {
+        "token": "mamince",
+        "signature": "aceimn",
+        "length": 7
+      },
+      {
+        "token": "odpověď",
+        "signature": "dďěopv",
+        "length": 7
+      },
+      {
+        "token": "oznámil",
+        "signature": "áilmnoz",
+        "length": 7
+      },
+      {
+        "token": "partyzánů",
+        "signature": "aánprtůyz",
+        "length": 9
+      },
+      {
+        "token": "pevně",
+        "signature": "eěnpv",
+        "length": 5
+      },
+      {
+        "token": "pokladu",
+        "signature": "adklopu",
+        "length": 7
+      },
+      {
+        "token": "ptal",
+        "signature": "alpt",
+        "length": 4
+      },
+      {
+        "token": "sáně",
+        "signature": "áěns",
+        "length": 4
+      },
+      {
+        "token": "slovy",
+        "signature": "losvy",
+        "length": 5
+      },
+      {
+        "token": "smíchu",
+        "signature": "chímsu",
+        "length": 6
+      },
+      {
+        "token": "tuším",
+        "signature": "ímštu",
+        "length": 5
+      },
+      {
+        "token": "ukázal",
+        "signature": "aákluz",
+        "length": 6
+      },
+      {
+        "token": "viděti",
+        "signature": "děitv",
+        "length": 6
+      },
+      {
+        "token": "zoufalství",
+        "signature": "afílostuvz",
+        "length": 10
+      },
+      {
+        "token": "zpráva",
+        "signature": "aáprvz",
+        "length": 6
+      },
+      {
+        "token": "zvedl",
+        "signature": "delvz",
+        "length": 5
+      },
+      {
+        "token": "dech",
+        "signature": "cdeh",
+        "length": 4
+      },
+      {
+        "token": "dlouhé",
+        "signature": "déhlou",
+        "length": 6
+      },
+      {
+        "token": "dni",
+        "signature": "din",
+        "length": 3
+      },
+      {
+        "token": "dní",
+        "signature": "dín",
+        "length": 3
+      },
+      {
+        "token": "doposud",
+        "signature": "dopsu",
+        "length": 7
+      },
+      {
+        "token": "dveřím",
+        "signature": "deímřv",
+        "length": 6
+      },
+      {
+        "token": "hodně",
+        "signature": "děhno",
+        "length": 5
+      },
+      {
+        "token": "chtěli",
+        "signature": "cěhilt",
+        "length": 6
+      },
+      {
+        "token": "jaká",
+        "signature": "aájk",
+        "length": 4
+      },
+      {
+        "token": "jít",
+        "signature": "íjt",
+        "length": 3
+      },
+      {
+        "token": "kočár",
+        "signature": "áčkor",
+        "length": 5
+      },
+      {
+        "token": "krku",
+        "signature": "kru",
+        "length": 4
+      },
+      {
+        "token": "lidem",
+        "signature": "deilm",
+        "length": 5
+      },
+      {
+        "token": "major",
+        "signature": "ajmor",
+        "length": 5
+      },
+      {
+        "token": "nade",
+        "signature": "aden",
+        "length": 4
+      },
+      {
+        "token": "našem",
+        "signature": "aemnš",
+        "length": 5
+      },
+      {
+        "token": "neštěstí",
+        "signature": "eěínsšt",
+        "length": 8
+      },
+      {
+        "token": "nevěděla",
+        "signature": "adeělnv",
+        "length": 8
+      },
+      {
+        "token": "optal",
+        "signature": "alopt",
+        "length": 5
+      },
+      {
+        "token": "pánové",
+        "signature": "áénopv",
+        "length": 6
+      },
+      {
+        "token": "peněz",
+        "signature": "eěnpz",
+        "length": 5
+      },
+      {
+        "token": "pojednou",
+        "signature": "dejnopu",
+        "length": 8
+      },
+      {
+        "token": "prohodil",
+        "signature": "dhilopr",
+        "length": 8
+      },
+      {
+        "token": "promluvil",
+        "signature": "ilmopruv",
+        "length": 9
+      },
+      {
+        "token": "přátelství",
+        "signature": "áeílpřstv",
+        "length": 10
+      },
+      {
+        "token": "přijel",
+        "signature": "eijlpř",
+        "length": 6
+      },
+      {
+        "token": "přítel",
+        "signature": "eílpřt",
+        "length": 6
+      },
+      {
+        "token": "půjde",
+        "signature": "dejpů",
+        "length": 5
+      },
+      {
+        "token": "pustil",
+        "signature": "ilpstu",
+        "length": 6
+      },
+      {
+        "token": "sedl",
+        "signature": "dels",
+        "length": 4
+      },
+      {
+        "token": "skupina",
+        "signature": "aiknpsu",
+        "length": 7
+      },
+      {
+        "token": "slyšel",
+        "signature": "elsšy",
+        "length": 6
+      },
+      {
+        "token": "stála",
+        "signature": "aálst",
+        "length": 5
+      },
+      {
+        "token": "státi",
+        "signature": "áist",
+        "length": 5
+      },
+      {
+        "token": "stůl",
+        "signature": "lstů",
+        "length": 4
+      },
+      {
+        "token": "tajemství",
+        "signature": "aeíjmstv",
+        "length": 9
+      },
+      {
+        "token": "tož",
+        "signature": "otž",
+        "length": 3
+      },
+      {
+        "token": "tvůj",
+        "signature": "jtův",
+        "length": 4
+      },
+      {
+        "token": "vody",
+        "signature": "dovy",
+        "length": 4
+      },
+      {
+        "token": "vojáci",
+        "signature": "ácijov",
+        "length": 6
+      },
+      {
+        "token": "vstal",
+        "signature": "alstv",
+        "length": 5
+      },
+      {
+        "token": "vzpomněl",
+        "signature": "ělmnopvz",
+        "length": 8
+      },
+      {
+        "token": "životě",
+        "signature": "ěiotvž",
+        "length": 6
+      },
+      {
+        "token": "běžel",
+        "signature": "beělž",
+        "length": 5
+      },
+      {
+        "token": "části",
+        "signature": "áčist",
+        "length": 5
+      },
+      {
+        "token": "čekat",
+        "signature": "ačekt",
+        "length": 5
+      },
+      {
+        "token": "člověku",
+        "signature": "čěklouv",
+        "length": 7
+      },
+      {
+        "token": "dopis",
+        "signature": "diops",
+        "length": 5
+      },
+      {
+        "token": "dovolte",
+        "signature": "delotv",
+        "length": 7
+      },
+      {
+        "token": "druhou",
+        "signature": "dhoru",
+        "length": 6
+      },
+      {
+        "token": "hlavní",
+        "signature": "ahílnv",
+        "length": 6
+      },
+      {
+        "token": "jednu",
+        "signature": "dejnu",
+        "length": 5
+      },
+      {
+        "token": "jindy",
+        "signature": "dijny",
+        "length": 5
+      },
+      {
+        "token": "kdysi",
+        "signature": "diksy",
+        "length": 5
+      },
+      {
+        "token": "lékař",
+        "signature": "aéklř",
+        "length": 5
+      },
+      {
+        "token": "léta",
+        "signature": "aélt",
+        "length": 4
+      },
+      {
+        "token": "ležel",
+        "signature": "elž",
+        "length": 5
+      },
+      {
+        "token": "mém",
+        "signature": "ém",
+        "length": 3
+      },
+      {
+        "token": "minut",
+        "signature": "imntu",
+        "length": 5
+      },
+      {
+        "token": "mostu",
+        "signature": "mostu",
+        "length": 5
+      },
+      {
+        "token": "mysli",
+        "signature": "ilmsy",
+        "length": 5
+      },
+      {
+        "token": "nadání",
+        "signature": "aádín",
+        "length": 6
+      },
+      {
+        "token": "nadšení",
+        "signature": "adeínš",
+        "length": 7
+      },
+      {
+        "token": "nějakým",
+        "signature": "aějkmný",
+        "length": 7
+      },
+      {
+        "token": "nejen",
+        "signature": "ejn",
+        "length": 5
+      }
+    ],
+    "developing": [
+      {
+        "token": "zachvěl",
+        "signature": "acěhlvz",
+        "length": 7
+      },
+      {
+        "token": "záležitosti",
+        "signature": "áeilostzž",
+        "length": 11
+      },
+      {
+        "token": "zamířil",
+        "signature": "aiílmřz",
+        "length": 7
+      },
+      {
+        "token": "zarazila",
+        "signature": "ailrz",
+        "length": 8
+      },
+      {
+        "token": "zaslechla",
+        "signature": "acehlsz",
+        "length": 9
+      },
+      {
+        "token": "zaslechli",
+        "signature": "acehilsz",
+        "length": 9
+      },
+      {
+        "token": "zašeptala",
+        "signature": "aelpštz",
+        "length": 9
+      },
+      {
+        "token": "zmatek",
+        "signature": "aekmtz",
+        "length": 6
+      },
+      {
+        "token": "značné",
+        "signature": "ačénz",
+        "length": 6
+      },
+      {
+        "token": "známo",
+        "signature": "ámnoz",
+        "length": 5
+      },
+      {
+        "token": "známých",
+        "signature": "áchmnýz",
+        "length": 7
+      },
+      {
+        "token": "zrak",
+        "signature": "akrz",
+        "length": 4
+      },
+      {
+        "token": "zůstane",
+        "signature": "aenstůz",
+        "length": 7
+      },
+      {
+        "token": "zvěděla",
+        "signature": "adělvz",
+        "length": 7
+      },
+      {
+        "token": "ženou",
+        "signature": "enouž",
+        "length": 5
+      },
+      {
+        "token": "žije",
+        "signature": "eijž",
+        "length": 4
+      },
+      {
+        "token": "žíti",
+        "signature": "iítž",
+        "length": 4
+      },
+      {
+        "token": "ačkoliv",
+        "signature": "ačiklov",
+        "length": 7
+      },
+      {
+        "token": "běžela",
+        "signature": "abeělž",
+        "length": 6
+      },
+      {
+        "token": "bohatství",
+        "signature": "abhíostv",
+        "length": 9
+      },
+      {
+        "token": "bolestí",
+        "signature": "beílost",
+        "length": 7
+      },
+      {
+        "token": "část",
+        "signature": "áčst",
+        "length": 4
+      },
+      {
+        "token": "čísi",
+        "signature": "čiís",
+        "length": 4
+      },
+      {
+        "token": "dalo",
+        "signature": "adlo",
+        "length": 4
+      },
+      {
+        "token": "dědině",
+        "signature": "děin",
+        "length": 6
+      },
+      {
+        "token": "dob",
+        "signature": "bdo",
+        "length": 3
+      },
+      {
+        "token": "ducha",
+        "signature": "acdhu",
+        "length": 5
+      },
+      {
+        "token": "duší",
+        "signature": "díšu",
+        "length": 4
+      },
+      {
+        "token": "dychtivě",
+        "signature": "cděhitvy",
+        "length": 8
+      },
+      {
+        "token": "fraku",
+        "signature": "afkru",
+        "length": 5
+      },
+      {
+        "token": "hlasy",
+        "signature": "ahlsy",
+        "length": 5
+      },
+      {
+        "token": "hluboce",
+        "signature": "bcehlou",
+        "length": 7
+      },
+      {
+        "token": "hluboké",
+        "signature": "béhklou",
+        "length": 7
+      },
+      {
+        "token": "hodinou",
+        "signature": "dhinou",
+        "length": 7
+      },
+      {
+        "token": "hospodě",
+        "signature": "děhops",
+        "length": 7
+      },
+      {
+        "token": "houslista",
+        "signature": "ahilostu",
+        "length": 9
+      },
+      {
+        "token": "hrál",
+        "signature": "áhlr",
+        "length": 4
+      },
+      {
+        "token": "hrobu",
+        "signature": "bhoru",
+        "length": 5
+      },
+      {
+        "token": "hrozného",
+        "signature": "éhnorz",
+        "length": 8
+      },
+      {
+        "token": "hrozný",
+        "signature": "hnorýz",
+        "length": 6
+      },
+      {
+        "token": "chalupě",
+        "signature": "acěhlpu",
+        "length": 7
+      },
+      {
+        "token": "chodníku",
+        "signature": "cdhíknou",
+        "length": 8
+      },
+      {
+        "token": "chvílemi",
+        "signature": "cehiílmv",
+        "length": 8
+      },
+      {
+        "token": "jejíž",
+        "signature": "eíjž",
+        "length": 5
+      },
+      {
+        "token": "jeti",
+        "signature": "eijt",
+        "length": 4
+      },
+      {
+        "token": "jimiž",
+        "signature": "ijmž",
+        "length": 5
+      },
+      {
+        "token": "jímž",
+        "signature": "íjmž",
+        "length": 4
+      },
+      {
+        "token": "jménem",
+        "signature": "eéjmn",
+        "length": 6
+      },
+      {
+        "token": "každým",
+        "signature": "adkmýž",
+        "length": 6
+      },
+      {
+        "token": "krásně",
+        "signature": "áěknrs",
+        "length": 6
+      },
+      {
+        "token": "láskou",
+        "signature": "áklosu",
+        "length": 6
+      },
+      {
+        "token": "líto",
+        "signature": "ílot",
+        "length": 4
+      },
+      {
+        "token": "loučil",
+        "signature": "čilou",
+        "length": 6
+      },
+      {
+        "token": "maminky",
+        "signature": "aikmny",
+        "length": 7
+      },
+      {
+        "token": "méně",
+        "signature": "éěmn",
+        "length": 4
+      },
+      {
+        "token": "místu",
+        "signature": "ímstu",
+        "length": 5
+      },
+      {
+        "token": "mluví",
+        "signature": "ílmuv",
+        "length": 5
+      },
+      {
+        "token": "mluvím",
+        "signature": "ílmuv",
+        "length": 6
+      },
+      {
+        "token": "mocí",
+        "signature": "címo",
+        "length": 4
+      },
+      {
+        "token": "moři",
+        "signature": "imoř",
+        "length": 4
+      },
+      {
+        "token": "most",
+        "signature": "most",
+        "length": 4
+      },
+      {
+        "token": "mužem",
+        "signature": "emuž",
+        "length": 5
+      },
+      {
+        "token": "můžeš",
+        "signature": "emšůž",
+        "length": 5
+      },
+      {
+        "token": "myslila",
+        "signature": "ailmsy",
+        "length": 7
+      },
+      {
+        "token": "nápadně",
+        "signature": "aáděnp",
+        "length": 7
+      },
+      {
+        "token": "napsal",
+        "signature": "alnps",
+        "length": 6
+      },
+      {
+        "token": "národa",
+        "signature": "aádnor",
+        "length": 6
+      },
+      {
+        "token": "našli",
+        "signature": "ailnš",
+        "length": 5
+      },
+      {
+        "token": "nejraději",
+        "signature": "adeěijnr",
+        "length": 9
+      },
+      {
+        "token": "nejvyšší",
+        "signature": "eíjnšvy",
+        "length": 8
+      },
+      {
+        "token": "některý",
+        "signature": "eěknrtý",
+        "length": 7
+      },
+      {
+        "token": "nemohli",
+        "signature": "ehilmno",
+        "length": 7
+      },
+      {
+        "token": "nenadání",
+        "signature": "aádeín",
+        "length": 8
+      },
+      {
+        "token": "neznal",
+        "signature": "aelnz",
+        "length": 6
+      },
+      {
+        "token": "nijak",
+        "signature": "aijkn",
+        "length": 5
+      },
+      {
+        "token": "no",
+        "signature": "no",
+        "length": 2
+      },
+      {
+        "token": "nohama",
+        "signature": "ahmno",
+        "length": 6
+      },
+      {
+        "token": "oběma",
+        "signature": "aběmo",
+        "length": 5
+      },
+      {
+        "token": "objala",
+        "signature": "abjlo",
+        "length": 6
+      },
+      {
+        "token": "objevila",
+        "signature": "abeijlov",
+        "length": 8
+      },
+      {
+        "token": "očekáváním",
+        "signature": "áčeíkmnov",
+        "length": 10
+      },
+      {
+        "token": "odchodu",
+        "signature": "cdhou",
+        "length": 7
+      },
+      {
+        "token": "odpusťte",
+        "signature": "deopstťu",
+        "length": 8
+      },
+      {
+        "token": "oknu",
+        "signature": "knou",
+        "length": 4
+      },
+      {
+        "token": "opilý",
+        "signature": "ilopý",
+        "length": 5
+      },
+      {
+        "token": "osoby",
+        "signature": "bosy",
+        "length": 5
+      },
+      {
+        "token": "ostýchavě",
+        "signature": "acěhostvý",
+        "length": 9
+      },
+      {
+        "token": "papíru",
+        "signature": "aípru",
+        "length": 6
+      },
+      {
+        "token": "pes",
+        "signature": "eps",
+        "length": 3
+      },
+      {
+        "token": "pláště",
+        "signature": "áělpšt",
+        "length": 6
+      },
+      {
+        "token": "poděkoval",
+        "signature": "aděklopv",
+        "length": 9
+      },
+      {
+        "token": "pokračovala",
+        "signature": "ačkloprv",
+        "length": 11
+      },
+      {
+        "token": "pokynul",
+        "signature": "klnopuy",
+        "length": 7
+      },
+      {
+        "token": "ponenáhlu",
+        "signature": "áehlnopu",
+        "length": 9
+      },
+      {
+        "token": "postavy",
+        "signature": "aopstvy",
+        "length": 7
+      },
+      {
+        "token": "pověděl",
+        "signature": "dělopv",
+        "length": 7
+      },
+      {
+        "token": "povel",
+        "signature": "elopv",
+        "length": 5
+      },
+      {
+        "token": "prahu",
+        "signature": "ahpru",
+        "length": 5
+      },
+      {
+        "token": "probudil",
+        "signature": "bdilopru",
+        "length": 8
+      },
+      {
+        "token": "probudila",
+        "signature": "abdilopru",
+        "length": 9
+      },
+      {
+        "token": "prozatím",
+        "signature": "aímoprtz",
+        "length": 8
+      },
+      {
+        "token": "prvních",
+        "signature": "chínprv",
+        "length": 7
+      },
+      {
+        "token": "přečetl",
+        "signature": "čelpřt",
+        "length": 7
+      },
+      {
+        "token": "představení",
+        "signature": "adeínpřstv",
+        "length": 11
+      },
+      {
+        "token": "překvapeně",
+        "signature": "aeěknpřv",
+        "length": 10
+      },
+      {
+        "token": "přicházel",
+        "signature": "ácehilpřz",
+        "length": 9
+      },
+      {
+        "token": "přišlo",
+        "signature": "ilopřš",
+        "length": 6
+      },
+      {
+        "token": "půjdeme",
+        "signature": "dejmpů",
+        "length": 7
+      },
+      {
+        "token": "rameno",
+        "signature": "aemnor",
+        "length": 6
+      },
+      {
+        "token": "roky",
+        "signature": "kory",
+        "length": 4
+      },
+      {
+        "token": "rozběhl",
+        "signature": "běhlorz",
+        "length": 7
+      },
+      {
+        "token": "rozčilením",
+        "signature": "čeiílmnorz",
+        "length": 10
+      },
+      {
+        "token": "rozechvění",
+        "signature": "ceěhínorvz",
+        "length": 10
+      },
+      {
+        "token": "rozumu",
+        "signature": "moruz",
+        "length": 6
+      },
+      {
+        "token": "řekne",
+        "signature": "eknř",
+        "length": 5
+      },
+      {
+        "token": "říkal",
+        "signature": "aíklř",
+        "length": 5
+      },
+      {
+        "token": "samých",
+        "signature": "achmsý",
+        "length": 6
+      },
+      {
+        "token": "seděla",
+        "signature": "adeěls",
+        "length": 6
+      },
+      {
+        "token": "setkal",
+        "signature": "aeklst",
+        "length": 6
+      },
+      {
+        "token": "síla",
+        "signature": "aíls",
+        "length": 4
+      },
+      {
+        "token": "silný",
+        "signature": "ilnsý",
+        "length": 5
+      },
+      {
+        "token": "silou",
+        "signature": "ilosu",
+        "length": 5
+      },
+      {
+        "token": "skrze",
+        "signature": "ekrsz",
+        "length": 5
+      },
+      {
+        "token": "skupinu",
+        "signature": "iknpsu",
+        "length": 7
+      },
+      {
+        "token": "sluha",
+        "signature": "ahlsu",
+        "length": 5
+      },
+      {
+        "token": "sluší",
+        "signature": "ílsšu",
+        "length": 5
+      },
+      {
+        "token": "stáli",
+        "signature": "áilst",
+        "length": 5
+      },
+      {
+        "token": "starostí",
+        "signature": "aíorst",
+        "length": 8
+      },
+      {
+        "token": "stáří",
+        "signature": "áířst",
+        "length": 5
+      },
+      {
+        "token": "státní",
+        "signature": "áínst",
+        "length": 6
+      },
+      {
+        "token": "stodoly",
+        "signature": "dlosty",
+        "length": 7
+      },
+      {
+        "token": "světla",
+        "signature": "aělstv",
+        "length": 6
+      },
+      {
+        "token": "štáb",
+        "signature": "ábšt",
+        "length": 4
+      },
+      {
+        "token": "tichá",
+        "signature": "áchit",
+        "length": 5
+      },
+      {
+        "token": "tichým",
+        "signature": "chimtý",
+        "length": 6
+      },
+      {
+        "token": "totéž",
+        "signature": "éotž",
+        "length": 5
+      },
+      {
+        "token": "trvalo",
+        "signature": "alortv",
+        "length": 6
+      },
+      {
+        "token": "údolí",
+        "signature": "díloú",
+        "length": 5
+      },
+      {
+        "token": "uviděla",
+        "signature": "aděiluv",
+        "length": 7
+      },
+      {
+        "token": "velectěný",
+        "signature": "ceělntvý",
+        "length": 9
+      },
+      {
+        "token": "venku",
+        "signature": "eknuv",
+        "length": 5
+      },
+      {
+        "token": "veselé",
+        "signature": "eélsv",
+        "length": 6
+      },
+      {
+        "token": "vidí",
+        "signature": "diív",
+        "length": 4
+      },
+      {
+        "token": "víme",
+        "signature": "eímv",
+        "length": 4
+      },
+      {
+        "token": "vojáka",
+        "signature": "aájkov",
+        "length": 6
+      },
+      {
+        "token": "vpadl",
+        "signature": "adlpv",
+        "length": 5
+      },
+      {
+        "token": "vrat",
+        "signature": "artv",
+        "length": 4
+      },
+      {
+        "token": "vrhla",
+        "signature": "ahlrv",
+        "length": 5
+      },
+      {
+        "token": "vychování",
+        "signature": "áchínovy",
+        "length": 9
+      },
+      {
+        "token": "vyjel",
+        "signature": "ejlvy",
+        "length": 5
+      },
+      {
+        "token": "výraz",
+        "signature": "arvýz",
+        "length": 5
+      },
+      {
+        "token": "výrazem",
+        "signature": "aemrvýz",
+        "length": 7
+      },
+      {
+        "token": "vytryskly",
+        "signature": "klrstvy",
+        "length": 9
+      },
+      {
+        "token": "vzdálenosti",
+        "signature": "ádeilnostvz",
+        "length": 11
+      },
+      {
+        "token": "vzpomínky",
+        "signature": "íkmnopvyz",
+        "length": 9
+      },
+      {
+        "token": "vztekem",
+        "signature": "ekmtvz",
+        "length": 7
+      },
+      {
+        "token": "zádech",
+        "signature": "ácdehz",
+        "length": 6
+      },
+      {
+        "token": "zahlédl",
+        "signature": "adéhlz",
+        "length": 7
+      },
+      {
+        "token": "záleží",
+        "signature": "áeílzž",
+        "length": 6
+      },
+      {
+        "token": "zašel",
+        "signature": "aelšz",
+        "length": 5
+      },
+      {
+        "token": "zavřela",
+        "signature": "aelřvz",
+        "length": 7
+      },
+      {
+        "token": "získal",
+        "signature": "aíklsz",
+        "length": 6
+      },
+      {
+        "token": "zle",
+        "signature": "elz",
+        "length": 3
+      },
+      {
+        "token": "zmizela",
+        "signature": "aeilmz",
+        "length": 7
+      },
+      {
+        "token": "znamenalo",
+        "signature": "aelmnoz",
+        "length": 9
+      },
+      {
+        "token": "znenadání",
+        "signature": "aádeínz",
+        "length": 9
+      },
+      {
+        "token": "zoufalý",
+        "signature": "aflouýz",
+        "length": 7
+      },
+      {
+        "token": "zvědavost",
+        "signature": "aděostvz",
+        "length": 9
+      },
+      {
+        "token": "žádné",
+        "signature": "ádénž",
+        "length": 5
+      },
+      {
+        "token": "životem",
+        "signature": "eimotvž",
+        "length": 7
+      },
+      {
+        "token": "báseň",
+        "signature": "ábeňs",
+        "length": 5
+      },
+      {
+        "token": "bol",
+        "signature": "blo",
+        "length": 3
+      },
+      {
+        "token": "bral",
+        "signature": "ablr",
+        "length": 4
+      },
+      {
+        "token": "bratře",
+        "signature": "aberřt",
+        "length": 6
+      },
+      {
+        "token": "bratři",
+        "signature": "abirřt",
+        "length": 6
+      },
+      {
+        "token": "bytosti",
+        "signature": "biosty",
+        "length": 7
+      },
+      {
+        "token": "cti",
+        "signature": "cit",
+        "length": 3
+      },
+      {
+        "token": "čaj",
+        "signature": "ačj",
+        "length": 3
+      },
+      {
+        "token": "dámy",
+        "signature": "ádmy",
+        "length": 4
+      },
+      {
+        "token": "dcerou",
+        "signature": "cdeoru",
+        "length": 6
+      },
+      {
+        "token": "dívala",
+        "signature": "adílv",
+        "length": 6
+      },
+      {
+        "token": "dnech",
+        "signature": "cdehn",
+        "length": 5
+      },
+      {
+        "token": "dnešní",
+        "signature": "deínš",
+        "length": 6
+      },
+      {
+        "token": "dobrou",
+        "signature": "bdoru",
+        "length": 6
+      },
+      {
+        "token": "dostat",
+        "signature": "adost",
+        "length": 6
+      },
+      {
+        "token": "dříví",
+        "signature": "dířv",
+        "length": 5
+      },
+      {
+        "token": "dvořanů",
+        "signature": "adnořův",
+        "length": 7
+      },
+      {
+        "token": "granáty",
+        "signature": "aágnrty",
+        "length": 7
+      },
+      {
+        "token": "hbitě",
+        "signature": "běhit",
+        "length": 5
+      },
+      {
+        "token": "hluboký",
+        "signature": "bhklouý",
+        "length": 7
+      },
+      {
+        "token": "hoden",
+        "signature": "dehno",
+        "length": 5
+      },
+      {
+        "token": "hodina",
+        "signature": "adhino",
+        "length": 6
+      },
+      {
+        "token": "hodná",
+        "signature": "ádhno",
+        "length": 5
+      },
+      {
+        "token": "hrdiny",
+        "signature": "dhinry",
+        "length": 6
+      },
+      {
+        "token": "hrobě",
+        "signature": "běhor",
+        "length": 5
+      },
+      {
+        "token": "hru",
+        "signature": "hru",
+        "length": 3
+      },
+      {
+        "token": "chlapců",
+        "signature": "achlpů",
+        "length": 7
+      },
+      {
+        "token": "chodil",
+        "signature": "cdhilo",
+        "length": 6
+      },
+      {
+        "token": "choval",
+        "signature": "achlov",
+        "length": 6
+      },
+      {
+        "token": "chtějí",
+        "signature": "cěhíjt",
+        "length": 6
+      },
+      {
+        "token": "jakých",
+        "signature": "achjký",
+        "length": 6
+      },
+      {
+        "token": "jednomu",
+        "signature": "dejmnou",
+        "length": 7
+      },
+      {
+        "token": "jejichž",
+        "signature": "cehijž",
+        "length": 7
+      },
+      {
+        "token": "jestli",
+        "signature": "eijlst",
+        "length": 6
+      },
+      {
+        "token": "jídlo",
+        "signature": "díjlo",
+        "length": 5
+      },
+      {
+        "token": "jmenuje",
+        "signature": "ejmnu",
+        "length": 7
+      },
+      {
+        "token": "kámen",
+        "signature": "áekmn",
+        "length": 5
+      },
+      {
+        "token": "kapitán",
+        "signature": "aáiknpt",
+        "length": 7
+      },
+      {
+        "token": "klidu",
+        "signature": "diklu",
+        "length": 5
+      },
+      {
+        "token": "knih",
+        "signature": "hikn",
+        "length": 4
+      },
+      {
+        "token": "kráčel",
+        "signature": "áčeklr",
+        "length": 6
+      },
+      {
+        "token": "krajně",
+        "signature": "aějknr",
+        "length": 6
+      },
+      {
+        "token": "králi",
+        "signature": "áiklr",
+        "length": 5
+      },
+      {
+        "token": "krásný",
+        "signature": "áknrsý",
+        "length": 6
+      },
+      {
+        "token": "křoví",
+        "signature": "íkořv",
+        "length": 5
+      },
+      {
+        "token": "kupředu",
+        "signature": "dekpřu",
+        "length": 7
+      },
+      {
+        "token": "led",
+        "signature": "del",
+        "length": 3
+      },
+      {
+        "token": "lesů",
+        "signature": "elsů",
+        "length": 4
+      },
+      {
+        "token": "letech",
+        "signature": "cehlt",
+        "length": 6
+      },
+      {
+        "token": "ležely",
+        "signature": "elyž",
+        "length": 6
+      },
+      {
+        "token": "měly",
+        "signature": "ělmy",
+        "length": 4
+      },
+      {
+        "token": "miluje",
+        "signature": "eijlmu",
+        "length": 6
+      },
+      {
+        "token": "mlčíš",
+        "signature": "čílmš",
+        "length": 5
+      },
+      {
+        "token": "mráz",
+        "signature": "ámrz",
+        "length": 4
+      },
+      {
+        "token": "musil",
+        "signature": "ilmsu",
+        "length": 5
+      },
+      {
+        "token": "myšlenkami",
+        "signature": "aeiklmnšy",
+        "length": 10
+      },
+      {
+        "token": "myšlenky",
+        "signature": "eklmnšy",
+        "length": 8
+      },
+      {
+        "token": "naivní",
+        "signature": "aiínv",
+        "length": 6
+      },
+      {
+        "token": "namítl",
+        "signature": "aílmnt",
+        "length": 6
+      },
+      {
+        "token": "něčem",
+        "signature": "čeěmn",
+        "length": 5
+      },
+      {
+        "token": "něčemu",
+        "signature": "čeěmnu",
+        "length": 6
+      },
+      {
+        "token": "něčím",
+        "signature": "čěímn",
+        "length": 5
+      },
+      {
+        "token": "neděle",
+        "signature": "deěln",
+        "length": 6
+      },
+      {
+        "token": "nechceš",
+        "signature": "cehnš",
+        "length": 7
+      },
+      {
+        "token": "nějakého",
+        "signature": "aéěhjkno",
+        "length": 8
+      },
+      {
+        "token": "německý",
+        "signature": "ceěkmný",
+        "length": 7
+      },
+      {
+        "token": "nepozoroval",
+        "signature": "aelnoprvz",
+        "length": 11
+      },
+      {
+        "token": "nesměla",
+        "signature": "aeělmns",
+        "length": 7
+      },
+      {
+        "token": "neumím",
+        "signature": "eímnu",
+        "length": 6
+      },
+      {
+        "token": "nevolky",
+        "signature": "eklnovy",
+        "length": 7
+      },
+      {
+        "token": "nově",
+        "signature": "ěnov",
+        "length": 4
+      },
+      {
+        "token": "nových",
+        "signature": "chnový",
+        "length": 6
+      },
+      {
+        "token": "nutno",
+        "signature": "notu",
+        "length": 5
+      },
+      {
+        "token": "obědu",
+        "signature": "bděou",
+        "length": 5
+      },
+      {
+        "token": "objal",
+        "signature": "abjlo",
+        "length": 5
+      },
+      {
+        "token": "obou",
+        "signature": "bou",
+        "length": 4
+      },
+      {
+        "token": "obrátiti",
+        "signature": "ábiort",
+        "length": 8
+      },
+      {
+        "token": "očekávala",
+        "signature": "aáčeklov",
+        "length": 9
+      },
+      {
+        "token": "odejít",
+        "signature": "deíjot",
+        "length": 6
+      },
+      {
+        "token": "oknem",
+        "signature": "ekmno",
+        "length": 5
+      },
+      {
+        "token": "opustil",
+        "signature": "ilopstu",
+        "length": 7
+      },
+      {
+        "token": "osobu",
+        "signature": "bosu",
+        "length": 5
+      },
+      {
+        "token": "pány",
+        "signature": "ánpy",
+        "length": 4
+      },
+      {
+        "token": "partyzánům",
+        "signature": "aámnprtůyz",
+        "length": 10
+      },
+      {
+        "token": "patrno",
+        "signature": "anoprt",
+        "length": 6
+      },
+      {
+        "token": "pečlivě",
+        "signature": "čeěilpv",
+        "length": 7
+      },
+      {
+        "token": "pěkné",
+        "signature": "éěknp",
+        "length": 5
+      },
+      {
+        "token": "pěst",
+        "signature": "ěpst",
+        "length": 4
+      },
+      {
+        "token": "pistole",
+        "signature": "eilopst",
+        "length": 7
+      },
+      {
+        "token": "počasí",
+        "signature": "ačíops",
+        "length": 6
+      },
+      {
+        "token": "podal",
+        "signature": "adlop",
+        "length": 5
+      },
+      {
+        "token": "podivení",
+        "signature": "deiínopv",
+        "length": 8
+      },
+      {
+        "token": "podlaze",
+        "signature": "adelopz",
+        "length": 7
+      },
+      {
+        "token": "pohlédli",
+        "signature": "déhilop",
+        "length": 8
+      },
+      {
+        "token": "pohotově",
+        "signature": "ěhoptv",
+        "length": 8
+      },
+      {
+        "token": "pochopiti",
+        "signature": "chiopt",
+        "length": 9
+      },
+      {
+        "token": "pokládal",
+        "signature": "aádklop",
+        "length": 8
+      },
+      {
+        "token": "pokojíku",
+        "signature": "íjkopu",
+        "length": 8
+      },
+      {
+        "token": "postava",
+        "signature": "aopstv",
+        "length": 7
+      },
+      {
+        "token": "pověst",
+        "signature": "ěopstv",
+        "length": 6
+      },
+      {
+        "token": "povídal",
+        "signature": "adílopv",
+        "length": 7
+      },
+      {
+        "token": "prodlení",
+        "signature": "deílnopr",
+        "length": 8
+      },
+      {
+        "token": "prohlásil",
+        "signature": "áhiloprs",
+        "length": 9
+      },
+      {
+        "token": "prohlížeti",
+        "signature": "ehiíloprtž",
+        "length": 10
+      },
+      {
+        "token": "promluvit",
+        "signature": "ilmoprtuv",
+        "length": 9
+      },
+      {
+        "token": "prosil",
+        "signature": "iloprs",
+        "length": 6
+      },
+      {
+        "token": "prostě",
+        "signature": "ěoprst",
+        "length": 6
+      },
+      {
+        "token": "prsa",
+        "signature": "aprs",
+        "length": 4
+      },
+      {
+        "token": "předem",
+        "signature": "dempř",
+        "length": 6
+      },
+      {
+        "token": "přemýšlel",
+        "signature": "elmpřšý",
+        "length": 9
+      },
+      {
+        "token": "přesvědčen",
+        "signature": "čdeěnpřsv",
+        "length": 10
+      },
+      {
+        "token": "přiběhl",
+        "signature": "běhilpř",
+        "length": 7
+      },
+      {
+        "token": "příjemno",
+        "signature": "eíjmnopř",
+        "length": 8
+      },
+      {
+        "token": "přinesli",
+        "signature": "eilnpřs",
+        "length": 8
+      },
+      {
+        "token": "připraven",
+        "signature": "aeinprřv",
+        "length": 9
+      },
+      {
+        "token": "příroda",
+        "signature": "adíoprř",
+        "length": 7
+      },
+      {
+        "token": "přítomnosti",
+        "signature": "iímnopřst",
+        "length": 11
+      },
+      {
+        "token": "ptala",
+        "signature": "alpt",
+        "length": 5
+      },
+      {
+        "token": "račte",
+        "signature": "ačert",
+        "length": 5
+      },
+      {
+        "token": "ranní",
+        "signature": "aínr",
+        "length": 5
+      },
+      {
+        "token": "rázně",
+        "signature": "áěnrz",
+        "length": 5
+      },
+      {
+        "token": "rozhodnutí",
+        "signature": "dhínortuz",
+        "length": 10
+      },
+      {
+        "token": "řekli",
+        "signature": "eiklř",
+        "length": 5
+      },
+      {
+        "token": "řekni",
+        "signature": "eiknř",
+        "length": 5
+      },
+      {
+        "token": "říkám",
+        "signature": "áíkmř",
+        "length": 5
+      },
+      {
+        "token": "samy",
+        "signature": "amsy",
+        "length": 4
+      },
+      {
+        "token": "samý",
+        "signature": "amsý",
+        "length": 4
+      },
+      {
+        "token": "schoval",
+        "signature": "achlosv",
+        "length": 7
+      },
+      {
+        "token": "silnici",
+        "signature": "cilns",
+        "length": 7
+      },
+      {
+        "token": "slavnostní",
+        "signature": "aílnostv",
+        "length": 10
+      },
+      {
+        "token": "slovům",
+        "signature": "lmosův",
+        "length": 6
+      },
+      {
+        "token": "služby",
+        "signature": "blsuyž",
+        "length": 6
+      },
+      {
+        "token": "slyšeli",
+        "signature": "eilsšy",
+        "length": 7
+      },
+      {
+        "token": "smála",
+        "signature": "aálms",
+        "length": 5
+      },
+      {
+        "token": "souditi",
+        "signature": "diostu",
+        "length": 7
+      },
+      {
+        "token": "soustrast",
+        "signature": "aorstu",
+        "length": 9
+      },
+      {
+        "token": "spatřila",
+        "signature": "ailpřst",
+        "length": 8
+      },
+      {
+        "token": "spojení",
+        "signature": "eíjnops",
+        "length": 7
+      },
+      {
+        "token": "spokojeně",
+        "signature": "eějknops",
+        "length": 9
+      },
+      {
+        "token": "starého",
+        "signature": "aéhorst",
+        "length": 7
+      },
+      {
+        "token": "starost",
+        "signature": "aorst",
+        "length": 7
+      },
+      {
+        "token": "stařenka",
+        "signature": "aeknřst",
+        "length": 8
+      },
+      {
+        "token": "stávalo",
+        "signature": "aálostv",
+        "length": 7
+      },
+      {
+        "token": "stesku",
+        "signature": "ekstu",
+        "length": 6
+      },
+      {
+        "token": "stromu",
+        "signature": "morstu",
+        "length": 6
+      },
+      {
+        "token": "svá",
+        "signature": "ásv",
+        "length": 3
+      },
+      {
+        "token": "synku",
+        "signature": "knsuy",
+        "length": 5
+      },
+      {
+        "token": "štábu",
+        "signature": "ábštu",
+        "length": 5
+      },
+      {
+        "token": "štafety",
+        "signature": "aefšty",
+        "length": 7
+      },
+      {
+        "token": "šťastna",
+        "signature": "ansštť",
+        "length": 7
+      },
+      {
+        "token": "tělem",
+        "signature": "eělmt",
+        "length": 5
+      },
+      {
+        "token": "tiché",
+        "signature": "céhit",
+        "length": 5
+      },
+      {
+        "token": "titulární",
+        "signature": "áiílnrtu",
+        "length": 9
+      },
+      {
+        "token": "tma",
+        "signature": "amt",
+        "length": 3
+      },
+      {
+        "token": "tou",
+        "signature": "otu",
+        "length": 3
+      },
+      {
+        "token": "třásla",
+        "signature": "aálřst",
+        "length": 6
+      },
+      {
+        "token": "tutéž",
+        "signature": "étuž",
+        "length": 5
+      },
+      {
+        "token": "tvá",
+        "signature": "átv",
+        "length": 3
+      },
+      {
+        "token": "tvou",
+        "signature": "otuv",
+        "length": 4
+      },
+      {
+        "token": "udání",
+        "signature": "ádínu",
+        "length": 5
+      },
+      {
+        "token": "udělali",
+        "signature": "aděilu",
+        "length": 7
+      },
+      {
+        "token": "údery",
+        "signature": "derúy",
+        "length": 5
+      },
+      {
+        "token": "úlohu",
+        "signature": "hlouú",
+        "length": 5
+      },
+      {
+        "token": "uměl",
+        "signature": "ělmu",
+        "length": 4
+      },
+      {
+        "token": "úmyslu",
+        "signature": "lmsuúy",
+        "length": 6
+      },
+      {
+        "token": "útěk",
+        "signature": "ěktú",
+        "length": 4
+      },
+      {
+        "token": "utrpení",
+        "signature": "eínprtu",
+        "length": 7
+      },
+      {
+        "token": "úžasem",
+        "signature": "aemsúž",
+        "length": 6
+      },
+      {
+        "token": "vašeho",
+        "signature": "aehošv",
+        "length": 6
+      },
+      {
+        "token": "vašich",
+        "signature": "achišv",
+        "length": 6
+      },
+      {
+        "token": "vážné",
+        "signature": "áénvž",
+        "length": 5
+      },
+      {
+        "token": "včas",
+        "signature": "ačsv",
+        "length": 4
+      },
+      {
+        "token": "veliká",
+        "signature": "áeiklv",
+        "length": 6
+      },
+      {
+        "token": "velitel",
+        "signature": "eiltv",
+        "length": 7
+      },
+      {
+        "token": "větru",
+        "signature": "ěrtuv",
+        "length": 5
+      },
+      {
+        "token": "vchodu",
+        "signature": "cdhouv",
+        "length": 6
+      },
+      {
+        "token": "vichřice",
+        "signature": "cehiřv",
+        "length": 8
+      },
+      {
+        "token": "vítězství",
+        "signature": "ěístvz",
+        "length": 9
+      },
+      {
+        "token": "vlasti",
+        "signature": "ailstv",
+        "length": 6
+      },
+      {
+        "token": "vroucně",
+        "signature": "cěnoruv",
+        "length": 7
+      },
+      {
+        "token": "vstříc",
+        "signature": "cířstv",
+        "length": 6
+      },
+      {
+        "token": "vypadá",
+        "signature": "aádpvy",
+        "length": 6
+      },
+      {
+        "token": "vytrhl",
+        "signature": "hlrtvy",
+        "length": 6
+      },
+      {
+        "token": "vzíti",
+        "signature": "iítvz",
+        "length": 5
+      },
+      {
+        "token": "vzkřikla",
+        "signature": "aiklřvz",
+        "length": 8
+      },
+      {
+        "token": "vzpomínal",
+        "signature": "aílmnopvz",
+        "length": 9
+      },
+      {
+        "token": "začátku",
+        "signature": "aáčktuz",
+        "length": 7
+      },
+      {
+        "token": "zadíval",
+        "signature": "adílvz",
+        "length": 7
+      },
+      {
+        "token": "zády",
+        "signature": "ádyz",
+        "length": 4
+      },
+      {
+        "token": "záchranu",
+        "signature": "aáchnruz",
+        "length": 8
+      },
+      {
+        "token": "zakončil",
+        "signature": "ačiklnoz",
+        "length": 8
+      },
+      {
+        "token": "zbledl",
+        "signature": "bdelz",
+        "length": 6
+      },
+      {
+        "token": "zdráv",
+        "signature": "ádrvz",
+        "length": 5
+      },
+      {
+        "token": "znal",
+        "signature": "alnz",
+        "length": 4
+      },
+      {
+        "token": "znali",
+        "signature": "ailnz",
+        "length": 5
+      },
+      {
+        "token": "známá",
+        "signature": "ámnz",
+        "length": 5
+      },
+      {
+        "token": "znenáhla",
+        "signature": "aáehlnz",
+        "length": 8
+      },
+      {
+        "token": "zvědavě",
+        "signature": "aděvz",
+        "length": 7
+      },
+      {
+        "token": "zvykem",
+        "signature": "ekmvyz",
+        "length": 6
+      },
+      {
+        "token": "zvyku",
+        "signature": "kuvyz",
+        "length": 5
+      },
+      {
+        "token": "žert",
+        "signature": "ertž",
+        "length": 4
+      },
+      {
+        "token": "žila",
+        "signature": "ailž",
+        "length": 4
+      },
+      {
+        "token": "žít",
+        "signature": "ítž",
+        "length": 3
+      },
+      {
+        "token": "akce",
+        "signature": "acek",
+        "length": 4
+      },
+      {
+        "token": "armáda",
+        "signature": "aádmr",
+        "length": 6
+      },
+      {
+        "token": "automat",
+        "signature": "amotu",
+        "length": 7
+      },
+      {
+        "token": "balík",
+        "signature": "abíkl",
+        "length": 5
+      },
+      {
+        "token": "básně",
+        "signature": "áběns",
+        "length": 5
+      },
+      {
+        "token": "beztoho",
+        "signature": "behotz",
+        "length": 7
+      },
+      {
+        "token": "blíže",
+        "signature": "beílž",
+        "length": 5
+      },
+      {
+        "token": "bojím",
+        "signature": "bíjmo",
+        "length": 5
+      },
+      {
+        "token": "boku",
+        "signature": "bkou",
+        "length": 4
+      },
+      {
+        "token": "buďte",
+        "signature": "bďetu",
+        "length": 5
+      },
+      {
+        "token": "bývala",
+        "signature": "ablvý",
+        "length": 6
+      },
+      {
+        "token": "bývalého",
+        "signature": "abéhlový",
+        "length": 8
+      },
+      {
+        "token": "častěji",
+        "signature": "ačěijst",
+        "length": 7
+      },
+      {
+        "token": "červenými",
+        "signature": "čeimnrvý",
+        "length": 9
+      },
+      {
+        "token": "česky",
+        "signature": "čeksy",
+        "length": 5
+      },
+      {
+        "token": "činí",
+        "signature": "čiín",
+        "length": 4
+      },
+      {
+        "token": "dareba",
+        "signature": "abder",
+        "length": 6
+      },
+      {
+        "token": "divadla",
+        "signature": "adilv",
+        "length": 7
+      },
+      {
+        "token": "divné",
+        "signature": "déinv",
+        "length": 5
+      },
+      {
+        "token": "divně",
+        "signature": "děinv",
+        "length": 5
+      },
+      {
+        "token": "dnem",
+        "signature": "demn",
+        "length": 4
+      },
+      {
+        "token": "dneška",
+        "signature": "adeknš",
+        "length": 6
+      },
+      {
+        "token": "dnešního",
+        "signature": "dehínoš",
+        "length": 8
+      },
+      {
+        "token": "dostala",
+        "signature": "adlost",
+        "length": 7
+      },
+      {
+        "token": "dostalo",
+        "signature": "adlost",
+        "length": 7
+      },
+      {
+        "token": "dověděl",
+        "signature": "dělov",
+        "length": 7
+      },
+      {
+        "token": "drahý",
+        "signature": "adhrý",
+        "length": 5
+      },
+      {
+        "token": "důkaz",
+        "signature": "adkůz",
+        "length": 5
+      },
+      {
+        "token": "dvakráte",
+        "signature": "aádekrtv",
+        "length": 8
+      },
+      {
+        "token": "háje",
+        "signature": "áehj",
+        "length": 4
+      },
+      {
+        "token": "hlad",
+        "signature": "adhl",
+        "length": 4
+      },
+      {
+        "token": "hlídka",
+        "signature": "adhíkl",
+        "length": 6
+      },
+      {
+        "token": "hněv",
+        "signature": "ěhnv",
+        "length": 4
+      },
+      {
+        "token": "hodil",
+        "signature": "dhilo",
+        "length": 5
+      },
+      {
+        "token": "hosté",
+        "signature": "éhost",
+        "length": 5
+      },
+      {
+        "token": "hostitel",
+        "signature": "ehilost",
+        "length": 8
+      },
+      {
+        "token": "hovor",
+        "signature": "horv",
+        "length": 5
+      },
+      {
+        "token": "hrdost",
+        "signature": "dhorst",
+        "length": 6
+      },
+      {
+        "token": "hudby",
+        "signature": "bdhuy",
+        "length": 5
+      },
+      {
+        "token": "husy",
+        "signature": "hsuy",
+        "length": 4
+      },
+      {
+        "token": "chalupy",
+        "signature": "achlpuy",
+        "length": 7
+      },
+      {
+        "token": "chápala",
+        "signature": "aáchlp",
+        "length": 7
+      },
+      {
+        "token": "chleba",
+        "signature": "abcehl",
+        "length": 6
+      },
+      {
+        "token": "chodila",
+        "signature": "acdhilo",
+        "length": 7
+      },
+      {
+        "token": "chopila",
+        "signature": "achilop",
+        "length": 7
+      },
+      {
+        "token": "churava",
+        "signature": "achruv",
+        "length": 7
+      },
+      {
+        "token": "chutí",
+        "signature": "chítu",
+        "length": 5
+      },
+      {
+        "token": "chvěl",
+        "signature": "cěhlv",
+        "length": 5
+      },
+      {
+        "token": "jakého",
+        "signature": "aéhjko",
+        "length": 6
+      },
+      {
+        "token": "jakém",
+        "signature": "aéjkm",
+        "length": 5
+      },
+      {
+        "token": "jimi",
+        "signature": "ijm",
+        "length": 4
+      },
+      {
+        "token": "jistá",
+        "signature": "áijst",
+        "length": 5
+      },
+      {
+        "token": "jizby",
+        "signature": "bijyz",
+        "length": 5
+      },
+      {
+        "token": "kabinetě",
+        "signature": "abeěiknt",
+        "length": 8
+      },
+      {
+        "token": "klidný",
+        "signature": "diklný",
+        "length": 6
+      },
+      {
+        "token": "komory",
+        "signature": "kmory",
+        "length": 6
+      },
+      {
+        "token": "kroku",
+        "signature": "koru",
+        "length": 5
+      },
+      {
+        "token": "kterým",
+        "signature": "ekmrtý",
+        "length": 6
+      },
+      {
+        "token": "lehko",
+        "signature": "ehklo",
+        "length": 5
+      },
+      {
+        "token": "lesu",
+        "signature": "elsu",
+        "length": 4
+      },
+      {
+        "token": "lítost",
+        "signature": "ílost",
+        "length": 6
+      },
+      {
+        "token": "majetek",
+        "signature": "aejkmt",
+        "length": 7
+      },
+      {
+        "token": "matky",
+        "signature": "akmty",
+        "length": 5
+      },
+      {
+        "token": "měsíc",
+        "signature": "cěíms",
+        "length": 5
+      },
+      {
+        "token": "milá",
+        "signature": "áilm",
+        "length": 4
+      },
+      {
+        "token": "minul",
+        "signature": "ilmnu",
+        "length": 5
+      },
+      {
+        "token": "množství",
+        "signature": "ímnostvž",
+        "length": 8
+      },
+      {
+        "token": "musíte",
+        "signature": "eímstu",
+        "length": 6
+      },
+      {
+        "token": "nakonec",
+        "signature": "acekno",
+        "length": 7
+      },
+      {
+        "token": "nalézti",
+        "signature": "aéilntz",
+        "length": 7
+      },
+      {
+        "token": "následky",
+        "signature": "ádeklnsy",
+        "length": 8
+      },
+      {
+        "token": "následující",
+        "signature": "ácdeíjlnsu",
+        "length": 11
+      },
+      {
+        "token": "našemu",
+        "signature": "aemnšu",
+        "length": 6
+      },
+      {
+        "token": "naučil",
+        "signature": "ačilnu",
+        "length": 6
+      },
+      {
+        "token": "nedal",
+        "signature": "adeln",
+        "length": 5
+      },
+      {
+        "token": "nedaleko",
+        "signature": "adeklno",
+        "length": 8
+      },
+      {
+        "token": "nehybně",
+        "signature": "beěhny",
+        "length": 7
+      },
+      {
+        "token": "nechat",
+        "signature": "acehnt",
+        "length": 6
+      },
+      {
+        "token": "někomu",
+        "signature": "ěkmnou",
+        "length": 6
+      },
+      {
+        "token": "někteří",
+        "signature": "eěíknřt",
+        "length": 7
+      },
+      {
+        "token": "nemaje",
+        "signature": "aejmn",
+        "length": 6
+      },
+      {
+        "token": "nemají",
+        "signature": "aeíjmn",
+        "length": 6
+      },
+      {
+        "token": "německá",
+        "signature": "áceěkmn",
+        "length": 7
+      },
+      {
+        "token": "nemohlo",
+        "signature": "ehlmno",
+        "length": 7
+      },
+      {
+        "token": "nemohou",
+        "signature": "ehmnou",
+        "length": 7
+      },
+      {
+        "token": "nepříjemný",
+        "signature": "eíjmnpřý",
+        "length": 10
+      },
+      {
+        "token": "nepřítelem",
+        "signature": "eílmnpřt",
+        "length": 10
+      },
+      {
+        "token": "nešlo",
+        "signature": "elnoš",
+        "length": 5
+      },
+      {
+        "token": "obdržel",
+        "signature": "bdelorž",
+        "length": 7
+      },
+      {
+        "token": "objevily",
+        "signature": "beijlovy",
+        "length": 8
+      },
+      {
+        "token": "obraceje",
+        "signature": "abcejor",
+        "length": 8
+      },
+      {
+        "token": "odkud",
+        "signature": "dkou",
+        "length": 5
+      },
+      {
+        "token": "odvětila",
+        "signature": "aděilotv",
+        "length": 8
+      },
+      {
+        "token": "okamžiků",
+        "signature": "aikmoůž",
+        "length": 8
+      },
+      {
+        "token": "oken",
+        "signature": "ekno",
+        "length": 4
+      },
+      {
+        "token": "opodál",
+        "signature": "ádlop",
+        "length": 6
+      },
+      {
+        "token": "papír",
+        "signature": "aípr",
+        "length": 5
+      },
+      {
+        "token": "partyzánské",
+        "signature": "aáéknprstyz",
+        "length": 11
+      },
+      {
+        "token": "patří",
+        "signature": "aípřt",
+        "length": 5
+      },
+      {
+        "token": "pevněji",
+        "signature": "eěijnpv",
+        "length": 7
+      },
+      {
+        "token": "pláč",
+        "signature": "áčlp",
+        "length": 4
+      },
+      {
+        "token": "pláčem",
+        "signature": "áčelmp",
+        "length": 6
+      },
+      {
+        "token": "pociťoval",
+        "signature": "acilopťv",
+        "length": 9
+      },
+      {
+        "token": "počínal",
+        "signature": "ačílnop",
+        "length": 7
+      },
+      {
+        "token": "počkejte",
+        "signature": "čejkopt",
+        "length": 8
+      },
+      {
+        "token": "podívali",
+        "signature": "adiílopv",
+        "length": 8
+      },
+      {
+        "token": "podivil",
+        "signature": "dilopv",
+        "length": 7
+      },
+      {
+        "token": "podobných",
+        "signature": "bcdhnopý",
+        "length": 9
+      },
+      {
+        "token": "pohlíželi",
+        "signature": "ehiílopž",
+        "length": 9
+      },
+      {
+        "token": "pojďte",
+        "signature": "ďejopt",
+        "length": 6
+      },
+      {
+        "token": "poklady",
+        "signature": "adklopy",
+        "length": 7
+      },
+      {
+        "token": "poledne",
+        "signature": "delnop",
+        "length": 7
+      },
+      {
+        "token": "poslala",
+        "signature": "alops",
+        "length": 7
+      },
+      {
+        "token": "pouhé",
+        "signature": "éhopu",
+        "length": 5
+      },
+      {
+        "token": "pozorování",
+        "signature": "áínoprvz",
+        "length": 10
+      },
+      {
+        "token": "pracoval",
+        "signature": "acloprv",
+        "length": 8
+      },
+      {
+        "token": "pracovat",
+        "signature": "acoprtv",
+        "length": 8
+      },
+      {
+        "token": "prohlédl",
+        "signature": "déhlopr",
+        "length": 8
+      },
+      {
+        "token": "prosit",
+        "signature": "ioprst",
+        "length": 6
+      },
+      {
+        "token": "prvého",
+        "signature": "éhoprv",
+        "length": 6
+      },
+      {
+        "token": "prvý",
+        "signature": "prvý",
+        "length": 4
+      },
+      {
+        "token": "přátelsky",
+        "signature": "áeklpřsty",
+        "length": 9
+      },
+      {
+        "token": "představit",
+        "signature": "adeipřstv",
+        "length": 10
+      },
+      {
+        "token": "přesvědčil",
+        "signature": "čdeěilpřsv",
+        "length": 10
+      },
+      {
+        "token": "přicházela",
+        "signature": "aácehilpřz",
+        "length": 10
+      },
+      {
+        "token": "přijdou",
+        "signature": "dijopřu",
+        "length": 7
+      },
+      {
+        "token": "připomněl",
+        "signature": "ěilmnopř",
+        "length": 9
+      },
+      {
+        "token": "přiznal",
+        "signature": "ailnpřz",
+        "length": 7
+      },
+      {
+        "token": "psal",
+        "signature": "alps",
+        "length": 4
+      },
+      {
+        "token": "rachot",
+        "signature": "achort",
+        "length": 6
+      },
+      {
+        "token": "rodičů",
+        "signature": "čdiorů",
+        "length": 6
+      },
+      {
+        "token": "rodiny",
+        "signature": "dinory",
+        "length": 6
+      },
+      {
+        "token": "román",
+        "signature": "ámnor",
+        "length": 5
+      },
+      {
+        "token": "rozčilen",
+        "signature": "čeilnorz",
+        "length": 8
+      },
+      {
+        "token": "rozkázal",
+        "signature": "aáklorz",
+        "length": 8
+      },
+      {
+        "token": "rozplakala",
+        "signature": "akloprz",
+        "length": 10
+      },
+      {
+        "token": "rusky",
+        "signature": "krsuy",
+        "length": 5
+      },
+      {
+        "token": "rychlostí",
+        "signature": "chílorsty",
+        "length": 9
+      },
+      {
+        "token": "řeč",
+        "signature": "čeř",
+        "length": 3
+      },
+      {
+        "token": "samému",
+        "signature": "aémsu",
+        "length": 6
+      },
+      {
+        "token": "samým",
+        "signature": "amsý",
+        "length": 5
+      },
+      {
+        "token": "sebral",
+        "signature": "abelrs",
+        "length": 6
+      },
+      {
+        "token": "slavnostně",
+        "signature": "aělnostv",
+        "length": 10
+      },
+      {
+        "token": "slušně",
+        "signature": "ělnsšu",
+        "length": 6
+      },
+      {
+        "token": "snu",
+        "signature": "nsu",
+        "length": 3
+      },
+      {
+        "token": "souhlasila",
+        "signature": "ahilosu",
+        "length": 10
+      },
+      {
+        "token": "sousedního",
+        "signature": "dehínosu",
+        "length": 10
+      },
+      {
+        "token": "souzeno",
+        "signature": "enosuz",
+        "length": 7
+      },
+      {
+        "token": "spatřili",
+        "signature": "ailpřst",
+        "length": 8
+      },
+      {
+        "token": "správně",
+        "signature": "áěnprsv",
+        "length": 7
+      },
+      {
+        "token": "stálo",
+        "signature": "álost",
+        "length": 5
+      },
+      {
+        "token": "stanul",
+        "signature": "alnstu",
+        "length": 6
+      },
+      {
+        "token": "stesk",
+        "signature": "ekst",
+        "length": 5
+      },
+      {
+        "token": "steskem",
+        "signature": "ekmst",
+        "length": 7
+      },
+      {
+        "token": "stole",
+        "signature": "elost",
+        "length": 5
+      },
+      {
+        "token": "strašnou",
+        "signature": "anorsštu",
+        "length": 8
+      },
+      {
+        "token": "strýčku",
+        "signature": "čkrstuý",
+        "length": 7
+      },
+      {
+        "token": "stud",
+        "signature": "dstu",
+        "length": 4
+      },
+      {
+        "token": "šest",
+        "signature": "esšt",
+        "length": 4
+      },
+      {
+        "token": "šťastné",
+        "signature": "aénsštť",
+        "length": 7
+      },
+      {
+        "token": "takovými",
+        "signature": "aikmotvý",
+        "length": 8
+      },
+      {
+        "token": "taktéž",
+        "signature": "aéktž",
+        "length": 6
+      },
+      {
+        "token": "telegram",
+        "signature": "aeglmrt",
+        "length": 8
+      },
+      {
+        "token": "těmito",
+        "signature": "ěimot",
+        "length": 6
+      },
+      {
+        "token": "tentýž",
+        "signature": "entýž",
+        "length": 6
+      },
+      {
+        "token": "ticha",
+        "signature": "achit",
+        "length": 5
+      },
+      {
+        "token": "trvala",
+        "signature": "alrtv",
+        "length": 6
+      },
+      {
+        "token": "třetího",
+        "signature": "ehíořt",
+        "length": 7
+      },
+      {
+        "token": "tvrdý",
+        "signature": "drtvý",
+        "length": 5
+      },
+      {
+        "token": "účastenství",
+        "signature": "ačeínstúv",
+        "length": 11
+      },
+      {
+        "token": "účelem",
+        "signature": "čelmú",
+        "length": 6
+      },
+      {
+        "token": "ukazoval",
+        "signature": "aklouvz",
+        "length": 8
+      },
+      {
+        "token": "úkrytu",
+        "signature": "krtuúy",
+        "length": 6
+      },
+      {
+        "token": "usadil",
+        "signature": "adilsu",
+        "length": 6
+      },
+      {
+        "token": "ustoupil",
+        "signature": "ilopstu",
+        "length": 8
+      },
+      {
+        "token": "uši",
+        "signature": "išu",
+        "length": 3
+      },
+      {
+        "token": "válku",
+        "signature": "ákluv",
+        "length": 5
+      },
+      {
+        "token": "vášnivě",
+        "signature": "áěinšv",
+        "length": 7
+      },
+      {
+        "token": "vedla",
+        "signature": "adelv",
+        "length": 5
+      },
+      {
+        "token": "veliký",
+        "signature": "eiklvý",
+        "length": 6
+      },
+      {
+        "token": "velikým",
+        "signature": "eiklmvý",
+        "length": 7
+      },
+      {
+        "token": "větší",
+        "signature": "ěíštv",
+        "length": 5
+      },
+      {
+        "token": "vodky",
+        "signature": "dkovy",
+        "length": 5
+      },
+      {
+        "token": "volal",
+        "signature": "alov",
+        "length": 5
+      },
+      {
+        "token": "vracel",
+        "signature": "acelrv",
+        "length": 6
+      },
+      {
+        "token": "vyjádřil",
+        "signature": "ádijlřvy",
+        "length": 8
+      },
+      {
+        "token": "vyndal",
+        "signature": "adlnvy",
+        "length": 6
+      },
+      {
+        "token": "vyrazil",
+        "signature": "ailrvyz",
+        "length": 7
+      },
+      {
+        "token": "vzduch",
+        "signature": "cdhuvz",
+        "length": 6
+      },
+      {
+        "token": "vzkaz",
+        "signature": "akvz",
+        "length": 5
+      },
+      {
+        "token": "vzpomínka",
+        "signature": "aíkmnopvz",
+        "length": 9
+      },
+      {
+        "token": "vzrušením",
+        "signature": "eímnršuvz",
+        "length": 9
+      },
+      {
+        "token": "zabručel",
+        "signature": "abčelruz",
+        "length": 8
+      },
+      {
+        "token": "záchvat",
+        "signature": "aáchtvz",
+        "length": 7
+      },
+      {
+        "token": "zástup",
+        "signature": "ápstuz",
+        "length": 6
+      },
+      {
+        "token": "zázemí",
+        "signature": "áeímz",
+        "length": 6
+      },
+      {
+        "token": "zazněl",
+        "signature": "aělnz",
+        "length": 6
+      },
+      {
+        "token": "zbaven",
+        "signature": "abenvz",
+        "length": 6
+      },
+      {
+        "token": "zbavil",
+        "signature": "abilvz",
+        "length": 6
+      },
+      {
+        "token": "zbytečně",
+        "signature": "bčeěntyz",
+        "length": 8
+      },
+      {
+        "token": "zdvihla",
+        "signature": "adhilvz",
+        "length": 7
+      },
+      {
+        "token": "zeptala",
+        "signature": "aelptz",
+        "length": 7
+      },
+      {
+        "token": "zhola",
+        "signature": "ahloz",
+        "length": 5
+      },
+      {
+        "token": "zlato",
+        "signature": "alotz",
+        "length": 5
+      },
+      {
+        "token": "zpozoroval",
+        "signature": "aloprvz",
+        "length": 10
+      },
+      {
+        "token": "zůstalo",
+        "signature": "alostůz",
+        "length": 7
+      },
+      {
+        "token": "zvláštním",
+        "signature": "áílmnštvz",
+        "length": 9
+      },
+      {
+        "token": "zvonku",
+        "signature": "knouvz",
+        "length": 6
+      },
+      {
+        "token": "živé",
+        "signature": "éivž",
+        "length": 4
+      },
+      {
+        "token": "akci",
+        "signature": "acik",
+        "length": 4
+      },
+      {
+        "token": "běží",
+        "signature": "běíž",
+        "length": 4
+      },
+      {
+        "token": "bilo",
+        "signature": "bilo",
+        "length": 4
+      },
+      {
+        "token": "blahorodí",
+        "signature": "abdhílor",
+        "length": 9
+      },
+      {
+        "token": "blesky",
+        "signature": "beklsy",
+        "length": 6
+      },
+      {
+        "token": "boje",
+        "signature": "bejo",
+        "length": 4
+      },
+      {
+        "token": "boží",
+        "signature": "bíož",
+        "length": 4
+      },
+      {
+        "token": "brigády",
+        "signature": "ábdgiry",
+        "length": 7
+      },
+      {
+        "token": "bydlí",
+        "signature": "bdíly",
+        "length": 5
+      },
+      {
+        "token": "cíle",
+        "signature": "ceíl",
+        "length": 4
+      },
+      {
+        "token": "citů",
+        "signature": "citů",
+        "length": 4
+      },
+      {
+        "token": "čaje",
+        "signature": "ačej",
+        "length": 4
+      },
+      {
+        "token": "čehož",
+        "signature": "čehož",
+        "length": 5
+      },
+      {
+        "token": "české",
+        "signature": "čeéks",
+        "length": 5
+      },
+      {
+        "token": "českého",
+        "signature": "čeéhkos",
+        "length": 7
+      },
+      {
+        "token": "československé",
+        "signature": "čeéklnosv",
+        "length": 14
+      },
+      {
+        "token": "čímsi",
+        "signature": "čiíms",
+        "length": 5
+      },
+      {
+        "token": "čímž",
+        "signature": "čímž",
+        "length": 4
+      },
+      {
+        "token": "činil",
+        "signature": "čiln",
+        "length": 5
+      },
+      {
+        "token": "čisté",
+        "signature": "čéist",
+        "length": 5
+      },
+      {
+        "token": "čtení",
+        "signature": "čeínt",
+        "length": 5
+      },
+      {
+        "token": "dálky",
+        "signature": "ádkly",
+        "length": 5
+      },
+      {
+        "token": "dceru",
+        "signature": "cderu",
+        "length": 5
+      },
+      {
+        "token": "děkuju",
+        "signature": "dějku",
+        "length": 6
+      },
+      {
+        "token": "dělají",
+        "signature": "aděíjl",
+        "length": 6
+      },
+      {
+        "token": "delší",
+        "signature": "deílš",
+        "length": 5
+      },
+      {
+        "token": "dětské",
+        "signature": "déěkst",
+        "length": 6
+      },
+      {
+        "token": "dílo",
+        "signature": "dílo",
+        "length": 4
+      },
+      {
+        "token": "dívá",
+        "signature": "ádív",
+        "length": 4
+      },
+      {
+        "token": "divu",
+        "signature": "diuv",
+        "length": 4
+      },
+      {
+        "token": "dlouhých",
+        "signature": "cdhlouý",
+        "length": 8
+      },
+      {
+        "token": "dohromady",
+        "signature": "adhmory",
+        "length": 9
+      },
+      {
+        "token": "doktora",
+        "signature": "adkort",
+        "length": 7
+      },
+      {
+        "token": "doleva",
+        "signature": "adelov",
+        "length": 6
+      },
+      {
+        "token": "dopisu",
+        "signature": "diopsu",
+        "length": 6
+      },
+      {
+        "token": "doprava",
+        "signature": "adoprv",
+        "length": 7
+      },
+      {
+        "token": "dostali",
+        "signature": "adilost",
+        "length": 7
+      },
+      {
+        "token": "došel",
+        "signature": "deloš",
+        "length": 5
+      },
+      {
+        "token": "došla",
+        "signature": "adloš",
+        "length": 5
+      },
+      {
+        "token": "drahá",
+        "signature": "aádhr",
+        "length": 5
+      },
+      {
+        "token": "drožky",
+        "signature": "dkoryž",
+        "length": 6
+      },
+      {
+        "token": "drží",
+        "signature": "dírž",
+        "length": 4
+      }
+    ],
+    "advanced": [
+      {
+        "token": "vážím",
+        "signature": "áímvž",
+        "length": 5
+      },
+      {
+        "token": "vážný",
+        "signature": "ánvýž",
+        "length": 5
+      },
+      {
+        "token": "věcech",
+        "signature": "ceěhv",
+        "length": 6
+      },
+      {
+        "token": "vedou",
+        "signature": "deouv",
+        "length": 5
+      },
+      {
+        "token": "velikého",
+        "signature": "eéhiklov",
+        "length": 8
+      },
+      {
+        "token": "velikých",
+        "signature": "cehiklvý",
+        "length": 8
+      },
+      {
+        "token": "velitelem",
+        "signature": "eilmtv",
+        "length": 9
+      },
+      {
+        "token": "velkomyslně",
+        "signature": "eěklmnosvy",
+        "length": 11
+      },
+      {
+        "token": "věrně",
+        "signature": "ěnrv",
+        "length": 5
+      },
+      {
+        "token": "věřili",
+        "signature": "ěilřv",
+        "length": 6
+      },
+      {
+        "token": "věřím",
+        "signature": "ěímřv",
+        "length": 5
+      },
+      {
+        "token": "věřte",
+        "signature": "eěřtv",
+        "length": 5
+      },
+      {
+        "token": "veselého",
+        "signature": "eéhlosv",
+        "length": 8
+      },
+      {
+        "token": "veselejší",
+        "signature": "eíjlsšv",
+        "length": 9
+      },
+      {
+        "token": "vesnicí",
+        "signature": "ceiínsv",
+        "length": 7
+      },
+      {
+        "token": "vídal",
+        "signature": "adílv",
+        "length": 5
+      },
+      {
+        "token": "vína",
+        "signature": "aínv",
+        "length": 4
+      },
+      {
+        "token": "vítala",
+        "signature": "aíltv",
+        "length": 6
+      },
+      {
+        "token": "vjel",
+        "signature": "ejlv",
+        "length": 4
+      },
+      {
+        "token": "vlastního",
+        "signature": "ahílnostv",
+        "length": 9
+      },
+      {
+        "token": "vložil",
+        "signature": "ilovž",
+        "length": 6
+      },
+      {
+        "token": "voda",
+        "signature": "adov",
+        "length": 4
+      },
+      {
+        "token": "vracela",
+        "signature": "acelrv",
+        "length": 7
+      },
+      {
+        "token": "vrchu",
+        "signature": "chruv",
+        "length": 5
+      },
+      {
+        "token": "všeliké",
+        "signature": "eéiklšv",
+        "length": 7
+      },
+      {
+        "token": "všemožně",
+        "signature": "eěmnošvž",
+        "length": 8
+      },
+      {
+        "token": "vteřin",
+        "signature": "einřtv",
+        "length": 6
+      },
+      {
+        "token": "vteřiny",
+        "signature": "einřtvy",
+        "length": 7
+      },
+      {
+        "token": "výčitky",
+        "signature": "čiktvyý",
+        "length": 7
+      },
+      {
+        "token": "vyhlédl",
+        "signature": "déhlvy",
+        "length": 7
+      },
+      {
+        "token": "vyhlížel",
+        "signature": "ehílvyž",
+        "length": 8
+      },
+      {
+        "token": "vyhnali",
+        "signature": "ahilnvy",
+        "length": 7
+      },
+      {
+        "token": "vyhýbavě",
+        "signature": "aběhvyý",
+        "length": 8
+      },
+      {
+        "token": "vycházel",
+        "signature": "ácehlvyz",
+        "length": 8
+      },
+      {
+        "token": "vykročil",
+        "signature": "čiklorvy",
+        "length": 8
+      },
+      {
+        "token": "vypraviti",
+        "signature": "aiprtvy",
+        "length": 9
+      },
+      {
+        "token": "vypravovala",
+        "signature": "aloprvy",
+        "length": 11
+      },
+      {
+        "token": "vypravovat",
+        "signature": "aoprtvy",
+        "length": 10
+      },
+      {
+        "token": "výpravu",
+        "signature": "apruvý",
+        "length": 7
+      },
+      {
+        "token": "vypravují",
+        "signature": "aíjpruvy",
+        "length": 9
+      },
+      {
+        "token": "vysoce",
+        "signature": "ceosvy",
+        "length": 6
+      },
+      {
+        "token": "vysvětlování",
+        "signature": "áěílnostvy",
+        "length": 12
+      },
+      {
+        "token": "vyššího",
+        "signature": "híošvy",
+        "length": 7
+      },
+      {
+        "token": "vyzvání",
+        "signature": "áínvyz",
+        "length": 7
+      },
+      {
+        "token": "vyžadoval",
+        "signature": "adlovyž",
+        "length": 9
+      },
+      {
+        "token": "vzadu",
+        "signature": "aduvz",
+        "length": 5
+      },
+      {
+        "token": "vzezřením",
+        "signature": "eímnřvz",
+        "length": 9
+      },
+      {
+        "token": "vzhlédla",
+        "signature": "adéhlvz",
+        "length": 8
+      },
+      {
+        "token": "vzpomínali",
+        "signature": "aiílmnopvz",
+        "length": 10
+      },
+      {
+        "token": "začervenala",
+        "signature": "ačelnrvz",
+        "length": 11
+      },
+      {
+        "token": "začíná",
+        "signature": "aáčínz",
+        "length": 6
+      },
+      {
+        "token": "začínala",
+        "signature": "ačílnz",
+        "length": 8
+      },
+      {
+        "token": "zadívala",
+        "signature": "adílvz",
+        "length": 8
+      },
+      {
+        "token": "zadržel",
+        "signature": "adelrzž",
+        "length": 7
+      },
+      {
+        "token": "zadržeti",
+        "signature": "adeirtzž",
+        "length": 8
+      },
+      {
+        "token": "zahnul",
+        "signature": "ahlnuz",
+        "length": 6
+      },
+      {
+        "token": "záhy",
+        "signature": "áhyz",
+        "length": 4
+      },
+      {
+        "token": "zachraňte",
+        "signature": "acehňrtz",
+        "length": 9
+      },
+      {
+        "token": "zachtělo",
+        "signature": "acěhlotz",
+        "length": 8
+      },
+      {
+        "token": "zajásal",
+        "signature": "aájlsz",
+        "length": 7
+      },
+      {
+        "token": "zajde",
+        "signature": "adejz",
+        "length": 5
+      },
+      {
+        "token": "zajímavý",
+        "signature": "aíjmvýz",
+        "length": 8
+      },
+      {
+        "token": "zajiskřilo",
+        "signature": "aijklořsz",
+        "length": 10
+      },
+      {
+        "token": "záleželo",
+        "signature": "áelozž",
+        "length": 8
+      },
+      {
+        "token": "zaměstnání",
+        "signature": "aáěímnstz",
+        "length": 10
+      },
+      {
+        "token": "zamilován",
+        "signature": "aáilmnovz",
+        "length": 9
+      },
+      {
+        "token": "zamyšleně",
+        "signature": "aeělmnšyz",
+        "length": 9
+      },
+      {
+        "token": "zanechal",
+        "signature": "acehlnz",
+        "length": 8
+      },
+      {
+        "token": "západ",
+        "signature": "aádpz",
+        "length": 5
+      },
+      {
+        "token": "zapálil",
+        "signature": "aáilpz",
+        "length": 7
+      },
+      {
+        "token": "zaplať",
+        "signature": "alpťz",
+        "length": 6
+      },
+      {
+        "token": "zaražený",
+        "signature": "aenrýzž",
+        "length": 8
+      },
+      {
+        "token": "záře",
+        "signature": "áeřz",
+        "length": 4
+      },
+      {
+        "token": "zasmál",
+        "signature": "aálmsz",
+        "length": 6
+      },
+      {
+        "token": "zaštěbetal",
+        "signature": "abeělštz",
+        "length": 10
+      },
+      {
+        "token": "zatajil",
+        "signature": "aijltz",
+        "length": 7
+      },
+      {
+        "token": "zavázala",
+        "signature": "aálvz",
+        "length": 8
+      },
+      {
+        "token": "závdavek",
+        "signature": "aádekvz",
+        "length": 8
+      },
+      {
+        "token": "zavládlo",
+        "signature": "aádlovz",
+        "length": 8
+      },
+      {
+        "token": "zavolala",
+        "signature": "alovz",
+        "length": 8
+      },
+      {
+        "token": "zavolat",
+        "signature": "alotvz",
+        "length": 7
+      },
+      {
+        "token": "zavrtěl",
+        "signature": "aělrtvz",
+        "length": 7
+      },
+      {
+        "token": "zbledla",
+        "signature": "abdelz",
+        "length": 7
+      },
+      {
+        "token": "zbývá",
+        "signature": "ábvýz",
+        "length": 5
+      },
+      {
+        "token": "zdráva",
+        "signature": "aádrvz",
+        "length": 6
+      },
+      {
+        "token": "zdržet",
+        "signature": "dertzž",
+        "length": 6
+      },
+      {
+        "token": "zemřela",
+        "signature": "aelmřz",
+        "length": 7
+      },
+      {
+        "token": "zkázu",
+        "signature": "ákuz",
+        "length": 5
+      },
+      {
+        "token": "zkušenosti",
+        "signature": "eiknosštuz",
+        "length": 10
+      },
+      {
+        "token": "zloději",
+        "signature": "děijloz",
+        "length": 7
+      },
+      {
+        "token": "zlostně",
+        "signature": "ělnostz",
+        "length": 7
+      },
+      {
+        "token": "zlověstným",
+        "signature": "ělmnostvýz",
+        "length": 10
+      },
+      {
+        "token": "zmaten",
+        "signature": "aemntz",
+        "length": 6
+      },
+      {
+        "token": "zmateně",
+        "signature": "aeěmntz",
+        "length": 7
+      },
+      {
+        "token": "zmatku",
+        "signature": "akmtuz",
+        "length": 6
+      },
+      {
+        "token": "známého",
+        "signature": "áéhmnoz",
+        "length": 7
+      },
+      {
+        "token": "známým",
+        "signature": "ámnýz",
+        "length": 6
+      },
+      {
+        "token": "znáti",
+        "signature": "áintz",
+        "length": 5
+      },
+      {
+        "token": "znepokojil",
+        "signature": "eijklnopz",
+        "length": 10
+      },
+      {
+        "token": "znepokojovalo",
+        "signature": "aejklnopvz",
+        "length": 13
+      },
+      {
+        "token": "zničil",
+        "signature": "čilnz",
+        "length": 6
+      },
+      {
+        "token": "zničit",
+        "signature": "čintz",
+        "length": 6
+      },
+      {
+        "token": "zoufalstvím",
+        "signature": "afílmostuvz",
+        "length": 11
+      },
+      {
+        "token": "zoufalým",
+        "signature": "aflmouýz",
+        "length": 8
+      },
+      {
+        "token": "zpozorovala",
+        "signature": "aloprvz",
+        "length": 11
+      },
+      {
+        "token": "zrádce",
+        "signature": "ácderz",
+        "length": 6
+      },
+      {
+        "token": "zrádný",
+        "signature": "ádnrýz",
+        "length": 6
+      },
+      {
+        "token": "zrcadla",
+        "signature": "acdlrz",
+        "length": 7
+      },
+      {
+        "token": "zrcadlem",
+        "signature": "acdelmrz",
+        "length": 8
+      },
+      {
+        "token": "ztracena",
+        "signature": "acenrtz",
+        "length": 8
+      },
+      {
+        "token": "zůstávala",
+        "signature": "aálstůvz",
+        "length": 9
+      },
+      {
+        "token": "zvyk",
+        "signature": "kvyz",
+        "length": 4
+      },
+      {
+        "token": "žalostný",
+        "signature": "alnostýž",
+        "length": 8
+      },
+      {
+        "token": "žen",
+        "signature": "enž",
+        "length": 3
+      },
+      {
+        "token": "žertoval",
+        "signature": "aelortvž",
+        "length": 8
+      },
+      {
+        "token": "životní",
+        "signature": "iínotvž",
+        "length": 7
+      },
+      {
+        "token": "životů",
+        "signature": "iotůvž",
+        "length": 6
+      },
+      {
+        "token": "aktovky",
+        "signature": "akotvy",
+        "length": 7
+      },
+      {
+        "token": "aljašské",
+        "signature": "aéjklsš",
+        "length": 8
+      },
+      {
+        "token": "balíčku",
+        "signature": "abčíklu",
+        "length": 7
+      },
+      {
+        "token": "bedny",
+        "signature": "bdeny",
+        "length": 5
+      },
+      {
+        "token": "běhala",
+        "signature": "aběhl",
+        "length": 6
+      },
+      {
+        "token": "bere",
+        "signature": "ber",
+        "length": 4
+      },
+      {
+        "token": "bereš",
+        "signature": "berš",
+        "length": 5
+      },
+      {
+        "token": "besedu",
+        "signature": "bdesu",
+        "length": 6
+      },
+      {
+        "token": "bičem",
+        "signature": "bčeim",
+        "length": 5
+      },
+      {
+        "token": "bije",
+        "signature": "beij",
+        "length": 4
+      },
+      {
+        "token": "bijí",
+        "signature": "biíj",
+        "length": 4
+      },
+      {
+        "token": "bití",
+        "signature": "biít",
+        "length": 4
+      },
+      {
+        "token": "bledne",
+        "signature": "bdeln",
+        "length": 6
+      },
+      {
+        "token": "bleskem",
+        "signature": "beklms",
+        "length": 7
+      },
+      {
+        "token": "blíženci",
+        "signature": "bceiílnž",
+        "length": 8
+      },
+      {
+        "token": "blížila",
+        "signature": "abiílž",
+        "length": 7
+      },
+      {
+        "token": "blížili",
+        "signature": "biílž",
+        "length": 7
+      },
+      {
+        "token": "blouznila",
+        "signature": "abilnouz",
+        "length": 9
+      },
+      {
+        "token": "blýskaly",
+        "signature": "abklsyý",
+        "length": 8
+      },
+      {
+        "token": "bodl",
+        "signature": "bdlo",
+        "length": 4
+      },
+      {
+        "token": "bohatého",
+        "signature": "abéhot",
+        "length": 8
+      },
+      {
+        "token": "bohatý",
+        "signature": "abhotý",
+        "length": 6
+      },
+      {
+        "token": "bojíc",
+        "signature": "bcíjo",
+        "length": 5
+      },
+      {
+        "token": "bojové",
+        "signature": "béjov",
+        "length": 6
+      },
+      {
+        "token": "botách",
+        "signature": "ábchot",
+        "length": 6
+      },
+      {
+        "token": "bouřlivě",
+        "signature": "běilořuv",
+        "length": 8
+      },
+      {
+        "token": "brada",
+        "signature": "abdr",
+        "length": 5
+      },
+      {
+        "token": "bratra",
+        "signature": "abrt",
+        "length": 6
+      },
+      {
+        "token": "brejlemi",
+        "signature": "beijlmr",
+        "length": 8
+      },
+      {
+        "token": "brusle",
+        "signature": "belrsu",
+        "length": 6
+      },
+      {
+        "token": "brvami",
+        "signature": "abimrv",
+        "length": 6
+      },
+      {
+        "token": "břeh",
+        "signature": "behř",
+        "length": 4
+      },
+      {
+        "token": "budil",
+        "signature": "bdilu",
+        "length": 5
+      },
+      {
+        "token": "bytost",
+        "signature": "bosty",
+        "length": 6
+      },
+      {
+        "token": "bývalý",
+        "signature": "ablvý",
+        "length": 6
+      },
+      {
+        "token": "celkem",
+        "signature": "ceklm",
+        "length": 6
+      },
+      {
+        "token": "cílem",
+        "signature": "ceílm",
+        "length": 5
+      },
+      {
+        "token": "cukr",
+        "signature": "ckru",
+        "length": 4
+      },
+      {
+        "token": "čase",
+        "signature": "ačes",
+        "length": 4
+      },
+      {
+        "token": "čekalo",
+        "signature": "ačeklo",
+        "length": 6
+      },
+      {
+        "token": "čela",
+        "signature": "ačel",
+        "length": 4
+      },
+      {
+        "token": "černém",
+        "signature": "čeémnr",
+        "length": 6
+      },
+      {
+        "token": "černou",
+        "signature": "čenoru",
+        "length": 6
+      },
+      {
+        "token": "červené",
+        "signature": "čeénrv",
+        "length": 7
+      },
+      {
+        "token": "čestné",
+        "signature": "čeénst",
+        "length": 6
+      },
+      {
+        "token": "češtiny",
+        "signature": "čeinšty",
+        "length": 7
+      },
+      {
+        "token": "četla",
+        "signature": "ačelt",
+        "length": 5
+      },
+      {
+        "token": "články",
+        "signature": "áčklny",
+        "length": 6
+      },
+      {
+        "token": "člověče",
+        "signature": "čeělov",
+        "length": 7
+      },
+      {
+        "token": "čtverácky",
+        "signature": "ácčekrtvy",
+        "length": 9
+      },
+      {
+        "token": "daleka",
+        "signature": "adekl",
+        "length": 6
+      },
+      {
+        "token": "dáli",
+        "signature": "ádil",
+        "length": 4
+      },
+      {
+        "token": "dáno",
+        "signature": "ádno",
+        "length": 4
+      },
+      {
+        "token": "daří",
+        "signature": "adíř",
+        "length": 4
+      },
+      {
+        "token": "dávaje",
+        "signature": "aádejv",
+        "length": 6
+      },
+      {
+        "token": "dávat",
+        "signature": "aádtv",
+        "length": 5
+      },
+      {
+        "token": "dědinou",
+        "signature": "děinou",
+        "length": 7
+      },
+      {
+        "token": "dejme",
+        "signature": "dejm",
+        "length": 5
+      },
+      {
+        "token": "dejte",
+        "signature": "dejt",
+        "length": 5
+      },
+      {
+        "token": "děkoval",
+        "signature": "aděklov",
+        "length": 7
+      },
+      {
+        "token": "děla",
+        "signature": "aděl",
+        "length": 4
+      },
+      {
+        "token": "děláš",
+        "signature": "ádělš",
+        "length": 5
+      },
+      {
+        "token": "dělo",
+        "signature": "dělo",
+        "length": 4
+      },
+      {
+        "token": "desetník",
+        "signature": "deíknst",
+        "length": 8
+      },
+      {
+        "token": "desítky",
+        "signature": "deíksty",
+        "length": 7
+      },
+      {
+        "token": "deště",
+        "signature": "deěšt",
+        "length": 5
+      },
+      {
+        "token": "dětem",
+        "signature": "deěmt",
+        "length": 5
+      },
+      {
+        "token": "dětsky",
+        "signature": "děksty",
+        "length": 6
+      },
+      {
+        "token": "dětských",
+        "signature": "cděhkstý",
+        "length": 8
+      },
+      {
+        "token": "děvčátko",
+        "signature": "áčděkotv",
+        "length": 8
+      },
+      {
+        "token": "divadlo",
+        "signature": "adilov",
+        "length": 7
+      },
+      {
+        "token": "dívaje",
+        "signature": "adeíjv",
+        "length": 6
+      },
+      {
+        "token": "divanu",
+        "signature": "adinuv",
+        "length": 6
+      },
+      {
+        "token": "dívat",
+        "signature": "adítv",
+        "length": 5
+      },
+      {
+        "token": "divím",
+        "signature": "diímv",
+        "length": 5
+      },
+      {
+        "token": "dívka",
+        "signature": "adíkv",
+        "length": 5
+      },
+      {
+        "token": "dívku",
+        "signature": "díkuv",
+        "length": 5
+      },
+      {
+        "token": "divný",
+        "signature": "dinvý",
+        "length": 5
+      },
+      {
+        "token": "dlouhém",
+        "signature": "déhlmou",
+        "length": 7
+      },
+      {
+        "token": "dlouhým",
+        "signature": "dhlmouý",
+        "length": 7
+      },
+      {
+        "token": "dobrá",
+        "signature": "ábdor",
+        "length": 5
+      },
+      {
+        "token": "dobrému",
+        "signature": "bdémoru",
+        "length": 7
+      },
+      {
+        "token": "dobrodiní",
+        "signature": "bdiínor",
+        "length": 9
+      },
+      {
+        "token": "dobrodružství",
+        "signature": "bdíorstuvž",
+        "length": 13
+      },
+      {
+        "token": "dočetl",
+        "signature": "čdelot",
+        "length": 6
+      },
+      {
+        "token": "dodával",
+        "signature": "aádlov",
+        "length": 7
+      },
+      {
+        "token": "dojatě",
+        "signature": "adějot",
+        "length": 6
+      },
+      {
+        "token": "dojede",
+        "signature": "dejo",
+        "length": 6
+      },
+      {
+        "token": "dokazoval",
+        "signature": "adklovz",
+        "length": 9
+      },
+      {
+        "token": "doklady",
+        "signature": "adkloy",
+        "length": 7
+      },
+      {
+        "token": "dokončil",
+        "signature": "čdiklno",
+        "length": 8
+      },
+      {
+        "token": "domácích",
+        "signature": "ácdhímo",
+        "length": 8
+      },
+      {
+        "token": "domek",
+        "signature": "dekmo",
+        "length": 5
+      },
+      {
+        "token": "domků",
+        "signature": "dkmoů",
+        "length": 5
+      },
+      {
+        "token": "domnívala",
+        "signature": "adílmnov",
+        "length": 9
+      },
+      {
+        "token": "domova",
+        "signature": "admov",
+        "length": 6
+      },
+      {
+        "token": "domyslila",
+        "signature": "adilmosy",
+        "length": 9
+      },
+      {
+        "token": "dospělí",
+        "signature": "děílops",
+        "length": 7
+      },
+      {
+        "token": "dostanu",
+        "signature": "adnostu",
+        "length": 7
+      },
+      {
+        "token": "dostatek",
+        "signature": "adekost",
+        "length": 8
+      },
+      {
+        "token": "dostoupila",
+        "signature": "adilopstu",
+        "length": 10
+      },
+      {
+        "token": "dověděli",
+        "signature": "děilov",
+        "length": 8
+      },
+      {
+        "token": "dovoleno",
+        "signature": "delnov",
+        "length": 8
+      },
+      {
+        "token": "dovolenou",
+        "signature": "delnouv",
+        "length": 9
+      },
+      {
+        "token": "dovtípila",
+        "signature": "adiíloptv",
+        "length": 9
+      },
+      {
+        "token": "drahého",
+        "signature": "adéhor",
+        "length": 7
+      },
+      {
+        "token": "drobnými",
+        "signature": "bdimnorý",
+        "length": 8
+      },
+      {
+        "token": "drožku",
+        "signature": "dkoruž",
+        "length": 6
+      },
+      {
+        "token": "druhu",
+        "signature": "dhru",
+        "length": 5
+      },
+      {
+        "token": "drže",
+        "signature": "derž",
+        "length": 4
+      },
+      {
+        "token": "držeti",
+        "signature": "deirtž",
+        "length": 6
+      },
+      {
+        "token": "držíc",
+        "signature": "cdírž",
+        "length": 5
+      },
+      {
+        "token": "dřív",
+        "signature": "dířv",
+        "length": 4
+      },
+      {
+        "token": "důležitý",
+        "signature": "deiltůýž",
+        "length": 8
+      },
+      {
+        "token": "důstojníka",
+        "signature": "adíjknostů",
+        "length": 10
+      },
+      {
+        "token": "důstojnosti",
+        "signature": "dijnostů",
+        "length": 11
+      },
+      {
+        "token": "dvířka",
+        "signature": "adíkřv",
+        "length": 6
+      },
+      {
+        "token": "dvojnásobně",
+        "signature": "ábdějnosv",
+        "length": 11
+      },
+      {
+        "token": "dvoru",
+        "signature": "doruv",
+        "length": 5
+      },
+      {
+        "token": "elektrickou",
+        "signature": "ceiklortu",
+        "length": 11
+      },
+      {
+        "token": "esesman",
+        "signature": "aemns",
+        "length": 7
+      },
+      {
+        "token": "flétnu",
+        "signature": "éflntu",
+        "length": 6
+      },
+      {
+        "token": "formu",
+        "signature": "fmoru",
+        "length": 5
+      },
+      {
+        "token": "francouzsky",
+        "signature": "acfknorsuyz",
+        "length": 11
+      },
+      {
+        "token": "gestapa",
+        "signature": "aegpst",
+        "length": 7
+      },
+      {
+        "token": "hanba",
+        "signature": "abhn",
+        "length": 5
+      },
+      {
+        "token": "hlase",
+        "signature": "aehls",
+        "length": 5
+      },
+      {
+        "token": "hlasů",
+        "signature": "ahlsů",
+        "length": 5
+      },
+      {
+        "token": "hledaje",
+        "signature": "adehjl",
+        "length": 7
+      },
+      {
+        "token": "hledal",
+        "signature": "adehl",
+        "length": 6
+      },
+      {
+        "token": "hledat",
+        "signature": "adehlt",
+        "length": 6
+      },
+      {
+        "token": "hledati",
+        "signature": "adehilt",
+        "length": 7
+      },
+      {
+        "token": "hledě",
+        "signature": "deěhl",
+        "length": 5
+      },
+      {
+        "token": "hledí",
+        "signature": "dehíl",
+        "length": 5
+      },
+      {
+        "token": "hloučku",
+        "signature": "čhklou",
+        "length": 7
+      },
+      {
+        "token": "hloupá",
+        "signature": "áhlopu",
+        "length": 6
+      },
+      {
+        "token": "hlubokého",
+        "signature": "béhklou",
+        "length": 9
+      },
+      {
+        "token": "hlubokých",
+        "signature": "bchklouý",
+        "length": 9
+      },
+      {
+        "token": "hněvu",
+        "signature": "ěhnuv",
+        "length": 5
+      },
+      {
+        "token": "hodinka",
+        "signature": "adhikno",
+        "length": 7
+      },
+      {
+        "token": "hodné",
+        "signature": "déhno",
+        "length": 5
+      },
+      {
+        "token": "hordy",
+        "signature": "dhory",
+        "length": 5
+      },
+      {
+        "token": "horečce",
+        "signature": "cčehor",
+        "length": 7
+      },
+      {
+        "token": "horečka",
+        "signature": "ačehkor",
+        "length": 7
+      },
+      {
+        "token": "horký",
+        "signature": "hkorý",
+        "length": 5
+      },
+      {
+        "token": "horou",
+        "signature": "horu",
+        "length": 5
+      },
+      {
+        "token": "hořela",
+        "signature": "aehloř",
+        "length": 6
+      },
+      {
+        "token": "hosti",
+        "signature": "hiost",
+        "length": 5
+      },
+      {
+        "token": "hotová",
+        "signature": "áhotv",
+        "length": 6
+      },
+      {
+        "token": "houslisty",
+        "signature": "hilostuy",
+        "length": 9
+      },
+      {
+        "token": "hovoru",
+        "signature": "horuv",
+        "length": 6
+      },
+      {
+        "token": "hraběti",
+        "signature": "aběhirt",
+        "length": 7
+      },
+      {
+        "token": "hrda",
+        "signature": "adhr",
+        "length": 4
+      },
+      {
+        "token": "hrdinu",
+        "signature": "dhinru",
+        "length": 6
+      },
+      {
+        "token": "hrdosti",
+        "signature": "dhiorst",
+        "length": 7
+      },
+      {
+        "token": "hrdostí",
+        "signature": "dhíorst",
+        "length": 7
+      },
+      {
+        "token": "hromadu",
+        "signature": "adhmoru",
+        "length": 7
+      },
+      {
+        "token": "hříchem",
+        "signature": "cehímř",
+        "length": 7
+      },
+      {
+        "token": "hříchů",
+        "signature": "chířů",
+        "length": 6
+      },
+      {
+        "token": "hubená",
+        "signature": "ábehnu",
+        "length": 6
+      },
+      {
+        "token": "hubičku",
+        "signature": "bčhiku",
+        "length": 7
+      },
+      {
+        "token": "hudebníky",
+        "signature": "bdehíknuy",
+        "length": 9
+      },
+      {
+        "token": "chladu",
+        "signature": "acdhlu",
+        "length": 6
+      },
+      {
+        "token": "chlácholil",
+        "signature": "áchilo",
+        "length": 10
+      },
+      {
+        "token": "chodbu",
+        "signature": "bcdhou",
+        "length": 6
+      },
+      {
+        "token": "chodí",
+        "signature": "cdhío",
+        "length": 5
+      },
+      {
+        "token": "chodilo",
+        "signature": "cdhilo",
+        "length": 7
+      },
+      {
+        "token": "chorobný",
+        "signature": "bchnorý",
+        "length": 8
+      },
+      {
+        "token": "choulostivá",
+        "signature": "áchilostuv",
+        "length": 11
+      },
+      {
+        "token": "chovat",
+        "signature": "achotv",
+        "length": 6
+      },
+      {
+        "token": "chtěly",
+        "signature": "cěhlty",
+        "length": 6
+      },
+      {
+        "token": "chtít",
+        "signature": "chít",
+        "length": 5
+      },
+      {
+        "token": "chudoba",
+        "signature": "abcdhou",
+        "length": 7
+      },
+      {
+        "token": "chvátal",
+        "signature": "aáchltv",
+        "length": 7
+      },
+      {
+        "token": "chvějící",
+        "signature": "cěhíjv",
+        "length": 8
+      },
+      {
+        "token": "chybu",
+        "signature": "bchuy",
+        "length": 5
+      },
+      {
+        "token": "chystá",
+        "signature": "áchsty",
+        "length": 6
+      },
+      {
+        "token": "chytře",
+        "signature": "cehřty",
+        "length": 6
+      },
+      {
+        "token": "informace",
+        "signature": "acefimnor",
+        "length": 9
+      },
+      {
+        "token": "jakýkoli",
+        "signature": "aijkloý",
+        "length": 8
+      },
+      {
+        "token": "jakž",
+        "signature": "ajkž",
+        "length": 4
+      },
+      {
+        "token": "jasná",
+        "signature": "aájns",
+        "length": 5
+      },
+      {
+        "token": "jasným",
+        "signature": "ajmnsý",
+        "length": 6
+      },
+      {
+        "token": "jazykem",
+        "signature": "aejkmyz",
+        "length": 7
+      },
+      {
+        "token": "jazyku",
+        "signature": "ajkuyz",
+        "length": 6
+      },
+      {
+        "token": "jedou",
+        "signature": "dejou",
+        "length": 5
+      },
+      {
+        "token": "jejími",
+        "signature": "eiíjm",
+        "length": 6
+      },
+      {
+        "token": "jevišti",
+        "signature": "eijštv",
+        "length": 7
+      },
+      {
+        "token": "jinému",
+        "signature": "éijmnu",
+        "length": 6
+      },
+      {
+        "token": "jinými",
+        "signature": "ijmný",
+        "length": 6
+      },
+      {
+        "token": "jistém",
+        "signature": "éijmst",
+        "length": 6
+      },
+      {
+        "token": "jitrnice",
+        "signature": "ceijnrt",
+        "length": 8
+      },
+      {
+        "token": "jízda",
+        "signature": "adíjz",
+        "length": 5
+      },
+      {
+        "token": "jízdu",
+        "signature": "díjuz",
+        "length": 5
+      },
+      {
+        "token": "jíž",
+        "signature": "íjž",
+        "length": 3
+      },
+      {
+        "token": "jmenují",
+        "signature": "eíjmnu",
+        "length": 7
+      },
+      {
+        "token": "kamarády",
+        "signature": "aádkmry",
+        "length": 8
+      },
+      {
+        "token": "kamení",
+        "signature": "aeíkmn",
+        "length": 6
+      },
+      {
+        "token": "kapesník",
+        "signature": "aeíknps",
+        "length": 8
+      },
+      {
+        "token": "karabin",
+        "signature": "abiknr",
+        "length": 7
+      },
+      {
+        "token": "keř",
+        "signature": "ekř",
+        "length": 3
+      },
+      {
+        "token": "klenoty",
+        "signature": "eklnoty",
+        "length": 7
+      },
+      {
+        "token": "klesají",
+        "signature": "aeíjkls",
+        "length": 7
+      },
+      {
+        "token": "kleveta",
+        "signature": "aekltv",
+        "length": 7
+      },
+      {
+        "token": "klevety",
+        "signature": "ekltvy",
+        "length": 7
+      },
+      {
+        "token": "klidného",
+        "signature": "déhiklno",
+        "length": 8
+      },
+      {
+        "token": "kluku",
+        "signature": "klu",
+        "length": 5
+      },
+      {
+        "token": "kniha",
+        "signature": "ahikn",
+        "length": 5
+      },
+      {
+        "token": "koberce",
+        "signature": "bcekor",
+        "length": 7
+      },
+      {
+        "token": "kočímu",
+        "signature": "číkmou",
+        "length": 6
+      },
+      {
+        "token": "kočka",
+        "signature": "ačko",
+        "length": 5
+      },
+      {
+        "token": "kom",
+        "signature": "kmo",
+        "length": 3
+      },
+      {
+        "token": "komedii",
+        "signature": "deikmo",
+        "length": 7
+      },
+      {
+        "token": "končila",
+        "signature": "ačiklno",
+        "length": 7
+      },
+      {
+        "token": "koní",
+        "signature": "íkno",
+        "length": 4
+      },
+      {
+        "token": "koních",
+        "signature": "chíkno",
+        "length": 6
+      },
+      {
+        "token": "konve",
+        "signature": "eknov",
+        "length": 5
+      },
+      {
+        "token": "kouřil",
+        "signature": "iklořu",
+        "length": 6
+      },
+      {
+        "token": "koutečku",
+        "signature": "čekotu",
+        "length": 8
+      },
+      {
+        "token": "kouzlo",
+        "signature": "klouz",
+        "length": 6
+      },
+      {
+        "token": "kožich",
+        "signature": "chikož",
+        "length": 6
+      },
+      {
+        "token": "krajiny",
+        "signature": "aijknry",
+        "length": 7
+      },
+      {
+        "token": "krajní",
+        "signature": "aíjknr",
+        "length": 6
+      },
+      {
+        "token": "krajních",
+        "signature": "achíjknr",
+        "length": 8
+      },
+      {
+        "token": "královny",
+        "signature": "áklnorvy",
+        "length": 8
+      },
+      {
+        "token": "krámu",
+        "signature": "ákmru",
+        "length": 5
+      },
+      {
+        "token": "kráska",
+        "signature": "aákrs",
+        "length": 6
+      },
+      {
+        "token": "krásu",
+        "signature": "ákrsu",
+        "length": 5
+      },
+      {
+        "token": "kruh",
+        "signature": "hkru",
+        "length": 4
+      },
+      {
+        "token": "krutě",
+        "signature": "ěkrtu",
+        "length": 5
+      },
+      {
+        "token": "kryt",
+        "signature": "krty",
+        "length": 4
+      },
+      {
+        "token": "křikem",
+        "signature": "eikmř",
+        "length": 6
+      },
+      {
+        "token": "křoviny",
+        "signature": "iknořvy",
+        "length": 7
+      },
+      {
+        "token": "kupovat",
+        "signature": "akoptuv",
+        "length": 7
+      },
+      {
+        "token": "kýval",
+        "signature": "aklvý",
+        "length": 5
+      },
+      {
+        "token": "lámal",
+        "signature": "aálm",
+        "length": 5
+      },
+      {
+        "token": "laskavosti",
+        "signature": "aiklostv",
+        "length": 10
+      },
+      {
+        "token": "laskavým",
+        "signature": "aklmsvý",
+        "length": 8
+      },
+      {
+        "token": "lavici",
+        "signature": "acilv",
+        "length": 6
+      },
+      {
+        "token": "lavičky",
+        "signature": "ačiklvy",
+        "length": 7
+      },
+      {
+        "token": "ledová",
+        "signature": "ádelov",
+        "length": 6
+      },
+      {
+        "token": "ledové",
+        "signature": "deélov",
+        "length": 6
+      },
+      {
+        "token": "lehce",
+        "signature": "cehl",
+        "length": 5
+      },
+      {
+        "token": "lehla",
+        "signature": "aehl",
+        "length": 5
+      },
+      {
+        "token": "lehnout",
+        "signature": "ehlnotu",
+        "length": 7
+      },
+      {
+        "token": "lehounce",
+        "signature": "cehlnou",
+        "length": 8
+      },
+      {
+        "token": "lesích",
+        "signature": "cehíls",
+        "length": 6
+      },
+      {
+        "token": "leskly",
+        "signature": "eklsy",
+        "length": 6
+      },
+      {
+        "token": "lesního",
+        "signature": "ehílnos",
+        "length": 7
+      },
+      {
+        "token": "letadlo",
+        "signature": "adelot",
+        "length": 7
+      },
+      {
+        "token": "létě",
+        "signature": "éělt",
+        "length": 4
+      },
+      {
+        "token": "letěly",
+        "signature": "eělty",
+        "length": 6
+      },
+      {
+        "token": "ležeti",
+        "signature": "eiltž",
+        "length": 6
+      },
+      {
+        "token": "líbí",
+        "signature": "bíl",
+        "length": 4
+      },
+      {
+        "token": "lidského",
+        "signature": "déhiklos",
+        "length": 8
+      },
+      {
+        "token": "linky",
+        "signature": "iklny",
+        "length": 5
+      },
+      {
+        "token": "listin",
+        "signature": "ilnst",
+        "length": 6
+      },
+      {
+        "token": "listu",
+        "signature": "ilstu",
+        "length": 5
+      },
+      {
+        "token": "lkáním",
+        "signature": "áíklmn",
+        "length": 6
+      },
+      {
+        "token": "loupežník",
+        "signature": "eíklnopuž",
+        "length": 9
+      },
+      {
+        "token": "majoru",
+        "signature": "ajmoru",
+        "length": 6
+      },
+      {
+        "token": "malém",
+        "signature": "aélm",
+        "length": 5
+      },
+      {
+        "token": "malému",
+        "signature": "aélmu",
+        "length": 6
+      },
+      {
+        "token": "malých",
+        "signature": "achlmý",
+        "length": 6
+      },
+      {
+        "token": "malými",
+        "signature": "ailmý",
+        "length": 6
+      },
+      {
+        "token": "mamko",
+        "signature": "akmo",
+        "length": 5
+      },
+      {
+        "token": "mapy",
+        "signature": "ampy",
+        "length": 4
+      },
+      {
+        "token": "masem",
+        "signature": "aems",
+        "length": 5
+      },
+      {
+        "token": "maso",
+        "signature": "amos",
+        "length": 4
+      },
+      {
+        "token": "měkce",
+        "signature": "ceěkm",
+        "length": 5
+      },
+      {
+        "token": "metrů",
+        "signature": "emrtů",
+        "length": 5
+      },
+      {
+        "token": "meze",
+        "signature": "emz",
+        "length": 4
+      },
+      {
+        "token": "mihlo",
+        "signature": "hilmo",
+        "length": 5
+      },
+      {
+        "token": "míjel",
+        "signature": "eíjlm",
+        "length": 5
+      },
+      {
+        "token": "míjely",
+        "signature": "eíjlmy",
+        "length": 6
+      },
+      {
+        "token": "milosti",
+        "signature": "ilmost",
+        "length": 7
+      },
+      {
+        "token": "minula",
+        "signature": "ailmnu",
+        "length": 6
+      },
+      {
+        "token": "miny",
+        "signature": "imny",
+        "length": 4
+      },
+      {
+        "token": "místečka",
+        "signature": "ačeíkmst",
+        "length": 8
+      },
+      {
+        "token": "místečko",
+        "signature": "čeíkmost",
+        "length": 8
+      },
+      {
+        "token": "mladík",
+        "signature": "adíklm",
+        "length": 6
+      },
+      {
+        "token": "mladých",
+        "signature": "acdhlmý",
+        "length": 7
+      },
+      {
+        "token": "mléka",
+        "signature": "aéklm",
+        "length": 5
+      },
+      {
+        "token": "mluvilo",
+        "signature": "ilmouv",
+        "length": 7
+      },
+      {
+        "token": "mluvily",
+        "signature": "ilmuvy",
+        "length": 7
+      },
+      {
+        "token": "mnohému",
+        "signature": "éhmnou",
+        "length": 7
+      },
+      {
+        "token": "mnul",
+        "signature": "lmnu",
+        "length": 4
+      },
+      {
+        "token": "mocnější",
+        "signature": "cěíjmnoš",
+        "length": 8
+      },
+      {
+        "token": "mojí",
+        "signature": "íjmo",
+        "length": 4
+      },
+      {
+        "token": "mraky",
+        "signature": "akmry",
+        "length": 5
+      },
+      {
+        "token": "mrazem",
+        "signature": "aemrz",
+        "length": 6
+      },
+      {
+        "token": "mrtvé",
+        "signature": "émrtv",
+        "length": 5
+      },
+      {
+        "token": "muka",
+        "signature": "akmu",
+        "length": 4
+      },
+      {
+        "token": "mužovy",
+        "signature": "mouvyž",
+        "length": 6
+      },
+      {
+        "token": "mýlil",
+        "signature": "ilmý",
+        "length": 5
+      },
+      {
+        "token": "myšlenkou",
+        "signature": "eklmnošuy",
+        "length": 9
+      },
+      {
+        "token": "nabízel",
+        "signature": "abeílnz",
+        "length": 7
+      },
+      {
+        "token": "náboje",
+        "signature": "ábejno",
+        "length": 6
+      },
+      {
+        "token": "nabyla",
+        "signature": "ablny",
+        "length": 6
+      },
+      {
+        "token": "nadále",
+        "signature": "aádeln",
+        "length": 6
+      },
+      {
+        "token": "nádherně",
+        "signature": "ádeěhnr",
+        "length": 8
+      },
+      {
+        "token": "nadšená",
+        "signature": "aádenš",
+        "length": 7
+      },
+      {
+        "token": "nahlédl",
+        "signature": "adéhln",
+        "length": 7
+      },
+      {
+        "token": "náhoda",
+        "signature": "aádhno",
+        "length": 6
+      },
+      {
+        "token": "náchylnost",
+        "signature": "áchlnosty",
+        "length": 10
+      },
+      {
+        "token": "najdou",
+        "signature": "adjnou",
+        "length": 6
+      },
+      {
+        "token": "nálady",
+        "signature": "aádlny",
+        "length": 6
+      },
+      {
+        "token": "námahou",
+        "signature": "aáhmnou",
+        "length": 7
+      },
+      {
+        "token": "namířil",
+        "signature": "aiílmnř",
+        "length": 7
+      },
+      {
+        "token": "nápadná",
+        "signature": "aádnp",
+        "length": 7
+      },
+      {
+        "token": "nápadnou",
+        "signature": "aádnopu",
+        "length": 8
+      },
+      {
+        "token": "naplněn",
+        "signature": "aělnp",
+        "length": 7
+      },
+      {
+        "token": "napravo",
+        "signature": "anoprv",
+        "length": 7
+      },
+      {
+        "token": "narážek",
+        "signature": "aáeknrž",
+        "length": 7
+      },
+      {
+        "token": "národní",
+        "signature": "ádínor",
+        "length": 7
+      },
+      {
+        "token": "náruče",
+        "signature": "áčenru",
+        "length": 6
+      },
+      {
+        "token": "nařízení",
+        "signature": "aeínřz",
+        "length": 8
+      },
+      {
+        "token": "nástroj",
+        "signature": "ájnorst",
+        "length": 7
+      },
+      {
+        "token": "našimi",
+        "signature": "aimnš",
+        "length": 6
+      },
+      {
+        "token": "náves",
+        "signature": "áensv",
+        "length": 5
+      },
+      {
+        "token": "neb",
+        "signature": "ben",
+        "length": 3
+      },
+      {
+        "token": "nebál",
+        "signature": "ábeln",
+        "length": 5
+      },
+      {
+        "token": "nebezpečím",
+        "signature": "bčeímnpz",
+        "length": 10
+      },
+      {
+        "token": "nebezpečných",
+        "signature": "bcčehnpýz",
+        "length": 12
+      },
+      {
+        "token": "nebojí",
+        "signature": "beíjno",
+        "length": 6
+      },
+      {
+        "token": "nebojte",
+        "signature": "bejnot",
+        "length": 7
+      },
+      {
+        "token": "nebožtík",
+        "signature": "beíknotž",
+        "length": 8
+      },
+      {
+        "token": "nebudeme",
+        "signature": "bdemnu",
+        "length": 8
+      },
+      {
+        "token": "nebudou",
+        "signature": "bdenou",
+        "length": 7
+      },
+      {
+        "token": "nebývá",
+        "signature": "ábenvý",
+        "length": 6
+      },
+      {
+        "token": "necítil",
+        "signature": "ceiílnt",
+        "length": 7
+      },
+      {
+        "token": "nečinně",
+        "signature": "čeěin",
+        "length": 7
+      },
+      {
+        "token": "nedají",
+        "signature": "adeíjn",
+        "length": 6
+      },
+      {
+        "token": "nedávala",
+        "signature": "aádelnv",
+        "length": 8
+      },
+      {
+        "token": "nedobrého",
+        "signature": "bdeéhnor",
+        "length": 9
+      },
+      {
+        "token": "nedostane",
+        "signature": "adenost",
+        "length": 9
+      },
+      {
+        "token": "nedostávalo",
+        "signature": "aádelnostv",
+        "length": 11
+      },
+      {
+        "token": "nehoda",
+        "signature": "adehno",
+        "length": 6
+      },
+      {
+        "token": "nechali",
+        "signature": "acehiln",
+        "length": 7
+      },
+      {
+        "token": "nechápe",
+        "signature": "ácehnp",
+        "length": 7
+      },
+      {
+        "token": "nechme",
+        "signature": "cehmn",
+        "length": 6
+      },
+      {
+        "token": "nějakými",
+        "signature": "aěijkmný",
+        "length": 8
+      },
+      {
+        "token": "nejbližší",
+        "signature": "beiíjlnšž",
+        "length": 9
+      },
+      {
+        "token": "nejenom",
+        "signature": "ejmno",
+        "length": 7
+      },
+      {
+        "token": "nejlepšího",
+        "signature": "ehíjlnopš",
+        "length": 10
+      },
+      {
+        "token": "nejstarší",
+        "signature": "aeíjnrsšt",
+        "length": 9
+      },
+      {
+        "token": "nejuctivěji",
+        "signature": "ceěijntuv",
+        "length": 11
+      },
+      {
+        "token": "největším",
+        "signature": "eěíjmnštv",
+        "length": 9
+      },
+      {
+        "token": "nejvíc",
+        "signature": "ceíjnv",
+        "length": 6
+      },
+      {
+        "token": "nějž",
+        "signature": "ějnž",
+        "length": 4
+      },
+      {
+        "token": "neklidem",
+        "signature": "deiklmn",
+        "length": 8
+      },
+      {
+        "token": "některou",
+        "signature": "eěknortu",
+        "length": 8
+      },
+      {
+        "token": "některým",
+        "signature": "eěkmnrtý",
+        "length": 8
+      },
+      {
+        "token": "nemálo",
+        "signature": "áelmno",
+        "length": 6
+      },
+      {
+        "token": "nemáš",
+        "signature": "áemnš",
+        "length": 5
+      },
+      {
+        "token": "německého",
+        "signature": "ceéěhkmno",
+        "length": 9
+      },
+      {
+        "token": "německým",
+        "signature": "ceěkmný",
+        "length": 8
+      },
+      {
+        "token": "nemilovala",
+        "signature": "aeilmnov",
+        "length": 10
+      },
+      {
+        "token": "nemoc",
+        "signature": "cemno",
+        "length": 5
+      },
+      {
+        "token": "nemohly",
+        "signature": "ehlmnoy",
+        "length": 7
+      },
+      {
+        "token": "nenadále",
+        "signature": "aádeln",
+        "length": 8
+      },
+      {
+        "token": "nenávidím",
+        "signature": "ádeiímnv",
+        "length": 9
+      },
+      {
+        "token": "nenávisti",
+        "signature": "áeinstv",
+        "length": 9
+      },
+      {
+        "token": "neobyčejné",
+        "signature": "bčeéjnoy",
+        "length": 10
+      },
+      {
+        "token": "neobyčejným",
+        "signature": "bčejmnoyý",
+        "length": 11
+      },
+      {
+        "token": "neodpověděl",
+        "signature": "deělnopv",
+        "length": 11
+      },
+      {
+        "token": "neodpovídal",
+        "signature": "adeílnopv",
+        "length": 11
+      },
+      {
+        "token": "nepěkné",
+        "signature": "eéěknp",
+        "length": 7
+      },
+      {
+        "token": "nepohody",
+        "signature": "dehnopy",
+        "length": 8
+      },
+      {
+        "token": "nepochopitelné",
+        "signature": "ceéhilnopt",
+        "length": 14
+      },
+      {
+        "token": "nepochybně",
+        "signature": "bceěhnopy",
+        "length": 10
+      },
+      {
+        "token": "nepojedete",
+        "signature": "dejnopt",
+        "length": 10
+      },
+      {
+        "token": "nepokojem",
+        "signature": "ejkmnop",
+        "length": 9
+      },
+      {
+        "token": "nepromluvil",
+        "signature": "eilmnopruv",
+        "length": 11
+      },
+      {
+        "token": "nepřál",
+        "signature": "áelnpř",
+        "length": 6
+      },
+      {
+        "token": "nepřátelé",
+        "signature": "áeélnpřt",
+        "length": 9
+      },
+      {
+        "token": "nepříjemnost",
+        "signature": "eíjmnopřst",
+        "length": 12
+      },
+      {
+        "token": "nepříjemnosti",
+        "signature": "eiíjmnopřst",
+        "length": 13
+      },
+      {
+        "token": "nepůjdu",
+        "signature": "dejnpuů",
+        "length": 7
+      },
+      {
+        "token": "nerozhodně",
+        "signature": "deěhnorz",
+        "length": 10
+      },
+      {
+        "token": "nerozumí",
+        "signature": "eímnoruz",
+        "length": 8
+      },
+      {
+        "token": "nervy",
+        "signature": "enrvy",
+        "length": 5
+      },
+      {
+        "token": "neřekla",
+        "signature": "aeklnř",
+        "length": 7
+      },
+      {
+        "token": "neřeknu",
+        "signature": "eknřu",
+        "length": 7
+      },
+      {
+        "token": "nese",
+        "signature": "ens",
+        "length": 4
+      },
+      {
+        "token": "nesmíte",
+        "signature": "eímnst",
+        "length": 7
+      },
+      {
+        "token": "nesmysl",
+        "signature": "elmnsy",
+        "length": 7
+      },
+      {
+        "token": "nesnesitelnou",
+        "signature": "eilnostu",
+        "length": 13
+      },
+      {
+        "token": "nespal",
+        "signature": "aelnps",
+        "length": 6
+      },
+      {
+        "token": "nespouštěl",
+        "signature": "eělnopsštu",
+        "length": 10
+      },
+      {
+        "token": "nešlechetný",
+        "signature": "cehlnštý",
+        "length": 11
+      },
+      {
+        "token": "nešťastně",
+        "signature": "aeěnsštť",
+        "length": 9
+      },
+      {
+        "token": "nešťastnou",
+        "signature": "aenosštťu",
+        "length": 10
+      },
+      {
+        "token": "netrpělivosti",
+        "signature": "eěilnoprstv",
+        "length": 13
+      },
+      {
+        "token": "neurčitě",
+        "signature": "čeěinrtu",
+        "length": 8
+      },
+      {
+        "token": "neurčitého",
+        "signature": "čeéhinortu",
+        "length": 10
+      },
+      {
+        "token": "nevěda",
+        "signature": "adeěnv",
+        "length": 6
+      },
+      {
+        "token": "nevědí",
+        "signature": "deěínv",
+        "length": 6
+      },
+      {
+        "token": "neviděli",
+        "signature": "deěilnv",
+        "length": 8
+      },
+      {
+        "token": "nevidí",
+        "signature": "deiínv",
+        "length": 6
+      },
+      {
+        "token": "nevíme",
+        "signature": "eímnv",
+        "length": 6
+      },
+      {
+        "token": "nevinného",
+        "signature": "eéhinov",
+        "length": 9
+      },
+      {
+        "token": "nevinnost",
+        "signature": "einostv",
+        "length": 9
+      },
+      {
+        "token": "nevinných",
+        "signature": "cehinvý",
+        "length": 9
+      },
+      {
+        "token": "nevíte",
+        "signature": "eíntv",
+        "length": 6
+      },
+      {
+        "token": "nevýslovně",
+        "signature": "eělnosvý",
+        "length": 10
+      },
+      {
+        "token": "nezapomněl",
+        "signature": "aeělmnopz",
+        "length": 10
+      },
+      {
+        "token": "nezdálo",
+        "signature": "ádelnoz",
+        "length": 7
+      },
+      {
+        "token": "neznámé",
+        "signature": "áeémnz",
+        "length": 7
+      },
+      {
+        "token": "neznámou",
+        "signature": "áemnouz",
+        "length": 8
+      },
+      {
+        "token": "něž",
+        "signature": "ěnž",
+        "length": 3
+      },
+      {
+        "token": "nijakých",
+        "signature": "achijkný",
+        "length": 8
+      },
+      {
+        "token": "nikam",
+        "signature": "aikmn",
+        "length": 5
+      },
+      {
+        "token": "nikoli",
+        "signature": "iklno",
+        "length": 6
+      },
+      {
+        "token": "nosu",
+        "signature": "nosu",
+        "length": 4
+      },
+      {
+        "token": "nouzi",
+        "signature": "inouz",
+        "length": 5
+      },
+      {
+        "token": "novinách",
+        "signature": "áchinov",
+        "length": 8
+      },
+      {
+        "token": "nynější",
+        "signature": "ěíjnšy",
+        "length": 7
+      },
+      {
+        "token": "ob",
+        "signature": "bo",
+        "length": 2
+      },
+      {
+        "token": "obcování",
+        "signature": "ábcínov",
+        "length": 8
+      },
+      {
+        "token": "obejmout",
+        "signature": "bejmotu",
+        "length": 8
+      },
+      {
+        "token": "obešla",
+        "signature": "abeloš",
+        "length": 6
+      },
+      {
+        "token": "obrazů",
+        "signature": "aborůz",
+        "length": 6
+      }
+    ]
+  }
+}

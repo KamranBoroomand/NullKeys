@@ -1,0 +1,4431 @@
+{
+  "packId": "thai:common-words:extended",
+  "languageId": "thai",
+  "contentFamilyId": "common-words",
+  "tier": "extended",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 883,
+  "stages": {
+    "foundational": [
+      {
+        "token": "ชาว",
+        "signature": "ชวา",
+        "length": 3
+      },
+      {
+        "token": "พร้อม",
+        "signature": "้พมรอ",
+        "length": 5
+      },
+      {
+        "token": "มัก",
+        "signature": "กมั",
+        "length": 3
+      },
+      {
+        "token": "รักษา",
+        "signature": "กรษัา",
+        "length": 5
+      },
+      {
+        "token": "เลือก",
+        "signature": "กลอืเ",
+        "length": 5
+      },
+      {
+        "token": "อ่าน",
+        "signature": "่นอา",
+        "length": 4
+      },
+      {
+        "token": "อย่างไร",
+        "signature": "่งยรอาไ",
+        "length": 7
+      },
+      {
+        "token": "เขียน",
+        "signature": "ขนยีเ",
+        "length": 5
+      },
+      {
+        "token": "ก็คือ",
+        "signature": "็กคอื",
+        "length": 5
+      },
+      {
+        "token": "ล่ะ",
+        "signature": "่ละ",
+        "length": 3
+      },
+      {
+        "token": "ระยะ",
+        "signature": "ยระ",
+        "length": 4
+      },
+      {
+        "token": "ค่ะ",
+        "signature": "่คะ",
+        "length": 3
+      },
+      {
+        "token": "ตลอด",
+        "signature": "ดตลอ",
+        "length": 4
+      },
+      {
+        "token": "สู่",
+        "signature": "่สู",
+        "length": 3
+      },
+      {
+        "token": "ความคิด",
+        "signature": "คดมวาิ",
+        "length": 7
+      },
+      {
+        "token": "หรือไม่",
+        "signature": "่มรหอืไ",
+        "length": 7
+      },
+      {
+        "token": "หน้าที่",
+        "signature": "่้ทนหาี",
+        "length": 7
+      },
+      {
+        "token": "ราคา",
+        "signature": "ครา",
+        "length": 4
+      },
+      {
+        "token": "ประชุม",
+        "signature": "ชปมระุ",
+        "length": 6
+      },
+      {
+        "token": "ผู้หญิง",
+        "signature": "้งญผหิู",
+        "length": 7
+      },
+      {
+        "token": "ติด",
+        "signature": "ดติ",
+        "length": 3
+      },
+      {
+        "token": "ใส่",
+        "signature": "่สใ",
+        "length": 3
+      },
+      {
+        "token": "ศึกษา",
+        "signature": "กศษาึ",
+        "length": 5
+      },
+      {
+        "token": "เก็บ",
+        "signature": "็กบเ",
+        "length": 4
+      },
+      {
+        "token": "ชั้น",
+        "signature": "้ชนั",
+        "length": 4
+      },
+      {
+        "token": "เดียวกัน",
+        "signature": "กดนยวัีเ",
+        "length": 8
+      },
+      {
+        "token": "สิทธิ",
+        "signature": "ทธสิ",
+        "length": 5
+      },
+      {
+        "token": "ประโยชน์",
+        "signature": "์ชนปยระโ",
+        "length": 8
+      },
+      {
+        "token": "คณะกรรมการ",
+        "signature": "กคณมระา",
+        "length": 10
+      },
+      {
+        "token": "แค่",
+        "signature": "่คแ",
+        "length": 3
+      },
+      {
+        "token": "เปลี่ยน",
+        "signature": "่นปยลีเ",
+        "length": 7
+      },
+      {
+        "token": "ปัจจุบัน",
+        "signature": "จนบปัุ",
+        "length": 8
+      },
+      {
+        "token": "เจ้า",
+        "signature": "้จาเ",
+        "length": 4
+      },
+      {
+        "token": "คะ",
+        "signature": "คะ",
+        "length": 2
+      },
+      {
+        "token": "พื้นที่",
+        "signature": "่้ทนพีื",
+        "length": 7
+      },
+      {
+        "token": "วิธี",
+        "signature": "ธวิี",
+        "length": 4
+      },
+      {
+        "token": "ตำแหน่ง",
+        "signature": "่งตนหำแ",
+        "length": 7
+      },
+      {
+        "token": "ทำไม",
+        "signature": "ทมำไ",
+        "length": 4
+      },
+      {
+        "token": "ประจำ",
+        "signature": "จประำ",
+        "length": 5
+      },
+      {
+        "token": "พยายาม",
+        "signature": "พมยา",
+        "length": 6
+      },
+      {
+        "token": "เนื่องจาก",
+        "signature": "่กงจนอาืเ",
+        "length": 9
+      },
+      {
+        "token": "โอกาส",
+        "signature": "กสอาโ",
+        "length": 5
+      },
+      {
+        "token": "แม้",
+        "signature": "้มแ",
+        "length": 3
+      },
+      {
+        "token": "สมัย",
+        "signature": "มยสั",
+        "length": 4
+      },
+      {
+        "token": "อย่า",
+        "signature": "่ยอา",
+        "length": 4
+      },
+      {
+        "token": "ประเภท",
+        "signature": "ทปภระเ",
+        "length": 6
+      },
+      {
+        "token": "สัมพันธ์",
+        "signature": "์ธนพมสั",
+        "length": 8
+      },
+      {
+        "token": "เหตุ",
+        "signature": "ตหุเ",
+        "length": 4
+      },
+      {
+        "token": "ตอบ",
+        "signature": "ตบอ",
+        "length": 3
+      },
+      {
+        "token": "วัฒนธรรม",
+        "signature": "ฒธนมรวั",
+        "length": 8
+      },
+      {
+        "token": "ตนเอง",
+        "signature": "งตนอเ",
+        "length": 5
+      },
+      {
+        "token": "นั่น",
+        "signature": "่นั",
+        "length": 4
+      },
+      {
+        "token": "สัก",
+        "signature": "กสั",
+        "length": 3
+      },
+      {
+        "token": "สินค้า",
+        "signature": "้คนสาิ",
+        "length": 6
+      },
+      {
+        "token": "เดิม",
+        "signature": "ดมิเ",
+        "length": 4
+      },
+      {
+        "token": "จำเป็น",
+        "signature": "็จนปำเ",
+        "length": 6
+      },
+      {
+        "token": "เปลี่ยนแปลง",
+        "signature": "่งนปยลีเแ",
+        "length": 11
+      },
+      {
+        "token": "ถือ",
+        "signature": "ถอื",
+        "length": 3
+      },
+      {
+        "token": "เล่า",
+        "signature": "่ลาเ",
+        "length": 4
+      },
+      {
+        "token": "ประกอบ",
+        "signature": "กบปรอะ",
+        "length": 6
+      },
+      {
+        "token": "ชนิด",
+        "signature": "ชดนิ",
+        "length": 4
+      },
+      {
+        "token": "กระทรวง",
+        "signature": "กงทรวะ",
+        "length": 7
+      },
+      {
+        "token": "ปรากฏ",
+        "signature": "กฏปรา",
+        "length": 5
+      },
+      {
+        "token": "แล้วก็",
+        "signature": "็้กลวแ",
+        "length": 6
+      },
+      {
+        "token": "ชาย",
+        "signature": "ชยา",
+        "length": 3
+      },
+      {
+        "token": "ดำเนินการ",
+        "signature": "กดนราำิเ",
+        "length": 9
+      },
+      {
+        "token": "รอบ",
+        "signature": "บรอ",
+        "length": 3
+      },
+      {
+        "token": "บริษัท",
+        "signature": "ทบรษัิ",
+        "length": 6
+      },
+      {
+        "token": "จังหวัด",
+        "signature": "งจดวหั",
+        "length": 7
+      },
+      {
+        "token": "ใบ",
+        "signature": "บใ",
+        "length": 2
+      },
+      {
+        "token": "นอน",
+        "signature": "นอ",
+        "length": 3
+      },
+      {
+        "token": "ทั้งหมด",
+        "signature": "้งดทมหั",
+        "length": 7
+      },
+      {
+        "token": "สุข",
+        "signature": "ขสุ",
+        "length": 3
+      },
+      {
+        "token": "เกิน",
+        "signature": "กนิเ",
+        "length": 4
+      },
+      {
+        "token": "ครู",
+        "signature": "ครู",
+        "length": 3
+      },
+      {
+        "token": "รู้จัก",
+        "signature": "้กจรัู",
+        "length": 6
+      },
+      {
+        "token": "โดยเฉพาะ",
+        "signature": "ฉดพยะาเโ",
+        "length": 8
+      },
+      {
+        "token": "ดังนั้น",
+        "signature": "้งดนั",
+        "length": 7
+      },
+      {
+        "token": "ร้าน",
+        "signature": "้นรา",
+        "length": 4
+      },
+      {
+        "token": "บริการ",
+        "signature": "กบราิ",
+        "length": 6
+      },
+      {
+        "token": "ทราบ",
+        "signature": "ทบรา",
+        "length": 4
+      },
+      {
+        "token": "ประมาณ",
+        "signature": "ณปมระา",
+        "length": 6
+      },
+      {
+        "token": "จุด",
+        "signature": "จดุ",
+        "length": 3
+      },
+      {
+        "token": "ง่าย",
+        "signature": "่งยา",
+        "length": 4
+      },
+      {
+        "token": "โครงการ",
+        "signature": "กคงราโ",
+        "length": 7
+      },
+      {
+        "token": "ตัวอย่าง",
+        "signature": "่งตยวอัา",
+        "length": 8
+      },
+      {
+        "token": "ข้าง",
+        "signature": "้ขงา",
+        "length": 4
+      },
+      {
+        "token": "ภาค",
+        "signature": "คภา",
+        "length": 3
+      },
+      {
+        "token": "เรียกว่า",
+        "signature": "่กยรวาีเ",
+        "length": 8
+      },
+      {
+        "token": "คืน",
+        "signature": "คนื",
+        "length": 3
+      },
+      {
+        "token": "หรอก",
+        "signature": "กรหอ",
+        "length": 4
+      },
+      {
+        "token": "โรค",
+        "signature": "ครโ",
+        "length": 3
+      },
+      {
+        "token": "อาการ",
+        "signature": "กรอา",
+        "length": 5
+      },
+      {
+        "token": "อายุ",
+        "signature": "ยอาุ",
+        "length": 4
+      },
+      {
+        "token": "เหล่านี้",
+        "signature": "่้นลหาีเ",
+        "length": 8
+      },
+      {
+        "token": "พา",
+        "signature": "พา",
+        "length": 2
+      },
+      {
+        "token": "แก",
+        "signature": "กแ",
+        "length": 2
+      },
+      {
+        "token": "แตกต่าง",
+        "signature": "่กงตาแ",
+        "length": 7
+      },
+      {
+        "token": "วิธีการ",
+        "signature": "กธรวาิี",
+        "length": 7
+      },
+      {
+        "token": "น้อง",
+        "signature": "้งนอ",
+        "length": 4
+      },
+      {
+        "token": "หมอ",
+        "signature": "มหอ",
+        "length": 3
+      },
+      {
+        "token": "ความรู้สึก",
+        "signature": "้กคมรวสาึู",
+        "length": 10
+      },
+      {
+        "token": "แทน",
+        "signature": "ทนแ",
+        "length": 3
+      },
+      {
+        "token": "ที่อยู่",
+        "signature": "่ทยอีู",
+        "length": 7
+      },
+      {
+        "token": "เชื่อ",
+        "signature": "่ชอืเ",
+        "length": 5
+      },
+      {
+        "token": "ล้าน",
+        "signature": "้นลา",
+        "length": 4
+      },
+      {
+        "token": "ยาว",
+        "signature": "ยวา",
+        "length": 3
+      },
+      {
+        "token": "ราชการ",
+        "signature": "กชรา",
+        "length": 6
+      },
+      {
+        "token": "ครอบครัว",
+        "signature": "คบรวอั",
+        "length": 8
+      },
+      {
+        "token": "ไหม",
+        "signature": "มหไ",
+        "length": 3
+      },
+      {
+        "token": "นา",
+        "signature": "นา",
+        "length": 2
+      },
+      {
+        "token": "เดินทาง",
+        "signature": "งดทนาิเ",
+        "length": 7
+      },
+      {
+        "token": "โรงเรียน",
+        "signature": "งนยรีเโ",
+        "length": 8
+      },
+      {
+        "token": "คณะ",
+        "signature": "คณะ",
+        "length": 3
+      },
+      {
+        "token": "สภา",
+        "signature": "ภสา",
+        "length": 3
+      },
+      {
+        "token": "สภาพ",
+        "signature": "พภสา",
+        "length": 4
+      },
+      {
+        "token": "ที",
+        "signature": "ที",
+        "length": 2
+      },
+      {
+        "token": "พรรค",
+        "signature": "คพร",
+        "length": 4
+      },
+      {
+        "token": "วัด",
+        "signature": "ดวั",
+        "length": 3
+      },
+      {
+        "token": "ประกาศ",
+        "signature": "กปรศะา",
+        "length": 6
+      },
+      {
+        "token": "นาง",
+        "signature": "งนา",
+        "length": 3
+      },
+      {
+        "token": "หัว",
+        "signature": "วหั",
+        "length": 3
+      },
+      {
+        "token": "กลาง",
+        "signature": "กงลา",
+        "length": 4
+      },
+      {
+        "token": "แรง",
+        "signature": "งรแ",
+        "length": 3
+      },
+      {
+        "token": "คู่",
+        "signature": "่คู",
+        "length": 3
+      },
+      {
+        "token": "ตลาด",
+        "signature": "ดตลา",
+        "length": 4
+      },
+      {
+        "token": "กลายเป็น",
+        "signature": "็กนปยลาเ",
+        "length": 8
+      },
+      {
+        "token": "จับ",
+        "signature": "จบั",
+        "length": 3
+      },
+      {
+        "token": "วิจัย",
+        "signature": "จยวัิ",
+        "length": 5
+      },
+      {
+        "token": "แนว",
+        "signature": "นวแ",
+        "length": 3
+      },
+      {
+        "token": "ข้าว",
+        "signature": "้ขวา",
+        "length": 4
+      },
+      {
+        "token": "หัน",
+        "signature": "นหั",
+        "length": 3
+      },
+      {
+        "token": "ไม่ว่า",
+        "signature": "่มวาไ",
+        "length": 6
+      },
+      {
+        "token": "เฉพาะ",
+        "signature": "ฉพะาเ",
+        "length": 5
+      },
+      {
+        "token": "ยก",
+        "signature": "กย",
+        "length": 2
+      },
+      {
+        "token": "อาศัย",
+        "signature": "ยศอัา",
+        "length": 5
+      },
+      {
+        "token": "ย่อม",
+        "signature": "่มยอ",
+        "length": 4
+      },
+      {
+        "token": "ชุด",
+        "signature": "ชดุ",
+        "length": 3
+      },
+      {
+        "token": "หนู",
+        "signature": "นหู",
+        "length": 3
+      },
+      {
+        "token": "นโยบาย",
+        "signature": "นบยาโ",
+        "length": 6
+      },
+      {
+        "token": "น่ะ",
+        "signature": "่นะ",
+        "length": 3
+      },
+      {
+        "token": "ความรู้",
+        "signature": "้คมรวาู",
+        "length": 7
+      },
+      {
+        "token": "เท่า",
+        "signature": "่ทาเ",
+        "length": 4
+      },
+      {
+        "token": "ยอม",
+        "signature": "มยอ",
+        "length": 3
+      },
+      {
+        "token": "ราย",
+        "signature": "ยรา",
+        "length": 3
+      },
+      {
+        "token": "ควบคุม",
+        "signature": "คบมวุ",
+        "length": 6
+      },
+      {
+        "token": "ธรรมชาติ",
+        "signature": "ชตธมราิ",
+        "length": 8
+      },
+      {
+        "token": "วาง",
+        "signature": "งวา",
+        "length": 3
+      },
+      {
+        "token": "ส่วนใหญ่",
+        "signature": "่ญนวสหใ",
+        "length": 8
+      },
+      {
+        "token": "ปกติ",
+        "signature": "กตปิ",
+        "length": 4
+      },
+      {
+        "token": "บริหาร",
+        "signature": "บรหาิ",
+        "length": 6
+      },
+      {
+        "token": "ยืน",
+        "signature": "นยื",
+        "length": 3
+      },
+      {
+        "token": "ประการ",
+        "signature": "กประา",
+        "length": 6
+      },
+      {
+        "token": "สัญญา",
+        "signature": "ญสัา",
+        "length": 5
+      },
+      {
+        "token": "สมาชิก",
+        "signature": "กชมสาิ",
+        "length": 6
+      },
+      {
+        "token": "นิยม",
+        "signature": "นมยิ",
+        "length": 4
+      },
+      {
+        "token": "รอ",
+        "signature": "รอ",
+        "length": 2
+      },
+      {
+        "token": "หลังจาก",
+        "signature": "กงจลหัา",
+        "length": 7
+      },
+      {
+        "token": "ต้น",
+        "signature": "้ตน",
+        "length": 3
+      },
+      {
+        "token": "สิ",
+        "signature": "สิ",
+        "length": 2
+      },
+      {
+        "token": "อนุญาต",
+        "signature": "ญตนอาุ",
+        "length": 6
+      },
+      {
+        "token": "ร่าง",
+        "signature": "่งรา",
+        "length": 4
+      },
+      {
+        "token": "สอน",
+        "signature": "นสอ",
+        "length": 3
+      },
+      {
+        "token": "ญี่ปุ่น",
+        "signature": "่ญนปีุ",
+        "length": 7
+      },
+      {
+        "token": "ทางการ",
+        "signature": "กงทรา",
+        "length": 6
+      },
+      {
+        "token": "เปล่า",
+        "signature": "่ปลาเ",
+        "length": 5
+      },
+      {
+        "token": "ใกล้",
+        "signature": "้กลใ",
+        "length": 4
+      },
+      {
+        "token": "สิบ",
+        "signature": "บสิ",
+        "length": 3
+      },
+      {
+        "token": "แก้ไข",
+        "signature": "้กขแไ",
+        "length": 5
+      },
+      {
+        "token": "เพลง",
+        "signature": "งพลเ",
+        "length": 4
+      },
+      {
+        "token": "พิเศษ",
+        "signature": "พศษิเ",
+        "length": 5
+      },
+      {
+        "token": "จัดการ",
+        "signature": "กจดรัา",
+        "length": 6
+      },
+      {
+        "token": "ปาก",
+        "signature": "กปา",
+        "length": 3
+      },
+      {
+        "token": "เป็นต้น",
+        "signature": "็้ตนปเ",
+        "length": 7
+      }
+    ],
+    "developing": [
+      {
+        "token": "ประโยค",
+        "signature": "คปยระโ",
+        "length": 6
+      },
+      {
+        "token": "พืช",
+        "signature": "ชพื",
+        "length": 3
+      },
+      {
+        "token": "กลิ่น",
+        "signature": "่กนลิ",
+        "length": 5
+      },
+      {
+        "token": "ก่อให้เกิด",
+        "signature": "่้กดหอิเใ",
+        "length": 10
+      },
+      {
+        "token": "นักศึกษา",
+        "signature": "กนศษัาึ",
+        "length": 8
+      },
+      {
+        "token": "ห่าง",
+        "signature": "่งหา",
+        "length": 4
+      },
+      {
+        "token": "ดา",
+        "signature": "ดา",
+        "length": 2
+      },
+      {
+        "token": "แนะนำ",
+        "signature": "นะำแ",
+        "length": 5
+      },
+      {
+        "token": "ต่อไปนี้",
+        "signature": "่้ตนปอีไ",
+        "length": 8
+      },
+      {
+        "token": "เพิ่มเติม",
+        "signature": "่ตพมิเ",
+        "length": 9
+      },
+      {
+        "token": "ระ",
+        "signature": "ระ",
+        "length": 2
+      },
+      {
+        "token": "แถม",
+        "signature": "ถมแ",
+        "length": 3
+      },
+      {
+        "token": "บัญญัติ",
+        "signature": "ญตบัิ",
+        "length": 7
+      },
+      {
+        "token": "หลักการ",
+        "signature": "กรลหัา",
+        "length": 7
+      },
+      {
+        "token": "เท้า",
+        "signature": "้ทาเ",
+        "length": 4
+      },
+      {
+        "token": "ล้วน",
+        "signature": "้นลว",
+        "length": 4
+      },
+      {
+        "token": "แผ่นดิน",
+        "signature": "่ดนผิแ",
+        "length": 7
+      },
+      {
+        "token": "ประ",
+        "signature": "ประ",
+        "length": 3
+      },
+      {
+        "token": "ตลอดจน",
+        "signature": "จดตนลอ",
+        "length": 6
+      },
+      {
+        "token": "วิชาชีพ",
+        "signature": "ชพวาิี",
+        "length": 7
+      },
+      {
+        "token": "สัมผัส",
+        "signature": "ผมสั",
+        "length": 6
+      },
+      {
+        "token": "ภัย",
+        "signature": "ภยั",
+        "length": 3
+      },
+      {
+        "token": "วัตถุ",
+        "signature": "ตถวัุ",
+        "length": 5
+      },
+      {
+        "token": "ที่ไหน",
+        "signature": "่ทนหีไ",
+        "length": 6
+      },
+      {
+        "token": "แง่",
+        "signature": "่งแ",
+        "length": 3
+      },
+      {
+        "token": "ยัย",
+        "signature": "ยั",
+        "length": 3
+      },
+      {
+        "token": "หู",
+        "signature": "หู",
+        "length": 2
+      },
+      {
+        "token": "สมอง",
+        "signature": "งมสอ",
+        "length": 4
+      },
+      {
+        "token": "แขน",
+        "signature": "ขนแ",
+        "length": 3
+      },
+      {
+        "token": "เติบโต",
+        "signature": "ตบิเโ",
+        "length": 6
+      },
+      {
+        "token": "ดนตรี",
+        "signature": "ดตนรี",
+        "length": 5
+      },
+      {
+        "token": "หัวหน้า",
+        "signature": "้นวหัา",
+        "length": 7
+      },
+      {
+        "token": "ธนาคาร",
+        "signature": "คธนรา",
+        "length": 6
+      },
+      {
+        "token": "เพียงแต่",
+        "signature": "่งตพยีเแ",
+        "length": 8
+      },
+      {
+        "token": "เก่ง",
+        "signature": "่กงเ",
+        "length": 4
+      },
+      {
+        "token": "โบราณ",
+        "signature": "ณบราโ",
+        "length": 5
+      },
+      {
+        "token": "ลูกค้า",
+        "signature": "้กคลาู",
+        "length": 6
+      },
+      {
+        "token": "ทำนอง",
+        "signature": "งทนอำ",
+        "length": 5
+      },
+      {
+        "token": "หลับ",
+        "signature": "บลหั",
+        "length": 4
+      },
+      {
+        "token": "ไอ",
+        "signature": "อไ",
+        "length": 2
+      },
+      {
+        "token": "หิน",
+        "signature": "นหิ",
+        "length": 3
+      },
+      {
+        "token": "ต่อสู้",
+        "signature": "่้ตสอู",
+        "length": 6
+      },
+      {
+        "token": "หมู่",
+        "signature": "่มหู",
+        "length": 4
+      },
+      {
+        "token": "สะดวก",
+        "signature": "กดวสะ",
+        "length": 5
+      },
+      {
+        "token": "พนักงาน",
+        "signature": "กงนพัา",
+        "length": 7
+      },
+      {
+        "token": "แสง",
+        "signature": "งสแ",
+        "length": 3
+      },
+      {
+        "token": "เอ่ย",
+        "signature": "่ยอเ",
+        "length": 4
+      },
+      {
+        "token": "กระแส",
+        "signature": "กรสะแ",
+        "length": 5
+      },
+      {
+        "token": "ยืนยัน",
+        "signature": "นยัื",
+        "length": 6
+      },
+      {
+        "token": "สำเร็จ",
+        "signature": "็จรสำเ",
+        "length": 6
+      },
+      {
+        "token": "ออกแบบ",
+        "signature": "กบอแ",
+        "length": 6
+      },
+      {
+        "token": "ลูกจ้าง",
+        "signature": "้กงจลาู",
+        "length": 7
+      },
+      {
+        "token": "เนี่ย",
+        "signature": "่นยีเ",
+        "length": 5
+      },
+      {
+        "token": "บางที",
+        "signature": "งทบาี",
+        "length": 5
+      },
+      {
+        "token": "บรรดา",
+        "signature": "ดบรา",
+        "length": 5
+      },
+      {
+        "token": "ก่อ",
+        "signature": "่กอ",
+        "length": 3
+      },
+      {
+        "token": "รุนแรง",
+        "signature": "งนรุแ",
+        "length": 6
+      },
+      {
+        "token": "หลักเกณฑ์",
+        "signature": "์กฑณลหัเ",
+        "length": 9
+      },
+      {
+        "token": "คาด",
+        "signature": "คดา",
+        "length": 3
+      },
+      {
+        "token": "จากนั้น",
+        "signature": "้กจนัา",
+        "length": 7
+      },
+      {
+        "token": "ติดตาม",
+        "signature": "ดตมาิ",
+        "length": 6
+      },
+      {
+        "token": "หายใจ",
+        "signature": "จยหาใ",
+        "length": 5
+      },
+      {
+        "token": "คุณสมบัติ",
+        "signature": "คณตบมสัิุ",
+        "length": 9
+      },
+      {
+        "token": "นำเข้า",
+        "signature": "้ขนาำเ",
+        "length": 6
+      },
+      {
+        "token": "หวาน",
+        "signature": "นวหา",
+        "length": 4
+      },
+      {
+        "token": "สมควร",
+        "signature": "คมรวส",
+        "length": 5
+      },
+      {
+        "token": "ดูเหมือน",
+        "signature": "ดนมหอืูเ",
+        "length": 8
+      },
+      {
+        "token": "อาทิตย์",
+        "signature": "์ตทยอาิ",
+        "length": 7
+      },
+      {
+        "token": "กระทบ",
+        "signature": "กทบระ",
+        "length": 5
+      },
+      {
+        "token": "คัน",
+        "signature": "คนั",
+        "length": 3
+      },
+      {
+        "token": "โดยที่",
+        "signature": "่ดทยีโ",
+        "length": 6
+      },
+      {
+        "token": "ประชาธิปไตย",
+        "signature": "ชตธปยระาิไ",
+        "length": 11
+      },
+      {
+        "token": "เรียกร้อง",
+        "signature": "้กงยรอีเ",
+        "length": 9
+      },
+      {
+        "token": "ภรรยา",
+        "signature": "ภยรา",
+        "length": 5
+      },
+      {
+        "token": "ห่วง",
+        "signature": "่งวห",
+        "length": 4
+      },
+      {
+        "token": "เกษตรกร",
+        "signature": "กตรษเ",
+        "length": 7
+      },
+      {
+        "token": "ราว",
+        "signature": "รวา",
+        "length": 3
+      },
+      {
+        "token": "มิใช่",
+        "signature": "่ชมิใ",
+        "length": 5
+      },
+      {
+        "token": "กระเป๋า",
+        "signature": "๋กประาเ",
+        "length": 7
+      },
+      {
+        "token": "อิสระ",
+        "signature": "รสอะิ",
+        "length": 5
+      },
+      {
+        "token": "โรงแรม",
+        "signature": "งมรแโ",
+        "length": 6
+      },
+      {
+        "token": "คอ",
+        "signature": "คอ",
+        "length": 2
+      },
+      {
+        "token": "พันธุ์",
+        "signature": "์ธนพัุ",
+        "length": 6
+      },
+      {
+        "token": "เสด็จ",
+        "signature": "็จดสเ",
+        "length": 5
+      },
+      {
+        "token": "ชำระ",
+        "signature": "ชระำ",
+        "length": 4
+      },
+      {
+        "token": "ฝรั่ง",
+        "signature": "่งฝรั",
+        "length": 5
+      },
+      {
+        "token": "มุ่ง",
+        "signature": "่งมุ",
+        "length": 4
+      },
+      {
+        "token": "การเงิน",
+        "signature": "กงนราิเ",
+        "length": 7
+      },
+      {
+        "token": "อิน",
+        "signature": "นอิ",
+        "length": 3
+      },
+      {
+        "token": "สำรวจ",
+        "signature": "จรวสำ",
+        "length": 5
+      },
+      {
+        "token": "ยึด",
+        "signature": "ดยึ",
+        "length": 3
+      },
+      {
+        "token": "ย่อย",
+        "signature": "่ยอ",
+        "length": 4
+      },
+      {
+        "token": "เครื่องมือ",
+        "signature": "่คงมรอืเ",
+        "length": 10
+      },
+      {
+        "token": "เริ่มต้น",
+        "signature": "่้ตนมริเ",
+        "length": 8
+      },
+      {
+        "token": "สนุก",
+        "signature": "กนสุ",
+        "length": 4
+      },
+      {
+        "token": "ท้าย",
+        "signature": "้ทยา",
+        "length": 4
+      },
+      {
+        "token": "ปฏิเสธ",
+        "signature": "ฏธปสิเ",
+        "length": 6
+      },
+      {
+        "token": "อุปกรณ์",
+        "signature": "์กณปรอุ",
+        "length": 7
+      },
+      {
+        "token": "ภายหลัง",
+        "signature": "งภยลหัา",
+        "length": 7
+      },
+      {
+        "token": "โรงงาน",
+        "signature": "งนราโ",
+        "length": 6
+      },
+      {
+        "token": "วิทยาศาสตร์",
+        "signature": "์ตทยรวศสาิ",
+        "length": 11
+      },
+      {
+        "token": "รับรอง",
+        "signature": "งบรอั",
+        "length": 6
+      },
+      {
+        "token": "โดยตรง",
+        "signature": "งดตยรโ",
+        "length": 6
+      },
+      {
+        "token": "มาตรการ",
+        "signature": "กตมรา",
+        "length": 7
+      },
+      {
+        "token": "โกรธ",
+        "signature": "กธรโ",
+        "length": 4
+      },
+      {
+        "token": "ผลประโยชน์",
+        "signature": "์ชนปผยรละโ",
+        "length": 10
+      },
+      {
+        "token": "รัฐมนตรี",
+        "signature": "ฐตนมรัี",
+        "length": 8
+      },
+      {
+        "token": "ตื่น",
+        "signature": "่ตนื",
+        "length": 4
+      },
+      {
+        "token": "บิน",
+        "signature": "นบิ",
+        "length": 3
+      },
+      {
+        "token": "ขั้นตอน",
+        "signature": "้ขตนอั",
+        "length": 7
+      },
+      {
+        "token": "ทา",
+        "signature": "ทา",
+        "length": 2
+      },
+      {
+        "token": "องค์การ",
+        "signature": "์กคงรอา",
+        "length": 7
+      },
+      {
+        "token": "ยิง",
+        "signature": "งยิ",
+        "length": 3
+      },
+      {
+        "token": "จัดทำ",
+        "signature": "จดทัำ",
+        "length": 5
+      },
+      {
+        "token": "สงคราม",
+        "signature": "คงมรสา",
+        "length": 6
+      },
+      {
+        "token": "พยาบาล",
+        "signature": "บพยลา",
+        "length": 6
+      },
+      {
+        "token": "วิ",
+        "signature": "วิ",
+        "length": 2
+      },
+      {
+        "token": "ดึง",
+        "signature": "งดึ",
+        "length": 3
+      },
+      {
+        "token": "คุ้มครอง",
+        "signature": "้คงมรอุ",
+        "length": 8
+      },
+      {
+        "token": "หยิบ",
+        "signature": "บยหิ",
+        "length": 4
+      },
+      {
+        "token": "ท่องเที่ยว",
+        "signature": "่งทยวอีเ",
+        "length": 10
+      },
+      {
+        "token": "กรอบ",
+        "signature": "กบรอ",
+        "length": 4
+      },
+      {
+        "token": "เชียง",
+        "signature": "งชยีเ",
+        "length": 5
+      },
+      {
+        "token": "กะ",
+        "signature": "กะ",
+        "length": 2
+      },
+      {
+        "token": "สหรัฐอเมริกา",
+        "signature": "กฐมรสหอัาิเ",
+        "length": 12
+      },
+      {
+        "token": "คะแนน",
+        "signature": "คนะแ",
+        "length": 5
+      },
+      {
+        "token": "ยุโรป",
+        "signature": "ปยรุโ",
+        "length": 5
+      },
+      {
+        "token": "เจ็บ",
+        "signature": "็จบเ",
+        "length": 4
+      },
+      {
+        "token": "ผู้เขียน",
+        "signature": "้ขนผยีูเ",
+        "length": 8
+      },
+      {
+        "token": "คุณค่า",
+        "signature": "่คณาุ",
+        "length": 6
+      },
+      {
+        "token": "พลาง",
+        "signature": "งพลา",
+        "length": 4
+      },
+      {
+        "token": "กล่าวคือ",
+        "signature": "่กคลวอาื",
+        "length": 8
+      },
+      {
+        "token": "คำพูด",
+        "signature": "คดพำู",
+        "length": 5
+      },
+      {
+        "token": "ประเมิน",
+        "signature": "นปมระิเ",
+        "length": 7
+      },
+      {
+        "token": "วา",
+        "signature": "วา",
+        "length": 2
+      },
+      {
+        "token": "พอดี",
+        "signature": "ดพอี",
+        "length": 4
+      },
+      {
+        "token": "ปรึกษา",
+        "signature": "กปรษาึ",
+        "length": 6
+      },
+      {
+        "token": "จัดตั้ง",
+        "signature": "้งจดตั",
+        "length": 7
+      },
+      {
+        "token": "กฎ",
+        "signature": "กฎ",
+        "length": 2
+      },
+      {
+        "token": "แล",
+        "signature": "ลแ",
+        "length": 2
+      },
+      {
+        "token": "จ้าง",
+        "signature": "้งจา",
+        "length": 4
+      },
+      {
+        "token": "บทบัญญัติ",
+        "signature": "ญตทบัิ",
+        "length": 9
+      },
+      {
+        "token": "ม้า",
+        "signature": "้มา",
+        "length": 3
+      },
+      {
+        "token": "วัตถุประสงค์",
+        "signature": "์คงตถปรวสะัุ",
+        "length": 12
+      },
+      {
+        "token": "หอม",
+        "signature": "มหอ",
+        "length": 3
+      },
+      {
+        "token": "อย่างน้อย",
+        "signature": "่้งนยอา",
+        "length": 9
+      },
+      {
+        "token": "ช่อง",
+        "signature": "่งชอ",
+        "length": 4
+      },
+      {
+        "token": "คา",
+        "signature": "คา",
+        "length": 2
+      },
+      {
+        "token": "เชิญ",
+        "signature": "ชญิเ",
+        "length": 4
+      },
+      {
+        "token": "เหมือนกับ",
+        "signature": "กนบมหอัืเ",
+        "length": 9
+      },
+      {
+        "token": "นิด",
+        "signature": "ดนิ",
+        "length": 3
+      },
+      {
+        "token": "จังหวะ",
+        "signature": "งจวหะั",
+        "length": 6
+      },
+      {
+        "token": "มองเห็น",
+        "signature": "็งนมหอเ",
+        "length": 7
+      },
+      {
+        "token": "รอย",
+        "signature": "ยรอ",
+        "length": 3
+      },
+      {
+        "token": "สะท้อน",
+        "signature": "้ทนสอะ",
+        "length": 6
+      },
+      {
+        "token": "หนังสือพิมพ์",
+        "signature": "์งนพมสหอัิื",
+        "length": 12
+      },
+      {
+        "token": "อำเภอ",
+        "signature": "ภอำเ",
+        "length": 5
+      },
+      {
+        "token": "ตาราง",
+        "signature": "งตรา",
+        "length": 5
+      },
+      {
+        "token": "ดอกไม้",
+        "signature": "้กดมอไ",
+        "length": 6
+      },
+      {
+        "token": "แตก",
+        "signature": "กตแ",
+        "length": 3
+      },
+      {
+        "token": "เสื้อผ้า",
+        "signature": "้ผสอาืเ",
+        "length": 8
+      },
+      {
+        "token": "พุทธ",
+        "signature": "ทธพุ",
+        "length": 4
+      },
+      {
+        "token": "รึ",
+        "signature": "รึ",
+        "length": 2
+      },
+      {
+        "token": "ขน",
+        "signature": "ขน",
+        "length": 2
+      },
+      {
+        "token": "แหละ",
+        "signature": "ลหะแ",
+        "length": 4
+      },
+      {
+        "token": "ชนบท",
+        "signature": "ชทนบ",
+        "length": 4
+      },
+      {
+        "token": "วิชาการ",
+        "signature": "กชรวาิ",
+        "length": 7
+      },
+      {
+        "token": "จำเลย",
+        "signature": "จยลำเ",
+        "length": 5
+      },
+      {
+        "token": "ค่าใช้จ่าย",
+        "signature": "่้คจชยาใ",
+        "length": 10
+      },
+      {
+        "token": "เล็กน้อย",
+        "signature": "็้กนยลอเ",
+        "length": 8
+      },
+      {
+        "token": "พี",
+        "signature": "พี",
+        "length": 2
+      },
+      {
+        "token": "นาม",
+        "signature": "นมา",
+        "length": 3
+      },
+      {
+        "token": "เนื้อหา",
+        "signature": "้นหอาืเ",
+        "length": 7
+      },
+      {
+        "token": "เคลื่อนไหว",
+        "signature": "่คนลวหอืเไ",
+        "length": 10
+      },
+      {
+        "token": "เค",
+        "signature": "คเ",
+        "length": 2
+      },
+      {
+        "token": "ถอน",
+        "signature": "ถนอ",
+        "length": 3
+      },
+      {
+        "token": "ที่ตั้ง",
+        "signature": "่้งตทัี",
+        "length": 7
+      },
+      {
+        "token": "ล้าง",
+        "signature": "้งลา",
+        "length": 4
+      },
+      {
+        "token": "จนกระทั่ง",
+        "signature": "่กงจทนระั",
+        "length": 9
+      },
+      {
+        "token": "ส่งออก",
+        "signature": "่กงสอ",
+        "length": 6
+      },
+      {
+        "token": "ความสนใจ",
+        "signature": "คจนมวสาใ",
+        "length": 8
+      },
+      {
+        "token": "แผ่น",
+        "signature": "่นผแ",
+        "length": 4
+      },
+      {
+        "token": "ก็ดี",
+        "signature": "็กดี",
+        "length": 4
+      },
+      {
+        "token": "นิ้ว",
+        "signature": "้นวิ",
+        "length": 4
+      },
+      {
+        "token": "รางวัล",
+        "signature": "งรลวัา",
+        "length": 6
+      },
+      {
+        "token": "ระวัง",
+        "signature": "งรวะั",
+        "length": 5
+      },
+      {
+        "token": "คุณแม่",
+        "signature": "่คณมุแ",
+        "length": 6
+      },
+      {
+        "token": "พูดถึง",
+        "signature": "งดถพึู",
+        "length": 6
+      },
+      {
+        "token": "สะอาด",
+        "signature": "ดสอะา",
+        "length": 5
+      },
+      {
+        "token": "ชนชั้น",
+        "signature": "้ชนั",
+        "length": 6
+      },
+      {
+        "token": "แท้",
+        "signature": "้ทแ",
+        "length": 3
+      },
+      {
+        "token": "บรรยากาศ",
+        "signature": "กบยรศา",
+        "length": 8
+      },
+      {
+        "token": "ผลิตภัณฑ์",
+        "signature": "์ฑณตผภลัิ",
+        "length": 9
+      },
+      {
+        "token": "เขียว",
+        "signature": "ขยวีเ",
+        "length": 5
+      },
+      {
+        "token": "นัด",
+        "signature": "ดนั",
+        "length": 3
+      },
+      {
+        "token": "ไม่ทัน",
+        "signature": "่ทนมัไ",
+        "length": 6
+      },
+      {
+        "token": "ล่า",
+        "signature": "่ลา",
+        "length": 3
+      },
+      {
+        "token": "โร",
+        "signature": "รโ",
+        "length": 2
+      },
+      {
+        "token": "ล่าง",
+        "signature": "่งลา",
+        "length": 4
+      },
+      {
+        "token": "ขนส่ง",
+        "signature": "่ขงนส",
+        "length": 5
+      },
+      {
+        "token": "ชั่ว",
+        "signature": "่ชวั",
+        "length": 4
+      },
+      {
+        "token": "ฝรั่งเศส",
+        "signature": "่งฝรศสัเ",
+        "length": 8
+      },
+      {
+        "token": "หน้าตา",
+        "signature": "้ตนหา",
+        "length": 6
+      },
+      {
+        "token": "อันดับ",
+        "signature": "ดนบอั",
+        "length": 6
+      },
+      {
+        "token": "ท้อง",
+        "signature": "้งทอ",
+        "length": 4
+      },
+      {
+        "token": "น้ำหนัก",
+        "signature": "้กนหัำ",
+        "length": 7
+      },
+      {
+        "token": "ลอย",
+        "signature": "ยลอ",
+        "length": 3
+      },
+      {
+        "token": "ร้าย",
+        "signature": "้ยรา",
+        "length": 4
+      },
+      {
+        "token": "ปัญญา",
+        "signature": "ญปัา",
+        "length": 5
+      },
+      {
+        "token": "เสี่ยง",
+        "signature": "่งยสีเ",
+        "length": 6
+      },
+      {
+        "token": "ลับ",
+        "signature": "บลั",
+        "length": 3
+      },
+      {
+        "token": "การเลือกตั้ง",
+        "signature": "้กงตรลอัาืเ",
+        "length": 12
+      },
+      {
+        "token": "ใส",
+        "signature": "สใ",
+        "length": 2
+      },
+      {
+        "token": "ต้นไม้",
+        "signature": "้ตนมไ",
+        "length": 6
+      },
+      {
+        "token": "แม่น้ำ",
+        "signature": "่้นมำแ",
+        "length": 6
+      },
+      {
+        "token": "ผัก",
+        "signature": "กผั",
+        "length": 3
+      },
+      {
+        "token": "ที่นั่ง",
+        "signature": "่งทนัี",
+        "length": 7
+      },
+      {
+        "token": "หก",
+        "signature": "กห",
+        "length": 2
+      },
+      {
+        "token": "สถานี",
+        "signature": "ถนสาี",
+        "length": 5
+      },
+      {
+        "token": "ชนะ",
+        "signature": "ชนะ",
+        "length": 3
+      },
+      {
+        "token": "ฝาก",
+        "signature": "กฝา",
+        "length": 3
+      },
+      {
+        "token": "พิสูจน์",
+        "signature": "์จนพสิู",
+        "length": 7
+      },
+      {
+        "token": "ดิ",
+        "signature": "ดิ",
+        "length": 2
+      },
+      {
+        "token": "เต็มที่",
+        "signature": "็่ตทมีเ",
+        "length": 7
+      },
+      {
+        "token": "พลอย",
+        "signature": "พยลอ",
+        "length": 4
+      },
+      {
+        "token": "เลขาธิการ",
+        "signature": "กขธรลาิเ",
+        "length": 9
+      },
+      {
+        "token": "สด",
+        "signature": "ดส",
+        "length": 2
+      },
+      {
+        "token": "หมา",
+        "signature": "มหา",
+        "length": 3
+      },
+      {
+        "token": "ตัน",
+        "signature": "ตนั",
+        "length": 3
+      },
+      {
+        "token": "คึกฤทธิ์",
+        "signature": "์กคทธฤิึ",
+        "length": 8
+      },
+      {
+        "token": "ว่าง",
+        "signature": "่งวา",
+        "length": 4
+      },
+      {
+        "token": "สัญญาณ",
+        "signature": "ญณสัา",
+        "length": 6
+      },
+      {
+        "token": "สอดคล้อง",
+        "signature": "้คงดลสอ",
+        "length": 8
+      },
+      {
+        "token": "หลากหลาย",
+        "signature": "กยลหา",
+        "length": 8
+      },
+      {
+        "token": "ริม",
+        "signature": "มริ",
+        "length": 3
+      },
+      {
+        "token": "บา",
+        "signature": "บา",
+        "length": 2
+      },
+      {
+        "token": "ดัน",
+        "signature": "ดนั",
+        "length": 3
+      },
+      {
+        "token": "นายก",
+        "signature": "กนยา",
+        "length": 4
+      },
+      {
+        "token": "ข้างต้น",
+        "signature": "้ขงตนา",
+        "length": 7
+      },
+      {
+        "token": "แอบ",
+        "signature": "บอแ",
+        "length": 3
+      },
+      {
+        "token": "ประชากร",
+        "signature": "กชประา",
+        "length": 7
+      },
+      {
+        "token": "เทียบ",
+        "signature": "ทบยีเ",
+        "length": 5
+      },
+      {
+        "token": "ผู้ป่วย",
+        "signature": "่้ปผยวู",
+        "length": 7
+      },
+      {
+        "token": "ฝีมือ",
+        "signature": "ฝมอีื",
+        "length": 5
+      },
+      {
+        "token": "ไหว",
+        "signature": "วหไ",
+        "length": 3
+      },
+      {
+        "token": "สิ้น",
+        "signature": "้นสิ",
+        "length": 4
+      },
+      {
+        "token": "ฉะนั้น",
+        "signature": "้ฉนะั",
+        "length": 6
+      },
+      {
+        "token": "เช่นเดียว",
+        "signature": "่ชดนยวีเ",
+        "length": 9
+      },
+      {
+        "token": "สมาคม",
+        "signature": "คมสา",
+        "length": 5
+      },
+      {
+        "token": "ท่าทาง",
+        "signature": "่งทา",
+        "length": 6
+      },
+      {
+        "token": "หลง",
+        "signature": "งลห",
+        "length": 3
+      },
+      {
+        "token": "ใบหน้า",
+        "signature": "้นบหาใ",
+        "length": 6
+      },
+      {
+        "token": "ขณะนี้",
+        "signature": "้ขณนะี",
+        "length": 6
+      },
+      {
+        "token": "มอบ",
+        "signature": "บมอ",
+        "length": 3
+      },
+      {
+        "token": "รถยนต์",
+        "signature": "์ตถนยร",
+        "length": 6
+      },
+      {
+        "token": "คิดถึง",
+        "signature": "คงดถิึ",
+        "length": 6
+      },
+      {
+        "token": "พิธี",
+        "signature": "ธพิี",
+        "length": 4
+      },
+      {
+        "token": "ไฟฟ้า",
+        "signature": "้ฟาไ",
+        "length": 5
+      },
+      {
+        "token": "กด",
+        "signature": "กด",
+        "length": 2
+      },
+      {
+        "token": "รี",
+        "signature": "รี",
+        "length": 2
+      },
+      {
+        "token": "ทีเดียว",
+        "signature": "ดทยวีเ",
+        "length": 7
+      },
+      {
+        "token": "จี",
+        "signature": "จี",
+        "length": 2
+      },
+      {
+        "token": "ข่าวสาร",
+        "signature": "่ขรวสา",
+        "length": 7
+      },
+      {
+        "token": "พาณิชย์",
+        "signature": "์ชณพยาิ",
+        "length": 7
+      },
+      {
+        "token": "หมื่น",
+        "signature": "่นมหื",
+        "length": 5
+      },
+      {
+        "token": "อก",
+        "signature": "กอ",
+        "length": 2
+      },
+      {
+        "token": "ลูกสาว",
+        "signature": "กลวสาู",
+        "length": 6
+      },
+      {
+        "token": "ถิ่น",
+        "signature": "่ถนิ",
+        "length": 4
+      },
+      {
+        "token": "ลงโทษ",
+        "signature": "งทลษโ",
+        "length": 5
+      },
+      {
+        "token": "พล",
+        "signature": "พล",
+        "length": 2
+      },
+      {
+        "token": "ทั้งสิ้น",
+        "signature": "้งทนสัิ",
+        "length": 8
+      },
+      {
+        "token": "ผี",
+        "signature": "ผี",
+        "length": 2
+      },
+      {
+        "token": "จำหน่าย",
+        "signature": "่จนยหาำ",
+        "length": 7
+      },
+      {
+        "token": "เทคนิค",
+        "signature": "คทนิเ",
+        "length": 6
+      },
+      {
+        "token": "วงศ์",
+        "signature": "์งวศ",
+        "length": 4
+      },
+      {
+        "token": "ฝั่ง",
+        "signature": "่งฝั",
+        "length": 4
+      },
+      {
+        "token": "กู",
+        "signature": "กู",
+        "length": 2
+      },
+      {
+        "token": "เชื้อ",
+        "signature": "้ชอืเ",
+        "length": 5
+      },
+      {
+        "token": "เมีย",
+        "signature": "มยีเ",
+        "length": 4
+      },
+      {
+        "token": "บริโภค",
+        "signature": "คบภริโ",
+        "length": 6
+      },
+      {
+        "token": "ลูกชาย",
+        "signature": "กชยลาู",
+        "length": 6
+      },
+      {
+        "token": "คอร์ด",
+        "signature": "์คดรอ",
+        "length": 5
+      },
+      {
+        "token": "เทพ",
+        "signature": "ทพเ",
+        "length": 3
+      },
+      {
+        "token": "องค์ประกอบ",
+        "signature": "์กคงบปรอะ",
+        "length": 10
+      },
+      {
+        "token": "ผสม",
+        "signature": "ผมส",
+        "length": 3
+      },
+      {
+        "token": "ดื่ม",
+        "signature": "่ดมื",
+        "length": 4
+      },
+      {
+        "token": "สติ",
+        "signature": "ตสิ",
+        "length": 3
+      },
+      {
+        "token": "ตอนนั้น",
+        "signature": "้ตนอั",
+        "length": 7
+      },
+      {
+        "token": "เซ",
+        "signature": "ซเ",
+        "length": 2
+      },
+      {
+        "token": "ราวกับ",
+        "signature": "กบรวัา",
+        "length": 6
+      },
+      {
+        "token": "สอบสวน",
+        "signature": "นบวสอ",
+        "length": 6
+      },
+      {
+        "token": "กำเนิด",
+        "signature": "กดนำิเ",
+        "length": 6
+      },
+      {
+        "token": "ปืน",
+        "signature": "นปื",
+        "length": 3
+      },
+      {
+        "token": "ดวงตา",
+        "signature": "งดตวา",
+        "length": 5
+      },
+      {
+        "token": "ขัด",
+        "signature": "ขดั",
+        "length": 3
+      },
+      {
+        "token": "นั่นแหละ",
+        "signature": "่นลหะัแ",
+        "length": 8
+      },
+      {
+        "token": "เรือน",
+        "signature": "นรอืเ",
+        "length": 5
+      },
+      {
+        "token": "รส",
+        "signature": "รส",
+        "length": 2
+      },
+      {
+        "token": "เลื่อน",
+        "signature": "่นลอืเ",
+        "length": 6
+      },
+      {
+        "token": "นับแต่",
+        "signature": "่ตนบัแ",
+        "length": 6
+      },
+      {
+        "token": "ริ",
+        "signature": "ริ",
+        "length": 2
+      },
+      {
+        "token": "ขึ้นอยู่กับ",
+        "signature": "่้กขนบยอัึู",
+        "length": 11
+      },
+      {
+        "token": "รับผิดชอบ",
+        "signature": "ชดบผรอัิ",
+        "length": 9
+      },
+      {
+        "token": "หนาว",
+        "signature": "นวหา",
+        "length": 4
+      },
+      {
+        "token": "ซ้าย",
+        "signature": "้ซยา",
+        "length": 4
+      },
+      {
+        "token": "ติ",
+        "signature": "ติ",
+        "length": 2
+      },
+      {
+        "token": "ฤทธิ์",
+        "signature": "์ทธฤิ",
+        "length": 5
+      },
+      {
+        "token": "ศึก",
+        "signature": "กศึ",
+        "length": 3
+      }
+    ],
+    "advanced": [
+      {
+        "token": "พระบาทสมเด็จ",
+        "signature": "็จดทบพมรสะาเ",
+        "length": 12
+      },
+      {
+        "token": "ขวัญ",
+        "signature": "ขญวั",
+        "length": 4
+      },
+      {
+        "token": "จี้",
+        "signature": "้จี",
+        "length": 3
+      },
+      {
+        "token": "เจ้าชาย",
+        "signature": "้จชยาเ",
+        "length": 7
+      },
+      {
+        "token": "มณี",
+        "signature": "ณมี",
+        "length": 3
+      },
+      {
+        "token": "ผสมผสาน",
+        "signature": "นผมสา",
+        "length": 7
+      },
+      {
+        "token": "เผ่า",
+        "signature": "่ผาเ",
+        "length": 4
+      },
+      {
+        "token": "อำนวย",
+        "signature": "นยวอำ",
+        "length": 5
+      },
+      {
+        "token": "ผนัง",
+        "signature": "งนผั",
+        "length": 4
+      },
+      {
+        "token": "ประกาย",
+        "signature": "กปยระา",
+        "length": 6
+      },
+      {
+        "token": "ประทับใจ",
+        "signature": "จทบประัใ",
+        "length": 8
+      },
+      {
+        "token": "ผู้ฟัง",
+        "signature": "้งผฟัู",
+        "length": 6
+      },
+      {
+        "token": "ทุ่ม",
+        "signature": "่ทมุ",
+        "length": 4
+      },
+      {
+        "token": "สมมติ",
+        "signature": "ตมสิ",
+        "length": 5
+      },
+      {
+        "token": "พ่อค้า",
+        "signature": "่้คพอา",
+        "length": 6
+      },
+      {
+        "token": "อัล",
+        "signature": "ลอั",
+        "length": 3
+      },
+      {
+        "token": "ชรา",
+        "signature": "ชรา",
+        "length": 3
+      },
+      {
+        "token": "ยืด",
+        "signature": "ดยื",
+        "length": 3
+      },
+      {
+        "token": "ลมหายใจ",
+        "signature": "จมยลหาใ",
+        "length": 7
+      },
+      {
+        "token": "คณะกรรมาธิการ",
+        "signature": "กคณธมระาิ",
+        "length": 13
+      },
+      {
+        "token": "ชายแดน",
+        "signature": "ชดนยาแ",
+        "length": 6
+      },
+      {
+        "token": "ไซ",
+        "signature": "ซไ",
+        "length": 2
+      },
+      {
+        "token": "สนุกสนาน",
+        "signature": "กนสาุ",
+        "length": 8
+      },
+      {
+        "token": "อุณหภูมิ",
+        "signature": "ณภมหอิุู",
+        "length": 8
+      },
+      {
+        "token": "เอ่อ",
+        "signature": "่อเ",
+        "length": 4
+      },
+      {
+        "token": "กันยายน",
+        "signature": "กนยัา",
+        "length": 7
+      },
+      {
+        "token": "อ้อม",
+        "signature": "้มอ",
+        "length": 4
+      },
+      {
+        "token": "มื้อ",
+        "signature": "้มอื",
+        "length": 4
+      },
+      {
+        "token": "ดุ",
+        "signature": "ดุ",
+        "length": 2
+      },
+      {
+        "token": "ชอบธรรม",
+        "signature": "ชธบมรอ",
+        "length": 7
+      },
+      {
+        "token": "ย่าน",
+        "signature": "่นยา",
+        "length": 4
+      },
+      {
+        "token": "เก้า",
+        "signature": "้กาเ",
+        "length": 4
+      },
+      {
+        "token": "ผู้ประกอบการ",
+        "signature": "้กบปผรอะาู",
+        "length": 12
+      },
+      {
+        "token": "ภูเขา",
+        "signature": "ขภาูเ",
+        "length": 5
+      },
+      {
+        "token": "ศิริ",
+        "signature": "รศิ",
+        "length": 4
+      },
+      {
+        "token": "เนื่องมาจาก",
+        "signature": "่กงจนมอาืเ",
+        "length": 11
+      },
+      {
+        "token": "พงษ์",
+        "signature": "์งพษ",
+        "length": 4
+      },
+      {
+        "token": "พึ่ง",
+        "signature": "่งพึ",
+        "length": 4
+      },
+      {
+        "token": "อภิสิทธิ์",
+        "signature": "์ทธภสอิ",
+        "length": 9
+      },
+      {
+        "token": "จด",
+        "signature": "จด",
+        "length": 2
+      },
+      {
+        "token": "รายชื่อ",
+        "signature": "่ชยรอาื",
+        "length": 7
+      },
+      {
+        "token": "วรรณกรรม",
+        "signature": "กณมรว",
+        "length": 8
+      },
+      {
+        "token": "วัว",
+        "signature": "วั",
+        "length": 3
+      },
+      {
+        "token": "ยกย่อง",
+        "signature": "่กงยอ",
+        "length": 6
+      },
+      {
+        "token": "รัง",
+        "signature": "งรั",
+        "length": 3
+      },
+      {
+        "token": "ครู่",
+        "signature": "่ครู",
+        "length": 4
+      },
+      {
+        "token": "เลี้ยงดู",
+        "signature": "้งดยลีูเ",
+        "length": 8
+      },
+      {
+        "token": "สม่ำเสมอ",
+        "signature": "่มสอำเ",
+        "length": 8
+      },
+      {
+        "token": "กฎกระทรวง",
+        "signature": "กงฎทรวะ",
+        "length": 9
+      },
+      {
+        "token": "เรียว",
+        "signature": "ยรวีเ",
+        "length": 5
+      },
+      {
+        "token": "ทัศนคติ",
+        "signature": "คตทนศัิ",
+        "length": 7
+      },
+      {
+        "token": "บำรุง",
+        "signature": "งบรำุ",
+        "length": 5
+      },
+      {
+        "token": "ชมพู",
+        "signature": "ชพมู",
+        "length": 4
+      },
+      {
+        "token": "กระทั่ง",
+        "signature": "่กงทระั",
+        "length": 7
+      },
+      {
+        "token": "น่าเชื่อ",
+        "signature": "่ชนอาืเ",
+        "length": 8
+      },
+      {
+        "token": "รัสเซีย",
+        "signature": "ซยรสัีเ",
+        "length": 7
+      },
+      {
+        "token": "แจก",
+        "signature": "กจแ",
+        "length": 3
+      },
+      {
+        "token": "ทำบุญ",
+        "signature": "ญทบำุ",
+        "length": 5
+      },
+      {
+        "token": "ล้อม",
+        "signature": "้มลอ",
+        "length": 4
+      },
+      {
+        "token": "อนุ",
+        "signature": "นอุ",
+        "length": 3
+      },
+      {
+        "token": "เฮ",
+        "signature": "ฮเ",
+        "length": 2
+      },
+      {
+        "token": "คอลัมน์",
+        "signature": "์คนมลอั",
+        "length": 7
+      },
+      {
+        "token": "ด้วยเหตุนี้",
+        "signature": "้ดตนยวหีุเ",
+        "length": 11
+      },
+      {
+        "token": "บ่อ",
+        "signature": "่บอ",
+        "length": 3
+      },
+      {
+        "token": "ประพันธ์",
+        "signature": "์ธนปพระั",
+        "length": 8
+      },
+      {
+        "token": "ไว",
+        "signature": "วไ",
+        "length": 2
+      },
+      {
+        "token": "คัดค้าน",
+        "signature": "้คดนัา",
+        "length": 7
+      },
+      {
+        "token": "ทักษะ",
+        "signature": "กทษะั",
+        "length": 5
+      },
+      {
+        "token": "ประชา",
+        "signature": "ชประา",
+        "length": 5
+      },
+      {
+        "token": "มัว",
+        "signature": "มวั",
+        "length": 3
+      },
+      {
+        "token": "องศา",
+        "signature": "งศอา",
+        "length": 4
+      },
+      {
+        "token": "ทำตัว",
+        "signature": "ตทวัำ",
+        "length": 5
+      },
+      {
+        "token": "การ์ตูน",
+        "signature": "์กตนราู",
+        "length": 7
+      },
+      {
+        "token": "พลาด",
+        "signature": "ดพลา",
+        "length": 4
+      },
+      {
+        "token": "รวมตัว",
+        "signature": "ตมรวั",
+        "length": 6
+      },
+      {
+        "token": "สิ่งของ",
+        "signature": "่ขงสอิ",
+        "length": 7
+      },
+      {
+        "token": "รับผิด",
+        "signature": "ดบผรัิ",
+        "length": 6
+      },
+      {
+        "token": "เกรง",
+        "signature": "กงรเ",
+        "length": 4
+      },
+      {
+        "token": "บัดนี้",
+        "signature": "้ดนบัี",
+        "length": 6
+      },
+      {
+        "token": "หาง",
+        "signature": "งหา",
+        "length": 3
+      },
+      {
+        "token": "ขี่",
+        "signature": "่ขี",
+        "length": 3
+      },
+      {
+        "token": "กุศล",
+        "signature": "กลศุ",
+        "length": 4
+      },
+      {
+        "token": "เปลือก",
+        "signature": "กปลอืเ",
+        "length": 6
+      },
+      {
+        "token": "มหาดไทย",
+        "signature": "ดทมยหาไ",
+        "length": 7
+      },
+      {
+        "token": "ทารก",
+        "signature": "กทรา",
+        "length": 4
+      },
+      {
+        "token": "ต่างชาติ",
+        "signature": "่งชตาิ",
+        "length": 8
+      },
+      {
+        "token": "ในที่สุด",
+        "signature": "่ดทนสีุใ",
+        "length": 8
+      },
+      {
+        "token": "ค่าย",
+        "signature": "่คยา",
+        "length": 4
+      },
+      {
+        "token": "ขโมย",
+        "signature": "ขมยโ",
+        "length": 4
+      },
+      {
+        "token": "ร่วง",
+        "signature": "่งรว",
+        "length": 4
+      },
+      {
+        "token": "ดวงอาทิตย์",
+        "signature": "์งดตทยวอาิ",
+        "length": 10
+      },
+      {
+        "token": "กิโลเมตร",
+        "signature": "กตมรลิเโ",
+        "length": 8
+      },
+      {
+        "token": "ยุ",
+        "signature": "ยุ",
+        "length": 2
+      },
+      {
+        "token": "ห่อ",
+        "signature": "่หอ",
+        "length": 3
+      },
+      {
+        "token": "เอกลักษณ์",
+        "signature": "์กณลษอัเ",
+        "length": 9
+      },
+      {
+        "token": "แค่นี้",
+        "signature": "่้คนีแ",
+        "length": 6
+      },
+      {
+        "token": "เยือน",
+        "signature": "นยอืเ",
+        "length": 5
+      },
+      {
+        "token": "โค้ง",
+        "signature": "้คงโ",
+        "length": 4
+      },
+      {
+        "token": "สมการ",
+        "signature": "กมรสา",
+        "length": 5
+      },
+      {
+        "token": "อิ่ม",
+        "signature": "่มอิ",
+        "length": 4
+      },
+      {
+        "token": "ริมฝีปาก",
+        "signature": "กปฝมราิี",
+        "length": 8
+      },
+      {
+        "token": "ขบวน",
+        "signature": "ขนบว",
+        "length": 4
+      },
+      {
+        "token": "บันเทิง",
+        "signature": "งทนบัิเ",
+        "length": 7
+      },
+      {
+        "token": "สะ",
+        "signature": "สะ",
+        "length": 2
+      },
+      {
+        "token": "เว็บ",
+        "signature": "็บวเ",
+        "length": 4
+      },
+      {
+        "token": "นิติบัญญัติ",
+        "signature": "ญตนบัิ",
+        "length": 11
+      },
+      {
+        "token": "สภาผู้แทนราษฎร",
+        "signature": "้ฎทนผภรษสาูแ",
+        "length": 14
+      },
+      {
+        "token": "ของเสีย",
+        "signature": "ขงยสอีเ",
+        "length": 7
+      },
+      {
+        "token": "ต่างด้าว",
+        "signature": "่้งดตวา",
+        "length": 8
+      },
+      {
+        "token": "ผู้บังคับบัญชา",
+        "signature": "้คงชญบผัาู",
+        "length": 14
+      },
+      {
+        "token": "แกน",
+        "signature": "กนแ",
+        "length": 3
+      },
+      {
+        "token": "ทุ่ง",
+        "signature": "่งทุ",
+        "length": 4
+      },
+      {
+        "token": "สถานะ",
+        "signature": "ถนสะา",
+        "length": 5
+      },
+      {
+        "token": "ต้องหา",
+        "signature": "้งตหอา",
+        "length": 6
+      },
+      {
+        "token": "ที่พัก",
+        "signature": "่กทพัี",
+        "length": 6
+      },
+      {
+        "token": "ผู้แต่ง",
+        "signature": "่้งตผูแ",
+        "length": 7
+      },
+      {
+        "token": "ผู้เชี่ยวชาญ",
+        "signature": "่้ชญผยวาีูเ",
+        "length": 12
+      },
+      {
+        "token": "เสน่ห์",
+        "signature": "่์นสหเ",
+        "length": 6
+      },
+      {
+        "token": "ตัวเรา",
+        "signature": "ตรวัาเ",
+        "length": 6
+      },
+      {
+        "token": "ประมาท",
+        "signature": "ทปมระา",
+        "length": 6
+      },
+      {
+        "token": "สภาพแวดล้อม",
+        "signature": "้ดพภมลวสอาแ",
+        "length": 11
+      },
+      {
+        "token": "รบกวน",
+        "signature": "กนบรว",
+        "length": 5
+      },
+      {
+        "token": "อักเสบ",
+        "signature": "กบสอัเ",
+        "length": 6
+      },
+      {
+        "token": "ซอง",
+        "signature": "งซอ",
+        "length": 3
+      },
+      {
+        "token": "ครั้น",
+        "signature": "้คนรั",
+        "length": 5
+      },
+      {
+        "token": "แบรนด์",
+        "signature": "์ดนบรแ",
+        "length": 6
+      },
+      {
+        "token": "พฤศจิกายน",
+        "signature": "กจนพยฤศาิ",
+        "length": 9
+      },
+      {
+        "token": "ร้องเพลง",
+        "signature": "้งพรลอเ",
+        "length": 8
+      },
+      {
+        "token": "ธี",
+        "signature": "ธี",
+        "length": 2
+      },
+      {
+        "token": "สอบถาม",
+        "signature": "ถบมสอา",
+        "length": 6
+      },
+      {
+        "token": "ยกมือ",
+        "signature": "กมยอื",
+        "length": 5
+      },
+      {
+        "token": "แหลม",
+        "signature": "มลหแ",
+        "length": 4
+      },
+      {
+        "token": "แคบ",
+        "signature": "คบแ",
+        "length": 3
+      },
+      {
+        "token": "สีสัน",
+        "signature": "นสัี",
+        "length": 5
+      },
+      {
+        "token": "เป้า",
+        "signature": "้ปาเ",
+        "length": 4
+      },
+      {
+        "token": "ในขณะเดียวกัน",
+        "signature": "กขณดนยวะัีเใ",
+        "length": 13
+      },
+      {
+        "token": "คนรัก",
+        "signature": "กคนรั",
+        "length": 5
+      },
+      {
+        "token": "ลั่น",
+        "signature": "่นลั",
+        "length": 4
+      },
+      {
+        "token": "ก่อนหน้านี้",
+        "signature": "่้กนหอาี",
+        "length": 11
+      },
+      {
+        "token": "มี่",
+        "signature": "่มี",
+        "length": 3
+      },
+      {
+        "token": "จ๊ะ",
+        "signature": "๊จะ",
+        "length": 3
+      },
+      {
+        "token": "แป้ง",
+        "signature": "้งปแ",
+        "length": 4
+      },
+      {
+        "token": "ศึกษาธิการ",
+        "signature": "กธรศษาิึ",
+        "length": 10
+      },
+      {
+        "token": "เวียน",
+        "signature": "นยวีเ",
+        "length": 5
+      },
+      {
+        "token": "จำแนก",
+        "signature": "กจนำแ",
+        "length": 5
+      },
+      {
+        "token": "โปร",
+        "signature": "ปรโ",
+        "length": 3
+      },
+      {
+        "token": "คิว",
+        "signature": "ควิ",
+        "length": 3
+      },
+      {
+        "token": "ฉลอง",
+        "signature": "งฉลอ",
+        "length": 4
+      },
+      {
+        "token": "เลว",
+        "signature": "ลวเ",
+        "length": 3
+      },
+      {
+        "token": "หนทาง",
+        "signature": "งทนหา",
+        "length": 5
+      },
+      {
+        "token": "ปน",
+        "signature": "นป",
+        "length": 2
+      },
+      {
+        "token": "ซ่อม",
+        "signature": "่ซมอ",
+        "length": 4
+      },
+      {
+        "token": "ทัศนะ",
+        "signature": "ทนศะั",
+        "length": 5
+      },
+      {
+        "token": "เลิศ",
+        "signature": "ลศิเ",
+        "length": 4
+      },
+      {
+        "token": "แบบจำลอง",
+        "signature": "งจบลอำแ",
+        "length": 8
+      },
+      {
+        "token": "สน",
+        "signature": "นส",
+        "length": 2
+      },
+      {
+        "token": "ตัวผู้",
+        "signature": "้ตผวัู",
+        "length": 6
+      },
+      {
+        "token": "ญา",
+        "signature": "ญา",
+        "length": 2
+      },
+      {
+        "token": "วงจร",
+        "signature": "งจรว",
+        "length": 4
+      },
+      {
+        "token": "ร้องขอ",
+        "signature": "้ขงรอ",
+        "length": 6
+      },
+      {
+        "token": "กระบอก",
+        "signature": "กบรอะ",
+        "length": 6
+      },
+      {
+        "token": "ทรมาน",
+        "signature": "ทนมรา",
+        "length": 5
+      },
+      {
+        "token": "เผลอ",
+        "signature": "ผลอเ",
+        "length": 4
+      },
+      {
+        "token": "สุโขทัย",
+        "signature": "ขทยสัุโ",
+        "length": 7
+      },
+      {
+        "token": "กฎเกณฑ์",
+        "signature": "์กฎฑณเ",
+        "length": 7
+      },
+      {
+        "token": "มุสลิม",
+        "signature": "มลสิุ",
+        "length": 6
+      },
+      {
+        "token": "ละเมิด",
+        "signature": "ดมละิเ",
+        "length": 6
+      },
+      {
+        "token": "เปน",
+        "signature": "นปเ",
+        "length": 3
+      },
+      {
+        "token": "สมัยก่อน",
+        "signature": "่กนมยสอั",
+        "length": 8
+      },
+      {
+        "token": "ตบ",
+        "signature": "ตบ",
+        "length": 2
+      },
+      {
+        "token": "น่ากลัว",
+        "signature": "่กนลวัา",
+        "length": 7
+      },
+      {
+        "token": "ต่อเมื่อ",
+        "signature": "่ตมอืเ",
+        "length": 8
+      },
+      {
+        "token": "มิถุนายน",
+        "signature": "ถนมยาิุ",
+        "length": 8
+      },
+      {
+        "token": "ลัก",
+        "signature": "กลั",
+        "length": 3
+      },
+      {
+        "token": "อร",
+        "signature": "รอ",
+        "length": 2
+      },
+      {
+        "token": "ตีพิมพ์",
+        "signature": "์ตพมิี",
+        "length": 7
+      },
+      {
+        "token": "ทะ",
+        "signature": "ทะ",
+        "length": 2
+      },
+      {
+        "token": "วร",
+        "signature": "รว",
+        "length": 2
+      },
+      {
+        "token": "คุณวุฒิ",
+        "signature": "คฒณวิุ",
+        "length": 7
+      },
+      {
+        "token": "ธานี",
+        "signature": "ธนาี",
+        "length": 4
+      },
+      {
+        "token": "ประชาสัมพันธ์",
+        "signature": "์ชธนปพมรสะัา",
+        "length": 13
+      },
+      {
+        "token": "วุฒิ",
+        "signature": "ฒวิุ",
+        "length": 4
+      },
+      {
+        "token": "ประทับ",
+        "signature": "ทบประั",
+        "length": 6
+      },
+      {
+        "token": "เอฟ",
+        "signature": "ฟอเ",
+        "length": 3
+      },
+      {
+        "token": "โผล่",
+        "signature": "่ผลโ",
+        "length": 4
+      },
+      {
+        "token": "ใส่ใจ",
+        "signature": "่จสใ",
+        "length": 5
+      },
+      {
+        "token": "วิถี",
+        "signature": "ถวิี",
+        "length": 4
+      },
+      {
+        "token": "ไข้",
+        "signature": "้ขไ",
+        "length": 3
+      },
+      {
+        "token": "ถอย",
+        "signature": "ถยอ",
+        "length": 3
+      },
+      {
+        "token": "น้องชาย",
+        "signature": "้งชนยอา",
+        "length": 7
+      },
+      {
+        "token": "ประสานงาน",
+        "signature": "งนปรสะา",
+        "length": 9
+      },
+      {
+        "token": "ทว่า",
+        "signature": "่ทวา",
+        "length": 4
+      },
+      {
+        "token": "รสชาติ",
+        "signature": "ชตรสาิ",
+        "length": 6
+      },
+      {
+        "token": "ขุด",
+        "signature": "ขดุ",
+        "length": 3
+      },
+      {
+        "token": "คอน",
+        "signature": "คนอ",
+        "length": 3
+      },
+      {
+        "token": "ถาวร",
+        "signature": "ถรวา",
+        "length": 4
+      },
+      {
+        "token": "วันหยุด",
+        "signature": "ดนยวหัุ",
+        "length": 7
+      },
+      {
+        "token": "ปลอม",
+        "signature": "ปมลอ",
+        "length": 4
+      },
+      {
+        "token": "อ่อนโยน",
+        "signature": "่นยอโ",
+        "length": 7
+      },
+      {
+        "token": "อุ",
+        "signature": "อุ",
+        "length": 2
+      },
+      {
+        "token": "ประดิษฐ์",
+        "signature": "์ฐดปรษะิ",
+        "length": 8
+      },
+      {
+        "token": "ทั้งปวง",
+        "signature": "้งทปวั",
+        "length": 7
+      },
+      {
+        "token": "คาดหวัง",
+        "signature": "คงดวหัา",
+        "length": 7
+      },
+      {
+        "token": "วรรณ",
+        "signature": "ณรว",
+        "length": 4
+      },
+      {
+        "token": "ถนัด",
+        "signature": "ดถนั",
+        "length": 4
+      },
+      {
+        "token": "อาร์",
+        "signature": "์รอา",
+        "length": 4
+      },
+      {
+        "token": "คุณปู่",
+        "signature": "่คณปุู",
+        "length": 6
+      },
+      {
+        "token": "ด้อย",
+        "signature": "้ดยอ",
+        "length": 4
+      },
+      {
+        "token": "ยั่งยืน",
+        "signature": "่งนยัื",
+        "length": 7
+      },
+      {
+        "token": "สารเคมี",
+        "signature": "คมรสาีเ",
+        "length": 7
+      },
+      {
+        "token": "สมดุล",
+        "signature": "ดมลสุ",
+        "length": 5
+      },
+      {
+        "token": "ซี่",
+        "signature": "่ซี",
+        "length": 3
+      },
+      {
+        "token": "ตัวอักษร",
+        "signature": "กตรวษอั",
+        "length": 8
+      },
+      {
+        "token": "มรดก",
+        "signature": "กดมร",
+        "length": 4
+      },
+      {
+        "token": "สามสิบ",
+        "signature": "บมสาิ",
+        "length": 6
+      },
+      {
+        "token": "อย่างไรก็ดี",
+        "signature": "็่กงดยรอาีไ",
+        "length": 11
+      },
+      {
+        "token": "หมั้น",
+        "signature": "้นมหั",
+        "length": 5
+      },
+      {
+        "token": "เฉลิม",
+        "signature": "ฉมลิเ",
+        "length": 5
+      },
+      {
+        "token": "หลุม",
+        "signature": "มลหุ",
+        "length": 4
+      },
+      {
+        "token": "แผนก",
+        "signature": "กนผแ",
+        "length": 4
+      },
+      {
+        "token": "ก้อง",
+        "signature": "้กงอ",
+        "length": 4
+      },
+      {
+        "token": "แย่ง",
+        "signature": "่งยแ",
+        "length": 4
+      },
+      {
+        "token": "แต่ก่อน",
+        "signature": "่กตนอแ",
+        "length": 7
+      },
+      {
+        "token": "ราชา",
+        "signature": "ชรา",
+        "length": 4
+      },
+      {
+        "token": "แบบแผน",
+        "signature": "นบผแ",
+        "length": 6
+      },
+      {
+        "token": "รวย",
+        "signature": "ยรว",
+        "length": 3
+      },
+      {
+        "token": "จอ",
+        "signature": "จอ",
+        "length": 2
+      },
+      {
+        "token": "คลาย",
+        "signature": "คยลา",
+        "length": 4
+      },
+      {
+        "token": "ทะเลาะ",
+        "signature": "ทละาเ",
+        "length": 6
+      },
+      {
+        "token": "ทีวี",
+        "signature": "ทวี",
+        "length": 4
+      },
+      {
+        "token": "กวน",
+        "signature": "กนว",
+        "length": 3
+      },
+      {
+        "token": "ลิน",
+        "signature": "นลิ",
+        "length": 3
+      },
+      {
+        "token": "เอียง",
+        "signature": "งยอีเ",
+        "length": 5
+      },
+      {
+        "token": "ดีแล้ว",
+        "signature": "้ดลวีแ",
+        "length": 6
+      },
+      {
+        "token": "มหาชน",
+        "signature": "ชนมหา",
+        "length": 5
+      },
+      {
+        "token": "ฮา",
+        "signature": "ฮา",
+        "length": 2
+      },
+      {
+        "token": "แก่น",
+        "signature": "่กนแ",
+        "length": 4
+      },
+      {
+        "token": "ค้นคว้า",
+        "signature": "้คนวา",
+        "length": 7
+      },
+      {
+        "token": "ผู้สมัคร",
+        "signature": "้คผมรสัู",
+        "length": 8
+      },
+      {
+        "token": "กุญแจ",
+        "signature": "กจญุแ",
+        "length": 5
+      },
+      {
+        "token": "ราชวงศ์",
+        "signature": "์งชรวศา",
+        "length": 7
+      },
+      {
+        "token": "แอล",
+        "signature": "ลอแ",
+        "length": 3
+      },
+      {
+        "token": "ระยะทาง",
+        "signature": "งทยระา",
+        "length": 7
+      },
+      {
+        "token": "วิถีชีวิต",
+        "signature": "ชตถวิี",
+        "length": 9
+      },
+      {
+        "token": "ก่อนหน้า",
+        "signature": "่้กนหอา",
+        "length": 8
+      },
+      {
+        "token": "มาเลเซีย",
+        "signature": "ซมยลาีเ",
+        "length": 8
+      },
+      {
+        "token": "เอ็ด",
+        "signature": "็ดอเ",
+        "length": 4
+      },
+      {
+        "token": "เดี่ยว",
+        "signature": "่ดยวีเ",
+        "length": 6
+      },
+      {
+        "token": "เป็นต้นมา",
+        "signature": "็้ตนปมาเ",
+        "length": 9
+      },
+      {
+        "token": "อนุสัญญา",
+        "signature": "ญนสอัาุ",
+        "length": 8
+      },
+      {
+        "token": "อาชญากรรม",
+        "signature": "กชญมรอา",
+        "length": 9
+      },
+      {
+        "token": "ดำเนินคดี",
+        "signature": "คดนำิีเ",
+        "length": 9
+      },
+      {
+        "token": "เมา",
+        "signature": "มาเ",
+        "length": 3
+      },
+      {
+        "token": "เฮ้ย",
+        "signature": "้ยฮเ",
+        "length": 4
+      },
+      {
+        "token": "โง่",
+        "signature": "่งโ",
+        "length": 3
+      },
+      {
+        "token": "จักร",
+        "signature": "กจรั",
+        "length": 4
+      },
+      {
+        "token": "ภูมิใจ",
+        "signature": "จภมิูใ",
+        "length": 6
+      },
+      {
+        "token": "คู่สมรส",
+        "signature": "่คมรสู",
+        "length": 7
+      },
+      {
+        "token": "ไต",
+        "signature": "ตไ",
+        "length": 2
+      },
+      {
+        "token": "ทักทาย",
+        "signature": "กทยัา",
+        "length": 6
+      },
+      {
+        "token": "เงย",
+        "signature": "งยเ",
+        "length": 3
+      },
+      {
+        "token": "โน่น",
+        "signature": "่นโ",
+        "length": 4
+      },
+      {
+        "token": "เพื่อนบ้าน",
+        "signature": "่้นบพอาืเ",
+        "length": 10
+      },
+      {
+        "token": "ควาย",
+        "signature": "คยวา",
+        "length": 4
+      },
+      {
+        "token": "ทางออก",
+        "signature": "กงทอา",
+        "length": 6
+      },
+      {
+        "token": "จม",
+        "signature": "จม",
+        "length": 2
+      },
+      {
+        "token": "กลาย",
+        "signature": "กยลา",
+        "length": 4
+      },
+      {
+        "token": "เวช",
+        "signature": "ชวเ",
+        "length": 3
+      },
+      {
+        "token": "เด",
+        "signature": "ดเ",
+        "length": 2
+      },
+      {
+        "token": "สไตล์",
+        "signature": "์ตลสไ",
+        "length": 5
+      },
+      {
+        "token": "ประกวด",
+        "signature": "กดปรวะ",
+        "length": 6
+      },
+      {
+        "token": "ผิดหวัง",
+        "signature": "งดผวหัิ",
+        "length": 7
+      },
+      {
+        "token": "แกะ",
+        "signature": "กะแ",
+        "length": 3
+      },
+      {
+        "token": "นิดหน่อย",
+        "signature": "่ดนยหอิ",
+        "length": 8
+      },
+      {
+        "token": "เอ็ง",
+        "signature": "็งอเ",
+        "length": 4
+      },
+      {
+        "token": "สำเนา",
+        "signature": "นสาำเ",
+        "length": 5
+      },
+      {
+        "token": "อ้อ",
+        "signature": "้อ",
+        "length": 3
+      },
+      {
+        "token": "นี่เอง",
+        "signature": "่งนอีเ",
+        "length": 6
+      },
+      {
+        "token": "ทุจริต",
+        "signature": "จตทริุ",
+        "length": 6
+      },
+      {
+        "token": "สิงหาคม",
+        "signature": "คงมสหาิ",
+        "length": 7
+      },
+      {
+        "token": "ถ่ายรูป",
+        "signature": "่ถปยราู",
+        "length": 7
+      },
+      {
+        "token": "นานา",
+        "signature": "นา",
+        "length": 4
+      },
+      {
+        "token": "คัด",
+        "signature": "คดั",
+        "length": 3
+      },
+      {
+        "token": "เหมา",
+        "signature": "มหาเ",
+        "length": 4
+      },
+      {
+        "token": "อนามัย",
+        "signature": "นมยอัา",
+        "length": 6
+      },
+      {
+        "token": "ปรา",
+        "signature": "ปรา",
+        "length": 3
+      },
+      {
+        "token": "เงินได้",
+        "signature": "้งดนิเไ",
+        "length": 7
+      },
+      {
+        "token": "หลังคา",
+        "signature": "คงลหัา",
+        "length": 6
+      },
+      {
+        "token": "โมฆะ",
+        "signature": "ฆมะโ",
+        "length": 4
+      },
+      {
+        "token": "รำ",
+        "signature": "รำ",
+        "length": 2
+      },
+      {
+        "token": "สิงห์",
+        "signature": "์งสหิ",
+        "length": 5
+      },
+      {
+        "token": "ขำ",
+        "signature": "ขำ",
+        "length": 2
+      },
+      {
+        "token": "จักรยาน",
+        "signature": "กจนยรัา",
+        "length": 7
+      },
+      {
+        "token": "ไผ่",
+        "signature": "่ผไ",
+        "length": 3
+      },
+      {
+        "token": "โยน",
+        "signature": "นยโ",
+        "length": 3
+      },
+      {
+        "token": "ชำนาญ",
+        "signature": "ชญนาำ",
+        "length": 5
+      },
+      {
+        "token": "ท้องฟ้า",
+        "signature": "้งทฟอา",
+        "length": 7
+      },
+      {
+        "token": "ผู้ต้องหา",
+        "signature": "้งตผหอาู",
+        "length": 9
+      },
+      {
+        "token": "โก้",
+        "signature": "้กโ",
+        "length": 3
+      },
+      {
+        "token": "ดังเช่น",
+        "signature": "่งชดนัเ",
+        "length": 7
+      },
+      {
+        "token": "ต่อว่า",
+        "signature": "่ตวอา",
+        "length": 6
+      },
+      {
+        "token": "เกษตรกรรม",
+        "signature": "กตมรษเ",
+        "length": 9
+      },
+      {
+        "token": "หอ",
+        "signature": "หอ",
+        "length": 2
+      },
+      {
+        "token": "ย่อ",
+        "signature": "่ยอ",
+        "length": 3
+      },
+      {
+        "token": "ชิด",
+        "signature": "ชดิ",
+        "length": 3
+      },
+      {
+        "token": "ดูด",
+        "signature": "ดู",
+        "length": 3
+      },
+      {
+        "token": "ขาดแคลน",
+        "signature": "ขคดนลาแ",
+        "length": 7
+      },
+      {
+        "token": "โชค",
+        "signature": "คชโ",
+        "length": 3
+      },
+      {
+        "token": "ค่าเช่า",
+        "signature": "่คชาเ",
+        "length": 7
+      },
+      {
+        "token": "ทอ",
+        "signature": "ทอ",
+        "length": 2
+      },
+      {
+        "token": "ออม",
+        "signature": "มอ",
+        "length": 3
+      },
+      {
+        "token": "ซึม",
+        "signature": "ซมึ",
+        "length": 3
+      },
+      {
+        "token": "ทูต",
+        "signature": "ตทู",
+        "length": 3
+      },
+      {
+        "token": "แทรก",
+        "signature": "กทรแ",
+        "length": 4
+      },
+      {
+        "token": "เวียดนาม",
+        "signature": "ดนมยวาีเ",
+        "length": 8
+      },
+      {
+        "token": "อีสาน",
+        "signature": "นสอาี",
+        "length": 5
+      },
+      {
+        "token": "ความเร็ว",
+        "signature": "็คมรวาเ",
+        "length": 8
+      },
+      {
+        "token": "ล้มเหลว",
+        "signature": "้มลวหเ",
+        "length": 7
+      },
+      {
+        "token": "สักหน่อย",
+        "signature": "่กนยสหอั",
+        "length": 8
+      },
+      {
+        "token": "เทศบาล",
+        "signature": "ทบลศาเ",
+        "length": 6
+      },
+      {
+        "token": "บูชา",
+        "signature": "ชบาู",
+        "length": 4
+      },
+      {
+        "token": "ถึงแม้ว่า",
+        "signature": "่้งถมวาึแ",
+        "length": 9
+      },
+      {
+        "token": "พระเอก",
+        "signature": "กพรอะเ",
+        "length": 6
+      },
+      {
+        "token": "ลิง",
+        "signature": "งลิ",
+        "length": 3
+      },
+      {
+        "token": "คุณหญิง",
+        "signature": "คงญณหิุ",
+        "length": 7
+      },
+      {
+        "token": "ทองคำ",
+        "signature": "คงทอำ",
+        "length": 5
+      },
+      {
+        "token": "สนามบิน",
+        "signature": "นบมสาิ",
+        "length": 7
+      },
+      {
+        "token": "เข็ม",
+        "signature": "็ขมเ",
+        "length": 4
+      },
+      {
+        "token": "ทุกที",
+        "signature": "กทีุ",
+        "length": 5
+      },
+      {
+        "token": "ฟุตบอล",
+        "signature": "ตบฟลอุ",
+        "length": 6
+      },
+      {
+        "token": "รับทราบ",
+        "signature": "ทบรัา",
+        "length": 7
+      },
+      {
+        "token": "สามัญ",
+        "signature": "ญมสัา",
+        "length": 5
+      },
+      {
+        "token": "ข้างใน",
+        "signature": "้ขงนาใ",
+        "length": 6
+      },
+      {
+        "token": "โล่ง",
+        "signature": "่งลโ",
+        "length": 4
+      },
+      {
+        "token": "พะเยา",
+        "signature": "พยะาเ",
+        "length": 5
+      },
+      {
+        "token": "แกม",
+        "signature": "กมแ",
+        "length": 3
+      },
+      {
+        "token": "จาง",
+        "signature": "งจา",
+        "length": 3
+      },
+      {
+        "token": "โน้น",
+        "signature": "้นโ",
+        "length": 4
+      },
+      {
+        "token": "ภาคเหนือ",
+        "signature": "คนภหอาืเ",
+        "length": 8
+      },
+      {
+        "token": "แม้กระทั่ง",
+        "signature": "่้กงทมระัแ",
+        "length": 10
+      },
+      {
+        "token": "ขัง",
+        "signature": "ขงั",
+        "length": 3
+      },
+      {
+        "token": "ยุติ",
+        "signature": "ตยิุ",
+        "length": 4
+      },
+      {
+        "token": "แฝง",
+        "signature": "งฝแ",
+        "length": 3
+      },
+      {
+        "token": "เคลื่อนที่",
+        "signature": "่คทนลอีืเ",
+        "length": 10
+      },
+      {
+        "token": "นวด",
+        "signature": "ดนว",
+        "length": 3
+      },
+      {
+        "token": "เอาแต่",
+        "signature": "่ตอาเแ",
+        "length": 6
+      },
+      {
+        "token": "ข้างนอก",
+        "signature": "้กขงนอา",
+        "length": 7
+      },
+      {
+        "token": "ฉุกเฉิน",
+        "signature": "กฉนิุเ",
+        "length": 7
+      },
+      {
+        "token": "บีบ",
+        "signature": "บี",
+        "length": 3
+      },
+      {
+        "token": "ศักดิ์สิทธิ์",
+        "signature": "์กดทธศสัิ",
+        "length": 12
+      },
+      {
+        "token": "สงค์",
+        "signature": "์คงส",
+        "length": 4
+      },
+      {
+        "token": "ข้อสรุป",
+        "signature": "้ขปรสอุ",
+        "length": 7
+      },
+      {
+        "token": "บุก",
+        "signature": "กบุ",
+        "length": 3
+      },
+      {
+        "token": "ด่วน",
+        "signature": "่ดนว",
+        "length": 4
+      },
+      {
+        "token": "ปรุง",
+        "signature": "งปรุ",
+        "length": 4
+      },
+      {
+        "token": "ค้น",
+        "signature": "้คน",
+        "length": 3
+      },
+      {
+        "token": "นักร้อง",
+        "signature": "้กงนรอั",
+        "length": 7
+      },
+      {
+        "token": "อ่อนแอ",
+        "signature": "่นอแ",
+        "length": 6
+      },
+      {
+        "token": "ควัน",
+        "signature": "คนวั",
+        "length": 4
+      },
+      {
+        "token": "ฉีด",
+        "signature": "ฉดี",
+        "length": 3
+      },
+      {
+        "token": "รูปทรง",
+        "signature": "งทปรู",
+        "length": 6
+      },
+      {
+        "token": "หงุดหงิด",
+        "signature": "งดหิุ",
+        "length": 8
+      },
+      {
+        "token": "ทัก",
+        "signature": "กทั",
+        "length": 3
+      },
+      {
+        "token": "นุ่ม",
+        "signature": "่นมุ",
+        "length": 4
+      },
+      {
+        "token": "สาน",
+        "signature": "นสา",
+        "length": 3
+      },
+      {
+        "token": "ท่อน",
+        "signature": "่ทนอ",
+        "length": 4
+      },
+      {
+        "token": "บาร์",
+        "signature": "์บรา",
+        "length": 4
+      },
+      {
+        "token": "เกอร์",
+        "signature": "์กรอเ",
+        "length": 5
+      },
+      {
+        "token": "ขีด",
+        "signature": "ขดี",
+        "length": 3
+      },
+      {
+        "token": "วน",
+        "signature": "นว",
+        "length": 2
+      },
+      {
+        "token": "ผู้ตาย",
+        "signature": "้ตผยาู",
+        "length": 6
+      },
+      {
+        "token": "ส่วนรวม",
+        "signature": "่นมรวส",
+        "length": 7
+      },
+      {
+        "token": "ประกันภัย",
+        "signature": "กนปภยระั",
+        "length": 9
+      },
+      {
+        "token": "ทวีป",
+        "signature": "ทปวี",
+        "length": 4
+      },
+      {
+        "token": "สุร",
+        "signature": "รสุ",
+        "length": 3
+      },
+      {
+        "token": "ถึงขนาด",
+        "signature": "ขงดถนาึ",
+        "length": 7
+      },
+      {
+        "token": "เกี่ยว",
+        "signature": "่กยวีเ",
+        "length": 6
+      },
+      {
+        "token": "ตรัส",
+        "signature": "ตรสั",
+        "length": 4
+      },
+      {
+        "token": "แพร่หลาย",
+        "signature": "่พยรลหาแ",
+        "length": 8
+      },
+      {
+        "token": "สวด",
+        "signature": "ดวส",
+        "length": 3
+      },
+      {
+        "token": "นานาชาติ",
+        "signature": "ชตนาิ",
+        "length": 8
+      },
+      {
+        "token": "ผู้ชม",
+        "signature": "้ชผมู",
+        "length": 5
+      },
+      {
+        "token": "ก็แล้วกัน",
+        "signature": "็้กนลวัแ",
+        "length": 9
+      },
+      {
+        "token": "ขวาง",
+        "signature": "ขงวา",
+        "length": 4
+      },
+      {
+        "token": "ตุ๊กตา",
+        "signature": "๊กตาุ",
+        "length": 6
+      },
+      {
+        "token": "วาน",
+        "signature": "นวา",
+        "length": 3
+      },
+      {
+        "token": "ผัด",
+        "signature": "ดผั",
+        "length": 3
+      },
+      {
+        "token": "สิริ",
+        "signature": "รสิ",
+        "length": 4
+      },
+      {
+        "token": "สืบสวน",
+        "signature": "นบวสื",
+        "length": 6
+      },
+      {
+        "token": "เจ้าพนักงาน",
+        "signature": "้กงจนพัาเ",
+        "length": 11
+      },
+      {
+        "token": "เชื่อถือ",
+        "signature": "่ชถอืเ",
+        "length": 8
+      },
+      {
+        "token": "มั้ง",
+        "signature": "้งมั",
+        "length": 4
+      },
+      {
+        "token": "มูล",
+        "signature": "มลู",
+        "length": 3
+      },
+      {
+        "token": "เสาร์",
+        "signature": "์รสาเ",
+        "length": 5
+      },
+      {
+        "token": "ความถี่",
+        "signature": "่คถมวาี",
+        "length": 7
+      },
+      {
+        "token": "รับใช้",
+        "signature": "้ชบรัใ",
+        "length": 6
+      },
+      {
+        "token": "สุจริต",
+        "signature": "จตรสิุ",
+        "length": 6
+      },
+      {
+        "token": "หลอดเลือด",
+        "signature": "ดลหอืเ",
+        "length": 9
+      },
+      {
+        "token": "วงเงิน",
+        "signature": "งนวิเ",
+        "length": 6
+      },
+      {
+        "token": "เว้น",
+        "signature": "้นวเ",
+        "length": 4
+      },
+      {
+        "token": "ครบถ้วน",
+        "signature": "้คถนบรว",
+        "length": 7
+      }
+    ]
+  }
+}

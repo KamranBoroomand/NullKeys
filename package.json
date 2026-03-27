@@ -1,0 +1,75 @@
+{
+  "name": "nullkeys",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first typing trainer with adaptive practice, multilingual content, and on-device progress analytics.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamranBoroomand/NullKeys"
+  },
+  "bugs": {
+    "url": "https://github.com/KamranBoroomand/NullKeys/issues"
+  },
+  "homepage": "https://nullkeys.kamranboroomand.ir",
+  "keywords": [
+    "typing",
+    "local-first",
+    "privacy",
+    "education",
+    "nextjs"
+  ],
+  "engines": {
+    "node": ">=20",
+    "npm": ">=10"
+  },
+  "scripts": {
+    "dev": "node scripts/run-dev.mjs",
+    "build": "npm run content:packs && next build",
+    "start": "node scripts/run-start.mjs",
+    "build:cloudflare": "opennextjs-cloudflare build",
+    "preview": "npm run build:cloudflare && opennextjs-cloudflare preview",
+    "deploy": "npm run build:cloudflare && opennextjs-cloudflare deploy",
+    "cf:typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "lint": "eslint . --ext .js,.jsx,.mjs,.ts,.tsx --max-warnings=0",
+    "test": "npm run test:e2e && npm run test:unit",
+    "test:all": "npm run test",
+    "test:unit": "npm run content:packs && vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "npm run content:packs && playwright test",
+    "check": "npm run content:packs && npm run lint && rm -f tsconfig.tsbuildinfo && next typegen && tsc --noEmit --incremental false && npm run test:unit",
+    "content:seed": "node scripts/build-seed-content.mjs",
+    "content:packs": "node scripts/build-content-packs.mjs",
+    "handoff:package": "node scripts/create-handoff.mjs"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "idb": "^8.0.2",
+    "lucide-react": "^0.542.0",
+    "next": "^15.5.14",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.7.4",
+    "@playwright/test": "^1.55.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.5.14",
+    "fake-indexeddb": "^6.0.1",
+    "jsdom": "^26.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.8",
+    "wrangler": "^4.44.0"
+  }
+}

@@ -1,0 +1,3626 @@
+{
+  "packId": "dutch:common-words:core",
+  "languageId": "dutch",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-03-17-public-corpus-v3",
+  "entryCount": 722,
+  "stages": {
+    "foundational": [
+      {
+        "token": "je",
+        "signature": "ej",
+        "length": 2
+      },
+      {
+        "token": "de",
+        "signature": "de",
+        "length": 2
+      },
+      {
+        "token": "is",
+        "signature": "is",
+        "length": 2
+      },
+      {
+        "token": "het",
+        "signature": "eht",
+        "length": 3
+      },
+      {
+        "token": "ik",
+        "signature": "ik",
+        "length": 2
+      },
+      {
+        "token": "dat",
+        "signature": "adt",
+        "length": 3
+      },
+      {
+        "token": "niet",
+        "signature": "eint",
+        "length": 4
+      },
+      {
+        "token": "een",
+        "signature": "en",
+        "length": 3
+      },
+      {
+        "token": "van",
+        "signature": "anv",
+        "length": 3
+      },
+      {
+        "token": "en",
+        "signature": "en",
+        "length": 2
+      },
+      {
+        "token": "in",
+        "signature": "in",
+        "length": 2
+      },
+      {
+        "token": "te",
+        "signature": "et",
+        "length": 2
+      },
+      {
+        "token": "zijn",
+        "signature": "ijnz",
+        "length": 4
+      },
+      {
+        "token": "me",
+        "signature": "em",
+        "length": 2
+      },
+      {
+        "token": "voor",
+        "signature": "orv",
+        "length": 4
+      },
+      {
+        "token": "er",
+        "signature": "er",
+        "length": 2
+      },
+      {
+        "token": "die",
+        "signature": "dei",
+        "length": 3
+      },
+      {
+        "token": "heb",
+        "signature": "beh",
+        "length": 3
+      },
+      {
+        "token": "ze",
+        "signature": "ez",
+        "length": 2
+      },
+      {
+        "token": "maar",
+        "signature": "amr",
+        "length": 4
+      },
+      {
+        "token": "was",
+        "signature": "asw",
+        "length": 3
+      },
+      {
+        "token": "wat",
+        "signature": "atw",
+        "length": 3
+      },
+      {
+        "token": "hij",
+        "signature": "hij",
+        "length": 3
+      },
+      {
+        "token": "om",
+        "signature": "mo",
+        "length": 2
+      },
+      {
+        "token": "aan",
+        "signature": "an",
+        "length": 3
+      },
+      {
+        "token": "naar",
+        "signature": "anr",
+        "length": 4
+      },
+      {
+        "token": "als",
+        "signature": "als",
+        "length": 3
+      },
+      {
+        "token": "mijn",
+        "signature": "ijmn",
+        "length": 4
+      },
+      {
+        "token": "hier",
+        "signature": "ehir",
+        "length": 4
+      },
+      {
+        "token": "hem",
+        "signature": "ehm",
+        "length": 3
+      },
+      {
+        "token": "kan",
+        "signature": "akn",
+        "length": 3
+      },
+      {
+        "token": "nog",
+        "signature": "gno",
+        "length": 3
+      },
+      {
+        "token": "wel",
+        "signature": "elw",
+        "length": 3
+      },
+      {
+        "token": "hebben",
+        "signature": "behn",
+        "length": 6
+      },
+      {
+        "token": "moet",
+        "signature": "emot",
+        "length": 4
+      },
+      {
+        "token": "weet",
+        "signature": "etw",
+        "length": 4
+      },
+      {
+        "token": "heeft",
+        "signature": "efht",
+        "length": 5
+      },
+      {
+        "token": "geen",
+        "signature": "egn",
+        "length": 4
+      },
+      {
+        "token": "dit",
+        "signature": "dit",
+        "length": 3
+      },
+      {
+        "token": "zo",
+        "signature": "oz",
+        "length": 2
+      },
+      {
+        "token": "wil",
+        "signature": "ilw",
+        "length": 3
+      },
+      {
+        "token": "haar",
+        "signature": "ahr",
+        "length": 4
+      },
+      {
+        "token": "jij",
+        "signature": "ij",
+        "length": 3
+      },
+      {
+        "token": "doen",
+        "signature": "deno",
+        "length": 4
+      },
+      {
+        "token": "ook",
+        "signature": "ko",
+        "length": 3
+      },
+      {
+        "token": "uit",
+        "signature": "itu",
+        "length": 3
+      },
+      {
+        "token": "mij",
+        "signature": "ijm",
+        "length": 3
+      },
+      {
+        "token": "bent",
+        "signature": "bent",
+        "length": 4
+      },
+      {
+        "token": "gaan",
+        "signature": "agn",
+        "length": 4
+      },
+      {
+        "token": "goed",
+        "signature": "dego",
+        "length": 4
+      },
+      {
+        "token": "nu",
+        "signature": "nu",
+        "length": 2
+      },
+      {
+        "token": "zou",
+        "signature": "ouz",
+        "length": 3
+      },
+      {
+        "token": "bij",
+        "signature": "bij",
+        "length": 3
+      },
+      {
+        "token": "ons",
+        "signature": "nos",
+        "length": 3
+      },
+      {
+        "token": "hebt",
+        "signature": "beht",
+        "length": 4
+      },
+      {
+        "token": "iets",
+        "signature": "eist",
+        "length": 4
+      },
+      {
+        "token": "zal",
+        "signature": "alz",
+        "length": 3
+      },
+      {
+        "token": "meer",
+        "signature": "emr",
+        "length": 4
+      },
+      {
+        "token": "gaat",
+        "signature": "agt",
+        "length": 4
+      },
+      {
+        "token": "jullie",
+        "signature": "eijlu",
+        "length": 6
+      },
+      {
+        "token": "moeten",
+        "signature": "emnot",
+        "length": 6
+      },
+      {
+        "token": "jou",
+        "signature": "jou",
+        "length": 3
+      },
+      {
+        "token": "kunnen",
+        "signature": "eknu",
+        "length": 6
+      },
+      {
+        "token": "waar",
+        "signature": "arw",
+        "length": 4
+      },
+      {
+        "token": "ga",
+        "signature": "ag",
+        "length": 2
+      },
+      {
+        "token": "deze",
+        "signature": "dez",
+        "length": 4
+      },
+      {
+        "token": "daar",
+        "signature": "adr",
+        "length": 4
+      },
+      {
+        "token": "zien",
+        "signature": "einz",
+        "length": 4
+      },
+      {
+        "token": "weg",
+        "signature": "egw",
+        "length": 3
+      },
+      {
+        "token": "eens",
+        "signature": "ens",
+        "length": 4
+      },
+      {
+        "token": "toch",
+        "signature": "chot",
+        "length": 4
+      },
+      {
+        "token": "alleen",
+        "signature": "aeln",
+        "length": 6
+      },
+      {
+        "token": "man",
+        "signature": "amn",
+        "length": 3
+      },
+      {
+        "token": "terug",
+        "signature": "egrtu",
+        "length": 5
+      },
+      {
+        "token": "mee",
+        "signature": "em",
+        "length": 3
+      },
+      {
+        "token": "nooit",
+        "signature": "inot",
+        "length": 5
+      },
+      {
+        "token": "denk",
+        "signature": "dekn",
+        "length": 4
+      },
+      {
+        "token": "alles",
+        "signature": "aels",
+        "length": 5
+      },
+      {
+        "token": "zei",
+        "signature": "eiz",
+        "length": 3
+      },
+      {
+        "token": "echt",
+        "signature": "ceht",
+        "length": 4
+      },
+      {
+        "token": "nodig",
+        "signature": "dgino",
+        "length": 5
+      },
+      {
+        "token": "komt",
+        "signature": "kmot",
+        "length": 4
+      },
+      {
+        "token": "komen",
+        "signature": "ekmno",
+        "length": 5
+      },
+      {
+        "token": "weten",
+        "signature": "entw",
+        "length": 5
+      },
+      {
+        "token": "doe",
+        "signature": "deo",
+        "length": 3
+      },
+      {
+        "token": "worden",
+        "signature": "denorw",
+        "length": 6
+      },
+      {
+        "token": "iemand",
+        "signature": "adeimn",
+        "length": 6
+      },
+      {
+        "token": "niets",
+        "signature": "einst",
+        "length": 5
+      },
+      {
+        "token": "leven",
+        "signature": "elnv",
+        "length": 5
+      },
+      {
+        "token": "zeggen",
+        "signature": "egnz",
+        "length": 6
+      },
+      {
+        "token": "mensen",
+        "signature": "emns",
+        "length": 6
+      },
+      {
+        "token": "weer",
+        "signature": "erw",
+        "length": 4
+      },
+      {
+        "token": "veel",
+        "signature": "elv",
+        "length": 4
+      },
+      {
+        "token": "tijd",
+        "signature": "dijt",
+        "length": 4
+      },
+      {
+        "token": "onze",
+        "signature": "enoz",
+        "length": 4
+      },
+      {
+        "token": "gewoon",
+        "signature": "egnow",
+        "length": 6
+      },
+      {
+        "token": "tegen",
+        "signature": "egnt",
+        "length": 5
+      },
+      {
+        "token": "maken",
+        "signature": "aekmn",
+        "length": 5
+      },
+      {
+        "token": "laten",
+        "signature": "aelnt",
+        "length": 5
+      },
+      {
+        "token": "wordt",
+        "signature": "dortw",
+        "length": 5
+      },
+      {
+        "token": "laat",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "zit",
+        "signature": "itz",
+        "length": 3
+      },
+      {
+        "token": "gedaan",
+        "signature": "adegn",
+        "length": 6
+      },
+      {
+        "token": "dood",
+        "signature": "do",
+        "length": 4
+      },
+      {
+        "token": "af",
+        "signature": "af",
+        "length": 2
+      },
+      {
+        "token": "altijd",
+        "signature": "adijlt",
+        "length": 6
+      },
+      {
+        "token": "twee",
+        "signature": "etw",
+        "length": 4
+      },
+      {
+        "token": "tot",
+        "signature": "ot",
+        "length": 3
+      },
+      {
+        "token": "uw",
+        "signature": "uw",
+        "length": 2
+      },
+      {
+        "token": "jaar",
+        "signature": "ajr",
+        "length": 4
+      },
+      {
+        "token": "wie",
+        "signature": "eiw",
+        "length": 3
+      },
+      {
+        "token": "huis",
+        "signature": "hisu",
+        "length": 4
+      },
+      {
+        "token": "kom",
+        "signature": "kmo",
+        "length": 3
+      },
+      {
+        "token": "allemaal",
+        "signature": "aelm",
+        "length": 8
+      },
+      {
+        "token": "toen",
+        "signature": "enot",
+        "length": 4
+      },
+      {
+        "token": "doet",
+        "signature": "deot",
+        "length": 4
+      },
+      {
+        "token": "hun",
+        "signature": "hnu",
+        "length": 3
+      },
+      {
+        "token": "dacht",
+        "signature": "acdht",
+        "length": 5
+      },
+      {
+        "token": "keer",
+        "signature": "ekr",
+        "length": 4
+      },
+      {
+        "token": "vader",
+        "signature": "aderv",
+        "length": 5
+      },
+      {
+        "token": "vrouw",
+        "signature": "oruvw",
+        "length": 5
+      },
+      {
+        "token": "dus",
+        "signature": "dsu",
+        "length": 3
+      },
+      {
+        "token": "jouw",
+        "signature": "jouw",
+        "length": 4
+      },
+      {
+        "token": "andere",
+        "signature": "adenr",
+        "length": 6
+      },
+      {
+        "token": "heel",
+        "signature": "ehl",
+        "length": 4
+      },
+      {
+        "token": "zeker",
+        "signature": "ekrz",
+        "length": 5
+      },
+      {
+        "token": "nou",
+        "signature": "nou",
+        "length": 3
+      },
+      {
+        "token": "zich",
+        "signature": "chiz",
+        "length": 4
+      },
+      {
+        "token": "willen",
+        "signature": "eilnw",
+        "length": 6
+      },
+      {
+        "token": "spijt",
+        "signature": "ijpst",
+        "length": 5
+      },
+      {
+        "token": "waren",
+        "signature": "aenrw",
+        "length": 5
+      },
+      {
+        "token": "praten",
+        "signature": "aenprt",
+        "length": 6
+      },
+      {
+        "token": "vinden",
+        "signature": "deinv",
+        "length": 6
+      },
+      {
+        "token": "geld",
+        "signature": "degl",
+        "length": 4
+      },
+      {
+        "token": "werk",
+        "signature": "ekrw",
+        "length": 4
+      },
+      {
+        "token": "dag",
+        "signature": "adg",
+        "length": 3
+      },
+      {
+        "token": "erg",
+        "signature": "egr",
+        "length": 3
+      },
+      {
+        "token": "anders",
+        "signature": "adenrs",
+        "length": 6
+      },
+      {
+        "token": "staat",
+        "signature": "ast",
+        "length": 5
+      },
+      {
+        "token": "zitten",
+        "signature": "eintz",
+        "length": 6
+      },
+      {
+        "token": "gezien",
+        "signature": "eginz",
+        "length": 6
+      },
+      {
+        "token": "beter",
+        "signature": "bert",
+        "length": 5
+      },
+      {
+        "token": "kon",
+        "signature": "kno",
+        "length": 3
+      },
+      {
+        "token": "binnen",
+        "signature": "bein",
+        "length": 6
+      },
+      {
+        "token": "mag",
+        "signature": "agm",
+        "length": 3
+      },
+      {
+        "token": "helpen",
+        "signature": "ehlnp",
+        "length": 6
+      },
+      {
+        "token": "wilt",
+        "signature": "iltw",
+        "length": 4
+      },
+      {
+        "token": "werd",
+        "signature": "derw",
+        "length": 4
+      },
+      {
+        "token": "moeder",
+        "signature": "demor",
+        "length": 6
+      },
+      {
+        "token": "wij",
+        "signature": "ijw",
+        "length": 3
+      },
+      {
+        "token": "uur",
+        "signature": "ru",
+        "length": 3
+      },
+      {
+        "token": "elkaar",
+        "signature": "aeklr",
+        "length": 6
+      },
+      {
+        "token": "omdat",
+        "signature": "admot",
+        "length": 5
+      },
+      {
+        "token": "hele",
+        "signature": "ehl",
+        "length": 4
+      },
+      {
+        "token": "niks",
+        "signature": "ikns",
+        "length": 4
+      },
+      {
+        "token": "zullen",
+        "signature": "elnuz",
+        "length": 6
+      },
+      {
+        "token": "waarom",
+        "signature": "amorw",
+        "length": 6
+      },
+      {
+        "token": "zie",
+        "signature": "eiz",
+        "length": 3
+      },
+      {
+        "token": "misschien",
+        "signature": "cehimns",
+        "length": 9
+      },
+      {
+        "token": "wist",
+        "signature": "istw",
+        "length": 4
+      },
+      {
+        "token": "zeg",
+        "signature": "egz",
+        "length": 3
+      },
+      {
+        "token": "genoeg",
+        "signature": "egno",
+        "length": 6
+      },
+      {
+        "token": "ging",
+        "signature": "gin",
+        "length": 4
+      },
+      {
+        "token": "zegt",
+        "signature": "egtz",
+        "length": 4
+      },
+      {
+        "token": "hou",
+        "signature": "hou",
+        "length": 3
+      },
+      {
+        "token": "dingen",
+        "signature": "degin",
+        "length": 6
+      },
+      {
+        "token": "krijgen",
+        "signature": "egijknr",
+        "length": 7
+      },
+      {
+        "token": "zoals",
+        "signature": "alosz",
+        "length": 5
+      },
+      {
+        "token": "steeds",
+        "signature": "dest",
+        "length": 6
+      },
+      {
+        "token": "klaar",
+        "signature": "aklr",
+        "length": 5
+      },
+      {
+        "token": "houden",
+        "signature": "dehnou",
+        "length": 6
+      },
+      {
+        "token": "vertellen",
+        "signature": "elnrtv",
+        "length": 9
+      },
+      {
+        "token": "idee",
+        "signature": "dei",
+        "length": 4
+      },
+      {
+        "token": "ja",
+        "signature": "aj",
+        "length": 2
+      },
+      {
+        "token": "kwam",
+        "signature": "akmw",
+        "length": 4
+      },
+      {
+        "token": "bedoel",
+        "signature": "bdelo",
+        "length": 6
+      },
+      {
+        "token": "achter",
+        "signature": "acehrt",
+        "length": 6
+      },
+      {
+        "token": "eerste",
+        "signature": "erst",
+        "length": 6
+      },
+      {
+        "token": "geven",
+        "signature": "egnv",
+        "length": 5
+      },
+      {
+        "token": "blijven",
+        "signature": "beijlnv",
+        "length": 7
+      },
+      {
+        "token": "vind",
+        "signature": "dinv",
+        "length": 4
+      },
+      {
+        "token": "naam",
+        "signature": "amn",
+        "length": 4
+      },
+      {
+        "token": "geweest",
+        "signature": "egstw",
+        "length": 7
+      },
+      {
+        "token": "ziet",
+        "signature": "eitz",
+        "length": 4
+      },
+      {
+        "token": "maakt",
+        "signature": "akmt",
+        "length": 5
+      },
+      {
+        "token": "na",
+        "signature": "an",
+        "length": 2
+      },
+      {
+        "token": "zij",
+        "signature": "ijz",
+        "length": 3
+      },
+      {
+        "token": "kijken",
+        "signature": "eijkn",
+        "length": 6
+      },
+      {
+        "token": "iedereen",
+        "signature": "deinr",
+        "length": 8
+      },
+      {
+        "token": "alle",
+        "signature": "ael",
+        "length": 4
+      },
+      {
+        "token": "onder",
+        "signature": "denor",
+        "length": 5
+      },
+      {
+        "token": "graag",
+        "signature": "agr",
+        "length": 5
+      },
+      {
+        "token": "vriend",
+        "signature": "deinrv",
+        "length": 6
+      },
+      {
+        "token": "gebeurd",
+        "signature": "bdegru",
+        "length": 7
+      },
+      {
+        "token": "moest",
+        "signature": "emost",
+        "length": 5
+      },
+      {
+        "token": "leuk",
+        "signature": "eklu",
+        "length": 4
+      },
+      {
+        "token": "drie",
+        "signature": "deir",
+        "length": 4
+      },
+      {
+        "token": "vragen",
+        "signature": "aegnrv",
+        "length": 6
+      },
+      {
+        "token": "paar",
+        "signature": "apr",
+        "length": 4
+      },
+      {
+        "token": "gek",
+        "signature": "egk",
+        "length": 3
+      },
+      {
+        "token": "ooit",
+        "signature": "iot",
+        "length": 4
+      },
+      {
+        "token": "auto",
+        "signature": "aotu",
+        "length": 4
+      },
+      {
+        "token": "zorgen",
+        "signature": "egnorz",
+        "length": 6
+      },
+      {
+        "token": "nee",
+        "signature": "en",
+        "length": 3
+      },
+      {
+        "token": "zonder",
+        "signature": "denorz",
+        "length": 6
+      },
+      {
+        "token": "zag",
+        "signature": "agz",
+        "length": 3
+      },
+      {
+        "token": "niemand",
+        "signature": "adeimn",
+        "length": 7
+      },
+      {
+        "token": "grote",
+        "signature": "egort",
+        "length": 5
+      },
+      {
+        "token": "nieuwe",
+        "signature": "einuw",
+        "length": 6
+      },
+      {
+        "token": "laatste",
+        "signature": "aelst",
+        "length": 7
+      },
+      {
+        "token": "beetje",
+        "signature": "bejt",
+        "length": 6
+      },
+      {
+        "token": "lijkt",
+        "signature": "ijklt",
+        "length": 5
+      },
+      {
+        "token": "kinderen",
+        "signature": "deiknr",
+        "length": 8
+      },
+      {
+        "token": "enige",
+        "signature": "egin",
+        "length": 5
+      },
+      {
+        "token": "goede",
+        "signature": "dego",
+        "length": 5
+      },
+      {
+        "token": "helemaal",
+        "signature": "aehlm",
+        "length": 8
+      },
+      {
+        "token": "snel",
+        "signature": "elns",
+        "length": 4
+      },
+      {
+        "token": "nemen",
+        "signature": "emn",
+        "length": 5
+      },
+      {
+        "token": "zelf",
+        "signature": "eflz",
+        "length": 4
+      },
+      {
+        "token": "hadden",
+        "signature": "adehn",
+        "length": 6
+      },
+      {
+        "token": "staan",
+        "signature": "anst",
+        "length": 5
+      },
+      {
+        "token": "wereld",
+        "signature": "delrw",
+        "length": 6
+      },
+      {
+        "token": "jongen",
+        "signature": "egjno",
+        "length": 6
+      },
+      {
+        "token": "geleden",
+        "signature": "degln",
+        "length": 7
+      },
+      {
+        "token": "heen",
+        "signature": "ehn",
+        "length": 4
+      },
+      {
+        "token": "eten",
+        "signature": "ent",
+        "length": 4
+      },
+      {
+        "token": "gevonden",
+        "signature": "degnov",
+        "length": 8
+      },
+      {
+        "token": "hen",
+        "signature": "ehn",
+        "length": 3
+      },
+      {
+        "token": "samen",
+        "signature": "aemns",
+        "length": 5
+      },
+      {
+        "token": "gezegd",
+        "signature": "degz",
+        "length": 6
+      },
+      {
+        "token": "denken",
+        "signature": "dekn",
+        "length": 6
+      },
+      {
+        "token": "beste",
+        "signature": "best",
+        "length": 5
+      },
+      {
+        "token": "zoon",
+        "signature": "noz",
+        "length": 4
+      },
+      {
+        "token": "eigen",
+        "signature": "egin",
+        "length": 5
+      },
+      {
+        "token": "halen",
+        "signature": "aehln",
+        "length": 5
+      },
+      {
+        "token": "thuis",
+        "signature": "histu",
+        "length": 5
+      },
+      {
+        "token": "gelijk",
+        "signature": "egijkl",
+        "length": 6
+      },
+      {
+        "token": "probleem",
+        "signature": "belmopr",
+        "length": 8
+      },
+      {
+        "token": "denkt",
+        "signature": "deknt",
+        "length": 5
+      },
+      {
+        "token": "vraag",
+        "signature": "agrv",
+        "length": 5
+      },
+      {
+        "token": "meisje",
+        "signature": "eijms",
+        "length": 6
+      },
+      {
+        "token": "meneer",
+        "signature": "emnr",
+        "length": 6
+      },
+      {
+        "token": "buiten",
+        "signature": "beintu",
+        "length": 6
+      },
+      {
+        "token": "familie",
+        "signature": "aefilm",
+        "length": 7
+      },
+      {
+        "token": "hoop",
+        "signature": "hop",
+        "length": 4
+      },
+      {
+        "token": "hoor",
+        "signature": "hor",
+        "length": 4
+      },
+      {
+        "token": "mannen",
+        "signature": "aemn",
+        "length": 6
+      },
+      {
+        "token": "horen",
+        "signature": "ehnor",
+        "length": 5
+      },
+      {
+        "token": "vandaag",
+        "signature": "adgnv",
+        "length": 7
+      },
+      {
+        "token": "zouden",
+        "signature": "denouz",
+        "length": 6
+      },
+      {
+        "token": "manier",
+        "signature": "aeimnr",
+        "length": 6
+      },
+      {
+        "token": "orde",
+        "signature": "deor",
+        "length": 4
+      },
+      {
+        "token": "geef",
+        "signature": "efg",
+        "length": 4
+      },
+      {
+        "token": "gebeurt",
+        "signature": "begrtu",
+        "length": 7
+      },
+      {
+        "token": "werken",
+        "signature": "eknrw",
+        "length": 6
+      },
+      {
+        "token": "kant",
+        "signature": "aknt",
+        "length": 4
+      },
+      {
+        "token": "vrienden",
+        "signature": "deinrv",
+        "length": 8
+      },
+      {
+        "token": "jongens",
+        "signature": "egjnos",
+        "length": 7
+      },
+      {
+        "token": "neem",
+        "signature": "emn",
+        "length": 4
+      },
+      {
+        "token": "zat",
+        "signature": "atz",
+        "length": 3
+      },
+      {
+        "token": "hoofd",
+        "signature": "dfho",
+        "length": 5
+      },
+      {
+        "token": "mooi",
+        "signature": "imo",
+        "length": 4
+      },
+      {
+        "token": "houdt",
+        "signature": "dhotu",
+        "length": 5
+      },
+      {
+        "token": "kleine",
+        "signature": "eikln",
+        "length": 6
+      },
+      {
+        "token": "wachten",
+        "signature": "acehntw",
+        "length": 7
+      },
+      {
+        "token": "politie",
+        "signature": "eilopt",
+        "length": 7
+      },
+      {
+        "token": "gemaakt",
+        "signature": "aegkmt",
+        "length": 7
+      },
+      {
+        "token": "dagen",
+        "signature": "adegn",
+        "length": 5
+      },
+      {
+        "token": "alsjeblieft",
+        "signature": "abefijlst",
+        "length": 11
+      },
+      {
+        "token": "bijna",
+        "signature": "abijn",
+        "length": 5
+      },
+      {
+        "token": "geweldig",
+        "signature": "degilw",
+        "length": 8
+      },
+      {
+        "token": "eerst",
+        "signature": "erst",
+        "length": 5
+      },
+      {
+        "token": "krijgt",
+        "signature": "gijkrt",
+        "length": 6
+      },
+      {
+        "token": "gehad",
+        "signature": "adegh",
+        "length": 5
+      },
+      {
+        "token": "wou",
+        "signature": "ouw",
+        "length": 3
+      },
+      {
+        "token": "kans",
+        "signature": "akns",
+        "length": 4
+      },
+      {
+        "token": "vroeg",
+        "signature": "egorv",
+        "length": 5
+      },
+      {
+        "token": "verder",
+        "signature": "derv",
+        "length": 6
+      },
+      {
+        "token": "gehoord",
+        "signature": "deghor",
+        "length": 7
+      },
+      {
+        "token": "geeft",
+        "signature": "efgt",
+        "length": 5
+      },
+      {
+        "token": "werkt",
+        "signature": "ekrtw",
+        "length": 5
+      },
+      {
+        "token": "ie",
+        "signature": "ei",
+        "length": 2
+      },
+      {
+        "token": "wacht",
+        "signature": "achtw",
+        "length": 5
+      },
+      {
+        "token": "zoeken",
+        "signature": "eknoz",
+        "length": 6
+      },
+      {
+        "token": "minuten",
+        "signature": "eimntu",
+        "length": 7
+      },
+      {
+        "token": "zelfs",
+        "signature": "eflsz",
+        "length": 5
+      },
+      {
+        "token": "alsof",
+        "signature": "aflos",
+        "length": 5
+      },
+      {
+        "token": "morgen",
+        "signature": "egmnor",
+        "length": 6
+      },
+      {
+        "token": "stad",
+        "signature": "adst",
+        "length": 4
+      },
+      {
+        "token": "kijk",
+        "signature": "ijk",
+        "length": 4
+      },
+      {
+        "token": "elke",
+        "signature": "ekl",
+        "length": 4
+      },
+      {
+        "token": "maak",
+        "signature": "akm",
+        "length": 4
+      },
+      {
+        "token": "zaak",
+        "signature": "akz",
+        "length": 4
+      },
+      {
+        "token": "geloof",
+        "signature": "efglo",
+        "length": 6
+      },
+      {
+        "token": "verteld",
+        "signature": "delrtv",
+        "length": 7
+      },
+      {
+        "token": "kun",
+        "signature": "knu",
+        "length": 3
+      },
+      {
+        "token": "pijn",
+        "signature": "ijnp",
+        "length": 4
+      },
+      {
+        "token": "plaats",
+        "signature": "alpst",
+        "length": 6
+      },
+      {
+        "token": "brengen",
+        "signature": "begnr",
+        "length": 7
+      },
+      {
+        "token": "jezelf",
+        "signature": "efjlz",
+        "length": 6
+      },
+      {
+        "token": "vond",
+        "signature": "dnov",
+        "length": 4
+      },
+      {
+        "token": "blij",
+        "signature": "bijl",
+        "length": 4
+      },
+      {
+        "token": "hulp",
+        "signature": "hlpu",
+        "length": 4
+      },
+      {
+        "token": "geloven",
+        "signature": "eglnov",
+        "length": 7
+      },
+      {
+        "token": "oude",
+        "signature": "deou",
+        "length": 4
+      },
+      {
+        "token": "begrijp",
+        "signature": "begijpr",
+        "length": 7
+      },
+      {
+        "token": "broer",
+        "signature": "beor",
+        "length": 5
+      },
+      {
+        "token": "krijg",
+        "signature": "gijkr",
+        "length": 5
+      },
+      {
+        "token": "heet",
+        "signature": "eht",
+        "length": 4
+      },
+      {
+        "token": "voel",
+        "signature": "elov",
+        "length": 4
+      },
+      {
+        "token": "volgende",
+        "signature": "deglnov",
+        "length": 8
+      },
+      {
+        "token": "tussen",
+        "signature": "enstu",
+        "length": 6
+      },
+      {
+        "token": "spreken",
+        "signature": "eknprs",
+        "length": 7
+      },
+      {
+        "token": "ogen",
+        "signature": "egno",
+        "length": 4
+      },
+      {
+        "token": "eruit",
+        "signature": "eirtu",
+        "length": 5
+      },
+      {
+        "token": "vindt",
+        "signature": "dintv",
+        "length": 5
+      },
+      {
+        "token": "gebruiken",
+        "signature": "begiknru",
+        "length": 9
+      },
+      {
+        "token": "slecht",
+        "signature": "cehlst",
+        "length": 6
+      },
+      {
+        "token": "kamer",
+        "signature": "aekmr",
+        "length": 5
+      },
+      {
+        "token": "vanavond",
+        "signature": "adnov",
+        "length": 8
+      },
+      {
+        "token": "betekent",
+        "signature": "beknt",
+        "length": 8
+      },
+      {
+        "token": "eigenlijk",
+        "signature": "egijkln",
+        "length": 9
+      },
+      {
+        "token": "blijft",
+        "signature": "bfijlt",
+        "length": 6
+      },
+      {
+        "token": "soort",
+        "signature": "orst",
+        "length": 5
+      },
+      {
+        "token": "ligt",
+        "signature": "gilt",
+        "length": 4
+      },
+      {
+        "token": "deur",
+        "signature": "deru",
+        "length": 4
+      },
+      {
+        "token": "proberen",
+        "signature": "benopr",
+        "length": 8
+      },
+      {
+        "token": "plek",
+        "signature": "eklp",
+        "length": 4
+      },
+      {
+        "token": "dochter",
+        "signature": "cdehort",
+        "length": 7
+      },
+      {
+        "token": "ergens",
+        "signature": "egnrs",
+        "length": 6
+      },
+      {
+        "token": "vrij",
+        "signature": "ijrv",
+        "length": 4
+      },
+      {
+        "token": "beginnen",
+        "signature": "begin",
+        "length": 8
+      },
+      {
+        "token": "vijf",
+        "signature": "fijv",
+        "length": 4
+      },
+      {
+        "token": "problemen",
+        "signature": "belmnopr",
+        "length": 9
+      },
+      {
+        "token": "wanneer",
+        "signature": "aenrw",
+        "length": 7
+      },
+      {
+        "token": "pakken",
+        "signature": "aeknp",
+        "length": 6
+      },
+      {
+        "token": "gaf",
+        "signature": "afg",
+        "length": 3
+      },
+      {
+        "token": "mis",
+        "signature": "ims",
+        "length": 3
+      },
+      {
+        "token": "echte",
+        "signature": "ceht",
+        "length": 5
+      },
+      {
+        "token": "vermoorden",
+        "signature": "demnorv",
+        "length": 10
+      },
+      {
+        "token": "boven",
+        "signature": "benov",
+        "length": 5
+      },
+      {
+        "token": "bellen",
+        "signature": "beln",
+        "length": 6
+      },
+      {
+        "token": "zoek",
+        "signature": "ekoz",
+        "length": 4
+      },
+      {
+        "token": "precies",
+        "signature": "ceiprs",
+        "length": 7
+      },
+      {
+        "token": "stoppen",
+        "signature": "enopst",
+        "length": 7
+      },
+      {
+        "token": "hoeft",
+        "signature": "efhot",
+        "length": 5
+      },
+      {
+        "token": "groot",
+        "signature": "gort",
+        "length": 5
+      },
+      {
+        "token": "gebeuren",
+        "signature": "begnru",
+        "length": 8
+      },
+      {
+        "token": "verhaal",
+        "signature": "aehlrv",
+        "length": 7
+      },
+      {
+        "token": "voordat",
+        "signature": "adortv",
+        "length": 7
+      },
+      {
+        "token": "spelen",
+        "signature": "elnps",
+        "length": 6
+      },
+      {
+        "token": "redden",
+        "signature": "denr",
+        "length": 6
+      },
+      {
+        "token": "eerder",
+        "signature": "der",
+        "length": 6
+      },
+      {
+        "token": "handen",
+        "signature": "adehn",
+        "length": 6
+      },
+      {
+        "token": "ervan",
+        "signature": "aenrv",
+        "length": 5
+      },
+      {
+        "token": "voorbij",
+        "signature": "bijorv",
+        "length": 7
+      },
+      {
+        "token": "vier",
+        "signature": "eirv",
+        "length": 4
+      },
+      {
+        "token": "vergeten",
+        "signature": "egnrtv",
+        "length": 8
+      },
+      {
+        "token": "moeilijk",
+        "signature": "eijklmo",
+        "length": 8
+      },
+      {
+        "token": "bloed",
+        "signature": "bdelo",
+        "length": 5
+      },
+      {
+        "token": "zult",
+        "signature": "ltuz",
+        "length": 4
+      },
+      {
+        "token": "veilig",
+        "signature": "egilv",
+        "length": 6
+      },
+      {
+        "token": "waarheid",
+        "signature": "adehirw",
+        "length": 8
+      },
+      {
+        "token": "bezig",
+        "signature": "begiz",
+        "length": 5
+      },
+      {
+        "token": "pas",
+        "signature": "aps",
+        "length": 3
+      },
+      {
+        "token": "blijf",
+        "signature": "bfijl",
+        "length": 5
+      },
+      {
+        "token": "zoveel",
+        "signature": "elovz",
+        "length": 6
+      },
+      {
+        "token": "nacht",
+        "signature": "achnt",
+        "length": 5
+      },
+      {
+        "token": "nieuws",
+        "signature": "einsuw",
+        "length": 6
+      },
+      {
+        "token": "zodat",
+        "signature": "adotz",
+        "length": 5
+      },
+      {
+        "token": "eraan",
+        "signature": "aenr",
+        "length": 5
+      },
+      {
+        "token": "gekomen",
+        "signature": "egkmno",
+        "length": 7
+      },
+      {
+        "token": "reden",
+        "signature": "denr",
+        "length": 5
+      },
+      {
+        "token": "druk",
+        "signature": "dkru",
+        "length": 4
+      },
+      {
+        "token": "soms",
+        "signature": "mos",
+        "length": 4
+      },
+      {
+        "token": "mogelijk",
+        "signature": "egijklmo",
+        "length": 8
+      },
+      {
+        "token": "liet",
+        "signature": "eilt",
+        "length": 4
+      },
+      {
+        "token": "maanden",
+        "signature": "ademn",
+        "length": 7
+      },
+      {
+        "token": "dokter",
+        "signature": "dekort",
+        "length": 6
+      },
+      {
+        "token": "hetzelfde",
+        "signature": "defhltz",
+        "length": 9
+      },
+      {
+        "token": "vol",
+        "signature": "lov",
+        "length": 3
+      },
+      {
+        "token": "schuld",
+        "signature": "cdhlsu",
+        "length": 6
+      },
+      {
+        "token": "neer",
+        "signature": "enr",
+        "length": 4
+      },
+      {
+        "token": "sterven",
+        "signature": "enrstv",
+        "length": 7
+      },
+      {
+        "token": "lopen",
+        "signature": "elnop",
+        "length": 5
+      },
+      {
+        "token": "kreeg",
+        "signature": "egkr",
+        "length": 5
+      },
+      {
+        "token": "avond",
+        "signature": "adnov",
+        "length": 5
+      },
+      {
+        "token": "gezicht",
+        "signature": "ceghitz",
+        "length": 7
+      },
+      {
+        "token": "vrouwen",
+        "signature": "enoruvw",
+        "length": 7
+      },
+      {
+        "token": "lekker",
+        "signature": "eklr",
+        "length": 6
+      },
+      {
+        "token": "leren",
+        "signature": "elnr",
+        "length": 5
+      },
+      {
+        "token": "natuurlijk",
+        "signature": "aijklnrtu",
+        "length": 10
+      },
+      {
+        "token": "klopt",
+        "signature": "klopt",
+        "length": 5
+      },
+      {
+        "token": "ver",
+        "signature": "erv",
+        "length": 3
+      },
+      {
+        "token": "zaken",
+        "signature": "aeknz",
+        "length": 5
+      },
+      {
+        "token": "ander",
+        "signature": "adenr",
+        "length": 5
+      },
+      {
+        "token": "praat",
+        "signature": "aprt",
+        "length": 5
+      },
+      {
+        "token": "probeer",
+        "signature": "beopr",
+        "length": 7
+      },
+      {
+        "token": "vallen",
+        "signature": "aelnv",
+        "length": 6
+      },
+      {
+        "token": "vriendin",
+        "signature": "deinrv",
+        "length": 8
+      },
+      {
+        "token": "voelt",
+        "signature": "elotv",
+        "length": 5
+      },
+      {
+        "token": "jaren",
+        "signature": "aejnr",
+        "length": 5
+      },
+      {
+        "token": "bel",
+        "signature": "bel",
+        "length": 3
+      },
+      {
+        "token": "fout",
+        "signature": "fotu",
+        "length": 4
+      },
+      {
+        "token": "hoorde",
+        "signature": "dehor",
+        "length": 6
+      },
+      {
+        "token": "wakker",
+        "signature": "aekrw",
+        "length": 6
+      },
+      {
+        "token": "telefoon",
+        "signature": "eflnot",
+        "length": 8
+      },
+      {
+        "token": "beneden",
+        "signature": "bden",
+        "length": 7
+      },
+      {
+        "token": "slapen",
+        "signature": "aelnps",
+        "length": 6
+      },
+      {
+        "token": "baas",
+        "signature": "abs",
+        "length": 4
+      },
+      {
+        "token": "duidelijk",
+        "signature": "deijklu",
+        "length": 9
+      },
+      {
+        "token": "lichaam",
+        "signature": "achilm",
+        "length": 7
+      },
+      {
+        "token": "dicht",
+        "signature": "cdhit",
+        "length": 5
+      },
+      {
+        "token": "buurt",
+        "signature": "brtu",
+        "length": 5
+      },
+      {
+        "token": "liggen",
+        "signature": "egiln",
+        "length": 6
+      },
+      {
+        "token": "erop",
+        "signature": "eopr",
+        "length": 4
+      },
+      {
+        "token": "bedankt",
+        "signature": "abdeknt",
+        "length": 7
+      },
+      {
+        "token": "meteen",
+        "signature": "emnt",
+        "length": 6
+      },
+      {
+        "token": "per",
+        "signature": "epr",
+        "length": 3
+      },
+      {
+        "token": "oud",
+        "signature": "dou",
+        "length": 3
+      },
+      {
+        "token": "schat",
+        "signature": "achst",
+        "length": 5
+      },
+      {
+        "token": "rond",
+        "signature": "dnor",
+        "length": 4
+      },
+      {
+        "token": "ouders",
+        "signature": "deorsu",
+        "length": 6
+      },
+      {
+        "token": "deel",
+        "signature": "del",
+        "length": 4
+      },
+      {
+        "token": "belangrijk",
+        "signature": "abegijklnr",
+        "length": 10
+      },
+      {
+        "token": "mooie",
+        "signature": "eimo",
+        "length": 5
+      },
+      {
+        "token": "oorlog",
+        "signature": "glor",
+        "length": 6
+      },
+      {
+        "token": "wapen",
+        "signature": "aenpw",
+        "length": 5
+      },
+      {
+        "token": "drinken",
+        "signature": "deiknr",
+        "length": 7
+      },
+      {
+        "token": "tien",
+        "signature": "eint",
+        "length": 4
+      },
+      {
+        "token": "los",
+        "signature": "los",
+        "length": 3
+      },
+      {
+        "token": "nummer",
+        "signature": "emnru",
+        "length": 6
+      },
+      {
+        "token": "vertrouwen",
+        "signature": "enortuvw",
+        "length": 10
+      },
+      {
+        "token": "baan",
+        "signature": "abn",
+        "length": 4
+      },
+      {
+        "token": "hoort",
+        "signature": "hort",
+        "length": 5
+      },
+      {
+        "token": "vaak",
+        "signature": "akv",
+        "length": 4
+      },
+      {
+        "token": "langs",
+        "signature": "aglns",
+        "length": 5
+      },
+      {
+        "token": "zetten",
+        "signature": "entz",
+        "length": 6
+      },
+      {
+        "token": "geval",
+        "signature": "aeglv",
+        "length": 5
+      },
+      {
+        "token": "zes",
+        "signature": "esz",
+        "length": 3
+      },
+      {
+        "token": "liefde",
+        "signature": "defil",
+        "length": 6
+      },
+      {
+        "token": "mezelf",
+        "signature": "eflmz",
+        "length": 6
+      },
+      {
+        "token": "stond",
+        "signature": "dnost",
+        "length": 5
+      },
+      {
+        "token": "vent",
+        "signature": "entv",
+        "length": 4
+      },
+      {
+        "token": "mogen",
+        "signature": "egmno",
+        "length": 5
+      },
+      {
+        "token": "gegeven",
+        "signature": "egnv",
+        "length": 7
+      },
+      {
+        "token": "ermee",
+        "signature": "emr",
+        "length": 5
+      },
+      {
+        "token": "vandaan",
+        "signature": "adnv",
+        "length": 7
+      },
+      {
+        "token": "dezelfde",
+        "signature": "deflz",
+        "length": 8
+      },
+      {
+        "token": "mond",
+        "signature": "dmno",
+        "length": 4
+      },
+      {
+        "token": "geluk",
+        "signature": "egklu",
+        "length": 5
+      },
+      {
+        "token": "kennen",
+        "signature": "ekn",
+        "length": 6
+      },
+      {
+        "token": "gebruikt",
+        "signature": "begikrtu",
+        "length": 8
+      },
+      {
+        "token": "terwijl",
+        "signature": "eijlrtw",
+        "length": 7
+      },
+      {
+        "token": "dank",
+        "signature": "adkn",
+        "length": 4
+      },
+      {
+        "token": "weken",
+        "signature": "eknw",
+        "length": 5
+      },
+      {
+        "token": "vertelde",
+        "signature": "delrtv",
+        "length": 8
+      },
+      {
+        "token": "anderen",
+        "signature": "adenr",
+        "length": 7
+      },
+      {
+        "token": "woord",
+        "signature": "dorw",
+        "length": 5
+      },
+      {
+        "token": "klinkt",
+        "signature": "iklnt",
+        "length": 6
+      },
+      {
+        "token": "rust",
+        "signature": "rstu",
+        "length": 4
+      },
+      {
+        "token": "betalen",
+        "signature": "abelnt",
+        "length": 7
+      },
+      {
+        "token": "vertel",
+        "signature": "elrtv",
+        "length": 6
+      },
+      {
+        "token": "waarschijnlijk",
+        "signature": "achijklnrsw",
+        "length": 14
+      },
+      {
+        "token": "hield",
+        "signature": "dehil",
+        "length": 5
+      },
+      {
+        "token": "maakte",
+        "signature": "aekmt",
+        "length": 6
+      },
+      {
+        "token": "pak",
+        "signature": "akp",
+        "length": 3
+      },
+      {
+        "token": "stuk",
+        "signature": "kstu",
+        "length": 4
+      },
+      {
+        "token": "veranderen",
+        "signature": "adenrv",
+        "length": 10
+      },
+      {
+        "token": "rustig",
+        "signature": "girstu",
+        "length": 6
+      },
+      {
+        "token": "eerlijk",
+        "signature": "eijklr",
+        "length": 7
+      },
+      {
+        "token": "sinds",
+        "signature": "dins",
+        "length": 5
+      },
+      {
+        "token": "zeer",
+        "signature": "erz",
+        "length": 4
+      },
+      {
+        "token": "zoiets",
+        "signature": "eiostz",
+        "length": 6
+      },
+      {
+        "token": "prima",
+        "signature": "aimpr",
+        "length": 5
+      },
+      {
+        "token": "zet",
+        "signature": "etz",
+        "length": 3
+      }
+    ],
+    "developing": [
+      {
+        "token": "klant",
+        "signature": "aklnt",
+        "length": 5
+      },
+      {
+        "token": "duizend",
+        "signature": "deinuz",
+        "length": 7
+      },
+      {
+        "token": "bende",
+        "signature": "bden",
+        "length": 5
+      },
+      {
+        "token": "vingers",
+        "signature": "eginrsv",
+        "length": 7
+      },
+      {
+        "token": "aandoen",
+        "signature": "adeno",
+        "length": 7
+      },
+      {
+        "token": "genoegen",
+        "signature": "egno",
+        "length": 8
+      },
+      {
+        "token": "veroorzaakt",
+        "signature": "aekortvz",
+        "length": 11
+      },
+      {
+        "token": "vergadering",
+        "signature": "adeginrv",
+        "length": 11
+      },
+      {
+        "token": "doodde",
+        "signature": "deo",
+        "length": 6
+      },
+      {
+        "token": "hallo",
+        "signature": "ahlo",
+        "length": 5
+      },
+      {
+        "token": "kleur",
+        "signature": "eklru",
+        "length": 5
+      },
+      {
+        "token": "uitgenodigd",
+        "signature": "deginotu",
+        "length": 11
+      },
+      {
+        "token": "gedachte",
+        "signature": "acdeght",
+        "length": 8
+      },
+      {
+        "token": "moed",
+        "signature": "demo",
+        "length": 4
+      },
+      {
+        "token": "menselijke",
+        "signature": "eijklmns",
+        "length": 10
+      },
+      {
+        "token": "sterren",
+        "signature": "enrst",
+        "length": 7
+      },
+      {
+        "token": "dik",
+        "signature": "dik",
+        "length": 3
+      },
+      {
+        "token": "laag",
+        "signature": "agl",
+        "length": 4
+      },
+      {
+        "token": "stuurt",
+        "signature": "rstu",
+        "length": 6
+      },
+      {
+        "token": "belang",
+        "signature": "abegln",
+        "length": 6
+      },
+      {
+        "token": "kelder",
+        "signature": "deklr",
+        "length": 6
+      },
+      {
+        "token": "gedragen",
+        "signature": "adegnr",
+        "length": 8
+      },
+      {
+        "token": "hiervan",
+        "signature": "aehinrv",
+        "length": 7
+      },
+      {
+        "token": "schot",
+        "signature": "chost",
+        "length": 5
+      },
+      {
+        "token": "droeg",
+        "signature": "degor",
+        "length": 5
+      },
+      {
+        "token": "opeens",
+        "signature": "enops",
+        "length": 6
+      },
+      {
+        "token": "gezelschap",
+        "signature": "aceghlpsz",
+        "length": 10
+      },
+      {
+        "token": "vreselijke",
+        "signature": "eijklrsv",
+        "length": 10
+      },
+      {
+        "token": "gekke",
+        "signature": "egk",
+        "length": 5
+      },
+      {
+        "token": "dichterbij",
+        "signature": "bcdehijrt",
+        "length": 10
+      },
+      {
+        "token": "aannemen",
+        "signature": "aemn",
+        "length": 8
+      },
+      {
+        "token": "kluis",
+        "signature": "iklsu",
+        "length": 5
+      },
+      {
+        "token": "begrafenis",
+        "signature": "abefginrs",
+        "length": 10
+      },
+      {
+        "token": "kogels",
+        "signature": "egklos",
+        "length": 6
+      },
+      {
+        "token": "paarden",
+        "signature": "adenpr",
+        "length": 7
+      },
+      {
+        "token": "spelletje",
+        "signature": "ejlpst",
+        "length": 9
+      },
+      {
+        "token": "mooiste",
+        "signature": "eimost",
+        "length": 7
+      },
+      {
+        "token": "arresteren",
+        "signature": "aenrst",
+        "length": 10
+      },
+      {
+        "token": "doorheen",
+        "signature": "dehnor",
+        "length": 8
+      },
+      {
+        "token": "schijnt",
+        "signature": "chijnst",
+        "length": 7
+      },
+      {
+        "token": "menselijk",
+        "signature": "eijklmns",
+        "length": 9
+      },
+      {
+        "token": "bereikt",
+        "signature": "beikrt",
+        "length": 7
+      },
+      {
+        "token": "burgemeester",
+        "signature": "begmrstu",
+        "length": 12
+      },
+      {
+        "token": "harde",
+        "signature": "adehr",
+        "length": 5
+      },
+      {
+        "token": "nauwelijks",
+        "signature": "aeijklnsuw",
+        "length": 10
+      },
+      {
+        "token": "deuren",
+        "signature": "denru",
+        "length": 6
+      },
+      {
+        "token": "vermoordt",
+        "signature": "demortv",
+        "length": 9
+      },
+      {
+        "token": "afscheid",
+        "signature": "acdefhis",
+        "length": 8
+      },
+      {
+        "token": "moeders",
+        "signature": "demors",
+        "length": 7
+      },
+      {
+        "token": "sterker",
+        "signature": "ekrst",
+        "length": 7
+      },
+      {
+        "token": "vriendelijk",
+        "signature": "deijklnrv",
+        "length": 11
+      },
+      {
+        "token": "herinneringen",
+        "signature": "eghinr",
+        "length": 13
+      },
+      {
+        "token": "verdiend",
+        "signature": "deinrv",
+        "length": 8
+      },
+      {
+        "token": "vergissing",
+        "signature": "eginrsv",
+        "length": 10
+      },
+      {
+        "token": "straf",
+        "signature": "afrst",
+        "length": 5
+      },
+      {
+        "token": "vissen",
+        "signature": "einsv",
+        "length": 6
+      },
+      {
+        "token": "geheugen",
+        "signature": "eghnu",
+        "length": 8
+      },
+      {
+        "token": "verliest",
+        "signature": "eilrstv",
+        "length": 8
+      },
+      {
+        "token": "reizen",
+        "signature": "einrz",
+        "length": 6
+      },
+      {
+        "token": "leer",
+        "signature": "elr",
+        "length": 4
+      },
+      {
+        "token": "makkelijker",
+        "signature": "aeijklmr",
+        "length": 11
+      },
+      {
+        "token": "troep",
+        "signature": "eoprt",
+        "length": 5
+      },
+      {
+        "token": "gaande",
+        "signature": "adegn",
+        "length": 6
+      },
+      {
+        "token": "honderd",
+        "signature": "dehnor",
+        "length": 7
+      },
+      {
+        "token": "helaas",
+        "signature": "aehls",
+        "length": 6
+      },
+      {
+        "token": "maatje",
+        "signature": "aejmt",
+        "length": 6
+      },
+      {
+        "token": "pers",
+        "signature": "eprs",
+        "length": 4
+      },
+      {
+        "token": "klus",
+        "signature": "klsu",
+        "length": 4
+      },
+      {
+        "token": "kalm",
+        "signature": "aklm",
+        "length": 4
+      },
+      {
+        "token": "taart",
+        "signature": "art",
+        "length": 5
+      },
+      {
+        "token": "universiteit",
+        "signature": "einrstuv",
+        "length": 12
+      },
+      {
+        "token": "aanbod",
+        "signature": "abdno",
+        "length": 6
+      },
+      {
+        "token": "kaarten",
+        "signature": "aeknrt",
+        "length": 7
+      },
+      {
+        "token": "herinnert",
+        "signature": "ehinrt",
+        "length": 9
+      },
+      {
+        "token": "snapt",
+        "signature": "anpst",
+        "length": 5
+      },
+      {
+        "token": "vloer",
+        "signature": "elorv",
+        "length": 5
+      },
+      {
+        "token": "vuile",
+        "signature": "eiluv",
+        "length": 5
+      },
+      {
+        "token": "leerde",
+        "signature": "delr",
+        "length": 6
+      },
+      {
+        "token": "bak",
+        "signature": "abk",
+        "length": 3
+      },
+      {
+        "token": "prinses",
+        "signature": "einprs",
+        "length": 7
+      },
+      {
+        "token": "lenen",
+        "signature": "eln",
+        "length": 5
+      },
+      {
+        "token": "punten",
+        "signature": "enptu",
+        "length": 6
+      },
+      {
+        "token": "ontvoerd",
+        "signature": "denortv",
+        "length": 8
+      },
+      {
+        "token": "verstopt",
+        "signature": "eoprstv",
+        "length": 8
+      },
+      {
+        "token": "kwestie",
+        "signature": "eikstw",
+        "length": 7
+      },
+      {
+        "token": "pond",
+        "signature": "dnop",
+        "length": 4
+      },
+      {
+        "token": "toeval",
+        "signature": "aelotv",
+        "length": 6
+      },
+      {
+        "token": "korte",
+        "signature": "ekort",
+        "length": 5
+      },
+      {
+        "token": "leugen",
+        "signature": "eglnu",
+        "length": 6
+      },
+      {
+        "token": "blanke",
+        "signature": "abekln",
+        "length": 6
+      },
+      {
+        "token": "opgesloten",
+        "signature": "eglnopst",
+        "length": 10
+      },
+      {
+        "token": "omgeving",
+        "signature": "egimnov",
+        "length": 8
+      },
+      {
+        "token": "gezond",
+        "signature": "degnoz",
+        "length": 6
+      },
+      {
+        "token": "ernstig",
+        "signature": "eginrst",
+        "length": 7
+      },
+      {
+        "token": "duizenden",
+        "signature": "deinuz",
+        "length": 9
+      },
+      {
+        "token": "verstand",
+        "signature": "adenrstv",
+        "length": 8
+      },
+      {
+        "token": "vasthouden",
+        "signature": "adehnostuv",
+        "length": 10
+      },
+      {
+        "token": "kus",
+        "signature": "ksu",
+        "length": 3
+      },
+      {
+        "token": "zojuist",
+        "signature": "ijostuz",
+        "length": 7
+      },
+      {
+        "token": "domme",
+        "signature": "demo",
+        "length": 5
+      },
+      {
+        "token": "zwemmen",
+        "signature": "emnwz",
+        "length": 7
+      },
+      {
+        "token": "compleet",
+        "signature": "celmopt",
+        "length": 8
+      },
+      {
+        "token": "roken",
+        "signature": "eknor",
+        "length": 5
+      },
+      {
+        "token": "tuin",
+        "signature": "intu",
+        "length": 4
+      },
+      {
+        "token": "stukken",
+        "signature": "eknstu",
+        "length": 7
+      },
+      {
+        "token": "noorden",
+        "signature": "denor",
+        "length": 7
+      },
+      {
+        "token": "verlaat",
+        "signature": "aelrtv",
+        "length": 7
+      },
+      {
+        "token": "aankomen",
+        "signature": "aekmno",
+        "length": 8
+      },
+      {
+        "token": "tevreden",
+        "signature": "denrtv",
+        "length": 8
+      },
+      {
+        "token": "raden",
+        "signature": "adenr",
+        "length": 5
+      },
+      {
+        "token": "beslissen",
+        "signature": "beilns",
+        "length": 9
+      },
+      {
+        "token": "sterke",
+        "signature": "ekrst",
+        "length": 6
+      },
+      {
+        "token": "eng",
+        "signature": "egn",
+        "length": 3
+      },
+      {
+        "token": "genieten",
+        "signature": "egint",
+        "length": 8
+      },
+      {
+        "token": "schepen",
+        "signature": "cehnps",
+        "length": 7
+      },
+      {
+        "token": "papier",
+        "signature": "aeipr",
+        "length": 6
+      },
+      {
+        "token": "vandoor",
+        "signature": "adnorv",
+        "length": 7
+      },
+      {
+        "token": "tegenover",
+        "signature": "egnortv",
+        "length": 9
+      },
+      {
+        "token": "kast",
+        "signature": "akst",
+        "length": 4
+      },
+      {
+        "token": "roepen",
+        "signature": "enopr",
+        "length": 6
+      },
+      {
+        "token": "taal",
+        "signature": "alt",
+        "length": 4
+      },
+      {
+        "token": "akkoord",
+        "signature": "adkor",
+        "length": 7
+      },
+      {
+        "token": "stroom",
+        "signature": "morst",
+        "length": 6
+      },
+      {
+        "token": "duur",
+        "signature": "dru",
+        "length": 4
+      },
+      {
+        "token": "zicht",
+        "signature": "chitz",
+        "length": 5
+      },
+      {
+        "token": "prins",
+        "signature": "inprs",
+        "length": 5
+      },
+      {
+        "token": "bedoeld",
+        "signature": "bdelo",
+        "length": 7
+      },
+      {
+        "token": "bek",
+        "signature": "bek",
+        "length": 3
+      },
+      {
+        "token": "vervangen",
+        "signature": "aegnrv",
+        "length": 9
+      },
+      {
+        "token": "erom",
+        "signature": "emor",
+        "length": 4
+      },
+      {
+        "token": "war",
+        "signature": "arw",
+        "length": 3
+      },
+      {
+        "token": "opgeven",
+        "signature": "egnopv",
+        "length": 7
+      },
+      {
+        "token": "redenen",
+        "signature": "denr",
+        "length": 7
+      },
+      {
+        "token": "schrijf",
+        "signature": "cfhijrs",
+        "length": 7
+      },
+      {
+        "token": "bepaald",
+        "signature": "abdelp",
+        "length": 7
+      },
+      {
+        "token": "normale",
+        "signature": "aelmnor",
+        "length": 7
+      },
+      {
+        "token": "rotzooi",
+        "signature": "iortz",
+        "length": 7
+      },
+      {
+        "token": "gebouwd",
+        "signature": "bdegouw",
+        "length": 7
+      },
+      {
+        "token": "verboden",
+        "signature": "bdenorv",
+        "length": 8
+      },
+      {
+        "token": "flink",
+        "signature": "fikln",
+        "length": 5
+      },
+      {
+        "token": "eenheid",
+        "signature": "dehin",
+        "length": 7
+      },
+      {
+        "token": "verbonden",
+        "signature": "bdenorv",
+        "length": 9
+      },
+      {
+        "token": "mogelijkheid",
+        "signature": "deghijklmo",
+        "length": 12
+      },
+      {
+        "token": "binnenkort",
+        "signature": "beiknort",
+        "length": 10
+      },
+      {
+        "token": "hoed",
+        "signature": "deho",
+        "length": 4
+      },
+      {
+        "token": "bescherming",
+        "signature": "bceghimnrs",
+        "length": 11
+      },
+      {
+        "token": "opgelost",
+        "signature": "eglopst",
+        "length": 8
+      },
+      {
+        "token": "achterlaten",
+        "signature": "acehlnrt",
+        "length": 11
+      },
+      {
+        "token": "rechtbank",
+        "signature": "abcehknrt",
+        "length": 9
+      },
+      {
+        "token": "cent",
+        "signature": "cent",
+        "length": 4
+      },
+      {
+        "token": "gevangene",
+        "signature": "aegnv",
+        "length": 9
+      },
+      {
+        "token": "schreeuwen",
+        "signature": "cehnrsuw",
+        "length": 10
+      },
+      {
+        "token": "rekenen",
+        "signature": "eknr",
+        "length": 7
+      },
+      {
+        "token": "gekeken",
+        "signature": "egkn",
+        "length": 7
+      },
+      {
+        "token": "schattig",
+        "signature": "acghist",
+        "length": 8
+      },
+      {
+        "token": "ontdekken",
+        "signature": "deknot",
+        "length": 9
+      },
+      {
+        "token": "borst",
+        "signature": "borst",
+        "length": 5
+      },
+      {
+        "token": "cadeau",
+        "signature": "acdeu",
+        "length": 6
+      },
+      {
+        "token": "volle",
+        "signature": "elov",
+        "length": 5
+      },
+      {
+        "token": "ontslag",
+        "signature": "aglnost",
+        "length": 7
+      },
+      {
+        "token": "opschieten",
+        "signature": "cehinopst",
+        "length": 10
+      },
+      {
+        "token": "behandelen",
+        "signature": "abdehln",
+        "length": 10
+      },
+      {
+        "token": "stopte",
+        "signature": "eopst",
+        "length": 6
+      },
+      {
+        "token": "waarvoor",
+        "signature": "aorvw",
+        "length": 8
+      },
+      {
+        "token": "voren",
+        "signature": "enorv",
+        "length": 5
+      },
+      {
+        "token": "dienen",
+        "signature": "dein",
+        "length": 6
+      },
+      {
+        "token": "waarde",
+        "signature": "aderw",
+        "length": 6
+      },
+      {
+        "token": "besluit",
+        "signature": "beilstu",
+        "length": 7
+      },
+      {
+        "token": "overtuigen",
+        "signature": "eginortuv",
+        "length": 10
+      },
+      {
+        "token": "aanbieden",
+        "signature": "abdein",
+        "length": 9
+      },
+      {
+        "token": "gewacht",
+        "signature": "aceghtw",
+        "length": 7
+      },
+      {
+        "token": "kunst",
+        "signature": "knstu",
+        "length": 5
+      },
+      {
+        "token": "verdedigen",
+        "signature": "deginrv",
+        "length": 10
+      },
+      {
+        "token": "toegeven",
+        "signature": "egnotv",
+        "length": 8
+      },
+      {
+        "token": "hoger",
+        "signature": "eghor",
+        "length": 5
+      },
+      {
+        "token": "berg",
+        "signature": "begr",
+        "length": 4
+      },
+      {
+        "token": "kocht",
+        "signature": "chkot",
+        "length": 5
+      },
+      {
+        "token": "poort",
+        "signature": "oprt",
+        "length": 5
+      },
+      {
+        "token": "gewend",
+        "signature": "degnw",
+        "length": 6
+      },
+      {
+        "token": "reactie",
+        "signature": "aceirt",
+        "length": 7
+      },
+      {
+        "token": "koken",
+        "signature": "ekno",
+        "length": 5
+      },
+      {
+        "token": "verkoop",
+        "signature": "ekoprv",
+        "length": 7
+      },
+      {
+        "token": "pakt",
+        "signature": "akpt",
+        "length": 4
+      },
+      {
+        "token": "wit",
+        "signature": "itw",
+        "length": 3
+      },
+      {
+        "token": "liedje",
+        "signature": "deijl",
+        "length": 6
+      },
+      {
+        "token": "hemelsnaam",
+        "signature": "aehlmns",
+        "length": 10
+      },
+      {
+        "token": "haalde",
+        "signature": "adehl",
+        "length": 6
+      },
+      {
+        "token": "zette",
+        "signature": "etz",
+        "length": 5
+      },
+      {
+        "token": "koffer",
+        "signature": "efkor",
+        "length": 6
+      },
+      {
+        "token": "gedronken",
+        "signature": "degknor",
+        "length": 9
+      }
+    ],
+    "advanced": [
+      {
+        "token": "meewerken",
+        "signature": "ekmnrw",
+        "length": 9
+      },
+      {
+        "token": "arresteer",
+        "signature": "aerst",
+        "length": 9
+      },
+      {
+        "token": "krachtige",
+        "signature": "aceghikrt",
+        "length": 9
+      },
+      {
+        "token": "aflevering",
+        "signature": "aefgilnrv",
+        "length": 10
+      },
+      {
+        "token": "onthoud",
+        "signature": "dhnotu",
+        "length": 7
+      },
+      {
+        "token": "meenam",
+        "signature": "aemn",
+        "length": 6
+      },
+      {
+        "token": "boeit",
+        "signature": "beiot",
+        "length": 5
+      },
+      {
+        "token": "storten",
+        "signature": "enorst",
+        "length": 7
+      },
+      {
+        "token": "tuurlijk",
+        "signature": "ijklrtu",
+        "length": 8
+      },
+      {
+        "token": "gij",
+        "signature": "gij",
+        "length": 3
+      },
+      {
+        "token": "spuit",
+        "signature": "ipstu",
+        "length": 5
+      },
+      {
+        "token": "gediend",
+        "signature": "degin",
+        "length": 7
+      },
+      {
+        "token": "betaling",
+        "signature": "abegilnt",
+        "length": 8
+      },
+      {
+        "token": "keertje",
+        "signature": "ejkrt",
+        "length": 7
+      },
+      {
+        "token": "dun",
+        "signature": "dnu",
+        "length": 3
+      },
+      {
+        "token": "gijzelaar",
+        "signature": "aegijlrz",
+        "length": 9
+      },
+      {
+        "token": "pijl",
+        "signature": "ijlp",
+        "length": 4
+      },
+      {
+        "token": "verhogen",
+        "signature": "eghnorv",
+        "length": 8
+      },
+      {
+        "token": "bestelling",
+        "signature": "begilnst",
+        "length": 10
+      },
+      {
+        "token": "potje",
+        "signature": "ejopt",
+        "length": 5
+      },
+      {
+        "token": "opgemerkt",
+        "signature": "egkmoprt",
+        "length": 9
+      },
+      {
+        "token": "regisseur",
+        "signature": "egirsu",
+        "length": 9
+      },
+      {
+        "token": "baantje",
+        "signature": "abejnt",
+        "length": 7
+      },
+      {
+        "token": "hoezo",
+        "signature": "ehoz",
+        "length": 5
+      },
+      {
+        "token": "ontvangst",
+        "signature": "agnostv",
+        "length": 9
+      },
+      {
+        "token": "vlammen",
+        "signature": "aelmnv",
+        "length": 7
+      },
+      {
+        "token": "beleven",
+        "signature": "belnv",
+        "length": 7
+      },
+      {
+        "token": "inzicht",
+        "signature": "chintz",
+        "length": 7
+      },
+      {
+        "token": "veertig",
+        "signature": "egirtv",
+        "length": 7
+      },
+      {
+        "token": "borg",
+        "signature": "bgor",
+        "length": 4
+      },
+      {
+        "token": "gebaar",
+        "signature": "abegr",
+        "length": 6
+      },
+      {
+        "token": "zong",
+        "signature": "gnoz",
+        "length": 4
+      },
+      {
+        "token": "jongere",
+        "signature": "egjnor",
+        "length": 7
+      },
+      {
+        "token": "volgorde",
+        "signature": "deglorv",
+        "length": 8
+      },
+      {
+        "token": "ontkomen",
+        "signature": "ekmnot",
+        "length": 8
+      },
+      {
+        "token": "omsingeld",
+        "signature": "degilmnos",
+        "length": 9
+      },
+      {
+        "token": "schreeuw",
+        "signature": "cehrsuw",
+        "length": 8
+      },
+      {
+        "token": "sociaal",
+        "signature": "acilos",
+        "length": 7
+      },
+      {
+        "token": "bedoelingen",
+        "signature": "bdegilno",
+        "length": 11
+      },
+      {
+        "token": "gelijke",
+        "signature": "egijkl",
+        "length": 7
+      },
+      {
+        "token": "ouderwets",
+        "signature": "deorstuw",
+        "length": 9
+      },
+      {
+        "token": "gekund",
+        "signature": "degknu",
+        "length": 6
+      },
+      {
+        "token": "trouwe",
+        "signature": "eortuw",
+        "length": 6
+      },
+      {
+        "token": "rustiger",
+        "signature": "egirstu",
+        "length": 8
+      },
+      {
+        "token": "ondergaan",
+        "signature": "adegnor",
+        "length": 9
+      },
+      {
+        "token": "schrok",
+        "signature": "chkors",
+        "length": 6
+      },
+      {
+        "token": "bediende",
+        "signature": "bdein",
+        "length": 8
+      },
+      {
+        "token": "gillen",
+        "signature": "egiln",
+        "length": 6
+      },
+      {
+        "token": "waaraan",
+        "signature": "anrw",
+        "length": 7
+      },
+      {
+        "token": "diverse",
+        "signature": "deirsv",
+        "length": 7
+      },
+      {
+        "token": "stuurden",
+        "signature": "denrstu",
+        "length": 8
+      },
+      {
+        "token": "afleiden",
+        "signature": "adefiln",
+        "length": 8
+      },
+      {
+        "token": "ondergang",
+        "signature": "adegnor",
+        "length": 9
+      },
+      {
+        "token": "andermans",
+        "signature": "ademnrs",
+        "length": 9
+      },
+      {
+        "token": "heftig",
+        "signature": "efghit",
+        "length": 6
+      },
+      {
+        "token": "uiterst",
+        "signature": "eirstu",
+        "length": 7
+      }
+    ]
+  }
+}
