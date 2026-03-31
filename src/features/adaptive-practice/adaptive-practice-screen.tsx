@@ -221,12 +221,12 @@ function UtilitySidebarSection({
   return (
     <section
       data-testid={testId}
-      className="space-y-1 border-t border-borderTone/35 pt-2.5 first:border-t-0 first:pt-0"
+      className="space-y-1.5 border-t border-borderTone/35 pt-3 first:border-t-0 first:pt-0"
     >
-      <h3 className="text-[0.58rem] font-semibold uppercase tracking-[0.24em] text-textMuted/76">
+      <h3 className="text-[0.64rem] font-semibold uppercase tracking-[0.22em] text-textMuted/76">
         {label}
       </h3>
-      <div className="space-y-1 text-[0.72rem] leading-[1.35] text-textMuted">{children}</div>
+      <div className="space-y-1.5 text-[0.82rem] leading-[1.45] text-textMuted">{children}</div>
     </section>
   );
 }
@@ -243,15 +243,15 @@ function UtilitySidebarDisclosure({
   return (
     <details
       open={defaultOpen}
-      className="group border-t border-borderTone/35 pt-2.5 first:border-t-0 first:pt-0"
+      className="group border-t border-borderTone/35 pt-3 first:border-t-0 first:pt-0"
     >
-      <summary className="flex cursor-pointer list-none items-center justify-between gap-2 text-[0.58rem] font-semibold uppercase tracking-[0.24em] text-textMuted/76 [&::-webkit-details-marker]:hidden">
+      <summary className="flex cursor-pointer list-none items-center justify-between gap-2 text-[0.64rem] font-semibold uppercase tracking-[0.22em] text-textMuted/76 [&::-webkit-details-marker]:hidden">
         <span>{label}</span>
-        <span className="text-[0.78rem] tracking-normal text-textMuted/52 transition group-open:rotate-45">
+        <span className="text-[0.86rem] tracking-normal text-textMuted/52 transition group-open:rotate-45">
           +
         </span>
       </summary>
-      <div className="mt-2 space-y-1.5 text-[0.72rem] leading-[1.35] text-textMuted">{children}</div>
+      <div className="mt-2.5 space-y-2 text-[0.82rem] leading-[1.45] text-textMuted">{children}</div>
     </details>
   );
 }
@@ -264,9 +264,11 @@ function SidebarValueRow({
   value: string;
 }) {
   return (
-    <div className="flex items-baseline justify-between gap-2.5">
+    <div className="flex flex-col gap-0.5 sm:flex-row sm:items-start sm:justify-between sm:gap-3">
       <span className="text-textMuted/74">{label}</span>
-      <span className="text-right font-medium text-text">{value}</span>
+      <span className="max-w-full break-words text-left font-medium text-text sm:max-w-[8.5rem] sm:text-right">
+        {value}
+      </span>
     </div>
   );
 }
@@ -286,7 +288,7 @@ function UtilitySidebarSelect({
 }) {
   return (
     <label className="block space-y-1">
-      <span className="block text-[0.62rem] uppercase tracking-[0.18em] text-textMuted/72">
+      <span className="block text-[0.68rem] uppercase tracking-[0.18em] text-textMuted/72">
         {label}
       </span>
       <select
@@ -294,7 +296,7 @@ function UtilitySidebarSelect({
         aria-label={label}
         value={value}
         onChange={(event) => onChange(event.target.value)}
-        className="w-full rounded-[0.35rem] border border-borderTone/60 bg-panelSolid px-2 py-1.5 text-[0.76rem] text-text shadow-[inset_0_1px_0_hsl(var(--text)/0.08)] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))]"
+        className="w-full rounded-[0.45rem] border border-borderTone/60 bg-panelSolid px-2.5 py-2 text-[0.84rem] text-text shadow-[inset_0_1px_0_hsl(var(--text)/0.08)] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))]"
       >
         {children}
       </select>
@@ -428,11 +430,11 @@ function PracticeUtilitySidebar({
   return (
     <div
       data-testid="practice-utility-strip"
-      className="grid gap-3 rounded-[0.95rem] border border-borderTone/45 bg-[hsl(var(--surface-raised)/0.72)] px-4 py-3.5 shadow-[0_1px_0_hsl(var(--text)/0.08)] sm:grid-cols-2 lg:grid-cols-3 min-[1280px]:max-h-[calc(100svh-8rem)] min-[1280px]:w-[8.75rem] min-[1280px]:grid-cols-1 min-[1280px]:overflow-y-auto min-[1280px]:rounded-none min-[1280px]:border-0 min-[1280px]:bg-transparent min-[1280px]:px-0 min-[1280px]:py-0 min-[1280px]:shadow-none"
+      className="grid gap-4 rounded-[0.95rem] border border-borderTone/45 bg-[hsl(var(--surface-raised)/0.72)] px-4 py-4 shadow-[0_1px_0_hsl(var(--text)/0.08)] sm:grid-cols-2 lg:grid-cols-3 xl:max-h-[calc(100svh-8rem)] xl:w-[14rem] xl:grid-cols-1 xl:overflow-y-auto xl:rounded-none xl:border-0 xl:bg-transparent xl:px-0 xl:py-0 xl:shadow-none"
     >
       <div className="space-y-2.5">
         <UtilitySidebarSection label={buildMetadata.name}>
-          <div className="space-y-0.5 text-[0.7rem] leading-5">
+          <div className="space-y-0.5 text-[0.78rem] leading-5">
             <p className="font-semibold uppercase tracking-[0.24em] text-text">{buildMetadata.name}</p>
             <p className="font-medium text-text">{lessonMeta.languageLabel}</p>
             <p>{lessonMeta.keyboardLayoutLabel}</p>
@@ -453,7 +455,7 @@ function PracticeUtilitySidebar({
               </option>
             ))}
           </UtilitySidebarSelect>
-          <p className="pt-0.5 text-[0.68rem] leading-[1.45]">
+          <p className="pt-0.5 text-[0.76rem] leading-[1.55]">
             Changes here apply immediately to the prompt, keyboard context, and active progression profile.
           </p>
         </UtilitySidebarSection>
@@ -468,7 +470,7 @@ function PracticeUtilitySidebar({
           <SidebarValueRow label="Spaces" value={lessonMeta.whitespaceLabel} />
           <SidebarValueRow label="Input" value={lessonMeta.inputMode} />
           {adaptiveLessonReason ? (
-            <p className="pt-0.5 text-[0.68rem] leading-[1.45]">{adaptiveLessonReason}</p>
+            <p className="pt-0.5 text-[0.76rem] leading-[1.55]">{adaptiveLessonReason}</p>
           ) : null}
         </UtilitySidebarSection>
       </div>
@@ -482,7 +484,7 @@ function PracticeUtilitySidebar({
                 type="button"
                 onClick={() => onContentFamilyChange(contentFamily.id)}
                 className={classNames(
-                  "block text-left text-[0.74rem] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))]",
+                  "block text-left text-[0.8rem] leading-5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))]",
                   selectedContentFamilyId === contentFamily.id
                     ? "font-medium text-text"
                     : "text-textMuted hover:text-text",
@@ -517,7 +519,7 @@ function PracticeUtilitySidebar({
                   : "n/a"
               }
             />
-            <p className="pt-0.5 text-[0.68rem] leading-[1.45]">
+            <p className="pt-0.5 text-[0.76rem] leading-[1.55]">
               {describeSelectedCharacter(
                 selectedCharacterPerformance,
                 selectedCharacter,
@@ -552,7 +554,7 @@ function PracticeUtilitySidebar({
                     : "none"
                 }
               />
-              <p className="text-[0.68rem] leading-[1.45]">{progressionReason}</p>
+              <p className="text-[0.76rem] leading-[1.55]">{progressionReason}</p>
               {recentAdaptiveSessions.length === 0 ? (
                 <p>Finish a few local lessons to build recent history.</p>
               ) : (
@@ -578,7 +580,7 @@ function PracticeUtilitySidebar({
                 key={item.href}
                 href={item.href}
                 className={classNames(
-                  "block text-[0.76rem] transition",
+                  "block text-[0.82rem] leading-5 transition",
                   matchesPath(item, pathname) ? "text-text" : "text-textMuted hover:text-text",
                 )}
               >
@@ -591,7 +593,7 @@ function PracticeUtilitySidebar({
               <Link
                 key={item.href}
                 href={item.href}
-                className="block text-[0.72rem] text-textMuted transition hover:text-text"
+                className="block text-[0.78rem] leading-5 text-textMuted transition hover:text-text"
               >
                 {item.label}
               </Link>
@@ -1131,8 +1133,8 @@ export function AdaptivePracticeScreen() {
         className="min-h-screen bg-[linear-gradient(180deg,hsl(var(--canvas-top)),hsl(var(--canvas-bottom)))] text-text"
       >
         <div className="mx-auto w-full max-w-[90rem] px-4 pb-12 pt-5 sm:px-6 sm:pt-6">
-          <div className="sticky top-3 z-20 mb-3 -mx-1 overflow-x-auto px-1 pb-1 min-[1280px]:static min-[1280px]:mx-0 min-[1280px]:overflow-visible min-[1280px]:px-0 min-[1280px]:pb-0 min-[1280px]:pr-[0.75rem]">
-            <div className="flex w-max min-w-full items-center justify-end gap-1.5 rounded-[0.55rem] border border-borderTone/55 bg-[hsl(var(--surface-raised)/0.9)] px-2 py-1 shadow-[0_1px_0_hsl(var(--text)/0.08)] backdrop-blur-sm min-[1280px]:w-auto min-[1280px]:bg-[hsl(var(--surface-raised)/0.7)] min-[1280px]:backdrop-blur-none">
+          <div className="sticky top-3 z-20 mb-3 pb-1 xl:static xl:pb-0 xl:pr-[0.75rem]">
+            <div className="flex w-full flex-wrap items-center justify-between gap-1.5 rounded-[0.55rem] border border-borderTone/55 bg-[hsl(var(--surface-raised)/0.9)] px-2 py-1 shadow-[0_1px_0_hsl(var(--text)/0.08)] backdrop-blur-sm xl:justify-end xl:bg-[hsl(var(--surface-raised)/0.7)] xl:backdrop-blur-none">
               <LegacyToolbarButton title="Show guided tour" onClick={() => setPracticeGuideOpen(true)}>
                 <CircleHelp className="h-4 w-4" />
               </LegacyToolbarButton>
@@ -1161,17 +1163,17 @@ export function AdaptivePracticeScreen() {
               </LegacyToolbarButton>
               <Link
                 href="/settings"
-                className="inline-flex h-9 items-center gap-2 rounded-[4px] bg-surfaceStrong px-3 text-[0.82rem] font-medium text-surfaceStrongText transition hover:bg-[hsl(var(--surface-strong-hover))] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))]"
+                className="inline-flex h-9 items-center gap-2 rounded-[4px] bg-surfaceStrong px-2.5 text-[0.82rem] font-medium text-surfaceStrongText transition hover:bg-[hsl(var(--surface-strong-hover))] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[hsl(var(--focus-ring))] sm:px-3"
               >
                 <Settings2 className="h-4 w-4" />
-                Settings...
+                Settings
               </Link>
             </div>
           </div>
 
-          <section className="relative flex flex-col min-[1280px]:min-h-[calc(100svh-7.75rem)] min-[1280px]:block">
+          <section className="relative flex flex-col xl:block">
             {showUtilitySidebar ? (
-              <aside className="order-2 mt-6 w-full min-[1280px]:absolute min-[1280px]:right-0 min-[1280px]:top-4 min-[1280px]:z-10 min-[1280px]:mt-0 min-[1280px]:w-[8.75rem]">
+              <aside className="order-2 mt-6 w-full xl:absolute xl:right-0 xl:top-4 xl:z-10 xl:mt-0 xl:w-[14rem]">
                 {utilitySidebar}
               </aside>
             ) : null}
@@ -1179,7 +1181,7 @@ export function AdaptivePracticeScreen() {
             <div
               data-testid="practice-main-column"
               className={classNames(
-                "order-1 mx-auto flex min-h-[calc(100svh-8.75rem)] w-full max-w-[56rem] flex-col justify-center gap-4 pb-2 pt-2",
+                "order-1 mx-auto flex w-full max-w-[56rem] flex-col gap-4 pb-3 pt-2",
                 practicePresentationMode === "compact" && "max-w-[54rem] gap-4",
                 practicePresentationMode === "minimal" && "max-w-[52rem] gap-3",
               )}

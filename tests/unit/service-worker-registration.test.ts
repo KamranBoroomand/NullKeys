@@ -43,10 +43,23 @@ describe("service worker registration", () => {
       },
     });
 
-    vi.spyOn(window, "addEventListener").mockImplementation((eventName, listener) => {
-      if (eventName === "load") {
-        loadListeners.push(listener as () => void);
+    vi.spyOn(window, "addEventListener").mockImplementation((...args) => {
+      const [eventName, listener] = args as [string, EventListenerOrEventListenerObject | null];
+
+      if (eventName !== "load" || !listener) {
+        return;
       }
+
+      loadListeners.push(() => {
+        const event = new Event("load");
+
+        if (typeof listener === "function") {
+          listener(event);
+          return;
+        }
+
+        listener.handleEvent(event);
+      });
     });
 
     mutableProcessEnv.NODE_ENV = "production";

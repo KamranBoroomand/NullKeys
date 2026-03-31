@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.next/
+.open-next/
+.wrangler/
+cloudflare-env.d.ts
+coverage/
+output/
+playwright-report/
+test-results/
+tsconfig.tsbuildinfo
+.dev.vars
+.dev.vars.*
+.env.local
+.env.*.local

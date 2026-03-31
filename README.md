@@ -1,38 +1,52 @@
 # NullKeys
 
-NullKeys is a local-first typing trainer built with Next.js, TypeScript, and Tailwind CSS. It combines adaptive lessons, standalone typing tests, keyboard layout analysis, and on-device progress history without accounts, remote sync, or cloud storage.
+NullKeys is a local-first multilingual typing trainer built with Next.js, TypeScript, and Tailwind CSS. It combines adaptive practice, typing tests, keyboard layout analysis, and on-device progress history without accounts, remote sync, telemetry, or a backend.
 
-Public app domain: [https://nullkeys.kamranboroomand.ir](https://nullkeys.kamranboroomand.ir)
+Hosted app: [https://nullkeys.kamranboroomand.ir](https://nullkeys.kamranboroomand.ir)
 
-## Project overview
+## What NullKeys is
 
-NullKeys is designed for people who want a deeper typing practice tool without giving up privacy or local ownership. The app runs entirely in the browser, keeps progress on the current device, and treats offline use as the default rather than a reduced mode.
+NullKeys is for people who want more depth than a one-page speed test without tying their practice history to an account or cloud service. It treats offline-capable, on-device use as the default, not a fallback.
 
-## Why NullKeys exists
+## Why it exists
 
-Most typing products ask users to trade control for convenience. NullKeys takes the opposite approach: training data, preferences, and history stay with the person using the app. The goal is to offer a richer practice environment, better multilingual support, and stronger self-review while preserving a local-first architecture.
+Many typing products trade privacy and local ownership for convenience. NullKeys takes the opposite approach: preferences, learner state, session history, and cached content stay in the browser on the device. The aim is a deeper typing tool with stronger multilingual support and review while staying local-first and privacy-first.
+
+## Who it is for
+
+- People practicing across multiple languages or keyboard layouts
+- Learners who want adaptive drills and review surfaces, not just a speed test
+- Privacy-conscious users who prefer browser storage over accounts and hosted profiles
+- People who want manual archive export and import instead of automatic sync
+
+## What makes it different
+
+- Local-first by design: no accounts, remote sync, telemetry pipeline, or cloud-backed progress store
+- Multilingual content packs with RTL handling and composition-aware support for IME-heavy languages
+- Adaptive practice that reacts to learner history instead of serving fixed drills
+- Keyboard layout exploration and analysis alongside normal typing practice
+- Manual local archive export and import for portability without changing the no-account model
 
 ## Current feature set
 
-- Adaptive practice with multiple density modes, integrated keyboard coaching, and progression-aware prompts
-- Standalone typing test and benchmark flows with saved local reports and replayable sessions
-- Profile and progress views for trends, histograms, comparisons, heatmaps, and recent history
-- Keyboard layout explorer with language-aware analysis and comparison tools
-- Local archive export and import for moving browser data between devices
+- Adaptive practice with density controls, keyboard coaching, and progression-aware prompts
+- Standalone typing-test and benchmark flows with saved local reports and replayable sessions
+- Profile and progress views with trends, histograms, heatmaps, comparisons, and recent history
+- Keyboard layout explorer with language-aware analysis, row metrics, hand balance, and comparisons
 - Onboarding, help, methodology, privacy, and settings pages that explain how the product works
-- Multilingual content packs with RTL handling and composition-aware input support for IME-heavy languages
+- Browser install support and local archive tools for saving or moving on-device data
 
 ## Local-first and privacy model
 
-NullKeys does not require an account and does not ship with a backend. Local data lives in browser storage:
+NullKeys has no account system and no product backend. Local data lives in browser storage:
 
 - `localStorage` for preferences, onboarding state, and UI settings
-- IndexedDB for saved sessions, progress history, content caches, and learner state
-- small cookies for lightweight install or onboarding hints
+- IndexedDB for session history, analytics snapshots, learner state, and content caches
+- Small cookies for lightweight onboarding and install hints
 
-There is no remote sync, no telemetry pipeline, and no server-side recovery path if local browser data is deleted before export.
+There is no remote sync, hosted recovery path, or server-side copy of personal progress. If local browser data is deleted before export, NullKeys cannot recover it.
 
-## Installation
+## Run locally
 
 Requirements:
 
@@ -40,57 +54,52 @@ Requirements:
 - npm 10 or newer
 - A modern desktop browser
 
-Install dependencies from the repository root:
+Install dependencies and generate the browser-served content packs:
 
 ```bash
 npm ci
-```
-
-Generate content packs for a clean clone:
-
-```bash
 npm run content:packs
 ```
 
-Release tags are expected to include the browser-served assets in `public/content-packs`. Regenerate them locally when source content changes or when you want to refresh the committed release payload.
-
-## Development
-
-Start the local development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Then open [http://localhost:3000](http://localhost:3000).
 
-Helpful notes:
+Notes:
 
 - `/devtools` is available only in development and is blocked in production builds
-- `npm run content:packs` regenerates the browser-served content packs after source content changes
+- `public/content-packs/` is intentionally committed because release tags are expected to include the browser-served content payload
 - `npm run handoff:package` creates a clean archive in `output/` without build artifacts or local runtime files
 
-For a clean first-run path, visit `/onboarding`, choose language and keyboard preferences, and continue into practice.
+For a clean first run, visit `/onboarding`, choose language and keyboard preferences, and continue into practice.
 
-## Test commands
+## Test and validation
+
+Recommended validation order:
 
 ```bash
-npm run check
+npm run content:packs
+npm run lint
 npm run test:unit
-npm run test:e2e
-npm test
+npm run check
 ```
 
-What each command does:
+Other useful commands:
 
-- `npm run check`: content-pack generation, ESLint, Next.js type generation, TypeScript, and Vitest
-- `npm run test:unit`: unit and integration coverage through Vitest
 - `npm run test:e2e`: Playwright browser flows
 - `npm test`: the full automated suite
+- `npm run build`: production Next.js build
+- `npm run start`: serve an existing production build locally
 
-## Production build
+`npm run check` runs content-pack generation, ESLint, Next.js type generation, TypeScript validation, and Vitest.
 
-Create and preview a production build locally:
+## Build and deploy
+
+Build and preview locally:
 
 ```bash
 npm run build
@@ -99,32 +108,29 @@ npm run start
 
 The start script checks for a production-ready `.next` bundle before launching.
 
-## Cloudflare deployment
-
-NullKeys is set up for a normal Next.js deployment on Cloudflare Workers, not a static-export or GitHub Pages setup. The local-first behavior stays the same: Cloudflare hosts the app shell, while preferences, progress, and content caches remain in the browser.
-
-Cloudflare-specific commands:
+For Cloudflare deployment:
 
 ```bash
 npm run preview
 npm run deploy
 ```
 
-These commands use the OpenNext Cloudflare adapter and `wrangler` for a Workers-compatible deployment path. See [docs/cloudflare-deployment.md](./docs/cloudflare-deployment.md) for the planned domain, required GitHub/Cloudflare setup, and the small amount of configuration still owned by the deployer.
+NullKeys deploys to Cloudflare Workers through the OpenNext Cloudflare adapter. It is not a static-export or GitHub Pages project. Cloudflare hosts the app shell; learner data stays in the browser. See [docs/cloudflare-deployment.md](./docs/cloudflare-deployment.md) for deployment details.
 
-## Known limitations
+## Current limitations
 
 - NullKeys is still pre-1.0 and intentionally local-only: there is no account system, sync, or hosted backup
 - Multiplayer is intentionally offline for now and does not include matchmaking or cloud-backed sessions
 - IME-heavy languages are composition-aware, but exact candidate-window behavior still depends on the browser and operating system
 - Archive import replaces local data instead of merging it, so exporting before experiments is strongly recommended
+- Cross-device continuity is manual, not automatic, to preserve local ownership
 
 ## Current release status
 
-NullKeys `v0.1.0` is the first public source release of the project. It is usable locally today, but it should still be treated as an early public release rather than a stable 1.0 contract.
+NullKeys `v0.1.0` is the first public source release. It is usable today, but it should still be treated as an early public release rather than a stable 1.0 contract.
 
-`package.json` intentionally keeps `"private": true` to prevent accidental npm publication. NullKeys is distributed as source code from the repository, not as a published package.
+`package.json` intentionally keeps `"private": true` to prevent accidental npm publication. NullKeys is distributed as source code from this repository, not as an npm package.
 
-## Contributing and security
+## Contributing, security, and license
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for development expectations and [SECURITY.md](./SECURITY.md) for vulnerability reporting guidance.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for development expectations, [SECURITY.md](./SECURITY.md) for vulnerability reporting guidance, and [LICENSE](./LICENSE) for the project license.

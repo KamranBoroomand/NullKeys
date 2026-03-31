@@ -494,49 +494,105 @@ function renderCharacterContent({
 }: Omit<PromptBoardContentProps, "scriptFamily">) {
   const committedText = typedText ?? "";
   const activeCount = committedText.length > 0 ? committedText.length : completedCount ?? 0;
+  const chunks = buildJoinedScriptChunks(promptText);
 
-  return segmentTextIntoGraphemes(promptText).map((promptCharacter) => {
-    const fullyTyped =
-      typedText !== undefined ? committedText.length >= promptCharacter.end : activeCount >= promptCharacter.end;
-    const partiallyTyped =
-      typedText !== undefined
-        ? committedText.length > promptCharacter.start && committedText.length < promptCharacter.end
-        : activeCount > promptCharacter.start && activeCount < promptCharacter.end;
-    const wasTyped =
-      typedText !== undefined
-        ? committedText.length > promptCharacter.start
-        : activeCount > promptCharacter.start;
-    const correct =
-      typedText !== undefined
-        ? fullyTyped &&
-          committedText.slice(promptCharacter.start, Math.min(promptCharacter.end, committedText.length)) ===
-            promptCharacter.text
-        : fullyTyped;
-    const isCurrent =
-      typedText !== undefined
-        ? committedText.length >= promptCharacter.start && committedText.length < promptCharacter.end
-        : activeCount >= promptCharacter.start && activeCount < promptCharacter.end;
-    const whitespaceTone =
-      fullyTyped && !correct
-        ? "danger"
-        : isCurrent || partiallyTyped
-          ? "current"
-          : !wasTyped
-            ? "muted"
-            : "default";
+  return chunks.map((chunk, chunkIndex) => {
+    if (chunk.kind === "space") {
+      return (
+        <Fragment key={`space-${chunk.start}-${chunkIndex}`}>
+          {Array.from(chunk.text).map((spaceCharacter, spaceIndex) => {
+            const start = chunk.start + spaceIndex;
+            const end = start + 1;
+            const fullyTyped =
+              typedText !== undefined ? committedText.length >= end : activeCount >= end;
+            const partiallyTyped =
+              typedText !== undefined
+                ? committedText.length > start && committedText.length < end
+                : activeCount > start && activeCount < end;
+            const wasTyped =
+              typedText !== undefined ? committedText.length > start : activeCount > start;
+            const correct =
+              typedText !== undefined
+                ? fullyTyped && committedText.slice(start, Math.min(end, committedText.length)) === spaceCharacter
+                : fullyTyped;
+            const isCurrent =
+              typedText !== undefined
+                ? committedText.length >= start && committedText.length < end
+                : activeCount >= start && activeCount < end;
+            const whitespaceTone =
+              fullyTyped && !correct
+                ? "danger"
+                : isCurrent || partiallyTyped
+                  ? "current"
+                  : !wasTyped
+                    ? "muted"
+                    : "default";
+
+            return (
+              <span
+                key={`space-${start}-${spaceIndex}`}
+                className={classNames(
+                  "inline rounded-[3px] px-[1px]",
+                  fullyTyped && correct && "text-text",
+                  fullyTyped && !correct && "text-danger",
+                  isCurrent && "border-b-2 border-accent text-text",
+                  !wasTyped && !isCurrent && "text-textMuted/85",
+                )}
+              >
+                {renderPromptWhitespace(spaceCharacter, whitespaceStyle, direction, whitespaceTone)}
+              </span>
+            );
+          })}
+        </Fragment>
+      );
+    }
 
     return (
-      <span
-        key={`${promptCharacter.start}-${promptCharacter.end}-${promptCharacter.text}`}
-        className={classNames(
-          "inline rounded-[3px] px-[1px]",
-          fullyTyped && correct && "text-text",
-          fullyTyped && !correct && "text-danger",
-          isCurrent && "border-b-2 border-accent text-text",
-          !wasTyped && !isCurrent && "text-textMuted/85",
-        )}
-      >
-        {renderPromptWhitespace(promptCharacter.text, whitespaceStyle, direction, whitespaceTone)}
+      <span key={`word-${chunk.start}-${chunkIndex}`} className="inline-block max-w-full align-baseline">
+        {segmentTextIntoGraphemes(chunk.text).map((promptCharacter) => {
+          const start = chunk.start + promptCharacter.start;
+          const end = chunk.start + promptCharacter.end;
+          const fullyTyped =
+            typedText !== undefined ? committedText.length >= end : activeCount >= end;
+          const partiallyTyped =
+            typedText !== undefined
+              ? committedText.length > start && committedText.length < end
+              : activeCount > start && activeCount < end;
+          const wasTyped =
+            typedText !== undefined ? committedText.length > start : activeCount > start;
+          const correct =
+            typedText !== undefined
+              ? fullyTyped &&
+                committedText.slice(start, Math.min(end, committedText.length)) === promptCharacter.text
+              : fullyTyped;
+          const isCurrent =
+            typedText !== undefined
+              ? committedText.length >= start && committedText.length < end
+              : activeCount >= start && activeCount < end;
+          const whitespaceTone =
+            fullyTyped && !correct
+              ? "danger"
+              : isCurrent || partiallyTyped
+                ? "current"
+                : !wasTyped
+                  ? "muted"
+                  : "default";
+
+          return (
+            <span
+              key={`${start}-${end}-${promptCharacter.text}`}
+              className={classNames(
+                "inline rounded-[3px] px-[1px]",
+                fullyTyped && correct && "text-text",
+                fullyTyped && !correct && "text-danger",
+                isCurrent && "border-b-2 border-accent text-text",
+                !wasTyped && !isCurrent && "text-textMuted/85",
+              )}
+            >
+              {renderPromptWhitespace(promptCharacter.text, whitespaceStyle, direction, whitespaceTone)}
+            </span>
+          );
+        })}
       </span>
     );
   });

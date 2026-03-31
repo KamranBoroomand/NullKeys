@@ -2,7 +2,7 @@
   "name": "nullkeys",
   "version": "0.1.0",
   "private": true,
-  "description": "Local-first typing trainer with adaptive practice, multilingual content, and on-device progress analytics.",
+  "description": "Local-first multilingual typing trainer with adaptive practice, keyboard layout analysis, and on-device progress history.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -13,9 +13,13 @@
   },
   "homepage": "https://nullkeys.kamranboroomand.ir",
   "keywords": [
+    "typing-trainer",
     "typing",
     "local-first",
-    "privacy",
+    "privacy-first",
+    "multilingual",
+    "keyboard-layout",
+    "offline-first",
     "education",
     "nextjs"
   ],

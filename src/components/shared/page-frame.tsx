@@ -51,7 +51,7 @@ export function PageFrame({
 
   return (
     <div className="min-h-screen bg-canvas text-text">
-      <div className="mx-auto grid max-w-[88rem] gap-6 px-4 pb-9 pt-3 lg:grid-cols-[minmax(0,1fr)_8.75rem] lg:px-6">
+      <div className="mx-auto grid max-w-[88rem] gap-6 px-4 pb-9 pt-3 xl:grid-cols-[minmax(0,1fr)_11.5rem] xl:px-6">
         <div className="min-w-0">
           {showHeading ? (
             <header className="border-b border-borderTone/45 pb-3">
@@ -95,7 +95,7 @@ export function PageFrame({
                 </div>
               </div>
 
-              <nav className="mt-4 flex gap-2 overflow-x-auto pb-1 lg:hidden">
+              <nav className="mt-4 flex flex-wrap gap-2 pb-1 xl:hidden">
                 {primaryItems.map((item) => {
                   const active = matchesPath(item, pathname);
 
@@ -117,7 +117,7 @@ export function PageFrame({
               </nav>
             </header>
           ) : (
-            <header className="pb-2 lg:hidden">
+            <header className="pb-2 xl:hidden">
               <div className="flex items-center justify-between gap-3">
                 <Link href="/" className="text-sm font-semibold uppercase tracking-[0.24em] text-text">
                   {buildMetadata.name}
@@ -162,17 +162,17 @@ export function PageFrame({
           ) : null}
         </div>
 
-        <aside className="hidden lg:block">
-          <div className="sticky top-5 pl-2">
-            <div className="space-y-4 border-l border-borderTone/28 pl-3 text-right">
+        <aside className="hidden xl:block">
+          <div className="sticky top-6 pl-4">
+            <div className="space-y-5 border-l border-borderTone/28 pl-4 text-right">
               <div className="space-y-1">
-                <Link href="/" className="text-sm font-semibold uppercase tracking-[0.24em] text-text">
-                  {buildMetadata.name.toLowerCase()}
+                <Link href="/" className="text-[0.82rem] font-semibold uppercase tracking-[0.24em] text-text">
+                  {buildMetadata.name}
                 </Link>
                 <button
                   type="button"
                   onClick={() => onThemeChange(nextThemeChoice)}
-                  className="text-[11px] text-textMuted transition hover:text-text focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
+                  className="text-[0.72rem] text-textMuted transition hover:text-text focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
                   aria-label={`Switch theme to ${nextThemeLabel}`}
                   title={`Next theme: ${nextThemeLabel}`}
                 >
@@ -180,7 +180,7 @@ export function PageFrame({
                 </button>
               </div>
 
-              <nav className="space-y-1.5">
+              <nav className="space-y-2">
                 {primaryItems.map((item) => {
                   const active = matchesPath(item, pathname);
 
@@ -189,7 +189,7 @@ export function PageFrame({
                       key={item.href}
                       href={item.href}
                       className={classNames(
-                        "block py-0.5 text-sm transition",
+                        "block py-0.5 text-[0.84rem] leading-5 transition",
                         active
                           ? "font-medium text-text"
                           : "text-textMuted hover:text-text",
@@ -201,7 +201,7 @@ export function PageFrame({
                 })}
               </nav>
 
-              <div className="space-y-1 border-t border-borderTone/35 pt-3 text-xs text-textMuted">
+              <div className="space-y-1.5 border-t border-borderTone/35 pt-3 text-[0.78rem] leading-5 text-textMuted">
                 {utilityNavigationItems.map((item) => (
                   <Link key={item.href} href={item.href} className="block hover:text-text">
                     {item.label}
@@ -209,7 +209,7 @@ export function PageFrame({
                 ))}
               </div>
 
-              <div className="space-y-1 border-t border-borderTone/35 pt-3 text-[11px] leading-5 text-textMuted">
+              <div className="space-y-1.5 border-t border-borderTone/35 pt-3 text-[0.72rem] leading-5 text-textMuted">
                 <p>{buildMetadata.tagline}</p>
                 <p>local only</p>
                 <p>no account</p>

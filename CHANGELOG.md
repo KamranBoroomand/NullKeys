@@ -2,6 +2,14 @@
 
 All notable changes to NullKeys will be documented in this file.
 
+## [Unreleased]
+
+### Repository And Documentation Polish
+
+- Reworked the public README to clarify the product pitch, local setup, validation flow, deployment path, current limitations, and release status
+- Added GitHub health files for issues, pull requests, dependency updates, ownership, and coding-agent guidance
+- Removed tracked machine-specific repo junk and tightened ignore guidance for local runtime artifacts
+
 ## [0.1.0] - 2026-03-23
 
 ### Release Summary
