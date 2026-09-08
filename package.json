@@ -1,0 +1,101 @@
+{
+  "name": "nullkeys",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first English, Persian, and Russian typing trainer with adaptive practice and valid on-device benchmarks.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamranBoroomand/NullKeys"
+  },
+  "bugs": {
+    "url": "https://github.com/KamranBoroomand/NullKeys/issues"
+  },
+  "homepage": "https://nullkeys.kamranboroomand.ir",
+  "keywords": [
+    "typing-trainer",
+    "typing",
+    "local-first",
+    "privacy-first",
+    "english",
+    "persian",
+    "russian",
+    "keyboard-layout",
+    "offline-first",
+    "education",
+    "nextjs"
+  ],
+  "engines": {
+    "node": ">=22.12 <23",
+    "npm": ">=10"
+  },
+  "scripts": {
+    "dev": "node scripts/run-dev.mjs",
+    "build": "npm run content:packs && next build && npm run service-worker:generate",
+    "start": "node scripts/run-start.mjs",
+    "build:cloudflare": "opennextjs-cloudflare build",
+    "preview": "npm run build:cloudflare && opennextjs-cloudflare preview",
+    "deploy": "npm run build:cloudflare && opennextjs-cloudflare deploy",
+    "cf:typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "lint": "eslint . --ext .js,.jsx,.mjs,.ts,.tsx --max-warnings=0",
+    "typecheck": "node scripts/run-typecheck.mjs",
+    "test": "npm run test:e2e && npm run test:unit",
+    "test:all": "npm run test",
+    "test:unit": "npm run content:packs && vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "npm run content:packs && playwright test",
+    "check": "npm run content:packs && npm run lint && npm run typecheck && npm run test:unit",
+    "check:generated": "node scripts/check-content-pack-drift.mjs",
+    "check:hygiene": "node scripts/check-repository-hygiene.mjs",
+    "check:secrets": "node scripts/check-secrets.mjs",
+    "check:audit": "node scripts/check-dependency-audit.mjs",
+    "check:bundle": "node scripts/check-bundle-budget.mjs",
+    "content:packs": "node scripts/build-content-packs.mjs",
+    "service-worker:generate": "node scripts/generate-service-worker.mjs",
+    "release:source": "node scripts/create-source-archive.mjs"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "idb": "^8.0.2",
+    "lucide-react": "^0.542.0",
+    "next": "^15.5.24",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@opennextjs/cloudflare": "^1.20.2",
+    "@playwright/test": "^1.55.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.5.24",
+    "fake-indexeddb": "^6.0.1",
+    "jsdom": "^26.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.8",
+    "wrangler": "4.120.0"
+  },
+  "overrides": {
+    "@opennextjs/aws": {
+      "@node-minify/core": "10.5.0",
+      "@node-minify/terser": "10.5.0"
+    },
+    "brace-expansion@^1": "1.1.18",
+    "brace-expansion@^5": "5.0.9",
+    "js-yaml@^4": "4.3.2",
+    "nanoid@^3": "3.3.18",
+    "next": {
+      "sharp": "0.35.3"
+    }
+  }
+}

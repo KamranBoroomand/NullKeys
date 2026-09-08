@@ -1,0 +1,466 @@
+{
+  "version": "2026-08-30-curated-corpus-v1",
+  "generatedAt": "2026-08-30T00:00:00.000Z",
+  "buildId": "929eadc79a871de6",
+  "sourceHash": "929eadc79a871de63d1e393e6137413e21f67d9a7d0ebb86a54d1984498998af",
+  "sourceFiles": {
+    "seedContentSourcePath": "src/content/dictionaries/seed-language-content.generated.ts",
+    "supplementalLexiconSourcePath": "src/content/dictionaries/language-layered-lexicons.ts",
+    "languageTextMetadataSourcePath": "src/content/languages/language-text-metadata.ts",
+    "languageTextNormalizationSourcePath": "src/lib/text/language-text-normalization.ts"
+  },
+  "coverage": {
+    "totalPackCount": 9,
+    "commonWordPackCount": 3,
+    "phrasePackCount": 3,
+    "quotePackCount": 3,
+    "overlapLanguageCount": 0,
+    "fullSupportLanguageCount": 3,
+    "firstClassLanguageIds": [
+      "english",
+      "persian",
+      "russian"
+    ],
+    "longTailLanguageIds": []
+  },
+  "languages": {
+    "english": {
+      "sourceWordCount": 0,
+      "seedWordCount": 0,
+      "fallbackRealWordCount": 153,
+      "totalRankedWordCount": 153,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "latin",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "latin-wrap-aware",
+        "benchmarkReplay": "latin-wrap-aware",
+        "status": "configured",
+        "metadataPresent": true,
+        "automatedScriptCheckPassed": true,
+        "humanEditorialReview": "not-recorded"
+      },
+      "repetitionRobustness": {
+        "status": "thresholds-met",
+        "thresholdsMet": true,
+        "constrainedCharacterSetReady": true,
+        "phrasePoolPresent": true,
+        "quotePoolPresent": true,
+        "beginnerBreadth": 137,
+        "foundationalPool": 73,
+        "developingPool": 64,
+        "advancedPool": 16,
+        "phrasePool": 24,
+        "quotePool": 18
+      },
+      "benchmarkReadiness": {
+        "status": "supported",
+        "supportsBenchmarks": true,
+        "quotePool": 18,
+        "phrasePool": 24
+      },
+      "corpusQuality": {
+        "automatedValidationPassed": true,
+        "humanEditorialReview": "not-recorded",
+        "thresholds": {
+          "minimumPhraseCount": 12,
+          "minimumQuoteCount": 12,
+          "minimumPhraseGraphemes": 12,
+          "maximumPhraseGraphemes": 90,
+          "minimumQuoteGraphemes": 50,
+          "maximumQuoteGraphemes": 240,
+          "maximumRepeatedFourGramFraction": 0.08,
+          "maximumOpeningFraction": 0.2,
+          "maximumMetaVocabularyFraction": 0
+        },
+        "phraseDrills": {
+          "entryCount": 24,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 26,
+          "maximumObservedGraphemes": 44,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 76,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 24,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0417
+        },
+        "quoteDrills": {
+          "entryCount": 18,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 87,
+          "maximumObservedGraphemes": 112,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 263,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 18,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0556
+        }
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 73,
+          "developing": 64,
+          "advanced": 16
+        },
+        "tiers": {
+          "core": 153,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 153,
+        "sourceOrigins": [
+          "Repository-maintained English vocabulary grouped by difficulty"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 24,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 24,
+        "sourceOrigins": [
+          "Repository-maintained English scene fragments; automated checks only"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 18,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 18,
+        "sourceOrigins": [
+          "Repository-maintained English scene passages; automated checks only"
+        ]
+      },
+      "sourceLabels": []
+    },
+    "persian": {
+      "sourceWordCount": 0,
+      "seedWordCount": 0,
+      "fallbackRealWordCount": 149,
+      "totalRankedWordCount": 149,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "arabic",
+        "numberingSystem": "mixed",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "joined-script-rtl",
+        "benchmarkReplay": "joined-script-rtl",
+        "status": "configured",
+        "metadataPresent": true,
+        "automatedScriptCheckPassed": true,
+        "humanEditorialReview": "not-recorded"
+      },
+      "repetitionRobustness": {
+        "status": "thresholds-met",
+        "thresholdsMet": true,
+        "constrainedCharacterSetReady": true,
+        "phrasePoolPresent": true,
+        "quotePoolPresent": true,
+        "beginnerBreadth": 124,
+        "foundationalPool": 73,
+        "developingPool": 51,
+        "advancedPool": 25,
+        "phrasePool": 24,
+        "quotePool": 18
+      },
+      "benchmarkReadiness": {
+        "status": "supported",
+        "supportsBenchmarks": true,
+        "quotePool": 18,
+        "phrasePool": 24
+      },
+      "corpusQuality": {
+        "automatedValidationPassed": true,
+        "humanEditorialReview": "not-recorded",
+        "thresholds": {
+          "minimumPhraseCount": 12,
+          "minimumQuoteCount": 12,
+          "minimumPhraseGraphemes": 12,
+          "maximumPhraseGraphemes": 90,
+          "minimumQuoteGraphemes": 50,
+          "maximumQuoteGraphemes": 240,
+          "maximumRepeatedFourGramFraction": 0.08,
+          "maximumOpeningFraction": 0.2,
+          "maximumMetaVocabularyFraction": 0
+        },
+        "phraseDrills": {
+          "entryCount": 24,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 18,
+          "maximumObservedGraphemes": 34,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 50,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 24,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0417
+        },
+        "quoteDrills": {
+          "entryCount": 18,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 71,
+          "maximumObservedGraphemes": 96,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 241,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 18,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0556
+        }
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 73,
+          "developing": 51,
+          "advanced": 25
+        },
+        "tiers": {
+          "core": 149,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 149,
+        "sourceOrigins": [
+          "Repository-maintained Persian vocabulary grouped by difficulty"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 24,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 24,
+        "sourceOrigins": [
+          "Repository-maintained Persian scene fragments; automated checks only"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 18,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 18,
+        "sourceOrigins": [
+          "Repository-maintained Persian scene passages; automated checks only"
+        ]
+      },
+      "sourceLabels": []
+    },
+    "russian": {
+      "sourceWordCount": 0,
+      "seedWordCount": 0,
+      "fallbackRealWordCount": 137,
+      "totalRankedWordCount": 137,
+      "supportedFamilies": [
+        "common-words",
+        "phrase-drills",
+        "quote-drills"
+      ],
+      "firstClassTarget": true,
+      "supportTier": "first-class",
+      "qualifiesAsFullSupport": true,
+      "supportStatus": "full-support",
+      "progressionCoverage": {
+        "usableStageCount": 3,
+        "hasFoundationalStage": true,
+        "hasDevelopingStage": true,
+        "hasAdvancedStage": true,
+        "supportsBeginner": true,
+        "supportsIntermediate": true,
+        "supportsAdvanced": true,
+        "progressionPathStatus": "complete"
+      },
+      "renderingStatus": {
+        "scriptFamily": "cyrillic",
+        "numberingSystem": "latin",
+        "imeProfile": "direct",
+        "usesWordSpacing": true,
+        "promptBoard": "cyrillic-tuned",
+        "benchmarkReplay": "cyrillic-tuned",
+        "status": "configured",
+        "metadataPresent": true,
+        "automatedScriptCheckPassed": true,
+        "humanEditorialReview": "not-recorded"
+      },
+      "repetitionRobustness": {
+        "status": "thresholds-met",
+        "thresholdsMet": true,
+        "constrainedCharacterSetReady": true,
+        "phrasePoolPresent": true,
+        "quotePoolPresent": true,
+        "beginnerBreadth": 132,
+        "foundationalPool": 71,
+        "developingPool": 61,
+        "advancedPool": 5,
+        "phrasePool": 24,
+        "quotePool": 18
+      },
+      "benchmarkReadiness": {
+        "status": "supported",
+        "supportsBenchmarks": true,
+        "quotePool": 18,
+        "phrasePool": 24
+      },
+      "corpusQuality": {
+        "automatedValidationPassed": true,
+        "humanEditorialReview": "not-recorded",
+        "thresholds": {
+          "minimumPhraseCount": 12,
+          "minimumQuoteCount": 12,
+          "minimumPhraseGraphemes": 12,
+          "maximumPhraseGraphemes": 90,
+          "minimumQuoteGraphemes": 50,
+          "maximumQuoteGraphemes": 240,
+          "maximumRepeatedFourGramFraction": 0.08,
+          "maximumOpeningFraction": 0.2,
+          "maximumMetaVocabularyFraction": 0
+        },
+        "phraseDrills": {
+          "entryCount": 24,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 25,
+          "maximumObservedGraphemes": 38,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 46,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 24,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0417
+        },
+        "quoteDrills": {
+          "entryCount": 18,
+          "exactDuplicateCount": 0,
+          "normalizedDuplicateCount": 0,
+          "malformedWhitespaceCount": 0,
+          "scriptViolationCount": 0,
+          "lengthViolationCount": 0,
+          "minimumObservedGraphemes": 78,
+          "maximumObservedGraphemes": 104,
+          "metaVocabularyCount": 0,
+          "metaVocabularyFraction": 0,
+          "uniqueFourGramCount": 196,
+          "repeatedFourGramCount": 0,
+          "repeatedFourGramFraction": 0,
+          "distinctOpeningCount": 18,
+          "maximumOpeningCount": 1,
+          "maximumOpeningFraction": 0.0556
+        }
+      },
+      "commonWords": {
+        "stages": {
+          "foundational": 71,
+          "developing": 61,
+          "advanced": 5
+        },
+        "tiers": {
+          "core": 137,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 137,
+        "sourceOrigins": [
+          "Repository-maintained Russian vocabulary grouped by difficulty"
+        ]
+      },
+      "phraseDrills": {
+        "tiers": {
+          "core": 24,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 24,
+        "sourceOrigins": [
+          "Repository-maintained Russian scene fragments; automated checks only"
+        ]
+      },
+      "quoteDrills": {
+        "tiers": {
+          "core": 18,
+          "extended": 0,
+          "deep": 0
+        },
+        "total": 18,
+        "sourceOrigins": [
+          "Repository-maintained Russian scene passages; automated checks only"
+        ]
+      },
+      "sourceLabels": []
+    }
+  }
+}

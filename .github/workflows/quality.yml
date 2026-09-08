@@ -1,0 +1,83 @@
+name: Quality
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install browser runtime
+        run: npx playwright install --with-deps chromium
+
+      - name: Generate content packs
+        run: npm run content:packs
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Unit tests
+        run: npm run test:unit
+
+      - name: Deterministic content check
+        run: npm run check:generated
+
+      - name: Production build
+        run: npm run build
+
+      - name: Service-worker drift check
+        run: git diff --exit-code -- public/service-worker.js
+
+      - name: Bundle budget
+        run: npm run check:bundle
+
+      - name: End-to-end smoke
+        id: e2e
+        env:
+          PLAYWRIGHT_SERVER_MODE: production
+        run: npm run test:e2e -- --project=chromium
+
+      - name: Upload Playwright failure artifacts
+        if: ${{ failure() && steps.e2e.outcome == 'failure' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-results-${{ github.run_id }}-${{ github.run_attempt }}
+          path: test-results/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Dependency audit
+        if: ${{ always() }}
+        run: npm run check:audit
+
+      - name: Repository hygiene
+        if: ${{ always() }}
+        run: npm run check:hygiene
+
+      - name: Secret scan
+        if: ${{ always() }}
+        run: npm run check:secrets

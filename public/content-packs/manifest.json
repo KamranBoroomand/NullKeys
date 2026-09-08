@@ -1,0 +1,112 @@
+{
+  "version": "2026-08-30-curated-corpus-v1",
+  "generatedAt": "2026-08-30T00:00:00.000Z",
+  "buildId": "929eadc79a871de6",
+  "packs": [
+    {
+      "packId": "english:common-words:core",
+      "languageId": "english",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/english/common-words.core.json",
+      "sizeBytes": 15049,
+      "entryCount": 153,
+      "stageCounts": {
+        "foundational": 73,
+        "developing": 64,
+        "advanced": 16
+      }
+    },
+    {
+      "packId": "english:phrase-drills:core",
+      "languageId": "english",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/english/phrase-drills.core.json",
+      "sizeBytes": 4817,
+      "entryCount": 24
+    },
+    {
+      "packId": "english:quote-drills:core",
+      "languageId": "english",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/english/quote-drills.core.json",
+      "sizeBytes": 4934,
+      "entryCount": 18
+    },
+    {
+      "packId": "persian:common-words:core",
+      "languageId": "persian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/persian/common-words.core.json",
+      "sizeBytes": 15821,
+      "entryCount": 149,
+      "stageCounts": {
+        "foundational": 73,
+        "developing": 51,
+        "advanced": 25
+      }
+    },
+    {
+      "packId": "persian:phrase-drills:core",
+      "languageId": "persian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/persian/phrase-drills.core.json",
+      "sizeBytes": 5560,
+      "entryCount": 24
+    },
+    {
+      "packId": "persian:quote-drills:core",
+      "languageId": "persian",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/persian/quote-drills.core.json",
+      "sizeBytes": 6512,
+      "entryCount": 18
+    },
+    {
+      "packId": "russian:common-words:core",
+      "languageId": "russian",
+      "contentFamilyId": "common-words",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/russian/common-words.core.json",
+      "sizeBytes": 14780,
+      "entryCount": 137,
+      "stageCounts": {
+        "foundational": 71,
+        "developing": 61,
+        "advanced": 5
+      }
+    },
+    {
+      "packId": "russian:phrase-drills:core",
+      "languageId": "russian",
+      "contentFamilyId": "phrase-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/russian/phrase-drills.core.json",
+      "sizeBytes": 6065,
+      "entryCount": 24
+    },
+    {
+      "packId": "russian:quote-drills:core",
+      "languageId": "russian",
+      "contentFamilyId": "quote-drills",
+      "tier": "core",
+      "version": "2026-08-30-curated-corpus-v1",
+      "path": "/content-packs/packs/russian/quote-drills.core.json",
+      "sizeBytes": 6835,
+      "entryCount": 18
+    }
+  ]
+}

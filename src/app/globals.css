@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-body: "IBM Plex Sans", "IBM Plex Sans Arabic", "Vazirmatn", "Noto Naskh Arabic",
+    "Noto Sans Arabic", "IBM Plex Sans JP", "Noto Sans", "Noto Sans JP", "Avenir Next",
+    "Segoe UI", Tahoma, sans-serif;
+  --font-display: "IBM Plex Sans", "IBM Plex Sans Arabic", "Vazirmatn", "Noto Naskh Arabic",
+    "Noto Sans Arabic", "IBM Plex Sans JP", "Noto Sans", "Noto Sans JP", "Avenir Next",
+    "Segoe UI", Tahoma, sans-serif;
+  --font-mono: "SFMono-Regular", "SF Mono", Menlo, "IBM Plex Mono", "Noto Sans Mono",
+    "Vazirmatn", "Noto Naskh Arabic", "Noto Sans Arabic", "Noto Sans JP", monospace;
+  --canvas-top: 20 28% 95%;
+  --canvas: 22 24% 92%;
+  --canvas-bottom: 24 18% 88%;
+  --panel: 22 30% 96%;
+  --panel-muted: 24 16% 88%;
+  --panel-solid: 24 24% 94%;
+  --accent: 110 24% 42%;
+  --accent-soft: 108 26% 83%;
+  --text: 238 16% 22%;
+  --text-muted: 243 7% 42%;
+  --border-tone: 24 10% 72%;
+  --danger: 3 44% 48%;
+  --success: 110 26% 38%;
+  --warn: 42 40% 42%;
+  --overlay-backdrop: 222 32% 10%;
+  --modal-surface: 30 32% 98%;
+  --modal-surface-muted: 28 18% 93%;
+  --modal-text: 238 16% 20%;
+  --modal-text-muted: 240 9% 38%;
+  --modal-border: 24 16% 70%;
+  --modal-shadow: 228 24% 8%;
+  --popover-surface: 28 26% 97%;
+  --popover-text: 238 16% 22%;
+  --popover-border: 24 12% 74%;
+  --surface-raised: 24 26% 95%;
+  --surface-inset: 24 20% 93%;
+  --surface-strong: 214 18% 34%;
+  --surface-strong-hover: 214 20% 28%;
+  --surface-strong-text: 48 28% 93%;
+  --focus-ring: 108 22% 34%;
+  --trend-up: 110 26% 40%;
+  --trend-down: 4 36% 48%;
+  --chip-muted-background: 74 22% 52%;
+  --chip-muted-border: 38 12% 70%;
+  --chip-muted-text: 54 28% 92%;
+  --chip-active-background: 80 29% 67%;
+  --chip-active-border: 86 19% 48%;
+  --chip-active-text: 104 24% 18%;
+  --chip-warning-background: 48 34% 67%;
+  --chip-warning-border: 42 22% 50%;
+  --chip-warning-text: 38 30% 18%;
+  --chip-selected-background: 102 24% 63%;
+  --chip-selected-border: 104 22% 44%;
+  --chip-selected-text: 104 28% 16%;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+* {
+  border-color: hsl(var(--border-tone));
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at top right, hsl(var(--accent) / 0.1), transparent 26rem),
+    linear-gradient(180deg, hsl(var(--canvas-top)), hsl(var(--canvas-bottom)));
+  color: hsl(var(--text));
+  min-height: 100vh;
+  font-family: var(--font-body), sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: hsl(var(--accent) / 0.22);
+}
+
+a,
+button,
+input,
+select,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+textarea,
+code,
+pre,
+.font-mono {
+  font-family: var(--font-mono), monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display), sans-serif;
+  letter-spacing: -0.02em;
+}
+
+select,
+dialog {
+  color-scheme: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.editorial-copy {
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: hsl(var(--text-muted));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

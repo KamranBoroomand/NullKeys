@@ -1,0 +1,178 @@
+{
+  "packId": "russian:phrase-drills:core",
+  "languageId": "russian",
+  "contentFamilyId": "phrase-drills",
+  "tier": "core",
+  "version": "2026-08-30-curated-corpus-v1",
+  "entryCount": 24,
+  "entries": [
+    {
+      "text": "письмо рядом с синей чашкой",
+      "signature": "адеийкмнопрсчшья",
+      "openingToken": "письмо",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "садовая тропа у старой стены",
+      "signature": "авдейнопрстуыя",
+      "openingToken": "садовая",
+      "tokenCount": 5,
+      "difficultyBand": "foundational"
+    },
+    {
+      "text": "велосипед у зелёных ворот",
+      "signature": "вдеёзилнопрстухы",
+      "openingToken": "велосипед",
+      "tokenCount": 4,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "красный шарф на спинке стула",
+      "signature": "аеийклнпрстуфшы",
+      "openingToken": "красный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "свежий хлеб возле тёплой печи",
+      "signature": "бвеёжзийлопстхч",
+      "openingToken": "свежий",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тихие шаги в верхнем коридоре",
+      "signature": "авгдеикмнортхш",
+      "openingToken": "тихие",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тихий дождь за кухонным окном",
+      "signature": "аджзийкмнотухыь",
+      "openingToken": "тихий",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "зимний свет на пустой скамейке",
+      "signature": "авезийкмнопсту",
+      "openingToken": "зимний",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "серебряный ключ в нижнем ящике",
+      "signature": "бвежийклмнрсчщыюя",
+      "openingToken": "серебряный",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "две книги под настольной лампой",
+      "signature": "авгдеийклмнопсть",
+      "openingToken": "две",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "тёплый свет на деревянном столе",
+      "signature": "авдеёйлмнопрстыя",
+      "openingToken": "тёплый",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "узкая улица в спокойных сумерках",
+      "signature": "авезийклмнопрсухцыя",
+      "openingToken": "узкая",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "яркие листья после летнего дождя",
+      "signature": "гдежиклнопрстья",
+      "openingToken": "яркие",
+      "tokenCount": 5,
+      "difficultyBand": "developing"
+    },
+    {
+      "text": "полевые цветы возле старой дороги",
+      "signature": "авгдезийлопрстцы",
+      "openingToken": "полевые",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "последний поезд за длинным мостом",
+      "signature": "адезийлмнопсты",
+      "openingToken": "последний",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "утренний воздух из открытой двери",
+      "signature": "вдезийкнортухы",
+      "openingToken": "утренний",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "бумажная карта на длинном прилавке",
+      "signature": "абвдежиклмнопртуя",
+      "openingToken": "бумажная",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "низкие облака над дальними холмами",
+      "signature": "абдезиклмнохь",
+      "openingToken": "низкие",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "далёкий звон над городской площадью",
+      "signature": "авгдёзийклнопрсщью",
+      "openingToken": "далёкий",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "маленькая лодка у каменного причала",
+      "signature": "агдеиклмнопручья",
+      "openingToken": "маленькая",
+      "tokenCount": 5,
+      "difficultyBand": "fluent"
+    },
+    {
+      "text": "вечерние тени под высокими деревьями",
+      "signature": "вдеикмнопрстчыья",
+      "openingToken": "вечерние",
+      "tokenCount": 5,
+      "difficultyBand": "advanced"
+    },
+    {
+      "text": "прозрачная вода среди гладких камней",
+      "signature": "авгдезийклмнопрсхчя",
+      "openingToken": "прозрачная",
+      "tokenCount": 5,
+      "difficultyBand": "advanced"
+    },
+    {
+      "text": "спокойные волны вдоль песчаного берега",
+      "signature": "абвгдейклнопрсчыь",
+      "openingToken": "спокойные",
+      "tokenCount": 5,
+      "difficultyBand": "advanced"
+    },
+    {
+      "text": "прохладная веранда перед полуднем",
+      "signature": "авделмнопрухя",
+      "openingToken": "прохладная",
+      "tokenCount": 4,
+      "difficultyBand": "expert-control"
+    }
+  ]
+}

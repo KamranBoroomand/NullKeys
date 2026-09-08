@@ -1,0 +1,781 @@
+{
+  "packId": "english:common-words:core",
+  "languageId": "english",
+  "contentFamilyId": "common-words",
+  "tier": "core",
+  "version": "2026-08-30-curated-corpus-v1",
+  "entryCount": 153,
+  "stages": {
+    "foundational": [
+      {
+        "token": "air",
+        "signature": "air",
+        "length": 3
+      },
+      {
+        "token": "area",
+        "signature": "aer",
+        "length": 4
+      },
+      {
+        "token": "arise",
+        "signature": "aeirs",
+        "length": 5
+      },
+      {
+        "token": "artist",
+        "signature": "airst",
+        "length": 6
+      },
+      {
+        "token": "assist",
+        "signature": "aist",
+        "length": 6
+      },
+      {
+        "token": "east",
+        "signature": "aest",
+        "length": 4
+      },
+      {
+        "token": "enter",
+        "signature": "enrt",
+        "length": 5
+      },
+      {
+        "token": "entire",
+        "signature": "einrt",
+        "length": 6
+      },
+      {
+        "token": "learn",
+        "signature": "aelnr",
+        "length": 5
+      },
+      {
+        "token": "learner",
+        "signature": "aelnr",
+        "length": 7
+      },
+      {
+        "token": "letter",
+        "signature": "elrt",
+        "length": 6
+      },
+      {
+        "token": "linear",
+        "signature": "aeilnr",
+        "length": 6
+      },
+      {
+        "token": "listen",
+        "signature": "eilnst",
+        "length": 6
+      },
+      {
+        "token": "near",
+        "signature": "aenr",
+        "length": 4
+      },
+      {
+        "token": "real",
+        "signature": "aelr",
+        "length": 4
+      },
+      {
+        "token": "reason",
+        "signature": "aenors",
+        "length": 6
+      },
+      {
+        "token": "reset",
+        "signature": "erst",
+        "length": 5
+      },
+      {
+        "token": "retain",
+        "signature": "aeinrt",
+        "length": 6
+      },
+      {
+        "token": "sailor",
+        "signature": "ailors",
+        "length": 6
+      },
+      {
+        "token": "salt",
+        "signature": "alst",
+        "length": 4
+      },
+      {
+        "token": "seat",
+        "signature": "aest",
+        "length": 4
+      },
+      {
+        "token": "sister",
+        "signature": "eirst",
+        "length": 6
+      },
+      {
+        "token": "star",
+        "signature": "arst",
+        "length": 4
+      },
+      {
+        "token": "start",
+        "signature": "arst",
+        "length": 5
+      },
+      {
+        "token": "state",
+        "signature": "aest",
+        "length": 5
+      },
+      {
+        "token": "still",
+        "signature": "ilst",
+        "length": 5
+      },
+      {
+        "token": "street",
+        "signature": "erst",
+        "length": 6
+      },
+      {
+        "token": "tailor",
+        "signature": "ailort",
+        "length": 6
+      },
+      {
+        "token": "talent",
+        "signature": "aelnt",
+        "length": 6
+      },
+      {
+        "token": "train",
+        "signature": "ainrt",
+        "length": 5
+      },
+      {
+        "token": "trail",
+        "signature": "ailrt",
+        "length": 5
+      },
+      {
+        "token": "tree",
+        "signature": "ert",
+        "length": 4
+      },
+      {
+        "token": "clear",
+        "signature": "acelr",
+        "length": 5
+      },
+      {
+        "token": "calm",
+        "signature": "aclm",
+        "length": 4
+      },
+      {
+        "token": "close",
+        "signature": "celos",
+        "length": 5
+      },
+      {
+        "token": "direct",
+        "signature": "cdeirt",
+        "length": 6
+      },
+      {
+        "token": "easier",
+        "signature": "aeirs",
+        "length": 6
+      },
+      {
+        "token": "listenable",
+        "signature": "abeilnst",
+        "length": 10
+      },
+      {
+        "token": "read",
+        "signature": "ader",
+        "length": 4
+      },
+      {
+        "token": "reader",
+        "signature": "ader",
+        "length": 6
+      },
+      {
+        "token": "steady",
+        "signature": "adesty",
+        "length": 6
+      },
+      {
+        "token": "settle",
+        "signature": "elst",
+        "length": 6
+      },
+      {
+        "token": "simple",
+        "signature": "eilmps",
+        "length": 6
+      },
+      {
+        "token": "sound",
+        "signature": "dnosu",
+        "length": 5
+      },
+      {
+        "token": "startle",
+        "signature": "aelrst",
+        "length": 7
+      },
+      {
+        "token": "stillness",
+        "signature": "eilnst",
+        "length": 9
+      },
+      {
+        "token": "book",
+        "signature": "bko",
+        "length": 4
+      },
+      {
+        "token": "bridge",
+        "signature": "bdegir",
+        "length": 6
+      },
+      {
+        "token": "chair",
+        "signature": "achir",
+        "length": 5
+      },
+      {
+        "token": "day",
+        "signature": "ady",
+        "length": 3
+      },
+      {
+        "token": "door",
+        "signature": "dor",
+        "length": 4
+      },
+      {
+        "token": "field",
+        "signature": "defil",
+        "length": 5
+      },
+      {
+        "token": "hill",
+        "signature": "hil",
+        "length": 4
+      },
+      {
+        "token": "night",
+        "signature": "ghint",
+        "length": 5
+      },
+      {
+        "token": "river",
+        "signature": "eirv",
+        "length": 5
+      },
+      {
+        "token": "road",
+        "signature": "ador",
+        "length": 4
+      },
+      {
+        "token": "room",
+        "signature": "mor",
+        "length": 4
+      },
+      {
+        "token": "table",
+        "signature": "abelt",
+        "length": 5
+      },
+      {
+        "token": "rain",
+        "signature": "ainr",
+        "length": 4
+      },
+      {
+        "token": "focus",
+        "signature": "cfosu",
+        "length": 5
+      },
+      {
+        "token": "paper",
+        "signature": "aepr",
+        "length": 5
+      },
+      {
+        "token": "quiet",
+        "signature": "eiqtu",
+        "length": 5
+      },
+      {
+        "token": "lesson",
+        "signature": "elnos",
+        "length": 6
+      },
+      {
+        "token": "rhythm",
+        "signature": "hmrty",
+        "length": 6
+      },
+      {
+        "token": "review",
+        "signature": "eirvw",
+        "length": 6
+      },
+      {
+        "token": "timing",
+        "signature": "gimnt",
+        "length": 6
+      },
+      {
+        "token": "unlock",
+        "signature": "cklnou",
+        "length": 6
+      },
+      {
+        "token": "clause",
+        "signature": "acelsu",
+        "length": 6
+      },
+      {
+        "token": "pacing",
+        "signature": "acginp",
+        "length": 6
+      },
+      {
+        "token": "window",
+        "signature": "dinow",
+        "length": 6
+      },
+      {
+        "token": "garden",
+        "signature": "adegnr",
+        "length": 6
+      },
+      {
+        "token": "kettle",
+        "signature": "eklt",
+        "length": 6
+      },
+      {
+        "token": "shadow",
+        "signature": "adhosw",
+        "length": 6
+      }
+    ],
+    "developing": [
+      {
+        "token": "balance",
+        "signature": "abceln",
+        "length": 7
+      },
+      {
+        "token": "contrast",
+        "signature": "acnorst",
+        "length": 8
+      },
+      {
+        "token": "control",
+        "signature": "clnort",
+        "length": 7
+      },
+      {
+        "token": "crafted",
+        "signature": "acdefrt",
+        "length": 7
+      },
+      {
+        "token": "detail",
+        "signature": "adeilt",
+        "length": 6
+      },
+      {
+        "token": "durable",
+        "signature": "abdelru",
+        "length": 7
+      },
+      {
+        "token": "guided",
+        "signature": "degiu",
+        "length": 6
+      },
+      {
+        "token": "passage",
+        "signature": "aegps",
+        "length": 7
+      },
+      {
+        "token": "preview",
+        "signature": "eiprvw",
+        "length": 7
+      },
+      {
+        "token": "readable",
+        "signature": "abdelr",
+        "length": 8
+      },
+      {
+        "token": "recovery",
+        "signature": "ceorvy",
+        "length": 8
+      },
+      {
+        "token": "signal",
+        "signature": "agilns",
+        "length": 6
+      },
+      {
+        "token": "spacing",
+        "signature": "acginps",
+        "length": 7
+      },
+      {
+        "token": "steadying",
+        "signature": "adeginsty",
+        "length": 9
+      },
+      {
+        "token": "structure",
+        "signature": "cerstu",
+        "length": 9
+      },
+      {
+        "token": "support",
+        "signature": "oprstu",
+        "length": 7
+      },
+      {
+        "token": "teacher",
+        "signature": "acehrt",
+        "length": 7
+      },
+      {
+        "token": "transition",
+        "signature": "ainorst",
+        "length": 10
+      },
+      {
+        "token": "variety",
+        "signature": "aeirtvy",
+        "length": 7
+      },
+      {
+        "token": "wording",
+        "signature": "dginorw",
+        "length": 7
+      },
+      {
+        "token": "workflow",
+        "signature": "fklorw",
+        "length": 8
+      },
+      {
+        "token": "journey",
+        "signature": "ejnoruy",
+        "length": 7
+      },
+      {
+        "token": "kitchen",
+        "signature": "cehiknt",
+        "length": 7
+      },
+      {
+        "token": "market",
+        "signature": "aekmrt",
+        "length": 6
+      },
+      {
+        "token": "station",
+        "signature": "ainost",
+        "length": 7
+      },
+      {
+        "token": "village",
+        "signature": "aegilv",
+        "length": 7
+      },
+      {
+        "token": "weather",
+        "signature": "aehrtw",
+        "length": 7
+      },
+      {
+        "token": "accuracy",
+        "signature": "acruy",
+        "length": 8
+      },
+      {
+        "token": "adaptive",
+        "signature": "adeiptv",
+        "length": 8
+      },
+      {
+        "token": "benchmark",
+        "signature": "abcehkmnr",
+        "length": 9
+      },
+      {
+        "token": "cadence",
+        "signature": "acden",
+        "length": 7
+      },
+      {
+        "token": "clarity",
+        "signature": "acilrty",
+        "length": 7
+      },
+      {
+        "token": "cluster",
+        "signature": "celrstu",
+        "length": 7
+      },
+      {
+        "token": "confidence",
+        "signature": "cdefino",
+        "length": 10
+      },
+      {
+        "token": "cooldown",
+        "signature": "cdlnow",
+        "length": 8
+      },
+      {
+        "token": "fluency",
+        "signature": "ceflnuy",
+        "length": 7
+      },
+      {
+        "token": "hesitation",
+        "signature": "aehinost",
+        "length": 10
+      },
+      {
+        "token": "keyboard",
+        "signature": "abdekory",
+        "length": 8
+      },
+      {
+        "token": "mastery",
+        "signature": "aemrsty",
+        "length": 7
+      },
+      {
+        "token": "naturalness",
+        "signature": "aelnrstu",
+        "length": 11
+      },
+      {
+        "token": "novelty",
+        "signature": "elnotvy",
+        "length": 7
+      },
+      {
+        "token": "patience",
+        "signature": "aceinpt",
+        "length": 8
+      },
+      {
+        "token": "planner",
+        "signature": "aelnpr",
+        "length": 7
+      },
+      {
+        "token": "posture",
+        "signature": "eoprstu",
+        "length": 7
+      },
+      {
+        "token": "practice",
+        "signature": "aceiprt",
+        "length": 8
+      },
+      {
+        "token": "punctuation",
+        "signature": "acinoptu",
+        "length": 11
+      },
+      {
+        "token": "repetition",
+        "signature": "einoprt",
+        "length": 10
+      },
+      {
+        "token": "stability",
+        "signature": "abilsty",
+        "length": 9
+      },
+      {
+        "token": "teacherly",
+        "signature": "acehlrty",
+        "length": 9
+      },
+      {
+        "token": "variation",
+        "signature": "ainortv",
+        "length": 9
+      },
+      {
+        "token": "breadth",
+        "signature": "abdehrt",
+        "length": 7
+      },
+      {
+        "token": "coherence",
+        "signature": "cehnor",
+        "length": 9
+      },
+      {
+        "token": "editorial",
+        "signature": "adeilort",
+        "length": 9
+      },
+      {
+        "token": "fluency-guided",
+        "signature": "-cdefgilnuy",
+        "length": 14
+      },
+      {
+        "token": "language-aware",
+        "signature": "-aeglnruw",
+        "length": 14
+      },
+      {
+        "token": "learner-facing",
+        "signature": "-acefgilnr",
+        "length": 14
+      },
+      {
+        "token": "modulation",
+        "signature": "adilmnotu",
+        "length": 10
+      },
+      {
+        "token": "passagework",
+        "signature": "aegkoprsw",
+        "length": 11
+      },
+      {
+        "token": "progression",
+        "signature": "eginoprs",
+        "length": 11
+      },
+      {
+        "token": "realism",
+        "signature": "aeilmrs",
+        "length": 7
+      },
+      {
+        "token": "scaffold",
+        "signature": "acdflos",
+        "length": 8
+      },
+      {
+        "token": "sentence-shaped",
+        "signature": "-acdehnpst",
+        "length": 15
+      },
+      {
+        "token": "stagecraft",
+        "signature": "acefgrst",
+        "length": 10
+      },
+      {
+        "token": "teacherlike",
+        "signature": "acehiklrt",
+        "length": 11
+      }
+    ],
+    "advanced": [
+      {
+        "token": "adaptability",
+        "signature": "abdilpty",
+        "length": 12
+      },
+      {
+        "token": "articulation",
+        "signature": "acilnortu",
+        "length": 12
+      },
+      {
+        "token": "calibration",
+        "signature": "abcilnort",
+        "length": 11
+      },
+      {
+        "token": "complexity",
+        "signature": "ceilmoptxy",
+        "length": 10
+      },
+      {
+        "token": "expressiveness",
+        "signature": "einprsvx",
+        "length": 14
+      },
+      {
+        "token": "readability",
+        "signature": "abdeilrty",
+        "length": 11
+      },
+      {
+        "token": "reinforcement",
+        "signature": "cefimnort",
+        "length": 13
+      },
+      {
+        "token": "sophistication",
+        "signature": "achinopst",
+        "length": 14
+      },
+      {
+        "token": "structure-aware",
+        "signature": "-acerstuw",
+        "length": 15
+      },
+      {
+        "token": "transition-rich",
+        "signature": "-achinorst",
+        "length": 15
+      },
+      {
+        "token": "variety-first",
+        "signature": "-aefirstvy",
+        "length": 13
+      },
+      {
+        "token": "vocabulary",
+        "signature": "abcloruvy",
+        "length": 10
+      },
+      {
+        "token": "morning",
+        "signature": "gimnor",
+        "length": 7
+      },
+      {
+        "token": "doorway",
+        "signature": "adorwy",
+        "length": 7
+      },
+      {
+        "token": "lantern",
+        "signature": "aelnrt",
+        "length": 7
+      },
+      {
+        "token": "hallway",
+        "signature": "ahlwy",
+        "length": 7
+      }
+    ]
+  }
+}
